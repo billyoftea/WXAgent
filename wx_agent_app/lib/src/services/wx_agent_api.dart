@@ -102,17 +102,30 @@ class WxAgentApiClient {
     String? summaryPrompt,
     List<String>? sessions,
   }) async {
+    final sanitizedQuestions = questions
+        ?.map((q) => q.trim())
+        .where((q) => q.isNotEmpty)
+        .toList();
+    final sanitizedSessions = sessions
+        ?.map((s) => s.trim())
+        .where((s) => s.isNotEmpty)
+        .toList();
+    final body = <String, dynamic>{
+      'start_date': startDate,
+      'end_date': endDate,
+      'incremental': incremental,
+      'save_markdown': saveMarkdown,
+      'summary_prompt': summaryPrompt,
+    };
+    if (sanitizedQuestions != null && sanitizedQuestions.isNotEmpty) {
+      body['questions'] = sanitizedQuestions;
+    }
+    if (sanitizedSessions != null && sanitizedSessions.isNotEmpty) {
+      body['sessions'] = sanitizedSessions;
+    }
     final response = await post(
       '/summary/run',
-      body: {
-        'start_date': startDate,
-        'end_date': endDate,
-        'incremental': incremental,
-        'questions': questions ?? const [],
-        'save_markdown': saveMarkdown,
-        'summary_prompt': summaryPrompt,
-        'sessions': sessions,
-      },
+      body: body,
     );
     return SummaryRunResult.fromJson(response);
   }

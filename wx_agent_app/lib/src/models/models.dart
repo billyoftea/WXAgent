@@ -41,6 +41,7 @@ class SessionMeta {
     this.lastTimestamp,
     this.sentMessages,
     this.receivedMessages,
+    this.participants,
   });
 
   factory SessionMeta.fromJson(Map<String, dynamic> json) {
@@ -66,6 +67,9 @@ class SessionMeta {
       lastTimestamp: _asNullableString(json['last_timestamp']),
       sentMessages: _toInt(json['sent_messages']),
       receivedMessages: _toInt(json['received_messages']),
+      participants: (json['participants'] as List?)
+          ?.map((item) => (item as Map).cast<String, dynamic>())
+          .toList(),
     );
   }
 
@@ -84,6 +88,7 @@ class SessionMeta {
   final String? lastTimestamp;
   final int? sentMessages;
   final int? receivedMessages;
+  final List<Map<String, dynamic>>? participants;
 }
 
 class AnalysisResult {
@@ -94,6 +99,7 @@ class AnalysisResult {
     required this.sessionCount,
     this.windowStart,
     this.windowEnd,
+    this.hourlyDistribution = const [],
   });
 
   factory AnalysisResult.fromJson(Map<String, dynamic> json) {
@@ -111,6 +117,9 @@ class AnalysisResult {
       sessionCount: _toInt(json['session_count']) ?? topList.length,
       windowStart: window['start'] as String?,
       windowEnd: window['end'] as String?,
+      hourlyDistribution: (json['hourly_distribution'] as List? ?? const [])
+          .map((e) => _toInt(e) ?? 0)
+          .toList(),
     );
   }
 
@@ -120,6 +129,7 @@ class AnalysisResult {
   final int sessionCount;
   final String? windowStart;
   final String? windowEnd;
+  final List<int> hourlyDistribution;
 }
 
 class SummaryHistoryEntry {
@@ -182,6 +192,7 @@ class SummaryRunResult {
           (json['summary_file'] ??
                   json['summary_output'] ??
                   json['output_path'] ??
+                  json['output'] ??
                   json['path'])
               as String?,
       durationSeconds: _toInt(json['duration']) ?? 0,

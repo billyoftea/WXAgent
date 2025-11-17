@@ -319,7 +319,21 @@ class EchoTraceBridge:
         if extra_args:
 
             args.extend(extra_args)
-            completed = subprocess.run(args,cwd=self.command_spec.cwd,env=self.command_spec.env or None,check=False,creationflags=CREATE_NO_WINDOW if silent and WINDOWS else 0,)
+
+        completed = subprocess.run(
+
+            args,
+
+            cwd=self.command_spec.cwd,
+
+            env=self.command_spec.env or None,
+
+            check=False,
+
+            creationflags=CREATE_NO_WINDOW if silent and WINDOWS else 0,
+
+        )
+
         return completed.returncode == 0
 
 
@@ -828,10 +842,10 @@ class WxAgentPipeline:
             time.sleep(max(1, poll_interval))
             payload = self.key_bridge.load_keys()
             if payload.db_key:
-                print("�?已检测到新的数据库密钥�?)
+                print("✅ 已检测到新的数据库密钥")
                 return payload
 
-        raise RuntimeError("等待 wx_key 写出密钥超时，请确认操作完成后再重试�?)
+        raise RuntimeError("等待 wx_key 写出密钥超时，请确认操作完成后再重试�?")
 
     def trigger_export(
         self,
@@ -848,7 +862,7 @@ class WxAgentPipeline:
     ):
         cmd = self.config.wx_key_command.as_subprocess()
         if not cmd:
-            raise RuntimeError("未配�?wx_key 可执行文件路径，请在 config.json 中填�?wx_key_command.path�?)
+            raise RuntimeError("未配�?wx_key 可执行文件路径，请在 config.json 中填�?wx_key_command.path�?")
         args = list(cmd)
         if extra_args:
             args.extend(extra_args)
@@ -877,6 +891,8 @@ class WxAgentPipeline:
         start_dt = _normalize_date(start_date) if start_date else None
         end_dt = _normalize_date(end_date) if end_date else None
 
+        allowed_sessions = [item for item in sessions if item] if sessions else None
+
         dataset, stats = self.dataset_builder.build(
 
             start_dt,
@@ -885,13 +901,13 @@ class WxAgentPipeline:
 
             incremental=incremental,
 
-            allowed_sessions=sessions,
+            allowed_sessions=allowed_sessions,
 
         )
 
         if not dataset:
 
-            return {"summary": "未找到符合条件的聊天记录�?, "stats": stats}
+            return {"summary": "未找到符合条件的聊天记录�?", "stats": stats}
 
         summary_engine = (
 
@@ -932,13 +948,20 @@ class WxAgentPipeline:
 
         self.state.save()
 
+        output_str = str(output_path) if output_path else None
+
+        history_str = str(history_path) if history_path else None
+
         return {
             "summary": summary_text,
             "stats": stats,
             "meta": meta,
             "qa": qa_results,
-            "output": str(output_path) if output_path else None,
-            "history_file": str(history_path) if history_path else None,
+            "output": output_str,
+            "summary_file": output_str,
+            "summary_output": output_str,
+            "output_path": output_str,
+            "history_file": history_str,
         }
 
     def _write_markdown(
@@ -971,7 +994,7 @@ class WxAgentPipeline:
 
                 stats_lines.append(
 
-                    f"- {item['display_name']}：新�?{item['messages']} 条（最后时间戳 {item['last_timestamp']}�?
+                    f"- {item['display_name']}：新�?{item['messages']} 条（最后时间戳 {item['last_timestamp']}�?"
 
                 )
 
@@ -997,13 +1020,17 @@ class WxAgentPipeline:
 
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
+        range_label = _safe_filename(start_label or "begin", end_label or "end")
+
+        suffix = f"{timestamp}_{range_label}" if range_label else timestamp
+
         if base_path.suffix:
 
-            output_path = base_path.with_name(f"{base_path.stem}_{timestamp}{base_path.suffix}")
+            output_path = base_path.with_name(f"{base_path.stem}_{suffix}{base_path.suffix}")
 
         else:
 
-            output_path = base_path / f"summary_{timestamp}.md"
+            output_path = base_path / f"summary_{suffix}.md"
 
         output_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -1416,9 +1443,30 @@ class WxAgentPipeline:
             except Exception as exc:
                 return False, str(exc)
 
+            error_payload = None
+            try:
+                parsed_body = response.json()
+            except Exception:
+                parsed_body = None
+
             if response.status_code < 400:
-                return True, f"已连�?{self.llm_config.model}"
-            error_text = (response.text or response.reason or "请求失败").replace("\n", " ").strip()
+                if isinstance(parsed_body, dict):
+                    error_payload = parsed_body.get("error")
+                    if not error_payload and parsed_body.get("success") is False:
+                        error_payload = parsed_body
+                if not error_payload:
+                    return True, f"已连接{self.llm_config.model}"
+
+            error_text = ""
+            if error_payload:
+                if isinstance(error_payload, dict):
+                    message = error_payload.get("message") or error_payload.get("msg") or str(error_payload)
+                else:
+                    message = str(error_payload)
+                error_text = message
+            if not error_text:
+                error_text = (response.text or response.reason or "请求失败")
+            error_text = error_text.replace("\n", " ").strip()
             if len(error_text) > 200:
                 error_text = error_text[:200] + "..."
             return False, f"{response.status_code}: {error_text}"

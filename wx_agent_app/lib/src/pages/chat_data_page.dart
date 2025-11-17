@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'dart:io';
 
+import 'package:echotrace/embed.dart';
 import 'package:file_selector/file_selector.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
@@ -166,54 +167,6 @@ class _ChatDataPageState extends State<ChatDataPage> {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(content: Text('Updated $field')),
       );
-    } catch (err) {
-      _safeSetState(() {
-        _error = err.toString();
-      });
-    } finally {
-      _safeSetState(() {
-        _actionLoading = false;
-      });
-    }
-  }
-
-  Future<void> _triggerExport() async {
-    _safeSetState(() {
-      _actionLoading = true;
-      _error = null;
-    });
-    try {
-      final ok = await widget.controller.api.triggerExport(silent: true);
-      if (!mounted) return;
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          content: Text(ok ? 'Incremental export triggered' : 'Export failed'),
-        ),
-      );
-      await _loadData();
-    } catch (err) {
-      _safeSetState(() {
-        _error = err.toString();
-      });
-    } finally {
-      _safeSetState(() {
-        _actionLoading = false;
-      });
-    }
-  }
-
-  Future<void> _runFullRefresh() async {
-    _safeSetState(() {
-      _actionLoading = true;
-      _error = null;
-    });
-    try {
-      await widget.controller.api.runFullRefresh(autoLaunchKey: true);
-      if (!mounted) return;
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('Full refresh (key + export) finished')),
-      );
-      await _loadData();
     } catch (err) {
       _safeSetState(() {
         _error = err.toString();
@@ -632,32 +585,34 @@ class _ChatDataPageState extends State<ChatDataPage> {
                 Text(_error!, style: const TextStyle(color: Colors.redAccent)),
               ],
               const SizedBox(height: 12),
-              Wrap(
-                spacing: 12,
-                runSpacing: 12,
-                children: [
-                  ElevatedButton.icon(
-                    onPressed: _actionLoading ? null : _triggerExport,
-                    icon: _actionLoading
-                        ? const SizedBox(
-                            width: 18,
-                            height: 18,
-                            child: CircularProgressIndicator(
-                              strokeWidth: 2,
-                              valueColor: AlwaysStoppedAnimation(Colors.white),
-                            ),
-                          )
-                        : const Icon(Icons.play_circle_fill_rounded),
-                    label: const Text('增量导出 / 解密'),
-                  ),
-                  OutlinedButton.icon(
-                    onPressed: _actionLoading ? null : _runFullRefresh,
-                    icon: const Icon(Icons.auto_mode_rounded),
-                    label: const Text('一键刷新（密钥 + 导出）'),
-                  ),
-                ],
+              Text(
+                '导出操作请在下方“WXAgent 内置导出器”中完成，执行完毕后点击“刷新状态”同步结果。',
+                style: TextStyle(color: Colors.grey.shade600),
               ),
             ],
+          ),
+        ),
+        SectionCard(
+          title: 'WXAgent 内置导出器',
+          subtitle: 'Flutter 重写的聊天导出模块，直接内嵌在 WXAgent，无需额外启动 exe。',
+          child: SizedBox(
+            height: 680,
+            child: ClipRRect(
+              borderRadius: BorderRadius.circular(16),
+              child: DecoratedBox(
+                decoration: BoxDecoration(
+                  border: Border.all(color: Colors.grey.shade300),
+                  borderRadius: BorderRadius.circular(16),
+                ),
+                child: EchoTraceEmbeddedView(
+                  branding: const EchoTraceBrandingData(
+                    productName: 'WXAgent 数据工坊',
+                    tagline: '内置微信聊天导出引擎',
+                    showVersionBadge: false,
+                  ),
+                ),
+              ),
+            ),
           ),
         ),
         SectionCard(
@@ -667,7 +622,7 @@ class _ChatDataPageState extends State<ChatDataPage> {
         ),
         SectionCard(
           title: '会话筛选与自定义导出',
-          subtitle: '在 WXAgent 中直接完成会话筛选、时间过滤和导出格式选择，无需再启动 echotrace 客户端。',
+          subtitle: '在 WXAgent 中直接完成会话筛选、时间过滤和导出格式选择，无需再切换其他应用。',
           child: _buildManualExportPanel(),
         ),
       ],

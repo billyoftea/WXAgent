@@ -1,3 +1,5 @@
+import 'dart:math' as math;
+
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
@@ -93,7 +95,7 @@ class _AnalysisPageState extends State<AnalysisPage> {
       children: [
         SectionCard(
           title: '统计筛选条件',
-          subtitle: '选择分析时间范围、会话类别以及 Top N 数量，支持全量或增量导出后的数据集。',
+          subtitle: '选择分析时间范围、会话类别以及 Top N 数量，支持全量或增量导出的数据集。',
           actions: [
             FilledButton.icon(
               onPressed: _loading ? null : _runAnalysis,
@@ -272,44 +274,80 @@ class _AnalysisResultView extends StatelessWidget {
             ),
           ],
         ),
+        const SizedBox(height: 24),
+        Text(
+          '活跃时间段分布',
+          style: Theme.of(context).textTheme.titleSmall?.copyWith(fontWeight: FontWeight.w600),
+        ),
+        const SizedBox(height: 12),
+        SizedBox(
+          height: 200,
+          child: _HourlyDistributionChart(data: result.hourlyDistribution),
+        ),
         const SizedBox(height: 20),
         Text(
           '高频会话 Top ${result.top.length}',
-          style: Theme.of(
-            context,
-          ).textTheme.titleMedium?.copyWith(fontWeight: FontWeight.w600),
+          style: Theme.of(context).textTheme.titleMedium?.copyWith(fontWeight: FontWeight.w600),
         ),
         const SizedBox(height: 12),
-        _buildTopTable(context),
+        _buildTopTable(),
       ],
     );
   }
 
-  Widget _buildTopTable(BuildContext context) {
+  Widget _buildTopTable() {
     if (result.top.isEmpty) {
-      return const Text('??????????');
+      return const Text('暂无数据');
     }
     return SingleChildScrollView(
       scrollDirection: Axis.horizontal,
       child: DataTable(
         columns: const [
-          DataColumn(label: Text('??')),
-          DataColumn(label: Text('??')),
-          DataColumn(label: Text('????')),
+          DataColumn(label: Text('会话')),
+          DataColumn(label: Text('类别')),
+          DataColumn(label: Text('消息统计')),
+          DataColumn(label: Text('群聊参与度')),
         ],
         rows: result.top.map((item) {
           final category = item.category ?? item.sessionType ?? '--';
-          final bool isPrivate = category == 'single';
+          final categoryLabel = category == 'group'
+              ? '群聊'
+              : category == 'single'
+                  ? '单聊'
+                  : category;
           final sent = item.sentMessages ?? 0;
           final received = item.receivedMessages ?? 0;
-          final messageText = isPrivate
-              ? '${item.messages} ??? $sent / ? $received?'
-              : '${item.messages} ?';
+          final messageText = '${item.messages} 条，发送 $sent / 接收 $received 条';
+          final participants = item.participants ?? const [];
+          final bool isGroup = category == 'group' || item.sessionId.endsWith('@chatroom');
+          Widget participantCell = const Text('--');
+          if (isGroup && participants.isNotEmpty) {
+            final chips = participants.take(5).map((row) {
+              final name = (row['name'] as String?)?.trim();
+              final count = row['messages'] is num ? (row['messages'] as num).toInt() : 0;
+              final ratio = row['ratio'] is num ? (row['ratio'] as num).toDouble() : 0.0;
+              final ratioText = '${(ratio * 100).toStringAsFixed(ratio >= 0.1 ? 1 : 2)}%';
+              final label = '${name?.isEmpty ?? true ? '未命名' : name} $ratioText · $count 条';
+              return Chip(
+                label: Text(label),
+                visualDensity: VisualDensity.compact,
+              );
+            }).toList();
+            participantCell = SizedBox(
+              width: 320,
+              child: Wrap(
+                spacing: 6,
+                runSpacing: 6,
+                children: chips,
+              ),
+            );
+          }
           return DataRow(
             cells: [
               DataCell(Text(item.displayName)),
-              DataCell(Text(category)),
+              DataCell(Text(categoryLabel)),
               DataCell(Text(messageText)),
+              DataCell(participantCell),
             ],
           );
         }).toList(),
@@ -317,7 +355,6 @@ class _AnalysisResultView extends StatelessWidget {
     );
   }
 }
-
 class _StatCard extends StatelessWidget {
   const _StatCard({required this.label, required this.value});
 
@@ -346,6 +383,79 @@ class _StatCard extends StatelessWidget {
           ),
         ],
       ),
+    );
+  }
+}
+
+class _HourlyDistributionChart extends StatelessWidget {
+  const _HourlyDistributionChart({required this.data});
+
+  final List<int> data;
+
+  @override
+  Widget build(BuildContext context) {
+    final normalized = List<int>.generate(24, (index) => index < data.length ? data[index] : 0);
+    final maxValue = normalized.fold<int>(0, (prev, value) => math.max(prev, value));
+    if (maxValue == 0) {
+      return Container(
+        decoration: BoxDecoration(
+          color: Colors.grey.shade100,
+          borderRadius: BorderRadius.circular(12),
+        ),
+        alignment: Alignment.center,
+        child: const Text('暂无活跃数据'),
+      );
+    }
+    return LayoutBuilder(
+      builder: (context, constraints) {
+        final chartHeight = constraints.maxHeight - 28;
+        return Column(
+          children: [
+            SizedBox(
+              height: chartHeight,
+              child: Row(
+                crossAxisAlignment: CrossAxisAlignment.end,
+                children: [
+                  for (var i = 0; i < normalized.length; i++)
+                    Expanded(
+                      child: Column(
+                        mainAxisAlignment: MainAxisAlignment.end,
+                        children: [
+                          if (normalized[i] > 0)
+                            Text(
+                              '${normalized[i]}',
+                              style: const TextStyle(fontSize: 10),
+                            ),
+                          Container(
+                            height: chartHeight * (normalized[i] / maxValue).clamp(0, 1),
+                            margin: const EdgeInsets.symmetric(horizontal: 1),
+                            decoration: BoxDecoration(
+                              color: Theme.of(context).colorScheme.primary.withOpacity(0.75),
+                              borderRadius: const BorderRadius.vertical(top: Radius.circular(4)),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                ],
+              ),
+            ),
+            const SizedBox(height: 4),
+            Row(
+              children: [
+                for (var i = 0; i < normalized.length; i++)
+                  Expanded(
+                    child: Text(
+                      i % 3 == 0 ? '${i.toString().padLeft(2, '0')}时' : '',
+                      style: const TextStyle(fontSize: 10, color: Colors.grey),
+                      textAlign: TextAlign.center,
+                    ),
+                  ),
+              ],
+            ),
+          ],
+        );
+      },
     );
   }
 }

@@ -112,7 +112,7 @@ class SummarizeRequest(BaseModel):
     start_date: Optional[str] = None
     end_date: Optional[str] = None
     incremental: bool = True
-    questions: List[str] = Field(default_factory=list)
+    questions: Optional[List[str]] = None
     save_markdown: bool = True
     summary_prompt: Optional[str] = None
     sessions: Optional[List[str]] = None
@@ -231,14 +231,17 @@ def _register_routes(app: FastAPI, service: PipelineService) -> None:
     @app.post("/summary/run")
     async def run_summary(payload: SummarizeRequest) -> Dict[str, Any]:
         def _runner(pipeline: WxAgentPipeline) -> Dict[str, Any]:
+            sessions = payload.sessions or None
+            if sessions is not None and not any(sessions):
+                sessions = None
             return pipeline.run(
                 start_date=payload.start_date,
                 end_date=payload.end_date,
                 incremental=payload.incremental,
-                questions=payload.questions,
+                questions=payload.questions or [],
                 save_markdown=payload.save_markdown,
                 summary_prompt=payload.summary_prompt,
-                sessions=payload.sessions,
+                sessions=sessions,
             )
 
         return await service.run(_runner)

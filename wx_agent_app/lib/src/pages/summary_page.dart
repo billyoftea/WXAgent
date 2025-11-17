@@ -323,6 +323,11 @@ class _SummaryPageState extends State<SummaryPage> {
                     ),
                 ],
               ),
+              const SizedBox(height: 8),
+              Text(
+                '提示：未选择任何会话时，将默认使用全部会话生成总结。',
+                style: TextStyle(color: Colors.grey.shade600, fontSize: 12),
+              ),
               const SizedBox(height: 16),
               Column(
                 crossAxisAlignment: CrossAxisAlignment.start,

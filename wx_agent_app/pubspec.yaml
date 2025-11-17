@@ -42,6 +42,8 @@ dependencies:
   file_selector: ^1.0.3
   url_launcher: ^6.3.1
   intl: ^0.20.2
+  echotrace:
+    path: ../echotrace
 
 dev_dependencies:
   flutter_test:

@@ -1,0 +1,16 @@
+1.在WXAgent数据工坊中，数据管理和设置页面显示：
+Unsupported operation: Failed to load decrypt.dll
+Attempted locations:
+- go _decrypt.dll: Invalid argument(s): Failed to load dynamic library 'go_decrypt.dll':The specified module could not be found.(error code: 126)
+See also: https://docs.flutter.dev/testing/errors
+
+
+2.聊天记录分析页面：
+HTTP500: Internal Server Error
+[ERROR:flutter/lib/ui/window/platform_configuration.cc(428)] Reported frame time is older than the last one; clamping. 154607906565 < 154607909864 ~= 3299
+[ERROR:flutter/lib/ui/window/platform_configuration.cc(428)] Reported frame time is older than the last one; clamping. 154634431459 < 154634437065 ~= 5606
+
+
+
+
+
