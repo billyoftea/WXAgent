@@ -1,0 +1,81 @@
+{
+  "session": {
+    "wxid": "58141805649@chatroom",
+    "nickname": "25招新｜商业关系协会CRS",
+    "remark": "25招新｜商业关系协会CRS",
+    "displayName": "25招新｜商业关系协会CRS",
+    "type": "群聊",
+    "lastTimestamp": 1762934094
+  },
+  "messages": [
+    {
+      "localId": 1,
+      "createTime": 1762933843,
+      "formattedTime": "2025-11-12 15:50:43",
+      "type": "系统消息",
+      "localType": 10000,
+      "content": "\"头发有油了\"邀请\"头发有油了\"加入了群聊",
+      "isSend": 0,
+      "senderUsername": "58141805649@chatroom",
+      "senderDisplayName": "群成员",
+      "source": "<msgsource>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 2,
+      "createTime": 1762933843,
+      "formattedTime": "2025-11-12 15:50:43",
+      "type": "系统消息",
+      "localType": 10000,
+      "content": "\"头发有油了\"与群里其他人都不是朋友关系，请注意隐私安全",
+      "isSend": 0,
+      "senderUsername": "58141805649@chatroom",
+      "senderDisplayName": "群成员",
+      "source": "<msgsource>\n\t<signature>v1_1HRtMA11</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 3,
+      "createTime": 1762934008,
+      "formattedTime": "2025-11-12 15:53:28",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "兼职 招25位同学，在家在校内在宿舍皆可，日常空闲时间都可以做，修图剪辑加字幕的单子，日常空闲时间都可以做， 小白可带 大佬请不起，多劳多得 每天日结100多 ,有意者+ ",
+      "isSend": 0,
+      "senderUsername": "wxid_2bam8fbbidgz12",
+      "senderDisplayName": "头发有油了",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<alnode>\n\t\t<cf>2</cf>\n\t\t<inlenlist>86</inlenlist>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>211</membercount>\n\t<signature>N0_V1_BnT5AH9C|v1_cZC8ZPWR</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 4,
+      "createTime": 1762934011,
+      "formattedTime": "2025-11-12 15:53:31",
+      "type": "图片消息",
+      "localType": 3,
+      "content": "[图片]",
+      "isSend": 0,
+      "senderUsername": "wxid_2bam8fbbidgz12",
+      "senderDisplayName": "头发有油了",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<sec_msg_node>\n\t\t<uuid>5763fed6f11db849c84715af7f9f493f_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnmidimgurl_size=\"52876\" cdnmidimgurl_pd_pri=\"30\" cdnmidimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>211</membercount>\n\t<signature>N0_V1_JjiWkhn4|v1_GtI7tZOI</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 5,
+      "createTime": 1762934094,
+      "formattedTime": "2025-11-12 15:54:54",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "请不要在群内宣传",
+      "isSend": 0,
+      "senderUsername": "wxid_9dptus1mc4hi12",
+      "senderDisplayName": "CRS 副会 24 企管 叶倩霖",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>209</membercount>\n\t<signature>N0_V1_Sd5b8u1l|v1_P3j6Ezx4</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 5,
+    "firstExportTime": "2025-11-13T00:07:06.269455",
+    "lastExportTime": "2025-11-13T00:07:06.269455",
+    "lastExportedLocalId": 5,
+    "lastExportedTimestamp": 1762934094,
+    "isIncremental": false,
+    "newMessagesCount": 5
+  }
+}

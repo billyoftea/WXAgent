@@ -1,0 +1,57 @@
+{
+  "session": {
+    "wxid": "wxid_tivnm81jxgxr11",
+    "nickname": "Bolin",
+    "remark": "Bolin",
+    "displayName": "Bolin",
+    "type": "私聊",
+    "lastTimestamp": 1762319301
+  },
+  "messages": [
+    {
+      "localId": 3,
+      "createTime": 1762276312,
+      "formattedTime": "2025-11-05 01:11:52",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "Bolin，base 香港 深圳\nBlockFocus BD \n\nCityU\nhttps://x.com/0xBolin123\n很高兴认识您！",
+      "isSend": 0,
+      "senderUsername": "wxid_tivnm81jxgxr11",
+      "senderDisplayName": "Bolin",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<cf>3</cf>\n\t</alnode>\n\t<pua>1</pua>\n\t<signature>N0_V1_WSbsVh5r|v1_nQ9EhAxQ</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 4,
+      "createTime": 1762313937,
+      "formattedTime": "2025-11-05 11:38:57",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "hello，北大汇丰研一 fintech 徐昂，很高兴认识您！请多多指教！",
+      "isSend": 1,
+      "senderUsername": "wxid_t0lk4ald194u22",
+      "senderDisplayName": "徐昂 Ang",
+      "source": "<msgsource><alnode><fr>1</fr></alnode></msgsource>"
+    },
+    {
+      "localId": 5,
+      "createTime": 1762319301,
+      "formattedTime": "2025-11-05 13:08:21",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "幸会",
+      "isSend": 0,
+      "senderUsername": "wxid_tivnm81jxgxr11",
+      "senderDisplayName": "Bolin",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<signature>N0_V1_lhxHaZMm|v1_1xVSv10s</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 3,
+    "firstExportTime": "2025-11-13T00:00:26.995188",
+    "lastExportTime": "2025-11-13T00:00:26.995188",
+    "lastExportedLocalId": 5,
+    "lastExportedTimestamp": 1762319301,
+    "isIncremental": false,
+    "newMessagesCount": 3
+  }
+}

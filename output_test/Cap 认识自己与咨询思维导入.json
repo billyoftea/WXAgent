@@ -1,0 +1,117 @@
+{
+  "session": {
+    "wxid": "44656751150@chatroom",
+    "nickname": "Cap 认识自己与咨询思维导入",
+    "remark": "Cap 认识自己与咨询思维导入",
+    "displayName": "Cap 认识自己与咨询思维导入",
+    "type": "群聊",
+    "lastTimestamp": 1762960967
+  },
+  "messages": [
+    {
+      "localId": 1,
+      "createTime": 1762439633,
+      "formattedTime": "2025-11-06 22:33:53",
+      "type": "系统消息",
+      "localType": 10000,
+      "content": "\"25管理 王振轩\"邀请你和\"林欣宜 25 财新、彭芊韵 25 财新、环能徐子洋\"加入了群聊",
+      "isSend": 0,
+      "senderUsername": "44656751150@chatroom",
+      "senderDisplayName": "群成员",
+      "source": "<msgsource>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 2,
+      "createTime": 1762439633,
+      "formattedTime": "2025-11-06 22:33:53",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "hello大家好～\n很高兴在这里认识彼此，我们将一起合作准备下一次cap的内培[跳跳]\n主题  【认识自己与咨询思维导入】\n时间  【11月20日晚】\n\n我们考试周结束后再开始分工准备，大家看这个时间可以吗@所有人 \n提前给大家一个定心丸，安心复习[嘿哈]",
+      "isSend": 0,
+      "senderUsername": "wxid_ol3zb6jnx3gj22",
+      "senderDisplayName": "25管理 王振轩",
+      "source": "<msgsource>\n\t<atuserlist>notify@all</atuserlist>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>0</silence>\n\t<membercount>5</membercount>\n\t<signature>N0_V1_2IV5KXEl|v1_7prlZwMK</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 3,
+      "createTime": 1762439718,
+      "formattedTime": "2025-11-06 22:35:18",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "okok",
+      "isSend": 0,
+      "senderUsername": "wxid_em6dwlaut2rc12",
+      "senderDisplayName": "彭芊韵 25 财新",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>0</silence>\n\t<membercount>5</membercount>\n\t<signature>N0_V1_VT5o6QS/|v1_2IwVNpQa</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 4,
+      "createTime": 1762439727,
+      "formattedTime": "2025-11-06 22:35:27",
+      "type": "动画表情",
+      "localType": 47,
+      "content": "[动画表情]",
+      "isSend": 1,
+      "senderUsername": "wxid_t0lk4ald194u22",
+      "senderDisplayName": "徐昂 Ang",
+      "source": "<msgsource><alnode><fr>1</fr></alnode></msgsource>"
+    },
+    {
+      "localId": 5,
+      "createTime": 1762439728,
+      "formattedTime": "2025-11-06 22:35:28",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "okok",
+      "isSend": 0,
+      "senderUsername": "wxid_wwvckt2s59kd22",
+      "senderDisplayName": "林欣宜 25 财新",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>0</silence>\n\t<membercount>5</membercount>\n\t<signature>N0_V1_klaeU+34|v1_4oWESu/R</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 6,
+      "createTime": 1762439768,
+      "formattedTime": "2025-11-06 22:36:08",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "OK",
+      "isSend": 0,
+      "senderUsername": "wxid_m4dib8jd5go422",
+      "senderDisplayName": "环能徐子洋",
+      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>0</silence>\n\t<membercount>5</membercount>\n\t<signature>N0_V1_iAhdQ56g|v1_oespYIlh</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 7,
+      "createTime": 1762440181,
+      "formattedTime": "2025-11-06 22:43:01",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "好！",
+      "isSend": 0,
+      "senderUsername": "wxid_ol3zb6jnx3gj22",
+      "senderDisplayName": "25管理 王振轩",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>0</silence>\n\t<membercount>5</membercount>\n\t<signature>N0_V1_VEy2mMWB|v1_FgxPeEtH</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 8,
+      "createTime": 1762960967,
+      "formattedTime": "2025-11-12 23:22:47",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "所以家人们我们这个要怎么分工准备",
+      "isSend": 1,
+      "senderUsername": "wxid_t0lk4ald194u22",
+      "senderDisplayName": "徐昂 Ang",
+      "source": "<msgsource><alnode><fr>1</fr></alnode></msgsource>"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 8,
+    "firstExportTime": "2025-11-12T23:59:38.000621",
+    "lastExportTime": "2025-11-13T00:06:55.806075",
+    "lastExportedLocalId": 8,
+    "lastExportedTimestamp": 1762960967,
+    "isIncremental": true,
+    "newMessagesCount": 1
+  }
+}

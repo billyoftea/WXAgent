@@ -1,0 +1,33 @@
+{
+  "session": {
+    "wxid": "49965071757@chatroom",
+    "nickname": "24清北上岸群@bys",
+    "remark": "24清北上岸群@bys",
+    "displayName": "24清北上岸群@bys",
+    "type": "群聊",
+    "lastTimestamp": 1762763646
+  },
+  "messages": [
+    {
+      "localId": 19,
+      "createTime": 1762763646,
+      "formattedTime": "2025-11-10 16:34:06",
+      "type": "图文消息",
+      "localType": 21474836529,
+      "content": "[图文] 项目实习生招聘-中金公司",
+      "isSend": 0,
+      "senderUsername": "wxid_2j5cqo5kgbtq22",
+      "senderDisplayName": "PIEAK",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>4</fr>\n\t</alnode>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n\t<sec_msg_node>\n\t\t<uuid>545a14f0dd426656e713e6fa3a9dae90_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>486</membercount>\n\t<signature>N0_V1_FeA8IQjb|v1_EAcM6DGA</signature>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 1,
+    "firstExportTime": "2025-11-12T17:27:55.766610",
+    "lastExportTime": "2025-11-13T00:00:11.798685",
+    "lastExportedLocalId": 19,
+    "lastExportedTimestamp": 1762763646,
+    "isIncremental": true,
+    "newMessagesCount": 0
+  }
+}

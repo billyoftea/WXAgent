@@ -1,0 +1,117 @@
+{
+  "session": {
+    "wxid": "57086906517@chatroom",
+    "nickname": "Finternet 大会志愿者",
+    "remark": "Finternet 大会志愿者",
+    "displayName": "Finternet 大会志愿者",
+    "type": "群聊",
+    "lastTimestamp": 1762758133
+  },
+  "messages": [
+    {
+      "localId": 390,
+      "createTime": 1762754099,
+      "formattedTime": "2025-11-10 13:54:59",
+      "type": "系统消息",
+      "localType": 10000,
+      "content": "\"乙基麦芽酚\"邀请\"Blue\"加入了群聊",
+      "isSend": 0,
+      "senderUsername": "57086906517@chatroom",
+      "senderDisplayName": "群成员",
+      "source": "<msgsource>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 391,
+      "createTime": 1762754337,
+      "formattedTime": "2025-11-10 13:58:57",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "hello各位同學，在Fintenet現場註冊OSL帳戶的可以另外獲得188HKD等值BTC的獎勵，這個福利今天還有末班車！請註冊了的同學私信我登記註冊email，一共288+188=476註冊btc福利給到大家，今天5pm前截止。",
+      "isSend": 0,
+      "senderUsername": "wxid_jfwd1momageu12",
+      "senderDisplayName": "Blue",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<alnode>\n\t\t<inlenlist>8</inlenlist>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>48</membercount>\n\t<signature>N0_V1_dKy+mMei|v1_n9ZCC1XU</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 392,
+      "createTime": 1762754347,
+      "formattedTime": "2025-11-10 13:59:07",
+      "type": "图片消息",
+      "localType": 3,
+      "content": "[图片]",
+      "isSend": 0,
+      "senderUsername": "wxid_jfwd1momageu12",
+      "senderDisplayName": "Blue",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<sec_msg_node>\n\t\t<uuid>afd2cc171850d01ab4ce94a83196dea6_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnmidimgurl_size=\"75363\" cdnmidimgurl_pd_pri=\"30\" cdnmidimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>48</membercount>\n\t<signature>N0_V1_AOmHU6N4|v1_KHQMz1B2</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 393,
+      "createTime": 1762757883,
+      "formattedTime": "2025-11-10 14:58:03",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "蛤？",
+      "isSend": 0,
+      "senderUsername": "wxid_v95o74jxtlfq22",
+      "senderDisplayName": "林凡",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>48</membercount>\n\t<signature>N0_V1_6FE54B88|v1_kTEvjcF1</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 394,
+      "createTime": 1762757952,
+      "formattedTime": "2025-11-10 14:59:12",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "这是混返佣来了嘛",
+      "isSend": 0,
+      "senderUsername": "wxid_ohhqtm08h5eh22",
+      "senderDisplayName": "胡星兆",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>48</membercount>\n\t<signature>N0_V1_UM65K5nv|v1_/barfA2j</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 395,
+      "createTime": 1762757984,
+      "formattedTime": "2025-11-10 14:59:44",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "还能这么玩[疑问][疑问][疑问]",
+      "isSend": 0,
+      "senderUsername": "wxid_5mwqxqjlgjtk22",
+      "senderDisplayName": "( ；´Д｀)",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>48</membercount>\n\t<signature>N0_V1_/cjje70u|v1_8OwT6kQJ</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 396,
+      "createTime": 1762758125,
+      "formattedTime": "2025-11-10 15:02:05",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "至今混进主办方可还行",
+      "isSend": 0,
+      "senderUsername": "wxid_v95o74jxtlfq22",
+      "senderDisplayName": "林凡",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>48</membercount>\n\t<signature>N0_V1_eXOgsFQ6|v1_jXB5SbAs</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 397,
+      "createTime": 1762758133,
+      "formattedTime": "2025-11-10 15:02:13",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "*直接",
+      "isSend": 0,
+      "senderUsername": "wxid_v95o74jxtlfq22",
+      "senderDisplayName": "林凡",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>48</membercount>\n\t<signature>N0_V1_gYtsrp3n|v1_BBGFnGZY</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 8,
+    "firstExportTime": "2025-11-12T17:27:56.295004",
+    "lastExportTime": "2025-11-13T00:00:12.156379",
+    "lastExportedLocalId": 397,
+    "lastExportedTimestamp": 1762758133,
+    "isIncremental": true,
+    "newMessagesCount": 0
+  }
+}

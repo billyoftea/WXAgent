@@ -1,0 +1,69 @@
+{
+  "session": {
+    "wxid": "wxid_it62w7yp4dgj11",
+    "nickname": "#记得要回微信",
+    "remark": "CAP副会-24财新赵楚楚",
+    "displayName": "CAP副会-24财新赵楚楚",
+    "type": "私聊",
+    "lastTimestamp": 1762422689
+  },
+  "messages": [
+    {
+      "localId": 20,
+      "createTime": 1762422142,
+      "formattedTime": "2025-11-06 17:42:22",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "楚楚姐 我又要上网球课了",
+      "isSend": 1,
+      "senderUsername": "wxid_t0lk4ald194u22",
+      "senderDisplayName": "徐昂 Ang",
+      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<signature>N0_V1_GYu1jNm/|v1_qfA8ptG4</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 21,
+      "createTime": 1762422144,
+      "formattedTime": "2025-11-06 17:42:24",
+      "type": "动画表情",
+      "localType": 47,
+      "content": "[动画表情]",
+      "isSend": 1,
+      "senderUsername": "wxid_t0lk4ald194u22",
+      "senderDisplayName": "徐昂 Ang",
+      "source": "<msgsource>\n\t<signature>N0_V1_XcnAeYnZ|v1_1CbQisEL</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 22,
+      "createTime": 1762422149,
+      "formattedTime": "2025-11-06 17:42:29",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "可能要七点半左右",
+      "isSend": 1,
+      "senderUsername": "wxid_t0lk4ald194u22",
+      "senderDisplayName": "徐昂 Ang",
+      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<signature>N0_V1_qBY6zYvt|v1_AROAkRmI</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 23,
+      "createTime": 1762422689,
+      "formattedTime": "2025-11-06 17:51:29",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "好滴好滴",
+      "isSend": 0,
+      "senderUsername": "wxid_it62w7yp4dgj11",
+      "senderDisplayName": "CAP副会-24财新赵楚楚",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<signature>N0_V1_1p/uYOi8|v1_MOsZ0avj</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 4,
+    "firstExportTime": "2025-11-13T00:00:14.124166",
+    "lastExportTime": "2025-11-13T00:00:14.124166",
+    "lastExportedLocalId": 23,
+    "lastExportedTimestamp": 1762422689,
+    "isIncremental": false,
+    "newMessagesCount": 4
+  }
+}

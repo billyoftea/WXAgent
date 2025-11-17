@@ -1,0 +1,33 @@
+{
+  "session": {
+    "wxid": "43228242723@chatroom",
+    "nickname": "2025北京大学鲲鹏协会7群",
+    "remark": "2025北京大学鲲鹏协会7群",
+    "displayName": "2025北京大学鲲鹏协会7群",
+    "type": "群聊",
+    "lastTimestamp": 1762753000
+  },
+  "messages": [
+    {
+      "localId": 41,
+      "createTime": 1762753000,
+      "formattedTime": "2025-11-10 13:36:40",
+      "type": "系统消息",
+      "localType": 10000,
+      "content": "\"北大鲲鹏协会\"邀请\"自然选择号\"加入了群聊",
+      "isSend": 0,
+      "senderUsername": "43228242723@chatroom",
+      "senderDisplayName": "群成员",
+      "source": "<msgsource>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 1,
+    "firstExportTime": "2025-11-12T17:27:56.613709",
+    "lastExportTime": "2025-11-13T00:00:12.495328",
+    "lastExportedLocalId": 41,
+    "lastExportedTimestamp": 1762753000,
+    "isIncremental": true,
+    "newMessagesCount": 0
+  }
+}

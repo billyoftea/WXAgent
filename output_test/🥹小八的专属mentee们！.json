@@ -1,0 +1,141 @@
+{
+  "session": {
+    "wxid": "44744547763@chatroom",
+    "nickname": "🥹小八的专属mentee们！",
+    "remark": "🥹小八的专属mentee们！",
+    "displayName": "🥹小八的专属mentee们！",
+    "type": "群聊",
+    "lastTimestamp": 1762775193
+  },
+  "messages": [
+    {
+      "localId": 118,
+      "createTime": 1762769065,
+      "formattedTime": "2025-11-10 18:04:25",
+      "type": "图片消息",
+      "localType": 3,
+      "content": "[图片]",
+      "isSend": 0,
+      "senderUsername": "wxid_1j5h9d7rtxrr22",
+      "senderDisplayName": "何宇淳-24-管理 深港学术副会",
+      "source": "<msgsource>\n\t<sec_msg_node>\n\t\t<uuid>ecc06a292096494429e61d4e47ede87c_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnbigimgurl_size=\"3594337\" cdnbigimgurl_pd_pri=\"30\" cdnbigimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>9</membercount>\n\t<signature>N0_V1_JPfRr5d1|v1_d1RAbmHQ</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 119,
+      "createTime": 1762770354,
+      "formattedTime": "2025-11-10 18:25:54",
+      "type": "引用消息",
+      "localType": 244813135921,
+      "content": "好看但是你没考试的吗",
+      "isSend": 0,
+      "senderUsername": "wxid_6d0uvyosio8122",
+      "senderDisplayName": "沈吉杭",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>ee6dad55471b0394b0646ae5f8f9dab5_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>9</membercount>\n\t<signature>N0_V1_QmaNq2qS|v1_pB59pfB0</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 120,
+      "createTime": 1762770361,
+      "formattedTime": "2025-11-10 18:26:01",
+      "type": "动画表情",
+      "localType": 47,
+      "content": "[动画表情]",
+      "isSend": 0,
+      "senderUsername": "wxid_6d0uvyosio8122",
+      "senderDisplayName": "沈吉杭",
+      "source": "<msgsource>\n\t<silence>1</silence>\n\t<membercount>9</membercount>\n\t<signature>N0_V1_E7ymgwsp|v1_RXEVLgoh</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 121,
+      "createTime": 1762770468,
+      "formattedTime": "2025-11-10 18:27:48",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "我考完啦",
+      "isSend": 0,
+      "senderUsername": "wxid_1j5h9d7rtxrr22",
+      "senderDisplayName": "何宇淳-24-管理 深港学术副会",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>9</membercount>\n\t<signature>N0_V1_udWOs+zO|v1_ouZqbu2m</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 122,
+      "createTime": 1762770470,
+      "formattedTime": "2025-11-10 18:27:50",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "刚考完",
+      "isSend": 0,
+      "senderUsername": "wxid_1j5h9d7rtxrr22",
+      "senderDisplayName": "何宇淳-24-管理 深港学术副会",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>9</membercount>\n\t<signature>N0_V1_dAatGM6k|v1_9sSSh4+4</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 123,
+      "createTime": 1762770488,
+      "formattedTime": "2025-11-10 18:28:08",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "刚把试卷空白填上，虽然不知道对不对",
+      "isSend": 0,
+      "senderUsername": "wxid_1j5h9d7rtxrr22",
+      "senderDisplayName": "何宇淳-24-管理 深港学术副会",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>9</membercount>\n\t<signature>N0_V1_urqZmakB|v1_bYLj9YN3</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 124,
+      "createTime": 1762770491,
+      "formattedTime": "2025-11-10 18:28:11",
+      "type": "动画表情",
+      "localType": 47,
+      "content": "[动画表情]",
+      "isSend": 0,
+      "senderUsername": "wxid_1j5h9d7rtxrr22",
+      "senderDisplayName": "何宇淳-24-管理 深港学术副会",
+      "source": "<msgsource>\n\t<silence>1</silence>\n\t<membercount>9</membercount>\n\t<signature>N0_V1_+VXk4l9S|v1_ITqZWrUr</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 125,
+      "createTime": 1762770585,
+      "formattedTime": "2025-11-10 18:29:45",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "好好好，那你可以去幸福了",
+      "isSend": 0,
+      "senderUsername": "wxid_6d0uvyosio8122",
+      "senderDisplayName": "沈吉杭",
+      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>9</membercount>\n\t<signature>N0_V1_6DbHKCO+|v1_VB8Jzt5g</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 126,
+      "createTime": 1762770588,
+      "formattedTime": "2025-11-10 18:29:48",
+      "type": "动画表情",
+      "localType": 47,
+      "content": "[动画表情]",
+      "isSend": 0,
+      "senderUsername": "wxid_6d0uvyosio8122",
+      "senderDisplayName": "沈吉杭",
+      "source": "<msgsource>\n\t<silence>1</silence>\n\t<membercount>9</membercount>\n\t<signature>N0_V1_ukZWsHsI|v1_8xkZAAW2</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 127,
+      "createTime": 1762775193,
+      "formattedTime": "2025-11-10 19:46:33",
+      "type": "拍一拍消息",
+      "localType": 266287972401,
+      "content": "[拍一拍]",
+      "isSend": 0,
+      "senderUsername": "44744547763@chatroom",
+      "senderDisplayName": "群成员",
+      "source": "<msgsource><tmp_node/></msgsource>"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 10,
+    "firstExportTime": "2025-11-12T17:27:53.686916",
+    "lastExportTime": "2025-11-13T00:00:09.921545",
+    "lastExportedLocalId": 127,
+    "lastExportedTimestamp": 1762775193,
+    "isIncremental": true,
+    "newMessagesCount": 0
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "session": {
+    "wxid": "52370135664@chatroom",
+    "nickname": "北大-燕园5栋-25级（2）",
+    "remark": "北大-燕园5栋-25级（2）",
+    "displayName": "北大-燕园5栋-25级（2）",
+    "type": "群聊",
+    "lastTimestamp": 1762921635
+  },
+  "messages": [
+    {
+      "localId": 123,
+      "createTime": 1762765160,
+      "formattedTime": "2025-11-10 16:59:20",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "有人来组EU5联机群吗（别的P社也都行）",
+      "isSend": 0,
+      "senderUsername": "wxid_dsi6dgksbe5d22",
+      "senderDisplayName": "Optimus.",
+      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>275</membercount>\n\t<signature>N0_V1_rBnCRoR1|v1_JX3TO/07</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 124,
+      "createTime": 1762765283,
+      "formattedTime": "2025-11-10 17:01:23",
+      "type": "图片消息",
+      "localType": 3,
+      "content": "[图片]",
+      "isSend": 0,
+      "senderUsername": "wxid_dsi6dgksbe5d22",
+      "senderDisplayName": "Optimus.",
+      "source": "<msgsource>\n\t<img_file_name>c913a59d-950a-4be4-9df8-bb908016dffe.png</img_file_name>\n\t<alnode>\n\t\t<fr>1</fr>\n\t\t<cf>3</cf>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>5a86569d92b5297962f1a1dbac6c9fb8_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnbigimgurl_size=\"917738\" cdnbigimgurl_pd_pri=\"30\" cdnbigimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>275</membercount>\n\t<signature>N0_V1_N0rUS9P+|v1_39TL48br</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 125,
+      "createTime": 1762921596,
+      "formattedTime": "2025-11-12 12:26:36",
+      "type": "图片消息",
+      "localType": 3,
+      "content": "[图片]",
+      "isSend": 0,
+      "senderUsername": "wxid_h5z1ffl7nwde32",
+      "senderDisplayName": "Aiden",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<sec_msg_node>\n\t\t<uuid>783d62eda38916b754a31c630489aa57_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnbigimgurl_size=\"1300561\" cdnbigimgurl_pd_pri=\"30\" cdnbigimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>275</membercount>\n\t<signature>N0_V1_O8ExJCmY|v1_0wA7xRsf</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 126,
+      "createTime": 1762921635,
+      "formattedTime": "2025-11-12 12:27:15",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "谁的衣服被风吹到我们阳台了 请联系我来拿",
+      "isSend": 0,
+      "senderUsername": "wxid_h5z1ffl7nwde32",
+      "senderDisplayName": "Aiden",
+      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>275</membercount>\n\t<signature>N0_V1_fr7db2HZ|v1_kkTrckgV</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 4,
+    "firstExportTime": "2025-11-12T17:27:55.220403",
+    "lastExportTime": "2025-11-13T00:07:07.849988",
+    "lastExportedLocalId": 126,
+    "lastExportedTimestamp": 1762921635,
+    "isIncremental": true,
+    "newMessagesCount": 2
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "session": {
+    "wxid": "43543239408@chatroom",
+    "nickname": "大学城羽毛球网球🏸",
+    "remark": "大学城羽毛球网球🏸",
+    "displayName": "大学城羽毛球网球🏸",
+    "type": "群聊",
+    "lastTimestamp": 1762576668
+  },
+  "messages": [
+    {
+      "localId": 10,
+      "createTime": 1762576668,
+      "formattedTime": "2025-11-08 12:37:48",
+      "type": "系统消息",
+      "localType": 10000,
+      "content": "\"汇丰财新  郭思琦\"邀请\"土白\"加入了群聊",
+      "isSend": 0,
+      "senderUsername": "43543239408@chatroom",
+      "senderDisplayName": "群成员",
+      "source": "<msgsource>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 1,
+    "firstExportTime": "2025-11-13T00:00:19.283102",
+    "lastExportTime": "2025-11-13T00:00:19.283102",
+    "lastExportedLocalId": 10,
+    "lastExportedTimestamp": 1762576668,
+    "isIncremental": false,
+    "newMessagesCount": 1
+  }
+}

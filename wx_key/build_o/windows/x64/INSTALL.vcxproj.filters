@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lenovo\Desktop\WXAgent\wx_key\build\windows\x64\CMakeFiles\d3b6e235e534458b46e61d13d9d91ef2\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EB2576A7-61D9-35D6-B053-B52B54EAB5A9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

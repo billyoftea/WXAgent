@@ -1,0 +1,69 @@
+{
+  "session": {
+    "wxid": "wxid_50j4nax39ft711",
+    "nickname": "羔羔",
+    "remark": "高紫涵-西南财经大学-数量与金科",
+    "displayName": "高紫涵-西南财经大学-数量与金科",
+    "type": "私聊",
+    "lastTimestamp": 1762314032
+  },
+  "messages": [
+    {
+      "localId": 5,
+      "createTime": 1762313949,
+      "formattedTime": "2025-11-05 11:39:09",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "crs我们是给他们摊位，他们有给我们提供什么嘛",
+      "isSend": 0,
+      "senderUsername": "wxid_50j4nax39ft711",
+      "senderDisplayName": "高紫涵-西南财经大学-数量与金科",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<signature>N0_V1_ggwFy0FE|v1_YCl0zQIs</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 6,
+      "createTime": 1762313979,
+      "formattedTime": "2025-11-05 11:39:39",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "好像并没有，是和往年一样的，他们卖酒，自己买原料自己定价",
+      "isSend": 1,
+      "senderUsername": "wxid_t0lk4ald194u22",
+      "senderDisplayName": "徐昂 Ang",
+      "source": "<msgsource><alnode><fr>1</fr></alnode></msgsource>"
+    },
+    {
+      "localId": 7,
+      "createTime": 1762313994,
+      "formattedTime": "2025-11-05 11:39:54",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "不过按照往年的口径，crs卖酒并不是很赚钱，因为定价低",
+      "isSend": 1,
+      "senderUsername": "wxid_t0lk4ald194u22",
+      "senderDisplayName": "徐昂 Ang",
+      "source": "<msgsource><alnode><fr>1</fr></alnode></msgsource>"
+    },
+    {
+      "localId": 8,
+      "createTime": 1762314032,
+      "formattedTime": "2025-11-05 11:40:32",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "好嘟",
+      "isSend": 0,
+      "senderUsername": "wxid_50j4nax39ft711",
+      "senderDisplayName": "高紫涵-西南财经大学-数量与金科",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<signature>N0_V1_oybhqEXs|v1_xz/VeyFD</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 4,
+    "firstExportTime": "2025-11-13T00:00:27.279715",
+    "lastExportTime": "2025-11-13T00:00:27.279715",
+    "lastExportedLocalId": 8,
+    "lastExportedTimestamp": 1762314032,
+    "isIncremental": false,
+    "newMessagesCount": 4
+  }
+}

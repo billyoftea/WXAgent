@@ -1,0 +1,8 @@
+from pathlib import Path
+text = Path('wx_agent/pipeline.py').read_text(encoding='utf-8')
+start = text.index('        if requests is not None:\r\n')
+end_marker = '            return False, f"{response.status_code}: {error_text}"\r\n'
+end = text.index(end_marker, start) + len(end_marker)
+new_block = """        if requests is not None:\r\n            headers = {\"Content-Type\": \"application/json\"}\r\n            if api_key:\r\n                headers[\"Authorization\"] = f\"Bearer {api_key}\"\r\n\r\n            completion_url = _build_completion_url(base_url)\r\n            payload = {\r\n                \"model\": self.llm_config.model,\r\n                \"messages\": [\r\n                    {\"role\": \"system\", \"content\": \"ping\"},\r\n                    {\"role\": \"user\", \"content\": \"ping\"},\r\n                ],\r\n                \"max_tokens\": 1,\r\n                \"temperature\": 0,\r\n                \"stream\": False,\r\n            }\r\n            try:\r\n                response = requests.post(completion_url, json=payload, headers=headers, timeout=timeout)\r\n            except Exception as exc:\r\n                return False, str(exc)\r\n\r\n            if response.status_code < 400:\r\n                return True, f\"已连通 {self.llm_config.model}\"\r\n            error_text = (response.text or response.reason or \"请求失败\").replace(\"\n\", \" \" ).strip()\r\n            if len(error_text) > 200:\r\n                error_text = error_text[:200] + '...'\r\n            return False, f\"{response.status_code}: {error_text}\"\r\n"""
+text = text[:start] + new_block + text[end:]
+Path('patch_llm_tmp.py').write_text(text, encoding='utf-8')

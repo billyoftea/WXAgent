@@ -1,0 +1,57 @@
+{
+  "session": {
+    "wxid": "38774341768@chatroom",
+    "nickname": "HBDC北京舞友",
+    "remark": "HBDC北京舞友",
+    "displayName": "HBDC北京舞友",
+    "type": "群聊",
+    "lastTimestamp": 1762495947
+  },
+  "messages": [
+    {
+      "localId": 10,
+      "createTime": 1762401340,
+      "formattedTime": "2025-11-06 11:55:40",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "欢迎大家参加水木舞版综合舞会！\n\n时间：11月6日晚上7点到10点\n地点：三环网络科技大厦一层dancelab\n\n舞种：交谊舞，摩登舞，拉丁舞，社交拉丁舞，阿根廷探戈\n\n票价：30元，学生免费",
+      "isSend": 0,
+      "senderUsername": "wxid_qp3t81iszvry22",
+      "senderDisplayName": "Liu Hanwen",
+      "source": "<msgsource>\n\t<pua>1</pua>\n\t<alnode>\n\t\t<cf>2</cf>\n\t\t<inlenlist>96</inlenlist>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>41</membercount>\n\t<signature>N0_V1_hiQZ4Zkl|v1_bbUeMUA2</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 11,
+      "createTime": 1762495947,
+      "formattedTime": "2025-11-07 14:12:27",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "时间：11月8日 19点--21点地点：交通大学南门小树林",
+      "isSend": 0,
+      "senderUsername": "wxid_qp3t81iszvry22",
+      "senderDisplayName": "Liu Hanwen",
+      "source": "<msgsource>\n\t<pua>1</pua>\n\t<alnode>\n\t\t<fr>2</fr>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>41</membercount>\n\t<signature>N0_V1_1dnzuzca|v1_Om3Qxq3W</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 12,
+      "createTime": 1762495947,
+      "formattedTime": "2025-11-07 14:12:27",
+      "type": "图文消息",
+      "localType": 21474836529,
+      "content": "[图文] 秋夜漫舞，赴一场浪漫之约~",
+      "isSend": 0,
+      "senderUsername": "wxid_qp3t81iszvry22",
+      "senderDisplayName": "Liu Hanwen",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>4</fr>\n\t</alnode>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n\t<sec_msg_node>\n\t\t<uuid>d03ba907c79e78385c92d97d2ffc80af_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>41</membercount>\n\t<signature>N0_V1_7u2350ex|v1_kF4VqSTU</signature>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 3,
+    "firstExportTime": "2025-11-13T00:00:21.689237",
+    "lastExportTime": "2025-11-13T00:00:21.689237",
+    "lastExportedLocalId": 12,
+    "lastExportedTimestamp": 1762495947,
+    "isIncremental": false,
+    "newMessagesCount": 3
+  }
+}

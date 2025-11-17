@@ -1,0 +1,69 @@
+{
+  "session": {
+    "wxid": "56819214002@chatroom",
+    "nickname": "CAP 232425 Box",
+    "remark": "CAP 232425 Box",
+    "displayName": "CAP 232425 Box",
+    "type": "群聊",
+    "lastTimestamp": 1762916649
+  },
+  "messages": [
+    {
+      "localId": 3,
+      "createTime": 1762912167,
+      "formattedTime": "2025-11-12 09:49:27",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "请问有学弟学妹今天在学院吗[可怜]求帮忙去114领个表，非常感谢[合十]",
+      "isSend": 0,
+      "senderUsername": "wxid_n6wfv239pb0d21",
+      "senderDisplayName": "Yuge",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<pua>1</pua>\n\t<silence>1</silence>\n\t<membercount>93</membercount>\n\t<signature>N0_V1_5RUoEY1Q|v1_iWg2Jq7Y</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 4,
+      "createTime": 1762912347,
+      "formattedTime": "2025-11-12 09:52:27",
+      "type": "引用消息",
+      "localType": 244813135921,
+      "content": "我会去，大概12点左右可以吗",
+      "isSend": 0,
+      "senderUsername": "slfnglsinh",
+      "senderDisplayName": "赵梓涵-南开大学-西方经济学",
+      "source": "<msgsource>\n\t<sec_msg_node>\n\t\t<uuid>6362a09102602411bdfd176468b82f75_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>93</membercount>\n\t<signature>N0_V1_4pABPY5O|v1_coJQs4Ne</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 5,
+      "createTime": 1762915949,
+      "formattedTime": "2025-11-12 10:52:29",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "已经找到了，谢谢学弟！",
+      "isSend": 0,
+      "senderUsername": "wxid_n6wfv239pb0d21",
+      "senderDisplayName": "Yuge",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<pua>1</pua>\n\t<silence>1</silence>\n\t<membercount>93</membercount>\n\t<signature>N0_V1_C4jdKIHZ|v1_PCDTKbS9</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 6,
+      "createTime": 1762916649,
+      "formattedTime": "2025-11-12 11:04:09",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "slfnglsinh:\n不客气！",
+      "isSend": 0,
+      "senderUsername": "slfnglsinh",
+      "senderDisplayName": "赵梓涵-南开大学-西方经济学",
+      "source": "<msgsource>\n\t<atuserlist><![CDATA[]]></atuserlist>\n\t<silence>1</silence>\n\t<membercount>93</membercount>\n\t<signature>N0_V1_j7KefO12|v1_YjpgHEE2</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 4,
+    "firstExportTime": "2025-11-13T00:07:09.166162",
+    "lastExportTime": "2025-11-13T00:07:09.166162",
+    "lastExportedLocalId": 6,
+    "lastExportedTimestamp": 1762916649,
+    "isIncremental": false,
+    "newMessagesCount": 4
+  }
+}

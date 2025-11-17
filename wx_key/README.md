@@ -1,0 +1,153 @@
+# 微信数据库与图片密钥提取工具
+
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
+[![Flutter](https://img.shields.io/badge/Flutter-3.9.2+-02569B.svg?logo=flutter)](https://flutter.dev)
+
+> **重要声明**: 本项目仅供技术研究和学习使用，严禁用于任何恶意或非法目的。如果这个项目对你有帮助的话，请给我一个Star❤️
+
+
+## 项目简介
+
+本项目是一个在微信4.0及以上版本中获取微信数据库和解密微信缓存图片的密钥的工具
+
+This project is a tool for obtaining WeChat database and decrypting WeChat cache image keys in WeChat 4.1 and above versions
+
+![截图](app.jpg)
+
+## 小提示
+
+大家看看我的这个项目好不好❤️：[EchoTrace - 一个微信聊天记录导出与分析，年度报告应用](https://github.com/ycccccccy/echotrace)
+
+
+## 支持版本
+
+支持所有4.x版本
+
+仅在以下版本测试：
+- 4.1.4.17
+- 4.1.4.15
+- 4.1.2.18
+- 4.1.2.17
+- 4.1.0.30
+- 4.0.5.17
+
+
+
+## 快速开始
+
+1. **下载发布版本**
+   从 Releases 页面下载最新版本的提取工具的压缩包
+
+2. **运行**
+   解压运行压缩包中的wx_key.exe或运行自行编译得到的wx_key.exe
+
+> **注意**：不要把工具文件夹放在任何中文字符的目录下
+
+如果是获取图片密钥建议遵循如下步骤：
+
+1. 微信点击登录（登录后马上执行后续步骤）
+2. 前往朋友圈点开一张之前没有点开过的图片
+3. 回到工具内获取密钥
+
+## 项目架构
+
+### 新架构概述（v2.0 起）
+
+自 v2.0 起，`wx_key` 使用“DLL Hook + Flutter UI”架构：
+
+| 组件 | 作用 |
+| --- | --- |
+| 控制器 DLL（assets/dll/wx_key.dll） | 由 Flutter 进程加载，通过远程内存操作在 WeChat 中安装 Hook |
+| 共享缓冲区 + IPCManager | 传递密钥和状态数据 |
+| Flutter  | 定期调用 `PollKeyData` / `GetStatusMessage`，刷新 UI 和日志 |
+
+
+
+### 目录结构
+
+```
+wx_key/
+├── lib/                                  # Flutter 前端
+│   ├── main.dart                         # UI 与状态管理
+│   ├── services/
+│   │   ├── remote_hook_controller.dart   # FFI 控制器，轮询 DLL
+│   │   ├── dll_injector.dart             # WeChat 启动/进程控制
+│   │   ├── key_storage.dart              # 密钥持久化
+│   │   ├── image_key_service.dart        # 图片密钥提取
+│   │   └── app_logger.dart / log_reader.dart
+│   └── widgets/                          # 自定义组件
+├── assets/dll/wx_key.dll                 # 控制器 DLL
+├── wx_key/                               # C++ 原生项目（Visual Studio）
+│   ├── include/                          # Hook、IPC、Shellcode 头文件
+│   ├── src/                              # hook_controller、remote_scanner 等实现
+│   └── wx_key.vcxproj                    # 工程配置
+└── build/windows/...                     # Flutter 构建产物
+```
+
+## 开发构建
+
+### 构建流程
+
+```bash
+# 1. 克隆项目
+git clone https://github.com/ycccccccy/wx_key.git
+cd wx_key
+
+# 2. 安装依赖
+flutter pub get
+
+# 3. 构建发布版本
+flutter build windows --release
+
+# 4. 输出位置
+# build/windows/runner/Release/wx_key.exe
+```
+
+## 许可证与免责声明
+
+### 许可证
+
+本项目采用 MIT 许可证，详见 [LICENSE](LICENSE) 文件。
+
+MIT 许可证允许您自由使用、修改和分发本软件，但需要保留版权声明和许可证文本。
+
+### 免责声明
+
+> **重要**: 本工具仅用于技术研究和学习目的，旨在提供一个探索性的解决方案。
+
+**使用须知**:
+- 任何使用本工具产生的后果与责任，均由使用者自行承担
+- 开发者不对因使用本工具而导致的任何损失负责
+- 使用者必须确保其使用行为符合当地法律法规
+- 严禁将本工具用于任何商业或恶意目的
+
+### 贡献指南
+
+欢迎提交 Issue 和 Pull Request 来改进本项目：
+
+1. Fork 本仓库
+2. 创建分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 开启 Pull Request
+
+### 致谢
+
+感谢以下项目的贡献和启发：
+
+- [WxDatDecrypt](https://github.com/recarto404/WxDatDecrypt) - 提供了关键的imagekey获取思路
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ycccccccy/wx_key&type=date&legend=top-left)](https://www.star-history.com/#ycccccccy/wx_key&type=date&legend=top-left)
+
+---
+
+<div align="center">
+
+**请负责任地使用本工具，遵守相关法律法规**
+
+Made for educational purposes ❤️
+
+</div>

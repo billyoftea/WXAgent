@@ -1,0 +1,45 @@
+{
+  "session": {
+    "wxid": "22391857376@chatroom",
+    "nickname": "深圳实习信息2群",
+    "remark": "深圳实习信息2群",
+    "displayName": "深圳实习信息2群",
+    "type": "群聊",
+    "lastTimestamp": 1762930234
+  },
+  "messages": [
+    {
+      "localId": 1,
+      "createTime": 1762930176,
+      "formattedTime": "2025-11-12 14:49:36",
+      "type": "系统消息",
+      "localType": 10000,
+      "content": "\"朱逸轩Shawn\"邀请\"Randucz\"加入了群聊",
+      "isSend": 0,
+      "senderUsername": "22391857376@chatroom",
+      "senderDisplayName": "群成员",
+      "source": "<msgsource>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 2,
+      "createTime": 1762930234,
+      "formattedTime": "2025-11-12 14:50:34",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "某头部券商投行部股权承做实习生招募 base深圳\n【岗位描述】 \n1、项目及工作地点为深圳南山区；\n2、全方位参与股权类IPO/再融资项目； \n3、投行申报项目的流水核查、底稿制作、尽职调查、抽凭、访谈、申报文件制作等； \n4、进行行业研究，协助制作研究报告。\n\n【工作要求】\n1、学历要求：硕士/本科大四已拿到硕士offer；\n2、实习时长：一周5天（学业问题可与项目组协调），最少两个月，prefer长期实习；\n3、细心、认真负责，可接受适当加班及出差，有一定财务知识，熟练使用EXCEL、WORD、PPT等办公软件，通过CPA若干科目者优先，有投行、会所实习经验者优先； \n4、在深圳已有住所且可尽快入职的优先。\n\n【工作回报】\n1、实习表现优异者可推荐至公司备案，领取实习补贴并获得留用机会；\n2、团队老师经验丰富，项目优质，提供全方面锻炼和学习的机会；\n3、出差食宿费用均由项目承担。\n\n【简历投递】\n以“硕士院校&专业-目前所在地-姓名-毕业时间-计划入职时间-实习总时长-每周实习天数”（例：XX大学金融专业-深圳-张三-2027.7.1-2025.11.20-3个月-每周5天）为邮件主题，将简历投递至邮箱ibdinternsz@163.com",
+      "isSend": 0,
+      "senderUsername": "wxid_oy6g067t1jyk21",
+      "senderDisplayName": "Randucz",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>415</membercount>\n\t<signature>N0_V1_Q34QxIUK|v1_Vn40BIJc</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 2,
+    "firstExportTime": "2025-11-13T00:07:06.843571",
+    "lastExportTime": "2025-11-13T00:07:06.843571",
+    "lastExportedLocalId": 2,
+    "lastExportedTimestamp": 1762930234,
+    "isIncremental": false,
+    "newMessagesCount": 2
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "session": {
+    "wxid": "53668447149@chatroom",
+    "nickname": "CAP 25 Box",
+    "remark": "CAP 25 Box",
+    "displayName": "CAP 25 Box",
+    "type": "群聊",
+    "lastTimestamp": 1762510842
+  },
+  "messages": [
+    {
+      "localId": 4,
+      "createTime": 1762510842,
+      "formattedTime": "2025-11-07 18:20:42",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "wxt88258612:\n@所有人 大家新学期的选课应该已经如火如荼的火冒三丈啦～我们接下来也会邀请大家进入CAP在校生的实习信息群～",
+      "isSend": 0,
+      "senderUsername": "wxt88258612",
+      "senderDisplayName": "吴潇同 24管理-CAP会长",
+      "source": "<msgsource>\n\t<atuserlist>notify@all</atuserlist>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>42</membercount>\n\t<signature>N0_V1_NYga+2iq|v1_xQTzEA38</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 1,
+    "firstExportTime": "2025-11-13T00:00:13.825435",
+    "lastExportTime": "2025-11-13T00:00:13.825435",
+    "lastExportedLocalId": 4,
+    "lastExportedTimestamp": 1762510842,
+    "isIncremental": false,
+    "newMessagesCount": 1
+  }
+}

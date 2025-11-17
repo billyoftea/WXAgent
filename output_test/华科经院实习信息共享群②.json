@@ -1,0 +1,69 @@
+{
+  "session": {
+    "wxid": "18232346323@chatroom",
+    "nickname": "华科经院实习信息共享群②",
+    "remark": "华科经院实习信息共享群②",
+    "displayName": "华科经院实习信息共享群②",
+    "type": "群聊",
+    "lastTimestamp": 1762957011
+  },
+  "messages": [
+    {
+      "localId": 9,
+      "createTime": 1762773515,
+      "formattedTime": "2025-11-10 19:18:35",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "euyoqricuqebyou:\n【国盛证券-有色金属组日常实习生招聘】\n【岗位收获】\n1、系统性培养撰写研报能力，包括底稿-模型-文字撰写；\n2、定期开展组内培训交流，包括软件使用、估值模型、研究框架、职业规划等。\n\n【岗位职责】\n1、日报、周报更新、公众号维护、会议纪要等常规性工作；\n2、协助开展专题研究、撰写行业及公司深度报告；\n3、行业数据库搭建与维护。\n\n 【岗位要求】\n1、细心、耐心、及时响应，不限专业、不限实习经历；\n2、国内外重点高校本科及2026年以后毕业硕士；\n3、每周4天及以上，至少实习3个月。\n\n【工作地点】\n远程\n\n【简历投递】\n请将简历发至：1019227304@qq.com\n邮件标题请按格式：“姓名-学校-毕业时间-实习时长”；欢迎附上往期研究成果。",
+      "isSend": 0,
+      "senderUsername": "euyoqricuqebyou",
+      "senderDisplayName": "何承洋@国盛有色",
+      "source": "<msgsource>\n\t<sec_msg_node>\n\t\t<alnode>\n\t\t\t<fr>1</fr>\n\t\t</alnode>\n\t</sec_msg_node>\n\t<pua>1</pua>\n\t<silence>1</silence>\n\t<membercount>483</membercount>\n\t<signature>N0_V1_xwylH7BB|v1_cDVCo2qX</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 10,
+      "createTime": 1762857141,
+      "formattedTime": "2025-11-11 18:32:21",
+      "type": "未知消息类型(219043332145)",
+      "localType": 219043332145,
+      "content": "当前版本不支持展示该内容，请升级至最新版本。",
+      "isSend": 0,
+      "senderUsername": "wxid_0fhe62ogpkc512",
+      "senderDisplayName": "张东博",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>2</fr>\n\t</alnode>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n\t<sec_msg_node>\n\t\t<uuid>1889cecf19cfe8509aaf98e49b10bae8_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>483</membercount>\n\t<signature>N0_V1_Vl/ae4Yq|v1_D8eRgbXN</signature>\n</msgsource>\n"
+    },
+    {
+      "localId": 10,
+      "createTime": 1762857141,
+      "formattedTime": "2025-11-11 18:32:21",
+      "type": "未知消息类型(219043332145)",
+      "localType": 219043332145,
+      "content": "当前版本不支持展示该内容，请升级至最新版本。",
+      "isSend": 0,
+      "senderUsername": "wxid_0fhe62ogpkc512",
+      "senderDisplayName": "张东博",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>2</fr>\n\t</alnode>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n\t<sec_msg_node>\n\t\t<uuid>1889cecf19cfe8509aaf98e49b10bae8_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>483</membercount>\n\t<signature>N0_V1_Vl/ae4Yq|v1_D8eRgbXN</signature>\n</msgsource>\n"
+    },
+    {
+      "localId": 11,
+      "createTime": 1762957011,
+      "formattedTime": "2025-11-12 22:16:51",
+      "type": "图文消息",
+      "localType": 21474836529,
+      "content": "[图文] 交易商协会2026年度校园招聘",
+      "isSend": 0,
+      "senderUsername": "wxid_0fhe62ogpkc512",
+      "senderDisplayName": "张东博",
+      "source": "<msgsource>\n\t<sec_msg_node>\n\t\t<uuid>bebaec6d60d0660131a272bf929b89a1_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>483</membercount>\n\t<signature>N0_V1_Y7gW3j9g|v1_khq2qHz1</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 4,
+    "firstExportTime": "2025-11-12T17:27:39.474360",
+    "lastExportTime": "2025-11-13T00:06:58.049513",
+    "lastExportedLocalId": 11,
+    "lastExportedTimestamp": 1762957011,
+    "isIncremental": true,
+    "newMessagesCount": 2
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "session": {
+    "wxid": "20198126633@chatroom",
+    "nickname": "家人",
+    "remark": "家人",
+    "displayName": "家人",
+    "type": "群聊",
+    "lastTimestamp": 1762312684
+  },
+  "messages": [
+    {
+      "localId": 93,
+      "createTime": 1762312505,
+      "formattedTime": "2025-11-05 11:15:05",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "你直接找个荣耀店检测吧，或者在淘宝上找个荣耀手表维修店",
+      "isSend": 1,
+      "senderUsername": "wxid_t0lk4ald194u22",
+      "senderDisplayName": "徐昂 Ang",
+      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<signature>N0_V1_koF+lfIR|v1_QG241qo+</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 94,
+      "createTime": 1762312511,
+      "formattedTime": "2025-11-05 11:15:11",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "这个很可能不在保修范围内",
+      "isSend": 1,
+      "senderUsername": "wxid_t0lk4ald194u22",
+      "senderDisplayName": "徐昂 Ang",
+      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<signature>N0_V1_d1fIK1GQ|v1_XIWU/a72</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 95,
+      "createTime": 1762312516,
+      "formattedTime": "2025-11-05 11:15:16",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "一两百块钱修一下",
+      "isSend": 1,
+      "senderUsername": "wxid_t0lk4ald194u22",
+      "senderDisplayName": "徐昂 Ang",
+      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<signature>N0_V1_Q05I3e7Z|v1_+UAtpqqq</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 96,
+      "createTime": 1762312592,
+      "formattedTime": "2025-11-05 11:16:32",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "有碎屏险吗？要不制碎再修[捂脸]",
+      "isSend": 0,
+      "senderUsername": "wxid_794e2azqfa5q21",
+      "senderDisplayName": "爸",
+      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>0</silence>\n\t<membercount>3</membercount>\n\t<signature>N0_V1_gQxe11Sn|v1_B528bmQ4</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 97,
+      "createTime": 1762312602,
+      "formattedTime": "2025-11-05 11:16:42",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "没有，别那样弄了",
+      "isSend": 1,
+      "senderUsername": "wxid_t0lk4ald194u22",
+      "senderDisplayName": "徐昂 Ang",
+      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<signature>N0_V1_U7moKsR9|v1_FJBo1oAB</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 98,
+      "createTime": 1762312684,
+      "formattedTime": "2025-11-05 11:18:04",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "[呲牙]",
+      "isSend": 0,
+      "senderUsername": "wxid_794e2azqfa5q21",
+      "senderDisplayName": "爸",
+      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>0</silence>\n\t<membercount>3</membercount>\n\t<signature>N0_V1_Etfrd7m1|v1_s7/PcpPL</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 6,
+    "firstExportTime": "2025-11-13T00:00:27.638878",
+    "lastExportTime": "2025-11-13T00:00:27.638878",
+    "lastExportedLocalId": 98,
+    "lastExportedTimestamp": 1762312684,
+    "isIncremental": false,
+    "newMessagesCount": 6
+  }
+}

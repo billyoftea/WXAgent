@@ -1,0 +1,57 @@
+{
+  "session": {
+    "wxid": "43856040722@chatroom",
+    "nickname": "2025 FA F1T",
+    "remark": "2025 FA F1T",
+    "displayName": "2025 FA F1T",
+    "type": "群聊",
+    "lastTimestamp": 1762704018
+  },
+  "messages": [
+    {
+      "localId": 88,
+      "createTime": 1762704001,
+      "formattedTime": "2025-11-10 00:00:01",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "提醒：\n考试时间为 11月10日（星期一）下午1:30–3:30，地点在 501教室。",
+      "isSend": 0,
+      "senderUsername": "wxid_doe7z1h07gat22",
+      "senderDisplayName": "黄嘉诚",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>59</membercount>\n\t<signature>N0_V1_slLF+zOE|v1_V4YfCUNi</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 89,
+      "createTime": 1762704008,
+      "formattedTime": "2025-11-10 00:00:08",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "@所有人",
+      "isSend": 0,
+      "senderUsername": "wxid_doe7z1h07gat22",
+      "senderDisplayName": "黄嘉诚",
+      "source": "<msgsource>\n\t<atuserlist>notify@all</atuserlist>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>59</membercount>\n\t<signature>N0_V1_nUoW7lSR|v1_XMSeBhGn</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+    },
+    {
+      "localId": 90,
+      "createTime": 1762704018,
+      "formattedTime": "2025-11-10 00:00:18",
+      "type": "拍一拍消息",
+      "localType": 266287972401,
+      "content": "[拍一拍]",
+      "isSend": 0,
+      "senderUsername": "43856040722@chatroom",
+      "senderDisplayName": "群成员",
+      "source": "<msgsource><tmp_node/></msgsource>"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 3,
+    "firstExportTime": "2025-11-12T17:27:58.235868",
+    "lastExportTime": "2025-11-13T00:00:13.565731",
+    "lastExportedLocalId": 90,
+    "lastExportedTimestamp": 1762704018,
+    "isIncremental": true,
+    "newMessagesCount": 0
+  }
+}

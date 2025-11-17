@@ -1,0 +1,261 @@
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:url_launcher/url_launcher.dart';
+
+import '../app.dart';
+import '../models/models.dart';
+import '../widgets/page_container.dart';
+import '../widgets/section_card.dart';
+
+class KeyAcquisitionPage extends StatefulWidget {
+  const KeyAcquisitionPage({super.key, required this.controller});
+
+  final AppController controller;
+
+  @override
+  State<KeyAcquisitionPage> createState() => _KeyAcquisitionPageState();
+}
+
+class _KeyAcquisitionPageState extends State<KeyAcquisitionPage> {
+  bool _loading = false;
+  bool _statusLoading = false;
+  String? _error;
+  KeyInfo? _keyInfo;
+  String? _prefPath;
+  bool _prefExists = false;
+
+  @override
+  void initState() {
+    super.initState();
+    _loadStatus();
+  }
+
+  Future<void> _loadStatus() async {
+    setState(() {
+      _statusLoading = true;
+      _error = null;
+    });
+    try {
+      final status = await widget.controller.api.getStatus();
+      final keyData =
+          (status['key'] as Map?)?.cast<String, dynamic>() ?? const {};
+      setState(() {
+        _keyInfo = KeyInfo.fromJson({
+          'db_key': keyData['db_key'],
+          'timestamp': keyData['timestamp'],
+          'raw': keyData,
+        });
+        _prefPath = keyData['pref_path'] as String?;
+        _prefExists = keyData['pref_exists'] == true;
+      });
+    } catch (err) {
+      setState(() {
+        _error = err.toString();
+      });
+    } finally {
+      setState(() {
+        _statusLoading = false;
+      });
+    }
+  }
+
+  Future<void> _refreshKey() async {
+    setState(() {
+      _loading = true;
+      _error = null;
+    });
+    try {
+      final info = await widget.controller.api.refreshKey(autoLaunch: true);
+      setState(() {
+        _keyInfo = info;
+      });
+      if (!mounted) return;
+      ScaffoldMessenger.of(
+        context,
+      ).showSnackBar(const SnackBar(content: Text('密钥读取成功')));
+    } catch (err) {
+      setState(() {
+        _error = err.toString();
+      });
+    } finally {
+      setState(() {
+        _loading = false;
+      });
+    }
+  }
+
+  Future<void> _copyKey() async {
+    final key = _keyInfo?.dbKey;
+    if (key == null || key.isEmpty) return;
+    await Clipboard.setData(ClipboardData(text: key));
+    if (!mounted) return;
+    ScaffoldMessenger.of(
+      context,
+    ).showSnackBar(const SnackBar(content: Text('已复制数据库密钥')));
+  }
+
+  Future<void> _openPrefs() async {
+    if (_prefPath == null || _prefPath!.isEmpty) return;
+    final uri = Uri.file(_prefPath!);
+    if (await canLaunchUrl(uri)) {
+      await launchUrl(uri);
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return PageContainer(
+      title: '密钥获取',
+      subtitle: 'WXAgent 通过注入方式本地读取微信数据库密钥，仅在你的设备上使用，不上传网络。',
+      children: [
+        SectionCard(
+          title: '密钥读取说明',
+          subtitle: '确保微信处于登录状态并打开桌面客户端，点击下方按钮即可自动注入与读取密钥。',
+          actions: [
+            TextButton.icon(
+              onPressed: _statusLoading ? null : _loadStatus,
+              icon: _statusLoading
+                  ? const SizedBox(
+                      width: 16,
+                      height: 16,
+                      child: CircularProgressIndicator(strokeWidth: 2),
+                    )
+                  : const Icon(Icons.refresh_rounded),
+              label: const Text('重新检测状态'),
+            ),
+          ],
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                '· WXAgent 会自动写入 shared_preferences.json，并解析出数据库密钥及图片密钥。',
+              ),
+              const SizedBox(height: 8),
+              const Text('· 读取过程中无需手动打开其它工具，全流程在此处完成。'),
+              const SizedBox(height: 16),
+              Wrap(
+                spacing: 12,
+                runSpacing: 8,
+                children: [
+                  ElevatedButton.icon(
+                    onPressed: _loading ? null : _refreshKey,
+                    icon: _loading
+                        ? const SizedBox(
+                            width: 18,
+                            height: 18,
+                            child: CircularProgressIndicator(
+                              strokeWidth: 2,
+                              valueColor: AlwaysStoppedAnimation(Colors.white),
+                            ),
+                          )
+                        : const Icon(Icons.vpn_key_rounded),
+                    label: const Text('开始获取密钥'),
+                  ),
+                  OutlinedButton.icon(
+                    onPressed: _prefPath == null ? null : _openPrefs,
+                    icon: const Icon(Icons.folder_open),
+                    label: const Text('打开密钥文件'),
+                  ),
+                ],
+              ),
+              if (_error != null) ...[
+                const SizedBox(height: 12),
+                Text(_error!, style: const TextStyle(color: Colors.redAccent)),
+              ],
+            ],
+          ),
+        ),
+        SectionCard(
+          title: '微信环境状态',
+          child: Column(
+            children: [
+              _buildStatusRow('SharedPreferences 路径', _prefPath ?? '--'),
+              const SizedBox(height: 8),
+              _buildStatusRow('文件状态', _prefExists ? '已检测到密钥文件' : '未找到密钥文件'),
+              const SizedBox(height: 8),
+              _buildStatusRow('最后更新时间', _keyInfo?.timestamp ?? '--'),
+            ],
+          ),
+        ),
+        SectionCard(
+          title: '密钥读取结果',
+          subtitle: '复制密钥后可在其它模块使用，若读取失败请确认微信客户端处于登录状态。',
+          actions: [
+            TextButton.icon(
+              onPressed: _keyInfo?.dbKey == null ? null : _copyKey,
+              icon: const Icon(Icons.copy_all_rounded),
+              label: const Text('复制密钥'),
+            ),
+          ],
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Container(
+                width: double.infinity,
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: Colors.grey.shade50,
+                  borderRadius: BorderRadius.circular(12),
+                  border: Border.all(color: Colors.grey.shade200),
+                ),
+                child: SelectableText(
+                  _keyInfo?.dbKey ?? '尚未读取到密钥',
+                  style: const TextStyle(fontFamily: 'monospace', fontSize: 16),
+                ),
+              ),
+              const SizedBox(height: 16),
+              Wrap(
+                spacing: 16,
+                runSpacing: 12,
+                children: [
+                  _buildKeyTag('图片 XOR Key', _keyInfo?.imageXorKey?.toString()),
+                  _buildKeyTag('图片 AES Key', _keyInfo?.imageAesKey),
+                  _buildKeyTag('原始记录条目', '${_keyInfo?.raw.length ?? 0}'),
+                ],
+              ),
+            ],
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildStatusRow(String label, String value) {
+    return Row(
+      children: [
+        SizedBox(
+          width: 130,
+          child: Text(
+            label,
+            style: const TextStyle(fontWeight: FontWeight.w600),
+          ),
+        ),
+        Expanded(child: Text(value)),
+      ],
+    );
+  }
+
+  Widget _buildKeyTag(String label, String? value) {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+      decoration: BoxDecoration(
+        color: Colors.grey.shade100,
+        borderRadius: BorderRadius.circular(12),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(
+            label,
+            style: TextStyle(color: Colors.grey.shade600, fontSize: 12),
+          ),
+          const SizedBox(height: 4),
+          Text(
+            value == null || value.isEmpty ? '--' : value,
+            style: const TextStyle(fontFamily: 'monospace'),
+          ),
+        ],
+      ),
+    );
+  }
+}

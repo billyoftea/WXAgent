@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lenovo\Desktop\WXAgent\wx_key\build\windows\x64\CMakeFiles\ce7ae3e4ebbe0b67dcf183a2d86c3352\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lenovo\Desktop\WXAgent\wx_key\build\windows\x64\CMakeFiles\99ff1682ca30e81fc31020395b7e07d1\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lenovo\Desktop\WXAgent\wx_key\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Lenovo\Desktop\WXAgent\wx_key\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EB2576A7-61D9-35D6-B053-B52B54EAB5A9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

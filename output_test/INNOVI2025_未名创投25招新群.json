@@ -1,0 +1,45 @@
+{
+  "session": {
+    "wxid": "43203551460@chatroom",
+    "nickname": "INNOVI2025|未名创投25招新群",
+    "remark": "INNOVI2025|未名创投25招新群",
+    "displayName": "INNOVI2025|未名创投25招新群",
+    "type": "群聊",
+    "lastTimestamp": 1762915106
+  },
+  "messages": [
+    {
+      "localId": 1,
+      "createTime": 1762915106,
+      "formattedTime": "2025-11-12 10:38:26",
+      "type": "文本消息",
+      "localType": 1,
+      "content": "推荐一个清华的创业比赛，该团队需要一位同学书写新能源方向的商业计划书，能学习经历一些初创小企业会遇到的问题。有意向微信联系我即可。",
+      "isSend": 0,
+      "senderUsername": "wxid_3i7u4yxqaw6f22",
+      "senderDisplayName": "张力宇",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>2</fr>\n\t</alnode>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n\t<silence>1</silence>\n\t<membercount>240</membercount>\n\t<signature>N0_V1_Gdkb2uT2|v1_PxPNMNnl</signature>\n</msgsource>\n"
+    },
+    {
+      "localId": 2,
+      "createTime": 1762915106,
+      "formattedTime": "2025-11-12 10:38:26",
+      "type": "聊天记录合并转发",
+      "localType": 81604378673,
+      "content": "[聊天记录]",
+      "isSend": 0,
+      "senderUsername": "wxid_3i7u4yxqaw6f22",
+      "senderDisplayName": "张力宇",
+      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>2</fr>\n\t</alnode>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n\t<passthrough>\n\t\t<forward_depth>1</forward_depth>\n\t</passthrough>\n\t<sec_msg_node>\n\t\t<uuid>9580e8eea38eeca59fd176c0a952e35d_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>240</membercount>\n\t<signature>N0_V1_no9t8uSa|v1_J7Gi1eV/</signature>\n</msgsource>\n"
+    }
+  ],
+  "exportMetadata": {
+    "totalMessageCount": 2,
+    "firstExportTime": "2025-11-13T00:07:11.547700",
+    "lastExportTime": "2025-11-13T00:07:11.547700",
+    "lastExportedLocalId": 2,
+    "lastExportedTimestamp": 1762915106,
+    "isIncremental": false,
+    "newMessagesCount": 2
+  }
+}
