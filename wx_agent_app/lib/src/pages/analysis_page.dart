@@ -227,22 +227,47 @@ class _DateSelector extends StatelessWidget {
       child: InputDecorator(
         decoration: InputDecoration(
           labelText: label,
+          suffixIconConstraints: const BoxConstraints(
+            minHeight: 32,
+            maxHeight: 36,
+            minWidth: 72,
+            maxWidth: 90,
+          ),
           suffixIcon: Row(
             mainAxisSize: MainAxisSize.min,
             children: [
-              IconButton(
-                icon: const Icon(Icons.calendar_today_rounded),
+              _iconButton(
+                icon: Icons.calendar_today_rounded,
                 onPressed: onPick,
+                tooltip: '选择日期',
               ),
-              IconButton(
-                icon: const Icon(Icons.close),
+              const SizedBox(width: 4),
+              _iconButton(
+                icon: Icons.close,
                 onPressed: value == null ? null : onClear,
+                tooltip: '清除选择',
               ),
             ],
           ),
         ),
         child: Text(value ?? '未选择'),
       ),
+    );
+  }
+
+  Widget _iconButton({
+    required IconData icon,
+    required VoidCallback? onPressed,
+    String? tooltip,
+  }) {
+    return IconButton(
+      icon: Icon(icon, size: 18),
+      onPressed: onPressed,
+      tooltip: tooltip,
+      splashRadius: 18,
+      padding: EdgeInsets.zero,
+      visualDensity: VisualDensity.compact,
+      constraints: const BoxConstraints.tightFor(width: 32, height: 32),
     );
   }
 }

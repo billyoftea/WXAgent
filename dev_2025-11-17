@@ -1,16 +1,26 @@
 1.在WXAgent数据工坊中，数据管理和设置页面显示：
 Unsupported operation: Failed to load decrypt.dll
 Attempted locations:
-- go _decrypt.dll: Invalid argument(s): Failed to load dynamic library 'go_decrypt.dll':The specified module could not be found.(error code: 126)
-See also: https://docs.flutter.dev/testing/errors
+- go _decrypt.dll: Invalid argument(s): Failed to load dynamic library 'go_decrypt.dll':The specified module could not be found.
+(error code: 126)-echotrace/windows/runner/go_decrypt.dll: Invalid argument(s): Failed to loaddynamic library 'echotrace/windows/runner/go decrypt.dl': The specified modulecould not be found.
+聊天记录
+数据分析
+导出记录
+数据管理
+设置
+(error code: 126)-echotrace/build/windows/x64/runner/Release/go _decrypt.dll: Invalid argument(s):Failed to load dynamic library 'echotrace/build/windows/x64/runner/Release/go_decrypt.dll': The specified module could not be found.(error code: 126)
+-C:\Users\LenovolDesktop(WXAgentlwx agent_app\echotracelwindows\runnerigodecrypt.dll: lnvalid arqument(s): Failed to load dynamic library 'c:\Users\Lenovo\DesktoplWXAgentlwx agent applechotracelwindows\runnergo decrypt.dll': Thespecified module could not be found.(error code: 126)
+-C:\UsersiLenovo\Desktop\WXAgent\wx agent applechotrace\build\windows\x64runner\Release\go_decrypt.dll: Invalid argument(s): Failed to load dynamic library 'C:Users LenovolDesktoplWXAgentlwx agent applechotracelbuildlwindows x64\runner\Releaselgo decrypt.dll': The specified module could not be found.(error code: 126)
 
 
-2.聊天记录分析页面：
-HTTP500: Internal Server Error
-[ERROR:flutter/lib/ui/window/platform_configuration.cc(428)] Reported frame time is older than the last one; clamping. 154607906565 < 154607909864 ~= 3299
-[ERROR:flutter/lib/ui/window/platform_configuration.cc(428)] Reported frame time is older than the last one; clamping. 154634431459 < 154634437065 ~= 5606
+2.我想要在测试api连接的时候，直接调用接口发送一句“你好”，来进行测试。如果有回复，那么证明了api连接是成功的。按照这个逻辑来测试api。
 
 
+3.聊天记录分析的“活跃时间段”显示暂无活跃数据？
 
+4.WXAgent的数据工坊中显示数据库未连接？
 
-
+5.而且我还是很奇怪，这个内置的所谓数据工坊中其实还是只是把echotrace的功能给搬过来，甚至还带有设置页面。我其实想做的是：
+  1.参考echotrace的实现方法，在这个页面中实现数据库解密
+  2.参考echotrace的实现方法，在这个页面中实现聊天记录导出
+  3.这两个功能是参考echotrace的代码，但你需要在我的wx_agent中重写！直接调用会带来比较多的问题

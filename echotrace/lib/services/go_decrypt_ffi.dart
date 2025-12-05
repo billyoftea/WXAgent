@@ -35,27 +35,45 @@ class GoDecryptFFI {
 
   /// 加载 Windows DLL
   ffi.DynamicLibrary _loadWindowsDLL() {
-    // 尝试的位置列表
-    final locations = ['go_decrypt.dll'];
+    final searchRoots = _resolveWindowsSearchRoots();
+    const relativeLocations = <String>[
+      'go_decrypt.dll',
+      'windows/runner/go_decrypt.dll',
+      'build/windows/x64/runner/Release/go_decrypt.dll',
+      'echotrace/windows/runner/go_decrypt.dll',
+      'echotrace/build/windows/x64/runner/Release/go_decrypt.dll',
+      'wx_agent/bin/echotrace/go_decrypt.dll',
+      'bin/echotrace/go_decrypt.dll',
+    ];
 
-    // 收集所有错误信息
+    final attempted = <String>{};
     final errors = <String>[];
 
-    // 逐个尝试加载
-    for (final location in locations) {
-      try {
-        return ffi.DynamicLibrary.open(location);
-      } catch (e) {
-        errors.add('  - $location: $e');
-        continue;
+    for (final root in searchRoots) {
+      for (final relative in relativeLocations) {
+        final candidate = root.isEmpty
+            ? _normalizeWindowsPath(relative)
+            : _joinWindowsPath(root, relative);
+        final normalized = File(candidate).absolute.path;
+        if (!attempted.add(normalized)) continue;
+        try {
+          if (!File(normalized).existsSync()) {
+            errors.add('  - $normalized: File not found');
+            continue;
+          }
+          return ffi.DynamicLibrary.open(normalized);
+        } catch (e) {
+          errors.add('  - $normalized: $e');
+        }
       }
     }
 
-    // 所有位置都失败，抛出详细错误
     throw UnsupportedError(
       'Failed to load decrypt.dll\n'
       '\n'
-      'Attempted locations:\n${errors.join('\n')}\n',
+      'Attempted locations:\n${errors.join('\n')}\n'
+      '\n'
+      'You can set WXAGENT_ROOT or WXAGENT_DLL_PATH to help locate go_decrypt.dll.',
     );
   }
 
@@ -78,6 +96,68 @@ class GoDecryptFFI {
     _freeString = _dylib
         .lookup<ffi.NativeFunction<_FreeStringFFI>>('FreeString')
         .asFunction();
+  }
+
+  List<String> _resolveWindowsSearchRoots() {
+    final roots = <String>{''};
+    try {
+      roots.add(Directory.current.path);
+      var current = Directory.current;
+      for (var i = 0; i < 4; i++) {
+        final parent = current.parent;
+        if (parent.path == current.path) break;
+        roots.add(parent.path);
+        current = parent;
+      }
+    } catch (_) {}
+
+    final exeDir = _safeExecutableDir();
+    if (exeDir != null) roots.add(exeDir);
+    final scriptDir = _scriptDirectory();
+    if (scriptDir != null) roots.add(scriptDir);
+
+    final envRoot = Platform.environment['WXAGENT_ROOT'];
+    if (envRoot != null && envRoot.trim().isNotEmpty) {
+      roots.add(envRoot.trim());
+    }
+
+    final envDll = Platform.environment['WXAGENT_DLL_PATH'];
+    if (envDll != null && envDll.trim().isNotEmpty) {
+      roots.add(envDll.trim());
+    }
+
+    return roots.toList();
+  }
+
+  String? _safeExecutableDir() {
+    try {
+      return File(Platform.resolvedExecutable).parent.path;
+    } catch (_) {
+      return null;
+    }
+  }
+
+  String? _scriptDirectory() {
+    try {
+      final script = Platform.script;
+      if (script.scheme == 'file') {
+        return File.fromUri(script).parent.path;
+      }
+    } catch (_) {}
+    return null;
+  }
+
+  String _normalizeWindowsPath(String value) {
+    return value.replaceAll('/', '\\');
+  }
+
+  String _joinWindowsPath(String base, String relative) {
+    final trimmedBase = base.replaceAll('/', '\\').replaceAll(RegExp(r'\\+$'), '');
+    final normalizedRelative = _normalizeWindowsPath(relative);
+    if (trimmedBase.isEmpty) {
+      return normalizedRelative;
+    }
+    return '$trimmedBase\\$normalizedRelative';
   }
 
   /// 规范化文件路径（确保使用正确的路径分隔符，支持中文和空格）

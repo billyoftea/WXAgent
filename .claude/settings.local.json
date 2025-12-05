@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python verify_dependencies.py)",
+      "Bash(python -m wx_agent.server --config wx_agent/config.json --host 127.0.0.1 --port 8001)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

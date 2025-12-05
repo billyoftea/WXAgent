@@ -187,7 +187,26 @@ class WxAgentApiClient {
     },
   );
 
-  Future<Map<String, dynamic>> testLlm() => post('/llm/test');
+  Future<Map<String, dynamic>> testLlm({
+    String? baseUrl,
+    String? model,
+    String? apiKey,
+  }) {
+    final payload = <String, dynamic>{};
+
+    void put(String key, String? value) {
+      final trimmed = value?.trim();
+      if (trimmed != null && trimmed.isNotEmpty) {
+        payload[key] = trimmed;
+      }
+    }
+
+    put('base_url', baseUrl);
+    put('model', model);
+    put('api_key', apiKey);
+
+    return post('/llm/test', body: payload.isEmpty ? null : payload);
+  }
 
   Uri _uri(String path, [Map<String, dynamic>? query]) {
     final normalizedBase = baseUrl.endsWith('/')

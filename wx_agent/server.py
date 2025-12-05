@@ -150,7 +150,9 @@ class LaunchWxKeyRequest(BaseModel):
 
 
 class TestLLMRequest(BaseModel):
-    pass
+    base_url: Optional[str] = None
+    model: Optional[str] = None
+    api_key: Optional[str] = None
 
 
 def _register_routes(app: FastAPI, service: PipelineService) -> None:
@@ -164,6 +166,7 @@ def _register_routes(app: FastAPI, service: PipelineService) -> None:
 
     @app.post("/refresh-key")
     async def refresh_key(payload: RefreshKeyRequest) -> Dict[str, Any]:
+        logger.info("Refreshing key with auto_launch=%s", payload.auto_launch)
         try:
             result = await service.run(
                 lambda pipeline: pipeline.refresh_key(
@@ -172,12 +175,27 @@ def _register_routes(app: FastAPI, service: PipelineService) -> None:
                     poll_interval=payload.poll_interval,
                 )
             )
+            logger.info("Key refresh completed successfully")
+            return _serialize_key(result)
+        except FileNotFoundError as exc:
+            logger.error("Key file not found: %s", exc)
+            raise HTTPException(status_code=404, detail=f"Key file not found: {str(exc)}") from exc
+        except PermissionError as exc:
+            logger.error("Permission denied: %s", exc)
+            raise HTTPException(status_code=403, detail=f"Permission denied: {str(exc)}") from exc
+        except subprocess.CalledProcessError as exc:
+            logger.error("wx_key command failed: %s", exc)
+            raise HTTPException(status_code=500, detail=f"wx_key command failed: {str(exc)}") from exc
+        except RuntimeError as exc:
+            logger.error("Runtime error during key refresh: %s", exc)
+            raise HTTPException(status_code=400, detail=f"Runtime error: {str(exc)}") from exc
         except Exception as exc:  # pylint: disable=broad-except
-            raise HTTPException(status_code=500, detail=str(exc)) from exc
-        return _serialize_key(result)
+            logger.exception("Key refresh failed")
+            raise HTTPException(status_code=500, detail=f"Key refresh error: {str(exc)}") from exc
 
     @app.post("/wx-key/launch")
     async def launch_wx_key(payload: LaunchWxKeyRequest) -> Dict[str, Any]:
+        logger.info("Launching wx_key with extra_args=%s, wait=%s", payload.extra_args, payload.wait)
         try:
             result = await service.run(
                 lambda pipeline: pipeline.launch_wx_key(
@@ -185,19 +203,42 @@ def _register_routes(app: FastAPI, service: PipelineService) -> None:
                     wait=payload.wait,
                 )
             )
+            logger.info("wx_key launched successfully")
+            return {"pid": getattr(result, "pid", None), "waited": payload.wait}
+        except FileNotFoundError as exc:
+            logger.error("wx_key executable not found: %s", exc)
+            raise HTTPException(status_code=404, detail=f"wx_key executable not found: {str(exc)}") from exc
+        except PermissionError as exc:
+            logger.error("Permission denied: %s", exc)
+            raise HTTPException(status_code=403, detail=f"Permission denied: {str(exc)}") from exc
         except Exception as exc:  # pylint: disable=broad-except
-            raise HTTPException(status_code=500, detail=str(exc)) from exc
-        return {"pid": getattr(result, "pid", None), "waited": payload.wait}
+            logger.exception("Failed to launch wx_key")
+            raise HTTPException(status_code=500, detail=f"Launch error: {str(exc)}") from exc
 
     @app.post("/export")
     async def trigger_export(payload: TriggerExportRequest) -> Dict[str, Any]:
-        ok = await service.run(
-            lambda pipeline: pipeline.trigger_export(
-                extra_args=payload.extra_args,
-                silent=payload.silent,
+        logger.info("Triggering export with extra_args=%s", payload.extra_args)
+        try:
+            ok = await service.run(
+                lambda pipeline: pipeline.trigger_export(
+                    extra_args=payload.extra_args,
+                    silent=payload.silent,
+                )
             )
-        )
-        return {"success": ok}
+            logger.info("Export triggered successfully: %s", ok)
+            return {"success": ok}
+        except FileNotFoundError as exc:
+            logger.error("Export command or path not found: %s", exc)
+            raise HTTPException(status_code=404, detail=f"Export command not found: {str(exc)}") from exc
+        except PermissionError as exc:
+            logger.error("Permission denied during export: %s", exc)
+            raise HTTPException(status_code=403, detail=f"Permission denied: {str(exc)}") from exc
+        except subprocess.CalledProcessError as exc:
+            logger.error("Export command failed: %s", exc)
+            raise HTTPException(status_code=500, detail=f"Export command failed: {str(exc)}") from exc
+        except Exception as exc:  # pylint: disable=broad-except
+            logger.exception("Export failed")
+            raise HTTPException(status_code=500, detail=f"Export error: {str(exc)}") from exc
 
     @app.post("/full-refresh")
     async def run_full_refresh(payload: FullRefreshRequest) -> Dict[str, Any]:
@@ -230,6 +271,7 @@ def _register_routes(app: FastAPI, service: PipelineService) -> None:
 
     @app.post("/summary/run")
     async def run_summary(payload: SummarizeRequest) -> Dict[str, Any]:
+        logger.info("Starting summary generation with params: %s", payload.model_dump_json())
         def _runner(pipeline: WxAgentPipeline) -> Dict[str, Any]:
             sessions = payload.sessions or None
             if sessions is not None and not any(sessions):
@@ -244,7 +286,19 @@ def _register_routes(app: FastAPI, service: PipelineService) -> None:
                 sessions=sessions,
             )
 
-        return await service.run(_runner)
+        try:
+            result = await service.run(_runner)
+            logger.info("Summary generation completed successfully")
+            return result
+        except FileNotFoundError as exc:
+            logger.error("Session file not found: %s", exc)
+            raise HTTPException(status_code=404, detail=f"Session data not found: {str(exc)}") from exc
+        except PermissionError as exc:
+            logger.error("Permission denied: %s", exc)
+            raise HTTPException(status_code=403, detail=f"Permission denied: {str(exc)}") from exc
+        except Exception as exc:  # pylint: disable=broad-except
+            logger.exception("Summary generation failed")
+            raise HTTPException(status_code=500, detail=f"Summary error: {str(exc)}") from exc
 
     @app.get("/summary/history")
     async def summary_history(limit: Optional[int] = Query(default=None)) -> List[Dict[str, Any]]:
@@ -273,18 +327,41 @@ def _register_routes(app: FastAPI, service: PipelineService) -> None:
 
     @app.post("/analysis/sessions")
     async def analyze_sessions(payload: AnalyzeRequest) -> Dict[str, Any]:
-        return await service.run(
-            lambda pipeline: pipeline.analyze_stats(
-                start_date=payload.start_date,
-                end_date=payload.end_date,
-                top_n=payload.top_n,
-                session_types=payload.session_types,
+        logger.info("Starting session analysis with params: %s", payload.model_dump_json())
+        try:
+            result = await service.run(
+                lambda pipeline: pipeline.analyze_stats(
+                    start_date=payload.start_date,
+                    end_date=payload.end_date,
+                    top_n=payload.top_n,
+                    session_types=payload.session_types,
+                )
             )
-        )
+            logger.info("Analysis completed successfully")
+            return result
+        except FileNotFoundError as exc:
+            logger.error("Session file not found: %s", exc)
+            raise HTTPException(status_code=404, detail=f"Session data not found: {str(exc)}") from exc
+        except PermissionError as exc:
+            logger.error("Permission denied: %s", exc)
+            raise HTTPException(status_code=403, detail=f"Permission denied: {str(exc)}") from exc
+        except subprocess.CalledProcessError as exc:
+            logger.error("External command failed: %s", exc)
+            raise HTTPException(status_code=500, detail=f"External command failed: {str(exc)}") from exc
+        except Exception as exc:  # pylint: disable=broad-except
+            logger.exception("Analysis failed with unexpected error")
+            raise HTTPException(status_code=500, detail=f"Analysis error: {str(exc)}") from exc
 
     @app.post("/llm/test")
-    async def test_llm(_: Optional[TestLLMRequest] = Body(default=None)) -> Dict[str, Any]:
-        ok, message = await service.run(lambda pipeline: pipeline.test_llm_connection())
+    async def test_llm(payload: Optional[TestLLMRequest] = Body(default=None)) -> Dict[str, Any]:
+        overrides = payload.model_dump(exclude_none=True) if payload else {}
+        ok, message = await service.run(
+            lambda pipeline: pipeline.test_llm_connection(
+                base_url=overrides.get("base_url"),
+                model=overrides.get("model"),
+                api_key=overrides.get("api_key"),
+            )
+        )
         return {"success": ok, "message": message}
 
     @app.get("/config")

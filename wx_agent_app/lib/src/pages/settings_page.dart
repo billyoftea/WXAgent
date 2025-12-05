@@ -151,7 +151,11 @@ class _SettingsPageState extends State<SettingsPage> {
       _message = null;
     });
     try {
-      final result = await widget.controller.api.testLlm();
+      final result = await widget.controller.api.testLlm(
+        baseUrl: _llmBaseCtrl.text,
+        model: _llmModelCtrl.text,
+        apiKey: _llmKeyCtrl.text,
+      );
       _safeSetState(() {
         _message =
             result['message'] as String? ??

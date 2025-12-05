@@ -1,7 +1,6 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:echotrace/embed.dart';
 import 'package:file_selector/file_selector.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
@@ -24,6 +23,9 @@ class ChatDataPage extends StatefulWidget {
 class _ChatDataPageState extends State<ChatDataPage> {
   final TextEditingController _wechatPathCtrl = TextEditingController();
   final TextEditingController _exportDirCtrl = TextEditingController();
+  final TextEditingController _waitSecondsCtrl = TextEditingController(text: '90');
+  final TextEditingController _pollIntervalCtrl = TextEditingController(text: '3');
+  final TextEditingController _extraArgsCtrl = TextEditingController();
 
   bool _loading = false;
   bool _actionLoading = false;
@@ -41,6 +43,13 @@ class _ChatDataPageState extends State<ChatDataPage> {
   bool _manualExporting = false;
   bool _singleFileExport = true;
   String? _customOutputDir;
+  bool _fullRefreshRunning = false;
+  bool _exportOnlyRunning = false;
+  bool _autoLaunchWxKey = true;
+  Map<String, dynamic>? _lastFullRefresh;
+  DateTime? _lastFullRefreshAt;
+  bool? _lastExportOnlySuccess;
+  DateTime? _lastExportTimestamp;
 
   final DateFormat _dateFormatter = DateFormat('yyyy-MM-dd');
 
@@ -55,6 +64,9 @@ class _ChatDataPageState extends State<ChatDataPage> {
   void dispose() {
     _wechatPathCtrl.dispose();
     _exportDirCtrl.dispose();
+    _waitSecondsCtrl.dispose();
+    _pollIntervalCtrl.dispose();
+    _extraArgsCtrl.dispose();
     super.dispose();
   }
 
@@ -330,6 +342,99 @@ class _ChatDataPageState extends State<ChatDataPage> {
     }
   }
 
+  Future<void> _runFullRefresh() async {
+    if (_fullRefreshRunning) return;
+    final waitSeconds = _parsePositiveInt(_waitSecondsCtrl, 90, min: 10, max: 600);
+    final pollInterval = _parsePositiveInt(_pollIntervalCtrl, 3, min: 1, max: 60);
+    _safeSetState(() {
+      _fullRefreshRunning = true;
+      _error = null;
+    });
+    try {
+      final result = await widget.controller.api.runFullRefresh(
+        autoLaunchKey: _autoLaunchWxKey,
+        waitSeconds: waitSeconds,
+        pollInterval: pollInterval,
+        exportArgs: _extraArgsOrNull(),
+      );
+      _safeSetState(() {
+        _lastFullRefresh = result;
+        _lastFullRefreshAt = DateTime.now();
+      });
+      if (!mounted) return;
+      final processed = result['messages'] ?? result['sessions'] ?? 0;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('导出完成，处理 $processed 条记录')),
+      );
+      await _loadData();
+    } catch (err) {
+      _safeSetState(() {
+        _error = err.toString();
+      });
+    } finally {
+      _safeSetState(() {
+        _fullRefreshRunning = false;
+      });
+    }
+  }
+
+  Future<void> _triggerExportOnly() async {
+    if (_exportOnlyRunning) return;
+    _safeSetState(() {
+      _exportOnlyRunning = true;
+      _error = null;
+    });
+    try {
+      final ok = await widget.controller.api.triggerExport(
+        extraArgs: _extraArgsOrNull(),
+        silent: true,
+      );
+      _safeSetState(() {
+        _lastExportOnlySuccess = ok;
+        _lastExportTimestamp = DateTime.now();
+      });
+      if (!mounted) return;
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(ok ? '已触发导出，稍后刷新可见结果' : '导出命令执行失败'),
+        ),
+      );
+      if (ok) {
+        await _loadData();
+      }
+    } catch (err) {
+      _safeSetState(() {
+        _lastExportOnlySuccess = false;
+        _lastExportTimestamp = DateTime.now();
+        _error = err.toString();
+      });
+    } finally {
+      _safeSetState(() {
+        _exportOnlyRunning = false;
+      });
+    }
+  }
+
+  int _parsePositiveInt(
+    TextEditingController controller,
+    int fallback, {
+    int min = 1,
+    int max = 600,
+  }) {
+    final value = int.tryParse(controller.text.trim());
+    if (value == null) return fallback;
+    if (value < min) return min;
+    if (value > max) return max;
+    return value;
+  }
+
+  List<String>? _extraArgsOrNull() {
+    final text = _extraArgsCtrl.text.trim();
+    if (text.isEmpty) return null;
+    final args = text.split(RegExp(r'\s+')).where((arg) => arg.isNotEmpty).toList();
+    return args.isEmpty ? null : args;
+  }
+
   String _manualRangeLabel() {
     if (_manualRange == null) {
       return '全部时间';
@@ -525,6 +630,86 @@ class _ChatDataPageState extends State<ChatDataPage> {
     setState(fn);
   }
 
+  Widget _buildRefreshSummary() {
+    final result = _lastFullRefresh ?? const {};
+    final key = (result['key'] as Map?)?.cast<String, dynamic>();
+    final keyError = result['key_error'] as String?;
+    final exportOk = result['export'] == true;
+    final datasetReady = result['dataset_ready'] == true;
+    final sessions = result['sessions'] ?? 0;
+    final messages = result['messages'] ?? 0;
+    final ranAt = _lastFullRefreshAt == null
+        ? null
+        : DateFormat('yyyy-MM-dd HH:mm:ss').format(_lastFullRefreshAt!);
+    final metrics = [
+      _MetricItem('密钥', key != null ? '已更新' : keyError != null ? '失败' : '未更新'),
+      _MetricItem('导出', exportOk ? '成功' : '失败'),
+      _MetricItem('数据集', datasetReady ? '可用' : '未生成'),
+      _MetricItem('会话数', '$sessions'),
+      _MetricItem('消息数', '$messages'),
+    ];
+    return Container(
+      width: double.infinity,
+      padding: const EdgeInsets.all(16),
+      decoration: BoxDecoration(
+        color: Colors.grey.shade50,
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.grey.shade200),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(
+            ranAt == null ? '最近运行结果' : '最近运行结果（$ranAt）',
+            style: const TextStyle(fontWeight: FontWeight.w600),
+          ),
+          const SizedBox(height: 12),
+          Wrap(
+            spacing: 12,
+            runSpacing: 10,
+            children: metrics.map((item) => _MetricChip(item: item)).toList(),
+          ),
+          if (key != null && key['timestamp'] != null) ...[
+            const SizedBox(height: 12),
+            Text('密钥时间：${key['timestamp']}'),
+          ],
+          if (keyError != null && key == null) ...[
+            const SizedBox(height: 12),
+            Text(
+              '密钥错误：$keyError',
+              style: const TextStyle(color: Colors.redAccent),
+            ),
+          ],
+        ],
+      ),
+    );
+  }
+
+  Widget _buildExportStatusChip() {
+    if (_lastExportTimestamp == null) {
+      return const SizedBox.shrink();
+    }
+    final success = _lastExportOnlySuccess == true;
+    final timeText = DateFormat('HH:mm:ss').format(_lastExportTimestamp!);
+    final color = success ? Colors.green : Colors.redAccent;
+    final label = success ? '导出命令已触发（$timeText）' : '导出失败（$timeText）';
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+      decoration: BoxDecoration(
+        color: color.withOpacity(0.08),
+        borderRadius: BorderRadius.circular(999),
+        border: Border.all(color: color.withOpacity(0.3)),
+      ),
+      child: Text(
+        label,
+        style: TextStyle(
+          color: color,
+          fontWeight: FontWeight.w600,
+        ),
+      ),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     final export = _statusExport;
@@ -594,25 +779,93 @@ class _ChatDataPageState extends State<ChatDataPage> {
         ),
         SectionCard(
           title: 'WXAgent 内置导出器',
-          subtitle: 'Flutter 重写的聊天导出模块，直接内嵌在 WXAgent，无需额外启动 exe。',
-          child: SizedBox(
-            height: 680,
-            child: ClipRRect(
-              borderRadius: BorderRadius.circular(16),
-              child: DecoratedBox(
-                decoration: BoxDecoration(
-                  border: Border.all(color: Colors.grey.shade300),
-                  borderRadius: BorderRadius.circular(16),
-                ),
-                child: EchoTraceEmbeddedView(
-                  branding: const EchoTraceBrandingData(
-                    productName: 'WXAgent 数据工坊',
-                    tagline: '内置微信聊天导出引擎',
-                    showVersionBadge: false,
+          subtitle: '通过 WXAgent 后端直接调用 Go 解密与 JSON 导出流程，无需再嵌入 EchoTrace。',
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              SwitchListTile(
+                value: _autoLaunchWxKey,
+                onChanged: (value) => _safeSetState(() {
+                  _autoLaunchWxKey = value;
+                }),
+                title: const Text('缺少密钥时自动启动 wx_key'),
+                subtitle: const Text('开启后一键导出会尝试注入密钥，再执行解密'),
+              ),
+              const SizedBox(height: 8),
+              Row(
+                children: [
+                  Expanded(
+                    child: TextField(
+                      controller: _waitSecondsCtrl,
+                      decoration: const InputDecoration(
+                        labelText: '等待秒数',
+                        helperText: '等待 wx_key 写入密钥的时间（建议 60-120s）',
+                      ),
+                      keyboardType: TextInputType.number,
+                    ),
                   ),
+                  const SizedBox(width: 12),
+                  Expanded(
+                    child: TextField(
+                      controller: _pollIntervalCtrl,
+                      decoration: const InputDecoration(
+                        labelText: '轮询间隔（秒）',
+                        helperText: '检测 SharedPreferences 的频率',
+                      ),
+                      keyboardType: TextInputType.number,
+                    ),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 12),
+              TextField(
+                controller: _extraArgsCtrl,
+                decoration: const InputDecoration(
+                  labelText: '附加导出参数（可选）',
+                  hintText: '--fast --skip-images',
                 ),
               ),
-            ),
+              const SizedBox(height: 16),
+              Wrap(
+                spacing: 12,
+                runSpacing: 8,
+                children: [
+                  ElevatedButton.icon(
+                    onPressed: _fullRefreshRunning ? null : _runFullRefresh,
+                    icon: _fullRefreshRunning
+                        ? const SizedBox(
+                            width: 18,
+                            height: 18,
+                            child: CircularProgressIndicator(
+                              strokeWidth: 2,
+                              valueColor: AlwaysStoppedAnimation(Colors.white),
+                            ),
+                          )
+                        : const Icon(Icons.play_arrow_rounded),
+                    label: const Text('一键解密 + 导出'),
+                  ),
+                  OutlinedButton.icon(
+                    onPressed: _exportOnlyRunning ? null : _triggerExportOnly,
+                    icon: _exportOnlyRunning
+                        ? const SizedBox(
+                            width: 18,
+                            height: 18,
+                            child: CircularProgressIndicator(strokeWidth: 2),
+                          )
+                        : const Icon(Icons.file_upload_outlined),
+                    label: const Text('仅执行导出'),
+                  ),
+                ],
+              ),
+              if (_lastFullRefresh != null) ...[
+                const SizedBox(height: 16),
+                _buildRefreshSummary(),
+              ],
+              if (_lastExportTimestamp != null) ...[
+                const SizedBox(height: 16),
+                _buildExportStatusChip(),
+              ],
+            ],
           ),
         ),
         SectionCard(

@@ -1416,26 +1416,56 @@ class WxAgentPipeline:
         with open(file_path, "r", encoding="utf-8") as f:
             return f.read()
 
-    def test_llm_connection(self) -> Tuple[bool, str]:
+    def test_llm_connection(
+        self,
+        base_url: Optional[str] = None,
+        model: Optional[str] = None,
+        api_key: Optional[str] = None,
+    ) -> Tuple[bool, str]:
         '''尝试轻量检测当前 LLM 配置是否可用，优先探测 HTTP 接口'''
-        base_url = self.llm_config.base_url or os.environ.get("LLM_BASE_URL") or "https://api.openai.com/v1"
-        api_key = self.llm_config.api_key or os.environ.get("LLM_API_KEY")
+
+        def _normalize(value: Optional[str]) -> Optional[str]:
+            if value is None:
+                return None
+            text = value.strip()
+            return text or None
+
+        override_base = _normalize(base_url)
+        override_model = _normalize(model)
+        override_key = _normalize(api_key)
+
+        resolved_base_url = (
+            override_base
+            or self.llm_config.base_url
+            or os.environ.get("LLM_BASE_URL")
+            or "https://api.openai.com/v1"
+        )
+        resolved_api_key = override_key or self.llm_config.api_key or os.environ.get("LLM_API_KEY")
+        resolved_model = override_model or _normalize(self.llm_config.model)
+        if not resolved_model:
+            return False, "未配置模型名称，请在设置中填写模型参数。"
         timeout = min(self.llm_config.timeout or 8, 5)
 
         if requests is not None:
             headers = {"Content-Type": "application/json"}
-            if api_key:
-                headers["Authorization"] = f"Bearer {api_key}"
+            if resolved_api_key:
+                headers["Authorization"] = f"Bearer {resolved_api_key}"
 
-            completion_url = _build_completion_url(base_url)
+            completion_url = _build_completion_url(resolved_base_url)
             payload = {
-                "model": self.llm_config.model,
+                "model": resolved_model,
                 "messages": [
-                    {"role": "system", "content": "ping"},
-                    {"role": "user", "content": "ping"},
+                    {
+                        "role": "system",
+                        "content": "你是一个可用性检测助手，请用一句中文回复确认连通性。",
+                    },
+                    {
+                        "role": "user",
+                        "content": "你好",
+                    },
                 ],
-                "max_tokens": 1,
-                "temperature": 0,
+                "max_tokens": 48,
+                "temperature": 0.2,
                 "stream": False,
             }
             try:
@@ -1444,6 +1474,7 @@ class WxAgentPipeline:
                 return False, str(exc)
 
             error_payload = None
+            reply_preview = None
             try:
                 parsed_body = response.json()
             except Exception:
@@ -1454,8 +1485,12 @@ class WxAgentPipeline:
                     error_payload = parsed_body.get("error")
                     if not error_payload and parsed_body.get("success") is False:
                         error_payload = parsed_body
+                    if not error_payload:
+                        reply_preview = self._extract_reply_preview(parsed_body)
+                if not error_payload and reply_preview:
+                    return True, f"LLM 可用：{reply_preview}"
                 if not error_payload:
-                    return True, f"已连接{self.llm_config.model}"
+                    return True, f"已连接{resolved_model}"
 
             error_text = ""
             if error_payload:
@@ -1473,17 +1508,45 @@ class WxAgentPipeline:
 
         try:
             temp_conf = LLMConfig(
-                api_key=self.llm_config.api_key,
-                base_url=self.llm_config.base_url,
-                model=self.llm_config.model,
+                api_key=resolved_api_key,
+                base_url=resolved_base_url,
+                model=resolved_model,
                 temperature=0.0,
                 timeout=timeout,
             )
             client = build_llm(temp_conf)
-            client.invoke("ping")
-            return True, "LLM 接口可用"
+            reply = client.invoke("你好")
+            reply_text = str(reply).strip()
+            if len(reply_text) > 60:
+                reply_text = reply_text[:60] + "..."
+            message = reply_text or "LLM 接口可用"
+            return True, f"LLM 可用：{message}"
         except Exception as exc:  # pragma: no cover - 网络/环境问题
             return False, str(exc)
+
+    def _extract_reply_preview(self, payload: Dict[str, Any]) -> Optional[str]:
+        """从 LLM 返回结果中提取首句中文回复，便于展示测试结果"""
+        try:
+            choices = payload.get("choices")
+            if isinstance(choices, list) and choices:
+                message = choices[0].get("message") if isinstance(choices[0], dict) else None
+                content = ""
+                if isinstance(message, dict):
+                    raw_content = message.get("content")
+                    if isinstance(raw_content, list):
+                        content = "".join(
+                            fragment.get("text", "")
+                            for fragment in raw_content
+                            if isinstance(fragment, dict)
+                        )
+                    elif isinstance(raw_content, str):
+                        content = raw_content
+                if content:
+                    preview = content.strip().splitlines()[0]
+                    return (preview[:60] + "...") if len(preview) > 60 else preview
+        except Exception:  # pragma: no cover - 防御
+            return None
+        return None
 
     def _summarize_session_messages(self, messages: List[Dict[str, object]]) -> Dict[str, object]:
         '''统计会话消息的各项指标'''
@@ -1500,12 +1563,12 @@ class WxAgentPipeline:
                 "last_time": None,
                 "top_senders": [],
             }
-        
+
         type_counts: Counter = Counter()
         for msg in messages:
             msg_type = _categorize_message_type(msg)
             type_counts[msg_type] += 1
-        
+
         senders: Counter = Counter()
         for msg in messages:
             sender = (
@@ -1515,16 +1578,16 @@ class WxAgentPipeline:
                 or "未知用户"
             )
             senders[str(sender)] += 1
-        
+
         timestamps = []
         for msg in messages:
             _, ts = self.dataset_builder._extract_datetime(msg)
             if ts:
                 timestamps.append(ts)
-        
+
         first_time = _format_timestamp(min(timestamps)) if timestamps else None
         last_time = _format_timestamp(max(timestamps)) if timestamps else None
-        
+
         return {
             "total": len(messages),
             "text": type_counts.get("text", 0),
@@ -1536,4 +1599,112 @@ class WxAgentPipeline:
             "first_time": first_time,
             "last_time": last_time,
             "top_senders": [{"name": name, "count": count} for name, count in senders.most_common(10)],
+        }
+
+    def analyze_stats(
+        self,
+        *,
+        start_date: Optional[str] = None,
+        end_date: Optional[str] = None,
+        top_n: int = 10,
+        session_types: Optional[Sequence[str]] = None,
+    ) -> Dict[str, object]:
+        """统计聊天会话数据并按消息数排序"""
+        start_dt = _normalize_date(start_date) if start_date else None
+        end_dt = _normalize_date(end_date) if end_date else None
+
+        sessions = self.dataset_builder.list_sessions_metadata()
+
+        results: List[Dict[str, object]] = []
+
+        total_msgs = 0
+
+        allowed_types = _normalize_session_filters(session_types)
+
+        breakdown = {
+            "group": {"sessions": 0, "messages": 0},
+            "single": {"sessions": 0, "messages": 0},
+        }
+        hourly_distribution = [0] * 24
+
+        for meta in sessions:
+            json_path = Path(str(meta.get("file")))
+            data = self.dataset_builder._load_json(json_path) or {}
+            messages = data.get("messages") if isinstance(data, dict) else None
+
+            if not isinstance(messages, list):
+                continue
+
+            session_type = str(meta.get("session_type") or "")
+            category_key = _categorize_session(meta)
+
+            if allowed_types and category_key not in allowed_types:
+                continue
+
+            cnt = 0
+            sent_count = 0
+            received_count = 0
+
+            for msg in messages:
+                dt, _ = self.dataset_builder._extract_datetime(msg)
+
+                if start_dt and dt and dt < start_dt:
+                    continue
+
+                if end_dt and dt and dt > end_dt + timedelta(days=1) - timedelta(seconds=1):
+                    continue
+
+                cnt += 1
+                if dt is not None:
+                    try:
+                        hourly_distribution[dt.hour] += 1
+                    except (ValueError, IndexError):
+                        pass
+
+                direction = msg.get("isSend")
+
+                sent_flag = False
+
+                if isinstance(direction, (int, float)):
+                    sent_flag = int(direction) != 0
+
+                elif isinstance(direction, str):
+                    sent_flag = direction.strip().lower() in {"1", "true", "yes"}
+
+                if sent_flag:
+                    sent_count += 1
+                else:
+                    received_count += 1
+
+            total_msgs += cnt
+
+            results.append(
+                {
+                    "session_id": meta.get("session_id"),
+                    "display_name": meta.get("display_name"),
+                    "messages": cnt,
+                    "session_type": session_type,
+                    "category": category_key,
+                    "file": meta.get("file"),
+                    "sent_messages": sent_count,
+                    "received_messages": received_count,
+                }
+            )
+
+            breakdown.setdefault(category_key, {"sessions": 0, "messages": 0})
+
+            if cnt:
+                breakdown[category_key]["sessions"] += 1
+                breakdown[category_key]["messages"] += cnt
+
+        results.sort(key=lambda x: int(x.get("messages", 0)), reverse=True)
+
+        return {
+            "total_messages": total_msgs,
+            "session_count": len(results),
+            "window": {"start": start_date, "end": end_date},
+            "top": results[: max(1, top_n)],
+            "all": results,
+            "breakdown": breakdown,
+            "hourly_distribution": hourly_distribution,
         }
