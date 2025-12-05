@@ -19,10 +19,10 @@ type Config struct {
 }
 
 // Load reads the configuration JSON located at path. When path is empty it
-// defaults to wx_agent/config.json relative to the repository root.
+// defaults to config.json in the current directory.
 func Load(path string) (*Config, error) {
 	if path == "" {
-		path = "wx_agent/config.json"
+		path = "config.json"
 	}
 	resolved, err := resolvePath(path)
 	if err != nil {
@@ -272,7 +272,7 @@ func parseCommand(base *Config, value any, fallback CommandSpec) CommandSpec {
 	result := fallback
 	if data, ok := value.(map[string]any); ok {
 		if path := strings.TrimSpace(fmt.Sprint(data["path"])); path != "" {
-			result.Path = path
+			result.Path = base.ResolvePath(path)
 		}
 		if args := stringSlice(data["args"]); args != nil {
 			result.Args = args

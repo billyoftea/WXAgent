@@ -5,1469 +5,815 @@
     "remark": "十一届假面舞会【执行组】",
     "displayName": "十一届假面舞会【执行组】",
     "type": "群聊",
-    "lastTimestamp": 1763286499
+    "lastTimestamp": 1764412845
   },
   "messages": [
     {
-      "localId": 775,
-      "createTime": 1762765625,
       "formattedTime": "2025-11-10 17:07:05",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<img_file_name>72f35ac4-2002-4fa8-85b0-b1bc6155506b.png</img_file_name>\n\t<alnode>\n\t\t<fr>1</fr>\n\t\t<cf>3</cf>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>0e40b474e3a2f6a8d4f2cb884895fa36_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnbigimgurl_size=\"71208\" cdnbigimgurl_pd_pri=\"30\" cdnbigimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_FqEEMKMB|v1_TZ3cKAoC</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 776,
-      "createTime": 1762765633,
       "formattedTime": "2025-11-10 17:07:13",
       "type": "文本消息",
-      "localType": 1,
       "content": "这个怎么回复",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_pqdiT/YT|v1_8lAHY5sb</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 777,
-      "createTime": 1762765729,
       "formattedTime": "2025-11-10 17:08:49",
       "type": "文本消息",
-      "localType": 1,
       "content": "emm要不就说：都可以哦，每天前三名上传的同学将获得直通票一张～",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_4wMWxBiK|v1_8x1wA5f5</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 778,
-      "createTime": 1762765751,
       "formattedTime": "2025-11-10 17:09:11",
       "type": "文本消息",
-      "localType": 1,
       "content": "反正大概这个意思？",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_7Osq688L|v1_13cLUa81</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 779,
-      "createTime": 1762765786,
       "formattedTime": "2025-11-10 17:09:46",
       "type": "文本消息",
-      "localType": 1,
       "content": "好",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_GwZ/B79O|v1_xc3Q6Gjr</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 780,
-      "createTime": 1762771394,
       "formattedTime": "2025-11-10 18:43:14",
       "type": "文本消息",
-      "localType": 1,
       "content": "问卷还有个小问题，大家每天九点上传截图，不知道自己是否是前三，总不能让大家每天都上传吧，这样会重复，咱们后期也不好筛选[捂脸]",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_qpoeyBZx|v1_EwwjEctK</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 781,
-      "createTime": 1762771496,
       "formattedTime": "2025-11-10 18:44:56",
       "type": "文本消息",
-      "localType": 1,
       "content": "可不可以，如果成功前三，可以提前联系一下同学，告知一下？",
-      "isSend": 0,
-      "senderUsername": "wxid_awkhzpy1vj1j22",
-      "senderDisplayName": "张壹豪-央财-数量与金融科技",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_tt5fnhc3|v1_plOK36yu</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "张壹豪-央财-数量与金融科技"
     },
     {
-      "localId": 782,
-      "createTime": 1762771509,
       "formattedTime": "2025-11-10 18:45:09",
       "type": "文本消息",
-      "localType": 1,
       "content": "或者在评论区公布也行",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_3sBTPaT3|v1_G4JGF2H8</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 783,
-      "createTime": 1762771582,
       "formattedTime": "2025-11-10 18:46:22",
       "type": "文本消息",
-      "localType": 1,
       "content": "还有一个问题就是，如果有人今天没有抢到前三，他明天还填一份，抢直通车，会不会导致我们一个人收了很多分问卷（是不是可以设置一下每个人只能填写一份）",
-      "isSend": 0,
-      "senderUsername": "wxid_awkhzpy1vj1j22",
-      "senderDisplayName": "张壹豪-央财-数量与金融科技",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_J21AegiR|v1_BZCvLmth</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "张壹豪-央财-数量与金融科技"
     },
     {
-      "localId": 784,
-      "createTime": 1762771628,
       "formattedTime": "2025-11-10 18:47:08",
       "type": "引用消息",
-      "localType": 244813135921,
       "content": "我觉得也是可以的，但是可能有一些人不会看评论",
-      "isSend": 0,
-      "senderUsername": "wxid_awkhzpy1vj1j22",
-      "senderDisplayName": "张壹豪-央财-数量与金融科技",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>375a2378362591df9aa39878f047bc5a_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_ReidAMLC|v1_U0kw53gQ</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "张壹豪-央财-数量与金融科技"
     },
     {
-      "localId": 785,
-      "createTime": 1762771640,
       "formattedTime": "2025-11-10 18:47:20",
       "type": "引用消息",
-      "localType": 244813135921,
       "content": "那就联系吧",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>4</fr>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<sec_msg_node>\n\t\t<uuid>50b4a1755c6a3060ff2819d5c64128eb_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_4vLqJoB3|v1_dl0HnUDy</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 786,
-      "createTime": 1762771648,
       "formattedTime": "2025-11-10 18:47:28",
       "type": "文本消息",
-      "localType": 1,
       "content": "确实 联系比较好",
-      "isSend": 0,
-      "senderUsername": "wxid_50j4nax39ft711",
-      "senderDisplayName": "高紫涵-西南财经大学-数量与金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_t7hYqEYU|v1_N4T6KdXK</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "高紫涵-西南财经大学-数量与金科"
     },
     {
-      "localId": 787,
-      "createTime": 1762771660,
       "formattedTime": "2025-11-10 18:47:40",
       "type": "文本消息",
-      "localType": 1,
       "content": "今早有人上传吗",
-      "isSend": 0,
-      "senderUsername": "wxid_50j4nax39ft711",
-      "senderDisplayName": "高紫涵-西南财经大学-数量与金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<alnode>\n\t\t<inlenlist>7</inlenlist>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_3pK60ryv|v1_ViDqC6TE</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "高紫涵-西南财经大学-数量与金科"
     },
     {
-      "localId": 788,
-      "createTime": 1762771676,
       "formattedTime": "2025-11-10 18:47:56",
       "type": "引用消息",
-      "localType": 244813135921,
       "content": "这个没事吧，就是每天取前三的",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>4</fr>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<sec_msg_node>\n\t\t<uuid>f307e2883f70d9b9f6d16d0724c941d6_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_j7kCYmf7|v1_U4OAv0N7</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 789,
-      "createTime": 1762771719,
       "formattedTime": "2025-11-10 18:48:39",
       "type": "文本消息",
-      "localType": 1,
       "content": "应该还好  这么设置的话有的同学都不知道该哪天上传了",
-      "isSend": 0,
-      "senderUsername": "wxid_50j4nax39ft711",
-      "senderDisplayName": "高紫涵-西南财经大学-数量与金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<alnode>\n\t\t<inlenlist>8</inlenlist>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_THQetMYB|v1_mhSlA85o</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "高紫涵-西南财经大学-数量与金科"
     },
     {
-      "localId": 790,
-      "createTime": 1762771723,
       "formattedTime": "2025-11-10 18:48:43",
       "type": "文本消息",
-      "localType": 1,
       "content": "给大家多一点机会🤔",
-      "isSend": 0,
-      "senderUsername": "wxid_50j4nax39ft711",
-      "senderDisplayName": "高紫涵-西南财经大学-数量与金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<alnode>\n\t\t<inlenlist>8</inlenlist>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_iXZKp34J|v1_gPNS114T</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "高紫涵-西南财经大学-数量与金科"
     },
     {
-      "localId": 791,
-      "createTime": 1762771747,
       "formattedTime": "2025-11-10 18:49:07",
       "type": "文本消息",
-      "localType": 1,
       "content": "对的，不然只能上传一次纯拼手速和网速了，也只有一次机会",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_CSbuf640|v1_aT/0tFqD</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 792,
-      "createTime": 1762840682,
       "formattedTime": "2025-11-11 13:58:02",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<sec_msg_node>\n\t\t<uuid>7e6b76d9950a9e3a968e334dd082daca_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnmidimgurl_size=\"93601\" cdnmidimgurl_pd_pri=\"30\" cdnmidimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_mFtjwx1T|v1_60n1WFu5</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 793,
-      "createTime": 1762840683,
       "formattedTime": "2025-11-11 13:58:03",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<sec_msg_node>\n\t\t<uuid>bd6f3c4327f96044e6cf8b99427733f4_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnmidimgurl_size=\"74601\" cdnmidimgurl_pd_pri=\"30\" cdnmidimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_qumOi3DB|v1_Pg7xuPyV</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 794,
-      "createTime": 1762840684,
       "formattedTime": "2025-11-11 13:58:04",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<sec_msg_node>\n\t\t<uuid>e9a5c040556a96209a5a47b30ca1bf48_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnmidimgurl_size=\"33972\" cdnmidimgurl_pd_pri=\"30\" cdnmidimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_rE2d2oct|v1_1gXgwxDI</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 795,
-      "createTime": 1762840685,
       "formattedTime": "2025-11-11 13:58:05",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<sec_msg_node>\n\t\t<uuid>9d6b6c5c2654b8868398d29d4439a7a2_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnmidimgurl_size=\"186224\" cdnmidimgurl_pd_pri=\"30\" cdnmidimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_QffVmYG2|v1_Fppyac/P</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 796,
-      "createTime": 1762840757,
       "formattedTime": "2025-11-11 13:59:17",
       "type": "引用消息",
-      "localType": 244813135921,
       "content": "咱们假面舞会的抽奖礼品已经基本到齐了，我跟徐昂还有我舍友一起把所有抽奖礼品都放在学生会办公室了",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>4</fr>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<sec_msg_node>\n\t\t<uuid>9d6b6c5c2654b8868398d29d4439a7a2_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_GCRRXbH8|v1_CxClgV3i</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 792,
-      "createTime": 1762840682,
       "formattedTime": "2025-11-11 13:58:02",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<sec_msg_node>\n\t\t<uuid>7e6b76d9950a9e3a968e334dd082daca_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnmidimgurl_size=\"93601\" cdnmidimgurl_pd_pri=\"30\" cdnmidimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_mFtjwx1T|v1_60n1WFu5</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 793,
-      "createTime": 1762840683,
       "formattedTime": "2025-11-11 13:58:03",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<sec_msg_node>\n\t\t<uuid>bd6f3c4327f96044e6cf8b99427733f4_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnmidimgurl_size=\"74601\" cdnmidimgurl_pd_pri=\"30\" cdnmidimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_qumOi3DB|v1_Pg7xuPyV</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 794,
-      "createTime": 1762840684,
       "formattedTime": "2025-11-11 13:58:04",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<sec_msg_node>\n\t\t<uuid>e9a5c040556a96209a5a47b30ca1bf48_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnmidimgurl_size=\"33972\" cdnmidimgurl_pd_pri=\"30\" cdnmidimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_rE2d2oct|v1_1gXgwxDI</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 795,
-      "createTime": 1762840685,
       "formattedTime": "2025-11-11 13:58:05",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<sec_msg_node>\n\t\t<uuid>9d6b6c5c2654b8868398d29d4439a7a2_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnmidimgurl_size=\"186224\" cdnmidimgurl_pd_pri=\"30\" cdnmidimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_QffVmYG2|v1_Fppyac/P</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 796,
-      "createTime": 1762840757,
       "formattedTime": "2025-11-11 13:59:17",
       "type": "引用消息",
-      "localType": 244813135921,
       "content": "咱们假面舞会的抽奖礼品已经基本到齐了，我跟徐昂还有我舍友一起把所有抽奖礼品都放在学生会办公室了",
-      "isSend": 0,
-      "senderUsername": "wxid_4yxr3pemzv7i22",
-      "senderDisplayName": "田唯佑",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>4</fr>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<sec_msg_node>\n\t\t<uuid>9d6b6c5c2654b8868398d29d4439a7a2_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_GCRRXbH8|v1_CxClgV3i</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "田唯佑"
     },
     {
-      "localId": 797,
-      "createTime": 1762867925,
       "formattedTime": "2025-11-11 21:32:05",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<img_file_name>98b8ebdd-89d3-4d4f-adbf-ae7a81db20e1.png</img_file_name>\n\t<alnode>\n\t\t<fr>1</fr>\n\t\t<cf>3</cf>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>143d0a52949f67b52679f3809522763c_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnbigimgurl_size=\"21652\" cdnbigimgurl_pd_pri=\"30\" cdnbigimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_wzg6EBDs|v1_3xt3ML9A</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 798,
-      "createTime": 1762867929,
       "formattedTime": "2025-11-11 21:32:09",
       "type": "文本消息",
-      "localType": 1,
       "content": "这样回答可以吗",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_sn0Swb3E|v1_lDLokdla</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 799,
-      "createTime": 1762867964,
       "formattedTime": "2025-11-11 21:32:44",
       "type": "文本消息",
-      "localType": 1,
       "content": "对的，我们不设置问答群，从明天开始可以定期回答谁是每天的前三？",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_aWDpS9Zf|v1_Yk+saowT</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 800,
-      "createTime": 1762868130,
       "formattedTime": "2025-11-11 21:35:30",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<img_file_name>4ea233c3-a7fb-4867-a8c3-b4d4b3538e8d.png</img_file_name>\n\t<alnode>\n\t\t<fr>1</fr>\n\t\t<cf>3</cf>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>35d767de6d516040316b563fbd2202f8_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnbigimgurl_size=\"39701\" cdnbigimgurl_pd_pri=\"30\" cdnbigimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_tNJLGuCu|v1_wFcU6RzW</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 801,
-      "createTime": 1762868156,
       "formattedTime": "2025-11-11 21:35:56",
       "type": "引用消息",
-      "localType": 244813135921,
       "content": "这个可以吗",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>a3084b2c83274abe8705e20e995d907e_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_iCUcWDHX|v1_CnrihvQZ</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 802,
-      "createTime": 1762868177,
       "formattedTime": "2025-11-11 21:36:17",
       "type": "引用消息",
-      "localType": 244813135921,
       "content": "这个是会邮件通知吗",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>dc57217f077d395038366cb8f508c8f8_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_YRqScR9x|v1_+ZkYrVhT</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 803,
-      "createTime": 1762868192,
       "formattedTime": "2025-11-11 21:36:32",
       "type": "引用消息",
-      "localType": 244813135921,
       "content": "看一下怎么通知",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>91e38d6f19600db1d8529898bade23fd_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_ttPu+Owz|v1_bpeyQ6w/</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 804,
-      "createTime": 1762868273,
       "formattedTime": "2025-11-11 21:37:53",
       "type": "文本消息",
-      "localType": 1,
       "content": "要不每天晚上六点邮件通知？",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_LNtskb9O|v1_K5ulZM09</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 805,
-      "createTime": 1762868305,
       "formattedTime": "2025-11-11 21:38:25",
       "type": "文本消息",
-      "localType": 1,
       "content": "如果发邮件的话，是不是需要使用学生会的邮箱发呀",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_ICn1P/O9|v1_02FMJpcy</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 806,
-      "createTime": 1762870940,
       "formattedTime": "2025-11-11 22:22:20",
       "type": "引用消息",
-      "localType": 244813135921,
       "content": "这个要不现在确认好，方便回后台私信",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>37ea6cb4f599d9e57d10cbb55da7bf61_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_YW/iqKDv|v1_iQVbD/M4</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 807,
-      "createTime": 1762873193,
       "formattedTime": "2025-11-11 22:59:53",
       "type": "文本消息",
-      "localType": 1,
       "content": "大家的想法嘞",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_UF2kDauf|v1_aXAyNnmj</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 808,
-      "createTime": 1762873330,
       "formattedTime": "2025-11-11 23:02:10",
       "type": "文本消息",
-      "localType": 1,
       "content": "我觉得OK",
-      "isSend": 0,
-      "senderUsername": "wxid_50j4nax39ft711",
-      "senderDisplayName": "高紫涵-西南财经大学-数量与金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_wCtKTrqU|v1_+a+nKIZR</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "高紫涵-西南财经大学-数量与金科"
     },
     {
-      "localId": 809,
-      "createTime": 1762873339,
       "formattedTime": "2025-11-11 23:02:19",
       "type": "文本消息",
-      "localType": 1,
       "content": "也可以更早点",
-      "isSend": 0,
-      "senderUsername": "wxid_50j4nax39ft711",
-      "senderDisplayName": "高紫涵-西南财经大学-数量与金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_/k8gAQrp|v1_LVWs8R0Z</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "高紫涵-西南财经大学-数量与金科"
     },
     {
-      "localId": 810,
-      "createTime": 1762917390,
       "formattedTime": "2025-11-12 11:16:30",
       "type": "引用消息",
-      "localType": 244813135921,
       "content": "Ok 的",
-      "isSend": 0,
-      "senderUsername": "wxid_vlj601697ps122",
-      "senderDisplayName": "匡浩鑫-25-经济",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<sec_msg_node>\n\t\t<uuid>85239aa1508010f8f98b87f804b3afcb_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_Qr/b69Q0|v1_qRm90+De</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "匡浩鑫-25-经济"
     },
     {
-      "localId": 811,
-      "createTime": 1762942607,
       "formattedTime": "2025-11-12 18:16:47",
       "type": "文本消息",
-      "localType": 1,
       "content": "英文的推送的大家抓点紧",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_eLyrKVXQ|v1_8bb+SVQR</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 812,
-      "createTime": 1762942611,
       "formattedTime": "2025-11-12 18:16:51",
       "type": "文本消息",
-      "localType": 1,
       "content": "一起改一改文案",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_jOqbEyyh|v1_Outzc/mA</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 813,
-      "createTime": 1762943310,
       "formattedTime": "2025-11-12 18:28:30",
       "type": "图文消息",
-      "localType": 21474836529,
       "content": "[图文] 北大汇丰假面舞会怎么填能过",
-      "isSend": 0,
-      "senderUsername": "wxid_6bdtnq71e4bt12",
-      "senderDisplayName": "24经济吉沛华",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>4</fr>\n\t</alnode>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n\t<sec_msg_node>\n\t\t<uuid>b720dad82df53cd97bff156a7089072c_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_Aie5j/i0|v1_G4By52P4</signature>\n</msgsource>\n"
+      "senderDisplayName": "24经济吉沛华"
     },
     {
-      "localId": 814,
-      "createTime": 1762943326,
       "formattedTime": "2025-11-12 18:28:46",
       "type": "文本消息",
-      "localType": 1,
       "content": "哈哈哈咱的活动还是很有吸引力的[呲牙][阴险][旺柴]",
-      "isSend": 0,
-      "senderUsername": "wxid_6bdtnq71e4bt12",
-      "senderDisplayName": "24经济吉沛华",
-      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_65woILUN|v1_dSzyI02+</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "24经济吉沛华"
     },
     {
-      "localId": 815,
-      "createTime": 1762944382,
       "formattedTime": "2025-11-12 18:46:22",
       "type": "动画表情",
-      "localType": 47,
       "content": "[动画表情]",
-      "isSend": 1,
-      "senderUsername": "wxid_t0lk4ald194u22",
-      "senderDisplayName": "徐昂 Ang",
-      "source": "<msgsource>\n\t<signature>N0_V1_9fVgfrno|v1_9kASU1rc</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "徐昂 Ang"
     },
     {
-      "localId": 816,
-      "createTime": 1762944387,
       "formattedTime": "2025-11-12 18:46:27",
       "type": "文本消息",
-      "localType": 1,
       "content": "推文太漂亮了",
-      "isSend": 1,
-      "senderUsername": "wxid_t0lk4ald194u22",
-      "senderDisplayName": "徐昂 Ang",
-      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<signature>N0_V1_nS9YZTNa|v1_0PvLiDD2</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "徐昂 Ang"
     },
     {
-      "localId": 817,
-      "createTime": 1762944394,
       "formattedTime": "2025-11-12 18:46:34",
       "type": "文本消息",
-      "localType": 1,
       "content": "我们得请公关了",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_epFvYtur|v1_dw5WW2pe</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 818,
-      "createTime": 1762944398,
       "formattedTime": "2025-11-12 18:46:38",
       "type": "文本消息",
-      "localType": 1,
       "content": "成立公关组",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_wBaRgRRO|v1_SwsvVXU3</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 819,
-      "createTime": 1762944476,
       "formattedTime": "2025-11-12 18:47:56",
       "type": "引用消息",
-      "localType": 244813135921,
       "content": "哈哈哈以后专门用来回应网络评论",
-      "isSend": 0,
-      "senderUsername": "wxid_6bdtnq71e4bt12",
-      "senderDisplayName": "24经济吉沛华",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>4</fr>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<sec_msg_node>\n\t\t<uuid>6ad86084897f821d7f9f2fe161faa2c5_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_MJ773gMg|v1_m3jGFz0n</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "24经济吉沛华"
     },
     {
-      "localId": 870,
-      "createTime": 1763051136,
       "formattedTime": "2025-11-14 00:25:36",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<img_file_name>e9be19a0-c52b-4a7d-9e77-08032bf90daa.png</img_file_name>\n\t<alnode>\n\t\t<fr>1</fr>\n\t\t<cf>3</cf>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>411638293ad4f6436b38e125ac486d3a_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnbigimgurl_size=\"306638\" cdnbigimgurl_pd_pri=\"30\" cdnbigimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_WirjY1Th|v1_txgOXW5O</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 871,
-      "createTime": 1763051150,
       "formattedTime": "2025-11-14 00:25:50",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<img_file_name>89151948-befe-4deb-beb4-b3840018965c.png</img_file_name>\n\t<alnode>\n\t\t<fr>1</fr>\n\t\t<cf>3</cf>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>c204a5e04eec8d5dc6b797e587c4d513_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnbigimgurl_size=\"221066\" cdnbigimgurl_pd_pri=\"30\" cdnbigimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_yymHnuzK|v1_2Gytj6yu</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 872,
-      "createTime": 1763051206,
       "formattedTime": "2025-11-14 00:26:46",
       "type": "文本消息",
-      "localType": 1,
       "content": "在前面引入的诗的部分，文案里有的末尾有句号有的没有句号，我不太懂英文诗的标点，目前图片里的标点有需要改的吗？",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_+rjC94pO|v1_Pi6OPFIN</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 873,
-      "createTime": 1763051663,
       "formattedTime": "2025-11-14 00:34:23",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<img_file_name>d36b2a1c-75be-4a13-a570-825040196561.png</img_file_name>\n\t<alnode>\n\t\t<fr>1</fr>\n\t\t<cf>3</cf>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>c6015bc2515b2a8571347850d7f7c7e7_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnbigimgurl_size=\"148995\" cdnbigimgurl_pd_pri=\"30\" cdnbigimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_fGyEqodJ|v1_e7Uy8jq0</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 874,
-      "createTime": 1763051677,
       "formattedTime": "2025-11-14 00:34:37",
       "type": "文本消息",
-      "localType": 1,
       "content": "这一部分的go together for you 是不是需要改一下",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_iK9OcZV8|v1_mjioe7QI</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 875,
-      "createTime": 1763053622,
       "formattedTime": "2025-11-14 01:07:02",
       "type": "文本消息",
-      "localType": 1,
       "content": "感觉读起来有点奇怪？要不去掉go together 直接写We've got three ways for you.",
-      "isSend": 0,
-      "senderUsername": "wxid_q3ingca8bam822",
-      "senderDisplayName": "组织联络部-刘骥宸",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_l/D/sqxW|v1_W+DCMeQr</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "组织联络部-刘骥宸"
     },
     {
-      "localId": 876,
-      "createTime": 1763053763,
       "formattedTime": "2025-11-14 01:09:23",
       "type": "文本消息",
-      "localType": 1,
       "content": "👌",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_bO5EuHhD|v1_xjV6j8EY</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 877,
-      "createTime": 1763090154,
       "formattedTime": "2025-11-14 11:15:54",
       "type": "图文消息",
-      "localType": 21474836529,
       "content": "[图文] The 11th PHBS Masquerade | A courtly night dream【ACTION NOW】",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>5</fr>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>7e5cec5c9686f0de0f93c162427a7363_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_vmWOGouh|v1_4ZE89isJ</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 878,
-      "createTime": 1763092500,
       "formattedTime": "2025-11-14 11:55:00",
       "type": "文本消息",
-      "localType": 1,
       "content": "老师那边没意见了",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_AhLpt+Xj|v1_ngL0YurB</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 879,
-      "createTime": 1763092529,
       "formattedTime": "2025-11-14 11:55:29",
       "type": "文本消息",
-      "localType": 1,
       "content": "好～",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_5JtkLZLZ|v1_+SIgwjQ7</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 880,
-      "createTime": 1763092532,
       "formattedTime": "2025-11-14 11:55:32",
       "type": "文本消息",
-      "localType": 1,
       "content": "那我们几点发？",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_fROdLei3|v1_MnLgY59Z</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 881,
-      "createTime": 1763092565,
       "formattedTime": "2025-11-14 11:56:05",
       "type": "文本消息",
-      "localType": 1,
       "content": "十二点要不",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<alnode>\n\t\t<inlenlist>19</inlenlist>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_tYz/22rO|v1_/yDUw/jG</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 882,
-      "createTime": 1763092581,
       "formattedTime": "2025-11-14 11:56:21",
       "type": "引用消息",
-      "localType": 244813135921,
       "content": "饭点可以的",
-      "isSend": 0,
-      "senderUsername": "wxid_vlj601697ps122",
-      "senderDisplayName": "匡浩鑫-25-经济",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>4d0c67628de46f82cbf4d70e94b6fcd0_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_mHGvLTf6|v1_U8c4ipU8</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "匡浩鑫-25-经济"
     },
     {
-      "localId": 883,
-      "createTime": 1763092586,
       "formattedTime": "2025-11-14 11:56:26",
       "type": "文本消息",
-      "localType": 1,
       "content": "现在来得及设置吗",
-      "isSend": 0,
-      "senderUsername": "wxid_vlj601697ps122",
-      "senderDisplayName": "匡浩鑫-25-经济",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_t0WHlhFS|v1_r23BXcq6</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "匡浩鑫-25-经济"
     },
     {
-      "localId": 884,
-      "createTime": 1763092630,
       "formattedTime": "2025-11-14 11:57:10",
       "type": "文本消息",
-      "localType": 1,
       "content": "我十二点准时发布就行",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_ucQIXN13|v1_0SD6VUwH</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 885,
-      "createTime": 1763092648,
       "formattedTime": "2025-11-14 11:57:28",
       "type": "文本消息",
-      "localType": 1,
       "content": "好嘞好嘞",
-      "isSend": 0,
-      "senderUsername": "wxid_vlj601697ps122",
-      "senderDisplayName": "匡浩鑫-25-经济",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_20b3CCIh|v1_EK7hlQH8</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "匡浩鑫-25-经济"
     },
     {
-      "localId": 886,
-      "createTime": 1763092696,
       "formattedTime": "2025-11-14 11:58:16",
       "type": "文本消息",
-      "localType": 1,
       "content": "文案发一发",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_DZXDqJWW|v1_kA5iaRM7</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 887,
-      "createTime": 1763092714,
       "formattedTime": "2025-11-14 11:58:34",
       "type": "文本消息",
-      "localType": 1,
       "content": "感觉除了 pyq 以外，其他的地方（各种群聊）",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_0walVBhO|v1_o22FL7B+</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 888,
-      "createTime": 1763092720,
       "formattedTime": "2025-11-14 11:58:40",
       "type": "文本消息",
-      "localType": 1,
       "content": "可以再轰炸一次",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_ZHeFvdL1|v1_ftiCk85J</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 889,
-      "createTime": 1763092940,
       "formattedTime": "2025-11-14 12:02:20",
       "type": "系统消息",
-      "localType": 10000,
       "content": "撤回了一条消息",
-      "isSend": 0,
-      "senderUsername": "47707412594@chatroom",
-      "senderDisplayName": "群成员",
-      "source": "<msgsource/>"
+      "senderDisplayName": "群成员"
     },
     {
-      "localId": 890,
-      "createTime": 1763092967,
       "formattedTime": "2025-11-14 12:02:47",
       "type": "图文消息",
-      "localType": 21474836529,
       "content": "[图文] The 11th PHBS Masquerade | A courtly night dream【ACTION NOW】",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<sec_msg_node>\n\t\t<uuid>55525d980ab476f4466e83dcb72e61e6_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_WpsQ2Vv/|v1_r3myxoqd</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 891,
-      "createTime": 1763093004,
       "formattedTime": "2025-11-14 12:03:24",
       "type": "文本消息",
-      "localType": 1,
       "content": "You're Invited: PHBS Masquerade\n\n🗓️ Date: November 22 \n🕡 Time: 18:30 \n📍 Location: B2 Auditorium\n\nThe PHBS Student Union invites you to \"Renaissance Rhapsody,\" an enchanting evening inspired by Romeo & Juliet.\n\nEnjoy a night of: \n✨ Elegant Masquerade \n🎶 Live Music & Dancing \n🎁 Exciting Raffles \n🍸 Themed Refreshments\n\nRSVP by November 15.",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<alnode>\n\t\t<inlenlist>342</inlenlist>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_CM99FiqC|v1_m4GXWshE</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 892,
-      "createTime": 1763093020,
       "formattedTime": "2025-11-14 12:03:40",
       "type": "引用消息",
-      "localType": 244813135921,
       "content": "是不是中文版轰炸更好一些？",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>a069ef803ceed37ed5c608ba421c7471_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_Cx6Wvxa3|v1_xTmU0C/l</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 893,
-      "createTime": 1763093026,
       "formattedTime": "2025-11-14 12:03:46",
       "type": "系统消息",
-      "localType": 10000,
       "content": "撤回了一条消息",
-      "isSend": 0,
-      "senderUsername": "47707412594@chatroom",
-      "senderDisplayName": "群成员",
-      "source": "<msgsource/>"
+      "senderDisplayName": "群成员"
     },
     {
-      "localId": 894,
-      "createTime": 1763094453,
       "formattedTime": "2025-11-14 12:27:33",
       "type": "文本消息",
-      "localType": 1,
       "content": "📣11.22周六18:30 北大汇丰 B2报告厅\n🏰漫舞鎏庭宴｜月下之约，梦回宫廷夜\n✨精彩表演·游戏抽奖 ·精致茶歇\n💖第十一届北大汇丰假面舞会，期待您的到来！",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<eggIncluded>1</eggIncluded>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n\t<alnode>\n\t\t<fr>2</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_KV2cph9O|v1_CvE90fDD</signature>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 895,
-      "createTime": 1763094453,
       "formattedTime": "2025-11-14 12:27:33",
       "type": "图文消息",
-      "localType": 21474836529,
       "content": "[图文] 第十一届北京大学汇丰商学院假面舞会｜月下之约，梦回宫廷夜【立即报名】",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n\t<alnode>\n\t\t<fr>2</fr>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>2d64c19f3a24dd79467998fa566d8a80_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_w9RsCA0U|v1_WCEala4I</signature>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 896,
-      "createTime": 1763094454,
       "formattedTime": "2025-11-14 12:27:34",
       "type": "系统消息",
-      "localType": 10000,
       "content": "撤回了一条消息",
-      "isSend": 0,
-      "senderUsername": "47707412594@chatroom",
-      "senderDisplayName": "群成员",
-      "source": "<msgsource/>"
+      "senderDisplayName": "群成员"
     },
     {
-      "localId": 897,
-      "createTime": 1763094478,
       "formattedTime": "2025-11-14 12:27:58",
       "type": "文本消息",
-      "localType": 1,
       "content": "老师们！！！麻烦大家朋友圈再转发轰炸一波！！！文案还是这一条～",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<alnode>\n\t\t<inlenlist>28</inlenlist>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_gSAoFjnj|v1_CoFcHivH</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 898,
-      "createTime": 1763109890,
       "formattedTime": "2025-11-14 16:44:50",
       "type": "文本消息",
-      "localType": 1,
       "content": "现在的报名表做一下统计@南山 ",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<atuserlist>wxid_bwzdztgb2lvz22</atuserlist>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_kx2MBSxI|v1_Pze1itnm</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 899,
-      "createTime": 1763109899,
       "formattedTime": "2025-11-14 16:44:59",
       "type": "文本消息",
-      "localType": 1,
       "content": "晚上开会的时候讨论一下",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_n+eUSuZ/|v1_vUU7t9ev</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 900,
-      "createTime": 1763112200,
       "formattedTime": "2025-11-14 17:23:20",
       "type": "文本消息",
-      "localType": 1,
       "content": "收到",
-      "isSend": 0,
-      "senderUsername": "wxid_bwzdztgb2lvz22",
-      "senderDisplayName": "25 金科 孙嘉言",
-      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_QQoMDbrH|v1_OxkQ60xh</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 金科 孙嘉言"
     },
     {
-      "localId": 901,
-      "createTime": 1763136422,
       "formattedTime": "2025-11-15 00:07:02",
       "type": "文件消息",
-      "localType": 25769803825,
       "content": "[文件] 2025.11.15假面舞会讨论会会议纪要.docx",
-      "isSend": 0,
-      "senderUsername": "wxid_awkhzpy1vj1j22",
-      "senderDisplayName": "张壹豪-央财-数量与金融科技",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t\t<cf>3</cf>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>cb8dea1c282ffb35af740e407c564d3e_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<appmsg_pd cdnattachurl_size=\"21178\" cdnattachurl_score_all=\"\" cdnattachurl_pd_pri=\"30\" cdnattachurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_GdSKpo5F|v1_LaF89PYR</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "张壹豪-央财-数量与金融科技"
     },
     {
-      "localId": 902,
-      "createTime": 1763137254,
       "formattedTime": "2025-11-15 00:20:54",
       "type": "图文消息",
-      "localType": 21474836529,
       "content": "[图文] 【今晚24：00截止】第十一届北京大学汇丰商学院假面舞会｜月下之约，梦回宫廷夜",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>5</fr>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>ad4db97c44ef15e2fc574c150148463d_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_carE9TLo|v1_8/eZZ2lU</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 903,
-      "createTime": 1763137301,
       "formattedTime": "2025-11-15 00:21:41",
       "type": "文本消息",
-      "localType": 1,
       "content": "好",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_g3M4sZma|v1_YIiE0fio</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 904,
-      "createTime": 1763137441,
       "formattedTime": "2025-11-15 00:24:01",
       "type": "动画表情",
-      "localType": 47,
       "content": "[动画表情]",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_aGvTW2hY|v1_17dbteZv</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 905,
-      "createTime": 1763176886,
       "formattedTime": "2025-11-15 11:21:26",
       "type": "文本消息",
-      "localType": 1,
       "content": "筛选工作目前还缺少4人，想参加的uu，欢迎来我这里报名～",
-      "isSend": 0,
-      "senderUsername": "wxid_awkhzpy1vj1j22",
-      "senderDisplayName": "张壹豪-央财-数量与金融科技",
-      "source": "<msgsource>\n\t<pua>1</pua>\n\t<alnode>\n\t\t<cf>5</cf>\n\t\t<inlenlist>40</inlenlist>\n\t</alnode>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_Lpm0ydEh|v1_Q0w675o3</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "张壹豪-央财-数量与金融科技"
     },
     {
-      "localId": 906,
-      "createTime": 1763176887,
       "formattedTime": "2025-11-15 11:21:27",
       "type": "动画表情",
-      "localType": 47,
       "content": "[动画表情]",
-      "isSend": 0,
-      "senderUsername": "wxid_awkhzpy1vj1j22",
-      "senderDisplayName": "张壹豪-央财-数量与金融科技",
-      "source": "<msgsource>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_kJ8/80Um|v1_yNcDVxxk</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "张壹豪-央财-数量与金融科技"
     },
     {
-      "localId": 907,
-      "createTime": 1763186332,
       "formattedTime": "2025-11-15 13:58:52",
       "type": "文本消息",
-      "localType": 1,
       "content": "🔴重磅消息\n‼️今晚24:00截止报名‼️\n💃假面舞会等您来💃",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<eggIncluded>1</eggIncluded>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n\t<alnode>\n\t\t<fr>2</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_RMsrnTq1|v1_0I4LekSp</signature>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 908,
-      "createTime": 1763186333,
       "formattedTime": "2025-11-15 13:58:53",
       "type": "图文消息",
-      "localType": 21474836529,
       "content": "[图文] 【今晚24：00截止】第十一届北京大学汇丰商学院假面舞会｜月下之约，梦回宫廷夜",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n\t<alnode>\n\t\t<fr>2</fr>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>8f2d01bef0ef0572c15d2d72c8c46e91_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_w8qoI1Qe|v1_AQGmibvY</signature>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 909,
-      "createTime": 1763186333,
       "formattedTime": "2025-11-15 13:58:53",
       "type": "文本消息",
-      "localType": 1,
       "content": "老师们请多多转发呀！！！",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_zre5mu7I|v1_kuHbxTjc</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 910,
-      "createTime": 1763186447,
       "formattedTime": "2025-11-15 14:00:47",
       "type": "文本消息",
-      "localType": 1,
       "content": "[哇][哇][哇]",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_9mixbAmZ|v1_BW6rW9DR</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 911,
-      "createTime": 1763206144,
       "formattedTime": "2025-11-15 19:29:04",
       "type": "文本消息",
-      "localType": 1,
       "content": "老师们这是下一条推送的文案，麻烦老师们看看有没有需要修改的地方～",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_LzKErNwd|v1_v0YW5zC/</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 912,
-      "createTime": 1763206144,
       "formattedTime": "2025-11-15 19:29:04",
       "type": "文件消息",
-      "localType": 25769803825,
       "content": "[文件] 倒计时五天推送文案.docx",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n\t<alnode>\n\t\t<fr>4</fr>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>b67f33fd65e0216f29dfccadb4cef3c4_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<appmsg_pd cdnattachurl_size=\"19277\" cdnattachurl_score_all=\"\" cdnattachurl_pd_pri=\"30\" cdnattachurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_/NHQdWQs|v1_k4QxEiM/</signature>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 913,
-      "createTime": 1763206888,
       "formattedTime": "2025-11-15 19:41:28",
       "type": "文本消息",
-      "localType": 1,
       "content": "汇丰同学门票改成20号吧 19号周三大家没课诶",
-      "isSend": 0,
-      "senderUsername": "wxid_vlj601697ps122",
-      "senderDisplayName": "匡浩鑫-25-经济",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_ZRCYy8B4|v1_GFqUEzZv</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "匡浩鑫-25-经济"
     },
     {
-      "localId": 914,
-      "createTime": 1763211463,
       "formattedTime": "2025-11-15 20:57:43",
       "type": "文本消息",
-      "localType": 1,
       "content": "好嘟",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_n41G7dP2|v1_rFKapJWk</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 915,
-      "createTime": 1763211490,
       "formattedTime": "2025-11-15 20:58:10",
       "type": "文本消息",
-      "localType": 1,
       "content": "还有其他需要修改/补充的内容嘛",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_7DGQXwuz|v1_sEH7z04u</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 916,
-      "createTime": 1763211507,
       "formattedTime": "2025-11-15 20:58:27",
       "type": "文本消息",
-      "localType": 1,
       "content": "辛苦uu们再检查一下",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_v9n11ZGB|v1_glTt9yEc</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 917,
-      "createTime": 1763211591,
       "formattedTime": "2025-11-15 20:59:51",
       "type": "文本消息",
-      "localType": 1,
       "content": "燥等大家的建议[流泪]",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_YFy0ylDv|v1_SbG0KNPe</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 918,
-      "createTime": 1763255984,
       "formattedTime": "2025-11-16 09:19:44",
       "type": "文本消息",
-      "localType": 1,
       "content": "我觉得整体没问题",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_PTjjiQqI|v1_D/rXd5kX</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 919,
-      "createTime": 1763256184,
       "formattedTime": "2025-11-16 09:23:04",
       "type": "文本消息",
-      "localType": 1,
       "content": "但是今年出现了和往年不太相同的情况，有一半的同学可能都是单个过来的",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_gzvrVZm5|v1_5OSYoDgZ</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 920,
-      "createTime": 1763256270,
       "formattedTime": "2025-11-16 09:24:30",
       "type": "文本消息",
-      "localType": 1,
       "content": "所以咱们的匹配规则设计很重要",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_mnt5RmSD|v1_voXANCif</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 921,
-      "createTime": 1763256275,
       "formattedTime": "2025-11-16 09:24:35",
       "type": "文本消息",
-      "localType": 1,
       "content": "这部分挺刚需的",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_ih1zPCy7|v1_fbl+tvEM</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 922,
-      "createTime": 1763261845,
       "formattedTime": "2025-11-16 10:57:25",
       "type": "文本消息",
-      "localType": 1,
       "content": "好滴",
-      "isSend": 0,
-      "senderUsername": "wxid_6c3ql5yivtmv12",
-      "senderDisplayName": "25管双张豪乐",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_mCQbxF19|v1_PED/78pp</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25管双张豪乐"
     },
     {
-      "localId": 923,
-      "createTime": 1763267219,
       "formattedTime": "2025-11-16 12:26:59",
       "type": "文本消息",
-      "localType": 1,
       "content": "crs今年酒单定价：两类，即饮23，特调29，取消49的类型，这样应该是比去年更便宜了",
-      "isSend": 1,
-      "senderUsername": "wxid_t0lk4ald194u22",
-      "senderDisplayName": "徐昂 Ang",
-      "source": "<msgsource><alnode><fr>1</fr></alnode></msgsource>"
+      "senderDisplayName": "徐昂 Ang"
     },
     {
-      "localId": 924,
-      "createTime": 1763267248,
       "formattedTime": "2025-11-16 12:27:28",
       "type": "文本消息",
-      "localType": 1,
       "content": "没问题的话我就让crs做酒单和易拉宝了~",
-      "isSend": 1,
-      "senderUsername": "wxid_t0lk4ald194u22",
-      "senderDisplayName": "徐昂 Ang",
-      "source": "<msgsource><alnode><fr>1</fr></alnode></msgsource>"
+      "senderDisplayName": "徐昂 Ang"
     },
     {
-      "localId": 925,
-      "createTime": 1763268221,
       "formattedTime": "2025-11-16 12:43:41",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<mediaeditcontent />\n\t<sec_msg_node>\n\t\t<uuid>8ed1654b41c89cd71fb1ccf1f9ef0a39_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnmidimgurl_size=\"46025\" cdnmidimgurl_pd_pri=\"30\" cdnmidimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_a6CwV+Cx|v1_+04gaLS/</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 926,
-      "createTime": 1763268237,
       "formattedTime": "2025-11-16 12:43:57",
       "type": "文本消息",
-      "localType": 1,
       "content": "这是去年的酒吗",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_cLVMet97|v1_rxgHNhX7</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 927,
-      "createTime": 1763268258,
       "formattedTime": "2025-11-16 12:44:18",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<mediaeditcontent />\n\t<sec_msg_node>\n\t\t<uuid>70de7e876028790229bd754551930b16_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnmidimgurl_size=\"86825\" cdnmidimgurl_pd_pri=\"30\" cdnmidimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_ZgTSjIEz|v1_NjET2Fjy</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 928,
-      "createTime": 1763268353,
       "formattedTime": "2025-11-16 12:45:53",
       "type": "文本消息",
-      "localType": 1,
       "content": "之前去236就有这些了",
-      "isSend": 0,
-      "senderUsername": "wxid_vlj601697ps122",
-      "senderDisplayName": "匡浩鑫-25-经济",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_69APoDhl|v1_pLE/A+gc</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "匡浩鑫-25-经济"
     },
     {
-      "localId": 929,
-      "createTime": 1763268365,
       "formattedTime": "2025-11-16 12:46:05",
       "type": "文本消息",
-      "localType": 1,
       "content": "但不知道是不是去年舞会的",
-      "isSend": 0,
-      "senderUsername": "wxid_vlj601697ps122",
-      "senderDisplayName": "匡浩鑫-25-经济",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_2dkSOWYF|v1_EbIXO7wG</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "匡浩鑫-25-经济"
     },
     {
-      "localId": 930,
-      "createTime": 1763268415,
       "formattedTime": "2025-11-16 12:46:55",
       "type": "文本消息",
-      "localType": 1,
       "content": "对",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_PLMOpKvl|v1_U6W+A70P</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 931,
-      "createTime": 1763268561,
       "formattedTime": "2025-11-16 12:49:21",
       "type": "文本消息",
-      "localType": 1,
       "content": "应该是的，去年舞会的",
-      "isSend": 1,
-      "senderUsername": "wxid_t0lk4ald194u22",
-      "senderDisplayName": "徐昂 Ang",
-      "source": "<msgsource><alnode><fr>1</fr></alnode></msgsource>"
+      "senderDisplayName": "徐昂 Ang"
     },
     {
-      "localId": 932,
-      "createTime": 1763274706,
       "formattedTime": "2025-11-16 14:31:46",
       "type": "文本消息",
-      "localType": 1,
       "content": "想问一下图文直播现在确定了吗？",
-      "isSend": 0,
-      "senderUsername": "wxid_vlj601697ps122",
-      "senderDisplayName": "匡浩鑫-25-经济",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_UDm4ujWY|v1_Y8sjydV8</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "匡浩鑫-25-经济"
     },
     {
-      "localId": 933,
-      "createTime": 1763283210,
       "formattedTime": "2025-11-16 16:53:30",
       "type": "图片消息",
-      "localType": 3,
       "content": "[图片]",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<img_file_name>31eb9baa-b7ab-4563-9f5a-b26407be865c.png</img_file_name>\n\t<alnode>\n\t\t<fr>1</fr>\n\t\t<cf>3</cf>\n\t</alnode>\n\t<sec_msg_node>\n\t\t<uuid>bee6e72b77105dd493d3a39fd295d7fc_</uuid>\n\t\t<risk-file-flag />\n\t\t<risk-file-md5-list />\n\t</sec_msg_node>\n\t<imgmsg_pd cdnbigimgurl_size=\"226259\" cdnbigimgurl_pd_pri=\"30\" cdnbigimgurl_pd=\"0\" />\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_nAi4HPHe|v1_dA0/dL1i</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 934,
-      "createTime": 1763283215,
       "formattedTime": "2025-11-16 16:53:35",
       "type": "文本消息",
-      "localType": 1,
       "content": "这个最终数量是多少",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<alnode>\n\t\t<fr>1</fr>\n\t</alnode>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_S1LTTsMa|v1_BTGPv2We</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 935,
-      "createTime": 1763285352,
       "formattedTime": "2025-11-16 17:29:12",
       "type": "文本消息",
-      "localType": 1,
       "content": "600份",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_Q0SKFWNL|v1_tJeHamcH</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 936,
-      "createTime": 1763285385,
       "formattedTime": "2025-11-16 17:29:45",
       "type": "文本消息",
-      "localType": 1,
       "content": "总阅读量写2.5w 吧",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_yzh6kEuN|v1_IodzuJO2</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 937,
-      "createTime": 1763285388,
       "formattedTime": "2025-11-16 17:29:48",
       "type": "文本消息",
-      "localType": 1,
       "content": "三个加在一起",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_GG7fJ2tC|v1_sN1pGeCz</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
     },
     {
-      "localId": 938,
-      "createTime": 1763286051,
       "formattedTime": "2025-11-16 17:40:51",
       "type": "系统消息",
-      "localType": 10000,
       "content": "撤回了一条消息",
-      "isSend": 0,
-      "senderUsername": "47707412594@chatroom",
-      "senderDisplayName": "群成员",
-      "source": "<msgsource/>"
+      "senderDisplayName": "群成员"
     },
     {
-      "localId": 939,
-      "createTime": 1763286486,
       "formattedTime": "2025-11-16 17:48:06",
       "type": "文本消息",
-      "localType": 1,
       "content": "收到",
-      "isSend": 0,
-      "senderUsername": "wxid_kh1hytc0cwwi22",
-      "senderDisplayName": "25 企业管理 李奕",
-      "source": "<msgsource>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_B646metO|v1_vTFpWbEQ</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "25 企业管理 李奕"
     },
     {
-      "localId": 940,
-      "createTime": 1763286499,
       "formattedTime": "2025-11-16 17:48:19",
       "type": "文本消息",
-      "localType": 1,
       "content": "嗯嗯",
-      "isSend": 0,
-      "senderUsername": "wxid_ecsq8qhtiwy312",
-      "senderDisplayName": "任凯-24-金科",
-      "source": "<msgsource>\n\t<bizflag>0</bizflag>\n\t<pua>1</pua>\n\t<eggIncluded>1</eggIncluded>\n\t<silence>1</silence>\n\t<membercount>19</membercount>\n\t<signature>N0_V1_7OQAr96q|v1_PnW4y7nA</signature>\n\t<tmp_node>\n\t\t<publisher-id></publisher-id>\n\t</tmp_node>\n</msgsource>\n"
+      "senderDisplayName": "任凯-24-金科"
+    },
+    {
+      "formattedTime": "2025-11-29 12:42:40",
+      "type": "文本消息",
+      "content": "https://www.canva.cn/design/DAG55O3GLdg/-jx1KAzIV4F38YgXiuJEBA/edit?utm_content=DAG55O3GLdg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "senderDisplayName": "25 企业管理 李奕"
+    },
+    {
+      "formattedTime": "2025-11-29 12:43:18",
+      "type": "文本消息",
+      "content": "最后一篇推送~这个是可画的链接，大家可以在每一页发表评论",
+      "senderDisplayName": "25 企业管理 李奕"
+    },
+    {
+      "formattedTime": "2025-11-29 12:43:47",
+      "type": "系统消息",
+      "content": "撤回了一条消息",
+      "senderDisplayName": "群成员"
+    },
+    {
+      "formattedTime": "2025-11-29 12:44:12",
+      "type": "文本消息",
+      "content": "空白过多的部分先不用管，之后会裁掉",
+      "senderDisplayName": "25 企业管理 李奕"
+    },
+    {
+      "formattedTime": "2025-11-29 12:46:34",
+      "type": "文本消息",
+      "content": "是不是没有赞助商信息",
+      "senderDisplayName": "田唯佑"
+    },
+    {
+      "formattedTime": "2025-11-29 12:47:02",
+      "type": "文本消息",
+      "content": "赞助商除了安盛增加了一张图片之外其他的是不是都没变？",
+      "senderDisplayName": "25 企业管理 李奕"
+    },
+    {
+      "formattedTime": "2025-11-29 12:47:09",
+      "type": "文本消息",
+      "content": "对",
+      "senderDisplayName": "田唯佑"
+    },
+    {
+      "formattedTime": "2025-11-29 12:47:12",
+      "type": "文本消息",
+      "content": "对的",
+      "senderDisplayName": "高紫涵-西南财经大学-数量与金科"
+    },
+    {
+      "formattedTime": "2025-11-29 12:47:24",
+      "type": "文本消息",
+      "content": "那这个先不用管，我在另一篇修改后导出",
+      "senderDisplayName": "25 企业管理 李奕"
+    },
+    {
+      "formattedTime": "2025-11-29 12:47:36",
+      "type": "文本消息",
+      "content": "[OK]",
+      "senderDisplayName": "田唯佑"
+    },
+    {
+      "formattedTime": "2025-11-29 18:26:14",
+      "type": "图文消息",
+      "content": "[图文] 活动回顾｜月下之约，梦回宫廷夜",
+      "senderDisplayName": "25 企业管理 李奕"
+    },
+    {
+      "formattedTime": "2025-11-29 18:40:45",
+      "type": "文本消息",
+      "content": "感觉很完善了",
+      "senderDisplayName": "任凯-24-金科"
     }
   ],
   "exportMetadata": {
-    "totalMessageCount": 121,
+    "totalMessageCount": 133,
     "firstExportTime": "2025-11-12T17:27:49.218111",
-    "lastExportTime": "2025-11-16T17:50:21.190245",
-    "lastExportedLocalId": 940,
-    "lastExportedTimestamp": 1763286499,
+    "lastExportTime": "2025-12-05T12:17:37.739957",
+    "lastExportedLocalId": 1442,
+    "lastExportedTimestamp": 1764412845,
     "isIncremental": true,
-    "newMessagesCount": 71
+    "newMessagesCount": 0
   }
 }
