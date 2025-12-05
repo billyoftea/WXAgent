@@ -2,6 +2,7 @@
 #include "../include/syscalls.h"
 #include "../include/shellcode_builder.h"
 #include <algorithm>
+#include <cstdio>
 
 // 简单的x64反汇编长度检测器
 // 支持常见指令，用于计算需要备份多少字节
@@ -99,11 +100,21 @@ RemoteHooker::RemoteHooker(HANDLE hProcess)
     , remoteShellcodeAddress(0)
     , trampolineAddress(0)
     , isHookInstalled(false)
+    , useHardwareBreakpoint(false)
 {
 }
 
 RemoteHooker::~RemoteHooker() {
     UninstallHook();
+}
+
+namespace {
+    void DebugProtectChange(const char* label, void* address, SIZE_T size, DWORD protect) {
+        char buffer[160]{};
+        _snprintf_s(buffer, sizeof(buffer) - 1, _TRUNCATE, "[RemoteHooker] %s addr=%p size=%zu prot=0x%lx\n",
+            label, address, static_cast<size_t>(size), static_cast<unsigned long>(protect));
+        OutputDebugStringA(buffer);
+    }
 }
 
 PVOID RemoteHooker::RemoteAllocate(SIZE_T size, DWORD protect) {
@@ -120,19 +131,6 @@ PVOID RemoteHooker::RemoteAllocate(SIZE_T size, DWORD protect) {
     );
     
     return (status == STATUS_SUCCESS) ? baseAddress : nullptr;
-}
-
-bool RemoteHooker::RemoteFree(PVOID address, SIZE_T size) {
-    SIZE_T regionSize = size;
-    
-    NTSTATUS status = IndirectSyscalls::NtFreeVirtualMemory(
-        hProcess,
-        &address,
-        &regionSize,
-        MEM_RELEASE
-    );
-    
-    return (status == STATUS_SUCCESS);
 }
 
 bool RemoteHooker::RemoteWrite(PVOID address, const void* data, SIZE_T size) {
@@ -214,18 +212,16 @@ bool RemoteHooker::CreateTrampoline(uintptr_t targetAddr) {
     // 分配Trampoline内存
     // Trampoline = 原始指令 + 跳转回原函数的JMP指令
     SIZE_T trampolineSize = hookLen + 14; // 原始指令 + 长跳转
-    PVOID trampolineAddr = RemoteAllocate(trampolineSize, PAGE_EXECUTE_READWRITE);
-    
-    if (!trampolineAddr) {
+    RemoteMemory trampMem;
+    if (!trampMem.allocate(hProcess, trampolineSize, PAGE_READWRITE)) {
         return false;
     }
+    PVOID trampolineAddr = trampMem.get();
     
     trampolineAddress = (uintptr_t)trampolineAddr;
     
     // 写入原始指令
     if (!RemoteWrite(trampolineAddr, originalCode, hookLen)) {
-        RemoteFree(trampolineAddr, trampolineSize);
-        trampolineAddress = 0;
         return false;
     }
     
@@ -234,10 +230,16 @@ bool RemoteHooker::CreateTrampoline(uintptr_t targetAddr) {
     std::vector<BYTE> jmpBack = GenerateJumpInstruction(trampolineAddress + hookLen, returnAddress);
     
     if (!RemoteWrite((PVOID)(trampolineAddress + hookLen), jmpBack.data(), jmpBack.size())) {
-        RemoteFree(trampolineAddr, trampolineSize);
         trampolineAddress = 0;
         return false;
     }
+
+    if (!trampMem.protect(PAGE_EXECUTE_READ)) {
+        trampolineAddress = 0;
+        return false;
+    }
+    DebugProtectChange("trampoline RX", trampolineAddr, trampolineSize, PAGE_EXECUTE_READ);
+    trampolineMemory = std::move(trampMem);
     
     return true;
 }
@@ -293,32 +295,51 @@ bool RemoteHooker::InstallHook(uintptr_t targetFunctionAddress, const ShellcodeC
     std::vector<BYTE> shellcode = builder.BuildHookShellcode(updatedConfig);
     
     // 3. 在远程进程中分配Shellcode内存
-    PVOID remoteShellcode = RemoteAllocate(shellcode.size(), PAGE_EXECUTE_READWRITE);
-    if (!remoteShellcode) {
-        // 清理Trampoline
-        RemoteFree((PVOID)trampolineAddress, originalBytes.size() + 14);
+    RemoteMemory shellMem;
+    if (!shellMem.allocate(hProcess, shellcode.size(), PAGE_READWRITE)) {
+        trampolineMemory.reset();
         trampolineAddress = 0;
         return false;
     }
-    
+    PVOID remoteShellcode = shellMem.get();
     remoteShellcodeAddress = (uintptr_t)remoteShellcode;
     
     // 4. 写入Shellcode
     if (!RemoteWrite(remoteShellcode, shellcode.data(), shellcode.size())) {
-        RemoteFree(remoteShellcode, shellcode.size());
-        RemoteFree((PVOID)trampolineAddress, originalBytes.size() + 14);
+        trampolineMemory.reset();
+        trampolineAddress = 0;
+        remoteShellcodeAddress = 0;
+        return false;
+    }
+
+    if (!shellMem.protect(PAGE_EXECUTE_READ)) {
+        trampolineMemory.reset();
+        trampolineAddress = 0;
+        remoteShellcodeAddress = 0;
+        return false;
+    }
+    DebugProtectChange("shellcode RX", remoteShellcode, shellcode.size(), PAGE_EXECUTE_READ);
+    shellcodeMemory = std::move(shellMem);
+
+    DWORD shellOldProtect = 0;
+    if (!RemoteProtect(remoteShellcode, shellcode.size(), PAGE_EXECUTE_READ, &shellOldProtect)) {
+        shellcodeMemory.reset();
+        shellcodeMemory = RemoteMemory();
+        trampolineMemory.reset();
         remoteShellcodeAddress = 0;
         trampolineAddress = 0;
         return false;
     }
+    DebugProtectChange("shellcode RX", remoteShellcode, shellcode.size(), PAGE_EXECUTE_READ);
     
     // 5. 生成Hook跳转指令
     std::vector<BYTE> hookJump = GenerateJumpInstruction(targetAddress, remoteShellcodeAddress);
     
     // 确保有足够的空间
     if (hookJump.size() > originalBytes.size()) {
-        RemoteFree(remoteShellcode, shellcode.size());
-        RemoteFree((PVOID)trampolineAddress, originalBytes.size() + 14);
+        shellcodeMemory.reset();
+        shellcodeMemory = RemoteMemory();
+        trampolineMemory.reset();
         remoteShellcodeAddress = 0;
         trampolineAddress = 0;
         return false;
@@ -329,63 +350,67 @@ bool RemoteHooker::InstallHook(uintptr_t targetFunctionAddress, const ShellcodeC
         hookJump.push_back(0x90); // NOP
     }
     
-    // 6. 修改目标函数的保护属性
-    DWORD oldProtect;
-    if (!RemoteProtect((PVOID)targetAddress, originalBytes.size(), PAGE_EXECUTE_READWRITE, &oldProtect)) {
-        RemoteFree(remoteShellcode, shellcode.size());
-        RemoteFree((PVOID)trampolineAddress, originalBytes.size() + 14);
-        remoteShellcodeAddress = 0;
-        trampolineAddress = 0;
-        return false;
+    if (useHardwareBreakpoint) {
+        // 硬件断点模式：不写补丁，直接返回，由上层负责设置断点/VEH
+        isHookInstalled = true;
+        return true;
+    } else {
+        // Inline Patch 模式（回退）
+        // 6. 修改目标函数的保护属性
+        DWORD oldProtect;
+        if (!RemoteProtect((PVOID)targetAddress, originalBytes.size(), PAGE_EXECUTE_READWRITE, &oldProtect)) {
+            shellcodeMemory.reset();
+            shellcodeMemory = RemoteMemory();
+            trampolineMemory.reset();
+            remoteShellcodeAddress = 0;
+            trampolineAddress = 0;
+            return false;
+        }
+        
+        // 7. 写入Hook跳转指令（原子操作）
+        bool writeSuccess = RemoteWrite((PVOID)targetAddress, hookJump.data(), hookJump.size());
+        
+        // 8. 恢复原始保护属性
+        DWORD tempProtect;
+        RemoteProtect((PVOID)targetAddress, originalBytes.size(), oldProtect, &tempProtect);
+        
+        if (!writeSuccess) {
+            shellcodeMemory.reset();
+            shellcodeMemory = RemoteMemory();
+            trampolineMemory.reset();
+            remoteShellcodeAddress = 0;
+            trampolineAddress = 0;
+            return false;
+        }
+        
+        isHookInstalled = true;
+        return true;
     }
-    
-    // 7. 写入Hook跳转指令（原子操作）
-    bool writeSuccess = RemoteWrite((PVOID)targetAddress, hookJump.data(), hookJump.size());
-    
-    // 8. 恢复原始保护属性
-    DWORD tempProtect;
-    RemoteProtect((PVOID)targetAddress, originalBytes.size(), oldProtect, &tempProtect);
-    
-    if (!writeSuccess) {
-        RemoteFree(remoteShellcode, shellcode.size());
-        RemoteFree((PVOID)trampolineAddress, originalBytes.size() + 14);
-        remoteShellcodeAddress = 0;
-        trampolineAddress = 0;
-        return false;
-    }
-    
-    isHookInstalled = true;
-    return true;
 }
 
 bool RemoteHooker::UninstallHook() {
     if (!isHookInstalled) {
         return true;
     }
-    
-    // 1. 修改保护属性
-    DWORD oldProtect;
-    if (!RemoteProtect((PVOID)targetAddress, originalBytes.size(), PAGE_EXECUTE_READWRITE, &oldProtect)) {
-        return false;
+
+    bool restoreSuccess = true;
+
+    if (!useHardwareBreakpoint) {
+        // Inline patch 模式才需要恢复补丁
+        DWORD oldProtect;
+        if (!RemoteProtect((PVOID)targetAddress, originalBytes.size(), PAGE_EXECUTE_READWRITE, &oldProtect)) {
+            return false;
+        }
+        restoreSuccess = RemoteWrite((PVOID)targetAddress, originalBytes.data(), originalBytes.size());
+        DWORD tempProtect;
+        RemoteProtect((PVOID)targetAddress, originalBytes.size(), oldProtect, &tempProtect);
     }
-    
-    // 2. 恢复原始字节
-    bool restoreSuccess = RemoteWrite((PVOID)targetAddress, originalBytes.data(), originalBytes.size());
-    
-    // 3. 恢复保护属性
-    DWORD tempProtect;
-    RemoteProtect((PVOID)targetAddress, originalBytes.size(), oldProtect, &tempProtect);
-    
+
     // 4. 释放远程内存
-    if (remoteShellcodeAddress) {
-        RemoteFree((PVOID)remoteShellcodeAddress, 512); // 估算大小
-        remoteShellcodeAddress = 0;
-    }
-    
-    if (trampolineAddress) {
-        RemoteFree((PVOID)trampolineAddress, originalBytes.size() + 14);
-        trampolineAddress = 0;
-    }
+    shellcodeMemory.reset();
+    remoteShellcodeAddress = 0;
+    trampolineMemory.reset();
+    trampolineAddress = 0;
     
     isHookInstalled = false;
     return restoreSuccess;

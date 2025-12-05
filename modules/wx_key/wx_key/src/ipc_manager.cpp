@@ -3,6 +3,7 @@
 #include <Windows.h>
 #include <sstream>
 #include <iomanip>
+#include <random>
 
 IPCManager::IPCManager()
     : hMapFile(nullptr)
@@ -10,7 +11,7 @@ IPCManager::IPCManager()
     , pSharedMemory(nullptr)
     , hTargetProcess(nullptr)
     , pRemoteBuffer(nullptr)
-    , lastTimestamp(0)
+    , lastSequenceNumber(0)
     , hListeningThread(nullptr)
     , shouldStopListening(false)
 {
@@ -21,7 +22,15 @@ IPCManager::~IPCManager() {
 }
 
 bool IPCManager::Initialize(const std::string& uniqueId) {
-    this->uniqueId = uniqueId;
+    // 在唯一标识后追加随机片段，进一步降低命名的可预测性
+    std::random_device rd;
+    std::mt19937_64 gen(rd());
+    std::uniform_int_distribution<unsigned long long> dist;
+    unsigned long long randSuffix = dist(gen);
+
+    std::stringstream uniq;
+    uniq << uniqueId << "_" << std::hex << randSuffix;
+    this->uniqueId = uniq.str();
     
     // 生成唯一的共享内存和事件名称
     std::string baseMemName = ObfuscatedStrings::GetSharedMemoryName();
@@ -125,7 +134,7 @@ bool IPCManager::Initialize(const std::string& uniqueId) {
 void IPCManager::SetRemoteBuffer(HANDLE hProcess, PVOID remoteBufferAddr) {
     hTargetProcess = hProcess;
     pRemoteBuffer = remoteBufferAddr;
-    lastTimestamp = 0;
+    lastSequenceNumber = 0;
 }
 
 void IPCManager::Cleanup() {
@@ -156,7 +165,10 @@ bool IPCManager::StartListening() {
         return true; // 已经在监听
     }
     
-    shouldStopListening = false;
+    shouldStopListening.store(false);
+    if (hEvent) {
+        ResetEvent(hEvent);
+    }
     hListeningThread = CreateThread(
         nullptr,
         0,
@@ -174,7 +186,7 @@ void IPCManager::StopListening() {
         return;
     }
     
-    shouldStopListening = true;
+    shouldStopListening.store(true);
     SetEvent(hEvent); // 唤醒等待线程
     
     // 等待线程退出
@@ -199,9 +211,18 @@ DWORD WINAPI IPCManager::ListeningThreadProc(LPVOID lpParam) {
 
 void IPCManager::ListeningLoop() {
     // 轮询模式：周期性读取远程进程中的缓冲区
-    while (!shouldStopListening) {
+    while (!shouldStopListening.load()) {
+        // 添加轻微抖动，避免稳定的轮询间隔特征
+        DWORD jitteredWait = 80 + (GetTickCount() & 0x3F); // 80-143ms
+        DWORD waitResult = WaitForSingleObject(hEvent, jitteredWait);
+        if (waitResult == WAIT_OBJECT_0) {
+            if (shouldStopListening.load()) {
+                break;
+            }
+            ResetEvent(hEvent);
+        }
+
         if (!hTargetProcess || !pRemoteBuffer) {
-            Sleep(100);
             continue;
         }
         
@@ -219,14 +240,14 @@ void IPCManager::ListeningLoop() {
         );
         
         if (readResult && bytesRead == sizeof(SharedKeyData)) {
-            // 检查是否有新数据（通过timestamp判断）
+            // 检查是否有新数据（通过序列号判断）
             if (keyData.dataSize > 0 && 
                 keyData.dataSize <= 32 && 
-                keyData.timestamp != lastTimestamp &&
-                keyData.timestamp != 0) {
+                keyData.sequenceNumber != lastSequenceNumber &&
+                keyData.sequenceNumber != 0) {
                 
-                // 更新时间戳
-                lastTimestamp = keyData.timestamp;
+                // 更新序列号
+                lastSequenceNumber = keyData.sequenceNumber;
                 
                 // 调用回调函数
                 if (dataCallback) {
@@ -246,9 +267,6 @@ void IPCManager::ListeningLoop() {
                 );
             }
         }
-        
-        // 短暂休眠，避免过度占用CPU（100ms轮询间隔）
-        Sleep(100);
     }
 }
 

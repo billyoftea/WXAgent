@@ -3,6 +3,7 @@
 
 #include <Windows.h>
 #include <winternl.h>
+#include <cstdint>
 
 // Extended NT definitions
 #ifndef STATUS_SUCCESS
@@ -164,10 +165,23 @@ private:
     static pNtFreeVirtualMemory fnNtFreeVirtualMemory;
     static pNtProtectVirtualMemory fnNtProtectVirtualMemory;
     static pNtQueryInformationProcess fnNtQueryInformationProcess;
+
+    // 直接SSN调用的stub指针
+    static pNtOpenProcess scNtOpenProcess;
+    static pNtReadVirtualMemory scNtReadVirtualMemory;
+    static pNtWriteVirtualMemory scNtWriteVirtualMemory;
+    static pNtAllocateVirtualMemory scNtAllocateVirtualMemory;
+    static pNtFreeVirtualMemory scNtFreeVirtualMemory;
+    static pNtProtectVirtualMemory scNtProtectVirtualMemory;
+    static pNtQueryInformationProcess scNtQueryInformationProcess;
     
     // 辅助函数：从ntdll解析函数地址
     template<typename T>
     static bool ResolveFunction(const char* functionName, T& functionPointer);
+
+    // 辅助：从ntdll stub提取SSN并构建直调stub
+    static uint32_t ExtractSyscallNumber(void* fnAddress);
+    static void* CreateSyscallStub(uint32_t ssn);
 };
 
 #endif // SYSCALLS_H

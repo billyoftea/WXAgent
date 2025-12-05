@@ -1,7 +1,16 @@
 ﻿#include "../include/shellcode_builder.h"
+#include "../include/ipc_manager.h"
+#include <xbyak/xbyak.h>
+#include <cstddef>
+
+namespace {
+    constexpr size_t kSharedDataSizeOffset = offsetof(SharedKeyData, dataSize);
+    constexpr size_t kSharedKeyBufferOffset = offsetof(SharedKeyData, keyBuffer);
+    constexpr size_t kSharedSequenceOffset = offsetof(SharedKeyData, sequenceNumber);
+}
 
 ShellcodeBuilder::ShellcodeBuilder() {
-    shellcode.reserve(512); // 预分配空间
+    shellcode.reserve(512);
 }
 
 ShellcodeBuilder::~ShellcodeBuilder() {
@@ -15,310 +24,127 @@ size_t ShellcodeBuilder::GetShellcodeSize() const {
     return shellcode.size();
 }
 
-// ========== 基础字节发射 ==========
-void ShellcodeBuilder::EmitByte(BYTE value) {
-    shellcode.push_back(value);
-}
-
-void ShellcodeBuilder::EmitWord(WORD value) {
-    shellcode.push_back((BYTE)(value & 0xFF));
-    shellcode.push_back((BYTE)((value >> 8) & 0xFF));
-}
-
-void ShellcodeBuilder::EmitDword(DWORD value) {
-    shellcode.push_back((BYTE)(value & 0xFF));
-    shellcode.push_back((BYTE)((value >> 8) & 0xFF));
-    shellcode.push_back((BYTE)((value >> 16) & 0xFF));
-    shellcode.push_back((BYTE)((value >> 24) & 0xFF));
-}
-
-void ShellcodeBuilder::EmitQword(UINT64 value) {
-    for (int i = 0; i < 8; i++) {
-        shellcode.push_back((BYTE)((value >> (i * 8)) & 0xFF));
-    }
-}
-
-// ========== PUSH指令 ==========
-void ShellcodeBuilder::EmitPushRax() { EmitByte(0x50); }
-void ShellcodeBuilder::EmitPushRcx() { EmitByte(0x51); }
-void ShellcodeBuilder::EmitPushRdx() { EmitByte(0x52); }
-void ShellcodeBuilder::EmitPushRbx() { EmitByte(0x53); }
-void ShellcodeBuilder::EmitPushRbp() { EmitByte(0x55); }
-void ShellcodeBuilder::EmitPushRsi() { EmitByte(0x56); }
-void ShellcodeBuilder::EmitPushRdi() { EmitByte(0x57); }
-
-void ShellcodeBuilder::EmitPushR8()  { EmitByte(0x41); EmitByte(0x50); }
-void ShellcodeBuilder::EmitPushR9()  { EmitByte(0x41); EmitByte(0x51); }
-void ShellcodeBuilder::EmitPushR10() { EmitByte(0x41); EmitByte(0x52); }
-void ShellcodeBuilder::EmitPushR11() { EmitByte(0x41); EmitByte(0x53); }
-void ShellcodeBuilder::EmitPushR12() { EmitByte(0x41); EmitByte(0x54); }
-void ShellcodeBuilder::EmitPushR13() { EmitByte(0x41); EmitByte(0x55); }
-void ShellcodeBuilder::EmitPushR14() { EmitByte(0x41); EmitByte(0x56); }
-void ShellcodeBuilder::EmitPushR15() { EmitByte(0x41); EmitByte(0x57); }
-
-void ShellcodeBuilder::EmitPushfq() { EmitByte(0x9C); }
-
-// ========== POP指令 ==========
-void ShellcodeBuilder::EmitPopRax() { EmitByte(0x58); }
-void ShellcodeBuilder::EmitPopRcx() { EmitByte(0x59); }
-void ShellcodeBuilder::EmitPopRdx() { EmitByte(0x5A); }
-void ShellcodeBuilder::EmitPopRbx() { EmitByte(0x5B); }
-void ShellcodeBuilder::EmitPopRbp() { EmitByte(0x5D); }
-void ShellcodeBuilder::EmitPopRsi() { EmitByte(0x5E); }
-void ShellcodeBuilder::EmitPopRdi() { EmitByte(0x5F); }
-
-void ShellcodeBuilder::EmitPopR8()  { EmitByte(0x41); EmitByte(0x58); }
-void ShellcodeBuilder::EmitPopR9()  { EmitByte(0x41); EmitByte(0x59); }
-void ShellcodeBuilder::EmitPopR10() { EmitByte(0x41); EmitByte(0x5A); }
-void ShellcodeBuilder::EmitPopR11() { EmitByte(0x41); EmitByte(0x5B); }
-void ShellcodeBuilder::EmitPopR12() { EmitByte(0x41); EmitByte(0x5C); }
-void ShellcodeBuilder::EmitPopR13() { EmitByte(0x41); EmitByte(0x5D); }
-void ShellcodeBuilder::EmitPopR14() { EmitByte(0x41); EmitByte(0x5E); }
-void ShellcodeBuilder::EmitPopR15() { EmitByte(0x41); EmitByte(0x5F); }
-
-void ShellcodeBuilder::EmitPopfq() { EmitByte(0x9D); }
-
-// ========== MOV指令 ==========
-void ShellcodeBuilder::EmitMovRaxImm64(UINT64 value) {
-    // mov rax, imm64
-    EmitByte(0x48);
-    EmitByte(0xB8);
-    EmitQword(value);
-}
-
-void ShellcodeBuilder::EmitMovRcxImm64(UINT64 value) {
-    // mov rcx, imm64
-    EmitByte(0x48);
-    EmitByte(0xB9);
-    EmitQword(value);
-}
-
-void ShellcodeBuilder::EmitMovRdxImm64(UINT64 value) {
-    // mov rdx, imm64
-    EmitByte(0x48);
-    EmitByte(0xBA);
-    EmitQword(value);
-}
-
-// ========== 控制流指令 ==========
-void ShellcodeBuilder::EmitCallRax() {
-    // call rax
-    EmitByte(0xFF);
-    EmitByte(0xD0);
-}
-
-void ShellcodeBuilder::EmitJmpRax() {
-    // jmp rax
-    EmitByte(0xFF);
-    EmitByte(0xE0);
-}
-
-void ShellcodeBuilder::EmitRet() {
-    // ret
-    EmitByte(0xC3);
-}
-
-// ========== 内存操作 ==========
-void ShellcodeBuilder::EmitMovMemRax(uintptr_t memAddress) {
-    // mov [memAddress], rax
-    EmitMovRcxImm64(memAddress);
-    EmitByte(0x48);
-    EmitByte(0x89);
-    EmitByte(0x01); // mov [rcx], rax
-}
-
-void ShellcodeBuilder::EmitMovMemRdx(uintptr_t memAddress) {
-    // mov [memAddress], rdx
-    EmitMovRcxImm64(memAddress);
-    EmitByte(0x48);
-    EmitByte(0x89);
-    EmitByte(0x11); // mov [rcx], rdx
-}
-
-// ========== 构建完整的Hook Shellcode ==========
+// 使用 Xbyak 生成 Hook Shellcode
 std::vector<BYTE> ShellcodeBuilder::BuildHookShellcode(const ShellcodeConfig& config) {
-    Clear();
-    
-    // ===== 1. 保存所有寄存器 =====
-    EmitPushfq();
-    EmitPushRax();
-    EmitPushRcx();
-    EmitPushRdx();
-    EmitPushRbx();
-    EmitPushRbp();
-    EmitPushRsi();
-    EmitPushRdi();
-    EmitPushR8();
-    EmitPushR9();
-    EmitPushR10();
-    EmitPushR11();
-    EmitPushR12();
-    EmitPushR13();
-    EmitPushR14();
-    EmitPushR15();
-    
-    // ===== 2. 提取密钥数据 =====
-    // RDX寄存器指向密钥结构体
-    // 结构体偏移：+0x08 = pKeyBuffer, +0x10 = keySize
-    
-    // 读取keySize到RAX
-    // mov rax, [rdx + 0x10]
-    EmitByte(0x48);
-    EmitByte(0x8B);
-    EmitByte(0x42);
-    EmitByte(0x10);
-    
-    // 检查keySize是否为32
-    // cmp rax, 32
-    EmitByte(0x48);
-    EmitByte(0x83);
-    EmitByte(0xF8);
-    EmitByte(0x20);
-    
-    // jne skip_copy (如果不是32，跳过复制)
-    // 先写入占位字节，稍后计算实际偏移后回填
-    EmitByte(0x75); // JNE rel8
-    size_t skipOffsetPos = shellcode.size(); // 记录需要回填的位置
-    EmitByte(0x00); // 临时占位，将在第250-253行回填实际偏移值
-    
-    // 读取pKeyBuffer到RCX
-    // mov rcx, [rdx + 0x08]
-    EmitByte(0x48);
-    EmitByte(0x8B);
-    EmitByte(0x4A);
-    EmitByte(0x08);
-    
-    // ===== 3. 复制密钥到共享内存 =====
-    // 加载共享内存地址到RDI
-    EmitMovRdxImm64((UINT64)config.sharedMemoryAddress);
-    EmitByte(0x48);
-    EmitByte(0x89);
-    EmitByte(0xD7); // mov rdi, rdx
-    
-    // 写入dataSize (32)
-    // mov dword ptr [rdi], 32
-    EmitByte(0xC7);
-    EmitByte(0x07);
-    EmitDword(32);
-    
-    // 复制32字节密钥数据
-    // RCX = source (pKeyBuffer)
-    // RDI + 4 = destination (共享内存的keyBuffer字段)
-    EmitByte(0x48);
-    EmitByte(0x83);
-    EmitByte(0xC7);
-    EmitByte(0x04); // add rdi, 4
-    
-    // 使用movs指令复制32字节
-    EmitByte(0x48);
-    EmitByte(0x89);
-    EmitByte(0xCE); // mov rsi, rcx
-    
-    // mov rcx, 32
-    EmitMovRcxImm64(32);
-    
-    // rep movsb
-    EmitByte(0xF3);
-    EmitByte(0xA4);
-    
-    // ===== 4. 写入timestamp标记 =====
-    // 恢复RDI到缓冲区起始位置（减去36：4字节dataSize + 32字节keyBuffer）
-    EmitByte(0x48);
-    EmitByte(0x83);
-    EmitByte(0xEF);
-    EmitByte(0x24); // sub rdi, 36
-    
-    // 获取当前时间戳（使用GetTickCount）
-    HMODULE hKernel32 = GetModuleHandleA("kernel32.dll");
-    PVOID pGetTickCount = GetProcAddress(hKernel32, "GetTickCount");
-    
-    EmitMovRaxImm64((UINT64)pGetTickCount);
-    
-    // 预留栈空间（x64调用约定要求shadow space）
-    // sub rsp, 32
-    EmitByte(0x48);
-    EmitByte(0x83);
-    EmitByte(0xEC);
-    EmitByte(0x20);
-    
-    EmitCallRax();
-    
-    // 恢复栈
-    // add rsp, 32
-    EmitByte(0x48);
-    EmitByte(0x83);
-    EmitByte(0xC4);
-    EmitByte(0x20);
-    
-    // 写入timestamp到缓冲区（offset +36）
-    // mov [rdi + 36], eax
-    EmitByte(0x89);
-    EmitByte(0x47);
-    EmitByte(0x24); // 0x24 = 36
-    
-    // 写入processId到缓冲区（offset +40）
-    // 获取当前进程ID（使用GetCurrentProcessId）
-    PVOID pGetCurrentProcessId = GetProcAddress(hKernel32, "GetCurrentProcessId");
-    EmitMovRaxImm64((UINT64)pGetCurrentProcessId);
-    
-    // 预留栈空间
-    // sub rsp, 32
-    EmitByte(0x48);
-    EmitByte(0x83);
-    EmitByte(0xEC);
-    EmitByte(0x20);
-    
-    EmitCallRax();
-    
-    // 恢复栈
-    // add rsp, 32
-    EmitByte(0x48);
-    EmitByte(0x83);
-    EmitByte(0xC4);
-    EmitByte(0x20);
-    
-    // 写入processId
-    // mov [rdi + 40], eax
-    EmitByte(0x89);
-    EmitByte(0x47);
-    EmitByte(0x28); // 0x28 = 40
-    
-    // skip_copy标签位置 - 回填前向引用的跳转偏移
-    size_t currentPos = shellcode.size();
-    size_t offset = currentPos - skipOffsetPos - 1;
-    
-    // 验证偏移值在rel8范围内（-128到+127）
-    if (offset > 127) {
-        // 如果偏移超出范围，说明shellcode逻辑有问题
-        // 正常情况下，skip_copy跳转距离不会超过127字节
-        offset = 127; // 保护性措施，避免截断错误
+    shellcode.clear();
+
+    // 只支持 x64
+    if (sizeof(void*) != 8) {
+        return shellcode;
     }
-    
-    // 回填实际的跳转偏移值
-    shellcode[skipOffsetPos] = static_cast<BYTE>(offset & 0xFF);
-    
-    // ===== 5. 恢复所有寄存器 =====
-    EmitPopR15();
-    EmitPopR14();
-    EmitPopR13();
-    EmitPopR12();
-    EmitPopR11();
-    EmitPopR10();
-    EmitPopR9();
-    EmitPopR8();
-    EmitPopRdi();
-    EmitPopRsi();
-    EmitPopRbp();
-    EmitPopRbx();
-    EmitPopRdx();
-    EmitPopRcx();
-    EmitPopRax();
-    EmitPopfq();
-    
-    // ===== 6. 跳转到Trampoline继续执行原始函数 =====
-    EmitMovRaxImm64(config.trampolineAddress);
-    EmitJmpRax();
-    
+
+    const bool enableStackSpoofing = config.enableStackSpoofing && config.spoofStackPointer != 0;
+    uint64_t spoofStackAligned = 0;
+    if (enableStackSpoofing) {
+        spoofStackAligned = static_cast<uint64_t>(config.spoofStackPointer) & ~static_cast<uint64_t>(0xF);
+    }
+
+    // 生成机器码
+    Xbyak::CodeGenerator code(1024, Xbyak::AutoGrow);
+
+    Xbyak::Label skipCopy;
+
+    auto emitSaveRegs = [&]() {
+        code.pushfq();
+        code.push(code.rax);
+        code.push(code.rcx);
+        code.push(code.rdx);
+        code.push(code.rbx);
+        code.push(code.rbp);
+        code.push(code.rsi);
+        code.push(code.rdi);
+        code.push(code.r8);
+        code.push(code.r9);
+        code.push(code.r10);
+        code.push(code.r11);
+        code.push(code.r12);
+        code.push(code.r13);
+        code.push(code.r14);
+        code.push(code.r15);
+    };
+
+    auto emitRestoreRegs = [&]() {
+        code.pop(code.r15);
+        code.pop(code.r14);
+        code.pop(code.r13);
+        code.pop(code.r12);
+        code.pop(code.r11);
+        code.pop(code.r10);
+        code.pop(code.r9);
+        code.pop(code.r8);
+        code.pop(code.rdi);
+        code.pop(code.rsi);
+        code.pop(code.rbp);
+        code.pop(code.rbx);
+        code.pop(code.rdx);
+        code.pop(code.rcx);
+        code.pop(code.rax);
+        code.popfq();
+    };
+
+    if (enableStackSpoofing) {
+        // 将关键寄存器暂存到真实栈，再切换到对齐后的伪栈
+        code.push(code.rax); // 保存原始 rax
+        code.push(code.r10); // 保存原始 r10
+        code.push(code.r11); // 保存原始 r11
+
+        // rsp + 24 对应切换前的真实栈指针
+        code.lea(code.rax, code.ptr[code.rsp + 24]); // rax = original rsp
+
+        // 切换到伪栈（对齐到16字节），预留一定空间
+        code.mov(code.rsp, spoofStackAligned);
+        code.sub(code.rsp, 0x20);
+
+        // 将真实 RSP 存到伪栈，并构造一个假的返回地址槽位
+        code.push(code.rax);                        // [rsp] = original rsp
+        code.push(0);                               // 伪造返回地址，不破坏通用寄存器
+
+        // 恢复 r11/r10/rax 的原始值，确保后续保存寄存器时是原值
+        code.mov(code.r11, code.qword[code.rax - 24]);
+        code.mov(code.r10, code.qword[code.rax - 16]);
+        code.mov(code.rax, code.qword[code.rax - 8]);
+    }
+
+    // ===== 保存寄存器/标志位 =====
+    emitSaveRegs();
+
+    // ===== keySize 检查 =====
+    code.mov(code.rax, code.ptr[code.rdx + 0x10]); // rax = keySize
+    code.cmp(code.rax, 32);
+    code.jne(skipCopy);
+
+    // ===== 拷贝 32 字节密钥到共享内存 =====
+    code.mov(code.rcx, code.ptr[code.rdx + 0x08]); // rcx = pKeyBuffer
+    code.mov(code.rdx, (uint64_t)config.sharedMemoryAddress);
+    code.mov(code.rdi, code.rdx);
+    code.mov(code.dword[code.rdi + static_cast<uint32_t>(kSharedDataSizeOffset)], 32);            // dataSize = 32
+    code.add(code.rdi, static_cast<uint32_t>(kSharedKeyBufferOffset));     // rdi -> keyBuffer
+    code.mov(code.rsi, code.rcx);                  // rsi = source
+    code.mov(code.rcx, 32);                        // count
+    code.rep();
+    code.movsb();                                  // rep movsb
+
+    // ===== 递增序列号 =====
+    code.mov(code.eax, code.dword[code.rdx + static_cast<uint32_t>(kSharedSequenceOffset)]); // 读取 sequenceNumber
+    code.inc(code.eax);
+    code.mov(code.dword[code.rdx + static_cast<uint32_t>(kSharedSequenceOffset)], code.eax); // 写回递增后的序列号
+
+    code.L(skipCopy);
+
+    // ===== 恢复寄存器/标志位 =====
+    emitRestoreRegs();
+
+    if (enableStackSpoofing) {
+        // 丢弃伪造返回地址并恢复真实 RSP，切回原始栈
+        code.add(code.rsp, 8); // skip fake return slot
+        code.pop(code.rsp);
+    }
+
+    // ===== 跳回 Trampoline =====
+    code.mov(code.rax, (uint64_t)config.trampolineAddress);
+    code.jmp(code.rax);
+
+    // 输出机器码
+    shellcode.assign(code.getCode(), code.getCode() + code.getSize());
     return shellcode;
 }
-

@@ -4,14 +4,14 @@
 #include <Windows.h>
 #include <string>
 #include <functional>
+#include <atomic>
 
 // 共享内存数据结构
 #pragma pack(push, 1)
 struct SharedKeyData {
     DWORD dataSize;           // 数据大小
     BYTE keyBuffer[32];       // 密钥数据（最大32字节）
-    DWORD timestamp;          // 时间戳
-    DWORD processId;          // 源进程ID
+    DWORD sequenceNumber;     // 序列号
 };
 #pragma pack(pop)
 
@@ -63,10 +63,10 @@ private:
     // 远程进程轮询相关
     HANDLE hTargetProcess;
     PVOID pRemoteBuffer;
-    DWORD lastTimestamp;
+    DWORD lastSequenceNumber;
     
     HANDLE hListeningThread;
-    volatile bool shouldStopListening;
+    std::atomic<bool> shouldStopListening;
     
     std::function<void(const SharedKeyData&)> dataCallback;
     

@@ -4,12 +4,14 @@
 #include <Windows.h>
 #include <vector>
 #include "shellcode_builder.h"
+#include "remote_memory.h"
 
 // 远程Hook管理器
 class RemoteHooker {
 public:
     RemoteHooker(HANDLE hProcess);
     ~RemoteHooker();
+    void EnableHardwareBreakpointMode(bool enabled) { useHardwareBreakpoint = enabled; }
     
     /**
      * 安装远程Hook
@@ -30,6 +32,11 @@ public:
      * @return Trampoline地址
      */
     uintptr_t GetTrampolineAddress() const { return trampolineAddress; }
+
+    /**
+     * 获取远程Shellcode地址（供VEH模式使用）
+     */
+    uintptr_t GetRemoteShellcodeAddress() const { return remoteShellcodeAddress; }
     
 private:
     HANDLE hProcess;
@@ -40,20 +47,16 @@ private:
     uintptr_t trampolineAddress;
     std::vector<BYTE> originalBytes;
     bool isHookInstalled;
+    bool useHardwareBreakpoint{false};
+    RemoteMemory trampolineMemory;
+    RemoteMemory shellcodeMemory;
     
     // 在远程进程分配内存
     PVOID RemoteAllocate(SIZE_T size, DWORD protect);
     
-    // 释放远程内存
-    bool RemoteFree(PVOID address, SIZE_T size);
-    
-    // 写入远程内存
+    // 读取/写入/保护
     bool RemoteWrite(PVOID address, const void* data, SIZE_T size);
-    
-    // 读取远程内存
     bool RemoteRead(PVOID address, void* buffer, SIZE_T size);
-    
-    // 修改远程内存保护属性
     bool RemoteProtect(PVOID address, SIZE_T size, DWORD newProtect, DWORD* oldProtect);
     
     // 创建Trampoline（保存原始指令）
@@ -67,4 +70,3 @@ private:
 };
 
 #endif // REMOTE_HOOKER_H
-

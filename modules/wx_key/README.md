@@ -1,72 +1,75 @@
+<div align="center">
+
 # 微信数据库与图片密钥提取工具
+
+在微信 4.0 及以上版本中获取数据库内容与缓存图片解密密钥的工具  
+Tool for obtaining WeChat database and decrypting cache image keys
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
-[![Flutter](https://img.shields.io/badge/Flutter-3.9.2+-02569B.svg?logo=flutter)](https://flutter.dev)
+[![Stars](https://img.shields.io/github/stars/ycccccccy/wx_key?style=flat)](https://github.com/ycccccccy/wx_key/stargazers)
+[![Forks](https://img.shields.io/github/forks/ycccccccy/wx_key?style=flat)](https://github.com/ycccccccy/wx_key/network/members)
 
-> **重要声明**: 本项目仅供技术研究和学习使用，严禁用于任何恶意或非法目的。如果这个项目对你有帮助的话，请给我一个Star❤️
+<p align="center">
+  <img src="app.jpg" alt="应用截图" width="640">
+</p>
 
+</div>
+
+ **重要声明**：本项目仅供技术研究和学习使用，严禁用于任何恶意或非法目的。  
+ 
+ 如果这个项目对你有帮助，请给我一个 Star ❤️
+
+---
 
 ## 项目简介
 
-本项目是一个在微信4.0及以上版本中获取微信数据库和解密微信缓存图片的密钥的工具
+本项目面向微信 4.0 及以上版本，用于：
 
-This project is a tool for obtaining WeChat database and decrypting WeChat cache image keys in WeChat 4.1 and above versions
-
-![截图](app.jpg)
-
-## 小提示
-
-大家看看我的这个项目好不好❤️：[EchoTrace - 一个微信聊天记录导出与分析，年度报告应用](https://github.com/ycccccccy/echotrace)
+获取微信数据库密钥和提取缓存图片的解密密钥
 
 
-## 支持版本
+## 小小小提示
 
-支持所有4.x版本
+如果你对本项目感兴趣，也可以看看我的另一个项目：  
+[EchoTrace - 微信聊天记录导出与分析，年度报告应用](https://github.com/ycccccccy/echotrace)
 
-仅在以下版本测试：
-- 4.1.4.17
-- 4.1.4.15
-- 4.1.2.18
-- 4.1.2.17
-- 4.1.0.30
-- 4.0.5.17
+
+
+## 关于支持版本的说明
+
+支持所有微信 4.x 版本  
+- 已实际测试版本：
+  - 4.1.5.11
+  - 4.1.4.17
+  - 4.1.4.15
+  - 4.1.2.18
+  - 4.1.2.17
+  - 4.1.0.30
+  - 4.0.5.17
 
 
 
 ## 快速开始
 
 1. **下载发布版本**
-   从 Releases 页面下载最新版本的提取工具的压缩包
+   - 前往 [Releases](https://github.com/ycccccccy/wx_key/releases) 页面，下载最新的压缩包 `app.zip`。
+2. **运行工具**
+   - 解压后运行其中的 `wx_key.exe`，或运行你自行编译得到的可执行文件。
 
-2. **运行**
-   解压运行压缩包中的wx_key.exe或运行自行编译得到的wx_key.exe
+>  **注意**：请不要把工具文件夹放在任何包含中文字符的目录下，否则可能导致 DLL 加载失败等问题。
 
-> **注意**：不要把工具文件夹放在任何中文字符的目录下
+### 图片密钥获取建议流程
 
-如果是获取图片密钥建议遵循如下步骤：
-
-1. 微信点击登录（登录后马上执行后续步骤）
-2. 前往朋友圈点开一张之前没有点开过的图片
-3. 回到工具内获取密钥
-
-## 项目架构
-
-### 新架构概述（v2.0 起）
-
-自 v2.0 起，`wx_key` 使用“DLL Hook + Flutter UI”架构：
-
-| 组件 | 作用 |
-| --- | --- |
-| 控制器 DLL（assets/dll/wx_key.dll） | 由 Flutter 进程加载，通过远程内存操作在 WeChat 中安装 Hook |
-| 共享缓冲区 + IPCManager | 传递密钥和状态数据 |
-| Flutter  | 定期调用 `PollKeyData` / `GetStatusMessage`，刷新 UI 和日志 |
+1. 打开微信并完成登录（登录后尽快执行后续步骤）
+2. 进入朋友圈，点开一张**之前没有点开过**的图片，以触发新的缓存
+3. 回到本工具，执行 “获取图片密钥”
 
 
 
-### 目录结构
+## 目录结构概览
 
-```
+```text
 wx_key/
 ├── lib/                                  # Flutter 前端
 │   ├── main.dart                         # UI 与状态管理
@@ -85,9 +88,26 @@ wx_key/
 └── build/windows/...                     # Flutter 构建产物
 ```
 
+
+
+## DLL 扩展使用
+
+如果你希望在自定义程序中直接复用 `wx_key.dll`（例如：
+
+- 自行获取 WeChat 进程 PID  
+- 调用 DLL 导出函数以获取密钥
+
+参考文档：[`docs/dll_usage.md`](docs/dll_usage.md)，里面包含：
+
+- DLL 导出接口说明
+- 调用示例
+- 常见注意事项与错误排查
+
+
+
 ## 开发构建
 
-### 构建流程
+如果你希望自行编译项目，可以按照以下步骤：
 
 ```bash
 # 1. 克隆项目
@@ -97,46 +117,52 @@ cd wx_key
 # 2. 安装依赖
 flutter pub get
 
-# 3. 构建发布版本
+# 3. 构建发布版本（Windows）
 flutter build windows --release
 
-# 4. 输出位置
+# 4. 可执行文件位置
 # build/windows/runner/Release/wx_key.exe
 ```
+
+
 
 ## 许可证与免责声明
 
 ### 许可证
 
-本项目采用 MIT 许可证，详见 [LICENSE](LICENSE) 文件。
-
-MIT 许可证允许您自由使用、修改和分发本软件，但需要保留版权声明和许可证文本。
+本项目采用 **MIT License**，详见 [LICENSE](LICENSE) 文件。  
+你可以自由使用、修改和分发本软件，但需要保留原有版权声明和许可证文本。
 
 ### 免责声明
 
-> **重要**: 本工具仅用于技术研究和学习目的，旨在提供一个探索性的解决方案。
+> **重要提醒**：本工具仅用于技术研究和学习目的。
 
-**使用须知**:
-- 任何使用本工具产生的后果与责任，均由使用者自行承担
-- 开发者不对因使用本工具而导致的任何损失负责
-- 使用者必须确保其使用行为符合当地法律法规
-- 严禁将本工具用于任何商业或恶意目的
+- 使用本工具产生的一切后果与责任，均由使用者自行承担  
+- 开发者不对因使用本工具而导致的任何损失负责  
+- 使用者必须确保其行为符合当地法律法规  
+- 严禁将本工具用于任何商业或恶意用途
 
-### 贡献指南
 
-欢迎提交 Issue 和 Pull Request 来改进本项目：
+
+## 贡献指南
+
+欢迎通过 Issue / Pull Request 来改进本项目：
 
 1. Fork 本仓库
-2. 创建分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
+2. 创建分支：`git checkout -b feature/YourFeature`
+3. 提交更改：`git commit -m "Add YourFeature"`
+4. 推送分支：`git push origin feature/YourFeature`
+5. 发起 Pull Request 并附上说明
 
-### 致谢
 
-感谢以下项目的贡献和启发：
 
-- [WxDatDecrypt](https://github.com/recarto404/WxDatDecrypt) - 提供了关键的imagekey获取思路
+## 致谢
+
+感谢以下项目提供启发与思路：
+
+- [WxDatDecrypt](https://github.com/recarto404/WxDatDecrypt) — 提供了关键的 imagekey 获取思路
+
+
 
 ## Star History
 
@@ -146,8 +172,8 @@ MIT 许可证允许您自由使用、修改和分发本软件，但需要保留�
 
 <div align="center">
 
-**请负责任地使用本工具，遵守相关法律法规**
-
+**请负责任地使用本工具，遵守相关法律法规**  
 Made for educational purposes ❤️
 
 </div>
+
