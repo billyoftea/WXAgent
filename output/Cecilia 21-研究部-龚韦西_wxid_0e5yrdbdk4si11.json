@@ -1,0 +1,36 @@
+{
+  "session_id": "wxid_0e5yrdbdk4si11",
+  "session_name": "Cecilia 21-研究部-龚韦西",
+  "messages": [
+    {
+      "create_time": 1761106776,
+      "formatted_time": "2025-10-22 12:19:36",
+      "type": "系统消息",
+      "str_content": "以上是打招呼的消息",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1761106777,
+      "formatted_time": "2025-10-22 12:19:37",
+      "type": "文本",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1761106815,
+      "formatted_time": "2025-10-22 12:20:15",
+      "type": "文本",
+      "str_content": "hello！欢迎加入研究部，未来一起build👏",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1761106858,
+      "formatted_time": "2025-10-22 12:20:58",
+      "type": "文本",
+      "str_content": "好耶好耶",
+      "is_sender": 0
+    }
+  ],
+  "export_time": "2025-12-06T19:12:14+08:00",
+  "message_count": 4
+}

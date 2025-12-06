@@ -1,0 +1,43 @@
+{
+  "session_id": "wxid_l75knoghi96621",
+  "session_name": "九号电动喻家湖东路店13554190420",
+  "messages": [
+    {
+      "create_time": 1734690940,
+      "formatted_time": "2024-12-20 18:35:40",
+      "type": "系统消息",
+      "str_content": "你已添加了九号电动(喻家湖店)13554190420，现在可以开始聊天了。",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1735543152,
+      "formatted_time": "2024-12-30 15:19:12",
+      "type": "文本",
+      "str_content": "老板我车牌下来没",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1735543616,
+      "formatted_time": "2024-12-30 15:26:56",
+      "type": "文本",
+      "str_content": "你叫什么名字",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1735543762,
+      "formatted_time": "2024-12-30 15:29:22",
+      "type": "文本",
+      "str_content": "徐昂",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1735544171,
+      "formatted_time": "2024-12-30 15:36:11",
+      "type": "文本",
+      "str_content": "好了，可以来安装牌照了",
+      "is_sender": 0
+    }
+  ],
+  "export_time": "2025-12-06T19:12:17+08:00",
+  "message_count": 5
+}

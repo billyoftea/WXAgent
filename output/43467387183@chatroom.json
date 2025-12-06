@@ -1,0 +1,50 @@
+{
+  "session_id": "43467387183@chatroom",
+  "session_name": "43467387183@chatroom",
+  "messages": [
+    {
+      "create_time": 1677418490,
+      "formatted_time": "2023-02-26 21:34:50",
+      "type": "系统消息",
+      "str_content": "\"李安阳\"邀请你和\"柒小菓、吴江铭\"加入了群聊",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1677418490,
+      "formatted_time": "2023-02-26 21:34:50",
+      "type": "文本",
+      "str_content": "wxid_39vjml2fnhp22:\n@柒小菓 老板这俩是我找的打工人",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1677418503,
+      "formatted_time": "2023-02-26 21:35:03",
+      "type": "系统消息",
+      "str_content": "\"柒小菓\"被添加为群管理员",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1677418516,
+      "formatted_time": "2023-02-26 21:35:16",
+      "type": "文本",
+      "str_content": "wxid_39vjml2fnhp22:\n老板说要QQ群",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1677418525,
+      "formatted_time": "2023-02-26 21:35:25",
+      "type": "文本",
+      "str_content": "wxid_39vjml2fnhp22:\n我重新拉",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1677847608,
+      "formatted_time": "2023-03-03 20:46:48",
+      "type": "系统消息",
+      "str_content": "群主\"李安阳\"已解散该群聊",
+      "is_sender": 0
+    }
+  ],
+  "export_time": "2025-12-06T19:12:25+08:00",
+  "message_count": 6
+}

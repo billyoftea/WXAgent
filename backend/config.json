@@ -1,7 +1,7 @@
 {
-  "export_dir": "../output",
+  "export_dir": "C:/Users/Lenovo/Desktop/WXAgent/output",
   "summary_output": "../docs/summary_result.md",
-  "state_file": "../.wx_agent_state.json",
+  "state_file": "C:/Users/Lenovo/Desktop/WXAgent/output/.wx_agent_state.json",
   "wx_key_shared_prefs": "~/AppData/Roaming/com.example/wx_key/shared_preferences.json",
   
   "wx_key_command": {

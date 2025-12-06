@@ -1,0 +1,29 @@
+{
+  "session_id": "wxid_kcr6oauh0oi112",
+  "session_name": "25 孙玉成",
+  "messages": [
+    {
+      "create_time": 1757853280,
+      "formatted_time": "2025-09-14 20:34:40",
+      "type": "系统消息",
+      "str_content": "以上是打招呼的消息",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1757853281,
+      "formatted_time": "2025-09-14 20:34:41",
+      "type": "文本",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1757853301,
+      "formatted_time": "2025-09-14 20:35:01",
+      "type": "文本",
+      "str_content": "25 孙玉成",
+      "is_sender": 0
+    }
+  ],
+  "export_time": "2025-12-06T19:12:18+08:00",
+  "message_count": 3
+}

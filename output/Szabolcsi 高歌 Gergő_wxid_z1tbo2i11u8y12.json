@@ -1,0 +1,43 @@
+{
+  "session_id": "wxid_z1tbo2i11u8y12",
+  "session_name": "Szabolcsi 高歌 Gergő",
+  "messages": [
+    {
+      "create_time": 1756305837,
+      "formatted_time": "2025-08-27 22:43:57",
+      "type": "系统消息",
+      "str_content": "以上是打招呼的消息",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1756305837,
+      "formatted_time": "2025-08-27 22:43:57",
+      "type": "文本",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1756305898,
+      "formatted_time": "2025-08-27 22:44:58",
+      "type": "文本",
+      "str_content": "Hi, nice to meet you ",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1756305987,
+      "formatted_time": "2025-08-27 22:46:27",
+      "type": "文本",
+      "str_content": "Hi, nice to meet u too. I magor in qf and fintech☺️",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1756307684,
+      "formatted_time": "2025-08-27 23:14:44",
+      "type": "文本",
+      "str_content": "My major is in management ",
+      "is_sender": 0
+    }
+  ],
+  "export_time": "2025-12-06T19:12:17+08:00",
+  "message_count": 5
+}

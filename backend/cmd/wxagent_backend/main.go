@@ -42,6 +42,8 @@ func main() {
 		runRefreshKey(pipe)
 	case "export":
 		runExport(pipe)
+	case "export-auto":
+		runExportAuto(pipe)
 	case "summarize":
 		runSummarize(pipe)
 	case "server":
@@ -60,7 +62,8 @@ func printUsage() {
 	fmt.Println("Commands:")
 	fmt.Println("  start         Start backend server and launch UI")
 	fmt.Println("  refresh-key   Refresh WeChat database key")
-	fmt.Println("  export        Trigger echotrace export")
+	fmt.Println("  export        Trigger echotrace GUI export")
+	fmt.Println("  export-auto   Automatic export (no GUI)")
 	fmt.Println("  summarize     Run summary pipeline")
 	fmt.Println("  server        Start HTTP server")
 	fmt.Println("Options:")
@@ -93,6 +96,20 @@ func runExport(p *pipeline.Pipeline) {
 		os.Exit(1)
 	}
 	fmt.Println("Export triggered successfully.")
+}
+
+func runExportAuto(p *pipeline.Pipeline) {
+	fs := flag.NewFlagSet("export-auto", flag.ExitOnError)
+	wechatDir := fs.String("wechat-dir", "", "WeChat data directory (auto-detect if empty)")
+	startDate := fs.String("start-date", "", "Start date YYYY-MM-DD (incremental if empty)")
+	endDate := fs.String("end-date", "", "End date YYYY-MM-DD (default: today)")
+	fs.Parse(flag.Args()[1:])
+
+	if err := p.ExportAuto(*wechatDir, *startDate, *endDate); err != nil {
+		fmt.Fprintf(os.Stderr, "Error during auto export: %v\n", err)
+		os.Exit(1)
+	}
+	fmt.Println("✓ Auto export completed successfully.")
 }
 
 func runSummarize(p *pipeline.Pipeline) {

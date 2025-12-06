@@ -1,0 +1,78 @@
+{
+  "session_id": "wxid_0iau1l0zni5t12",
+  "session_name": "胡钰",
+  "messages": [
+    {
+      "create_time": 1755232205,
+      "formatted_time": "2025-08-15 12:30:05",
+      "type": "文本",
+      "str_content": "旺角东下吧",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1755232205,
+      "formatted_time": "2025-08-15 12:30:05",
+      "type": "文本",
+      "str_content": "下一个先不下了",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1755310810,
+      "formatted_time": "2025-08-16 10:20:10",
+      "type": "文本",
+      "str_content": "我们在哪里下",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1755310821,
+      "formatted_time": "2025-08-16 10:20:21",
+      "type": "文本",
+      "str_content": "金钟换乘",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1755310827,
+      "formatted_time": "2025-08-16 10:20:27",
+      "type": "文本",
+      "str_content": "OK",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1755312321,
+      "formatted_time": "2025-08-16 10:45:21",
+      "type": "文本",
+      "str_content": "下一站哈",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1755312332,
+      "formatted_time": "2025-08-16 10:45:32",
+      "type": "文本",
+      "str_content": "嗯嗯",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1755486017,
+      "formatted_time": "2025-08-18 11:00:17",
+      "type": "文本",
+      "str_content": "我们到五号楼了，你们上去了吗",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1755486041,
+      "formatted_time": "2025-08-18 11:00:41",
+      "type": "文本",
+      "str_content": "等一下，可能是因为这个车的终点不一样，我们再往5号楼走",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1755486048,
+      "formatted_time": "2025-08-18 11:00:48",
+      "type": "文本",
+      "str_content": "OK",
+      "is_sender": 0
+    }
+  ],
+  "export_time": "2025-12-06T19:12:17+08:00",
+  "message_count": 10
+}

@@ -1,0 +1,36 @@
+{
+  "session_id": "wxid_dx22leekh1x412",
+  "session_name": "电信黄龙海",
+  "messages": [
+    {
+      "create_time": 1742564474,
+      "formatted_time": "2025-03-21 21:41:14",
+      "type": "文本",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1742702440,
+      "formatted_time": "2025-03-23 12:00:40",
+      "type": "文本",
+      "str_content": "兄弟来个备注？",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1742702481,
+      "formatted_time": "2025-03-23 12:01:21",
+      "type": "文本",
+      "str_content": "电信黄龙海",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1742702488,
+      "formatted_time": "2025-03-23 12:01:28",
+      "type": "文本",
+      "str_content": "[OK]",
+      "is_sender": 0
+    }
+  ],
+  "export_time": "2025-12-06T19:12:17+08:00",
+  "message_count": 4
+}

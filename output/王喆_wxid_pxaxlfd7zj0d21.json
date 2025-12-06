@@ -1,0 +1,36 @@
+{
+  "session_id": "wxid_pxaxlfd7zj0d21",
+  "session_name": "王喆",
+  "messages": [
+    {
+      "create_time": 1756987540,
+      "formatted_time": "2025-09-04 20:05:40",
+      "type": "系统消息",
+      "str_content": "以上是打招呼的消息",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1756987540,
+      "formatted_time": "2025-09-04 20:05:40",
+      "type": "文本",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1756988272,
+      "formatted_time": "2025-09-04 20:17:52",
+      "type": "文本",
+      "str_content": "哈喽呀，我是25管双王喆",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1756988324,
+      "formatted_time": "2025-09-04 20:18:44",
+      "type": "文本",
+      "str_content": "hihi 我是25数金金科徐昂",
+      "is_sender": 0
+    }
+  ],
+  "export_time": "2025-12-06T19:12:16+08:00",
+  "message_count": 4
+}

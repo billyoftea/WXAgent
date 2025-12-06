@@ -1,0 +1,36 @@
+{
+  "session_id": "wxid_hqbfo92xj9z012",
+  "session_name": "🇩🇪Mocca🇬🇧",
+  "messages": [
+    {
+      "create_time": 1756295610,
+      "formatted_time": "2025-08-27 19:53:30",
+      "type": "系统消息",
+      "str_content": "以上是打招呼的消息",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1756295610,
+      "formatted_time": "2025-08-27 19:53:30",
+      "type": "文本",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1756351931,
+      "formatted_time": "2025-08-28 11:32:11",
+      "type": "文本",
+      "str_content": "Hello, I am Mocca from Management class 5, it was really nice to meet you 😁",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1756355623,
+      "formatted_time": "2025-08-28 12:33:43",
+      "type": "文本",
+      "str_content": "Hihi, I am Xu Ang from finance(quantitative finance and fintech path), nice to meet u too☺️",
+      "is_sender": 0
+    }
+  ],
+  "export_time": "2025-12-06T19:12:17+08:00",
+  "message_count": 4
+}

@@ -1,0 +1,29 @@
+{
+  "session_id": "wxid_jxdbkscsqn8b22",
+  "session_name": "刘从龙",
+  "messages": [
+    {
+      "create_time": 1695720957,
+      "formatted_time": "2023-09-26 17:35:57",
+      "type": "系统消息",
+      "str_content": "你已添加了走，现在可以开始聊天了。",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1695721068,
+      "formatted_time": "2023-09-26 17:37:48",
+      "type": "文本",
+      "str_content": "hello[嘿哈]学长",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1695723621,
+      "formatted_time": "2023-09-26 18:20:21",
+      "type": "文本",
+      "str_content": "hihi",
+      "is_sender": 0
+    }
+  ],
+  "export_time": "2025-12-06T19:12:25+08:00",
+  "message_count": 3
+}

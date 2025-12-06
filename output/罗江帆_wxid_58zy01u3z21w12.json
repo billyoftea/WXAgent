@@ -1,0 +1,36 @@
+{
+  "session_id": "wxid_58zy01u3z21w12",
+  "session_name": "罗江帆",
+  "messages": [
+    {
+      "create_time": 1703323272,
+      "formatted_time": "2023-12-23 17:21:12",
+      "type": "系统消息",
+      "str_content": "你已添加了乎乎霍，现在可以开始聊天了。",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1703323279,
+      "formatted_time": "2023-12-23 17:21:19",
+      "type": "文本",
+      "str_content": "师兄好！[呲牙]",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1703323285,
+      "formatted_time": "2023-12-23 17:21:25",
+      "type": "文本",
+      "str_content": "我是本科21级徐昂",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1703323314,
+      "formatted_time": "2023-12-23 17:21:54",
+      "type": "文本",
+      "str_content": "学弟好[握手][握手]我是钱老师的研二学生罗江帆",
+      "is_sender": 0
+    }
+  ],
+  "export_time": "2025-12-06T19:12:21+08:00",
+  "message_count": 4
+}

@@ -14,6 +14,7 @@ import (
 	"github.com/billyoftea/wxagent/go_backend/internal/llm"
 	"github.com/billyoftea/wxagent/go_backend/internal/state"
 	"github.com/billyoftea/wxagent/go_backend/internal/summarizer"
+	"github.com/billyoftea/wxagent/go_backend/internal/wxdb"
 	"github.com/billyoftea/wxagent/go_backend/internal/wxkey"
 )
 
@@ -25,6 +26,7 @@ type Pipeline struct {
 }
 
 func New(cfg *config.PipelineConfig) (*Pipeline, error) {
+	fmt.Printf("[DEBUG] State file path from config: %s\n", cfg.StateFile)
 	s := state.New(cfg.StateFile)
 	if err := s.Load(); err != nil {
 		// Log warning but continue? Or fail?
@@ -186,4 +188,104 @@ func (p *Pipeline) RunFullRefresh(autoLaunchKey bool, waitSeconds, pollInterval 
 func (p *Pipeline) ListSessions() ([]map[string]any, error) {
 	builder := dataset.NewBuilder(p.Config.ExportDir, p.State)
 	return builder.ListSessionsMetadata()
+}
+
+func (p *Pipeline) ExportAuto(wechatDir, startDate, endDate string) error {
+	// 获取密钥
+	keyPayload, err := p.WxKey.LoadKeys()
+	if err != nil || keyPayload.DbKey == "" {
+		fmt.Println("⚠️ Database key not found, refreshing...")
+		keyPayload, err = p.RefreshKey(true, 120, 5)
+		if err != nil {
+			return fmt.Errorf("get database key: %w", err)
+		}
+	}
+
+	fmt.Printf("✓ Using database key: %s...\n", keyPayload.DbKey[:16])
+
+	// 自动检测微信数据目录
+	if wechatDir == "" {
+		wechatDir, err = p.detectWeChatDataDir()
+		if err != nil {
+			return fmt.Errorf("detect WeChat data directory: %w", err)
+		}
+	}
+
+	fmt.Printf("✓ WeChat data directory: %s\n", wechatDir)
+
+	// 创建导出器
+	exporter := wxdb.NewExporter(wxdb.ExportConfig{
+		WeChatDataDir: wechatDir,
+		DBKey:         keyPayload.DbKey,
+		OutputDir:     p.Config.ExportDir,
+		StartDate:     startDate,
+		EndDate:       endDate,
+		Incremental:   startDate == "", // 如果没有指定开始日期，则增量导出
+		StateStore:    p.State,         // 传递状态存储用于增量导出
+	})
+
+	// 执行导出
+	if err := exporter.Export(); err != nil {
+		return fmt.Errorf("export failed: %w", err)
+	}
+
+	fmt.Println("✓ Export completed successfully")
+	return nil
+}
+
+func (p *Pipeline) detectWeChatDataDir() (string, error) {
+	userHome, err := os.UserHomeDir()
+	if err != nil {
+		return "", fmt.Errorf("get user home: %w", err)
+	}
+
+	// 微信数据可能的位置
+	possiblePaths := []string{
+		// 常见路径1: Documents\xwechat_files (新版微信)
+		filepath.Join(userHome, "Documents", "xwechat_files"),
+		// 常见路径2: Documents\WeChat Files (旧版微信)
+		filepath.Join(userHome, "Documents", "WeChat Files"),
+		// 常见路径3: AppData\Local\WeChat\WeChat Files
+		filepath.Join(userHome, "AppData", "Local", "WeChat", "WeChat Files"),
+	}
+
+	fmt.Println("🔍 Searching for WeChat data directory...")
+
+	for _, basePath := range possiblePaths {
+		fmt.Printf("  Checking: %s\n", basePath)
+
+		if _, err := os.Stat(basePath); os.IsNotExist(err) {
+			continue
+		}
+
+		// 扫描该目录下的账号文件夹
+		entries, err := os.ReadDir(basePath)
+		if err != nil {
+			continue
+		}
+
+		for _, entry := range entries {
+			if !entry.IsDir() {
+				continue
+			}
+
+			accountName := entry.Name()
+
+			// 跳过系统文件夹
+			if accountName == "All Users" || accountName == "Applet" {
+				continue
+			}
+
+			// 检查是否包含 db_storage 目录
+			dbStoragePath := filepath.Join(basePath, accountName, "db_storage")
+			if stat, err := os.Stat(dbStoragePath); err == nil && stat.IsDir() {
+				fullPath := filepath.Join(basePath, accountName)
+				fmt.Printf("  ✓ Found: %s\n", fullPath)
+				return fullPath, nil
+			}
+		}
+	}
+
+	return "", fmt.Errorf("WeChat data directory not found. Please specify with --wechat-dir.\n\nTried locations:\n  - %s\n  - %s\n  - %s",
+		possiblePaths[0], possiblePaths[1], possiblePaths[2])
 }

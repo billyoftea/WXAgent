@@ -1,0 +1,36 @@
+{
+  "session_id": "zhaojiaqi1122",
+  "session_name": "赵嘉祺",
+  "messages": [
+    {
+      "create_time": 1761389953,
+      "formatted_time": "2025-10-25 18:59:13",
+      "type": "系统消息",
+      "str_content": "以上是打招呼的消息",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1761389953,
+      "formatted_time": "2025-10-25 18:59:13",
+      "type": "文本",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1761390234,
+      "formatted_time": "2025-10-25 19:03:54",
+      "type": "文本",
+      "str_content": "祺哥好！今天的话疗真的解答了很多我进入汇丰以来的疑惑！感谢祺哥！",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1761390287,
+      "formatted_time": "2025-10-25 19:04:47",
+      "type": "文本",
+      "str_content": "[强][强][微笑]",
+      "is_sender": 0
+    }
+  ],
+  "export_time": "2025-12-06T19:12:14+08:00",
+  "message_count": 4
+}

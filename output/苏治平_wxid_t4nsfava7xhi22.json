@@ -1,0 +1,29 @@
+{
+  "session_id": "wxid_t4nsfava7xhi22",
+  "session_name": "苏治平",
+  "messages": [
+    {
+      "create_time": 1756256924,
+      "formatted_time": "2025-08-27 09:08:44",
+      "type": "系统消息",
+      "str_content": "以上是打招呼的消息",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1756256924,
+      "formatted_time": "2025-08-27 09:08:44",
+      "type": "文本",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1756257356,
+      "formatted_time": "2025-08-27 09:15:56",
+      "type": "文本",
+      "str_content": "哈咯！我是25环能苏治平",
+      "is_sender": 0
+    }
+  ],
+  "export_time": "2025-12-06T19:12:17+08:00",
+  "message_count": 3
+}

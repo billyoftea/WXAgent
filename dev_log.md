@@ -272,3 +272,122 @@ flutter run -d windows
 - 两个 Flutter 模块（wx_key、echotrace）是独立的第三方项目，集成度较高
 - 前端是最大的短板，需要集中精力开发
 - 建议采用敏捷开发，先跑通核心流程，再完善细节
+
+---
+
+## 🤖 全自动化方案设计（2025-12-05）
+
+### 当前问题
+- echotrace 是 GUI 应用，需要用户手动操作
+- 无法实现完全自动化的端到端流程
+
+### 解决方案
+创建纯 Go 的微信数据库导出模块 `internal/wxdb`，直接集成到后端：
+
+#### ✅ 实现完成（2025-12-05 下午）
+
+已成功集成 go_decrypt 并实现自动化导出：
+
+1. **提取解密代码** ✅
+   - 从 `modules/echotrace/go_decrypt/` 提取核心代码
+   - 创建 `backend/internal/wxdb/decrypt/` 模块
+   - 实现 V4 解密器（支持微信 4.x 版本）
+
+2. **数据库操作** ✅
+   - 使用 `modernc.org/sqlite` 纯 Go SQLite 驱动
+   - 实现数据库解密到临时文件
+   - 实现消息查询和解析
+
+3. **导出器实现** ✅
+   - 创建 `internal/wxdb/exporter.go`
+   - 支持按会话导出
+   - 支持日期范围过滤
+   - JSON 格式输出
+
+4. **Pipeline 集成** ✅
+   - 添加 `ExportAuto()` 方法
+   - 实现微信数据目录自动检测
+   - 集成密钥自动获取
+
+5. **命令行接口** ✅
+   - 添加 `export-auto` 命令
+   - 支持参数：`--wechat-dir`, `--start-date`, `--end-date`
+
+#### 使用方法
+
+```powershell
+# 自动导出（推荐）
+cd backend
+.\wxagent_backend.exe export-auto
+
+# 指定微信数据目录
+.\wxagent_backend.exe export-auto --wechat-dir "C:\Users\YourName\Documents\WeChat Files\wxid_xxx"
+
+# 指定日期范围
+.\wxagent_backend.exe export-auto --start-date 2025-12-01 --end-date 2025-12-05
+
+# 完整流程（一键）
+.\wxagent_backend.exe export-auto  # 自动获取密钥 → 解密数据库 → 导出 JSON
+```
+
+#### 技术实现
+
+**解密流程**:
+```
+加密的 MSG.db
+    ↓
+使用 PBKDF2 + AES256-CBC 解密
+    ↓
+临时解密文件
+    ↓
+SQLite 查询
+    ↓
+JSON 导出
+```
+
+**核心模块**:
+- `decrypt/common.go` - 通用解密函数
+- `decrypt/v4_decryptor.go` - 微信 4.x 解密器
+- `exporter.go` - 导出主逻辑
+
+#### 对比
+
+| 方案 | 优势 | 劣势 | 状态 |
+|------|------|------|------|
+| **方案1: 调用 echotrace GUI** | 复用现有代码 | 需要用户交互，无法自动化 | ✅ 已实现（备用） |
+| **方案2: 纯 Go 实现** | 完全自动化，无需 GUI | 需要重写解密逻辑 | ❌ 未选择 |
+| **方案3: 集成 go_decrypt** | 复用解密库，快速实现 | 需要移植代码 | ✅ **已完成** |
+
+#### 预期效果
+
+用户只需运行：
+```powershell
+# 一键自动化（无需任何 GUI）
+.\wxagent_backend.exe export-auto
+```
+
+输出：
+```
+⚠️ Database key not found, refreshing...
+✓ Using database key: 1126d5bc8e0549a4...
+✓ WeChat data directory: C:\Users\...\WeChat Files\wxid_xxx
+Found database: C:\...\Msg\Multi\MSG0.db
+Decrypting database...
+✓ Database decrypted
+Found 50 sessions
+✓ Exported 群聊1: 1250 messages
+✓ Exported 群聊2: 890 messages
+...
+✓ Exported 45/50 sessions
+✓ Auto export completed successfully.
+```
+
+全程无需打开任何 GUI 窗口！🚀
+
+#### 后续优化
+
+- [ ] 支持增量导出（读取 `.export_state`）
+- [ ] 多线程并发导出
+- [ ] 支持更多微信版本（V3, V5）
+- [ ] 从通讯录获取真实昵称
+- [ ] 性能优化（大数据库加速）

@@ -1,0 +1,36 @@
+{
+  "session_id": "wxid_vjvczb731iug22",
+  "session_name": "向亚男",
+  "messages": [
+    {
+      "create_time": 1703904956,
+      "formatted_time": "2023-12-30 10:55:56",
+      "type": "文本",
+      "str_content": "hi，想请教下，三次小作业的word还需要打印吗？",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1703905082,
+      "formatted_time": "2023-12-30 10:58:02",
+      "type": "文本",
+      "str_content": "小作业的word应该不用打印",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1703905203,
+      "formatted_time": "2023-12-30 11:00:03",
+      "type": "文本",
+      "str_content": "只用交大作业的word打印就行了",
+      "is_sender": 0
+    },
+    {
+      "create_time": 1703905207,
+      "formatted_time": "2023-12-30 11:00:07",
+      "type": "文本",
+      "str_content": "交一份",
+      "is_sender": 0
+    }
+  ],
+  "export_time": "2025-12-06T19:12:22+08:00",
+  "message_count": 4
+}
