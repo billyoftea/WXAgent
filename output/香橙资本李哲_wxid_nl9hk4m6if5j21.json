@@ -7,30 +7,30 @@
       "formatted_time": "2025-10-14 21:20:03",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "香橙资本李哲"
     },
     {
       "create_time": 1760448003,
       "formatted_time": "2025-10-14 21:20:03",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "香橙资本李哲"
     },
     {
       "create_time": 1760450195,
       "formatted_time": "2025-10-14 21:56:35",
       "type": "文本消息",
       "str_content": "师兄好！我是汇丰25级数量与金融科技专业的徐昂，是刚才的宣讲会上穿着花衬衫请教市场部typical day的那个男生~",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1760453224,
       "formatted_time": "2025-10-14 22:47:04",
       "type": "文本消息",
       "str_content": "hh师弟你好，香橙资本李哲。多交流",
-      "sender": "对方"
+      "sender_name": "香橙资本李哲"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 4
 }

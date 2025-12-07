@@ -7,37 +7,37 @@
       "formatted_time": "2025-08-31 19:37:33",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "新材料学院 杨宸"
     },
     {
       "create_time": 1756640253,
       "formatted_time": "2025-08-31 19:37:33",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "新材料学院 杨宸"
     },
     {
       "create_time": 1756640293,
       "formatted_time": "2025-08-31 19:38:13",
       "type": "文本消息",
       "str_content": "你好 新材料学院 杨宸",
-      "sender": "对方"
+      "sender_name": "新材料学院 杨宸"
     },
     {
       "create_time": 1756650895,
       "formatted_time": "2025-08-31 22:34:55",
       "type": "文本消息",
       "str_content": "hihi 我是汇丰的徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1756650904,
       "formatted_time": "2025-08-31 22:35:04",
       "type": "文本消息",
       "str_content": "以后可以一起打球🏸",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:05+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 5
 }

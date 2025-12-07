@@ -7,44 +7,44 @@
       "formatted_time": "2025-08-18 22:03:29",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "王农耕"
     },
     {
       "create_time": 1755525824,
       "formatted_time": "2025-08-18 22:03:44",
       "type": "文本消息",
       "str_content": "你好呀",
-      "sender": "对方"
+      "sender_name": "王农耕"
     },
     {
       "create_time": 1755526702,
       "formatted_time": "2025-08-18 22:18:22",
       "type": "文本消息",
       "str_content": "hihi！我是徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1755526704,
       "formatted_time": "2025-08-18 22:18:24",
       "type": "文本消息",
       "str_content": "请多多指教",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1755526711,
       "formatted_time": "2025-08-18 22:18:31",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1755560535,
       "formatted_time": "2025-08-19 07:42:15",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "王农耕"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 6
 }

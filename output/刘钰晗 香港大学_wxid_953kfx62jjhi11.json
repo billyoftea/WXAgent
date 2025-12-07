@@ -7,1437 +7,1437 @@
       "formatted_time": "2024-11-18 16:04:06",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1731917062,
       "formatted_time": "2024-11-18 16:04:22",
       "type": "文本消息",
       "str_content": "徐昂，今晚8:00方便meeting吗～",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1731917293,
       "formatted_time": "2024-11-18 16:08:13",
       "type": "文本消息",
       "str_content": "嗯嗯可以的~我们是就微信吗还是开腾讯会议呀",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1731917326,
       "formatted_time": "2024-11-18 16:08:46",
       "type": "文本消息",
       "str_content": "微信就OK哒～",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1731917342,
       "formatted_time": "2024-11-18 16:09:02",
       "type": "文本消息",
       "str_content": "嗯嗯好嘞",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1731930857,
       "formatted_time": "2024-11-18 19:54:17",
       "type": "文本消息",
       "str_content": "徐昂，我这边的meeting估计晚些才结束，我结束后给你发消息，然后我们meeting哈～",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1731931400,
       "formatted_time": "2024-11-18 20:03:20",
       "type": "文本消息",
       "str_content": "嗯嗯好的~",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1731931899,
       "formatted_time": "2024-11-18 20:11:39",
       "type": "文本消息",
       "str_content": "徐昂 我这边结束啦",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1731931915,
       "formatted_time": "2024-11-18 20:11:55",
       "type": "文本消息",
       "str_content": "你现在OK不～",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1731931953,
       "formatted_time": "2024-11-18 20:12:33",
       "type": "文本消息",
       "str_content": "嗯嗯，我马上~我出门和您打吧~",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1731931959,
       "formatted_time": "2024-11-18 20:12:39",
       "type": "文本消息",
       "str_content": "好哒",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1733109568,
       "formatted_time": "2024-12-02 11:19:28",
       "type": "文本消息",
       "str_content": "徐昂，以下是你的assignment。参考发你的pdf文档中的内容，利用你上个project所使用的CGSS的数据，做一下“Both parents matter. Family-based educational inequality”。pdf文档中的研究包含了两个升学阶段，一个是upper secondary，一个是tertiary。因为CGSS的数据限制，我们目前只考虑升入tertiary的情况。结果做好分析好以后请附带上详细的解释与说明。DDL为12月15号晚上。如果你提前完成了也可以提前给我，我修改后以阶段性结果的方式给组里老师。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1733109581,
       "formatted_time": "2024-12-02 11:19:41",
       "type": "文件消息",
       "str_content": "徐昂参考.pdf",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1733109972,
       "formatted_time": "2024-12-02 11:26:12",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733713846,
       "formatted_time": "2024-12-09 11:10:46",
       "type": "文本消息",
       "str_content": "姐姐我思路基本有了，不过这里还有几个问题，是关于数据统计口径的~",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733713849,
       "formatted_time": "2024-12-09 11:10:49",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733717220,
       "formatted_time": "2024-12-09 12:07:00",
       "type": "文本消息",
       "str_content": "徐昂，以下是我对具体问题的回复。\n问题一：目前最新版本的cgss应该是更新到了cgss2022，需把最新的补上。\n\n问题二：根据cgss的数据性质来看，应该是没有类似CFPS的数据库那样问询家庭组成（单亲，完整）的题目选项，你再确认一下看看？如果确认没有，但是又涉及到单亲 or 非单亲这个对结果的影响变量的控制的话，你是否有比较好的处理方法呢？\n\n问题三：按照连续变量处理比参考论文的离散变量更为可靠。\n\n问题四：直接做一个省份的固定效应？",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1733718955,
       "formatted_time": "2024-12-09 12:35:55",
       "type": "文本消息",
       "str_content": "嗯嗯，姐姐，这是我补充的一些问题：",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733718960,
       "formatted_time": "2024-12-09 12:36:00",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733718966,
       "formatted_time": "2024-12-09 12:36:06",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733722164,
       "formatted_time": "2024-12-09 13:29:24",
       "type": "文本消息",
       "str_content": "以下是问题的解答。问题一：需要自己清洗。问题二：这种处理方法可行。但是你先写一个justify给我看下论证一下看看。补充问题一：你这里提到的family class指的是哪个变量呢？父母的ISEI吗？补充问题二：ISEI 是参照International Standard Classification of Occupation (ISCO)来进行转化的，下面截图可以提供一些补充说明。看下ISCO的标准中 取值为16或者16以下所代表的是什么，是否是无业？补充问题三：关于父母受教育程度的划分是合理的。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1733722178,
       "formatted_time": "2024-12-09 13:29:38",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1733842226,
       "formatted_time": "2024-12-10 22:50:26",
       "type": "文本消息",
       "str_content": "嗯嗯，姐姐我搜了下相关的转换方法，可以使用stata命令将cgss中的isco职业代码直接转换为isei，那我就先按照这个思路来做嘛",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733842227,
       "formatted_time": "2024-12-10 22:50:27",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733882194,
       "formatted_time": "2024-12-11 09:56:34",
       "type": "文本消息",
       "str_content": "如果全部drop掉，如果解释父母没有就业的情况呢徐昂？",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1733882521,
       "formatted_time": "2024-12-11 10:02:01",
       "type": "文本消息",
       "str_content": "感觉按照isco代码转换isei导致的缺失值因为有两种情况嘛，如果不drop的话就混杂了就业但代码不匹配和未就业这样\n因为isei的作用应该只是在step1里用了？只是对简单的class做一个相对解释作用的分析，文章的核心还是在讲父母edu的解释作用，所以我就想要不要把class简化下，因为也没想到什么特别好的处理方法",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733882667,
       "formatted_time": "2024-12-11 10:04:27",
       "type": "文本消息",
       "str_content": "所以按照我现在的思路，可能就考察按照父母没有就业的解释情况了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733885908,
       "formatted_time": "2024-12-11 10:58:28",
       "type": "引用消息",
       "str_content": "我感觉可以。后续分析不用isei是因为数据时间跨度长，isei容易发生变化，比如新冠后好多人都转业了一样。edu就相对稳定。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1733885973,
       "formatted_time": "2024-12-11 10:59:33",
       "type": "文本消息",
       "str_content": "嗯嗯，好滴明白",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733927989,
       "formatted_time": "2024-12-11 22:39:49",
       "type": "文本消息",
       "str_content": "姐姐，我流程基本跑通了，但关于作者估计系数时的方法，我还有个疑问：",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733927990,
       "formatted_time": "2024-12-11 22:39:50",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733929388,
       "formatted_time": "2024-12-11 23:03:08",
       "type": "文本消息",
       "str_content": "噢噢姐姐我好想懂了，这是做的margin操作吗",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733930427,
       "formatted_time": "2024-12-11 23:20:27",
       "type": "文本消息",
       "str_content": "对了，姐姐，我在数据清洗的过程中发现之前我们分的四种可能还不太完善(初中类的样本挺多的)，要不我就直接考虑新增一个初中分类，做这种五分类的教育？",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733930428,
       "formatted_time": "2024-12-11 23:20:28",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733957524,
       "formatted_time": "2024-12-12 06:52:04",
       "type": "引用消息",
       "str_content": "我感觉你的猜测应该是合理的徐昂。我能想到的有三种可能。其一，作者表意错误。这篇文章存在一定的问题。其二，作者选择了某个分类作为baseline，然后跑了四组二元逻辑回归，也就是Teriary coded as 1， baseline coded as 0；upper secondary coded as 1， baseline coded as 0以此类推。其三，作者用的mlogit回归。有一个看不见的baseline（文盲？），所以其实parental edu是一个五分类变量，这样也可以求出其他四个非baseline分类的系数。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1733957551,
       "formatted_time": "2024-12-12 06:52:31",
       "type": "文本消息",
       "str_content": "具体你还是仔细check一下",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1733963468,
       "formatted_time": "2024-12-12 08:31:08",
       "type": "引用消息",
       "str_content": "可以的徐昂",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734000678,
       "formatted_time": "2024-12-12 18:51:18",
       "type": "引用消息",
       "str_content": "我看原文系数的大小好像不像是margin的值，一般margin的取值没有那么大。甚至可能都不是odds ratio，只是简单的coefficient的取值，你确认一下看看徐昂",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734009989,
       "formatted_time": "2024-12-12 21:26:29",
       "type": "文本消息",
       "str_content": "姐姐我现在是这么做的，感觉整体上还比较合理",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734009993,
       "formatted_time": "2024-12-12 21:26:33",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734009996,
       "formatted_time": "2024-12-12 21:26:36",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734012181,
       "formatted_time": "2024-12-12 22:03:01",
       "type": "引用消息",
       "str_content": "徐昂，这个问题你后来确认了没？",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734012582,
       "formatted_time": "2024-12-12 22:09:42",
       "type": "文本消息",
       "str_content": "1.是这样的，我看文章直接给出的分类就是四种，\n(Both father’s and mother’s education were coded into four categories (tertiary / upper secondary / lower secondary / up to primary; 2–3 years of upper secondary and tertiary education are coded upwards)\n而且最后一个就是up to primary，我觉得文盲应该是符合up to primary这个描述的，所以应该还是用的四分类\n2.原文fig2的描述是average predictions，我觉得这个应该不是直接对系数的表述，更像是对margin命令的表述（margins命令会计算在其他变量取均值或参考值的情况下，不同feducat类别下的预测概率（即接受高等教育的概率）。）\n3.如果直接跑logit，最后得到的系数值是  .8962253    1.509145      2.224981  这种的，和原文fig2展示的0~1之间的值差的还是比较大，而且我用margin值跑出来的感觉还很接近原文的一个整体分布情况，所以我觉得应该还是margin值？",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734013134,
       "formatted_time": "2024-12-12 22:18:54",
       "type": "文本消息",
       "str_content": "那如果我们用mlogit模型，以四分类变量中的一类作为baseline，然后求margin呢？结果与原文的差异如何",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734013247,
       "formatted_time": "2024-12-12 22:20:47",
       "type": "文本消息",
       "str_content": "姐姐，mlogit不是对应的是被解释变量在3个以上嘛，这里我们被解释变量（能否成功接受高等教育）应该是个二元变量，而解释变量是个五分类变量？",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734013597,
       "formatted_time": "2024-12-12 22:26:37",
       "type": "文本消息",
       "str_content": "我们的被解释变量不是有未升入高等教育，升入专科，升入本科三类吗，然后我们现在把后面的升入专科和升入本科进行了合并，统一归纳为升入高等教育，那我们我们分开呢？我是这个意思",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734013676,
       "formatted_time": "2024-12-12 22:27:56",
       "type": "文本消息",
       "str_content": "噢噢噢这样啊明白啦，我现在是直接把专科本科一起作为高等教育的\n姐姐 那原文的被解释变量不也是是否成功升入tertiary嘛，这应该是个二分类？",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734013886,
       "formatted_time": "2024-12-12 22:31:26",
       "type": "文本消息",
       "str_content": "对，我们参考的原文是二分类。但是我们可以在原文的基础上进行一个扩展，以此看出更多的社会现象与问题。所以我建议1）我们先参照原文做一个二元的，2）我们再做一个三元的（升入高等教育失败，升入专科，以及升入本科）",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734014104,
       "formatted_time": "2024-12-12 22:35:04",
       "type": "文本消息",
       "str_content": "嗯嗯，那对于原文这种，二元的分类的话，是用margin来做嘛还是怎么处理呢",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734015159,
       "formatted_time": "2024-12-12 22:52:39",
       "type": "文本消息",
       "str_content": "我思考了下。感觉我们可以先用margin来做二元的，然后同样用margin来做三元的。不管二元三元，逻辑思路是一样的 “margins命令会计算在其他变量取均值或参考值的情况下，不同feducat类别下的预测概率”",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734015225,
       "formatted_time": "2024-12-12 22:53:45",
       "type": "文本消息",
       "str_content": "嗯嗯好的，那我先整理下结果，出一版二元的结果+图+分析嘛",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734015687,
       "formatted_time": "2024-12-12 23:01:27",
       "type": "文本消息",
       "str_content": "可以的徐昂",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734246256,
       "formatted_time": "2024-12-15 15:04:16",
       "type": "文件消息",
       "str_content": "报告.docx",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734246264,
       "formatted_time": "2024-12-15 15:04:24",
       "type": "文本消息",
       "str_content": "姐姐这是我得出的结果和分析",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734249017,
       "formatted_time": "2024-12-15 15:50:17",
       "type": "文本消息",
       "str_content": "收到",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734307203,
       "formatted_time": "2024-12-16 08:00:03",
       "type": "文本消息",
       "str_content": "徐昂，我批改了part 1的部分，你先把part 1改好，我们再proceed。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734307213,
       "formatted_time": "2024-12-16 08:00:13",
       "type": "文件消息",
       "str_content": "报告.docx",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734359406,
       "formatted_time": "2024-12-16 22:30:06",
       "type": "文件消息",
       "str_content": "报告 12.16 revised.docx",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734359412,
       "formatted_time": "2024-12-16 22:30:12",
       "type": "文本消息",
       "str_content": "姐姐这是我修改的一版",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734360534,
       "formatted_time": "2024-12-16 22:48:54",
       "type": "文本消息",
       "str_content": "收到徐昂",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734361157,
       "formatted_time": "2024-12-16 22:59:17",
       "type": "文本消息",
       "str_content": "徐昂，“由于筛选30岁以上”，三十是有什么依据吗？",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734361188,
       "formatted_time": "2024-12-16 22:59:48",
       "type": "文本消息",
       "str_content": "因为我看参考的那个论文是用的30岁作为筛选依据",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734362742,
       "formatted_time": "2024-12-16 23:25:42",
       "type": "文本消息",
       "str_content": "它有给原因吗",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734362795,
       "formatted_time": "2024-12-16 23:26:35",
       "type": "文本消息",
       "str_content": "应该是没有的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734362796,
       "formatted_time": "2024-12-16 23:26:36",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734363090,
       "formatted_time": "2024-12-16 23:31:30",
       "type": "文本消息",
       "str_content": "我建议根据CGSS的数据性质来，也就是把年龄调整为18岁，因为基本18岁中国学生都高考了，也能获得大学入学的信息了。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734363899,
       "formatted_time": "2024-12-16 23:44:59",
       "type": "文本消息",
       "str_content": "姐姐，我觉得18岁可能还会涉及到复读或者晚上学的情况，所以可能还是会带来偏差，而且我们如果使用五年计算一次，其实cohort的>2000的样本还是很少，从而导致不太好计算。所以我觉得用大于20岁，1950~1999(或者1951~2000)应该会更好一些？",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734363900,
       "formatted_time": "2024-12-16 23:45:00",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734396370,
       "formatted_time": "2024-12-17 08:46:10",
       "type": "文本消息",
       "str_content": "可以的徐昂。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734446667,
       "formatted_time": "2024-12-17 22:44:27",
       "type": "文件消息",
       "str_content": "报告 12.17 revised.docx",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734446674,
       "formatted_time": "2024-12-17 22:44:34",
       "type": "文本消息",
       "str_content": "姐姐这是我按照20岁筛选后得到的数据和结论",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734446940,
       "formatted_time": "2024-12-17 22:49:00",
       "type": "文本消息",
       "str_content": "收到徐昂",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734575811,
       "formatted_time": "2024-12-19 10:36:51",
       "type": "引用消息",
       "str_content": "徐昂，你这个地方（下面截图处）是否忘记更改了？",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734575823,
       "formatted_time": "2024-12-19 10:37:03",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734575860,
       "formatted_time": "2024-12-19 10:37:40",
       "type": "文本消息",
       "str_content": "噢噢对的，这个应该是第一次修改的时候，我写上去当做对之前那个批注的回复来着",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734596787,
       "formatted_time": "2024-12-19 16:26:27",
       "type": "文本消息",
       "str_content": "徐昂，东西我有点看的卡住了。你先根据修改文档中标黄的地方更改一下，我再继续往下看。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734596797,
       "formatted_time": "2024-12-19 16:26:37",
       "type": "文件消息",
       "str_content": "报告 12.17 revised.docx",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734610216,
       "formatted_time": "2024-12-19 20:10:16",
       "type": "文本消息",
       "str_content": "姐姐这是我修改的一版，变量设置和数据处理方法应该是完全按照参考文献来的，（除了只考虑tertiary和  参考文献把父母受教育程度分为4类，我们分为5类外）",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734610216,
       "formatted_time": "2024-12-19 20:10:16",
       "type": "文件消息",
       "str_content": "报告 12.19 revised.docx",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734682404,
       "formatted_time": "2024-12-20 16:13:24",
       "type": "文本消息",
       "str_content": "徐昂，这个截图中的系数区间范围跨度这么大是什么原因呢？",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734682413,
       "formatted_time": "2024-12-20 16:13:33",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734682422,
       "formatted_time": "2024-12-20 16:13:42",
       "type": "文本消息",
       "str_content": "这是修改后的report，详细见蓝色部分。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734682435,
       "formatted_time": "2024-12-20 16:13:55",
       "type": "文件消息",
       "str_content": "报告 12.19 revised.docx",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734682453,
       "formatted_time": "2024-12-20 16:14:13",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734682455,
       "formatted_time": "2024-12-20 16:14:15",
       "type": "文本消息",
       "str_content": "[破涕为笑]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734682463,
       "formatted_time": "2024-12-20 16:14:23",
       "type": "文本消息",
       "str_content": "F=0，M=4，就是父亲是文盲，母亲接受了高等教育，对应的样本非常少，所以标准差非常大",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734683145,
       "formatted_time": "2024-12-20 16:25:45",
       "type": "文本消息",
       "str_content": "好的",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1734798384,
       "formatted_time": "2024-12-22 00:26:24",
       "type": "文件消息",
       "str_content": "报告 12.21 revised.docx",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734798397,
       "formatted_time": "2024-12-22 00:26:37",
       "type": "文本消息",
       "str_content": "姐姐这是我修改后的版本，前面的一些结论我都重写了下",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734832130,
       "formatted_time": "2024-12-22 09:48:50",
       "type": "文本消息",
       "str_content": "收到",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735016344,
       "formatted_time": "2024-12-24 12:59:04",
       "type": "文本消息",
       "str_content": "徐昂，以下是需要修改的地方，你改好后返一个格式整洁的word版本我。然后你把相应的代码跟数据整理下，打包一份发我。代码你自己检查好，需要可以复现所呈现的结果以及确保其正确性，后续会有其他第二步的同学double check。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735016361,
       "formatted_time": "2024-12-24 12:59:21",
       "type": "文件消息",
       "str_content": "Need to revise.docx",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735016957,
       "formatted_time": "2024-12-24 13:09:17",
       "type": "文本消息",
       "str_content": "收到",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735019583,
       "formatted_time": "2024-12-24 13:53:03",
       "type": "文件消息",
       "str_content": "代码与数据.rar",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735019594,
       "formatted_time": "2024-12-24 13:53:14",
       "type": "文件消息",
       "str_content": "补充说明.docx",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735019594,
       "formatted_time": "2024-12-24 13:53:14",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735019640,
       "formatted_time": "2024-12-24 13:54:00",
       "type": "文件消息",
       "str_content": "报告 12.24 revised.docx",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735030656,
       "formatted_time": "2024-12-24 16:57:36",
       "type": "文本消息",
       "str_content": "徐昂，关于CGSS数据的描述是否存在错误呢，我记得一开始给你的数据是从cgss 2008 wave 到2018 wave的？",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735030664,
       "formatted_time": "2024-12-24 16:57:44",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735030709,
       "formatted_time": "2024-12-24 16:58:29",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735030730,
       "formatted_time": "2024-12-24 16:58:50",
       "type": "文本消息",
       "str_content": "文件命名有错误，不过里面的内容我看了下应该是对的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735030738,
       "formatted_time": "2024-12-24 16:58:58",
       "type": "文本消息",
       "str_content": "是从2008开始的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735032353,
       "formatted_time": "2024-12-24 17:25:53",
       "type": "文本消息",
       "str_content": "你再核对检查下其他的看看",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735049174,
       "formatted_time": "2024-12-24 22:06:14",
       "type": "文件消息",
       "str_content": "代码与数据.rar",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735049188,
       "formatted_time": "2024-12-24 22:06:28",
       "type": "文本消息",
       "str_content": "嗯嗯，这是修改后的，对应代码做了一些处理和说明，应该更清晰一些",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735051058,
       "formatted_time": "2024-12-24 22:37:38",
       "type": "文本消息",
       "str_content": "好的",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735273989,
       "formatted_time": "2024-12-27 12:33:09",
       "type": "文本消息",
       "str_content": "徐昂，你这两天确认一个事情，就是你刚用CGSS做的同样的研究是否可以在印度的背景下复现，是有有相关的数据库支持你去复现。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735281019,
       "formatted_time": "2024-12-27 14:30:19",
       "type": "文本消息",
       "str_content": "收到",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735313313,
       "formatted_time": "2024-12-27 23:28:33",
       "type": "文本消息",
       "str_content": "姐姐我查了下，印度这个数据应该主要是用的NSSO数据，下载链接是http://www.icssrdataservice.in/datarepository/index.php/catalog/MoSPI-NSS，这个好像要注册才能下载源数据，注册是要学校对应的证明的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735313313,
       "formatted_time": "2024-12-27 23:28:33",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735351459,
       "formatted_time": "2024-12-28 10:04:19",
       "type": "文本消息",
       "str_content": "变量是否足够我们的模型呢？",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735352361,
       "formatted_time": "2024-12-28 10:19:21",
       "type": "文本消息",
       "str_content": "我看了下，应该是够得",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735352361,
       "formatted_time": "2024-12-28 10:19:21",
       "type": "文件消息",
       "str_content": "ddi-documentation-english-144.pdf",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735359645,
       "formatted_time": "2024-12-28 12:20:45",
       "type": "文本消息",
       "str_content": "徐昂我具体看了下，印度最新的数据只更新到2010吗",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735359736,
       "formatted_time": "2024-12-28 12:22:16",
       "type": "文本消息",
       "str_content": "应该是2015年吧",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735359741,
       "formatted_time": "2024-12-28 12:22:21",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735360047,
       "formatted_time": "2024-12-28 12:27:27",
       "type": "文本消息",
       "str_content": "我看大部分研究印度教育的论文数据都是用的NSS，不过是不同round的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735363606,
       "formatted_time": "2024-12-28 13:26:46",
       "type": "文本消息",
       "str_content": "最近是否可以到2018呢？",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735363628,
       "formatted_time": "2024-12-28 13:27:08",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735363746,
       "formatted_time": "2024-12-28 13:29:06",
       "type": "文本消息",
       "str_content": "应该是可以的，按年排序的话，我看了下那个网站上面有75th round的数据，是17~18年的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735363746,
       "formatted_time": "2024-12-28 13:29:06",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735364214,
       "formatted_time": "2024-12-28 13:36:54",
       "type": "文本消息",
       "str_content": "样本量是否足够？",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735364455,
       "formatted_time": "2024-12-28 13:40:55",
       "type": "文本消息",
       "str_content": "报告中看起来是挺够的，不过具体可能还是要看数据清洗后的量大概是多少",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735364456,
       "formatted_time": "2024-12-28 13:40:56",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735364456,
       "formatted_time": "2024-12-28 13:40:56",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735369479,
       "formatted_time": "2024-12-28 15:04:39",
       "type": "文本消息",
       "str_content": "好的徐昂",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735619110,
       "formatted_time": "2024-12-31 12:25:10",
       "type": "文本消息",
       "str_content": "徐昂，你把你的邮箱发我一下",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735619269,
       "formatted_time": "2024-12-31 12:27:49",
       "type": "文本消息",
       "str_content": "xuang_work@foxmail.com",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735627629,
       "formatted_time": "2024-12-31 14:47:09",
       "type": "文件消息",
       "str_content": "印度数据说明.docx",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735627650,
       "formatted_time": "2024-12-31 14:47:30",
       "type": "文本消息",
       "str_content": "徐昂，关于印度的数据发你邮箱了。然后微信中的这个word文档是相关的说明。你仔细查看一下确定两件事。第一数据样本量是都足够，第二变量是否足够。最后，确认是否可以用于我们的分析",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735627740,
       "formatted_time": "2024-12-31 14:49:00",
       "type": "文本消息",
       "str_content": "注意：由于数据占传输内存有点大，你先去邮箱下载一下印度数据1的数据资料，下载完毕告知我一下，我再把剩余的那部分数据发你",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735638590,
       "formatted_time": "2024-12-31 17:49:50",
       "type": "文本消息",
       "str_content": "嗯嗯好的，不过姐姐我今天回家，可能要过两天才能出这个结果",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735638983,
       "formatted_time": "2024-12-31 17:56:23",
       "type": "引用消息",
       "str_content": "好的徐昂，你记得先尽快下载好目前邮箱的资料然后和我说，我把剩余的那部分2G多的资料再Email发你",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735657264,
       "formatted_time": "2024-12-31 23:01:04",
       "type": "文本消息",
       "str_content": "嗯嗯，我这边下载好啦",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1735690986,
       "formatted_time": "2025-01-01 08:23:06",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735690996,
       "formatted_time": "2025-01-01 08:23:16",
       "type": "文本消息",
       "str_content": "好的徐昂，剩余的数据已发至你邮箱中",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1735707784,
       "formatted_time": "2025-01-01 13:03:04",
       "type": "文本消息",
       "str_content": "嗯嗯好嘞",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1736860820,
       "formatted_time": "2025-01-14 21:20:20",
       "type": "文本消息",
       "str_content": "徐昂，你印度的做完了吗",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1736861326,
       "formatted_time": "2025-01-14 21:28:46",
       "type": "文本消息",
       "str_content": "姐姐，我回来之后主要看了下对应的数据结构，初次check的整体结论是变量数和样本数可以支撑分析，但因为最近实习年终的事儿比较多，学校这边也在搞论文开题，现在还没有形成完整的报告",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1736865898,
       "formatted_time": "2025-01-14 22:44:58",
       "type": "文本消息",
       "str_content": "你合理安排时间，抓紧下徐昂。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1736865955,
       "formatted_time": "2025-01-14 22:45:55",
       "type": "文本消息",
       "str_content": "嗯嗯，这个大概什么时候要呀",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1736866560,
       "formatted_time": "2025-01-14 22:56:00",
       "type": "文本消息",
       "str_content": "年前团队有个年终总结，到时候大家都要汇报的。但是后面还涉及其他几个国家的分析，我感觉你这边肯定是完不成了。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1736866705,
       "formatted_time": "2025-01-14 22:58:25",
       "type": "文本消息",
       "str_content": "你合理安排时间，年前尽量先把印度做了吧",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1736866968,
       "formatted_time": "2025-01-14 23:02:48",
       "type": "文本消息",
       "str_content": "嗯嗯好的，明白",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737037578,
       "formatted_time": "2025-01-16 22:26:18",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737037583,
       "formatted_time": "2025-01-16 22:26:23",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737037590,
       "formatted_time": "2025-01-16 22:26:30",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737039196,
       "formatted_time": "2025-01-16 22:53:16",
       "type": "文本消息",
       "str_content": "而且原始数据中，父母的occupation存在比较大的缺失值（尤其是母亲），所以应该在这一块比较难处理isei",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737101181,
       "formatted_time": "2025-01-17 16:06:21",
       "type": "引用消息",
       "str_content": "我觉得以固定效应加入进去是可以的。然后我们主要只考虑父母的education。同时考虑到印度的实际情况（种姓制度以及社会结构的不平等），你可以在both parents的分析后加一个你最初接触科研时候做的90/10的分析，也用父母的education即可，然后因变量同both parents的分析一样。另外，你在数据清理的过程中，确认一下是否印度的高等教育扩招可以做DID。具体确认下（1）是否有合适的实验组和对照组（2）数据是否可以确定哪些样本是受到扩招影响的，哪些是不受影响的。事前项就是2011年扩招前，事后项就是扩招后的群体。（链接背景参考：https://mp.weixin.qq.com/s/NaJeNxGvmN_mJwzrgjckWw）",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737101493,
       "formatted_time": "2025-01-17 16:11:33",
       "type": "文本消息",
       "str_content": "姐姐，这个印度数据我们是要怎么用呢？是要做另外一个全面的相对独立的分析，还是要承接着之前做的中国的sheaf coef法来做分析呢",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737103769,
       "formatted_time": "2025-01-17 16:49:29",
       "type": "文本消息",
       "str_content": "你有什么思考🤔吗徐昂",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737104517,
       "formatted_time": "2025-01-17 17:01:57",
       "type": "文本消息",
       "str_content": "因为我之前的理解是考虑加入印度和其他国家和中国CGSS数据一起，做一个横向对比，现在如果还要做90-10和did，是只作为一种拓展性的探索，或者说研究的积累嘛",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737108336,
       "formatted_time": "2025-01-17 18:05:36",
       "type": "文本消息",
       "str_content": "你之前的理解没有问题徐昂。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737108467,
       "formatted_time": "2025-01-17 18:07:47",
       "type": "文本消息",
       "str_content": "承接sheaf法分析，留意90-10以及DID分析的可能性。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737172269,
       "formatted_time": "2025-01-18 11:51:09",
       "type": "文本消息",
       "str_content": "嗯嗯好的，明白",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737544650,
       "formatted_time": "2025-01-22 19:17:30",
       "type": "文本消息",
       "str_content": "姐姐，我们这个印度的研究中，父母的occupation是什么样的地位呢？现在的数据block和round缺失的还是比较多，而且很多地方都不太明确，反正研究的目的还是看父母教育对孩子教育的影响，本来的occupation也只是在step1里看解释效果，那可不可以直接不考虑使用occupation？\n在2011年前的数据里，父亲occupation缺失的比例是20%，母亲occupation缺失的比例是80%\n在已有的2011年后的调查数据里，数据结构发生了变化，父母occupation很多都是没收集的，已有数据集无法对父母职业进行有效匹配",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737550114,
       "formatted_time": "2025-01-22 20:48:34",
       "type": "文本消息",
       "str_content": "鉴于这个情况，那我们就从一开始不考虑occupation这个变量。对于不考虑的原因（也就是你刚才说的这段话）可以到时候放在报告里面。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737714726,
       "formatted_time": "2025-01-24 18:32:06",
       "type": "文件消息",
       "str_content": "印度数据清洗与处理  1.24.docx",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737714737,
       "formatted_time": "2025-01-24 18:32:17",
       "type": "文本消息",
       "str_content": "姐姐这是我清洗过程和处理结果",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737715293,
       "formatted_time": "2025-01-24 18:41:33",
       "type": "文本消息",
       "str_content": "徐昂变量统计性描述的地方，如果是分类变量，需要提供类别的占比才比较合理。要不如果是性别变量，你求均值肯定是没有意义的，一般我们是男女各自占比多少。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737715488,
       "formatted_time": "2025-01-24 18:44:48",
       "type": "文本消息",
       "str_content": "嗯嗯，我把教育分布画了直方图，那最后是要产出一个类似这样的描述性统计吗？",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737715493,
       "formatted_time": "2025-01-24 18:44:53",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737716098,
       "formatted_time": "2025-01-24 18:54:58",
       "type": "文本消息",
       "str_content": "这两列是啥",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737716107,
       "formatted_time": "2025-01-24 18:55:07",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737716129,
       "formatted_time": "2025-01-24 18:55:29",
       "type": "文本消息",
       "str_content": "因变量，是否接受了高等教育",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737716143,
       "formatted_time": "2025-01-24 18:55:43",
       "type": "文本消息",
       "str_content": "这个图是中国数据的统计",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737716645,
       "formatted_time": "2025-01-24 19:04:05",
       "type": "文件消息",
       "str_content": "印度数据清洗与处理  1.24.docx",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737717306,
       "formatted_time": "2025-01-24 19:15:06",
       "type": "文本消息",
       "str_content": "好的徐昂。数据目前你也清理完了，你对于did与90-10有什么探究发现吗",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737717911,
       "formatted_time": "2025-01-24 19:25:11",
       "type": "文本消息",
       "str_content": "90-10应该是可以做的，但我没查到太多使用DID进行研究的，一个潜在的应用可能是印度规定在2008年公立高等教育机构中要为落后民族预留名额，从而使用DID",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737717916,
       "formatted_time": "2025-01-24 19:25:16",
       "type": "文件消息",
       "str_content": "9897092682016-07-01.pdf",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737761429,
       "formatted_time": "2025-01-25 07:30:29",
       "type": "文本消息",
       "str_content": "所以是类似的高等教育定向扶贫政策。如果做DID的话因变量是什么呢，以及数据是否支持实验组和对照组的选取？",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737761451,
       "formatted_time": "2025-01-25 07:30:51",
       "type": "文本消息",
       "str_content": "关于fedu的变量影响，在step 1中，是否可以解释为：在控制了模型中其他变量的影响后，父亲的教育年限每增加 1 年，孩子进入高等教育的概率会综合性地提升 78.6%。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737779313,
       "formatted_time": "2025-01-25 12:28:33",
       "type": "引用消息",
       "str_content": "是否是落后民族（OBC），和政策实施的时间，是自变量；因变量是是否接受高等教育。数据理论支持的，原文也是用了NSS数据",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737779502,
       "formatted_time": "2025-01-25 12:31:42",
       "type": "引用消息",
       "str_content": "这里自变量是父亲的受教育程度，而不是受教育年限。关于他的系数含义，我也有点不太确定。因为sheaf实际上是把这几个dummy var组合在一起后看的标准化影响，他的值代表着综合影响，但不一定能这样量化。",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737779552,
       "formatted_time": "2025-01-25 12:32:32",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737779568,
       "formatted_time": "2025-01-25 12:32:48",
       "type": "文本消息",
       "str_content": "如果考虑到logit，可能可以解释称odds ratio的增加",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737780325,
       "formatted_time": "2025-01-25 12:45:25",
       "type": "引用消息",
       "str_content": "如果是odds ratio的话是否需要求下e的x次方？因为logit模型输出的是log odds，需要转化成odds。但是我不清楚sheaf求的是不是log odds，因为正如你所说的sheaf求的系数是综合性系数。这个你确认一下看看徐昂",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737780589,
       "formatted_time": "2025-01-25 12:49:49",
       "type": "文本消息",
       "str_content": "我感觉也可以说是log odds。但这里sheaf模型的新解释变量是由不同的旧解释变量按照权重组合成的，我也不太能判断他这个系数是啥经济含义",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737780589,
       "formatted_time": "2025-01-25 12:49:49",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737785030,
       "formatted_time": "2025-01-25 14:03:50",
       "type": "引用消息",
       "str_content": "落后民族（OBC）在样本NSS的数据里面有明确定义吗？",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737796883,
       "formatted_time": "2025-01-25 17:21:23",
       "type": "文本消息",
       "str_content": "嗯嗯有的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737796884,
       "formatted_time": "2025-01-25 17:21:24",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737809739,
       "formatted_time": "2025-01-25 20:55:39",
       "type": "文本消息",
       "str_content": "好的徐昂",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737881343,
       "formatted_time": "2025-01-26 16:49:03",
       "type": "文本消息",
       "str_content": "徐昂，你把相应的印度的代码以及整理好的数据打包一份发我邮箱 513448528@qq.com 相关问题假期后再说",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1737886489,
       "formatted_time": "2025-01-26 18:14:49",
       "type": "文本消息",
       "str_content": "嗯嗯好的，发过去了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737892993,
       "formatted_time": "2025-01-26 20:03:13",
       "type": "文本消息",
       "str_content": "收到",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1738111004,
       "formatted_time": "2025-01-29 08:36:44",
       "type": "文本消息",
       "str_content": "姐姐新年快乐！[呲牙][呲牙]\n感谢您的教导与帮助，祝您在新的一年身体健康，事业进步，阖家幸福！[福][福][福]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1738112803,
       "formatted_time": "2025-01-29 09:06:43",
       "type": "文本消息",
       "str_content": "徐昂新年快乐呀[福][福]新的一年祝你学业棒棒，平安喜乐[烟花][烟花]",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1739944180,
       "formatted_time": "2025-02-19 13:49:40",
       "type": "文本消息",
       "str_content": "徐昂，同样的方法，下面的国家是韩国。你可以先确定数据库以及数据。DDL是三月6号。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1739944558,
       "formatted_time": "2025-02-19 13:55:58",
       "type": "文本消息",
       "str_content": "收到",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1740323752,
       "formatted_time": "2025-02-23 23:15:52",
       "type": "文本消息",
       "str_content": "姐姐，我搜了挺多韩国研究education/college entrance相关的数据库，但研究韩国教育的比较新的文献很少，查到的一些文献很多都是用的中小学生的数据，而且数据量很少只有几千条，没有办法支撑我们之前那样的大规模回归分析\n\n我在文献之外，也查了查韩国对微观个体的数据调查，但我还没有查到像CGSS这种比较全的以家庭为单位的调查，只找到了一个叫KLIPS（Korean Labor and Income Panel Study，网址https://www.kli.re.kr/klips_eng/）的追踪调查，应该不是保密的而且有需要的数据，不过我看了下大概的数据，好像只有一两万的样本量，清洗后可能不够，而且这个database好像是付费下载的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1740367659,
       "formatted_time": "2025-02-24 11:27:39",
       "type": "文本消息",
       "str_content": "Korean Educational Longitudinal Study (KELS)的样本量以及变量够吗？大概差不多5000左右。",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1740368678,
       "formatted_time": "2025-02-24 11:44:38",
       "type": "文本消息",
       "str_content": "我昨天有看到这个数据，但一方面数据比较少（5000），另一方面追踪调查的是同一个cohort的education情况，无法像之前那样看系数时间上的变化",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1740368680,
       "formatted_time": "2025-02-24 11:44:40",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1740370930,
       "formatted_time": "2025-02-24 12:22:10",
       "type": "文本消息",
       "str_content": "可以换个思路，看纵向变化吗，比如不同的升学阶段？",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1740389268,
       "formatted_time": "2025-02-24 17:27:48",
       "type": "文本消息",
       "str_content": "这个应该在执行上是可行的，那之前的中国和印度还需要按照这种方式重新跑一遍嘛\n但在数据量上，因为没拿到具体地数据，我也不是很确定能做到什么程度[破涕为笑]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1740454178,
       "formatted_time": "2025-02-25 11:29:38",
       "type": "文本消息",
       "str_content": "我先与组里的其他老师讨论下纵向的问题。你看下poland的数据是否够。pgss也就是波兰的cgss",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1741259523,
       "formatted_time": "2025-03-06 19:12:03",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1741259524,
       "formatted_time": "2025-03-06 19:12:04",
       "type": "文件消息",
       "str_content": "波兰报告.docx",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1741259528,
       "formatted_time": "2025-03-06 19:12:08",
       "type": "文本消息",
       "str_content": "姐姐我根据pgss分析了下，由于样本量比较少，而且最新的样本是在2010年，所以有比较多缺失",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1741259661,
       "formatted_time": "2025-03-06 19:14:21",
       "type": "文本消息",
       "str_content": "收到",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1745814075,
       "formatted_time": "2025-04-28 12:21:15",
       "type": "文本消息",
       "str_content": "徐昂，由于我这边电脑出现一些问题，有部分数据遗失了，你把之前整理好的相应的印度的代码以及分析数据，外加Poland的数据和代码打包一份发我邮箱 513448528@qq.com",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     },
     {
       "create_time": 1745814150,
       "formatted_time": "2025-04-28 12:22:30",
       "type": "文本消息",
       "str_content": "嗯嗯好嘞，我找一下",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1745815360,
       "formatted_time": "2025-04-28 12:42:40",
       "type": "文本消息",
       "str_content": "姐姐我这边发过去啦",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1745815816,
       "formatted_time": "2025-04-28 12:50:16",
       "type": "文本消息",
       "str_content": "好的徐昂[太阳]",
-      "sender": "对方"
+      "sender_name": "刘钰晗 香港大学"
     }
   ],
-  "export_time": "2025-12-07T09:48:05+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 205
 }

@@ -7,44 +7,44 @@
       "formatted_time": "2025-09-05 22:43:06",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "陈杨子珊-厦大-经济学"
     },
     {
       "create_time": 1757083386,
       "formatted_time": "2025-09-05 22:43:06",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "陈杨子珊-厦大-经济学"
     },
     {
       "create_time": 1758184876,
       "formatted_time": "2025-09-18 16:41:16",
       "type": "文件消息",
       "str_content": "破冰自我介绍-徐昂.pptx",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1758184877,
       "formatted_time": "2025-09-18 16:41:17",
       "type": "文本消息",
       "str_content": "dddd",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1758184882,
       "formatted_time": "2025-09-18 16:41:22",
       "type": "文本消息",
       "str_content": "俺滴自我介绍！辛苦啦！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1758187971,
       "formatted_time": "2025-09-18 17:32:51",
       "type": "文本消息",
       "str_content": "好滴",
-      "sender": "对方"
+      "sender_name": "陈杨子珊-厦大-经济学"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 6
 }

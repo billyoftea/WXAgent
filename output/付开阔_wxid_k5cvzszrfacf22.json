@@ -7,65 +7,65 @@
       "formatted_time": "2024-02-25 12:07:05",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "付开阔"
     },
     {
       "create_time": 1708834035,
       "formatted_time": "2024-02-25 12:07:15",
       "type": "文本消息",
       "str_content": "你好呀~我叫徐昂，请多多指教啦！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1708834069,
       "formatted_time": "2024-02-25 12:07:49",
       "type": "文本消息",
       "str_content": "你好你好",
-      "sender": "对方"
+      "sender_name": "付开阔"
     },
     {
       "create_time": 1708834073,
       "formatted_time": "2024-02-25 12:07:53",
       "type": "文本消息",
       "str_content": "我叫付开阔",
-      "sender": "对方"
+      "sender_name": "付开阔"
     },
     {
       "create_time": 1708834229,
       "formatted_time": "2024-02-25 12:10:29",
       "type": "文本消息",
       "str_content": "你是宣传部的嘛",
-      "sender": "对方"
+      "sender_name": "付开阔"
     },
     {
       "create_time": 1708834297,
       "formatted_time": "2024-02-25 12:11:37",
       "type": "文本消息",
       "str_content": "啊我是理事会的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1708834315,
       "formatted_time": "2024-02-25 12:11:55",
       "type": "文本消息",
       "str_content": "哦哦哦好滴，我是宣传部的",
-      "sender": "对方"
+      "sender_name": "付开阔"
     },
     {
       "create_time": 1708834321,
       "formatted_time": "2024-02-25 12:12:01",
       "type": "文本消息",
       "str_content": "幸会幸会",
-      "sender": "对方"
+      "sender_name": "付开阔"
     },
     {
       "create_time": 1708834324,
       "formatted_time": "2024-02-25 12:12:04",
       "type": "文本消息",
       "str_content": "[握手][握手]",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:06+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 9
 }

@@ -7,65 +7,65 @@
       "formatted_time": "2022-07-10 13:14:58",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "唐雪梅 13981122540"
     },
     {
       "create_time": 1657461041,
       "formatted_time": "2022-07-10 21:50:41",
       "type": "转账卡片",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "唐雪梅 13981122540"
     },
     {
       "create_time": 1657470253,
       "formatted_time": "2022-07-11 00:24:13",
       "type": "文本消息",
       "str_content": "好嘞",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1657470257,
       "formatted_time": "2022-07-11 00:24:17",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1657470259,
       "formatted_time": "2022-07-11 00:24:19",
       "type": "转账卡片",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1659009556,
       "formatted_time": "2022-07-28 19:59:16",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1659009562,
       "formatted_time": "2022-07-28 19:59:22",
       "type": "文本消息",
       "str_content": "你昨天点茶水了吗",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1659010729,
       "formatted_time": "2022-07-28 20:18:49",
       "type": "文本消息",
       "str_content": "没有哎",
-      "sender": "对方"
+      "sender_name": "唐雪梅 13981122540"
     },
     {
       "create_time": 1659010734,
       "formatted_time": "2022-07-28 20:18:54",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "唐雪梅 13981122540"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 9
 }

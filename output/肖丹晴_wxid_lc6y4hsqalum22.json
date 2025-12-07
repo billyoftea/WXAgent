@@ -7,51 +7,51 @@
       "formatted_time": "2023-10-26 16:15:32",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1698309634,
       "formatted_time": "2023-10-26 16:40:34",
       "type": "文本消息",
       "str_content": "好滴 谢谢",
-      "sender": "对方"
+      "sender_name": "肖丹晴"
     },
     {
       "create_time": 1698311154,
       "formatted_time": "2023-10-26 17:05:54",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1698556971,
       "formatted_time": "2023-10-29 13:22:51",
       "type": "文本消息",
       "str_content": "哈咯 你知道李导的手机号码是多少吗",
-      "sender": "对方"
+      "sender_name": "肖丹晴"
     },
     {
       "create_time": 1698556990,
       "formatted_time": "2023-10-29 13:23:10",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1698557015,
       "formatted_time": "2023-10-29 13:23:35",
       "type": "文本消息",
       "str_content": "谢谢！",
-      "sender": "对方"
+      "sender_name": "肖丹晴"
     },
     {
       "create_time": 1698557036,
       "formatted_time": "2023-10-29 13:23:56",
       "type": "文本消息",
       "str_content": "没事没事",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:06+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 7
 }

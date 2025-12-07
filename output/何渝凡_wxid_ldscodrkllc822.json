@@ -7,44 +7,44 @@
       "formatted_time": "2024-02-25 12:24:56",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "何渝凡"
     },
     {
       "create_time": 1708835099,
       "formatted_time": "2024-02-25 12:24:59",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1708835107,
       "formatted_time": "2024-02-25 12:25:07",
       "type": "文本消息",
       "str_content": "学姐，麻烦进一下本届的校代会常任代表群~",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1708836445,
       "formatted_time": "2024-02-25 12:47:25",
       "type": "文本消息",
       "str_content": "进啦",
-      "sender": "对方"
+      "sender_name": "何渝凡"
     },
     {
       "create_time": 1708836450,
       "formatted_time": "2024-02-25 12:47:30",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "何渝凡"
     },
     {
       "create_time": 1708836463,
       "formatted_time": "2024-02-25 12:47:43",
       "type": "文本消息",
       "str_content": "好滴好滴[玫瑰][玫瑰]",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:07+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 6
 }

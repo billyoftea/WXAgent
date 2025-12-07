@@ -7,93 +7,93 @@
       "formatted_time": "2025-11-23 00:48:48",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "Natcha"
     },
     {
       "create_time": 1763830128,
       "formatted_time": "2025-11-23 00:48:48",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "Natcha"
     },
     {
       "create_time": 1763830195,
       "formatted_time": "2025-11-23 00:49:55",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "Natcha"
     },
     {
       "create_time": 1763832837,
       "formatted_time": "2025-11-23 01:33:57",
       "type": "文本消息",
       "str_content": "alex",
-      "sender": "对方"
+      "sender_name": "Natcha"
     },
     {
       "create_time": 1763904503,
       "formatted_time": "2025-11-23 21:28:23",
       "type": "文本消息",
       "str_content": "Yeah，alex",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1763904507,
       "formatted_time": "2025-11-23 21:28:27",
       "type": "文本消息",
       "str_content": "or u can call me ang",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1763904533,
       "formatted_time": "2025-11-23 21:28:53",
       "type": "文本消息",
       "str_content": "My Chinese name is Xu Ang, so i chose the simple Ang as my nickname",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1763967946,
       "formatted_time": "2025-11-24 15:05:46",
       "type": "文本消息",
       "str_content": "Nice to meet you!",
-      "sender": "对方"
+      "sender_name": "Natcha"
     },
     {
       "create_time": 1763967954,
       "formatted_time": "2025-11-24 15:05:54",
       "type": "文本消息",
       "str_content": "You can call me Natcha",
-      "sender": "对方"
+      "sender_name": "Natcha"
     },
     {
       "create_time": 1763967973,
       "formatted_time": "2025-11-24 15:06:13",
       "type": "文本消息",
       "str_content": "Are you in economic or finance?",
-      "sender": "对方"
+      "sender_name": "Natcha"
     },
     {
       "create_time": 1763971342,
       "formatted_time": "2025-11-24 16:02:22",
       "type": "文本消息",
       "str_content": "finance（quant and fintech path）",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1763971354,
       "formatted_time": "2025-11-24 16:02:34",
       "type": "文本消息",
       "str_content": "nice to meet u too!",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1763973194,
       "formatted_time": "2025-11-24 16:33:14",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "Natcha"
     }
   ],
-  "export_time": "2025-12-07T09:48:01+08:00",
+  "export_time": "2025-12-07T09:58:52+08:00",
   "message_count": 13
 }

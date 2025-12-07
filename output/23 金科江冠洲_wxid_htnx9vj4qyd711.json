@@ -7,37 +7,37 @@
       "formatted_time": "2025-09-20 19:13:38",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "23 金科江冠洲"
     },
     {
       "create_time": 1758366818,
       "formatted_time": "2025-09-20 19:13:38",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "23 金科江冠洲"
     },
     {
       "create_time": 1758366828,
       "formatted_time": "2025-09-20 19:13:48",
       "type": "文本消息",
       "str_content": "哈喽，23 金科江冠洲～",
-      "sender": "对方"
+      "sender_name": "23 金科江冠洲"
     },
     {
       "create_time": 1758367217,
       "formatted_time": "2025-09-20 19:20:17",
       "type": "文本消息",
       "str_content": "学长好！我是25数金的~",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1758367567,
       "formatted_time": "2025-09-20 19:26:07",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "23 金科江冠洲"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 5
 }

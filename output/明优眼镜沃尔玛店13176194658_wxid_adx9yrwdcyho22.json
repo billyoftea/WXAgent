@@ -7,23 +7,23 @@
       "formatted_time": "2024-01-30 19:08:28",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "明优眼镜沃尔玛店13176194658"
     },
     {
       "create_time": 1706678192,
       "formatted_time": "2024-01-31 13:16:32",
       "type": "文本消息",
       "str_content": "你好 眼镜做好了可以过来取了",
-      "sender": "对方"
+      "sender_name": "明优眼镜沃尔玛店13176194658"
     },
     {
       "create_time": 1706678200,
       "formatted_time": "2024-01-31 13:16:40",
       "type": "文本消息",
       "str_content": "好的",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:06+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 3
 }

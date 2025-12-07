@@ -7,51 +7,51 @@
       "formatted_time": "2025-08-26 17:09:40",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "王子骄-北京师范大学-经双"
     },
     {
       "create_time": 1756199380,
       "formatted_time": "2025-08-26 17:09:40",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "王子骄-北京师范大学-经双"
     },
     {
       "create_time": 1756199403,
       "formatted_time": "2025-08-26 17:10:03",
       "type": "文本消息",
       "str_content": "你好哇",
-      "sender": "对方"
+      "sender_name": "王子骄-北京师范大学-经双"
     },
     {
       "create_time": 1756199409,
       "formatted_time": "2025-08-26 17:10:09",
       "type": "文本消息",
       "str_content": "我是经双王子骄",
-      "sender": "对方"
+      "sender_name": "王子骄-北京师范大学-经双"
     },
     {
       "create_time": 1756199420,
       "formatted_time": "2025-08-26 17:10:20",
       "type": "文本消息",
       "str_content": "hihi，我是数金徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1756199424,
       "formatted_time": "2025-08-26 17:10:24",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1756199436,
       "formatted_time": "2025-08-26 17:10:36",
       "type": "文本消息",
       "str_content": "多多交流！",
-      "sender": "对方"
+      "sender_name": "王子骄-北京师范大学-经双"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 7
 }

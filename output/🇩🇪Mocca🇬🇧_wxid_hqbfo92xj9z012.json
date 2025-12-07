@@ -7,30 +7,30 @@
       "formatted_time": "2025-08-27 19:53:30",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "🇩🇪Mocca🇬🇧"
     },
     {
       "create_time": 1756295610,
       "formatted_time": "2025-08-27 19:53:30",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "🇩🇪Mocca🇬🇧"
     },
     {
       "create_time": 1756351931,
       "formatted_time": "2025-08-28 11:32:11",
       "type": "文本消息",
       "str_content": "Hello, I am Mocca from Management class 5, it was really nice to meet you 😁",
-      "sender": "对方"
+      "sender_name": "🇩🇪Mocca🇬🇧"
     },
     {
       "create_time": 1756355623,
       "formatted_time": "2025-08-28 12:33:43",
       "type": "文本消息",
       "str_content": "Hihi, I am Xu Ang from finance(quantitative finance and fintech path), nice to meet u too☺️",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 4
 }

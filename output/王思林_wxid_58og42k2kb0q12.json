@@ -7,44 +7,44 @@
       "formatted_time": "2023-06-08 16:33:12",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "王思林"
     },
     {
       "create_time": 1686213487,
       "formatted_time": "2023-06-08 16:38:07",
       "type": "文本消息",
       "str_content": "学姐好~学姐是舞蹈队的嘛感觉好熟悉[让我看看]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1686213687,
       "formatted_time": "2023-06-08 16:41:27",
       "type": "文本消息",
       "str_content": "是的hh",
-      "sender": "对方"
+      "sender_name": "王思林"
     },
     {
       "create_time": 1686213726,
       "formatted_time": "2023-06-08 16:42:06",
       "type": "文本消息",
       "str_content": "你是不是经常做活动负责人，还是啥",
-      "sender": "对方"
+      "sender_name": "王思林"
     },
     {
       "create_time": 1686213740,
       "formatted_time": "2023-06-08 16:42:20",
       "type": "文本消息",
       "str_content": "hhh确实是办过一些活动~",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1686214394,
       "formatted_time": "2023-06-08 16:53:14",
       "type": "文本消息",
       "str_content": "👌👌",
-      "sender": "对方"
+      "sender_name": "王思林"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 6
 }

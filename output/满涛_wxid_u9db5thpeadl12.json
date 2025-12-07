@@ -7,121 +7,121 @@
       "formatted_time": "2025-07-11 17:08:23",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "满涛"
     },
     {
       "create_time": 1752224935,
       "formatted_time": "2025-07-11 17:08:55",
       "type": "文本消息",
       "str_content": "舅舅，我妈跟我说这个事儿了，我现在从外边儿嘞，可能晚一点才回家。而且，我之前注册过一个公众号，不确定会不会对你那边有影响",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1752228221,
       "formatted_time": "2025-07-11 18:03:41",
       "type": "文本消息",
       "str_content": "好的，徐昂，你注册过的号有没有实名认证过？",
-      "sender": "对方"
+      "sender_name": "满涛"
     },
     {
       "create_time": 1752228245,
       "formatted_time": "2025-07-11 18:04:05",
       "type": "文本消息",
       "str_content": "没实名认证的话就行，实名认证过了的就不能用了",
-      "sender": "对方"
+      "sender_name": "满涛"
     },
     {
       "create_time": 1752230737,
       "formatted_time": "2025-07-11 18:45:37",
       "type": "文本消息",
       "str_content": "我这个也记不太清了[破涕为笑]我回去看一下",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1752230851,
       "formatted_time": "2025-07-11 18:47:31",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1752230862,
       "formatted_time": "2025-07-11 18:47:42",
       "type": "文本消息",
       "str_content": "好像是实名过的[破涕为笑]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1752233764,
       "formatted_time": "2025-07-11 19:36:04",
       "type": "文本消息",
       "str_content": "好的，这个公众号你以前发过内容吗？",
-      "sender": "对方"
+      "sender_name": "满涛"
     },
     {
       "create_time": 1752233809,
       "formatted_time": "2025-07-11 19:36:49",
       "type": "文本消息",
       "str_content": "你妈妈的实名没认证过公众号，用她的也行",
-      "sender": "对方"
+      "sender_name": "满涛"
     },
     {
       "create_time": 1752254063,
       "formatted_time": "2025-07-12 01:14:23",
       "type": "文本消息",
       "str_content": "舅舅，我刚从外面回家，和朋友打麻将呢[破涕为笑]\n我这个公众号也是最近注册的，打算后续写一些财经金融研究相关的文章，目前还在构思账号的定位，还没发过内容。如果再注册一个新的，那你那边能用嘛，如果不行的话，就用我妈妈的也可以",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1752280736,
       "formatted_time": "2025-07-12 08:38:56",
       "type": "文本消息",
       "str_content": "好的，用你妈妈的注册一个吧，等你有时间再弄，不着急，你有空了联系我就行",
-      "sender": "对方"
+      "sender_name": "满涛"
     },
     {
       "create_time": 1752291333,
       "formatted_time": "2025-07-12 11:35:33",
       "type": "文本消息",
       "str_content": "嗯嗯好嘞",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1752305775,
       "formatted_time": "2025-07-12 15:36:15",
       "type": "文本消息",
       "str_content": "徐昂，等你和妈妈都在场，而且能用电脑的时候，你联系我一下，帮我注册一个公众号",
-      "sender": "对方"
+      "sender_name": "满涛"
     },
     {
       "create_time": 1752311683,
       "formatted_time": "2025-07-12 17:14:43",
       "type": "文本消息",
       "str_content": "嗯嗯好的，我今天晚上和朋友约了打球，尽量早回来一点搞这个~",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1752311696,
       "formatted_time": "2025-07-12 17:14:56",
       "type": "文本消息",
       "str_content": "好的",
-      "sender": "对方"
+      "sender_name": "满涛"
     },
     {
       "create_time": 1752319538,
       "formatted_time": "2025-07-12 19:25:38",
       "type": "文本消息",
       "str_content": "徐昂，你放心在外面玩吧，我那个号不着急了，我想了个别的办法，弄了一个号",
-      "sender": "对方"
+      "sender_name": "满涛"
     },
     {
       "create_time": 1752319808,
       "formatted_time": "2025-07-12 19:30:08",
       "type": "文本消息",
       "str_content": "好嘞舅舅",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:05+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 17
 }

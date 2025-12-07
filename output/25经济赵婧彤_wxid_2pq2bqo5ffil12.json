@@ -7,23 +7,23 @@
       "formatted_time": "2025-10-24 19:27:44",
       "type": "文本消息",
       "str_content": "救命",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761305269,
       "formatted_time": "2025-10-24 19:27:49",
       "type": "文本消息",
       "str_content": "彤姐你到包间了吗",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761305341,
       "formatted_time": "2025-10-24 19:29:01",
       "type": "文本消息",
       "str_content": "来了来了",
-      "sender": "对方"
+      "sender_name": "25经济赵婧彤"
     }
   ],
-  "export_time": "2025-12-07T09:48:01+08:00",
+  "export_time": "2025-12-07T09:58:52+08:00",
   "message_count": 3
 }

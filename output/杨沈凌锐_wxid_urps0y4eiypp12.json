@@ -7,51 +7,51 @@
       "formatted_time": "2025-09-18 16:52:50",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "杨沈凌锐"
     },
     {
       "create_time": 1758185570,
       "formatted_time": "2025-09-18 16:52:50",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "杨沈凌锐"
     },
     {
       "create_time": 1758185627,
       "formatted_time": "2025-09-18 16:53:47",
       "type": "文本消息",
       "str_content": "hello",
-      "sender": "对方"
+      "sender_name": "杨沈凌锐"
     },
     {
       "create_time": 1758185632,
       "formatted_time": "2025-09-18 16:53:52",
       "type": "文本消息",
       "str_content": "24 金投 杨沈凌锐",
-      "sender": "对方"
+      "sender_name": "杨沈凌锐"
     },
     {
       "create_time": 1758185703,
       "formatted_time": "2025-09-18 16:55:03",
       "type": "文本消息",
       "str_content": "凌锐哥好！我是25数金徐昂！！\n刚才家启哥给我说了！嘿嘿很荣幸能成为学长的mentee~，期待后续和学长一起玩耶耶！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1758187064,
       "formatted_time": "2025-09-18 17:17:44",
       "type": "文本消息",
       "str_content": "没问题",
-      "sender": "对方"
+      "sender_name": "杨沈凌锐"
     },
     {
       "create_time": 1758187067,
       "formatted_time": "2025-09-18 17:17:47",
       "type": "文本消息",
       "str_content": "一起玩！",
-      "sender": "对方"
+      "sender_name": "杨沈凌锐"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 7
 }

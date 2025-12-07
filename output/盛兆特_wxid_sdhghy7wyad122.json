@@ -7,37 +7,37 @@
       "formatted_time": "2024-02-25 12:03:18",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "盛兆特"
     },
     {
       "create_time": 1708833825,
       "formatted_time": "2024-02-25 12:03:45",
       "type": "文本消息",
       "str_content": "你好呀~我叫徐昂，请多多指教啦！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1708833955,
       "formatted_time": "2024-02-25 12:05:55",
       "type": "文本消息",
       "str_content": "我是盛兆特[转圈][转圈]多多指教～",
-      "sender": "对方"
+      "sender_name": "盛兆特"
     },
     {
       "create_time": 1708833960,
       "formatted_time": "2024-02-25 12:06:00",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "盛兆特"
     },
     {
       "create_time": 1708833976,
       "formatted_time": "2024-02-25 12:06:16",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:07+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 5
 }

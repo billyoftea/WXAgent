@@ -7,72 +7,72 @@
       "formatted_time": "2025-12-03 10:34:53",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "谢晗雨"
     },
     {
       "create_time": 1764730006,
       "formatted_time": "2025-12-03 10:46:46",
       "type": "文本消息",
       "str_content": "！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1764730008,
       "formatted_time": "2025-12-03 10:46:48",
       "type": "文本消息",
       "str_content": "欢迎欢迎",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1764730023,
       "formatted_time": "2025-12-03 10:47:03",
       "type": "位置消息",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1764730029,
       "formatted_time": "2025-12-03 10:47:09",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1764730044,
       "formatted_time": "2025-12-03 10:47:24",
       "type": "文本消息",
       "str_content": "这是上课嘛",
-      "sender": "对方"
+      "sender_name": "谢晗雨"
     },
     {
       "create_time": 1764730047,
       "formatted_time": "2025-12-03 10:47:27",
       "type": "文本消息",
       "str_content": "怎么大驾光临深圳了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1764730055,
       "formatted_time": "2025-12-03 10:47:35",
       "type": "文本消息",
       "str_content": "一个seminar",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1764730059,
       "formatted_time": "2025-12-03 10:47:39",
       "type": "文本消息",
       "str_content": "哈哈哈哈天天到处玩",
-      "sender": "对方"
+      "sender_name": "谢晗雨"
     },
     {
       "create_time": 1764730094,
       "formatted_time": "2025-12-03 10:48:14",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "谢晗雨"
     }
   ],
-  "export_time": "2025-12-07T09:48:00+08:00",
+  "export_time": "2025-12-07T09:58:51+08:00",
   "message_count": 10
 }

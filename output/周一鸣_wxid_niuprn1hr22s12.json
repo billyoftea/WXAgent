@@ -7,30 +7,30 @@
       "formatted_time": "2025-10-14 21:20:36",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "周一鸣"
     },
     {
       "create_time": 1760448036,
       "formatted_time": "2025-10-14 21:20:36",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "周一鸣"
     },
     {
       "create_time": 1760450292,
       "formatted_time": "2025-10-14 21:58:12",
       "type": "文本消息",
       "str_content": "一鸣师兄好！我是汇丰25级数量与金融科技专业的徐昂，是刚才的宣讲会上穿着花衬衫请教市场部typical day的那个男生~\n在师兄宣讲和解答问题的时候，都能感受到一鸣师兄对研究很有热情，也很擅长研究，很想要继续向师兄请教学习！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1760450328,
       "formatted_time": "2025-10-14 21:58:48",
       "type": "文本消息",
       "str_content": "客气啦 以后多多交流呀学弟",
-      "sender": "对方"
+      "sender_name": "周一鸣"
     }
   ],
-  "export_time": "2025-12-07T09:48:05+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 4
 }

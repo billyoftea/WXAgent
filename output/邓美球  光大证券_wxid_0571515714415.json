@@ -7,44 +7,44 @@
       "formatted_time": "2023-09-02 09:33:01",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "邓美球  光大证券"
     },
     {
       "create_time": 1693618423,
       "formatted_time": "2023-09-02 09:33:43",
       "type": "文本消息",
       "str_content": "您好，我是boss直聘上与您有过沟通的徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1693618440,
       "formatted_time": "2023-09-02 09:34:00",
       "type": "文本消息",
       "str_content": "想详细了解下贵司的量化项目",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1693618560,
       "formatted_time": "2023-09-02 09:36:00",
       "type": "文本消息",
       "str_content": "你好，我这边把项目负责人陈总的微信推给你，你加一下，详细的项目计划可以跟他沟通。加了陈总后，给他发一份你的简历",
-      "sender": "对方"
+      "sender_name": "邓美球  光大证券"
     },
     {
       "create_time": 1693618567,
       "formatted_time": "2023-09-02 09:36:07",
       "type": "名片消息",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "邓美球  光大证券"
     },
     {
       "create_time": 1693618616,
       "formatted_time": "2023-09-02 09:36:56",
       "type": "文本消息",
       "str_content": "好的！谢谢您",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 6
 }

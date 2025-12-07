@@ -7,44 +7,44 @@
       "formatted_time": "2025-10-22 01:00:15",
       "type": "文本消息",
       "str_content": "kr",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761066033,
       "formatted_time": "2025-10-22 01:00:33",
       "type": "文本消息",
       "str_content": "你觉得我如果想要稍微学一学羽毛球，是否有必要报个羽毛球小班课",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761066063,
       "formatted_time": "2025-10-22 01:01:03",
       "type": "文本消息",
       "str_content": "今天在羽协感觉到了羽毛球的等级森严",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761099004,
       "formatted_time": "2025-10-22 10:10:04",
       "type": "文本消息",
       "str_content": "那确实可以",
-      "sender": "对方"
+      "sender_name": "杨堪然"
     },
     {
       "create_time": 1761099009,
       "formatted_time": "2025-10-22 10:10:09",
       "type": "文本消息",
       "str_content": "但不是必需吧",
-      "sender": "对方"
+      "sender_name": "杨堪然"
     },
     {
       "create_time": 1761099026,
       "formatted_time": "2025-10-22 10:10:26",
       "type": "文本消息",
       "str_content": "网络上教学蛮多 不过练习的话确实需要一个教练",
-      "sender": "对方"
+      "sender_name": "杨堪然"
     }
   ],
-  "export_time": "2025-12-07T09:48:00+08:00",
+  "export_time": "2025-12-07T09:58:51+08:00",
   "message_count": 6
 }

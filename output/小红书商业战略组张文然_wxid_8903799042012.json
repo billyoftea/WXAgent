@@ -7,37 +7,37 @@
       "formatted_time": "2024-09-20 14:01:07",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "小红书商业战略组张文然"
     },
     {
       "create_time": 1726812078,
       "formatted_time": "2024-09-20 14:01:18",
       "type": "文本消息",
       "str_content": "您好，我是徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1726812124,
       "formatted_time": "2024-09-20 14:02:04",
       "type": "文本消息",
       "str_content": "同学你好～这边是小红书商业战略组的 想问一下你明天以及下周方便面试的时间",
-      "sender": "对方"
+      "sender_name": "小红书商业战略组张文然"
     },
     {
       "create_time": 1726812206,
       "formatted_time": "2024-09-20 14:03:26",
       "type": "文本消息",
       "str_content": "您好，真的很不好意思，由于个人职业发展和学校安排，徐昂自愿放弃本次面试机会。祝贵司早日找到合适的实习生，也祝您工作顺利！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1726812279,
       "formatted_time": "2024-09-20 14:04:39",
       "type": "文本消息",
       "str_content": "好的好的 祝你学业顺利",
-      "sender": "对方"
+      "sender_name": "小红书商业战略组张文然"
     }
   ],
-  "export_time": "2025-12-07T09:48:06+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 5
 }

@@ -7,16 +7,16 @@
       "formatted_time": "2024-02-21 00:48:53",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "cc"
     },
     {
       "create_time": 1711070717,
       "formatted_time": "2024-03-22 09:25:17",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:06+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 2
 }

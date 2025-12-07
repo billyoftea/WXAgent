@@ -7,23 +7,23 @@
       "formatted_time": "2025-10-08 13:19:00",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "书瞳眼镜北京大学店"
     },
     {
       "create_time": 1760005410,
       "formatted_time": "2025-10-09 18:23:30",
       "type": "文本消息",
       "str_content": "同学晚上好，眼镜已经做好啦，欢迎您有空时到店取眼镜[玫瑰]",
-      "sender": "对方"
+      "sender_name": "书瞳眼镜北京大学店"
     },
     {
       "create_time": 1760006195,
       "formatted_time": "2025-10-09 18:36:35",
       "type": "文本消息",
       "str_content": "好的",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 3
 }

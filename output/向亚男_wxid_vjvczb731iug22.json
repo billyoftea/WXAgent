@@ -7,30 +7,30 @@
       "formatted_time": "2023-12-30 10:55:56",
       "type": "文本消息",
       "str_content": "hi，想请教下，三次小作业的word还需要打印吗？",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1703905082,
       "formatted_time": "2023-12-30 10:58:02",
       "type": "文本消息",
       "str_content": "小作业的word应该不用打印",
-      "sender": "对方"
+      "sender_name": "向亚男"
     },
     {
       "create_time": 1703905203,
       "formatted_time": "2023-12-30 11:00:03",
       "type": "文本消息",
       "str_content": "只用交大作业的word打印就行了",
-      "sender": "对方"
+      "sender_name": "向亚男"
     },
     {
       "create_time": 1703905207,
       "formatted_time": "2023-12-30 11:00:07",
       "type": "文本消息",
       "str_content": "交一份",
-      "sender": "对方"
+      "sender_name": "向亚男"
     }
   ],
-  "export_time": "2025-12-07T09:48:07+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 4
 }

@@ -7,30 +7,30 @@
       "formatted_time": "2024-05-02 12:42:38",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "王妤婕"
     },
     {
       "create_time": 1714624998,
       "formatted_time": "2024-05-02 12:43:18",
       "type": "文本消息",
       "str_content": "哈喽，备注王妤婕[太阳]",
-      "sender": "对方"
+      "sender_name": "王妤婕"
     },
     {
       "create_time": 1714625052,
       "formatted_time": "2024-05-02 12:44:12",
       "type": "文本消息",
       "str_content": "你好呀~我叫徐昂[握手]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1714625118,
       "formatted_time": "2024-05-02 12:45:18",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "王妤婕"
     }
   ],
-  "export_time": "2025-12-07T09:48:07+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 4
 }

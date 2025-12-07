@@ -7,37 +7,37 @@
       "formatted_time": "2025-08-27 16:31:45",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "陈沛羽 材料 北大深"
     },
     {
       "create_time": 1756283505,
       "formatted_time": "2025-08-27 16:31:45",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "陈沛羽 材料 北大深"
     },
     {
       "create_time": 1756283576,
       "formatted_time": "2025-08-27 16:32:56",
       "type": "文本消息",
       "str_content": "hihi，我是华科经院21徐昂，也是北大汇丰25徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1756283579,
       "formatted_time": "2025-08-27 16:32:59",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1756284723,
       "formatted_time": "2025-08-27 16:52:03",
       "type": "文本消息",
       "str_content": "21材料陈沛羽，现在是25新材料的",
-      "sender": "对方"
+      "sender_name": "陈沛羽 材料 北大深"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 5
 }

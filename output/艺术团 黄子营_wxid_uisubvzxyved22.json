@@ -7,30 +7,30 @@
       "formatted_time": "2025-09-11 22:39:44",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "艺术团 黄子营"
     },
     {
       "create_time": 1757601584,
       "formatted_time": "2025-09-11 22:39:44",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "艺术团 黄子营"
     },
     {
       "create_time": 1757601612,
       "formatted_time": "2025-09-11 22:40:12",
       "type": "文本消息",
       "str_content": "hihi~我是25数金的徐昂！很高兴认识你！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1757601614,
       "formatted_time": "2025-09-11 22:40:14",
       "type": "文本消息",
       "str_content": "hellohello 25财新黄子营",
-      "sender": "对方"
+      "sender_name": "艺术团 黄子营"
     }
   ],
-  "export_time": "2025-12-07T09:48:05+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 4
 }

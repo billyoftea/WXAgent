@@ -7,30 +7,30 @@
       "formatted_time": "2025-09-11 22:16:22",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "25 西方经济学 魏鹏广"
     },
     {
       "create_time": 1757600182,
       "formatted_time": "2025-09-11 22:16:22",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "25 西方经济学 魏鹏广"
     },
     {
       "create_time": 1757600213,
       "formatted_time": "2025-09-11 22:16:53",
       "type": "文本消息",
       "str_content": "你好呀 25-西经-魏鹏广",
-      "sender": "对方"
+      "sender_name": "25 西方经济学 魏鹏广"
     },
     {
       "create_time": 1757600473,
       "formatted_time": "2025-09-11 22:21:13",
       "type": "文本消息",
       "str_content": "hihi 我是数金的徐昂~",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 4
 }

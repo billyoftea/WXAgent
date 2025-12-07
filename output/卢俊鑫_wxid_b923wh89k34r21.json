@@ -7,51 +7,51 @@
       "formatted_time": "2025-05-25 00:45:42",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "卢俊鑫"
     },
     {
       "create_time": 1748105150,
       "formatted_time": "2025-05-25 00:45:50",
       "type": "文本消息",
       "str_content": "[抱拳][抱拳][抱拳]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1748105151,
       "formatted_time": "2025-05-25 00:45:51",
       "type": "文本消息",
       "str_content": "徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1748105188,
       "formatted_time": "2025-05-25 00:46:28",
       "type": "文本消息",
       "str_content": "昂哥下回再一块儿玩[太阳]",
-      "sender": "对方"
+      "sender_name": "卢俊鑫"
     },
     {
       "create_time": 1748105218,
       "formatted_time": "2025-05-25 00:46:58",
       "type": "文本消息",
       "str_content": "可以可以",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1748105221,
       "formatted_time": "2025-05-25 00:47:01",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1748105284,
       "formatted_time": "2025-05-25 00:48:04",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "卢俊鑫"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 7
 }

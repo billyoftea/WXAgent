@@ -7,72 +7,72 @@
       "formatted_time": "2024-01-18 00:06:59",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "吕业龙"
     },
     {
       "create_time": 1705507628,
       "formatted_time": "2024-01-18 00:07:08",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "吕业龙"
     },
     {
       "create_time": 1705507650,
       "formatted_time": "2024-01-18 00:07:30",
       "type": "文本消息",
       "str_content": "徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1705509355,
       "formatted_time": "2024-01-18 00:35:55",
       "type": "文本消息",
       "str_content": "哥，到家说声",
-      "sender": "对方"
+      "sender_name": "吕业龙"
     },
     {
       "create_time": 1705509380,
       "formatted_time": "2024-01-18 00:36:20",
       "type": "文本消息",
       "str_content": "好",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1705509384,
       "formatted_time": "2024-01-18 00:36:24",
       "type": "文本消息",
       "str_content": "要到酒店了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1705509410,
       "formatted_time": "2024-01-18 00:36:50",
       "type": "文本消息",
       "str_content": "买瓶奶解酒",
-      "sender": "对方"
+      "sender_name": "吕业龙"
     },
     {
       "create_time": 1705509554,
       "formatted_time": "2024-01-18 00:39:14",
       "type": "文本消息",
       "str_content": "没事儿，我俩已经到酒店了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1705509582,
       "formatted_time": "2024-01-18 00:39:42",
       "type": "文本消息",
       "str_content": "直接开睡",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1705509631,
       "formatted_time": "2024-01-18 00:40:31",
       "type": "文本消息",
       "str_content": "okok",
-      "sender": "对方"
+      "sender_name": "吕业龙"
     }
   ],
-  "export_time": "2025-12-07T09:48:07+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 10
 }

@@ -7,30 +7,30 @@
       "formatted_time": "2025-10-14 00:23:14",
       "type": "文本消息",
       "str_content": "家豪哥你现在是在安克sz嘛",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1760403752,
       "formatted_time": "2025-10-14 09:02:32",
       "type": "文本消息",
       "str_content": "是的",
-      "sender": "对方"
+      "sender_name": "张家豪"
     },
     {
       "create_time": 1760456887,
       "formatted_time": "2025-10-14 23:48:07",
       "type": "文本消息",
       "str_content": "我也在西丽大学城这边，有空一起约饭啊家豪哥[呲牙][社会社会]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1760456926,
       "formatted_time": "2025-10-14 23:48:46",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "张家豪"
     }
   ],
-  "export_time": "2025-12-07T09:48:05+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 4
 }

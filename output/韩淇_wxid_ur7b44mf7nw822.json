@@ -7,1073 +7,1073 @@
       "formatted_time": "2024-12-07 15:39:04",
       "type": "文本消息",
       "str_content": "这里为啥你都设置skip rows了呀\nfactors_data = pd.read_csv(factors_file, skiprows=4, index_col=0)  # Skip header rows    \nindustry_data_raw = pd.read_csv(industry_file, skiprows=12)  # Skip header rows",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733557965,
       "formatted_time": "2024-12-07 15:52:45",
       "type": "文本消息",
       "str_content": "因为那个网站下的原始文件前四行好像是注释",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733557997,
       "formatted_time": "2024-12-07 15:53:17",
       "type": "文本消息",
       "str_content": "我那个压缩包的数据我自己好像又手动删了一下",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733558024,
       "formatted_time": "2024-12-07 15:53:44",
       "type": "文本消息",
       "str_content": "我跑的时候应该用的原始的",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733558028,
       "formatted_time": "2024-12-07 15:53:48",
       "type": "文本消息",
       "str_content": "我也有点混乱了",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733558042,
       "formatted_time": "2024-12-07 15:54:02",
       "type": "文本消息",
       "str_content": "好嘞好嘞  明白了，我再看下",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733558123,
       "formatted_time": "2024-12-07 15:55:23",
       "type": "文本消息",
       "str_content": "有啥问题你随时跟俺说",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733558132,
       "formatted_time": "2024-12-07 15:55:32",
       "type": "文本消息",
       "str_content": "我是个半吊子水平",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733558133,
       "formatted_time": "2024-12-07 15:55:33",
       "type": "文本消息",
       "str_content": "[裂开]",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733558536,
       "formatted_time": "2024-12-07 16:02:16",
       "type": "文本消息",
       "str_content": "okok，我这才开始[捂脸]赶紧学习一下你们的代码屡一下思路",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733565735,
       "formatted_time": "2024-12-07 18:02:15",
       "type": "文本消息",
       "str_content": "我看了下这个数据，貌似和文章中的descriptive statistics analysis的结论有点不太一致？",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733565741,
       "formatted_time": "2024-12-07 18:02:21",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733565768,
       "formatted_time": "2024-12-07 18:02:48",
       "type": "文本消息",
       "str_content": "描述性统计不一样？",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733565770,
       "formatted_time": "2024-12-07 18:02:50",
       "type": "文本消息",
       "str_content": "我上那个网站看了下，下载下来的确实是和你一样的，但不知道为啥对不上",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733565774,
       "formatted_time": "2024-12-07 18:02:54",
       "type": "文本消息",
       "str_content": "怎么会呀",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733565776,
       "formatted_time": "2024-12-07 18:02:56",
       "type": "文本消息",
       "str_content": "[裂开]",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733565776,
       "formatted_time": "2024-12-07 18:02:56",
       "type": "文本消息",
       "str_content": "难道是口径有变化？",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733565859,
       "formatted_time": "2024-12-07 18:04:19",
       "type": "文本消息",
       "str_content": "差别很大吗",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733565873,
       "formatted_time": "2024-12-07 18:04:33",
       "type": "文本消息",
       "str_content": "他会不会还做了什么处理，咱不知道",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733565883,
       "formatted_time": "2024-12-07 18:04:43",
       "type": "文本消息",
       "str_content": "还是有不小的偏移的[捂脸]我再看看",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733566300,
       "formatted_time": "2024-12-07 18:11:40",
       "type": "文本消息",
       "str_content": "我还在吃饭，我待会回去看看",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733566307,
       "formatted_time": "2024-12-07 18:11:47",
       "type": "文本消息",
       "str_content": "嗯嗯没事不着急",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733566403,
       "formatted_time": "2024-12-07 18:13:23",
       "type": "文本消息",
       "str_content": "我大概知道了，这里面你看下表头，是用最新的数据来统计的，所以会变化",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733566403,
       "formatted_time": "2024-12-07 18:13:23",
       "type": "文本消息",
       "str_content": "，可能之前写论文的时候用的是之前的数据",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733566403,
       "formatted_time": "2024-12-07 18:13:23",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733566496,
       "formatted_time": "2024-12-07 18:14:56",
       "type": "文本消息",
       "str_content": "非常有道理[强]",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733566516,
       "formatted_time": "2024-12-07 18:15:16",
       "type": "文本消息",
       "str_content": "这个表也要复现咩",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733566522,
       "formatted_time": "2024-12-07 18:15:22",
       "type": "文本消息",
       "str_content": "那我还得加点代码",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733566534,
       "formatted_time": "2024-12-07 18:15:34",
       "type": "文本消息",
       "str_content": "不用不用，我晚上再看一下",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733566556,
       "formatted_time": "2024-12-07 18:15:56",
       "type": "文本消息",
       "str_content": "你也可以看看能不能找到就和作者完全一致的数据，找不到就算了[捂脸]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733566572,
       "formatted_time": "2024-12-07 18:16:12",
       "type": "文本消息",
       "str_content": "应该要从historical data里面找",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733566590,
       "formatted_time": "2024-12-07 18:16:30",
       "type": "文本消息",
       "str_content": "okk，我晚上看下",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733569388,
       "formatted_time": "2024-12-07 19:03:08",
       "type": "文本消息",
       "str_content": "我感觉好像没有，那就别管了，咱自己搞吧",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733572864,
       "formatted_time": "2024-12-07 20:01:04",
       "type": "文本消息",
       "str_content": "这里为啥要假定变量的方差为1呀",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733572864,
       "formatted_time": "2024-12-07 20:01:04",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733573555,
       "formatted_time": "2024-12-07 20:12:35",
       "type": "文本消息",
       "str_content": "应该是标准化他吧",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733573559,
       "formatted_time": "2024-12-07 20:12:39",
       "type": "文本消息",
       "str_content": "我看网上这么做的",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733573563,
       "formatted_time": "2024-12-07 20:12:43",
       "type": "文本消息",
       "str_content": "[捂脸]",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733582039,
       "formatted_time": "2024-12-07 22:33:59",
       "type": "文本消息",
       "str_content": "是他妈那个文章的描述性统计有问题",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733582040,
       "formatted_time": "2024-12-07 22:34:00",
       "type": "文本消息",
       "str_content": "你妈的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733582043,
       "formatted_time": "2024-12-07 22:34:03",
       "type": "文本消息",
       "str_content": "真是开了眼了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733582053,
       "formatted_time": "2024-12-07 22:34:13",
       "type": "文本消息",
       "str_content": "这所谓顶刊他妈的描述性统计都是错的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733582098,
       "formatted_time": "2024-12-07 22:34:58",
       "type": "文本消息",
       "str_content": "这怎么也能有问题",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733582103,
       "formatted_time": "2024-12-07 22:35:03",
       "type": "文本消息",
       "str_content": "他这不会是数据造假吧",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733582104,
       "formatted_time": "2024-12-07 22:35:04",
       "type": "文本消息",
       "str_content": "我靠",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733582129,
       "formatted_time": "2024-12-07 22:35:29",
       "type": "文本消息",
       "str_content": "学术这条路还是韩博士来走吧",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733582143,
       "formatted_time": "2024-12-07 22:35:43",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733582212,
       "formatted_time": "2024-12-07 22:36:52",
       "type": "文本消息",
       "str_content": "他是时间错位了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733582242,
       "formatted_time": "2024-12-07 22:37:22",
       "type": "文本消息",
       "str_content": "描述性统计不是用的说的时间",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733582250,
       "formatted_time": "2024-12-07 22:37:30",
       "type": "文本消息",
       "str_content": "我也不知道他是数据清洗有问题还是怎么样",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733582279,
       "formatted_time": "2024-12-07 22:37:59",
       "type": "文本消息",
       "str_content": "啊？他用的所有历史数据吗",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733582286,
       "formatted_time": "2024-12-07 22:38:06",
       "type": "文本消息",
       "str_content": "也不是",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733582289,
       "formatted_time": "2024-12-07 22:38:09",
       "type": "文本消息",
       "str_content": "他就是切片切错了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733582328,
       "formatted_time": "2024-12-07 22:38:48",
       "type": "引用消息",
       "str_content": "走不来一点，只求毕业[合十]",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733582350,
       "formatted_time": "2024-12-07 22:39:10",
       "type": "文本消息",
       "str_content": "顶刊也能出现这种错误吗",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733582352,
       "formatted_time": "2024-12-07 22:39:12",
       "type": "文本消息",
       "str_content": "[裂开]",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733582370,
       "formatted_time": "2024-12-07 22:39:30",
       "type": "文本消息",
       "str_content": "我看看他咋处理的吧。。",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733582427,
       "formatted_time": "2024-12-07 22:40:27",
       "type": "文本消息",
       "str_content": "好",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733582444,
       "formatted_time": "2024-12-07 22:40:44",
       "type": "文本消息",
       "str_content": "指望徐指导了",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733582449,
       "formatted_time": "2024-12-07 22:40:49",
       "type": "文本消息",
       "str_content": "[握手]",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1733582468,
       "formatted_time": "2024-12-07 22:41:08",
       "type": "文本消息",
       "str_content": "真是小刀剌屁股",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1733582486,
       "formatted_time": "2024-12-07 22:41:26",
       "type": "文本消息",
       "str_content": "哈哈哈哈哈",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734067306,
       "formatted_time": "2024-12-13 13:21:46",
       "type": "文本消息",
       "str_content": "咱的大作业不继续吗",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734067418,
       "formatted_time": "2024-12-13 13:23:38",
       "type": "文本消息",
       "str_content": "我给那作者发了邮件他也没回，我这两天把之前的所有代码整合下，把stimulation跑出来，再开个会把",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734068337,
       "formatted_time": "2024-12-13 13:38:57",
       "type": "文本消息",
       "str_content": "好滴好滴",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734068356,
       "formatted_time": "2024-12-13 13:39:16",
       "type": "文本消息",
       "str_content": "大佬可能不回学生[裂开]",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734068367,
       "formatted_time": "2024-12-13 13:39:27",
       "type": "文本消息",
       "str_content": "那哥们",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734068382,
       "formatted_time": "2024-12-13 13:39:42",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734068388,
       "formatted_time": "2024-12-13 13:39:48",
       "type": "文本消息",
       "str_content": "长这样。。",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734068399,
       "formatted_time": "2024-12-13 13:39:59",
       "type": "文本消息",
       "str_content": "和我想象中的大佬长相。。不太一样",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734068415,
       "formatted_time": "2024-12-13 13:40:15",
       "type": "文本消息",
       "str_content": "我靠哈哈哈哈哈哈",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734068425,
       "formatted_time": "2024-12-13 13:40:25",
       "type": "文本消息",
       "str_content": "还有纹身",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734068431,
       "formatted_time": "2024-12-13 13:40:31",
       "type": "文本消息",
       "str_content": "长头发",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734068433,
       "formatted_time": "2024-12-13 13:40:33",
       "type": "文本消息",
       "str_content": "这也太精神小伙了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734068437,
       "formatted_time": "2024-12-13 13:40:37",
       "type": "文本消息",
       "str_content": "咋像搞艺术的",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734068439,
       "formatted_time": "2024-12-13 13:40:39",
       "type": "文本消息",
       "str_content": "穿个紧身裤",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734068467,
       "formatted_time": "2024-12-13 13:41:07",
       "type": "文本消息",
       "str_content": "[捂脸]意大利人太浪漫不羁了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734068516,
       "formatted_time": "2024-12-13 13:41:56",
       "type": "文本消息",
       "str_content": "哈哈哈哈哈哈",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734068523,
       "formatted_time": "2024-12-13 13:42:03",
       "type": "文本消息",
       "str_content": "完全不像搞学术的",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734420091,
       "formatted_time": "2024-12-17 15:21:31",
       "type": "文本消息",
       "str_content": "诶那个datashare的结构是咋样的呀",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734420095,
       "formatted_time": "2024-12-17 15:21:35",
       "type": "文本消息",
       "str_content": "我这边打不开",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734420099,
       "formatted_time": "2024-12-17 15:21:39",
       "type": "文本消息",
       "str_content": "[难过][难过][难过]",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734420108,
       "formatted_time": "2024-12-17 15:21:48",
       "type": "文本消息",
       "str_content": "pandas，read_pickle",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734420121,
       "formatted_time": "2024-12-17 15:22:01",
       "type": "文本消息",
       "str_content": "和read_excel一样操作",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734420122,
       "formatted_time": "2024-12-17 15:22:02",
       "type": "文本消息",
       "str_content": "试试",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734420137,
       "formatted_time": "2024-12-17 15:22:17",
       "type": "文本消息",
       "str_content": "okk",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734426359,
       "formatted_time": "2024-12-17 17:05:59",
       "type": "文本消息",
       "str_content": "徐指导，这个特征因子的工作量太大了",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734426374,
       "formatted_time": "2024-12-17 17:06:14",
       "type": "文本消息",
       "str_content": "没事，那我来阿爸",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734426376,
       "formatted_time": "2024-12-17 17:06:16",
       "type": "文本消息",
       "str_content": "那我来吧",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734426409,
       "formatted_time": "2024-12-17 17:06:49",
       "type": "文本消息",
       "str_content": "这个在wind上或者csmar上不能直接导出来嘛",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734426433,
       "formatted_time": "2024-12-17 17:07:13",
       "type": "文本消息",
       "str_content": "能下",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734426442,
       "formatted_time": "2024-12-17 17:07:22",
       "type": "文本消息",
       "str_content": "多数都是csmar上面的",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734426451,
       "formatted_time": "2024-12-17 17:07:31",
       "type": "文本消息",
       "str_content": "但是好多不能直接用",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734426454,
       "formatted_time": "2024-12-17 17:07:34",
       "type": "文本消息",
       "str_content": "要算",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734426459,
       "formatted_time": "2024-12-17 17:07:39",
       "type": "文本消息",
       "str_content": "而且是分开的表格",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734426470,
       "formatted_time": "2024-12-17 17:07:50",
       "type": "文本消息",
       "str_content": "要merge到一起，数据量还挺大",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734426474,
       "formatted_time": "2024-12-17 17:07:54",
       "type": "文本消息",
       "str_content": "具体是什么样的呀",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734426478,
       "formatted_time": "2024-12-17 17:07:58",
       "type": "文本消息",
       "str_content": "也许我的方法不对[裂开]",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734426482,
       "formatted_time": "2024-12-17 17:08:02",
       "type": "文本消息",
       "str_content": "要不电话说?",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734426582,
       "formatted_time": "2024-12-17 17:09:42",
       "type": "文本消息",
       "str_content": "可以呀",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734426930,
       "formatted_time": "2024-12-17 17:15:30",
       "type": "文件消息",
       "str_content": "1-s2.0-S0304405X21003743-main.pdf",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734426966,
       "formatted_time": "2024-12-17 17:16:06",
       "type": "文件消息",
       "str_content": "1-s2.0-S0304405X21003743-mmc1.pdf",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734428143,
       "formatted_time": "2024-12-17 17:35:43",
       "type": "文本消息",
       "str_content": "那要不你先找一下股票的超额收益数据嘛》",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734428145,
       "formatted_time": "2024-12-17 17:35:45",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734428149,
       "formatted_time": "2024-12-17 17:35:49",
       "type": "文本消息",
       "str_content": "大概是这样子的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734428152,
       "formatted_time": "2024-12-17 17:35:52",
       "type": "文本消息",
       "str_content": "2000年后的就可以",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734428168,
       "formatted_time": "2024-12-17 17:36:08",
       "type": "文本消息",
       "str_content": "这个我已经找到了",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734428179,
       "formatted_time": "2024-12-17 17:36:19",
       "type": "文本消息",
       "str_content": "好嘞好嘞，那我这边搞一下因子数据",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734428197,
       "formatted_time": "2024-12-17 17:36:37",
       "type": "文本消息",
       "str_content": "好滴，徐指导太牛啦",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734428227,
       "formatted_time": "2024-12-17 17:37:07",
       "type": "文本消息",
       "str_content": "[捂脸]我先试着找一下",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734428228,
       "formatted_time": "2024-12-17 17:37:08",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734428355,
       "formatted_time": "2024-12-17 17:39:15",
       "type": "文本消息",
       "str_content": "你要用csmar不",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734428363,
       "formatted_time": "2024-12-17 17:39:23",
       "type": "文本消息",
       "str_content": "我还在网上买了个账号",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734428375,
       "formatted_time": "2024-12-17 17:39:35",
       "type": "文本消息",
       "str_content": "绷不住了，我之前做项目的时候也这样过",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734428381,
       "formatted_time": "2024-12-17 17:39:41",
       "type": "文本消息",
       "str_content": "哈哈哈哈哈",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734428385,
       "formatted_time": "2024-12-17 17:39:45",
       "type": "文本消息",
       "str_content": "可以先不用啦，我先自己试着筛筛",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734428393,
       "formatted_time": "2024-12-17 17:39:53",
       "type": "文本消息",
       "str_content": "到时候有需要call你",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734428395,
       "formatted_time": "2024-12-17 17:39:55",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734428398,
       "formatted_time": "2024-12-17 17:39:58",
       "type": "文本消息",
       "str_content": "好滴",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734428401,
       "formatted_time": "2024-12-17 17:40:01",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734430022,
       "formatted_time": "2024-12-17 18:07:02",
       "type": "文本消息",
       "str_content": "你之前实习做的是啥呀",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734430025,
       "formatted_time": "2024-12-17 18:07:05",
       "type": "文本消息",
       "str_content": "行研嘛",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734431764,
       "formatted_time": "2024-12-17 18:36:04",
       "type": "文本消息",
       "str_content": "差不多",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734440448,
       "formatted_time": "2024-12-17 21:00:48",
       "type": "引用消息",
       "str_content": "俺发现这玩意中国的1年期国债收益率只有15年后的",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734440458,
       "formatted_time": "2024-12-17 21:00:58",
       "type": "文本消息",
       "str_content": "[裂开]",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734440534,
       "formatted_time": "2024-12-17 21:02:14",
       "type": "文本消息",
       "str_content": "2015年吗",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734440537,
       "formatted_time": "2024-12-17 21:02:17",
       "type": "文本消息",
       "str_content": "不能够吧卧槽",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734440543,
       "formatted_time": "2024-12-17 21:02:23",
       "type": "文本消息",
       "str_content": "好奇怪啊",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734440549,
       "formatted_time": "2024-12-17 21:02:29",
       "type": "文本消息",
       "str_content": "Also, we obtain the yield rate for the one-year government bond in China from  CSMAR to proxy for the risk-free rate, which is necessary for calculating individual excess returns.",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734440557,
       "formatted_time": "2024-12-17 21:02:37",
       "type": "文本消息",
       "str_content": "对",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734440559,
       "formatted_time": "2024-12-17 21:02:39",
       "type": "文本消息",
       "str_content": "我哦看你发我的这篇文章",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734440559,
       "formatted_time": "2024-12-17 21:02:39",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734440564,
       "formatted_time": "2024-12-17 21:02:44",
       "type": "文本消息",
       "str_content": "我也看到这个了",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734440582,
       "formatted_time": "2024-12-17 21:03:02",
       "type": "文本消息",
       "str_content": "然后我下下来刚刚才看到只有15年后的",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734440625,
       "formatted_time": "2024-12-17 21:03:45",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734440687,
       "formatted_time": "2024-12-17 21:04:47",
       "type": "文本消息",
       "str_content": "中国货币网还只提供一年的",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734440695,
       "formatted_time": "2024-12-17 21:04:55",
       "type": "文本消息",
       "str_content": "是不是现在突然改了权限啊",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734440730,
       "formatted_time": "2024-12-17 21:05:30",
       "type": "文本消息",
       "str_content": "我看一下",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734440739,
       "formatted_time": "2024-12-17 21:05:39",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734440802,
       "formatted_time": "2024-12-17 21:06:42",
       "type": "文本消息",
       "str_content": "我试着找一下",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734441094,
       "formatted_time": "2024-12-17 21:11:34",
       "type": "文件消息",
       "str_content": "中国一年期国债收益率历史数据 (1).csv",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734441130,
       "formatted_time": "2024-12-17 21:12:10",
       "type": "文本消息",
       "str_content": "2002年开始的",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734441191,
       "formatted_time": "2024-12-17 21:13:11",
       "type": "文本消息",
       "str_content": "我从什么英为财情下的 我不知道这正规不",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734441203,
       "formatted_time": "2024-12-17 21:13:23",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734441203,
       "formatted_time": "2024-12-17 21:13:23",
       "type": "文本消息",
       "str_content": "应该没事儿，咱先用着",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734441225,
       "formatted_time": "2024-12-17 21:13:45",
       "type": "文本消息",
       "str_content": "难崩哈哈哈",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734441862,
       "formatted_time": "2024-12-17 21:24:22",
       "type": "文本消息",
       "str_content": "你用的是几年国债呀",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734441868,
       "formatted_time": "2024-12-17 21:24:28",
       "type": "文本消息",
       "str_content": "按到期日",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734441947,
       "formatted_time": "2024-12-17 21:25:47",
       "type": "文本消息",
       "str_content": "上面写的一年期呀",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734441956,
       "formatted_time": "2024-12-17 21:25:56",
       "type": "文本消息",
       "str_content": "噢噢噢瞎了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1734441966,
       "formatted_time": "2024-12-17 21:26:06",
       "type": "文本消息",
       "str_content": "哈哈哈哈哈徐指导太累了",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734441970,
       "formatted_time": "2024-12-17 21:26:10",
       "type": "文本消息",
       "str_content": "歇歇",
-      "sender": "对方"
+      "sender_name": "韩淇"
     },
     {
       "create_time": 1734441997,
       "formatted_time": "2024-12-17 21:26:37",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 153
 }

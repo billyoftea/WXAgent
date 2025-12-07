@@ -7,23 +7,23 @@
       "formatted_time": "2025-06-03 11:16:28",
       "type": "文本消息",
       "str_content": "由于扫描页数限制，舍去了一些个人信息页",
-      "sender": "对方"
+      "sender_name": "郭宇彤"
     },
     {
       "create_time": 1748920589,
       "formatted_time": "2025-06-03 11:16:29",
       "type": "文件消息",
       "str_content": "徐昂.pdf",
-      "sender": "对方"
+      "sender_name": "郭宇彤"
     },
     {
       "create_time": 1748920649,
       "formatted_time": "2025-06-03 11:17:29",
       "type": "文本消息",
       "str_content": "收到，感谢~",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 3
 }

@@ -7,37 +7,37 @@
       "formatted_time": "2025-03-13 09:29:36",
       "type": "文本消息",
       "str_content": "教练，3.25啥时候约考呀，我扫码进那个q群麻烦您通过下？",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1741829395,
       "formatted_time": "2025-03-13 09:29:55",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1741829400,
       "formatted_time": "2025-03-13 09:30:00",
       "type": "文本消息",
       "str_content": "我看这里已经可以约了？",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1741829571,
       "formatted_time": "2025-03-13 09:32:51",
       "type": "文本消息",
       "str_content": "约3.25  光谷科目二考场第二场或者第三场",
-      "sender": "对方"
+      "sender_name": "驾校唐教练"
     },
     {
       "create_time": 1741829703,
       "formatted_time": "2025-03-13 09:35:03",
       "type": "文本消息",
       "str_content": "嗯嗯好嘞",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 5
 }

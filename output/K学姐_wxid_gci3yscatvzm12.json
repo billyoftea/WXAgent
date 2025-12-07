@@ -7,30 +7,30 @@
       "formatted_time": "2025-07-23 23:13:24",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "K学姐"
     },
     {
       "create_time": 1753283610,
       "formatted_time": "2025-07-23 23:13:30",
       "type": "文本消息",
       "str_content": "您好同学",
-      "sender": "对方"
+      "sender_name": "K学姐"
     },
     {
       "create_time": 1753283615,
       "formatted_time": "2025-07-23 23:13:35",
       "type": "文本消息",
       "str_content": "文档权限通过啦",
-      "sender": "对方"
+      "sender_name": "K学姐"
     },
     {
       "create_time": 1753283640,
       "formatted_time": "2025-07-23 23:14:00",
       "type": "图文消息",
       "str_content": "邀请你加入群聊",
-      "sender": "对方"
+      "sender_name": "K学姐"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 4
 }

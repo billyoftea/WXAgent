@@ -7,23 +7,23 @@
       "formatted_time": "2023-06-03 10:10:28",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "经济2206冯一航"
     },
     {
       "create_time": 1685758235,
       "formatted_time": "2023-06-03 10:10:35",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685759181,
       "formatted_time": "2023-06-03 10:26:21",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "经济2206冯一航"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 3
 }

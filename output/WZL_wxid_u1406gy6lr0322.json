@@ -7,37 +7,37 @@
       "formatted_time": "2025-01-17 13:23:33",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "WZL"
     },
     {
       "create_time": 1737091426,
       "formatted_time": "2025-01-17 13:23:46",
       "type": "文本消息",
       "str_content": "你好",
-      "sender": "对方"
+      "sender_name": "WZL"
     },
     {
       "create_time": 1737102119,
       "formatted_time": "2025-01-17 16:21:59",
       "type": "文本消息",
       "str_content": "兄弟是要研报吗",
-      "sender": "对方"
+      "sender_name": "WZL"
     },
     {
       "create_time": 1737102152,
       "formatted_time": "2025-01-17 16:22:32",
       "type": "文本消息",
       "str_content": "兄弟，我自己找到了[捂脸]暂时不需要了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1737102160,
       "formatted_time": "2025-01-17 16:22:40",
       "type": "文本消息",
       "str_content": "OKOK",
-      "sender": "对方"
+      "sender_name": "WZL"
     }
   ],
-  "export_time": "2025-12-07T09:48:05+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 5
 }

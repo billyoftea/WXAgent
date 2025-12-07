@@ -7,30 +7,30 @@
       "formatted_time": "2025-10-22 12:19:36",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "Cecilia 21-研究部-龚韦西"
     },
     {
       "create_time": 1761106777,
       "formatted_time": "2025-10-22 12:19:37",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "Cecilia 21-研究部-龚韦西"
     },
     {
       "create_time": 1761106815,
       "formatted_time": "2025-10-22 12:20:15",
       "type": "文本消息",
       "str_content": "hello！欢迎加入研究部，未来一起build👏",
-      "sender": "对方"
+      "sender_name": "Cecilia 21-研究部-龚韦西"
     },
     {
       "create_time": 1761106858,
       "formatted_time": "2025-10-22 12:20:58",
       "type": "文本消息",
       "str_content": "好耶好耶",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:01+08:00",
+  "export_time": "2025-12-07T09:58:52+08:00",
   "message_count": 4
 }

@@ -7,65 +7,65 @@
       "formatted_time": "2024-09-23 09:52:44",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "成瑞"
     },
     {
       "create_time": 1727056416,
       "formatted_time": "2024-09-23 09:53:36",
       "type": "文本消息",
       "str_content": "简历发我一个哈",
-      "sender": "对方"
+      "sender_name": "成瑞"
     },
     {
       "create_time": 1727056524,
       "formatted_time": "2024-09-23 09:55:24",
       "type": "文本消息",
       "str_content": "老师，这是我的简历",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1727056524,
       "formatted_time": "2024-09-23 09:55:24",
       "type": "文件消息",
       "str_content": "徐昂简历.pdf",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1727058746,
       "formatted_time": "2024-09-23 10:32:26",
       "type": "文本消息",
       "str_content": "徐昂好，你上午先了解一下广州城投集团",
-      "sender": "对方"
+      "sender_name": "成瑞"
     },
     {
       "create_time": 1727058768,
       "formatted_time": "2024-09-23 10:32:48",
       "type": "文本消息",
       "str_content": "跟城投相关的内容，跟你的专业也对口",
-      "sender": "对方"
+      "sender_name": "成瑞"
     },
     {
       "create_time": 1727058823,
       "formatted_time": "2024-09-23 10:33:43",
       "type": "文本消息",
       "str_content": "好的老师",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1727142043,
       "formatted_time": "2024-09-24 09:40:43",
       "type": "文本消息",
       "str_content": "没事儿哈，大环境太差，多闯闯和尝试有好处，祝你一切顺利",
-      "sender": "对方"
+      "sender_name": "成瑞"
     },
     {
       "create_time": 1727142143,
       "formatted_time": "2024-09-24 09:42:23",
       "type": "文本消息",
       "str_content": "真的太谢谢老师了[苦涩]非常不好意思给公司和老师们添了很多麻烦......祝您身体健康，工作顺利！！",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:07+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 9
 }

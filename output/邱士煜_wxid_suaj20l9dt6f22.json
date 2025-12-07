@@ -7,23 +7,23 @@
       "formatted_time": "2023-08-29 23:37:45",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "邱士煜"
     },
     {
       "create_time": 1693323865,
       "formatted_time": "2023-08-29 23:44:25",
       "type": "文本消息",
       "str_content": "帅学长[色]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1693327022,
       "formatted_time": "2023-08-30 00:37:02",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "邱士煜"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 3
 }

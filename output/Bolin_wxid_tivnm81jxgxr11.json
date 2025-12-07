@@ -7,37 +7,37 @@
       "formatted_time": "2025-11-04 17:57:30",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "Bolin"
     },
     {
       "create_time": 1762250250,
       "formatted_time": "2025-11-04 17:57:30",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "Bolin"
     },
     {
       "create_time": 1762276312,
       "formatted_time": "2025-11-05 01:11:52",
       "type": "文本消息",
       "str_content": "Bolin，base 香港 深圳\nBlockFocus BD \n\nCityU\nhttps://x.com/0xBolin123\n很高兴认识您！",
-      "sender": "对方"
+      "sender_name": "Bolin"
     },
     {
       "create_time": 1762313937,
       "formatted_time": "2025-11-05 11:38:57",
       "type": "文本消息",
       "str_content": "hello，北大汇丰研一 fintech 徐昂，很高兴认识您！请多多指教！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1762319301,
       "formatted_time": "2025-11-05 13:08:21",
       "type": "文本消息",
       "str_content": "幸会",
-      "sender": "对方"
+      "sender_name": "Bolin"
     }
   ],
-  "export_time": "2025-12-07T09:48:00+08:00",
+  "export_time": "2025-12-07T09:58:51+08:00",
   "message_count": 5
 }

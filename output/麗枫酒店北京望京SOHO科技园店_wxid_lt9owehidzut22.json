@@ -7,23 +7,23 @@
       "formatted_time": "2024-07-06 21:33:41",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "麗枫酒店北京望京SOHO科技园店"
     },
     {
       "create_time": 1720273657,
       "formatted_time": "2024-07-06 21:47:37",
       "type": "文本消息",
       "str_content": "明天2点后给您发个文案，到时候辛苦您点评一下[呲牙]，有什么需要的您发微信给您送",
-      "sender": "对方"
+      "sender_name": "麗枫酒店北京望京SOHO科技园店"
     },
     {
       "create_time": 1720284222,
       "formatted_time": "2024-07-07 00:43:42",
       "type": "文本消息",
       "str_content": "ok",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:07+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 3
 }

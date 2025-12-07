@@ -7,44 +7,44 @@
       "formatted_time": "2025-11-24 17:40:18",
       "type": "文本消息",
       "str_content": "解决了！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1763977219,
       "formatted_time": "2025-11-24 17:40:19",
       "type": "文本消息",
       "str_content": "牛逼",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1763977261,
       "formatted_time": "2025-11-24 17:41:01",
       "type": "文本消息",
       "str_content": "嗯嗯是的，我之前试了一下分电脑，连上hdmi线之后在电脑右下方有一个小按钮可以切换，如果能显示下图那就是可以扩展屏",
-      "sender": "对方"
+      "sender_name": "张晨阳"
     },
     {
       "create_time": 1763977261,
       "formatted_time": "2025-11-24 17:41:01",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "张晨阳"
     },
     {
       "create_time": 1763977315,
       "formatted_time": "2025-11-24 17:41:55",
       "type": "文本消息",
       "str_content": "对的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1763977317,
       "formatted_time": "2025-11-24 17:41:57",
       "type": "文本消息",
       "str_content": "太厉害了",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:01+08:00",
+  "export_time": "2025-12-07T09:58:52+08:00",
   "message_count": 6
 }

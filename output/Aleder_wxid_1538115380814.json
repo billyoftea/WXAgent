@@ -7,114 +7,114 @@
       "formatted_time": "2025-06-09 21:47:23",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "Aleder"
     },
     {
       "create_time": 1749476911,
       "formatted_time": "2025-06-09 21:48:31",
       "type": "文本消息",
       "str_content": "您好",
-      "sender": "对方"
+      "sender_name": "Aleder"
     },
     {
       "create_time": 1749476921,
       "formatted_time": "2025-06-09 21:48:41",
       "type": "文本消息",
       "str_content": "您这行程是到7.5号吗？",
-      "sender": "对方"
+      "sender_name": "Aleder"
     },
     {
       "create_time": 1749476927,
       "formatted_time": "2025-06-09 21:48:47",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "Aleder"
     },
     {
       "create_time": 1749476952,
       "formatted_time": "2025-06-09 21:49:12",
       "type": "文本消息",
       "str_content": "对的，目前是计划到5号",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1749476964,
       "formatted_time": "2025-06-09 21:49:24",
       "type": "文本消息",
       "str_content": "7.5是啥行程  因为我7.5号要接机来着 看能不能协调的来",
-      "sender": "对方"
+      "sender_name": "Aleder"
     },
     {
       "create_time": 1749476994,
       "formatted_time": "2025-06-09 21:49:54",
       "type": "文本消息",
       "str_content": "你们不会7.5号  正好飞吧  哈哈哈哈",
-      "sender": "对方"
+      "sender_name": "Aleder"
     },
     {
       "create_time": 1749477027,
       "formatted_time": "2025-06-09 21:50:27",
       "type": "文本消息",
       "str_content": "我们现在还在计划中，因为之前是按照自驾来计划的，如果包车的话可能后续还有一些变动[破涕为笑]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1749477061,
       "formatted_time": "2025-06-09 21:51:01",
       "type": "文本消息",
       "str_content": "那明白了  你们来新疆的票定了没",
-      "sender": "对方"
+      "sender_name": "Aleder"
     },
     {
       "create_time": 1749477080,
       "formatted_time": "2025-06-09 21:51:20",
       "type": "文本消息",
       "str_content": "定了，27号晚上之前到",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1749477137,
       "formatted_time": "2025-06-09 21:52:17",
       "type": "文本消息",
       "str_content": "那就是27落地",
-      "sender": "对方"
+      "sender_name": "Aleder"
     },
     {
       "create_time": 1749477141,
       "formatted_time": "2025-06-09 21:52:21",
       "type": "文本消息",
       "str_content": "28开始行程",
-      "sender": "对方"
+      "sender_name": "Aleder"
     },
     {
       "create_time": 1749478138,
       "formatted_time": "2025-06-09 22:08:58",
       "type": "文本消息",
       "str_content": "您好~我先明确下我们这边的情况：\n1.两男两女，计划是6月27晚之前到乌鲁木齐，暂定是6.28号~7.5号游玩（结束时间后续可能有一些微调，但幅度不会很大）\n2.我们目前已经对景点做了一些计划，希望无论是代驾还是包车都是指哪打哪~\n\n麻烦您介绍下您这边的：\n1.车型？能否放下四个行李箱？四人乘坐的舒适度？\n2.每天的价格？这个价格是否包含：高速费、油费、司机住宿费、餐饮费、进景区门票、停车费？后续可能的额外费用是什么？",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1749478488,
       "formatted_time": "2025-06-09 22:14:48",
       "type": "文本消息",
       "str_content": "1.车型是25年坦克300   28的行李箱能放四个的宽度 别的包啊啥的松松放 车里空间大  在新疆旅游昂 最好还是选择越野类的车\n2.每天的价格是1300元（包含过路费，油费，领队食宿，领队自驾景区门票，停车费）我这儿没有别的额外费用 我的工作就是安安全全的把你们带出去安安全全把你们带回来 我就收我行程的钱就行了没有别的",
-      "sender": "对方"
+      "sender_name": "Aleder"
     },
     {
       "create_time": 1749479718,
       "formatted_time": "2025-06-09 22:35:18",
       "type": "文本消息",
       "str_content": "好的，了解，我明天给您回复~",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1749479832,
       "formatted_time": "2025-06-09 22:37:12",
       "type": "语音消息",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "Aleder"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 16
 }

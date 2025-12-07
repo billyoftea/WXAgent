@@ -7,30 +7,30 @@
       "formatted_time": "2023-12-23 17:21:12",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "罗江帆"
     },
     {
       "create_time": 1703323279,
       "formatted_time": "2023-12-23 17:21:19",
       "type": "文本消息",
       "str_content": "师兄好！[呲牙]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1703323285,
       "formatted_time": "2023-12-23 17:21:25",
       "type": "文本消息",
       "str_content": "我是本科21级徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1703323314,
       "formatted_time": "2023-12-23 17:21:54",
       "type": "文本消息",
       "str_content": "学弟好[握手][握手]我是钱老师的研二学生罗江帆",
-      "sender": "对方"
+      "sender_name": "罗江帆"
     }
   ],
-  "export_time": "2025-12-07T09:48:06+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 4
 }

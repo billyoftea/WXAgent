@@ -7,30 +7,30 @@
       "formatted_time": "2024-07-10 19:00:37",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "七彩蓝图快印"
     },
     {
       "create_time": 1720609251,
       "formatted_time": "2024-07-10 19:00:51",
       "type": "文件消息",
       "str_content": "徐昂+华中科技大学+金融.pdf",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1720609251,
       "formatted_time": "2024-07-10 19:00:51",
       "type": "文件消息",
       "str_content": "经济学院2024年硕博直通项目暑期研学.pdf",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1720609251,
       "formatted_time": "2024-07-10 19:00:51",
       "type": "文件消息",
       "str_content": "科研附件.pdf",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:07+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 4
 }

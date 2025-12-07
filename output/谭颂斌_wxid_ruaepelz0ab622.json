@@ -7,23 +7,23 @@
       "formatted_time": "2023-09-23 00:17:11",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "谭颂斌"
     },
     {
       "create_time": 1695399454,
       "formatted_time": "2023-09-23 00:17:34",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1695399465,
       "formatted_time": "2023-09-23 00:17:45",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "谭颂斌"
     }
   ],
-  "export_time": "2025-12-07T09:48:08+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 3
 }

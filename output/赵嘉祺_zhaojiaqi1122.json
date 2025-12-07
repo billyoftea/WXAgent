@@ -7,30 +7,30 @@
       "formatted_time": "2025-10-25 18:59:13",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "赵嘉祺"
     },
     {
       "create_time": 1761389953,
       "formatted_time": "2025-10-25 18:59:13",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "赵嘉祺"
     },
     {
       "create_time": 1761390234,
       "formatted_time": "2025-10-25 19:03:54",
       "type": "文本消息",
       "str_content": "祺哥好！今天的话疗真的解答了很多我进入汇丰以来的疑惑！感谢祺哥！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761390287,
       "formatted_time": "2025-10-25 19:04:47",
       "type": "文本消息",
       "str_content": "[强][强][微笑]",
-      "sender": "对方"
+      "sender_name": "赵嘉祺"
     }
   ],
-  "export_time": "2025-12-07T09:48:01+08:00",
+  "export_time": "2025-12-07T09:58:52+08:00",
   "message_count": 4
 }

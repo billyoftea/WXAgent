@@ -7,44 +7,44 @@
       "formatted_time": "2025-09-13 10:10:25",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "管双24 黄越"
     },
     {
       "create_time": 1757729425,
       "formatted_time": "2025-09-13 10:10:25",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "管双24 黄越"
     },
     {
       "create_time": 1757729467,
       "formatted_time": "2025-09-13 10:11:07",
       "type": "文本消息",
       "str_content": "哈喽！我是24管双 黄越",
-      "sender": "对方"
+      "sender_name": "管双24 黄越"
     },
     {
       "create_time": 1757729497,
       "formatted_time": "2025-09-13 10:11:37",
       "type": "文本消息",
       "str_content": "学姐好[呲牙]我是25 数金 徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1757729498,
       "formatted_time": "2025-09-13 10:11:38",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1757729535,
       "formatted_time": "2025-09-13 10:12:15",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "管双24 黄越"
     }
   ],
-  "export_time": "2025-12-07T09:48:05+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 6
 }

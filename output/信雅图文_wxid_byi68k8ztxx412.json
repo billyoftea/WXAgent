@@ -7,30 +7,30 @@
       "formatted_time": "2025-08-17 16:42:08",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "信雅图文"
     },
     {
       "create_time": 1755420137,
       "formatted_time": "2025-08-17 16:42:17",
       "type": "文件消息",
       "str_content": "U202116333_本科生出国中文成绩单.pdf",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1755420137,
       "formatted_time": "2025-08-17 16:42:17",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1755420137,
       "formatted_time": "2025-08-17 16:42:17",
       "type": "文件消息",
       "str_content": "四六级合并.pdf",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 4
 }

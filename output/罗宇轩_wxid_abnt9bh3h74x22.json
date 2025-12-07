@@ -7,51 +7,51 @@
       "formatted_time": "2025-09-04 22:17:30",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "罗宇轩"
     },
     {
       "create_time": 1756995450,
       "formatted_time": "2025-09-04 22:17:30",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "罗宇轩"
     },
     {
       "create_time": 1756995502,
       "formatted_time": "2025-09-04 22:18:22",
       "type": "文本消息",
       "str_content": "哈喽哈喽，我是经济专业的罗宇轩",
-      "sender": "对方"
+      "sender_name": "罗宇轩"
     },
     {
       "create_time": 1756995508,
       "formatted_time": "2025-09-04 22:18:28",
       "type": "文本消息",
       "str_content": "大家面的都好好[流泪]",
-      "sender": "对方"
+      "sender_name": "罗宇轩"
     },
     {
       "create_time": 1756995537,
       "formatted_time": "2025-09-04 22:18:57",
       "type": "文本消息",
       "str_content": "太成功了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1756995539,
       "formatted_time": "2025-09-04 22:18:59",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1756995567,
       "formatted_time": "2025-09-04 22:19:27",
       "type": "文本消息",
       "str_content": "哈哈哈哈哈好图收了",
-      "sender": "对方"
+      "sender_name": "罗宇轩"
     }
   ],
-  "export_time": "2025-12-07T09:48:05+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 7
 }

@@ -7,16 +7,16 @@
       "formatted_time": "2024-03-21 18:42:31",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "林蔚"
     },
     {
       "create_time": 1711017760,
       "formatted_time": "2024-03-21 18:42:40",
       "type": "文本消息",
       "str_content": "我是徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:06+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 2
 }

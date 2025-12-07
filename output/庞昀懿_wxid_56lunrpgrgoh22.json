@@ -7,23 +7,23 @@
       "formatted_time": "2022-07-27 18:02:33",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "庞昀懿"
     },
     {
       "create_time": 1658916162,
       "formatted_time": "2022-07-27 18:02:42",
       "type": "转账卡片",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1658916257,
       "formatted_time": "2022-07-27 18:04:17",
       "type": "转账卡片",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "庞昀懿"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 3
 }

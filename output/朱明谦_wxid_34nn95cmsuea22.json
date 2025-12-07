@@ -7,37 +7,37 @@
       "formatted_time": "2025-07-18 02:31:32",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "朱明谦"
     },
     {
       "create_time": 1752777111,
       "formatted_time": "2025-07-18 02:31:51",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "朱明谦"
     },
     {
       "create_time": 1752802578,
       "formatted_time": "2025-07-18 09:36:18",
       "type": "文本消息",
       "str_content": "昨天跟hqz他们玩了玩",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1752802590,
       "formatted_time": "2025-07-18 09:36:30",
       "type": "文本消息",
       "str_content": "突然想起来还没你的微信[抱拳][抱拳]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1752802987,
       "formatted_time": "2025-07-18 09:43:07",
       "type": "文本消息",
       "str_content": "okok",
-      "sender": "对方"
+      "sender_name": "朱明谦"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 5
 }

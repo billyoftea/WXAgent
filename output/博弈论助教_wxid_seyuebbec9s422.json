@@ -7,79 +7,79 @@
       "formatted_time": "2023-05-17 22:14:03",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "博弈论助教"
     },
     {
       "create_time": 1684332955,
       "formatted_time": "2023-05-17 22:15:55",
       "type": "文本消息",
       "str_content": "姐姐好~想问一下我们博弈论的第二次作业的第五题",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1684332961,
       "formatted_time": "2023-05-17 22:16:01",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1684332998,
       "formatted_time": "2023-05-17 22:16:38",
       "type": "文本消息",
       "str_content": "这个地方是老师打错了嘛，我一开始没注意用1+t2算的，也可以证明出来，这样做可以嘛",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1684333004,
       "formatted_time": "2023-05-17 22:16:44",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1684333058,
       "formatted_time": "2023-05-17 22:17:38",
       "type": "文本消息",
       "str_content": "不好意思，这个我也不太清楚，要不你跟同学们交流一下？或者你等等之后李助教的讲解",
-      "sender": "对方"
+      "sender_name": "博弈论助教"
     },
     {
       "create_time": 1684333139,
       "formatted_time": "2023-05-17 22:18:59",
       "type": "文本消息",
       "str_content": "噢噢这样嘛\n同学们也挺迷的[捂脸]因为好像1-t2非常难算，而且和课堂上讲的思想也有点点不一样",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1684333252,
       "formatted_time": "2023-05-17 22:20:52",
       "type": "文本消息",
       "str_content": "没关系，你们先写，等我们几个助教之后讨论一下再看看是题目的问题还是什么",
-      "sender": "对方"
+      "sender_name": "博弈论助教"
     },
     {
       "create_time": 1684333272,
       "formatted_time": "2023-05-17 22:21:12",
       "type": "文本消息",
       "str_content": "好的好的，谢谢姐姐！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1684333300,
       "formatted_time": "2023-05-17 22:21:40",
       "type": "文本消息",
       "str_content": "如果是题目的问题的话，我们会商量出解决办法的",
-      "sender": "对方"
+      "sender_name": "博弈论助教"
     },
     {
       "create_time": 1684333305,
       "formatted_time": "2023-05-17 22:21:45",
       "type": "引用消息",
       "str_content": "嗯嗯，不客气",
-      "sender": "对方"
+      "sender_name": "博弈论助教"
     }
   ],
-  "export_time": "2025-12-07T09:48:08+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 11
 }

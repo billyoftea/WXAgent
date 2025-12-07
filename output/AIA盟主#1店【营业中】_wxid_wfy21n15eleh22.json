@@ -7,37 +7,37 @@
       "formatted_time": "2025-10-23 09:23:48",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "AIA盟主#1店【营业中】"
     },
     {
       "create_time": 1761182666,
       "formatted_time": "2025-10-23 09:24:26",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761182672,
       "formatted_time": "2025-10-23 09:24:32",
       "type": "文本消息",
       "str_content": "这个码数对吗",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761190667,
       "formatted_time": "2025-10-23 11:37:47",
       "type": "文本消息",
       "str_content": "您好，对的",
-      "sender": "对方"
+      "sender_name": "AIA盟主#1店【营业中】"
     },
     {
       "create_time": 1761190676,
       "formatted_time": "2025-10-23 11:37:56",
       "type": "文本消息",
       "str_content": "可以按身高体重选码",
-      "sender": "对方"
+      "sender_name": "AIA盟主#1店【营业中】"
     }
   ],
-  "export_time": "2025-12-07T09:48:00+08:00",
+  "export_time": "2025-12-07T09:58:51+08:00",
   "message_count": 5
 }

@@ -7,44 +7,44 @@
       "formatted_time": "2025-02-04 01:42:46",
       "type": "文本消息",
       "str_content": "哥你明天晚上有空不",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1738604575,
       "formatted_time": "2025-02-04 01:42:55",
       "type": "文本消息",
       "str_content": "咱哥仨一块吃点喝点去？",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1738630532,
       "formatted_time": "2025-02-04 08:55:32",
       "type": "语音消息",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "徐睿哥"
     },
     {
       "create_time": 1738664336,
       "formatted_time": "2025-02-04 18:18:56",
       "type": "位置消息",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "徐睿哥"
     },
     {
       "create_time": 1738681443,
       "formatted_time": "2025-02-04 23:04:03",
       "type": "文本消息",
       "str_content": "到家了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1738681464,
       "formatted_time": "2025-02-04 23:04:24",
       "type": "文本消息",
       "str_content": "好的",
-      "sender": "对方"
+      "sender_name": "徐睿哥"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 6
 }

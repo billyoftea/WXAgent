@@ -7,23 +7,23 @@
       "formatted_time": "2025-08-25 11:17:17",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "赵思瑞-西南财经大学-金融管理"
     },
     {
       "create_time": 1756091853,
       "formatted_time": "2025-08-25 11:17:33",
       "type": "图文消息",
       "str_content": "邀请你加入群聊",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1756091929,
       "formatted_time": "2025-08-25 11:18:49",
       "type": "文本消息",
       "str_content": "谢谢！",
-      "sender": "对方"
+      "sender_name": "赵思瑞-西南财经大学-金融管理"
     }
   ],
-  "export_time": "2025-12-07T09:48:02+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 3
 }

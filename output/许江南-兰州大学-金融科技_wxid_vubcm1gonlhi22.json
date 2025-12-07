@@ -7,16 +7,16 @@
       "formatted_time": "2025-12-03 12:28:48",
       "type": "文件消息",
       "str_content": "20251203_103329.txt",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1764736147,
       "formatted_time": "2025-12-03 12:29:07",
       "type": "文本消息",
       "str_content": "nb[强]",
-      "sender": "对方"
+      "sender_name": "许江南-兰州大学-金融科技"
     }
   ],
-  "export_time": "2025-12-07T09:48:01+08:00",
+  "export_time": "2025-12-07T09:58:52+08:00",
   "message_count": 2
 }

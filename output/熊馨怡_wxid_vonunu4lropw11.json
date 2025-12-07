@@ -7,107 +7,107 @@
       "formatted_time": "2022-11-26 00:39:21",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "熊馨怡"
     },
     {
       "create_time": 1669431640,
       "formatted_time": "2022-11-26 11:00:40",
       "type": "文本消息",
       "str_content": "哈咯",
-      "sender": "对方"
+      "sender_name": "熊馨怡"
     },
     {
       "create_time": 1669431644,
       "formatted_time": "2022-11-26 11:00:44",
       "type": "文本消息",
       "str_content": "熊馨怡",
-      "sender": "对方"
+      "sender_name": "熊馨怡"
     },
     {
       "create_time": 1669431659,
       "formatted_time": "2022-11-26 11:00:59",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "熊馨怡"
     },
     {
       "create_time": 1669432030,
       "formatted_time": "2022-11-26 11:07:10",
       "type": "文本消息",
       "str_content": "徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1669432041,
       "formatted_time": "2022-11-26 11:07:21",
       "type": "文本消息",
       "str_content": "大家都十一点起床吗hh",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1669432909,
       "formatted_time": "2022-11-26 11:21:49",
       "type": "文本消息",
       "str_content": "可能只有我",
-      "sender": "对方"
+      "sender_name": "熊馨怡"
     },
     {
       "create_time": 1669432911,
       "formatted_time": "2022-11-26 11:21:51",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "熊馨怡"
     },
     {
       "create_time": 1669432934,
       "formatted_time": "2022-11-26 11:22:14",
       "type": "文本消息",
       "str_content": "你们玩到几点嗷",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1669432943,
       "formatted_time": "2022-11-26 11:22:23",
       "type": "文本消息",
       "str_content": "啊",
-      "sender": "对方"
+      "sender_name": "熊馨怡"
     },
     {
       "create_time": 1669432944,
       "formatted_time": "2022-11-26 11:22:24",
       "type": "文本消息",
       "str_content": "我",
-      "sender": "对方"
+      "sender_name": "熊馨怡"
     },
     {
       "create_time": 1669432946,
       "formatted_time": "2022-11-26 11:22:26",
       "type": "文本消息",
       "str_content": "比你先走",
-      "sender": "对方"
+      "sender_name": "熊馨怡"
     },
     {
       "create_time": 1669432950,
       "formatted_time": "2022-11-26 11:22:30",
       "type": "文本消息",
       "str_content": "啊",
-      "sender": "对方"
+      "sender_name": "熊馨怡"
     },
     {
       "create_time": 1669432963,
       "formatted_time": "2022-11-26 11:22:43",
       "type": "文本消息",
       "str_content": "[凋谢]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1669432967,
       "formatted_time": "2022-11-26 11:22:47",
       "type": "文本消息",
       "str_content": "哈哈",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 15
 }

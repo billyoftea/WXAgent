@@ -7,23 +7,23 @@
       "formatted_time": "2024-07-07 15:29:31",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "牛正洋-18144383255"
     },
     {
       "create_time": 1720337392,
       "formatted_time": "2024-07-07 15:29:52",
       "type": "文本消息",
       "str_content": "哈喽uu！我是对外经济贸易大学牛正洋，咱们是一个组滴[嘿哈]",
-      "sender": "对方"
+      "sender_name": "牛正洋-18144383255"
     },
     {
       "create_time": 1720337662,
       "formatted_time": "2024-07-07 15:34:22",
       "type": "文本消息",
       "str_content": "你好呀你好呀，我是华中科技大学徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:06+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 3
 }

@@ -7,23 +7,23 @@
       "formatted_time": "2025-12-05 18:55:59",
       "type": "拍一拍消息",
       "str_content": "[???]",
-      "sender": "对方"
+      "sender_name": "张韩梓"
     },
     {
       "create_time": 1764932161,
       "formatted_time": "2025-12-05 18:56:01",
       "type": "文本消息",
       "str_content": "这回别再鸽",
-      "sender": "对方"
+      "sender_name": "张韩梓"
     },
     {
       "create_time": 1764932241,
       "formatted_time": "2025-12-05 18:57:21",
       "type": "文本消息",
       "str_content": "yessir",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:00+08:00",
+  "export_time": "2025-12-07T09:58:51+08:00",
   "message_count": 3
 }

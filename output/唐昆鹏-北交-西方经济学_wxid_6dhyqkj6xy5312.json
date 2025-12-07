@@ -7,51 +7,51 @@
       "formatted_time": "2025-10-18 09:23:16",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "唐昆鹏-北交-西方经济学"
     },
     {
       "create_time": 1760750596,
       "formatted_time": "2025-10-18 09:23:16",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "唐昆鹏-北交-西方经济学"
     },
     {
       "create_time": 1760750628,
       "formatted_time": "2025-10-18 09:23:48",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1760750650,
       "formatted_time": "2025-10-18 09:24:10",
       "type": "文本消息",
       "str_content": "hellohello",
-      "sender": "对方"
+      "sender_name": "唐昆鹏-北交-西方经济学"
     },
     {
       "create_time": 1760750651,
       "formatted_time": "2025-10-18 09:24:11",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "唐昆鹏-北交-西方经济学"
     },
     {
       "create_time": 1760750655,
       "formatted_time": "2025-10-18 09:24:15",
       "type": "文本消息",
       "str_content": "唐昆鹏 经双",
-      "sender": "对方"
+      "sender_name": "唐昆鹏-北交-西方经济学"
     },
     {
       "create_time": 1760750667,
       "formatted_time": "2025-10-18 09:24:27",
       "type": "文本消息",
       "str_content": "徐昂 数金科[抱拳]",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 7
 }

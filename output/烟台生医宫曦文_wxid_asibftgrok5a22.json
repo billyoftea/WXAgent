@@ -7,23 +7,23 @@
       "formatted_time": "2023-02-28 15:11:58",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "烟台生医宫曦文"
     },
     {
       "create_time": 1677568328,
       "formatted_time": "2023-02-28 15:12:08",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "烟台生医宫曦文"
     },
     {
       "create_time": 1677569567,
       "formatted_time": "2023-02-28 15:32:47",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 3
 }

@@ -7,37 +7,37 @@
       "formatted_time": "2025-08-26 17:06:05",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "万航程-四川大学-数量与金融科技"
     },
     {
       "create_time": 1756199165,
       "formatted_time": "2025-08-26 17:06:05",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "万航程-四川大学-数量与金融科技"
     },
     {
       "create_time": 1756199200,
       "formatted_time": "2025-08-26 17:06:40",
       "type": "文本消息",
       "str_content": "hi😁",
-      "sender": "对方"
+      "sender_name": "万航程-四川大学-数量与金融科技"
     },
     {
       "create_time": 1756199223,
       "formatted_time": "2025-08-26 17:07:03",
       "type": "文本消息",
       "str_content": "hihi",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1756199224,
       "formatted_time": "2025-08-26 17:07:04",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 5
 }

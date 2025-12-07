@@ -7,44 +7,44 @@
       "formatted_time": "2024-02-25 11:58:34",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "李心雨"
     },
     {
       "create_time": 1708833524,
       "formatted_time": "2024-02-25 11:58:44",
       "type": "文本消息",
       "str_content": "嗨喽嗨喽",
-      "sender": "对方"
+      "sender_name": "李心雨"
     },
     {
       "create_time": 1708833530,
       "formatted_time": "2024-02-25 11:58:50",
       "type": "文本消息",
       "str_content": "李心雨",
-      "sender": "对方"
+      "sender_name": "李心雨"
     },
     {
       "create_time": 1708833554,
       "formatted_time": "2024-02-25 11:59:14",
       "type": "文本消息",
       "str_content": "你好呀~我叫徐昂，请多多指教啦！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1708833571,
       "formatted_time": "2024-02-25 11:59:31",
       "type": "文本消息",
       "str_content": "多多指教！",
-      "sender": "对方"
+      "sender_name": "李心雨"
     },
     {
       "create_time": 1708833573,
       "formatted_time": "2024-02-25 11:59:33",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "李心雨"
     }
   ],
-  "export_time": "2025-12-07T09:48:06+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 6
 }

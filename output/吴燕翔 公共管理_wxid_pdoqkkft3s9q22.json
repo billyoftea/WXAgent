@@ -7,23 +7,23 @@
       "formatted_time": "2025-04-10 15:44:47",
       "type": "文本消息",
       "str_content": "学长给个备注吧",
-      "sender": "对方"
+      "sender_name": "吴燕翔 公共管理"
     },
     {
       "create_time": 1744271446,
       "formatted_time": "2025-04-10 15:50:46",
       "type": "文本消息",
       "str_content": "我叫徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1744271454,
       "formatted_time": "2025-04-10 15:50:54",
       "type": "文本消息",
       "str_content": "okok",
-      "sender": "对方"
+      "sender_name": "吴燕翔 公共管理"
     }
   ],
-  "export_time": "2025-12-07T09:48:02+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 3
 }

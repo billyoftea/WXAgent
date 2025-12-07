@@ -7,16 +7,16 @@
       "formatted_time": "2023-05-28 00:11:05",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "光电李世杰"
     },
     {
       "create_time": 1685203873,
       "formatted_time": "2023-05-28 00:11:13",
       "type": "文本消息",
       "str_content": "21经济徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:08+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 2
 }

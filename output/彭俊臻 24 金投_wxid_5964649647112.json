@@ -7,44 +7,44 @@
       "formatted_time": "2025-09-13 09:58:35",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "彭俊臻 24 金投"
     },
     {
       "create_time": 1757728715,
       "formatted_time": "2025-09-13 09:58:35",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "彭俊臻 24 金投"
     },
     {
       "create_time": 1757728745,
       "formatted_time": "2025-09-13 09:59:05",
       "type": "文本消息",
       "str_content": "彭俊臻 24 金融投资",
-      "sender": "对方"
+      "sender_name": "彭俊臻 24 金投"
     },
     {
       "create_time": 1757729438,
       "formatted_time": "2025-09-13 10:10:38",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1757729445,
       "formatted_time": "2025-09-13 10:10:45",
       "type": "文本消息",
       "str_content": "学长好，我是25数金徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1757729460,
       "formatted_time": "2025-09-13 10:11:00",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "彭俊臻 24 金投"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 6
 }

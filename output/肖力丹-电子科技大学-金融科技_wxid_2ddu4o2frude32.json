@@ -7,30 +7,30 @@
       "formatted_time": "2025-08-26 17:11:38",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "肖力丹-电子科技大学-金融科技"
     },
     {
       "create_time": 1756199498,
       "formatted_time": "2025-08-26 17:11:38",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "肖力丹-电子科技大学-金融科技"
     },
     {
       "create_time": 1756199584,
       "formatted_time": "2025-08-26 17:13:04",
       "type": "文本消息",
       "str_content": "hihi我是徐昂，以后请多多指教啦[嘿哈]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1756199592,
       "formatted_time": "2025-08-26 17:13:12",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "肖力丹-电子科技大学-金融科技"
     }
   ],
-  "export_time": "2025-12-07T09:48:05+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 4
 }

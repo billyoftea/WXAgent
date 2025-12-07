@@ -7,16 +7,16 @@
       "formatted_time": "2022-11-14 13:26:05",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "小小学姐"
     },
     {
       "create_time": 1668403565,
       "formatted_time": "2022-11-14 13:26:05",
       "type": "文本消息",
       "str_content": "您好，您的服务已升级，后续将由我的同事佳佳接替我的工作，继续为您服务。",
-      "sender": "对方"
+      "sender_name": "小小学姐"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 2
 }

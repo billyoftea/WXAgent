@@ -7,30 +7,30 @@
       "formatted_time": "2025-07-18 19:39:19",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "SIA 24 姚睿"
     },
     {
       "create_time": 1752838771,
       "formatted_time": "2025-07-18 19:39:31",
       "type": "图文消息",
       "str_content": "邀请你加入群聊",
-      "sender": "对方"
+      "sender_name": "SIA 24 姚睿"
     },
     {
       "create_time": 1752838851,
       "formatted_time": "2025-07-18 19:40:51",
       "type": "文本消息",
       "str_content": "收到！感谢学姐！！[哇]期待后续的分享~",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1752838858,
       "formatted_time": "2025-07-18 19:40:58",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "SIA 24 姚睿"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 4
 }

@@ -7,16 +7,16 @@
       "formatted_time": "2025-11-01 02:46:33",
       "type": "文本消息",
       "str_content": "我是 Harry UCL",
-      "sender": "对方"
+      "sender_name": "Harry🐼"
     },
     {
       "create_time": 1761938254,
       "formatted_time": "2025-11-01 03:17:34",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "Harry🐼"
     }
   ],
-  "export_time": "2025-12-07T09:48:00+08:00",
+  "export_time": "2025-12-07T09:58:51+08:00",
   "message_count": 2
 }

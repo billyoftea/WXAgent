@@ -7,58 +7,58 @@
       "formatted_time": "2024-10-22 10:41:20",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "张天"
     },
     {
       "create_time": 1729564901,
       "formatted_time": "2024-10-22 10:41:41",
       "type": "文本消息",
       "str_content": "你好啊老哥",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1729564901,
       "formatted_time": "2024-10-22 10:41:41",
       "type": "文本消息",
       "str_content": "Hellohello",
-      "sender": "对方"
+      "sender_name": "张天"
     },
     {
       "create_time": 1729564906,
       "formatted_time": "2024-10-22 10:41:46",
       "type": "文本消息",
       "str_content": "我是经院21级徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1729564921,
       "formatted_time": "2024-10-22 10:42:01",
       "type": "文本消息",
       "str_content": "我是法学21级的张天",
-      "sender": "对方"
+      "sender_name": "张天"
     },
     {
       "create_time": 1729564929,
       "formatted_time": "2024-10-22 10:42:09",
       "type": "文本消息",
       "str_content": "幸会幸会",
-      "sender": "对方"
+      "sender_name": "张天"
     },
     {
       "create_time": 1729564934,
       "formatted_time": "2024-10-22 10:42:14",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "张天"
     },
     {
       "create_time": 1729564951,
       "formatted_time": "2024-10-22 10:42:31",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 8
 }

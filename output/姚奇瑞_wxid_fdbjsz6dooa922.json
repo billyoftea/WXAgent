@@ -7,93 +7,93 @@
       "formatted_time": "2025-06-14 19:40:10",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "姚奇瑞"
     },
     {
       "create_time": 1749901229,
       "formatted_time": "2025-06-14 19:40:29",
       "type": "文本消息",
       "str_content": "我是姚奇瑞",
-      "sender": "对方"
+      "sender_name": "姚奇瑞"
     },
     {
       "create_time": 1749901281,
       "formatted_time": "2025-06-14 19:41:21",
       "type": "文本消息",
       "str_content": "好哩哥",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1749901284,
       "formatted_time": "2025-06-14 19:41:24",
       "type": "文本消息",
       "str_content": "你是哪个学院的呀",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1749901382,
       "formatted_time": "2025-06-14 19:43:02",
       "type": "文本消息",
       "str_content": "物理学院",
-      "sender": "对方"
+      "sender_name": "姚奇瑞"
     },
     {
       "create_time": 1749901387,
       "formatted_time": "2025-06-14 19:43:07",
       "type": "文本消息",
       "str_content": "你呢",
-      "sender": "对方"
+      "sender_name": "姚奇瑞"
     },
     {
       "create_time": 1749901401,
       "formatted_time": "2025-06-14 19:43:21",
       "type": "文本消息",
       "str_content": "我是经济学院的[呲牙]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1749901523,
       "formatted_time": "2025-06-14 19:45:23",
       "type": "文本消息",
       "str_content": "嗷嗷",
-      "sender": "对方"
+      "sender_name": "姚奇瑞"
     },
     {
       "create_time": 1749901529,
       "formatted_time": "2025-06-14 19:45:29",
       "type": "文本消息",
       "str_content": "比我们物理强多了",
-      "sender": "对方"
+      "sender_name": "姚奇瑞"
     },
     {
       "create_time": 1749901570,
       "formatted_time": "2025-06-14 19:46:10",
       "type": "文本消息",
       "str_content": "可不敢",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1749901574,
       "formatted_time": "2025-06-14 19:46:14",
       "type": "文本消息",
       "str_content": "金融就业依托",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1749901794,
       "formatted_time": "2025-06-14 19:49:54",
       "type": "文本消息",
       "str_content": "就业的话，感觉理科也是依托",
-      "sender": "对方"
+      "sender_name": "姚奇瑞"
     },
     {
       "create_time": 1749901801,
       "formatted_time": "2025-06-14 19:50:01",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "姚奇瑞"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 13
 }

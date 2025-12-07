@@ -7,16 +7,16 @@
       "formatted_time": "2025-02-15 14:46:36",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "QuantML"
     },
     {
       "create_time": 1739602038,
       "formatted_time": "2025-02-15 14:47:18",
       "type": "图文消息",
       "str_content": "邀请你加入群聊",
-      "sender": "对方"
+      "sender_name": "QuantML"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 2
 }

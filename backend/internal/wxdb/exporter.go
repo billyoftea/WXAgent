@@ -421,11 +421,18 @@ func (e *Exporter) exportSession(db *sql.DB, tableName string, wxidMap map[strin
 		if msg.Sender == nil {
 			if realSenderID.Valid && myRowid >= 0 {
 				if realSenderID.Int64 == myRowid {
-					msg.Sender = stringPtr("自己") // 自己发的
+					// 自己发的消息
+					if !isGroupChat {
+						// 私聊中自己的消息：sender_name = "自己"
+						msg.SenderName = "自己"
+					} else {
+						// 群聊中自己的消息：sender = "自己"
+						msg.Sender = stringPtr("自己")
+					}
 				} else {
 					if !isGroupChat {
-						// 私聊中对方的消息需要显示 sender
-						msg.Sender = stringPtr("对方")
+						// 私聊中对方的消息：sender_name = session_name（对方名称）
+						msg.SenderName = sessionName
 					}
 					// 群聊中对方的消息不设置 sender（保持为 nil）
 				}
@@ -434,7 +441,7 @@ func (e *Exporter) exportSession(db *sql.DB, tableName string, wxidMap map[strin
 				// 在私聊中，NULL 通常表示是自己发的
 				// 在群聊中，NULL 表示系统消息或特殊消息
 				if !isGroupChat {
-					msg.Sender = stringPtr("自己")
+					msg.SenderName = "自己"
 				}
 				// 群聊中 NULL 的情况不设置 sender
 			}

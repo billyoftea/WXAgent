@@ -7,23 +7,23 @@
       "formatted_time": "2025-09-16 19:36:06",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "魏士旋"
     },
     {
       "create_time": 1758022566,
       "formatted_time": "2025-09-16 19:36:06",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "魏士旋"
     },
     {
       "create_time": 1758022573,
       "formatted_time": "2025-09-16 19:36:13",
       "type": "文本消息",
       "str_content": "清华25硕士魏士旋",
-      "sender": "对方"
+      "sender_name": "魏士旋"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 3
 }

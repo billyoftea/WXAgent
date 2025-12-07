@@ -7,44 +7,44 @@
       "formatted_time": "2022-05-21 00:29:07",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1653064149,
       "formatted_time": "2022-05-21 00:29:09",
       "type": "文本消息",
       "str_content": "袜",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1653084032,
       "formatted_time": "2022-05-21 06:00:32",
       "type": "文本消息",
       "str_content": "[捂脸]",
-      "sender": "对方"
+      "sender_name": "董星秀"
     },
     {
       "create_time": 1653084041,
       "formatted_time": "2022-05-21 06:00:41",
       "type": "文本消息",
       "str_content": "好久的视频了",
-      "sender": "对方"
+      "sender_name": "董星秀"
     },
     {
       "create_time": 1653084128,
       "formatted_time": "2022-05-21 06:02:08",
       "type": "文本消息",
       "str_content": "脚伤好久了",
-      "sender": "对方"
+      "sender_name": "董星秀"
     },
     {
       "create_time": 1653084134,
       "formatted_time": "2022-05-21 06:02:14",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "董星秀"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 6
 }

@@ -7,37 +7,37 @@
       "formatted_time": "2025-11-12 09:41:33",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "宁远-对外经贸-财经传媒"
     },
     {
       "create_time": 1762911693,
       "formatted_time": "2025-11-12 09:41:33",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "宁远-对外经贸-财经传媒"
     },
     {
       "create_time": 1762911699,
       "formatted_time": "2025-11-12 09:41:39",
       "type": "文本消息",
       "str_content": "昂哥",
-      "sender": "对方"
+      "sender_name": "宁远-对外经贸-财经传媒"
     },
     {
       "create_time": 1762911700,
       "formatted_time": "2025-11-12 09:41:40",
       "type": "文本消息",
       "str_content": "[机智]",
-      "sender": "对方"
+      "sender_name": "宁远-对外经贸-财经传媒"
     },
     {
       "create_time": 1762911724,
       "formatted_time": "2025-11-12 09:42:04",
       "type": "文本消息",
       "str_content": "[色][色]",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:01+08:00",
+  "export_time": "2025-12-07T09:58:52+08:00",
   "message_count": 5
 }

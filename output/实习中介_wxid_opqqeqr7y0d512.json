@@ -7,58 +7,58 @@
       "formatted_time": "2023-12-13 18:27:47",
       "type": "文本消息",
       "str_content": "问价",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1702463309,
       "formatted_time": "2023-12-13 18:28:29",
       "type": "文本消息",
       "str_content": "有准备好的简历可以先发我做初步评估",
-      "sender": "对方"
+      "sender_name": "实习中介"
     },
     {
       "create_time": 1702463346,
       "formatted_time": "2023-12-13 18:29:06",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1702463387,
       "formatted_time": "2023-12-13 18:29:47",
       "type": "文件消息",
       "str_content": "徐昂个人简历  .pdf",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1702463500,
       "formatted_time": "2023-12-13 18:31:40",
       "type": "文本消息",
       "str_content": "上海摩根投行报价120w+全职保岗",
-      "sender": "对方"
+      "sender_name": "实习中介"
     },
     {
       "create_time": 1702464065,
       "formatted_time": "2023-12-13 18:41:05",
       "type": "文本消息",
       "str_content": "没bg要求？",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1702467061,
       "formatted_time": "2023-12-13 19:31:01",
       "type": "文本消息",
       "str_content": "几乎没有",
-      "sender": "对方"
+      "sender_name": "实习中介"
     },
     {
       "create_time": 1702467107,
       "formatted_time": "2023-12-13 19:31:47",
       "type": "文本消息",
       "str_content": "会需要做面试，面试前有面试培训",
-      "sender": "对方"
+      "sender_name": "实习中介"
     }
   ],
-  "export_time": "2025-12-07T09:48:06+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 8
 }

@@ -7,23 +7,23 @@
       "formatted_time": "2023-06-10 00:06:44",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "吕妍"
     },
     {
       "create_time": 1686326810,
       "formatted_time": "2023-06-10 00:06:50",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1686326825,
       "formatted_time": "2023-06-10 00:07:05",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "吕妍"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 3
 }

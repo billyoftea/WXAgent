@@ -7,37 +7,37 @@
       "formatted_time": "2025-09-20 20:02:55",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "望晓芸 25 汇丰mba"
     },
     {
       "create_time": 1758369775,
       "formatted_time": "2025-09-20 20:02:55",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "望晓芸 25 汇丰mba"
     },
     {
       "create_time": 1758369825,
       "formatted_time": "2025-09-20 20:03:45",
       "type": "文本消息",
       "str_content": "晓芸姐好~我是25数量金科的徐昂~",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1758369835,
       "formatted_time": "2025-09-20 20:03:55",
       "type": "文本消息",
       "str_content": "您好",
-      "sender": "对方"
+      "sender_name": "望晓芸 25 汇丰mba"
     },
     {
       "create_time": 1758369839,
       "formatted_time": "2025-09-20 20:03:59",
       "type": "微信小程序",
       "str_content": "微信小程序",
-      "sender": "对方"
+      "sender_name": "望晓芸 25 汇丰mba"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 5
 }

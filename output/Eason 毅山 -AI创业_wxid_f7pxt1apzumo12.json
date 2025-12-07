@@ -7,58 +7,58 @@
       "formatted_time": "2025-10-31 11:35:33",
       "type": "文本消息",
       "str_content": "我是徐昂 Ang",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761881799,
       "formatted_time": "2025-10-31 11:36:39",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "Eason 毅山 -AI创业"
     },
     {
       "create_time": 1761881799,
       "formatted_time": "2025-10-31 11:36:39",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "Eason 毅山 -AI创业"
     },
     {
       "create_time": 1761881869,
       "formatted_time": "2025-10-31 11:37:49",
       "type": "文本消息",
       "str_content": "毅山哥，下午想去参加coffee chat~我是汇丰MA研一的~",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761888838,
       "formatted_time": "2025-10-31 13:33:58",
       "type": "文本消息",
       "str_content": "毅山哥，coffee chat开始了嘛？在哪一桌呀~",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761890519,
       "formatted_time": "2025-10-31 14:01:59",
       "type": "文本消息",
       "str_content": "Hi～",
-      "sender": "对方"
+      "sender_name": "Eason 毅山 -AI创业"
     },
     {
       "create_time": 1761890532,
       "formatted_time": "2025-10-31 14:02:12",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "Eason 毅山 -AI创业"
     },
     {
       "create_time": 1761890536,
       "formatted_time": "2025-10-31 14:02:16",
       "type": "文本消息",
       "str_content": "在门外",
-      "sender": "对方"
+      "sender_name": "Eason 毅山 -AI创业"
     }
   ],
-  "export_time": "2025-12-07T09:48:00+08:00",
+  "export_time": "2025-12-07T09:58:52+08:00",
   "message_count": 8
 }

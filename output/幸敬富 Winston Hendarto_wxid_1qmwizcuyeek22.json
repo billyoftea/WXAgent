@@ -7,86 +7,86 @@
       "formatted_time": "2025-11-01 03:29:16",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "幸敬富 Winston Hendarto"
     },
     {
       "create_time": 1761938956,
       "formatted_time": "2025-11-01 03:29:16",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "幸敬富 Winston Hendarto"
     },
     {
       "create_time": 1761939031,
       "formatted_time": "2025-11-01 03:30:31",
       "type": "文本消息",
       "str_content": "别忘了把照片发给我，很高兴见到你。",
-      "sender": "对方"
+      "sender_name": "幸敬富 Winston Hendarto"
     },
     {
       "create_time": 1761992023,
       "formatted_time": "2025-11-01 18:13:43",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761992025,
       "formatted_time": "2025-11-01 18:13:45",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761992026,
       "formatted_time": "2025-11-01 18:13:46",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761992027,
       "formatted_time": "2025-11-01 18:13:47",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761992028,
       "formatted_time": "2025-11-01 18:13:48",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761992029,
       "formatted_time": "2025-11-01 18:13:49",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761992880,
       "formatted_time": "2025-11-01 18:28:00",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "幸敬富 Winston Hendarto"
     },
     {
       "create_time": 1761992887,
       "formatted_time": "2025-11-01 18:28:07",
       "type": "文本消息",
       "str_content": "谢谢",
-      "sender": "对方"
+      "sender_name": "幸敬富 Winston Hendarto"
     },
     {
       "create_time": 1761992898,
       "formatted_time": "2025-11-01 18:28:18",
       "type": "文本消息",
       "str_content": "不客气，也很高兴认识你！",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:00+08:00",
+  "export_time": "2025-12-07T09:58:51+08:00",
   "message_count": 12
 }

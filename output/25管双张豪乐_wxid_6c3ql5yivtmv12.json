@@ -7,37 +7,37 @@
       "formatted_time": "2025-09-11 22:25:39",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "25管双张豪乐"
     },
     {
       "create_time": 1757600739,
       "formatted_time": "2025-09-11 22:25:39",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "25管双张豪乐"
     },
     {
       "create_time": 1757600747,
       "formatted_time": "2025-09-11 22:25:47",
       "type": "文本消息",
       "str_content": "哈喽哈喽！",
-      "sender": "对方"
+      "sender_name": "25管双张豪乐"
     },
     {
       "create_time": 1757600756,
       "formatted_time": "2025-09-11 22:25:56",
       "type": "文本消息",
       "str_content": "我是25管双张豪乐",
-      "sender": "对方"
+      "sender_name": "25管双张豪乐"
     },
     {
       "create_time": 1757600786,
       "formatted_time": "2025-09-11 22:26:26",
       "type": "文本消息",
       "str_content": "哈咯哈咯！我是25数金徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 5
 }

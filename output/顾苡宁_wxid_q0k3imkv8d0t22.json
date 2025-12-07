@@ -7,30 +7,30 @@
       "formatted_time": "2024-07-07 16:27:16",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "顾苡宁"
     },
     {
       "create_time": 1720340910,
       "formatted_time": "2024-07-07 16:28:30",
       "type": "文本消息",
       "str_content": "你好呀你好呀，我是华中科技大学徐昂~",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1720340967,
       "formatted_time": "2024-07-07 16:29:27",
       "type": "文本消息",
       "str_content": "你好呀！我是武汉大学的顾苡宁~",
-      "sender": "对方"
+      "sender_name": "顾苡宁"
     },
     {
       "create_time": 1720340981,
       "formatted_time": "2024-07-07 16:29:41",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "顾苡宁"
     }
   ],
-  "export_time": "2025-12-07T09:48:07+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 4
 }

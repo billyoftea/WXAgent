@@ -7,58 +7,58 @@
       "formatted_time": "2025-06-20 10:55:14",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1750388117,
       "formatted_time": "2025-06-20 10:55:17",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1750388162,
       "formatted_time": "2025-06-20 10:56:02",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "赵恩越"
     },
     {
       "create_time": 1750396529,
       "formatted_time": "2025-06-20 13:15:29",
       "type": "文本消息",
       "str_content": "学长",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1750396534,
       "formatted_time": "2025-06-20 13:15:34",
       "type": "文本消息",
       "str_content": "是不是你的剪刀在我这",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1750396704,
       "formatted_time": "2025-06-20 13:18:24",
       "type": "文本消息",
       "str_content": "应该不是，我昨天没带剪刀",
-      "sender": "对方"
+      "sender_name": "赵恩越"
     },
     {
       "create_time": 1750396718,
       "formatted_time": "2025-06-20 13:18:38",
       "type": "文本消息",
       "str_content": "okk",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1750396720,
       "formatted_time": "2025-06-20 13:18:40",
       "type": "文本消息",
       "str_content": "我记不太清了",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 8
 }

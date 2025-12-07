@@ -7,23 +7,23 @@
       "formatted_time": "2025-11-12 20:54:19",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "型刻--成卫"
     },
     {
       "create_time": 1762952059,
       "formatted_time": "2025-11-12 20:54:19",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "型刻--成卫"
     },
     {
       "create_time": 1762952597,
       "formatted_time": "2025-11-12 21:03:17",
       "type": "文本消息",
       "str_content": "[握手][握手]这段时间头发有什么问题都可以找我售后",
-      "sender": "对方"
+      "sender_name": "型刻--成卫"
     }
   ],
-  "export_time": "2025-12-07T09:48:00+08:00",
+  "export_time": "2025-12-07T09:58:51+08:00",
   "message_count": 3
 }

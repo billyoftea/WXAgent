@@ -7,37 +7,37 @@
       "formatted_time": "2025-09-19 20:34:47",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "黄紫凌"
     },
     {
       "create_time": 1758285287,
       "formatted_time": "2025-09-19 20:34:47",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "黄紫凌"
     },
     {
       "create_time": 1758285297,
       "formatted_time": "2025-09-19 20:34:57",
       "type": "文本消息",
       "str_content": "哈喽～我是25企管的黄紫凌",
-      "sender": "对方"
+      "sender_name": "黄紫凌"
     },
     {
       "create_time": 1758285301,
       "formatted_time": "2025-09-19 20:35:01",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "黄紫凌"
     },
     {
       "create_time": 1758285346,
       "formatted_time": "2025-09-19 20:35:46",
       "type": "文本消息",
       "str_content": "hihi 我是25数金徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:05+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 5
 }

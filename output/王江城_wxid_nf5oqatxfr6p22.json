@@ -7,51 +7,51 @@
       "formatted_time": "2025-10-24 19:34:52",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "王江城"
     },
     {
       "create_time": 1761305693,
       "formatted_time": "2025-10-24 19:34:53",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "王江城"
     },
     {
       "create_time": 1761306463,
       "formatted_time": "2025-10-24 19:47:43",
       "type": "文本消息",
       "str_content": "学姐好！我是深港 25 徐昂，专业是数量金科～\n好遗憾今天下午在打球没有看群消息[流泪][流泪]听婧彤说下午的 talk 超有干货，学姐人超好～好期待下次有机会还可以向学姐学习！！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1761310481,
       "formatted_time": "2025-10-24 20:54:41",
       "type": "文本消息",
       "str_content": "hiii你好！",
-      "sender": "对方"
+      "sender_name": "王江城"
     },
     {
       "create_time": 1761310484,
       "formatted_time": "2025-10-24 20:54:44",
       "type": "文本消息",
       "str_content": "没啥干货 都是八卦",
-      "sender": "对方"
+      "sender_name": "王江城"
     },
     {
       "create_time": 1761310487,
       "formatted_time": "2025-10-24 20:54:47",
       "type": "文本消息",
       "str_content": "[委屈]",
-      "sender": "对方"
+      "sender_name": "王江城"
     },
     {
       "create_time": 1761316703,
       "formatted_time": "2025-10-24 22:38:23",
       "type": "文本消息",
       "str_content": "八卦就是干货[色]对我们来说这都是不可泄露的天机了哈哈哈哈",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:01+08:00",
+  "export_time": "2025-12-07T09:58:52+08:00",
   "message_count": 7
 }

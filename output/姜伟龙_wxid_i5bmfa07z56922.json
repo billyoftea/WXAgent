@@ -7,37 +7,37 @@
       "formatted_time": "2023-08-29 23:53:41",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "姜伟龙"
     },
     {
       "create_time": 1693324481,
       "formatted_time": "2023-08-29 23:54:41",
       "type": "文本消息",
       "str_content": "学长[色]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1693324527,
       "formatted_time": "2023-08-29 23:55:27",
       "type": "文本消息",
       "str_content": "原来微信名还能加表情[恐惧]",
-      "sender": "对方"
+      "sender_name": "姜伟龙"
     },
     {
       "create_time": 1693324539,
       "formatted_time": "2023-08-29 23:55:39",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "姜伟龙"
     },
     {
       "create_time": 1693324570,
       "formatted_time": "2023-08-29 23:56:10",
       "type": "文本消息",
       "str_content": "我的非主流表情[机智]",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 5
 }

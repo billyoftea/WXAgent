@@ -7,65 +7,65 @@
       "formatted_time": "2023-04-07 23:53:09",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "周子琪"
     },
     {
       "create_time": 1680882796,
       "formatted_time": "2023-04-07 23:53:16",
       "type": "文本消息",
       "str_content": "好嘞徐哥",
-      "sender": "对方"
+      "sender_name": "周子琪"
     },
     {
       "create_time": 1680882800,
       "formatted_time": "2023-04-07 23:53:20",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1680882810,
       "formatted_time": "2023-04-07 23:53:30",
       "type": "文本消息",
       "str_content": "恰到周哥v了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1680882814,
       "formatted_time": "2023-04-07 23:53:34",
       "type": "文本消息",
       "str_content": "要开心一晚上了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1680882822,
       "formatted_time": "2023-04-07 23:53:42",
       "type": "文本消息",
       "str_content": "哈哈哈哈哈哈孩怕",
-      "sender": "对方"
+      "sender_name": "周子琪"
     },
     {
       "create_time": 1680882858,
       "formatted_time": "2023-04-07 23:54:18",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "周子琪"
     },
     {
       "create_time": 1680882877,
       "formatted_time": "2023-04-07 23:54:37",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1680882892,
       "formatted_time": "2023-04-07 23:54:52",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "周子琪"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 9
 }

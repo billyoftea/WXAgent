@@ -7,37 +7,37 @@
       "formatted_time": "2023-11-15 11:51:03",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "方菲"
     },
     {
       "create_time": 1700020275,
       "formatted_time": "2023-11-15 11:51:15",
       "type": "文本消息",
       "str_content": "徐昂哥好",
-      "sender": "对方"
+      "sender_name": "方菲"
     },
     {
       "create_time": 1700020795,
       "formatted_time": "2023-11-15 11:59:55",
       "type": "文本消息",
       "str_content": "这么客气",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1700020800,
       "formatted_time": "2023-11-15 12:00:00",
       "type": "文本消息",
       "str_content": "菲姐好[抱拳][抱拳]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1700020822,
       "formatted_time": "2023-11-15 12:00:22",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "方菲"
     }
   ],
-  "export_time": "2025-12-07T09:48:07+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 5
 }

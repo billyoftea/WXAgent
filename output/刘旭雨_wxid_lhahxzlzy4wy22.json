@@ -7,79 +7,79 @@
       "formatted_time": "2023-11-18 14:15:42",
       "type": "文本消息",
       "str_content": "这个表格里的政治面貌啥的要改成换的人的信息哈",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1700288142,
       "formatted_time": "2023-11-18 14:15:42",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1700288181,
       "formatted_time": "2023-11-18 14:16:21",
       "type": "文本消息",
       "str_content": "是的",
-      "sender": "对方"
+      "sender_name": "刘旭雨"
     },
     {
       "create_time": 1700288195,
       "formatted_time": "2023-11-18 14:16:35",
       "type": "文本消息",
       "str_content": "都是团员",
-      "sender": "对方"
+      "sender_name": "刘旭雨"
     },
     {
       "create_time": 1700288197,
       "formatted_time": "2023-11-18 14:16:37",
       "type": "文本消息",
       "str_content": "这个是已经改过的吗",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1700288199,
       "formatted_time": "2023-11-18 14:16:39",
       "type": "文本消息",
       "str_content": "还有民族",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1700288248,
       "formatted_time": "2023-11-18 14:17:28",
       "type": "文本消息",
       "str_content": "所有的信息都换成换的人是吗",
-      "sender": "对方"
+      "sender_name": "刘旭雨"
     },
     {
       "create_time": 1700288252,
       "formatted_time": "2023-11-18 14:17:32",
       "type": "文本消息",
       "str_content": "对的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1700288364,
       "formatted_time": "2023-11-18 14:19:24",
       "type": "文本消息",
       "str_content": "好的",
-      "sender": "对方"
+      "sender_name": "刘旭雨"
     },
     {
       "create_time": 1700288534,
       "formatted_time": "2023-11-18 14:22:14",
       "type": "文本消息",
       "str_content": "改好了",
-      "sender": "对方"
+      "sender_name": "刘旭雨"
     },
     {
       "create_time": 1700288543,
       "formatted_time": "2023-11-18 14:22:23",
       "type": "文本消息",
       "str_content": "好滴好滴",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:07+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 11
 }

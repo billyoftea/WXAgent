@@ -7,30 +7,30 @@
       "formatted_time": "2023-01-10 21:42:14",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "周楷"
     },
     {
       "create_time": 1673358212,
       "formatted_time": "2023-01-10 21:43:32",
       "type": "文本消息",
       "str_content": "同学你好哇！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1673360636,
       "formatted_time": "2023-01-10 22:23:56",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "周楷"
     },
     {
       "create_time": 1676812917,
       "formatted_time": "2023-02-19 21:21:57",
       "type": "文件消息",
       "str_content": "T42.docx",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 4
 }

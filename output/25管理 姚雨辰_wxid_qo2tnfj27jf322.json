@@ -7,37 +7,37 @@
       "formatted_time": "2025-09-11 22:36:14",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "25管理 姚雨辰"
     },
     {
       "create_time": 1757601374,
       "formatted_time": "2025-09-11 22:36:14",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "25管理 姚雨辰"
     },
     {
       "create_time": 1757601388,
       "formatted_time": "2025-09-11 22:36:28",
       "type": "文本消息",
       "str_content": "我是25管理班的姚雨辰～",
-      "sender": "对方"
+      "sender_name": "25管理 姚雨辰"
     },
     {
       "create_time": 1757601390,
       "formatted_time": "2025-09-11 22:36:30",
       "type": "文本消息",
       "str_content": "hihi！我是25金科的徐昂，很高兴认识你！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1757601402,
       "formatted_time": "2025-09-11 22:36:42",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "25管理 姚雨辰"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 5
 }

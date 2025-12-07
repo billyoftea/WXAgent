@@ -7,58 +7,58 @@
       "formatted_time": "2025-03-08 22:41:41",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "Karry"
     },
     {
       "create_time": 1741444937,
       "formatted_time": "2025-03-08 22:42:17",
       "type": "文本消息",
       "str_content": "你好呀~(＾◇^)/",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1741444952,
       "formatted_time": "2025-03-08 22:42:32",
       "type": "文本消息",
       "str_content": "大神",
-      "sender": "对方"
+      "sender_name": "Karry"
     },
     {
       "create_time": 1741444969,
       "formatted_time": "2025-03-08 22:42:49",
       "type": "文本消息",
       "str_content": "不不不我是菜鸡[捂脸][捂脸]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1750252070,
       "formatted_time": "2025-06-18 21:07:50",
       "type": "文本消息",
       "str_content": "你是华工的",
-      "sender": "对方"
+      "sender_name": "Karry"
     },
     {
       "create_time": 1750253423,
       "formatted_time": "2025-06-18 21:30:23",
       "type": "文本消息",
       "str_content": "啊对 我本科是华科的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1750253494,
       "formatted_time": "2025-06-18 21:31:34",
       "type": "文本消息",
       "str_content": "爱在武大",
-      "sender": "对方"
+      "sender_name": "Karry"
     },
     {
       "create_time": 1750253500,
       "formatted_time": "2025-06-18 21:31:40",
       "type": "文本消息",
       "str_content": "学在华工",
-      "sender": "对方"
+      "sender_name": "Karry"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 8
 }

@@ -7,30 +7,30 @@
       "formatted_time": "2025-09-14 18:37:46",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "邹天宇 25 金管"
     },
     {
       "create_time": 1757846266,
       "formatted_time": "2025-09-14 18:37:46",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "邹天宇 25 金管"
     },
     {
       "create_time": 1757849133,
       "formatted_time": "2025-09-14 19:25:33",
       "type": "文本消息",
       "str_content": "你好呀～我是金管邹天宇",
-      "sender": "对方"
+      "sender_name": "邹天宇 25 金管"
     },
     {
       "create_time": 1757849151,
       "formatted_time": "2025-09-14 19:25:51",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "邹天宇 25 金管"
     }
   ],
-  "export_time": "2025-12-07T09:48:02+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 4
 }

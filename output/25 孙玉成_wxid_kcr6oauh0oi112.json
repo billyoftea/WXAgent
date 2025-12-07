@@ -7,23 +7,23 @@
       "formatted_time": "2025-09-14 20:34:40",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "25 孙玉成"
     },
     {
       "create_time": 1757853281,
       "formatted_time": "2025-09-14 20:34:41",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "25 孙玉成"
     },
     {
       "create_time": 1757853301,
       "formatted_time": "2025-09-14 20:35:01",
       "type": "文本消息",
       "str_content": "25 孙玉成",
-      "sender": "对方"
+      "sender_name": "25 孙玉成"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 3
 }

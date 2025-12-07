@@ -7,373 +7,373 @@
       "formatted_time": "2023-06-03 17:19:21",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685783977,
       "formatted_time": "2023-06-03 17:19:37",
       "type": "位置消息",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685783989,
       "formatted_time": "2023-06-03 17:19:49",
       "type": "文本消息",
       "str_content": "没多远",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685784042,
       "formatted_time": "2023-06-03 17:20:42",
       "type": "文本消息",
       "str_content": "好嘞好嘞  我还以为是在江南边我这个区来",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685784103,
       "formatted_time": "2023-06-03 17:21:43",
       "type": "文本消息",
       "str_content": "我就在江南面定位有点不准，这里应该属于洪山区",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685784226,
       "formatted_time": "2023-06-03 17:23:46",
       "type": "位置消息",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685784237,
       "formatted_time": "2023-06-03 17:23:57",
       "type": "语音消息",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685784254,
       "formatted_time": "2023-06-03 17:24:14",
       "type": "语音消息",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685784266,
       "formatted_time": "2023-06-03 17:24:26",
       "type": "位置消息",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685784322,
       "formatted_time": "2023-06-03 17:25:22",
       "type": "文本消息",
       "str_content": "我看开车的话大概四五十分钟",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685784347,
       "formatted_time": "2023-06-03 17:25:47",
       "type": "文本消息",
       "str_content": "是的",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685784368,
       "formatted_time": "2023-06-03 17:26:08",
       "type": "文本消息",
       "str_content": "那我到时候打个车去[呲牙]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685784378,
       "formatted_time": "2023-06-03 17:26:18",
       "type": "文本消息",
       "str_content": "好的",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685974580,
       "formatted_time": "2023-06-05 22:16:20",
       "type": "文本消息",
       "str_content": "叔叔你明天有空吗[呲牙]要不你到我这边来，带你看看俺学校",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685974657,
       "formatted_time": "2023-06-05 22:17:37",
       "type": "文本消息",
       "str_content": "你要是有时间还是上这来吧",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685974733,
       "formatted_time": "2023-06-05 22:18:53",
       "type": "文本消息",
       "str_content": "你要是在武汉有房子，我早去了",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685974816,
       "formatted_time": "2023-06-05 22:20:16",
       "type": "文本消息",
       "str_content": "[呲牙]有买房子也不在武汉买",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685974852,
       "formatted_time": "2023-06-05 22:20:52",
       "type": "文本消息",
       "str_content": "你明天什么时候过来",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685974904,
       "formatted_time": "2023-06-05 22:21:44",
       "type": "文本消息",
       "str_content": "我估计晚上七点前到吧",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685974925,
       "formatted_time": "2023-06-05 22:22:05",
       "type": "文本消息",
       "str_content": "怎么这么晚",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685974971,
       "formatted_time": "2023-06-05 22:22:51",
       "type": "文本消息",
       "str_content": "那我看看调下课，大概五点半到",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685974992,
       "formatted_time": "2023-06-05 22:23:12",
       "type": "文本消息",
       "str_content": "好的",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685975890,
       "formatted_time": "2023-06-05 22:38:10",
       "type": "文本消息",
       "str_content": "你明天来后天走没事吧，在这里过一两天有时间吗",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685976282,
       "formatted_time": "2023-06-05 22:44:42",
       "type": "文本消息",
       "str_content": "我就不留了叔叔，学校晚上查寝不让外宿  后天早上也还有课来",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685976453,
       "formatted_time": "2023-06-05 22:47:33",
       "type": "文本消息",
       "str_content": "那你来这么晚在回去也麻烦也",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685976469,
       "formatted_time": "2023-06-05 22:47:49",
       "type": "文本消息",
       "str_content": "你明天白天忙什么？",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685976482,
       "formatted_time": "2023-06-05 22:48:02",
       "type": "文本消息",
       "str_content": "还上课来",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685976505,
       "formatted_time": "2023-06-05 22:48:25",
       "type": "文本消息",
       "str_content": "那我去找你，你不也没时间",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685976534,
       "formatted_time": "2023-06-05 22:48:54",
       "type": "文本消息",
       "str_content": "你要是有时间我去你那里也行",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685976556,
       "formatted_time": "2023-06-05 22:49:16",
       "type": "文本消息",
       "str_content": "你看你怎么方便",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685976559,
       "formatted_time": "2023-06-05 22:49:19",
       "type": "文本消息",
       "str_content": "我想着咱晚上一块吃顿饭拉拉呱来",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685976575,
       "formatted_time": "2023-06-05 22:49:35",
       "type": "文本消息",
       "str_content": "要不你来俺这边我带你逛逛学校也行",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685976610,
       "formatted_time": "2023-06-05 22:50:10",
       "type": "文本消息",
       "str_content": "我要是去、得中午去，下午就得来",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685976622,
       "formatted_time": "2023-06-05 22:50:22",
       "type": "文本消息",
       "str_content": "也行叔叔",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685976634,
       "formatted_time": "2023-06-05 22:50:34",
       "type": "文本消息",
       "str_content": "那我上午到中午应该都有空",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685976684,
       "formatted_time": "2023-06-05 22:51:24",
       "type": "文本消息",
       "str_content": "好的，还是我去吧，你别来了，太麻烦了，不如我去方便",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685976699,
       "formatted_time": "2023-06-05 22:51:39",
       "type": "文本消息",
       "str_content": "好嘞好嘞",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685976706,
       "formatted_time": "2023-06-05 22:51:46",
       "type": "文本消息",
       "str_content": "好的[OK]",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685976730,
       "formatted_time": "2023-06-05 22:52:10",
       "type": "文本消息",
       "str_content": "那你啥时候来到了给我说[呲牙]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1685976795,
       "formatted_time": "2023-06-05 22:53:15",
       "type": "文本消息",
       "str_content": "好的，到地方给你打电话，中午一起吃顿饭",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1685976851,
       "formatted_time": "2023-06-05 22:54:11",
       "type": "文本消息",
       "str_content": "嗯嗯好嘞",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1686018989,
       "formatted_time": "2023-06-06 10:36:29",
       "type": "文本消息",
       "str_content": "叔叔你大概啥时候到[呲牙]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1686019359,
       "formatted_time": "2023-06-06 10:42:39",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1686019375,
       "formatted_time": "2023-06-06 10:42:55",
       "type": "文本消息",
       "str_content": "刚到",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1686019398,
       "formatted_time": "2023-06-06 10:43:18",
       "type": "位置消息",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1686019401,
       "formatted_time": "2023-06-06 10:43:21",
       "type": "文本消息",
       "str_content": "是这个门不",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1686019477,
       "formatted_time": "2023-06-06 10:44:37",
       "type": "文本消息",
       "str_content": "我现在过去",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1686019500,
       "formatted_time": "2023-06-06 10:45:00",
       "type": "文本消息",
       "str_content": "是的",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1686019515,
       "formatted_time": "2023-06-06 10:45:15",
       "type": "位置消息",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1686023197,
       "formatted_time": "2023-06-06 11:46:37",
       "type": "转账卡片",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1686023205,
       "formatted_time": "2023-06-06 11:46:45",
       "type": "转账卡片",
       "str_content": "[??]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1686036118,
       "formatted_time": "2023-06-06 15:21:58",
       "type": "文本消息",
       "str_content": "到船上了",
-      "sender": "对方"
+      "sender_name": "三叔"
     },
     {
       "create_time": 1686036652,
       "formatted_time": "2023-06-06 15:30:52",
       "type": "文本消息",
       "str_content": "好嘞叔叔",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 53
 }

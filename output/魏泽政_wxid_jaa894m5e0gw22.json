@@ -7,23 +7,23 @@
       "formatted_time": "2024-02-25 11:54:47",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "魏泽政"
     },
     {
       "create_time": 1708833338,
       "formatted_time": "2024-02-25 11:55:38",
       "type": "文本消息",
       "str_content": "你好呀~我叫徐昂，请多多指教啦！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1708833355,
       "formatted_time": "2024-02-25 11:55:55",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "魏泽政"
     }
   ],
-  "export_time": "2025-12-07T09:48:06+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 3
 }

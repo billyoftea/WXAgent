@@ -7,114 +7,114 @@
       "formatted_time": "2025-09-06 21:45:24",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "张江怡"
     },
     {
       "create_time": 1757166324,
       "formatted_time": "2025-09-06 21:45:24",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "张江怡"
     },
     {
       "create_time": 1757166344,
       "formatted_time": "2025-09-06 21:45:44",
       "type": "文本消息",
       "str_content": "hihi我是金融投资23的张江怡，目前在基协tmt组，也是23级的会长团成员",
-      "sender": "对方"
+      "sender_name": "张江怡"
     },
     {
       "create_time": 1757166528,
       "formatted_time": "2025-09-06 21:48:48",
       "type": "文本消息",
       "str_content": "学姐好！真的很感谢学姐面试后的指导，能感受到学姐真的人美心善有在为俺考虑！也感受到了基协真的是个很有温度的大家庭，无论是否有机会加入基协都希望基协越来越好！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1757166860,
       "formatted_time": "2025-09-06 21:54:20",
       "type": "文本消息",
       "str_content": "💪💪",
-      "sender": "对方"
+      "sender_name": "张江怡"
     },
     {
       "create_time": 1757166945,
       "formatted_time": "2025-09-06 21:55:45",
       "type": "文本消息",
       "str_content": "另外想请教下学姐，您感觉二级投研技能在互联网产品中的可迁移性怎么样呢",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1757166997,
       "formatted_time": "2025-09-06 21:56:37",
       "type": "文本消息",
       "str_content": "二级和产品工作内容差别还挺大的，尤其是不同的产品需要的技能不太一样",
-      "sender": "对方"
+      "sender_name": "张江怡"
     },
     {
       "create_time": 1757167010,
       "formatted_time": "2025-09-06 21:56:50",
       "type": "文本消息",
       "str_content": "有机会你可以了解一下不同的产品",
-      "sender": "对方"
+      "sender_name": "张江怡"
     },
     {
       "create_time": 1757167036,
       "formatted_time": "2025-09-06 21:57:16",
       "type": "文本消息",
       "str_content": "比如传统的功能产品，涉及到写prd画原型图",
-      "sender": "对方"
+      "sender_name": "张江怡"
     },
     {
       "create_time": 1757167052,
       "formatted_time": "2025-09-06 21:57:32",
       "type": "文本消息",
       "str_content": "这些就离二级投研这种结构化思考比较远",
-      "sender": "对方"
+      "sender_name": "张江怡"
     },
     {
       "create_time": 1757167086,
       "formatted_time": "2025-09-06 21:58:06",
       "type": "文本消息",
       "str_content": "但是这种功能产品需要关注用户需求，某种程度也能跟消费投研有共通之处",
-      "sender": "对方"
+      "sender_name": "张江怡"
     },
     {
       "create_time": 1757167136,
       "formatted_time": "2025-09-06 21:58:56",
       "type": "文本消息",
       "str_content": "策略产品的话，更涉及对数据分析，具体的工作链路又和工作条线有关系",
-      "sender": "对方"
+      "sender_name": "张江怡"
     },
     {
       "create_time": 1757167207,
       "formatted_time": "2025-09-06 22:00:07",
       "type": "文本消息",
       "str_content": "至于ai产品相关的话，比如我做基础模型相关的，就偏策略，了解如何从数据集的角度发现badcase以及后续迭代",
-      "sender": "对方"
+      "sender_name": "张江怡"
     },
     {
       "create_time": 1757167245,
       "formatted_time": "2025-09-06 22:00:45",
       "type": "文本消息",
       "str_content": "agent的话，可能就比较偏功能产品，需要了解一线的工作流可能是怎样，用户有怎样的需求",
-      "sender": "对方"
+      "sender_name": "张江怡"
     },
     {
       "create_time": 1757167259,
       "formatted_time": "2025-09-06 22:00:59",
       "type": "文本消息",
       "str_content": "其他的你可以再从社交媒体上了解一下～",
-      "sender": "对方"
+      "sender_name": "张江怡"
     },
     {
       "create_time": 1757167408,
       "formatted_time": "2025-09-06 22:03:28",
       "type": "文本消息",
       "str_content": "好的好的，这些话的信息量好大哈哈哈，我结合其他的信息一起消化一下~！多谢学姐的指导！！[嘿哈][嘿哈][嘿哈]",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:02+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 16
 }

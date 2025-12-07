@@ -7,72 +7,72 @@
       "formatted_time": "2023-08-25 18:24:26",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "郑惠分"
     },
     {
       "create_time": 1692959082,
       "formatted_time": "2023-08-25 18:24:42",
       "type": "文本消息",
       "str_content": "hi，你好！",
-      "sender": "对方"
+      "sender_name": "郑惠分"
     },
     {
       "create_time": 1692961412,
       "formatted_time": "2023-08-25 19:03:32",
       "type": "文本消息",
       "str_content": "hihi！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1693545536,
       "formatted_time": "2023-09-01 13:18:56",
       "type": "文本消息",
       "str_content": "hello，我想问一下向你这边拿新生宿舍分布表是需要先拿到扫楼申请对吗？",
-      "sender": "对方"
+      "sender_name": "郑惠分"
     },
     {
       "create_time": 1693545545,
       "formatted_time": "2023-09-01 13:19:05",
       "type": "文本消息",
       "str_content": "对的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1693545553,
       "formatted_time": "2023-09-01 13:19:13",
       "type": "文本消息",
       "str_content": "嗯嗯好的",
-      "sender": "对方"
+      "sender_name": "郑惠分"
     },
     {
       "create_time": 1693558190,
       "formatted_time": "2023-09-01 16:49:50",
       "type": "图片消息",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "郑惠分"
     },
     {
       "create_time": 1693624021,
       "formatted_time": "2023-09-02 11:07:01",
       "type": "文件消息",
       "str_content": "经院新生住宿情况.xlsx",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1693624038,
       "formatted_time": "2023-09-02 11:07:18",
       "type": "文本消息",
       "str_content": "不好意思昨天有点忙没看到消息[捂脸]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1693624054,
       "formatted_time": "2023-09-02 11:07:34",
       "type": "文本消息",
       "str_content": "哦哦，没事没事",
-      "sender": "对方"
+      "sender_name": "郑惠分"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 10
 }

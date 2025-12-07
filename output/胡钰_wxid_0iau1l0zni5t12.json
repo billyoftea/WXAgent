@@ -7,72 +7,72 @@
       "formatted_time": "2025-08-15 12:30:05",
       "type": "文本消息",
       "str_content": "旺角东下吧",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1755232205,
       "formatted_time": "2025-08-15 12:30:05",
       "type": "文本消息",
       "str_content": "下一个先不下了",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1755310810,
       "formatted_time": "2025-08-16 10:20:10",
       "type": "文本消息",
       "str_content": "我们在哪里下",
-      "sender": "对方"
+      "sender_name": "胡钰"
     },
     {
       "create_time": 1755310821,
       "formatted_time": "2025-08-16 10:20:21",
       "type": "文本消息",
       "str_content": "金钟换乘",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1755310827,
       "formatted_time": "2025-08-16 10:20:27",
       "type": "文本消息",
       "str_content": "OK",
-      "sender": "对方"
+      "sender_name": "胡钰"
     },
     {
       "create_time": 1755312321,
       "formatted_time": "2025-08-16 10:45:21",
       "type": "文本消息",
       "str_content": "下一站哈",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1755312332,
       "formatted_time": "2025-08-16 10:45:32",
       "type": "文本消息",
       "str_content": "嗯嗯",
-      "sender": "对方"
+      "sender_name": "胡钰"
     },
     {
       "create_time": 1755486017,
       "formatted_time": "2025-08-18 11:00:17",
       "type": "文本消息",
       "str_content": "我们到五号楼了，你们上去了吗",
-      "sender": "对方"
+      "sender_name": "胡钰"
     },
     {
       "create_time": 1755486041,
       "formatted_time": "2025-08-18 11:00:41",
       "type": "文本消息",
       "str_content": "等一下，可能是因为这个车的终点不一样，我们再往5号楼走",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1755486048,
       "formatted_time": "2025-08-18 11:00:48",
       "type": "文本消息",
       "str_content": "OK",
-      "sender": "对方"
+      "sender_name": "胡钰"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 10
 }

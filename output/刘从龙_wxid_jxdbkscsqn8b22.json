@@ -7,23 +7,23 @@
       "formatted_time": "2023-09-26 17:35:57",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "刘从龙"
     },
     {
       "create_time": 1695721068,
       "formatted_time": "2023-09-26 17:37:48",
       "type": "文本消息",
       "str_content": "hello[嘿哈]学长",
-      "sender": "对方"
+      "sender_name": "刘从龙"
     },
     {
       "create_time": 1695723621,
       "formatted_time": "2023-09-26 18:20:21",
       "type": "文本消息",
       "str_content": "hihi",
-      "sender": "自己"
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:48:09+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 3
 }

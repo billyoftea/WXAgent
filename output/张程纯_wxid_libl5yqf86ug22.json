@@ -7,23 +7,23 @@
       "formatted_time": "2024-02-25 11:51:50",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "张程纯"
     },
     {
       "create_time": 1708833352,
       "formatted_time": "2024-02-25 11:55:52",
       "type": "文本消息",
       "str_content": "你好呀~我叫徐昂，请多多指教啦！",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1708833425,
       "formatted_time": "2024-02-25 11:57:05",
       "type": "文本消息",
       "str_content": "哈喽哈喽，宣传部张程纯，以后一起努力[玫瑰]",
-      "sender": "对方"
+      "sender_name": "张程纯"
     }
   ],
-  "export_time": "2025-12-07T09:48:07+08:00",
+  "export_time": "2025-12-07T09:58:57+08:00",
   "message_count": 3
 }

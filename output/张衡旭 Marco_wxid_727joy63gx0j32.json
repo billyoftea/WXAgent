@@ -7,37 +7,37 @@
       "formatted_time": "2025-11-03 20:39:31",
       "type": "系统消息",
       "str_content": "[????????]",
-      "sender": "对方"
+      "sender_name": "张衡旭 Marco"
     },
     {
       "create_time": 1762173572,
       "formatted_time": "2025-11-03 20:39:32",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "张衡旭 Marco"
     },
     {
       "create_time": 1762173581,
       "formatted_time": "2025-11-03 20:39:41",
       "type": "文本消息",
       "str_content": "张衡旭 Marco",
-      "sender": "对方"
+      "sender_name": "张衡旭 Marco"
     },
     {
       "create_time": 1762178490,
       "formatted_time": "2025-11-03 22:01:30",
       "type": "文本消息",
       "str_content": "hello，北大汇丰研一 fintech 徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1762178555,
       "formatted_time": "2025-11-03 22:02:35",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "张衡旭 Marco"
     }
   ],
-  "export_time": "2025-12-07T09:48:00+08:00",
+  "export_time": "2025-12-07T09:58:51+08:00",
   "message_count": 5
 }

@@ -7,23 +7,23 @@
       "formatted_time": "2025-06-18 00:04:37",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "王心妍"
     },
     {
       "create_time": 1750176330,
       "formatted_time": "2025-06-18 00:05:30",
       "type": "文本消息",
       "str_content": "王心妍",
-      "sender": "对方"
+      "sender_name": "王心妍"
     },
     {
       "create_time": 1750176336,
       "formatted_time": "2025-06-18 00:05:36",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "王心妍"
     }
   ],
-  "export_time": "2025-12-07T09:48:04+08:00",
+  "export_time": "2025-12-07T09:58:55+08:00",
   "message_count": 3
 }

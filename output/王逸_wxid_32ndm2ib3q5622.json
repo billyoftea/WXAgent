@@ -7,72 +7,72 @@
       "formatted_time": "2023-04-03 19:26:16",
       "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "sender": "对方"
+      "sender_name": "王逸"
     },
     {
       "create_time": 1680521200,
       "formatted_time": "2023-04-03 19:26:40",
       "type": "文本消息",
       "str_content": "笑死了一个法学项目四个经院人",
-      "sender": "对方"
+      "sender_name": "王逸"
     },
     {
       "create_time": 1680521214,
       "formatted_time": "2023-04-03 19:26:54",
       "type": "文本消息",
       "str_content": "我是国商21级的王逸",
-      "sender": "对方"
+      "sender_name": "王逸"
     },
     {
       "create_time": 1680521375,
       "formatted_time": "2023-04-03 19:29:35",
       "type": "文本消息",
       "str_content": "你好你好  我是21级的徐昂",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1680521379,
       "formatted_time": "2023-04-03 19:29:39",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1680521402,
       "formatted_time": "2023-04-03 19:30:02",
       "type": "文本消息",
       "str_content": "笑死了  是这样的  可能因为她摇人的那个群里好多经院的",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1684910910,
       "formatted_time": "2023-05-24 14:48:30",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "王逸"
     },
     {
       "create_time": 1684910941,
       "formatted_time": "2023-05-24 14:49:01",
       "type": "文本消息",
       "str_content": "你有做修改后的ppt吗，我想看一下再写那个项目概述",
-      "sender": "对方"
+      "sender_name": "王逸"
     },
     {
       "create_time": 1684910984,
       "formatted_time": "2023-05-24 14:49:44",
       "type": "文本消息",
       "str_content": "那个在我电脑上[发抖]要不我晚上考完试回去发你",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1684911005,
       "formatted_time": "2023-05-24 14:50:05",
       "type": "文本消息",
       "str_content": "Ok ok没事儿那等你考完",
-      "sender": "对方"
+      "sender_name": "王逸"
     }
   ],
-  "export_time": "2025-12-07T09:48:08+08:00",
+  "export_time": "2025-12-07T09:58:59+08:00",
   "message_count": 10
 }

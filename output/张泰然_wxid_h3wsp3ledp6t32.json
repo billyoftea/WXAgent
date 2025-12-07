@@ -7,30 +7,30 @@
       "formatted_time": "2025-02-02 23:46:36",
       "type": "文本消息",
       "str_content": "76饭",
-      "sender": "对方"
+      "sender_name": "张泰然"
     },
     {
       "create_time": 1738511860,
       "formatted_time": "2025-02-02 23:57:40",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "自己"
+      "sender_name": "自己"
     },
     {
       "create_time": 1738514262,
       "formatted_time": "2025-02-03 00:37:42",
       "type": "动画表情",
       "str_content": "[????]",
-      "sender": "对方"
+      "sender_name": "张泰然"
     },
     {
       "create_time": 1738514265,
       "formatted_time": "2025-02-03 00:37:45",
       "type": "转账卡片",
       "str_content": "[??]",
-      "sender": "对方"
+      "sender_name": "张泰然"
     }
   ],
-  "export_time": "2025-12-07T09:48:03+08:00",
+  "export_time": "2025-12-07T09:58:54+08:00",
   "message_count": 4
 }
