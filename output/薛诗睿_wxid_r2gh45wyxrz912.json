@@ -5,32 +5,32 @@
     {
       "create_time": 1737007763,
       "formatted_time": "2025-01-16 14:09:23",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "同学，想请教下，任城区团委具体是在哪个位置呀",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1737007841,
       "formatted_time": "2025-01-16 14:10:41",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "任兴商务中心",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1737007850,
       "formatted_time": "2025-01-16 14:10:50",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "A918",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1737007975,
       "formatted_time": "2025-01-16 14:12:55",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "嗯嗯好的好的，多谢~！",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:17+08:00",
+  "export_time": "2025-12-07T09:48:03+08:00",
   "message_count": 4
 }

@@ -6,31 +6,29 @@
       "create_time": 1662870251,
       "formatted_time": "2022-09-11 12:24:11",
       "type": "系统消息",
-      "str_content": "\"黄子峻\"邀请你加入了群聊，群聊参与人还有：Ennndd、张雨珊、董佳鹭、宋心月、小李加油、22经济刘芸伽、蒋宛真、徐图渐营、gentle mouse、南蠡",
-      "is_sender": 0
+      "str_content": "[????????]"
     },
     {
       "create_time": 1662870257,
       "formatted_time": "2022-09-11 12:24:17",
       "type": "系统消息",
-      "str_content": "\"黄子峻\"邀请\"赵恩越\"加入了群聊",
-      "is_sender": 0
+      "str_content": "[????????]"
     },
     {
       "create_time": 1662870428,
       "formatted_time": "2022-09-11 12:27:08",
-      "type": "文本",
-      "str_content": "wxid_baxonx5go1t722:\n昨天晓缘没吃多少也走的早，就不算她啦～",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "昨天晓缘没吃多少也走的早，就不算她啦～",
+      "sender_name": "李俊烨",
+      "sender_wxid": "wxid_baxonx5go1t722"
     },
     {
       "create_time": 1662870479,
       "formatted_time": "2022-09-11 12:27:59",
       "type": "系统消息",
-      "str_content": "群收款消息，请在手机上查看",
-      "is_sender": 0
+      "str_content": "[????????]"
     }
   ],
-  "export_time": "2025-12-06T19:12:26+08:00",
+  "export_time": "2025-12-07T09:48:09+08:00",
   "message_count": 4
 }

@@ -5,60 +5,60 @@
     {
       "create_time": 1698154865,
       "formatted_time": "2023-10-24 21:41:05",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "徐哥，今天党员进寝室你是不搞忘记了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1698154946,
       "formatted_time": "2023-10-24 21:42:26",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "啊啊？我当时进群是想参加来着，但今晚有个会冲了，那个是进群就参加的嘛",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1698155137,
       "formatted_time": "2023-10-24 21:45:37",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "嗷嗷，小朋友说发通知的时候是说进群就算报名了，那你还能来不，现在有俩寝室没分配党员",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1698155373,
       "formatted_time": "2023-10-24 21:49:33",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "嘶我十点的时候还有个会",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1698155414,
       "formatted_time": "2023-10-24 21:50:14",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "行",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1698155417,
       "formatted_time": "2023-10-24 21:50:17",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "没事",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1698155431,
       "formatted_time": "2023-10-24 21:50:31",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "不好意思不好意思  添麻烦了[抱拳]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1698155501,
       "formatted_time": "2023-10-24 21:51:41",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "没关系 小问题",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:22+08:00",
+  "export_time": "2025-12-07T09:48:07+08:00",
   "message_count": 8
 }

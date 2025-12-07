@@ -6,31 +6,31 @@
       "create_time": 1757650000,
       "formatted_time": "2025-09-12 12:06:40",
       "type": "系统消息",
-      "str_content": "以上是打招呼的消息",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1757650000,
       "formatted_time": "2025-09-12 12:06:40",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1757651119,
       "formatted_time": "2025-09-12 12:25:19",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "hihi，我是汇丰25硕，金科专业的徐昂，很高兴认识你~",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1757651135,
       "formatted_time": "2025-09-12 12:25:35",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "学长好！",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:19+08:00",
+  "export_time": "2025-12-07T09:48:05+08:00",
   "message_count": 4
 }

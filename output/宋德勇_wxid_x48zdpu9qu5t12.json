@@ -5,18 +5,18 @@
     {
       "create_time": 1738111087,
       "formatted_time": "2025-01-29 08:38:07",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "宋老师新年快乐！\n感谢老师的教导与帮助，祝您在新的一年身体健康，事业进步，阖家幸福！[福][福][福]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1738111139,
       "formatted_time": "2025-01-29 08:38:59",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd *\u0005\u0001\u0000\ufffd新年快乐！！[庆祝]\u0001\u0000\u000e)c",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "新年快乐！！[庆祝][庆祝][庆祝]",
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:16+08:00",
+  "export_time": "2025-12-07T09:48:02+08:00",
   "message_count": 2
 }

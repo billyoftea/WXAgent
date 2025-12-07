@@ -5,74 +5,74 @@
     {
       "create_time": 1700371495,
       "formatted_time": "2023-11-19 13:24:55",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "hihi",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1700371502,
       "formatted_time": "2023-11-19 13:25:02",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我们下周四下午要开学代会",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1700371515,
       "formatted_time": "2023-11-19 13:25:15",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "可能要我们摄影部出两个左右靠谱的人拍拍照",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1700371765,
       "formatted_time": "2023-11-19 13:29:25",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "收到",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1728305563,
       "formatted_time": "2024-10-07 20:52:43",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd`\u0005\u0000\ufffd\u0006\u0000R\ufffd0-\ufffd\ufffdm\ufffd%mz03\ufffd\u0016Wz\ufffd\ufffd)HF\ufffd[\ufffdZ\ufffdk\ufffd\ufffd\ufffd\u000f}DK\ufffd\ufffd\ufffd\ufffdF\ufffd\u0000L\ufffd&h\ufffd\ufffd\ufffdM\ufffd\u001c\ufffdz \ufffd\t;\ufffd\u0015\"o\u0011\ufffd\u0000\ufffdM\ufffd\u0005\ufffdG\ufffd\ufffd\ufffd\ufffdl\u0003\ufffdк\ufffdeH\ufffdQ/f6\ufffd-\ufffd\ufffdɻG\ufffdf\ufffd\ufffd\u0017U\ufffd\ufffd\u0003\ufffd\u000b\b\ufffd\u0002\ufffd#!\ufffdg\ufffd\ufffdl\u0018\ufffd\ufffda\u0005|Zu\ufffd\"C\u001c\ufffdZ\ufffd\ufffdW\u0000\ufffd\ufffd\ufffdp\u0000\b\ufffd\ufffd\ufffd\ufffda\ufffd\u0001[\ufffd\ufffda\ufffd\ufffdb\ufffd\ufffd\ufffdT\u001d\u001b\ufffd\ufffd\ufffd4\ufffdM^\ufffd Q\ufffdK\ufffd\ufffd\u0016v\u000fy\ufffd6\ufffdZ\ufffd\ufffdZ\ufffdQ\ufffd\t\ufffda\ufffd\u0006\b\u0000x\ufffd\ufffdz\ufffdf\ufffd\ufffd\b\ufffd\ufffd\u0018\ufffdm\u0005\ufffdQa\ufffdY!\u0003",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "学长，想求一份高级微观高级宏观还有一些大三比较难的课程的攻略[抱拳][抱拳][抱拳]（想知道主要的学习方法，比如重视书上的习题还是什么，考试难度怎么样，或者有没有什么资料之类的呢？）",
+      "sender": "对方"
     },
     {
       "create_time": 1728305599,
       "formatted_time": "2024-10-07 20:53:19",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我这个专业不学高微高宏哈，你可以问下经济学和经创的学长姐",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1728305608,
       "formatted_time": "2024-10-07 20:53:28",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "大三的专业课程差距还是蛮大的",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1728305638,
       "formatted_time": "2024-10-07 20:53:58",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "噢噢，我看你发过好像要上高级计量我以为你也学这个",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1728305643,
       "formatted_time": "2024-10-07 20:54:03",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好滴，打扰啦",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1728305651,
       "formatted_time": "2024-10-07 20:54:11",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "嗯嗯没事的",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:22+08:00",
+  "export_time": "2025-12-07T09:48:06+08:00",
   "message_count": 10
 }

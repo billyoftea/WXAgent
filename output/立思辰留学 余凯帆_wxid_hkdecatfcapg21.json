@@ -5,60 +5,60 @@
     {
       "create_time": 1729735067,
       "formatted_time": "2024-10-24 09:57:47",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你好，再确认下，是后天分享？",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1729735102,
       "formatted_time": "2024-10-24 09:58:22",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "发错了咩[疑问]",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1729735208,
       "formatted_time": "2024-10-24 10:00:08",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "嗯嗯不是石彦斌同学把我推你的吗[破涕为笑]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1729735465,
       "formatted_time": "2024-10-24 10:04:25",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我以为是石侏雅同学是信管外联的。",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1729735479,
       "formatted_time": "2024-10-24 10:04:39",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "🤔",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1729735513,
       "formatted_time": "2024-10-24 10:05:13",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "[发呆]我是经济学院的诶，，，？而且也不认识她",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1729735523,
       "formatted_time": "2024-10-24 10:05:23",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "那搞错了。",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1729735554,
       "formatted_time": "2024-10-24 10:05:54",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "[合十]",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:17+08:00",
+  "export_time": "2025-12-07T09:48:03+08:00",
   "message_count": 8
 }

@@ -6,38 +6,38 @@
       "create_time": 1686538935,
       "formatted_time": "2023-06-12 11:02:15",
       "type": "系统消息",
-      "str_content": "你已添加了初见，现在可以开始聊天了。",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1686538949,
       "formatted_time": "2023-06-12 11:02:29",
-      "type": "名片",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0000\ufffd\n\u0000ƓL> \ufffdj\u001b\ufffd\ufffdw\u0004\ufffd\u0004\u0000\ufffd\ufffd<\u0013\ufffd\ufffd\"\u00108\u000e\u0013\ufffd\u0019\ufffd\ufffdi\ufffdhP,T\ufffdW\ufffd/\ufffd:I쀺\ufffd2\ufffdF\u0017\ufffd)U\ufffdb\ufffd\u0014\ufffd\ufffd\ufffd\u0002\u0002\u0002\u0016\u000e8\u0000<\u0000@\u0000\ufffdӿM\ufffdF\ufffd\ufffd\ufffd\ufffd\ufffdd\ufffd\ufffd9\ufffd\ufffdY\ufffd\ufffd\ufffd.\ufffd\ufffdvF'}`\ufffdyf\"\u0016\rZo\ufffd\ufffd%\ufffd\ufffd\ufffd\ufffdպ|n\ufffd\ufffdz\ufffdMs\u000e\u0001\ufffd0\u0004Ju\ufffd\ufffd\u0001\u0005T\ufffd\b\u0003\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffdݪ\ufffd\u000e2\u0010\n \u0010\ufffd\ufffdx\ufffdF\u0007\u0010\u0002G\nB\ufffdOo\ufffd\ufffd\ufffd\ufffd^\ufffd\\\ufffd}\ufffd\ufffdO\\\ufffd\ufffd\u0005\ufffdj^~\ufffdy\u001d\ufffdr\ufffd\ufffdI\ufffdw\ufffdsՐ>У\ufffd\nI\ufffd\n}T\ufffd\u000f\ufffd\ufffd\ufffd\u001a,I\u0007!abI(\ufffd\ufffd\ufffd0,\\\ufffdS\u0003\ufffd\u0017\u0007\ufffd\u000f\ufffd`\u0001\n\u0014 <\u0010\u000f\n\u001c\u0015\ufffd~'ggl\ufffdc\u001b\ufffd\ufffd\ufffd\ufffd\ufffd\f_.\ufffd\ufffd\ufffdmZ\ufffd\ufffdj\u0017_\ufffd\ufffdf\ufffd\ufffd\ufffdy\u000eclƸ\ufffdNdwf\ufffd\ufffd<\ufffdn\ufffd\\n\u0001\u000f\u0000\nK@\ufffd\ufffd\ufffd֜\ufffdj\t\ufffd\ufffd\nx\ufffdYIf\ufffd\u0017\u0001\ufffd\t\u0004\ufffd\ufffd\ufffd\ufffdI\ufffd\ufffd\u001e(9Nl\ufffd\u0001",
-      "is_sender": 0
+      "type": "名片消息",
+      "str_content": "[????]",
+      "sender": "自己"
     },
     {
       "create_time": 1686538956,
       "formatted_time": "2023-06-12 11:02:36",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "刘辉刘总",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1686538988,
       "formatted_time": "2023-06-12 11:03:08",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好勒好勒，谢谢您",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1686539000,
       "formatted_time": "2023-06-12 11:03:20",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "没事没事 你们辛苦啦",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:25+08:00",
+  "export_time": "2025-12-07T09:48:08+08:00",
   "message_count": 5
 }

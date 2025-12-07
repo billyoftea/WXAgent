@@ -6,52 +6,52 @@
       "create_time": 1761305692,
       "formatted_time": "2025-10-24 19:34:52",
       "type": "系统消息",
-      "str_content": "以上是打招呼的消息",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1761305693,
       "formatted_time": "2025-10-24 19:34:53",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1761306463,
       "formatted_time": "2025-10-24 19:47:43",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\ufffd\u0006\u0000\"\ufffd12pi\ufffd\u0001<\bى\ufffd\ufffd\u0019\ufffdv\ufffd\ufffd\ufffd\ufffd\ufffdz\ufffd3L\ufffd\u0013>\ufffdm\u0004\ufffd\ufffdM\ufffd\b\ufffd\u0016\ufffdv@*\u0003$\u0010\ufffd*A\ufffdPU\u0014\ufffd\ufffd\ufffdGo\ufffd\ufffd)\ufffd\ufffd`_\u001b\ufffd\ufffd\ufffd2\ufffd\ufffd\ufffd\u0016\u001f\ufffdO,\ufffd&?[C\ufffd׫%\ufffd\ufffd8M\ufffd\u0007\ufffdX\ufffd\ufffdh:\ufffd2\ufffd)0 8p\u0014*\ufffd\ufffd\ufffdU\u001b\ufffd\ufffd\u0005\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0005\ufffd;\ufffd\ufffdڬ\u0014m\u0014?\ufffd<\u0001\ufffdHt\ufffd\ufffdPCK\ufffd+V3lx[\ufffd\ufffd\ufffd\ufffd\ufffd\rI\ufffd\u0013f'G\u0007qt\u0014\u000e\ufffdԫɑ\ufffd\u000fz\u0011\ufffdí\ufffd\u0000\u0000G\ufffdW`\\R\ufffd\ufffd?z\ufffd\ufffd\u0010kʥ\u0003\u0005\u0000\ufffd:/f\ufffd\ufffd\ufffd1\ufffd0\ufffd=\ufffdD\u0001",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "学姐好！我是深港 25 徐昂，专业是数量金科～\n好遗憾今天下午在打球没有看群消息[流泪][流泪]听婧彤说下午的 talk 超有干货，学姐人超好～好期待下次有机会还可以向学姐学习！！",
+      "sender": "自己"
     },
     {
       "create_time": 1761310481,
       "formatted_time": "2025-10-24 20:54:41",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "hiii你好！",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1761310484,
       "formatted_time": "2025-10-24 20:54:44",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "没啥干货 都是八卦",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1761310487,
       "formatted_time": "2025-10-24 20:54:47",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "[委屈]",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1761316703,
       "formatted_time": "2025-10-24 22:38:23",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "八卦就是干货[色]对我们来说这都是不可泄露的天机了哈哈哈哈",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:13+08:00",
+  "export_time": "2025-12-07T09:48:01+08:00",
   "message_count": 7
 }

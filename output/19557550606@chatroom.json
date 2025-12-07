@@ -5,123 +5,125 @@
     {
       "create_time": 1642848712,
       "formatted_time": "2022-01-22 18:51:52",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\ufffd\u0006\u0000\ufffd\faa774273416:\n@所有人   \n恭喜各位通过第一轮面试，明日下午14:00进行第二\n\n本次是群体请大家提前协调好时间。准时参加。有其他问题可私聊我\n\n收到\ufffd\ufffd复1\u0003\u0000\ufffd\u0015!6B\ufffd\u001e\ufffd\ufffd\u0019",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "aa774273416:\n@所有人   \n恭喜各位通过第一轮面试，明日下午14:00进行第二轮面试，\n\n本次是群体面试，请大家提前协调好时间。准时参加。有其他问题可私聊我\n\n收到请回复1"
     },
     {
       "create_time": 1642848713,
       "formatted_time": "2022-01-22 18:51:53",
       "type": "系统消息",
-      "str_content": "\"平平无奇\"与群里其他人都不是微信朋友关系，请注意隐私安全",
-      "is_sender": 0
+      "str_content": "[????????]"
     },
     {
       "create_time": 1642848713,
       "formatted_time": "2022-01-22 18:51:53",
       "type": "系统消息",
-      "str_content": "\"vvvvvvvvvvvvv\"邀请你和\"平平无奇、董佳鹭、jam jam、火山灰🗻、一只墙头草、Jason.Meng、21经济赵泽勇、天生我才必有用、赶路人\"加入了群聊",
-      "is_sender": 0
+      "str_content": "[????????]"
     },
     {
       "create_time": 1642848723,
       "formatted_time": "2022-01-22 18:52:03",
-      "type": "文本",
-      "str_content": "wxid_wrkfugfg610x22:\n1",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "1",
+      "sender_name": "wrench",
+      "sender_wxid": "wxid_wrkfugfg610x22"
     },
     {
       "create_time": 1642848738,
       "formatted_time": "2022-01-22 18:52:18",
-      "type": "文本",
-      "str_content": "wxid_qtsb5p82u7jh22:\n1",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "1",
+      "sender_name": "赵泽勇",
+      "sender_wxid": "wxid_qtsb5p82u7jh22"
     },
     {
       "create_time": 1642849803,
       "formatted_time": "2022-01-22 19:10:03",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "1",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1642849978,
       "formatted_time": "2022-01-22 19:12:58",
-      "type": "文本",
-      "str_content": "wxid_rvvhpqa0ogod22:\n1",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "1",
+      "sender_name": "王琪",
+      "sender_wxid": "wxid_rvvhpqa0ogod22"
     },
     {
       "create_time": 1642849986,
       "formatted_time": "2022-01-22 19:13:06",
-      "type": "文本",
-      "str_content": "wxid_9tevng3slca722:\n1",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "1",
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
     },
     {
       "create_time": 1642850079,
       "formatted_time": "2022-01-22 19:14:39",
-      "type": "文本",
-      "str_content": "wxid_4mtfr9ppvrvz22:\n1",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "1",
+      "sender_name": "Aphrodite",
+      "sender_wxid": "wxid_4mtfr9ppvrvz22"
     },
     {
       "create_time": 1642850088,
       "formatted_time": "2022-01-22 19:14:48",
-      "type": "文本",
-      "str_content": "wxid_zljh6tfmw7k022:\n1",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "1",
+      "sender_name": "邢瑞彤",
+      "sender_wxid": "wxid_zljh6tfmw7k022"
     },
     {
       "create_time": 1642916041,
       "formatted_time": "2022-01-23 13:34:01",
-      "type": "文本",
-      "str_content": "aa774273416:\n@所有人 \n面试提醒：距离面试还有不到半小时，大家做好准备~",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "aa774273416:\n@所有人 \n面试提醒：距离面试还有不到半小时，大家做好准备~"
     },
     {
       "create_time": 1642916890,
       "formatted_time": "2022-01-23 13:48:10",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd`\u0002\u0000\ufffd\u0007\u0000\ufffd\raa774273416:\n邀请您参加腾讯会议\n主题：第二次面试预定的时间：2022/01/23 14:00-15:00 (GMT+08:00) 中国标准 - 北京\n\n点击链接入会，或添\ufffd\ufffd列表：\nhttps://meeting.tencent.com/dm/ODVuaC6YaKrZ\u0005\u0000z\f\ufffdʄ\ufffd[\r0Q\ufffd\u0017\r\ufffd\f",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "aa774273416:\n邀请您参加腾讯会议\n会议主题：第二次面试预定的会议\n会议时间：2022/01/23 14:00-15:00 (GMT+08:00) 中国标准时间 - 北京\n\n点击链接入会，或添加至会议列表：\nhttps://meeting.tencent.com/dm/ODVuaC6YaKrZ"
     },
     {
       "create_time": 1642916901,
       "formatted_time": "2022-01-23 13:48:21",
-      "type": "文本",
-      "str_content": "aa774273416:\n@所有人   大家可以进来了~~~",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "aa774273416:\n@所有人   大家可以进来了~~~"
     },
     {
       "create_time": 1642920953,
       "formatted_time": "2022-01-23 14:55:53",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffdM\u0006\u0000\"\ufffd.1pi\ufffd\u0001\u001c\ufffd\ufffdR\u0004U\ufffdm\ufffd?=\f\"\ufffd\ufffd\ufffd\u001d\u0011\ufffd\ufffd\ufffd\ufffdJl\ufffdʆ~+\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd2\ufffdb\ufffd\ufffd:qp\ufffdG\u0005c\u000b^@\ufffdS4l\ufffd,\u0006:7YI\ufffdn\ufffd\ufffd\ufffdt\ufffd\ufffd\ufffd\ufffd\ufffdO$\ufffd \ufffd\ufffd0\ufffd\ufffd\ufffdXי\u0002;,\ufffd\ufffd\u0014\ufffd\ufffd\ufffdt\ufffd>}\u001b\n\ufffd\ufffd\ufffd3L\ufffdp!\u0016W\ufffd>\ufffd|\ufffd:\ufffdS\b\ufffd\bϫ\ufffd\u0012\ufffdf\ufffdfS+\ufffdG\ufffd\ufffdvy\u001df\ufffd\ufffd\u001bi\ufffd\\\ufffd\ufffdOP\ufffd0\ufffd\ufffd\ufffd29Rg0 h!\ufffdF\ufffd\ufffdh\r\u0000\n\b\u0002\u001a\u0003\ufffd@\ufffdq\u001c\ufffd\u0003\u0010\u0006\ufffd\u0001\ufffd8\u000bs\ufffd\u0002",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "aa774273416:\n@所有人   后续会给大家在安排一场对于咱们本次寒假实习训练营的总结分享，后边也会单独跟大家聊一聊本次训练营的感受和收获，请及时关注群内通知~~"
     },
     {
       "create_time": 1642920971,
       "formatted_time": "2022-01-23 14:56:11",
-      "type": "文本",
-      "str_content": "wxid_qtsb5p82u7jh22:\n好的[哇]",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "好的[哇]",
+      "sender_name": "赵泽勇",
+      "sender_wxid": "wxid_qtsb5p82u7jh22"
     },
     {
       "create_time": 1642920983,
       "formatted_time": "2022-01-23 14:56:23",
-      "type": "文本",
-      "str_content": "wxid_wrkfugfg610x22:\n好的👌🏻",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "好的👌🏻",
+      "sender_name": "wrench",
+      "sender_wxid": "wxid_wrkfugfg610x22"
     },
     {
       "create_time": 1642921004,
       "formatted_time": "2022-01-23 14:56:44",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0005M\u0016\u0000\ufffd1\ufffd#\u0010o\ufffd\u0011\ufffdRM\ufffdO\ufffdZ+R\ufffdhx\ufffd\ufffdIy\ufffd\ufffd\ufffd\ufffd䲛\u0007UDUUW\ufffd\ufffd\ufffd\u0000\ufffd\u0000\ufffd\u0000O1\ufffdDo\ufffd\ufffd3ҥ0Yz*}f\ufffdD\ufffdSo\ufffd\ufffd:UT\ufffdSU\ufffd\ufffd,ך\ufffdG\ufffdǲ o\ufffda\u0010e5\ufffdǜ\u0007U\ufffd\ufffd\ufffd\ufffd\ufffdXٿ\ufffd\ufffdW񲺢\u0005歏\ufffdS\ufffd\ufffd\u0012\ufffd\ufffde\ufffd\ufffd<U\ufffd\ufffd\ufffd\ufffdT\ufffd\u0019\ufffd\u0003ذ\ufffdsޓl\ufffd\ufffdZ\ufffd\ufffd)U\u001f\ufffdੲ˵\ufffd\ufffd\u0013\u00148\"\ufffd`\u0001\u0010XZ\ufffd\u000bg\ufffdm\ufffd\ufffd\ufffd#\ufffd\ufffd^\ufffd$\u001e\ufffd\ufffd\ufffd\ufffd\u001cz;\ufffd\ufffd\ufffd͟z\ufffd\ufffdr\ufffd1\ufffdT\"\ufffd\ufffd݁\ufffd9\r\ufffd\ufffd\ufffdڽ)\ufffdn\ufffdz>\ufffd]\ufffd֖\ufffd\ufffd\ufffd\ufffd5\ufffd\ufffd\ufffd۟\ufffd_\ufffd\ufffd\ufffd\u0001\nπ\u0007\u001b\ufffd9=\ufffd\ufffdT\ufffd\u001ci\\{\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd2\u0010\bC3CQ\ufffd2i\u001a\u0001*\ufffdh=\ufffdJ\"U\ufffd\ufffd9!\ufffd\ufffddq\ufffd\u0007\ufffd\ufffd\\6\ufffd\ufffd\ufffd\ufffdUTqs\ufffd\ufffd\ufffdH\u0015\u001e\ufffd9sw\ufffd\r\ufffd;\ufffd.\u001bR\ufffd\u0018}\ufffd۴\ufffdk\ufffd7\ufffdC\u0017\ufffd\ufffd3~\ufffd4S\ufffd\ufffdJ\ufffd\ufffdn\u001e^c\ufffdR\f\u0016\ufffdr\t\u0006\ufffd:\u000e\ufffd\u0006e\ufffd4 \tvb\ufffd\ufffd0\ufffd_=\u00140\u001c\ufffd\u0004}\u0012\ufffd\ufffd`\ufffd\u0005H\u0004\u0005#444\u0014 \ufffd\ufffd\ufffdb6\u00187\u0012e\ufffd\ufffd Lƅ0\ufffd\ufffd$\ufffd˪^r\ufffd\ufffd\ufffdeyk\ufffdԛq!)\ufffdy\ufffd\u000eFw\ufffd\ufffd\ufffd\ufffd\u000eBw\ufffd\u0001\u0005\ufffd\bn\b\n\ufffdJ\ufffd\u00187\ufffdYoD\ufffdG5=&\ufffd)\ufffd\ufffdGt\ufffd<+\u0011eɤ򲨜#\ufffd\ufffdhY\ufffd\ufffdz\ufffd\\\ufffddY\ufffdؿʠ\ufffd\ufffdӑ\ufffd]\ufffd\ufffdml\ufffdL\ufffdh\ufffd\ufffd\fJoޠ\ufffdmv\ufffd\u0013\ufffdt\u001b'4\ufffd\b\ufffd\ufffdΜ/\ufffd\ufffdf\ufffdJ\ufffdg\ufffd/˟\ufffd\ufffd\ufffd\ufffdt\ufffdP\ufffdm#e񽺝-N\ufffd\"?\ufffd\ufffd5 \ufffd\ufffd\ufffd*\ufffd\u001d!\ufffd\ufffdQP\ufffd\u001ea\u0002\ufffd{\ufffdb\ufffd\ufffd\u0000TZp\ufffd\u0001\ufffd\u000f7\ufffd-\u00169\ufffdP-X\ufffd\u0000\ufffd\ufffd\u0012\ufffdve\ufffd\ufffd\ufffdCE\ufffd\ufffd:Լf\ufffd\u0007`\ufffd\ufffdn\t\r=7vG\ufffd4\ufffd\ufffdZc\ufffd\u0006S\t\b\t\ufffd\ufffd>\ufffd\u0017ol\u0014\u001a\ufffd&z\ufffdڞ\ufffdp7:xp\ufffdಆF\b\ufffdP\u0007\ufffda1\ufffd]h\ufffd\u0017C\ufffd\ufffd\ufffdɈ\ufffdb",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender_name": "邢瑞彤",
+      "sender_wxid": "wxid_zljh6tfmw7k022"
     }
   ],
-  "export_time": "2025-12-06T19:12:26+08:00",
+  "export_time": "2025-12-07T09:48:09+08:00",
   "message_count": 17
 }

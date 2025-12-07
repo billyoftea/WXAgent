@@ -6,171 +6,194 @@
       "create_time": 1750213516,
       "formatted_time": "2025-06-18 10:25:16",
       "type": "系统消息",
-      "str_content": "(\ufffd/\ufffd`\u0005\u0005m\u0010\u0000\ufffd\u001553915924097@chatroom:\n<sysmsg type=\"template\">\n\t<>\n\t\t<content_tmpl__profil\t\t<plain><![CDATA[]]></\"$username$\"邀请你和\"$s$\"加入了群聊link_list =\"\"\t\t<memberwxid_415896712nick李曼菁</</ssyistyh7405n2聂宇豪28ss9x3czofd张涵菲rfwt9pno6w25谢晗雨n082h2bodj7国商2101宋志瀚v0xyoyh79wy3王雨柔mxmpor5c4r0a3尹轩\t<separator\ufffd\ufffd<//>\nF\ufffd\ufffd\u0015#\"\"\ufffd\u0005D\u0015\u0017\u001a\u0003\ufffd\"1e&\u001d\u0012 ri\u0010EaF`\ufffd@\t\ufffd\ufffd\u001f\u0013!F\u000f\ufffd\t\ufffd\tؖ\ufffd\ufffd\u0016\ufffd&\ufffd\u00031<\ufffd\u0000\ufffd\ufffd:\ufffd\ufffd\u0012\ufffd\ufffdڄ]5\ufffd9l\ufffd\u0001ΠmJ\ufffd\ufffd%\ufffd]\u0003p\ufffd>\u0000\ufffdX\ufffdK閶36\ufffd\ufffd\ufffd1\ufffd\ufffd\ufffdqE9\ufffd>\ufffd\ufffd\ufffd0C\ufffd\ufffdɲw\ufffd\ufffd\u0019\u001d\u001d\ufffd\ufffdNv\ufffd\ufffd1y\u001b\ufffdď\ufffd\ufffd\u0005G\ufffd\ufffd\ufffd/p5\u0004r\ufffd\ufffdJ\ufffd\ufffd\ufffdz-%&\ufffdŌ~\ufffd\u000f\ufffd\ufffd\ufffd\u0001Ʊ<c0JP\ufffd*",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender_name": "毕业典礼1号学位授予台",
+      "sender_wxid": "53915924097@chatroom"
     },
     {
       "create_time": 1750213516,
       "formatted_time": "2025-06-18 10:25:16",
-      "type": "文本",
-      "str_content": "wxid_4158961589712:\n请大家明天学位授予仪式一开始就集中下来到1号学位授予台准备@所有人 ",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "请大家明天学位授予仪式一开始就集中下来到1号学位授予台准备@所有人",
+      "sender_name": "李曼菁",
+      "sender_wxid": "wxid_4158961589712"
     },
     {
       "create_time": 1750214961,
       "formatted_time": "2025-06-18 10:49:21",
-      "type": "文本",
-      "str_content": "wxid_mxmpor5c4r0a32:\n收到",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "收到",
+      "sender_name": "尹轩",
+      "sender_wxid": "wxid_mxmpor5c4r0a32"
     },
     {
       "create_time": 1750214968,
       "formatted_time": "2025-06-18 10:49:28",
-      "type": "文本",
-      "str_content": "wxid_rfwt9pno6w2522:\n收到",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "收到",
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
     },
     {
       "create_time": 1750214973,
       "formatted_time": "2025-06-18 10:49:33",
-      "type": "文本",
-      "str_content": "wxid_rn082h2bodj722:\n收到",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "收到",
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
     },
     {
       "create_time": 1750214995,
       "formatted_time": "2025-06-18 10:49:55",
-      "type": "文本",
-      "str_content": "wxid_v0xyoyh79wy322:\n收到",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "收到",
+      "sender_name": "王雨柔",
+      "sender_wxid": "wxid_v0xyoyh79wy322"
     },
     {
       "create_time": 1750215906,
       "formatted_time": "2025-06-18 11:05:06",
-      "type": "文本",
-      "str_content": "wxid_28ss9x3czofd22:\n收到",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "收到",
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
     },
     {
       "create_time": 1750215947,
       "formatted_time": "2025-06-18 11:05:47",
-      "type": "文本",
-      "str_content": "wxid_syistyh7405n22:\n收到",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "收到",
+      "sender_name": "聂宇豪",
+      "sender_wxid": "wxid_syistyh7405n22"
     },
     {
       "create_time": 1750217307,
       "formatted_time": "2025-06-18 11:28:27",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "收到",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1750298381,
       "formatted_time": "2025-06-19 09:59:41",
-      "type": "文本",
-      "str_content": "wxid_4158961589712:\n你们找到位置了吗？直接从每内场穿过去吧",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "你们找到位置了吗？直接从每内场穿过去吧",
+      "sender_name": "李曼菁",
+      "sender_wxid": "wxid_4158961589712"
     },
     {
       "create_time": 1750298541,
       "formatted_time": "2025-06-19 10:02:21",
-      "type": "文本",
-      "str_content": "wxid_28ss9x3czofd22:\n我们在门外候场了",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我们在门外候场了",
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
     },
     {
       "create_time": 1750298565,
       "formatted_time": "2025-06-19 10:02:45",
-      "type": "文本",
-      "str_content": "wxid_4158961589712:\n好",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "好",
+      "sender_name": "李曼菁",
+      "sender_wxid": "wxid_4158961589712"
     },
     {
       "create_time": 1750298577,
       "formatted_time": "2025-06-19 10:02:57",
-      "type": "文本",
-      "str_content": "wxid_4158961589712:\n都到齐了吧",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "都到齐了吧",
+      "sender_name": "李曼菁",
+      "sender_wxid": "wxid_4158961589712"
     },
     {
       "create_time": 1750298607,
       "formatted_time": "2025-06-19 10:03:27",
-      "type": "文本",
-      "str_content": "wxid_mxmpor5c4r0a32:\n到齐了",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "到齐了",
+      "sender_name": "尹轩",
+      "sender_wxid": "wxid_mxmpor5c4r0a32"
     },
     {
       "create_time": 1750298914,
       "formatted_time": "2025-06-19 10:08:34",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd`\u0011\u0000\ufffd\u0007\u0000r\u000f83`\ufffd\ufffd\u0001rKݢh\ufffd\ufffd?\ufffd\ufffd\ufffd*a\ufffd\ufffd\ufffdJ\ufffd݉\ufffd\ufffd\ufffdҦ\u001b\ufffd\u001d\ufffd1\ufffduh8`\b\ufffd\ufffdcRh\u0000\u0001\\\u0010\"\ufffd\ufffdr\ufffd\ufffd ˪Oz\ufffdˤ\ufffd0\ufffd\ufffd\ufffdGZ\ufffd̾\ufffd\ufffd\ufffdDO\ufffd\ufffd\ufffd`\ufffdeOy,%}\u0016+\u001cOt5\ufffd\ufffdY\ufffdS\ufffdktT\ufffd\ufffd*\ufffde\ufffdK8\ufffdU\ufffdA\ufffd7p\u000f\ufffdi\ufffd\ufffdC\ufffd\u0015Q}\t\ufffd\"\ufffd,\ufffd\ufffd\ufffd \ufffd\u0015Q\ufffd\u0017œL\ufffd\ufffdS=\ufffd\ufffdG\ufffd\"\ufffd\ufffd\ufffdZE\ufffd3\u000eZ\ufffdx\ufffd\ufffdc\u001bsX\ufffd%yJ\ufffd\u0015\ufffd/\r㰄\ufffdi\ufffd\r\ufffd\ufffd\ufffd䪡\ufffd\u001ec\ufffd\u001b\ufffd\u0001\f\u0004\u0006\u0010\u0002 \u0004\t\u0005\u0010\ufffd\ufffdG\ufffdq\ufffd\ufffd\u0010q\b\u0006\u0000\ufffd\u0018n\u0016\ufffd\ufffdSd\ufffd\u0000\ufffdv\ufffd\ufffd\f",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "数学 物理 化学 生命 机械 材料 能源 电气 船海 电信 光电 未来 工科集成 自动化 计算机 航天 建规 土木 环境 网安 软件 设计 管理 经济 工管 人文 哲学 法学 社会 外国语 新传 体育 艺术 基医",
+      "sender_name": "尹轩",
+      "sender_wxid": "wxid_mxmpor5c4r0a32"
     },
     {
       "create_time": 1750301242,
       "formatted_time": "2025-06-19 10:47:22",
-      "type": "文本",
-      "str_content": "wxid_4158961589712:\n你们还在排队吗",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "你们还在排队吗",
+      "sender_name": "李曼菁",
+      "sender_wxid": "wxid_4158961589712"
     },
     {
       "create_time": 1750301246,
       "formatted_time": "2025-06-19 10:47:26",
-      "type": "文本",
-      "str_content": "wxid_4158961589712:\n进场内没有",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "进场内没有",
+      "sender_name": "李曼菁",
+      "sender_wxid": "wxid_4158961589712"
     },
     {
       "create_time": 1750301250,
       "formatted_time": "2025-06-19 10:47:30",
-      "type": "文本",
-      "str_content": "wxid_rn082h2bodj722:\n对，在排队",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "对，在排队",
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
     },
     {
       "create_time": 1750302968,
       "formatted_time": "2025-06-19 11:16:08",
-      "type": "文本",
-      "str_content": "wxid_4158961589712:\n你们拨完了吗",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "你们拨完了吗",
+      "sender_name": "李曼菁",
+      "sender_wxid": "wxid_4158961589712"
     },
     {
       "create_time": 1750302977,
       "formatted_time": "2025-06-19 11:16:17",
-      "type": "文本",
-      "str_content": "wxid_rn082h2bodj722:\n我们还没开始",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我们还没开始",
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
     },
     {
       "create_time": 1750302980,
       "formatted_time": "2025-06-19 11:16:20",
-      "type": "文本",
-      "str_content": "wxid_rn082h2bodj722:\n还在排队",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "还在排队",
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
     },
     {
       "create_time": 1750302980,
       "formatted_time": "2025-06-19 11:16:20",
-      "type": "文本",
-      "str_content": "wxid_28ss9x3czofd22:\n还在排队",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "还在排队",
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
     },
     {
       "create_time": 1750302984,
       "formatted_time": "2025-06-19 11:16:24",
-      "type": "文本",
-      "str_content": "wxid_28ss9x3czofd22:\n应该要挺久的",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "应该要挺久的",
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
     },
     {
       "create_time": 1750302988,
       "formatted_time": "2025-06-19 11:16:28",
-      "type": "文本",
-      "str_content": "wxid_rn082h2bodj722:\n[苦涩]",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "[苦涩]",
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
     }
   ],
-  "export_time": "2025-12-06T19:12:17+08:00",
+  "export_time": "2025-12-07T09:48:03+08:00",
   "message_count": 24
 }

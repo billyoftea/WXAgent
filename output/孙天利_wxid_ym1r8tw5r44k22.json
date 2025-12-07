@@ -5,39 +5,39 @@
     {
       "create_time": 1746927911,
       "formatted_time": "2025-05-11 09:45:11",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1746927923,
       "formatted_time": "2025-05-11 09:45:23",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "孙天利",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1746927931,
       "formatted_time": "2025-05-11 09:45:31",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "对不住了哈哈哈哈哈哈",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1746927936,
       "formatted_time": "2025-05-11 09:45:36",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`G\u0003\u0005\u000f\u0000\u0006\ufffdf%\u0010\ufffd\ufffd\u0001\ufffd_\ufffd\ufffd\ufffd\ufffdf\ufffd\ufffda\u0002\ufffd8x\ufffd\ufffd\ufffd\ufffdf\ufffdܢ(\u0019Ҍ\u0000\ufffd\ufffd\ufffd\ufffd\ufffd\u001bY\u0000R\u0000[\u0000T}\ufffdrTN\ufffd\ufffdLIKM\n\ufffd\ufffd\ufffd\u0014\ufffd\ufffd\ufffdZ\ufffd\ufffd\n\ufffd'\b\ufffd\ufffd\ufffd\ufffd\u0019\ufffd\ufffd\ufffdpa\ufffd6\ufffd\ufffdP\ufffd\ufffdi\ufffd9\ufffd\ufffd\ufffdp\ufffd\ufffd̴J\ufffd\ufffd\ufffd\"\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdጧ\ufffd\ufffdkcs\u001er-Sm\ufffd$\ufffdk7\u0001\ufffdQ\ufffd\ufffd\ufffd\u0016Ӧ\ufffd\ufffdVz\ufffd\ufffd\ufffdzW\ufffd\ufffd皳`U:[\ufffd\ufffdo\ufffd\ufffdPU\ufffd\ufffd\ufffd\ufffd\u001e/t\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd?)\ufffd_~}\ufffd\ufffd\ufffd|)\ufffd\ufffd\ufffdR\ufffd\u0012\ufffd\ufffd\ufffdI\ufffd\ufffdt\u000f?\ufffd\ufffd\ufffd\u000fz\u000f\ufffd`\ufffd\f \ufffdb\ufffd\ufffd\ufffd\ufffd2_va\ufffd*\u000f\ufffd\ufffd\u00027_M\ufffd\ufffd9k\ufffd\ufffd\ufffd\ufffd\ufffdB\u0018\ufffd{\ufffd\ufffdI\ufffd\ufffd\ufffd_g\ufffd\u0017\u0006\ufffdUѕ\ufffdXr\ufffd/\u0004\ufffd7\ufffdm\ufffd\u0016\ufffd\ufffd\ufffd4Vʹ갋\ufffd#\ufffdq\ufffd\ufffdb\ufffd\u0011{\ufffd\ufffd\u0013\ufffdfZ\ufffd\ufffdڈ&Qm\ufffdh\u0010M\ufffd0\ufffd\r\u0010\ufffd\ufffd\"\"e\u0015E\ufffd\u001c[\ufffd$\ufffd\u0007{\u0002 m\ufffd%\u000bj<0\ufffd\u0010X8\ufffdq\nJ\ufffd\u0005\ufffd\ufffd\u0016\ufffdGC&\ufffd\ufffdl\ufffd%D\"k\ufffdE\ufffd\ufffd@.\ufffdD\ufffd$\u0002i\u000b\ufffda\ufffd\u000e\"\u000b\ufffd\ufffd\ufffdA\u0018\u0003\ufffd\ufffd`\ufffd\ufffd\ufffd$\ufffd\ufffdA\ufffdA\ufffd\ufffd\u0012\u0018\u0000\u001c\u0019/;\ufffd\ufffdio\ufffd\t\ufffdz\n\u0005Ґ\ufffd%\u0002\ufffd\ufffdO\ufffd\ufffd\ufffd\ufffdesnSa8eP\ufffdN\ufffdߩc\ufffd\ufffdB\f\u00103\ufffd\ufffd\ufffde~\ufffd8\ufffd\ufffdc:\ufffd\ufffdZR\ufffd\ufffd\u0019",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "对方"
     },
     {
       "create_time": 1746927988,
       "formatted_time": "2025-05-11 09:46:28",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd -\u001d\u0001\u0000\ufffd莫欺少年穷中老年穷\u0002\u0000\ufffd\u000f2\ufffd:",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "莫欺少年穷莫欺中年穷莫欺老年穷",
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:17+08:00",
+  "export_time": "2025-12-07T09:48:03+08:00",
   "message_count": 5
 }

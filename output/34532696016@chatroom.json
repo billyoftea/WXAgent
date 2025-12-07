@@ -5,39 +5,42 @@
     {
       "create_time": 1695798554,
       "formatted_time": "2023-09-27 15:09:14",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "11",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1695798558,
       "formatted_time": "2023-09-27 15:09:18",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "when",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1695800838,
       "formatted_time": "2023-09-27 15:47:18",
-      "type": "文本",
-      "str_content": "wxid_k42yl12t1bag22:\n擦我今天不行了",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "擦我今天不行了",
+      "sender_name": "蒋泰延",
+      "sender_wxid": "wxid_k42yl12t1bag22"
     },
     {
       "create_time": 1695800844,
       "formatted_time": "2023-09-27 15:47:24",
-      "type": "文本",
-      "str_content": "wxid_k42yl12t1bag22:\n陪女朋友做月饼",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "陪女朋友做月饼",
+      "sender_name": "蒋泰延",
+      "sender_wxid": "wxid_k42yl12t1bag22"
     },
     {
       "create_time": 1695800846,
       "formatted_time": "2023-09-27 15:47:26",
-      "type": "文本",
-      "str_content": "wxid_k42yl12t1bag22:\n明天回家",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "明天回家",
+      "sender_name": "蒋泰延",
+      "sender_wxid": "wxid_k42yl12t1bag22"
     }
   ],
-  "export_time": "2025-12-06T19:12:25+08:00",
+  "export_time": "2025-12-07T09:48:09+08:00",
   "message_count": 5
 }

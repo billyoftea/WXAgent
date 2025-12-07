@@ -1,0 +1,267 @@
+{
+  "session_id": "gh_ff895549653f",
+  "session_name": "QuantML",
+  "messages": [
+    {
+      "create_time": 1761654846,
+      "formatted_time": "2025-10-28 20:34:06",
+      "type": "图文消息",
+      "str_content": "NeurIPS 25 ｜ AI投资：是财富密码，还是回测陷阱？",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761747251,
+      "formatted_time": "2025-10-29 22:14:11",
+      "type": "图文消息",
+      "str_content": "AI像顶级分析师一样思考：用LLM预测市场“黑天鹅”",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761827796,
+      "formatted_time": "2025-10-30 20:36:36",
+      "type": "图文消息",
+      "str_content": "美联储 ｜ 有形之手：基金经理预期与A股非对称价格效应",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761913892,
+      "formatted_time": "2025-10-31 20:31:32",
+      "type": "图文消息",
+      "str_content": "华尔街遇见大型强子对撞机：一种新的市场微观结构分析范式",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761996520,
+      "formatted_time": "2025-11-01 19:28:40",
+      "type": "图文消息",
+      "str_content": "“因子已死”？Man另类投资总监：后因子时代的Alpha",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762085673,
+      "formatted_time": "2025-11-02 20:14:33",
+      "type": "图文消息",
+      "str_content": "牛津 x JP Morgan ｜ 告别效用函数：GAN“克隆”基金经理",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762171735,
+      "formatted_time": "2025-11-03 20:08:55",
+      "type": "图文消息",
+      "str_content": "UCL x JP Morgan ｜ AI做市商悖论：利润飙升，对手滑点为何反降？",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762262027,
+      "formatted_time": "2025-11-04 21:13:47",
+      "type": "图文消息",
+      "str_content": "如何破解传统因子与新闻的融合困境？",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762348756,
+      "formatted_time": "2025-11-05 21:19:16",
+      "type": "图文消息",
+      "str_content": "240倍性能飞跃：首个GPU高频交易MARL框架",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762439219,
+      "formatted_time": "2025-11-06 22:26:59",
+      "type": "图文消息",
+      "str_content": "量化巨头也缺电？揭秘HRT内部如何“真正”使用 AI",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762510162,
+      "formatted_time": "2025-11-07 18:09:22",
+      "type": "图文消息",
+      "str_content": "“择时”与“对冲”双管齐下：OPHR强化学习征服波动率交易",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762691030,
+      "formatted_time": "2025-11-09 20:23:50",
+      "type": "图文消息",
+      "str_content": "DeltaLag: 挖掘动态领涨-滞涨Alpha",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762783726,
+      "formatted_time": "2025-11-10 22:08:46",
+      "type": "图文消息",
+      "str_content": "万字长文 | 文本情绪与公告：农产品期货的反事实因果分析",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762864827,
+      "formatted_time": "2025-11-11 20:40:27",
+      "type": "图文消息",
+      "str_content": "寻找顶级回报：新颖损失函数实现61.73%年回报与1.18夏普比率",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762952598,
+      "formatted_time": "2025-11-12 21:03:18",
+      "type": "图文消息",
+      "str_content": "解构市场：基于时间序列对比学习的资产嵌入框架",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763037301,
+      "formatted_time": "2025-11-13 20:35:01",
+      "type": "图文消息",
+      "str_content": "NeurIPS 25 | DMMV: 多模态视角可以为时间序列预测带来什么？",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763127396,
+      "formatted_time": "2025-11-14 21:36:36",
+      "type": "图文消息",
+      "str_content": "QF-LIB：诞生于CERN的机构级量化框架",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763294617,
+      "formatted_time": "2025-11-16 20:03:37",
+      "type": "图文消息",
+      "str_content": "超越Citadel ：HRT证明“延迟套利”已死",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763386477,
+      "formatted_time": "2025-11-17 21:34:37",
+      "type": "图文消息",
+      "str_content": "破译散户抱团密码：基于动态图嵌入与领域知识的Meme股行情预判",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763478465,
+      "formatted_time": "2025-11-18 23:07:45",
+      "type": "图文消息",
+      "str_content": "夏普 13 的“独角兽”策略？",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763560674,
+      "formatted_time": "2025-11-19 21:57:54",
+      "type": "图文消息",
+      "str_content": "为何因子因果分析是盈利的唯一前提？",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763643458,
+      "formatted_time": "2025-11-20 20:57:38",
+      "type": "图文消息",
+      "str_content": "基于在线集成学习的行业轮动策略",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763731272,
+      "formatted_time": "2025-11-21 21:21:12",
+      "type": "图文消息",
+      "str_content": "深度均值回归",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763809639,
+      "formatted_time": "2025-11-22 19:07:19",
+      "type": "图文消息",
+      "str_content": "FNIRVAR：挖掘高维因子模型下的隐含网络 Alpha",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763906007,
+      "formatted_time": "2025-11-23 21:53:27",
+      "type": "图文消息",
+      "str_content": "基于注意力机制的端到端统计套利模型",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763985693,
+      "formatted_time": "2025-11-24 20:01:33",
+      "type": "图文消息",
+      "str_content": "基于图像的配对交易框架",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764076070,
+      "formatted_time": "2025-11-25 21:07:50",
+      "type": "图文消息",
+      "str_content": "牛津大学 | 做市商的终极困境：如何破解“成交即亏损”的微观魔咒？",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764164621,
+      "formatted_time": "2025-11-26 21:43:41",
+      "type": "图文消息",
+      "str_content": "为什么你的策略回测完美，实盘腰斩？",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764246228,
+      "formatted_time": "2025-11-27 20:23:48",
+      "type": "图文消息",
+      "str_content": "解码高频算法交易的周期密码与隐藏Alpha",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764327716,
+      "formatted_time": "2025-11-28 19:01:56",
+      "type": "图文消息",
+      "str_content": "解码动量溢出：日内-隔夜收益的非对称结构",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764417798,
+      "formatted_time": "2025-11-29 20:03:18",
+      "type": "图文消息",
+      "str_content": "寻找“丑陋的优势”：在加密市场的混乱中收割超额Alpha",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764507328,
+      "formatted_time": "2025-11-30 20:55:28",
+      "type": "图文消息",
+      "str_content": "像交易员一样思考：ProtoHedge可解释性对冲模型",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764593648,
+      "formatted_time": "2025-12-01 20:54:08",
+      "type": "图文消息",
+      "str_content": "挖掘隐性 Alpha：基于动态共现图的股价预测模型",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764675748,
+      "formatted_time": "2025-12-02 19:42:28",
+      "type": "图文消息",
+      "str_content": "深度优于广度：线性模型样本外衰减",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764758785,
+      "formatted_time": "2025-12-03 18:46:25",
+      "type": "图文消息",
+      "str_content": "论文复现 | 基于隔夜与日间收益的d-LE-SC有向网络聚类",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764842803,
+      "formatted_time": "2025-12-04 18:06:43",
+      "type": "图文消息",
+      "str_content": "低延迟圣经：高频交易中的C++设计模式",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764985782,
+      "formatted_time": "2025-12-06 09:49:42",
+      "type": "图文消息",
+      "str_content": "小数点后的Alpha：限价单堆积如何预测股价走势",
+      "sender": "对方"
+    }
+  ],
+  "export_time": "2025-12-07T09:47:58+08:00",
+  "message_count": 37
+}

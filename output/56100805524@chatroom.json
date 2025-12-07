@@ -5,480 +5,512 @@
     {
       "create_time": 1744371208,
       "formatted_time": "2025-04-11 19:33:28",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "1",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744371210,
       "formatted_time": "2025-04-11 19:33:30",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你俩见过的",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744371224,
       "formatted_time": "2025-04-11 19:33:44",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我再拉拉看",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744371232,
       "formatted_time": "2025-04-11 19:33:52",
-      "type": "文本",
-      "str_content": "wxid_ynq76qcgzoad22:\nHallo",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "Hallo",
+      "sender_name": "张绍明",
+      "sender_wxid": "wxid_ynq76qcgzoad22"
     },
     {
       "create_time": 1744371278,
       "formatted_time": "2025-04-11 19:34:38",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n111",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "111",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744371365,
       "formatted_time": "2025-04-11 19:36:05",
-      "type": "文本",
-      "str_content": "wxid_ynq76qcgzoad22:\n明天不会下雨啊",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "明天不会下雨啊",
+      "sender_name": "张绍明",
+      "sender_wxid": "wxid_ynq76qcgzoad22"
     },
     {
       "create_time": 1744371444,
       "formatted_time": "2025-04-11 19:37:24",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n明天大风",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "明天大风",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744371468,
       "formatted_time": "2025-04-11 19:37:48",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0004}\u0015\u0000ƫz\"@\ufffd\ufffd\u0001\ufffd\u0016\ufffd\u001eX+Zr\ufffdl\ufffdݐ6\ufffdq\u0018V\ufffd\ufffdlI\ufffd\ufffdh\ufffd0&\u0004\"t\u0000n\u0000k\u0000\r(\ufffd\u0003\u001b\ufffdRZ\ufffd\ufffd\u000f\u0002\ufffd\ufffd@\ufffd\ufffd\ufffdj\ufffd\ufffdRT\ufffd\rU+M)\ufffd\ufffd\ufffd\ufffd\ufffd_\ufffd\ufffd\ufffd\u001c\ufffd\"-\fN\ufffd6a\u0007\ufffd\ufffd?\ufffd\ufffd|\ufffd\ufffd\u0005\ufffd(qZ\ufffd1\ufffd(MJ\ufffd\ufffd\ufffdg\ufffd\ufffd\ufffdUv\ufffd3ZQJhA?]\ufffd\ufffd\u0003\ufffdԉH*\ufffd\ufffd\t\u0005\ufffd\ufffd\t\ufffd\u0001f\ufffdh\u0003\ufffd=\ufffd=\ufffdI\u0002\ufffd\ufffdH\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdV\ufffd\ufffdn\ufffdf\ufffd͜{\ufffd6\ufffdժ[/w\ufffd\ufffdvg;\ufffdVY\ufffdx׾Cގ\ufffdV\ufffdZ\ufffd^\ufffd\ufffd\ufffd\u0017\ufffd!#\ufffdc\ufffd\ufffde\u0016@G\u001bM\ufffdBZ\ufffd\ufffdڵ|X\ufffd\u000e\ufffd>\ufffd\ufffdC\ufffdU\ufffd\ufffdH\ufffd\ufffd\b\ufffd\ufffd0ਕi8\ufffd\u0006>\ufffd\u0018\ufffdͰ\ufffd,\ufffd\u0007\ufffd\ufffd\u0011\ufffdZ+\ufffd\ufffd\ufffd]iD\ufffd\ufffd\ufffd\u0011\ufffd\ufffd\u0006cSv9\u0005\ufffdm9\ufffd\ufffd\u0016\ufffd\n\ufffd\ufffdc\ufffd\ufffd\ufffdQZL\bSQ\ufffd\ufffd\ufffd\ufffd!\ufffd\ufffd(1\ufffdZ\ufffdl\ufffd\ufffd%\ufffd/彚\ufffd۽]i\ufffd\n\ufffd\ufffdY\ufffdV\ufffd\ufffd݌\ufffdy\ufffd\ufffd\u001dZ\ufffd\u0003\ufffde¨V\ufffd\ufffd\ufffd}5\ufffd\ufffd\u000bwm\ufffdg\ufffd\n\ufffd3ildC礯J>\ufffd\u0014\ufffd\ufffd\ufffd6_\u001b\ufffdP\ufffd*\ufffd\ufffd\ufffd\ufffd@\ufffdCB\ufffd\ufffd\ufffd\u000b\ufffd\ufffd\ufffdA\ufffd4\ufffdph\ufffd>\ufffdW\ufffd\ufffds\ufffd:\ufffd\ufffd\nq\ufffd\ufffd\u0003qT\ufffd\u0014U\u0019\ufffd|\u0006\ufffd]*\ufffd\ufffd\ufffdPFPr\ufffdJ\u001e%\ufffd\ufffd b\ufffdJ\ufffd\ufffd\ufffd\u001dT\ufffdZQ\ufffdW\ufffdz\ufffd1\ufffd\ufffd\u001d3w\ufffd\ufffd\ufffd\ufffdݽ\u0003M\ufffd\ufffd$\ufffd\ufffdB\ufffdh\ufffdI\u0012$i\ufffdP\u0002Aʪ\ufffd\u0001\u0012@4Z\u001c\u0014\u001a$\ufffd\ufffd\t&~'\ufffd4\ufffdV\u0003\ufffd\u0001\ufffd㑥\ufffdã\u0002\ufffdO!\ufffd%~\u0014V,\ufffd\ufffdk\ufffdǞ\ufffd\ufffd\u0013;A<\u0003u\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd%\ufffd\ufffd\ufffd\ufffd\ufffdٙPK\ufffd&̅\ufffd\ufffdkYڃ\u0004K\ufffd\ufffd%\ufffd\u0012t\ufffd\ufffdݦ \ufffda1\ufffdlYJF\ufffdTQ\ufffd\u0001\ufffdѿ\ufffd\u0011%\u000bs\ufffd\u0012\ufffdm{B\u001d\\GY\ufffd\u0000Q\ufffd%\ufffdf\ufffdլ\u0006/\u0001x\ufffdQGO$1A\ufffd\u0019<\ufffd\ufffd/0\ufffd\ufffd\u001bˑ/GSc\ufffda\ufffd\ufffd=\ufffdp\u0019\ufffd\u001aT\ufffd\ufffd",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender_name": "张绍明",
+      "sender_wxid": "wxid_ynq76qcgzoad22"
     },
     {
       "create_time": 1744371552,
       "formatted_time": "2025-04-11 19:39:12",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你俩离得应该挺近吧",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744371554,
       "formatted_time": "2025-04-11 19:39:14",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "要不我过去",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744371562,
       "formatted_time": "2025-04-11 19:39:22",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你们附近有啥熟悉的k不",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744371570,
       "formatted_time": "2025-04-11 19:39:30",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n我去过纯k",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我去过纯k",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744371572,
       "formatted_time": "2025-04-11 19:39:32",
-      "type": "文本",
-      "str_content": "wxid_ynq76qcgzoad22:\n同学广场有",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "同学广场有",
+      "sender_name": "张绍明",
+      "sender_wxid": "wxid_ynq76qcgzoad22"
     },
     {
       "create_time": 1744371633,
       "formatted_time": "2025-04-11 19:40:33",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "同学广场也有纯k吗",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744371639,
       "formatted_time": "2025-04-11 19:40:39",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我只知道资本大厦这边有",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744371658,
       "formatted_time": "2025-04-11 19:40:58",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n纯k在光谷",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "纯k在光谷",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744371664,
       "formatted_time": "2025-04-11 19:41:04",
-      "type": "未知类型(244813135921)",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0004\ufffd\u0016\u0000\ufffd#v;@M\ufffd\u0006]t\f\ufffd0`~\ufffd=\ufffd\u001bs #\ufffd\u001d\u000bV?o\ufffd\ufffd(\ufffd\ufffd\ufffd\ufffdC\ufffd\ufffd$T\ufffd\ufffdB\ufffd\u0018\\\ufffd6\n\ufffd\ufffd\u001aiv\ufffd\u0006\t\u001bV]\ufffd\ufffd\u001ci\u0000[\u0000q\u0000Na\ufffd,\ufffd\ufffdc3\ufffd5\ufffdr~=_\ufffd|\ufffd\ufffdGv\ufffd\ufffd\u0013\u001a\u001d\ufffd\u0010\u001a@\u0019\u0011>$8>\ufffd\ufffd\ufffd\ufffd(\ufffd\u001cd\ufffdX`\ufffdh`~@ \u0016P\ufffd\ufffd\u001e1\ufffd{_G\ufffd\ufffd\ufffd\ufffd\ufffd. S\ufffd\u0006\ufffd\ufffdVf\ufffd\ufffdǤ\ufffd\ufffd\ufffd\u0004D\ufffd\ufffd\u0001m׼\ufffd[c\ufffd\u000b\ufffd\u001dN\ufffd\ufffd_A\ufffd\ufffdW\ufffd=o\ufffd,!\ufffd|\ufffd\ufffd/\ufffd\ufffdbT\ufffd\u001do\ufffd\ufffdy\\\ufffd\ufffdu4%\u0006kWAZ\ufffd%\ufffdR\ufffd\b\ufffd\ufffds\ufffd\ufffd\ufffdQ\ufffdz\ufffd\ufffd^KbϤ\u0017f\ufffdXm\ufffd\ufffd\ufffd\ufffdA\ufffd\ufffd\u0013_\ufffd\ufffdU\ufffdj\ufffd\ufffd\ufffdǗ\ufffdS\ufffd\ufffd\ufffd\ufffd]7\ufffd*>RT\ufffd\ufffdp1\ufffd\n\u001b\ufffd\u0011%B\u001a\u001d\ufffd\u000e\u0017>\u001e8|@l\ufffd$\ufffd\be\ufffdp\ufffdc\ufffd\ufffd\u000f\u0019\u001f\f\u0014@\ufffdu\ufffd\ufffdZ\ufffdXG\"\u0017eip>J3\ufffdgM\ufffd\ufffd\ufffd2\ufffd\u0000*RUSe\ufffdڤr8_\ufffdb\ufffd\u0012\ufffd\ufffd2\ufffdL(\u0013\ufffdQTE5Ie\ufffd\ufffdě\ufffdQÎ\ufffd\u0018\u000e\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdZ\ufffd\ufffd}\ufffd\ufffd\ufffd\ufffdV\ufffdHr\ufffdz\ufffd&\ufffd\"\ufffd(JsN\ufffd\ufffd?\ufffdV3&\u0001`\ufffdd91\ufffd\u0004m\ufffd\\\ufffd\fZ\ufffd\ufffd\b\ufffd\ufffdK\ufffd<@@\ufffdA\ufffdt*\t.M\ufffde2\ufffd\ufffd5J\ufffd^\ufffd\ufffdN\ufffdT}\ufffd\f\u001d^Ӫ\u0005bt\u0016x\ufffd\ufffd!a\ufffdFf4E%Ik BcY\ufffd<\u0011\ufffd,\ufffdT\u0015m\ufffd\u001aDa\ufffd\u0005\ufffd79A\ufffd\ufffdNJ\u0005+5h\ufffdI\ufffd4\ufffdt\ufffd\ufffdX!9EJ\ufffdkC\ufffdgT\f\ufffd\u0013\ufffdG\ufffdCj\ufffd\ufffd\t\ufffd\ufffd\ufffd\\*\u0010\ufffd\u0000z\ufffdTI`\ufffdϲ\b\u0003k\ufffdKo/b\u0004\ufffd\ufffd\ufffd@z\u0002\ufffd\ufffd\n:\ufffd\ufffd~\ufffd\ufffd\u0006a_\n\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd\u001d\bZ>{۪HOC\ufffdq\ufffd!\ufffd\ufffd4\ufffd\u0003\ufffd\ufffd\ufffd\ufffdr\ufffd?\n\ufffd\ufffdtȃ?\ufffd @\ufffd3̢\bY8\u0019\ufffds\ufffdY\ufffdM\ufffd\ufffdE\ufffd\ufffdwWT\ufffd\u0007\u000e\ufffd\ufffdc\ufffd\ufffd\ufffds\u0002\ufffd\ufffdo\ufffd\ufffd2\"\ufffd\ufffd5\ufffd8\ufffd\u0011ٱ\r\ufffd\ufffd\fЗ \n\u0000F\ufffd\n\ufffd\u0001\ufffdKI\ufffdK\ufffd\ufffdĽ1\ufffd\ufffd\u0017$L\ufffd\ufffd\u000f\u0014\ufffdV\ufffd+U\u000fW\u0001",
-      "is_sender": 0
+      "type": "引用消息",
+      "str_content": "好像是这里",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744371691,
       "formatted_time": "2025-04-11 19:41:31",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "那是否对你们来说远了点🤔",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744371715,
       "formatted_time": "2025-04-11 19:41:55",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n我觉得纯k环境比较好",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我觉得纯k环境比较好",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744371722,
       "formatted_time": "2025-04-11 19:42:02",
-      "type": "未知类型(244813135921)",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0004=\u0016\u0000\ufffdbp8@m\ufffd\u0006\ufffd\ufffd0<\ufffdTb\n2>\\\ufffd\ufffdZ\ufffd\u001d\ufffd\ufffdI\ufffd\ufffd\ufffd\ufffd>ֶ\ufffd\ufffd\u0005\u001dS`\u0016g^~>\ufffd\u0016IS\u0013\ufffd!\u0001\r\ufffd\ufffdyD\u000ed\u0000W\u0000h\u0000->\ufffd\ufffd\ufffd\ufffd:\ufffdT\u000bV\u001d\ufffd\ufffd[\ufffd\ufffd\u001a\ufffd5\ufffd\ufffd\ufffdTw\ufffd\ufffd!\ufffd\ufffd\u0006B\ufffd\r\u0007\ufffd\u0010\ufffd\ufffd\ufffdo\ufffdy\u0018\u0014A\u0014\ufffd/\u0017\u000f; \ufffd\ufffdEk\ufffd\u0003\ufffdimk\ufffda\u0010\ufffd~X\u0005\u0014\u0005X\u0010\u0005\ufffd\u0011_\ufffd8\ufffd\ufffdT\ufffd3౤\ufffd\ufffd\ufffd\ufffd\u0017\ufffdB\u0007\ufffd\u00173\ufffdoRf\ufffd\ufffd\ufffdI\ufffd㻎\ufffd\ufffd\ufffd+\ufffdZ\ufffd\ufffd3\ufffdJ5\ufffd\ufffd\u0005\ufffd֎\ufffd\u0015\ufffdlz\ufffdV\u0017\ufffdNo\ufffdE\ufffdR\ufffd\ufffdߎŵ\ufffdf\ufffd\ufffdW#g\ufffd\ufffd\u0006iŘ*۷\ufffd\ufffdR\ufffd|\ufffd\u001b\ufffd\ufffd\ufffd}\ufffd\u001d6\ufffd}\ufffdl\u0014\ufffd\u000f\ufffde\ufffd\"\ufffdd%#R\ufffdg\ufffda\ufffd\ufffd\ufffd\b\u0006\ufffd\ufffdpa\ufffdÅ\r\b\u000f\u001b\r\u001b6\u0013(l\ufffdj\r\u000b\u001bL\ufffd\ufffd\ufffdZ̀\u000eC\"\ufffdA5\ufffdg\ufffd\ufffd\ufffd\ufffd\u0011\ufffd<\ufffd)\ufffdDђ\ufffd\ufffd\ufffdy֫Z\ufffd$Ek-\ufffdd\ufffd R$\ufffd \u0013{\ufffd^p;\ufffdz\ufffd\ufffd}\ufffd\u0019\ufffd\ufffdS\u000f\ufffdx\ufffd~\ufffdsV\ufffd\ufffd6Ջ9u\ufffd\ufffdyXG\ufffd\u0015\ufffd \ufffd\ufffdb>\ufffd\ufffd7\ufffd\ufffd\ufffd\ufffd\u0000\ufffd[p\ufffd\ufffdl\ufffd\ufffdU:\ufffd\ufffd\u0015\\\ufffd@\"e,\n&\ufffd򠀅\u0001x\ufffd_\ufffd\ufffdj0\ufffd,n\ufffdF\ufffd\ufffd4Ww\ufffd2}\ufffd\ufffd.#~\ufffd\ufffdt\u0014\u0001\ufffd\u001e|\ufffd\ufffd\u001da\b\ufffd̈\u0014\u0017\n\ufffd\u00010BCY\ufffd<\u0011\ufffd,\ufffd\ufffd2ڦ5Q\u0019\ufffd\ufffd&\ufffd\ufffd\u0002\ufffdq1\ufffd\ufffdV\ufffdi;LYl\ufffd6~\ufffd\"\ufffd\u001b\ufffd\ufffd\ufffdk_H;S\ufffd\ufffdpG\ufffd\ufffd\ufffd\ufffd-\ufffd\ufffd¿\ufffd0\ufffd\ufffd@.x\ufffd\ufffd#T\ufffdc*\ufffd\ufffd\u0007\u0002\ufffd`%o+\ufffd܏\ufffdj \ufffd>UV\ufffd3iӦc\ufffd\n\ufffd\u0007\ufffd\u001c\u0013\ufffd\ufffd:\ufffd\ufffdU\ufffdb\ufffd\ufffdpT\ufffd4\ufffd`T\ufffdP\u0014Ѩ\ufffd,d\ufffd\u0004\ufffd\ufffd'\ufffdt榵\ufffd\ufffde\u0000\ufffd\ufffd\u0001$\u0001n<-+\ufffd\ufffd/\u0012\ufffd\ufffd-c1\u000e\ufffd[W\ufffd\ufffd\ufffd\ufffd_qǊ\u001ep\ufffd\t\u0014\ufffd\ufffdPZt\ufffd\ufffd\ufffd!N\ufffdm\neK}\ufffdAi\u0003\u0010\u0000\ufffdأ\ufffd\ufffd8\u0000\u0011F,9\u0006\ufffd\u001a9O\ufffd=\u0004\ufffdk\ufffdg\ufffdrAb\ufffd\ufffd\ufffd!\ufffd͡c\ufffdjZ\u0005",
-      "is_sender": 0
+      "type": "引用消息",
+      "str_content": "环境咋样",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744371726,
       "formatted_time": "2025-04-11 19:42:06",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我都ok",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744378077,
       "formatted_time": "2025-04-11 21:27:57",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "那要不就纯K啊，敲定一下时间？六点半左右咋样",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744378081,
       "formatted_time": "2025-04-11 21:28:01",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`l\u0002\ufffd\u000e\u0000\ufffd\ufffde&\u0000\ufffd\ufffd\u0001{\ufffd\ufffd\u0016\u0005LÖ$\u001e\ufffd\ufffd\ufffd\u0017@\ufffd:\ufffd[\f\ufffd\u0017B\ufffd\ufffd\ufffd;\u0007\ufffd\ufffd\ufffd\ufffd\ufffd\u0002W\u0000Q\u0000\\\u0000\ufffd6n^2\ufffd\ufffd\ufffdt\ufffd\ufffdY\ufffd~]/yY\ufffd\ufffd\ufffd7\ufffd\ufffd\ufffd\ufffdnׯ\u001flg\u001eI\u0005\ufffd\ufffd\u0010\ufffd\ufffd\ufffdV\u0005㘧r#.\ufffd:\ufffd\n楕\ufffd\ufffdk\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd|tB˺\ufffd\ufffd\ufffdd\ufffd\ufffdu\ufffd.U`\u0019;\fl\ufffdN\u00102\u000f\ufffdY\ufffd\ufffd{\u0011B,c\ufffds\ufffd\ufffdb\ufffd?\ufffd<\u000f\u0019\ufffdo&\ufffd\ufffdy\ufffd\u0007lr%\ufffdM\u001b>\ufffd\u001e\ufffd\ufffd\u0018\ufffd\ufffd\ufffd.\ufffd\ufffd޸\ufffd\ufffd\ufffdk\ufffd\ufffd\ufffdt\ufffd>:\ufffd\u001ec\ufffd0\ufffd\ufffd\ufffd1z\ufffd\ufffd\ufffd\ufffda|\ufffd\ufffd;\ufffdšIQ\"\ufffd\u0013Q\u0001\ufffd<.\ufffd\ufffd\ufffdnt\ufffdrM\ufffdl\ufffd\u0006\ufffdn\u000e\ufffdi^6\ufffd\ufffdE\ufffdʧӒ?\ufffdnꋖO\ufffd\ufffd\ufffd\ufffd\u0002A\ufffd&\u0018\ufffd\u0015\ufffd\ufffd\ufffds'\ufffd\ufffd`qn\ufffd\u00117S0\ufffdi\ufffd:\b\ufffd\ufffd_\ufffd5ߺt\ufffd5\f\fl\ufffd\u000b\ufffd\ufffde\ufffdp\u0016\ufffd|\ufffd\ufffd-(@p\ufffd)I\u0004M\ufffd\u0000UY\ufffd+\ufffd\u0000M-E(\u000b\u0006A\ufffd#S9Aa\ufffdp\ufffd\ufffd\ufffd\ufffdP\ufffdH\ufffd\ufffd\ufffd@\u0004\u001a-\u0001\u0010\ufffd=4J{h\ufffdC\ufffdPY\u0014\ufffdp\ufffd \ufffd\ufffdQ\ufffd\ufffdI\u0014\b\u0003%E\u0006\ufffd\ufffdAp\ufffd\u001b\u00104I4\u0014\u0002\u0015\u0000/\ufffd\ufffdI\ufffd'U\bfYYd\ufffd\u0012\ufffd\ufffdfr{-Ko\ufffd\ufffd\ufffd\ufffd\ufffd\u001a8\ufffdρI\ufffd\u0010wL\ufffd\ufffd`\ufffd-F^l\ufffds\ufffd1\ufffdT%,)@\ufffd\f",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "自己"
     },
     {
       "create_time": 1744378104,
       "formatted_time": "2025-04-11 21:28:24",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n我们3个吗",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我们3个吗",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744378118,
       "formatted_time": "2025-04-11 21:28:38",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你们可以继续摇摇",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744378121,
       "formatted_time": "2025-04-11 21:28:41",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我摇不到了",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744378124,
       "formatted_time": "2025-04-11 21:28:44",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0005\ufffd\u0016\u0000Fr\ufffd @M\ufffd_\u000bɖ\ufffd\ufffd\ufffdxĒ\ufffdZc\ufffdq\ufffd\ufffdˈٙ\ufffd\ufffd\ufffdS\ufffd1̙\ufffd\u0000z\u0000w\u0000\u0010\u000f\n\ufffd\u0000c΅\ufffd4\u0018\ufffd\ufffdRp\ufffd\u0007\ufffd\u0007a\ufffd\u0002\ufffdƁLC)!0\ufffd\ufffd\u0001\u001b\ufffd\ufffd\ufffd\ufffdo3QAIA\ufffd\ufffd\ufffd\ufffdCu\ufffd\ufffd?(\u001d\ufffd\n\ufffdz\ufffd\ufffd'D\ufffd\u0005%UP\ufffd\ufffd\ufffd\ufffd$ĉR6\u001cLP\ufffd\ufffdD\ufffd\ufffdDii\u001ag\ufffd\ufffd;pVJ\ufffd\ufffd\ufffdj&J\ufffd\r?\u0016*\ufffd\u001b\u0014\ufffd\n0\ufffd\ufffdH\bAqi\ufffd\u0013\ufffd\ufffd\ufffd8\u0012%\f\ufffd\u0012\t\n\u0016\ufffd\ufffd \ufffd)[]\u0005\ufffd]\ufffd\ufffd\u0011\ufffdD\ufffd\ufffd\u000fB\u0002\"\ufffd\ufffd^\ufffd\ufffd\ufffd\ufffd\ufffd\u0015\ufffd\ufffdkn\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdV\ufffd\ufffd\ufffd\ufffd\ufffd_\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdʮ\ufffd[\ufffd\ufffdƇ\ufffd-\ufffduu\ufffd\ufffd]\u001b\ufffd\ufffd\rQI\ufffd\u0000ci\u0000\ufffdb\u0000[\ufffd0\u0010\rl\ufffd\ufffdXue\ufffd\ufffd*\ufffd\ufffd\u000588\u0004\ufffd\u0019 \ufffd$\"\ufffd\u0001\ufffd\ufffd\ufffd'\ufffd\ufffdZ\ufffd\ufffd3؞\ufffdl\ufffd\ufffd\ufffd\ufffd\ufffdK艍\u0011\u0019\ufffd\ufffd-\ufffd\ufffd-V\ufffd\ufffd\ufffd۪Uw{3\ufffd\ufffd\ufffd\ufffdG{oo\ufffd_\ufffd}t\\\u001aۭ\ufffd\ufffdT;\ufffd\ufffdܶz\ufffd\ufffdƥ\u0007O\ufffd\ufffd󘈒[\u001a\ufffd\ufffd\u0012L\ufffd\ufffd,$O\ufffd(1\ufffd\"0\ufffdH\ufffd\"2\ufffd}+\u001b\ufffdSu\ufffd\ufffdy\ufffdt\ufffd\ufffd\ufffd\ufffd̽\u0005\u000bϢ @\ufffd@AP\ufffd\ufffd\b\u001b\ufffdd\ufffd\u0006\ufffd\ufffd\ufffd\ufffd\ufffd(͋\ufffd\u0013\ufffd\ufffdks6\ufffd\u0016\ufffd\ufffd\u0018\ufffd\ufffd`L\ufffd\ufffd\ufffdb!\ufffd\u000b\ufffd\ufffd\ufffd\ufffd\ufffdń\t\u0004J\u001e\ufffd\ufffd3\u0015U9\ufffd\ufffdnw\ufffd\ufffd\ufffd\ufffdRL\ufffd\ufffd\ufffd-\u001f[\ufffd\ufffd}p\ufffdf\ufffd\ufffd\ufffd\ufffdz\ufffdի\ufffd\ufffd\ufffd\ufffdW\ufffd\ufffd\ufffd\ufffd\u000f\ufffd\ufffdX\ufffd\ufffdG<$\ufffd\ufffd|\ufffdض\ufffd\ufffdv⌈(G\ufffd\ufffd$\u0001s\f\u0011\ufffdFD\ufffd!\t\ufffdD\u000f\ufffd\u0002\ufffd2\ufffdm\u0012\ufffd#R\ufffd1B%0\ufffd@A\ufffd\ufffd\u0004\u0013M\ufffdqH.}f\n\ufffdL\ufffdO`U''<Cջ\ufffdV\ufffd\u0015ԅO\ufffdhL\ufffd\u0007\u001f\r\u001e\ufffd\f䢤W8C\u001eR\ufffd\ufffd\u000b\ufffd//J\u001cރ\u0010`^\u0014\ufffd\ufffd܇\ufffdrCT\ufffd\ufffd\ufffd\u001f\u001a\ufffdÐ\u0015o\u000fS\ufffd\ufffd\ufffd\ufffdl\ufffd8\ufffd\ufffd\ufffd\ufffd\u0018i\ufffd\ufffd\ufffdNa\ufffdԣ\u0011\ufffdN\ufffdW\ufffd.:f\u0003N\ufffd\ufffdG\ufffd]b\n\ufffd\ufffd\\T\u0016ȣx5BF\ufffd\ufffd\ufffd\ufffd\ufffd\u0002\u0018\ufffdK\u001e\"\ufffd\ufffd\ufffd\ufffd\u001f",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender": "自己"
     },
     {
       "create_time": 1744378180,
       "formatted_time": "2025-04-11 21:29:40",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n笑死我了",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "笑死我了",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744378182,
       "formatted_time": "2025-04-11 21:29:42",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n我也是",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我也是",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744378205,
       "formatted_time": "2025-04-11 21:30:05",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "有没有说法",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744378235,
       "formatted_time": "2025-04-11 21:30:35",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我再摇一个",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744378242,
       "formatted_time": "2025-04-11 21:30:42",
       "type": "系统消息",
-      "str_content": "(\ufffd/\ufffd`$\u00025\f\u0000\ufffd\ufffd:3`k\ufffd3\ufffd\u0013\u0004\ufffdK\ufffdSҠ\nE\t\"aK\u0015\ufffd\ufffd\ufffd,\ufffd\"\ufffdyԓ\ufffd\ufffd\ufffd*\ufffd\ufffd\nm\ufffd\f\ufffd\ufffd&\ufffdP\ufffd\f\ufffd&S\u0002Q\u0016cw\u0013\ufffd\ufffd\u0004\ufffd\ufffdχ\u0015Ĭ[,s\ufffd\ufffd\ufffd:\ufffd}\ufffd%\ufffd\ufffdc\ufffd\b\n\u0010F\u0017\ufffdh|.\ufffdi۲h\u0004\u0012@]\ufffdU\ufffdfi\ufffdـ\ufffd\ufffd\u0017\ufffd=\ufffd\b\ufffdk?\b3Ĥϓj\u0017;\ufffd4I\ufffdF\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdT<|8\ufffd\u000f\ufffd\ufffdWi'xa\ufffd\ufffd9\ufffd8\u001b\ufffd\ufffd\u0019\ufffd2\ufffd\u001cH\f\n&\u0000\ufffd\ufffd))\ufffd\ufffd].\ufffd\ufffd\ufffd'\ufffd\ufffdL\ufffd\ufffd\ufffd4\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd[\ufffd\ufffd\ufffd\ufffd_\ufffdAI\ufffd\ufffd\u000f1\ufffd2/)\ufffd\ufffd3\ufffd\ufffd\ufffdz/~\ufffdU\b \ufffduQ\u0011\ufffd\ufffd\u0004\ufffdB\ufffdQ\u001a\ufffd\ufffdDd\ufffd\ufffd\ufffd\ufffd\u0006 B\ufffd\u0018u\u001d\u0012\u0000\ufffd\ufffd\u0018G\ufffd\t\ufffdBm\ufffd\ufffdU\u0005ֲ\ufffd%\u000eW\ufffd\ufffd\u001b\ufffd \ufffd\ufffd\ufffd\u0013Y=\ufffd\ufffd\ufffd\ufffdM\ufffd\ufffd\ufffd^\u001d\ufffd\ufffdƵ\ufffd\u0002\ufffd\u001ai\u0014\ufffd\ufffdȀo\ufffd\u0012\ufffdZ\ufffdVO\ufffd\ufffd\ufffd J\ufffd2\u0000\u001fP\ufffd\ufffd\ufffd\ufffd\ufffd\u0013l\ufffdwC͌\ufffdP\ufffdgx\u000e\n~\ufffd\ufffd^\ufffdy6\ufffd\ufffd\u00054jI>\ufffd\ufffd\u0000\ufffd\ufffd%\ufffd\ufffd\ufffd\u0017(\ufffdܿ\ufffdi9\u0000M\u0016\ufffd4{\u0012ƥ\n",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender_name": "56100805524@chatroom",
+      "sender_wxid": "56100805524@chatroom"
     },
     {
       "create_time": 1744378247,
       "formatted_time": "2025-04-11 21:30:47",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我室友",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744378271,
       "formatted_time": "2025-04-11 21:31:11",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd *\u0005\u0001\u0000\ufffdwxid_jgnpkplu1mz312:\n哈\ufffd\ufffd\u0001\u0000\ufffd\ufffd1",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈好",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744378271,
       "formatted_time": "2025-04-11 21:31:11",
-      "type": "文本",
-      "str_content": "wxid_2ht15150348l22:\n家人们好[旺柴]",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "家人们好[旺柴]",
+      "sender_name": "张逸桐",
+      "sender_wxid": "wxid_2ht15150348l22"
     },
     {
       "create_time": 1744378351,
       "formatted_time": "2025-04-11 21:32:31",
-      "type": "文本",
-      "str_content": "啥时候方便啊你俩@Ragdoll @明 ",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "啥时候方便啊你俩@Ragdoll @明",
+      "sender": "自己"
     },
     {
       "create_time": 1744378446,
       "formatted_time": "2025-04-11 21:34:06",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n我都可以",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我都可以",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744379732,
       "formatted_time": "2025-04-11 21:55:32",
-      "type": "文本",
-      "str_content": "wxid_ynq76qcgzoad22:\n我也ok 不过唱歌不好听怎么办",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我也ok 不过唱歌不好听怎么办",
+      "sender_name": "张绍明",
+      "sender_wxid": "wxid_ynq76qcgzoad22"
     },
     {
       "create_time": 1744379734,
       "formatted_time": "2025-04-11 21:55:34",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0004}\u0015\u0000ƫz\"@\ufffd\ufffd\u0001\ufffd\u0016\ufffd\u001eX+Zr\ufffdl\ufffdݐ6\ufffdq\u0018V\ufffd\ufffdlI\ufffd\ufffdh\ufffd0&\u0004\"t\u0000n\u0000k\u0000\r(\ufffd\u0003\u001b\ufffdRZ\ufffd\ufffd\u000f\u0002\ufffd\ufffd@\ufffd\ufffd\ufffdj\ufffd\ufffdRT\ufffd\rU+M)\ufffd\ufffd\ufffd\ufffd\ufffd_\ufffd\ufffd\ufffd\u001c\ufffd\"-\fN\ufffd6a\u0007\ufffd\ufffd?\ufffd\ufffd|\ufffd\ufffd\u0005\ufffd(qZ\ufffd1\ufffd(MJ\ufffd\ufffd\ufffdg\ufffd\ufffd\ufffdUv\ufffd3ZQJhA?]\ufffd\ufffd\u0003\ufffdԉH*\ufffd\ufffd\t\u0005\ufffd\ufffd\t\ufffd\u0001f\ufffdh\u0003\ufffd=\ufffd=\ufffdI\u0002\ufffd\ufffdH\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdV\ufffd\ufffdn\ufffdf\ufffd͜{\ufffd6\ufffdժ[/w\ufffd\ufffdvg;\ufffdVY\ufffdx׾Cގ\ufffdV\ufffdZ\ufffd^\ufffd\ufffd\ufffd\u0017\ufffd!#\ufffdc\ufffd\ufffde\u0016@G\u001bM\ufffdBZ\ufffd\ufffdڵ|X\ufffd\u000e\ufffd>\ufffd\ufffdC\ufffdU\ufffd\ufffdH\ufffd\ufffd\b\ufffd\ufffd0ਕi8\ufffd\u0006>\ufffd\u0018\ufffdͰ\ufffd,\ufffd\u0007\ufffd\ufffd\u0011\ufffdZ+\ufffd\ufffd\ufffd]iD\ufffd\ufffd\ufffd\u0011\ufffd\ufffd\u0006cSv9\u0005\ufffdm9\ufffd\ufffd\u0016\ufffd\n\ufffd\ufffdc\ufffd\ufffd\ufffdQZL\bSQ\ufffd\ufffd\ufffd\ufffd!\ufffd\ufffd(1\ufffdZ\ufffdl\ufffd\ufffd%\ufffd/彚\ufffd۽]i\ufffd\n\ufffd\ufffdY\ufffdV\ufffd\ufffd݌\ufffdy\ufffd\ufffd\u001dZ\ufffd\u0003\ufffde¨V\ufffd\ufffd\ufffd}5\ufffd\ufffd\u000bwm\ufffdg\ufffd\n\ufffd3ildC礯J>\ufffd\u0014\ufffd\ufffd\ufffd6_\u001b\ufffdP\ufffd*\ufffd\ufffd\ufffd\ufffd@\ufffdCB\ufffd\ufffd\ufffd\u000b\ufffd\ufffd\ufffdA\ufffd4\ufffdph\ufffd>\ufffdW\ufffd\ufffds\ufffd:\ufffd\ufffd\nq\ufffd\ufffd\u0003qT\ufffd\u0014U\u0019\ufffd|\u0006\ufffd]*\ufffd\ufffd\ufffdPFPr\ufffdJ\u001e%\ufffd\ufffd b\ufffdJ\ufffd\ufffd\ufffd\u001dT\ufffdZQ\ufffdW\ufffdz\ufffd1\ufffd\ufffd\u001d3w\ufffd\ufffd\ufffd\ufffdݽ\u0003M\ufffd\ufffd$\ufffd\ufffdB\ufffdh\ufffdI\u0012$i\ufffdP\u0002Aʪ\ufffd\u0001\u0012@4Z\u001c\u0014\u001a$\ufffd\ufffd\t&~'\ufffd4\ufffdV\u0003\ufffd\u0001\ufffd㑥\ufffdã\u0002\ufffdO!\ufffd%~\u0014V,\ufffd\ufffdk\ufffdǞ\ufffd\ufffd\u0013;A<\u0003u\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd%\ufffd\ufffd\ufffd\ufffd\ufffdٙPK\ufffd&̅\ufffd\ufffdkYڃ\u0004K\ufffd\ufffd%\ufffd\u0012t\ufffd\ufffdݦ \ufffda1\ufffdlYJF\ufffdTQ\ufffd\u0001\ufffdѿ\ufffd\u0011%\u000bs\ufffd\u0012\ufffdm{B\u001d\\GY\ufffd\u0000Q\ufffd%\ufffdf\ufffdլ\u0006/\u0001x\ufffdQGO$1A\ufffd\u0019<\ufffd\ufffd/0\ufffd\ufffd\u001bˑ/GSc\ufffda\ufffd\ufffd=\ufffdp\u0019\ufffd\u001aT\ufffd\ufffd",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender_name": "张绍明",
+      "sender_wxid": "wxid_ynq76qcgzoad22"
     },
     {
       "create_time": 1744379752,
       "formatted_time": "2025-04-11 21:55:52",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "这个不怕",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744379756,
       "formatted_time": "2025-04-11 21:55:56",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "就怕你唱歌好听",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744379952,
       "formatted_time": "2025-04-11 21:59:12",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n就怕你唱歌好听",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "就怕你唱歌好听",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744380014,
       "formatted_time": "2025-04-11 22:00:14",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0005]\u0014\u0000\ufffdk| @i\ufffd\u0011\ufffdڿ.\ufffdw\u001a#Jb\ufffd\ufffdq\ufffd\ufffd\th\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u001a\ufffd\ufffd\ufffd\ufffdu\u0000u\u0000m\u0000\ufffdxŎ߉RB\ufffdf\ufffdp\ufffd4(-\u0006\ufffd\ufffdϠ\ufffd(t޳\ufffd\u0016g\\\ufffd\ufffd\ufffd&\ufffd\ufffdb\ufffd\ufffdT\ufffdL\ufffds\ufffdR'\ufffd\ufffd\ufffd\ufffd6!\ufffd+\n#\ufffd\ufffd\ufffdJ\ufffd7\ufffd\ufffd\ufffd\ufffd\ufffd\ufffds\ufffd\u0006m9ױ[=\ufffd3J\t!\ufffd\ufffd\ufffd\ufffd?\f\ufffd\u001d\u0005U\u0005l\u001f\ufffdP<\u0016\u00010\ufffd\ufffdOܠ\ufffd\ufffd\u0007\u0017\ufffd\ufffd\ufffd\ufffd\ufffd\b\ufffdb\ufffd\ufffd~\ufffdQJW;\ufffd\ufffdV\r\u001fc\ufffdV\ufffd\ufffd[\ufffd\ufffdwp~\u000e\u0010\ufffdǲ\ufffdj\u0006\ufffdkp\ufffd\ufffdޭ钭U\ufffdؘ[\ufffd\ufffd\ufffd~լ[\ufffd\ufffdƚ!\ufffd_x\ufffd*\u0004\ufffd\ufffd\u0001\ufffd-\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdsh\ufffdz\u001d\ufffd[\u0007\ufffd\ufffd\ufffdb!@\ufffd@\ufffdLG\ufffdp\u0018hr^\u0018\ufffdq\ufffd:\ufffd\ufffd2\ufffd~\u000fr\u0003q\ufffdg\ufffd0\u0015U\ufffd\ufffd\ufffd\ufffd\ufffdL\ufffd\ufffds9o\ufffdVl\ufffd\ufffdt\ufffd\ufffd\ufffdx\ufffd&\ufffd\ufffd\ufffd\ufffdw,~dRJ\ufffd\ufffd\ufffd\ufffd\u0018l\ufffdR&\ufffd\ufffdd\ufffd\ufffdl\ufffdӡR\ufffd\ufffd\ufffd޹\ufffd\ufffd%\u000e\ufffd\ufffd\u0014l\ufffd:w\ufffdtJ\ufffd\ufffdy8\ufffd>J\ufffde,\u0019\ufffd\ufffd\u0010\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd;Jl\ufffdB\ufffd6Ԥ\ufffd\u000b\t\ufffdc\ufffdr\ufffd\ufffd\ufffdb\ufffd\u001d\ufffd@\ufffd\u0003\"\ufffd\ufffd\ufffd\ufffd)J\ufffd\ufffdo\u001e\u0019eǿ\ufffd\n\u0004J\u001c\u0010\t\ufffd\ufffd/ܚ\ufffd\ufffd\ufffd\ufffdg\u001c\ufffd`\ufffd\ufffd\ufffd\ufffdЙ\ufffdDiɌ\ufffd0\u000e\ufffd\ufffd(\ufffd\ufffd\u0012B򢨿\ufffd\ufffd^K\bY\ufffd\ufffd\u0006Js\ufffd\ufffd؏E\u0006Us\u001a\ufffdTZ\ufffd\ufffd_\ufffd3\ufffd\tl\ufffd<}I\ufffdĽ\u0018U> p\u0002\ufffd\ufffdc\u001dc\u0003E\ufffd\u001a\ufffd\ufffd\ufffd\u0006\ufffd\ufffd\ufffd͞\u0007\ufffd\ufffd\ufffd\ufffd\u0001'\u0005å\ufffd\u0004\ufffd\ufffd\u0003o\ufffd\ufffdA9N\ufffdd\ufffdi\b9\ufffd\u0018\ufffd\ufffd`\ufffdE\u0003\u000eO'\ufffd\ufffd+6\ufffd:&\ufffdm\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd!\ufffdxM\ufffdU\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdu&+\u0012A\ufffd\u0005\u0003\ufffd\ufffd\ufffdj!\ufffd\ufffd\ufffd9:\ufffd\ufffd\u0004\ufffdu\ufffd\ufffd\ufffd\ufffdb\ufffd\ufffd\n\ufffd\u0016ʉ4O\u0018#\ufffd\u0005\r\u001c\ufffd\n<\ufffdPd\u0006Ƭ\ufffd\ufffd\ufffd\u001a\ufffd\u001c\t\ufffd@(",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender_name": "张绍明",
+      "sender_wxid": "wxid_ynq76qcgzoad22"
     },
     {
       "create_time": 1744380024,
       "formatted_time": "2025-04-11 22:00:24",
-      "type": "文本",
-      "str_content": "wxid_ynq76qcgzoad22:\n那太好了",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "那太好了",
+      "sender_name": "张绍明",
+      "sender_wxid": "wxid_ynq76qcgzoad22"
     },
     {
       "create_time": 1744380746,
       "formatted_time": "2025-04-11 22:12:26",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`l\u0002\ufffd\u000e\u0000\ufffd`e%\u0000\ufffd\ufffd\u0001X\ufffd\ufffd\u0003\ufffd\ufffd\ufffdw\ufffd\u0016\u0001\ufffd\u001a\u0003-\u000fsl\ufffd\ufffd\ufffdi\ufffdL\ufffd\ufffd悪\ufffd\ufffd\ufffd\u0015V\u0000N\u0000\\\u0000\ufffd7Ǌ\ufffd\ufffdsw{\ufffd\ufffd\ufffd\ufffd\ufffd\u0015SQ\ufffd\u001a_\ufffd\ufffdM\ufffd\ufffd\ufffd[^\ufffd\ufffdΑT.\ufffd\ufffdⲘL\ufffdp\ufffd9\u0015\ufffdq\ufffd\ufffd\tm\ufffd\ufffdb\u0013e\ufffd\ufffd\ufffd\ufffd0\ufffdo\ufffd\ufffd\ufffd2\u001e\u0019\ufffd\u000e\ufffds\ufffd\u0015\u001a\ufffd\u001aVV\u001d\u000fK\ufffd\u001c\u0001\ufffdΉa;\u0007ά\ufffd\ufffda\ufffd2VVg͚\ufffdY-\f\ufffdcqY\ufffd^\ufffd\ufffdι,\ufffd\t\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd~\ufffd\r{\ufffd\ufffd\ufffd\ufffd\ufffd'{\ufffdw{O\ufffd\ufffd\ufffd\ufffd\ufffd\f\ufffd?\ufffd7|\ufffd\ufffd\ufffdξ\u0001\ufffd\ufffd\ufffd\"\u001f1\ufffd6H\ufffddY\ufffdЇ?զ\u0002J5\ufffd\\ڤ \ufffd\ufffdx\ufffdw:\ufffd]Ή\ufffd\ufffd\ufffdT\u0005\ufffd\ufffd\ufffd\ufffd\ufffd\"S_1TV.(ڤZ\ufffdBi8\ufffd\ufffd\ufffds\ufffdV5\ufffdY3\n\ufffdA\ufffd\ufffd\ufffd<#\ufffd\ufffd \ufffd\u001a\u0019%d\u0019\u001bje\u000fK\ufffd\u0004\u001c\u000f+\ufffd\u0002\u000e\u0001G\\0\ufffd,\u0011&\ufffd\ufffd=\u0015P&Ղ\ufffd\ufffdX\ufffd\u0003\u0011\u000e\ufffd\n\u001d<\ufffd\ufffd\u0006I \ufffd\ufffd\u0011\ufffdP\ufffd\ufffd\ufffd\u001f,\ufffd.\bh{\ufffd\ufffdE\u0012\r\u0003\u0004\ufffd\u0001\u0010p\u0015`\ufffdDJ\ufffd0\b\u0016\ufffdH\ufffd\ufffd8l\ufffd#@D\ufffd\ufffdE(\ufffdD\u0014\ufffd(H\ufffd\u0005\u0003\ufffd\ufffd@p\u0010\u0015\u0000/\ufffd\ufffd&a\ufffdK\u0010d7\u00131qCnD`\ufffd\r\u0015\ufffdz4\ufffd\u0006Έr`\ufffd=\ufffd\u001dSۂ\u0001)\u00164(\ufffd/6\ufffd9\ufffd\ufffdY\ufffd\u0012\ufffd\u0014\ufffdp\u0006",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "自己"
     },
     {
       "create_time": 1744380918,
       "formatted_time": "2025-04-11 22:15:18",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n群收款一下",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "群收款一下",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744381023,
       "formatted_time": "2025-04-11 22:17:03",
       "type": "系统消息",
-      "str_content": "(\ufffd/\ufffd \ufffd-\u0007\u0000RN62Pm\ufffddtefƂg\u0012 s\ufffd\ufffd\u000bb\ufffd\ufffd\ufffd1 h\ufffd\ufffd\ufffd\u0011\ufffd\u001b'S\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\"\ufffd\ufffdK\u0007\ufffd=13O\u000f\ufffdH¹\ufffd82\ufffd\u0005\ufffd3\ufffd\ufffd\ufffd5R\ufffd\ufffd\u0017\u001fG\ufffdN\ufffd\ufffdi\ufffd\ufffdP\ufffdUN\ufffdʉ뼰\ufffd\ufffd$\ufffdO\ufffds\u001b\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd%\ufffd\u000fV;\ufffdc\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u001e15e\ufffdm\ufffd\ufffd\u0015\ufffd\ufffd\ufffd8\ufffd~\ufffdE\ufffdf\ufffd\ufffd\b`g\ufffd\ufffd\u0019T\ufffdS\b\u001e\ufffd\u0012x\ufffd\u0000\ufffd@\u0015\u0005\ufffd\ufffd}\ufffd\ufffd\ufffd\ufffde\ufffdU\u0010\u0012\ufffdu3K\ufffd0\ufffd\ufffd\ufffd\ufffd.\u000e\u001b\ufffdFc\ufffd\ufffd\"@\ufffd\ufffd\f\ufffd\ufffdh\u0018Lg\ufffd\by\u001e4\ufffdŲUht\u0010\r\u001b\ufffd\ufffd\u0016\u0002\u0000\u0005\ufffdA\ufffdq(g",
-      "is_sender": 0
+      "str_content": "[????????]"
     },
     {
       "create_time": 1744381506,
       "formatted_time": "2025-04-11 22:25:06",
       "type": "系统消息",
-      "str_content": "(\ufffd/\ufffd \ufffd\ufffd\u0006\u0000R\r20`M\ufffdc\ufffdP\u0014\u0005\ufffd\ufffd\ufffdap\ufffd\u0005UP\ufffd\u001e\u001a+\ufffd\ufffd\u000b%84L\ufffdȹQD\u0000\ufffd\ufffda\ufffd\ufffdn/U۲\n\ufffd\u0002\u0004\u0012'r\ufffd\ufffd2*W\ufffd%#aO\ufffd\ufffd\ufffd)k{__\ufffd\ufffd\ufffd\u0010\ufffdO\ufffd{܄PO\u0018\ufffd\ufffd\ufffdM\u0019\ufffd\u0003\ufffd%l\ufffd\ufffd\ufffd\ufffd\ufffd\u001bt\u000f\ufffdkn6\ufffd_\ufffd\ufffd\ufffdw\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd(B)\ufffd{-%pmS\ufffdbG\ufffdNw\ufffd\ufffdq\u0002\ufffd]\ufffd^1\ufffd}Rаh\ufffdE\u0004\u0012\ufffdI\ufffd|3m&\u0003l\ufffdt\ufffd)\t\nt\ufffd\ufffd\u0014i\ufffd\ufffdh`\ufffdD<`,\u001f\ufffd\u0003\ufffd%\ufffda]T.\b\ufffdk\ufffd!\ufffd\ufffd\ufffd\t\u0002\u0000\u0005\ufffdA\ufffdp(g",
-      "is_sender": 0
+      "str_content": "[????????]"
     },
     {
       "create_time": 1744382931,
       "formatted_time": "2025-04-11 22:48:51",
       "type": "系统消息",
-      "str_content": "(\ufffd/\ufffd \ufffd\r\u0007\u0000\u0012N52`k\ufffdИ\ufffd\ufffda\u0018\ufffd\ufffd=[!\ufffd\ufffdʤ\ufffde\u0019\u0004\ufffd \ufffd^\ufffdUe\ufffd2E\ufffd\u001f\u0005@\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdT\ufffdR@\u0010\ufffd\u0015\u0012\u001a\u000e˥a\\2\ufffdLG\ufffd\ufffdl,4˥Ul\ufffd\ufffd\ufffdդP\ufffd\ufffd:\ufffd\u0017V\ufffd)=F\ufffd\ufffd{У1\ufffd4\ufffdK\ufffd}tJ\u0007E\ufffd\u0019\ufffdW\ufffd\u000fU\ufffd]|\u001f/t\ufffd\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd}U\ufffdsx%\u0019\ufffd\ufffdsƕ@\ufffdu\ufffdW;\ufffd~j\ufffd\\?O\ufffd\ufffd\u000b\ufffd-gz\ufffd\u0014<\u001ci\ufffdI\u0004\u0013\ufffd\ufffd$;o\ufffd\ufffd\f4\ufffd\ufffd\ufffd\ufffd$(X\ufffdZ\u0014\ufffd\ufffdb\ufffddlLDd\u0015\r֠\ufffdQ0\ufffdťAP\ufffd\u0007\ufffdV\ufffdd\u0001\u0002\u0000\u0005\ufffdA\ufffdp(g",
-      "is_sender": 0
+      "str_content": "[????????]"
     },
     {
       "create_time": 1744442766,
       "formatted_time": "2025-04-12 15:26:06",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n晚上喝酒吗 我们要不要自带酒水",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "晚上喝酒吗 我们要不要自带酒水",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744442806,
       "formatted_time": "2025-04-12 15:26:46",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "包自带的",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744442816,
       "formatted_time": "2025-04-12 15:26:56",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd 6\ufffd\u0000\u0000\ufffdwxid_jgnpkplu1mz312:\n哈\u0001\u0000(\ufffd1",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈哈哈哈",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744451955,
       "formatted_time": "2025-04-12 17:59:15",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n我出门了老铁们",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我出门了老铁们",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744451971,
       "formatted_time": "2025-04-12 17:59:31",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd`%\u0006\ufffd\u0016\u0000&\ufffd\ufffd!@k\ufffd\ufffd0\u0012\ufffd\ufffd7\ufffd\ufffd\ufffdd\ufffd\ufffd\ufffd\ufffd&\ufffdtweEV\ufffd_\ufffd`\u0018\ufffd{\u0003\ufffd\u0000\ufffd\u0000t\u0000\ufffdC\t\ufffd\ufffdL|\ufffdO8\ufffd#\u0011\ufffd\ufffd\ufffd\ufffdD\ufffd\ufffd\ufffd8\u0013\ufffdß\br\ufffd\ufffd\ufffdyHb\ufffd\ufffd\u0012\ufffd\u0019H\ufffd}p]=ؿ\ufffd\ufffd\ntΖ3\ufffd\ufffd\ufffd\ufffd\u000eS\ufffd\ufffdAR&d\ufffdc\ufffd\ufffd\ufffdD\ufffd,\u000e\ufffd\u0019$\ufffd\ufffd<\u0004\u0011\ufffd\ufffd<O\u0014\ufffd\u0002\u001a\ufffdZ+[\ufffd\ufffdz\"\ufffd\ufffdr\ufffdSg<f`dLp\ufffd\ufffd\ufffd\ufffdo\ufffd\u0013}\ufffd\ufffd<т0\u000bO\ufffd\u0003\u0004\n\ufffdf \ufffd\u0016\ufffd\ufffdlU\ufffde\ufffd¾\u001c\ufffdV\ufffd3\u001f=\ufffdq\ufffd\ufffd@,\ufffdj.\ufffdf\ufffd\ufffdӓ\ufffd\ufffd\ufffdT\ufffdƻTr\ufffd\ufffd|\ufffd\ufffd\ufffdTɛ\ufffd@<\ufffd3\ufffdE\u0000j\u001e@\ufffd\u0014\ufffd{\u0018\ufffd\ufffd\ufffdOl(87\ufffdb1\ufffdh\u001e\ufffdhhH\ufffd\ufffd\ufffd\ufffd\ufffdxP(\u0002\ufffd\u0018\u0017)aD\u000e\ufffd!\ufffd\ufffdk\ufffdm\ufffd\ufffd\ufffd\ufffdXi\ufffd5\ufffdWkB\ufffd\fLl$\ufffd\ufffd\u0011Ju\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdW\ufffd\ufffdVͫzw\ufffd\ufffdn\ufffd]۫\ufffd\ufffd\ufffdVm\ufffd\ufffdU\ufffd\ufffd\ufffd\u0015}NA\u0006\ufffd\ufffd߾\ufffd\u0016U\ufffdu\ufffd{]\ufffd#\u0004\u0011A\ufffd\ufffd:\ufffd\ufffdA}-\ufffd\ufffd{\ufffd\ufffd\ufffd|i\ufffdJ7\ufffd\ufffd\ufffd\ufffd\ufffd.\ufffdܾ(J\ufffdXD$E\ufffd(0\ufffdw$\ufffdJM\ufffd\ufffd`\ufffd\ufffd\ufffd\ufffd\ufffdV\ufffd\ufffd&K\u0015\u0004\n\ufffdF1@\ufffd\ufffd\ufffd\ufffd\u0003\u0013\ufffdk8ψ\u001e\ufffd\u0003\ufffd\ufffd\ufffd\ufffd\u0002\ufffd\u0018\u001f\ufffd\u0016\ufffd\ufffd\ufffd\ufffd$(ƅ\u0002\ufffd\u000b$%\ufffd\ufffd,\ufffd3\u000fHz\ufffd\ufffd\ufffd?O\ufffd\ufffd\ufffd\ufffd17輐5\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdm붗\ufffd\ufffdv\ufffd]\ufffdvI\ufffd\ufffdE\ufffd]8\ufffd\ufffd\ufffd\\\ufffd\ufffd\ufffdX\ufffd\ufffd7\ufffd%\ufffd\ufffdx$\ufffd\ufffd\ufffd1\ufffdeQ\ufffd;_\ufffd=U,\u0015\u0007B\ufffd\u0011\r\ufffdF\u0019Fd\"\u0019\u0019),Ls\ufffd\ufffd\ufffd\ufffdZ7\u0012\ufffdD9G`\ufffdQ\ufffd\ufffd\u0004G\ufffd\u0004\ufffd\u0018#P\ufffd̤\ufffdAʟH\ufffd\u001d\ufffd)w\ufffdov\\\ufffd\u0003\u001d\ufffdS\ufffd\ufffd)\bM\ufffd\t\ufffd\ufffdY\ufffd'AXc\ufffd\ufffd\u0005`K\ufffd\ufffd\u000b\u0002\ufffd\ufffd\ufffdA(t%\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0012䵧\ufffd\ufffdc\ufffd\ufffd@L\u0005\"\ufffd\ufffdZ\ufffd\u0003\ufffd\u0003\ufffd=\ufffd\tO]\ufffd\u0019\u0006\ufffd\u001a\u0015\ufffd\ufffd\ufffd\u00194M\u0012\u0012!\ufffd\ufffd\ufffdG$\ufffd\ufffdj\b\u0016\ufffd\ufffd?'H\ufffdq\u0015\ufffd\u001ap\ufffd\n\ufffdF\u000bu\ufffd\rV\ufffd\u0015A\ufffd\ufffd\ufffd Q\ufffd\u0007",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender": "自己"
     },
     {
       "create_time": 1744451977,
       "formatted_time": "2025-04-12 17:59:37",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我俩吃完就去",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744451998,
       "formatted_time": "2025-04-12 17:59:58",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你要是先到了就先开吧17865716165",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744452005,
       "formatted_time": "2025-04-12 18:00:05",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n好",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "好",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744452010,
       "formatted_time": "2025-04-12 18:00:10",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "9️⃣我买了",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744452058,
       "formatted_time": "2025-04-12 18:00:58",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd`@\u0005\ufffd\u0017\u0000\u0006\ufffd\ufffd$\ufffdr\ufffd\ufffd\ufffd\u001c^VR\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd^\ufffd\ufffd\ufffd\ufffd\u000b\u0011K\u0018\ufffdiJ5a\ufffd\ufffdV\u001e^\b\ufffd\u0000\ufffd\u0000\ufffd\u0000с\ufffd\ufffdz\ufffd\ufffdX\ufffd\ufffd\ufffd\ufffdV\ufffd\ufffd\ufffdf|?RYK$WO\ufffdϑ\ufffdi{\ufffd\ufffd4\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdlO\ufffd\u0014\ufffd\ufffdi4g\ufffd\u0019a\ufffd\ufffd\ufffd\u00189\ufffdJ\ufffd{\ufffduR\ufffdlO\ufffd\ufffdi\ufffd\ufffd\u0003\ufffdֿ\ufffd\ufffd>\ufffd2\ufffdZ\ufffd\ufffd\ufffd\ufffdu\ufffdL\ufffd\u0018_yN\u0014\u0001\ufffd\u0018\ufffd\ufffdv2\ufffd̴\ufffd\ufffd\ufffd\ufffd\ufffdXv\ufffd\u00151\ufffd\u0003\ufffd/0\ufffd\ufffd[\u00000\ufffd\ufffd\ufffd\\\ufffdQ\u0016Ū$\ufffd\ufffdj-\ufffd\ufffdio<\ufffd\ufffd\ufffdݟG.\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdO\ufffd\ufffd\ufffdq\\<\ufffdɹk\ufffdH\t'O®\r;\ufffdw;\ufffd3z|\r[\ufffd\ufffd\\\ufffd{\ufffd]\ufffd~\u001d\ufffd\ufffd\ufffd<\ufffd)\u001b\u0011Xw\u0006<\ufffd\ufffdNLU\u0015\\q\ufffd$\ufffd\ufffd\ufffd\ufffd\ufffd'\ufffd\ufffdF>>\"4G,kZ*\u0012ɀ\ufffd\ufffd\ufffd\u001e\ufffdʪJct\ufffd\ufffdX\ufffd\ufffd\ufffd\ufffddZ\ufffd\ufffdJ;r\ufffd\u000fF\u0012\ufffdt\ufffd8\ufffd\tO\ufffd~\ufffd荻7\ufffd\u001a\ufffd\ufffdq(\ufffdl\ufffd\ufffd!\ufffdt\ufffdl\u0007k\ufffd\u0010D\ufffdʆ:\ufffdӼ\u0019e\ufffdr\ufffd\ufffd\ufffd֒Jm\ufffd2:%\u000f\ufffd\ufffd\u0007\ufffd!b\"q\ufffd.\u0016o\ufffd\u001e \u001b\ufffd!\u0001U8\ufffd\ufffd\u0010bM2>^Fi\u001ccB4\u001b\ufffd\ufffd\u0013!\ufffd\u0010\ufffd!\ufffdn!\ufffdWR\ufffd\b\ufffd\ufffdG$\ufffdB\ufffdB7\ufffd2Ӯ\ufffd$\ufffd}e\ufffd\ufffdvO\ufffd!\u0016r|\ufffd\ufffd\u001b\ufffd\ufffd\ufffd.\ufffd\ufffd\ufffd$t\ufffdv\ufffd1\u0006\u0012vqT\ufffd\nߋi\ufffd|\ufffdA\ufffd'W\ufffd+L\ufffd\ufffd\ufffd\ufffd\ufffdT` )0h\ufffdS\ufffd\ufffd\ufffd\ufffd\u001aڒQ'\ufffd\f\u000eJ\ufffd\u0016(\ufffd\u0005\b\ufffd!\ufffdpA\u001fj4\ufffdw\ufffd\t\f\u0012\rYT\ufffdԐQ<\rli(HT\ufffd\ufffd\ufffdP\ufffd+\ufffd\ufffd9O\ufffdz\ufffd\ufffd\u0014\ufffd\ufffd\ufffd\ufffd\ufffdDgΓiSΦ\ufffd\ufffdf\ufffd<I\ufffd'\ufffd5|\ufffd\ufffdr\ufffd\u0015\ufffd]\ufffd-\ufffd4\ufffd\ufffdOg\ufffdT\u0007\ufffd\ufffd_!\ufffd\u001c\ufffd\ufffd\ufffd7ߞK7 `\u0002\ufffdb\ufffdyS\u0003¶DrM\ufffd\ufffd\ufffd\ufffd3@6\u0003\ufffd4\ufffd\ufffd\ufffdk\ufffdl\b\"\ufffd\u0006T\ufffd\u001e\ufffdu\ufffd\ufffd\ufffd\ufffdO\u0000 \u0001\ufffd2*\ufffd\ufffd\ufffd\ufffd<#b\ufffdDX\ufffd\ufffd\ufffd\ufffdoW\ufffdS\u00037\ufffd\u0010\u0001\ufffd\ufffdۘ\ufffdY\u001bL\u0012p9\u0010w\ufffd\ufffd \u0013\ufffd\ufffdy\ufffd6\ufffdS\f0\u00103\ufffd8\ufffd,\ufffd\ufffdA\ufffd]\ufffdq\ufffdc`\n`\ufffd\ufffd\u0005\bU\ufffd\ufffd<\"e\ufffdg\ufffd\"\tar\ufffd\ufffd2",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744452711,
       "formatted_time": "2025-04-12 18:11:51",
-      "type": "文本",
-      "str_content": "wxid_ynq76qcgzoad22:\n不急吧",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "不急吧",
+      "sender_name": "张绍明",
+      "sender_wxid": "wxid_ynq76qcgzoad22"
     },
     {
       "create_time": 1744452716,
       "formatted_time": "2025-04-12 18:11:56",
-      "type": "文本",
-      "str_content": "wxid_ynq76qcgzoad22:\n你们都到了啊",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "你们都到了啊",
+      "sender_name": "张绍明",
+      "sender_wxid": "wxid_ynq76qcgzoad22"
     },
     {
       "create_time": 1744452722,
       "formatted_time": "2025-04-12 18:12:02",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n我还在等车",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我还在等车",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744452728,
       "formatted_time": "2025-04-12 18:12:08",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我要出发了",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744452904,
       "formatted_time": "2025-04-12 18:15:04",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n有点寒冷",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "有点寒冷",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     },
     {
       "create_time": 1744453385,
       "formatted_time": "2025-04-12 18:23:05",
-      "type": "文本",
-      "str_content": "wxid_ynq76qcgzoad22:\n你们先去",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "你们先去",
+      "sender_name": "张绍明",
+      "sender_wxid": "wxid_ynq76qcgzoad22"
     },
     {
       "create_time": 1744453434,
       "formatted_time": "2025-04-12 18:23:54",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我到了",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744453713,
       "formatted_time": "2025-04-12 18:28:33",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "c05",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1744453761,
       "formatted_time": "2025-04-12 18:29:21",
-      "type": "文本",
-      "str_content": "wxid_jgnpkplu1mz312:\n好",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "好",
+      "sender_name": "Ragdoll",
+      "sender_wxid": "wxid_jgnpkplu1mz312"
     }
   ],
-  "export_time": "2025-12-06T19:12:18+08:00",
+  "export_time": "2025-12-07T09:48:04+08:00",
   "message_count": 68
 }

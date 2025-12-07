@@ -5,88 +5,88 @@
     {
       "create_time": 1679024319,
       "formatted_time": "2023-03-17 11:38:39",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我是文印中心 李",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1679024507,
       "formatted_time": "2023-03-17 11:41:47",
       "type": "系统消息",
-      "str_content": "你已添加了小小在线，现在可以开始聊天了。",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1679024643,
       "formatted_time": "2023-03-17 11:44:03",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你好可以做个横幅吗",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1679024647,
       "formatted_time": "2023-03-17 11:44:07",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0001\ufffd\b\u0000\u0006\u0014:\u001ep\ufffd\ufffd\u0001\u0001\u001a\u0015\ufffd\ufffd=\ufffd\ufffd\ufffd\ufffd\u001a\ufffd\ufffd0͵+\ufffdLRZC\ufffd\ufffd\ufffd\u00067\u0000*\u0000.\u0000ys\b\u0018\u0006V\u001cP\u000e\ufffd\ufffd\b\ufffd\ufffd08\u0002\u0003\u0003+8\ufffd4\ufffd] \ufffd\ufffdA\ufffd\ufffd\ufffdJ\ufffdÎ2\ufffdm\ufffdks\u0018\ufffd\ufffd\ufffd)\"\ufffd\ufffd@\ufffd%\u001a\u0001\ufffd<z[n\ufffdv^\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\\w\ufffdFl\ufffd\"U\ufffd\ufffd\ufffds\ufffd=\ufffdVj\ufffd\ufffd\ufffd\ufffd\ufffd9357\ufffd\t\r\u0016\u0014\ufffd8(\tt\n\ufffd\ufffd\ufffdC9$\u0005'\ufffd\ufffd\ufffd\ufffdq\ufffd\ufffdL\ufffd\ufffd]\\\ufffdݝ\ufffd\ufffd/\ufffd~~\ufffdק>7\ufffd\ufffdyH\ufffdD\ufffd\ufffd$\u0011\u0012\f\ufffd\u001d\ufffd\u0005\ufffd\ufffd\b\ufffd\b\ufffdB\u0018\ufffdb\ufffd\ufffd(m:Ż\u0012%\ufffd\u0018{\ufffd\ufffd\ufffd|\ufffd\u001c\ufffdE\ufffd\ufffdfs\u0012a\ufffdq5\u0012\u0000\u000b\u0004\ufffd\ufffd\u0011\ufffd6\ufffdh\ufffd9\ufffd\ufffd0\ufffd2'g'\ufffd\ufffd\ufffdX\ufffd2L\ufffd\u0005\u001b-\ufffd|\ufffd\ufffd\u0017\ufffds\u00066f\ufffd\ufffd\u0004$\u0005(\ufffd\u0001",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "自己"
     },
     {
       "create_time": 1679024651,
       "formatted_time": "2023-03-17 11:44:11",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "类似这样的",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1679024655,
       "formatted_time": "2023-03-17 11:44:15",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "可以",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1679024662,
       "formatted_time": "2023-03-17 11:44:22",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "内容是 本科生党建工作联席会2023全体大会",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1679024665,
       "formatted_time": "2023-03-17 11:44:25",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "长度5m",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1679025393,
       "formatted_time": "2023-03-17 11:56:33",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1679027629,
       "formatted_time": "2023-03-17 12:33:49",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "大概什么时候能去拿呢",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1679027694,
       "formatted_time": "2023-03-17 12:34:54",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "明天 可以不",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1679027704,
       "formatted_time": "2023-03-17 12:35:04",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "okok",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:25+08:00",
+  "export_time": "2025-12-07T09:48:09+08:00",
   "message_count": 12
 }

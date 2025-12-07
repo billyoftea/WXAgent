@@ -6,80 +6,80 @@
       "create_time": 1762569275,
       "formatted_time": "2025-11-08 10:34:35",
       "type": "系统消息",
-      "str_content": "以上是打招呼的消息",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1762569276,
       "formatted_time": "2025-11-08 10:34:36",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1762569353,
       "formatted_time": "2025-11-08 10:35:53",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "hi！我是汇丰研一金科专业的徐昂~，也是链协研究部的\n想请教下链协研究部群里你有问到web3 ai agent相关的内容，我很感兴趣，想要详细了解一下~",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1762569627,
       "formatted_time": "2025-11-08 10:40:27",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\ufffd\u0006\u0000\ufffd\r31p\ufffds\\\ufffd2%\ufffd\ufffd}\ufffd\ufffd\u0016n\ufffds\ufffdW|\ufffd\ufffdT\ufffd*\u0012\u0012.t\ufffd\ufffds[\u0013A+\ufffd\ufffd_ǉN\ufffd\ufffd\ufffd\ufffd\ufffd_\b\u0001\ufffd\ufffdL\ufffd\u0000\ufffd\ufffdT\ufffd4⑎a\ufffd׆7\ufffdK\ufffds\u0011\ufffdU\ufffd\\\u001a2h8\ufffdYM\ufffd/\ufffd\ufffdqi9\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdAr!\ufffd\ufffdu\ufffd\"\ufffdO\ufffd\ufffd\u0010\ufffd\ufffd\ufffd\u000f\b̧1\ufffd_\u001b\ufffd\ufffd7t\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd2T\ufffd(\ufffd\ufffdc-6\ufffdz\ufffd\ufffd&q8r\ufffd&\ufffdg\ufffdҪ;\ufffdc\ufffdf\u0014\ufffd%\ufffd\t\ufffdF\ufffd\u0017ZeMzN\ufffdp\ufffd\ufffd,aO\ufffd[\ufffd4\ufffd\ufffd\ufffdјɣ\ufffd\u0010\ufffdb\u0002\ufffd\ufffdA\u0007\u0005\u0000O3@P\ufffd+%\u001cC\ufffd\ufffd3\bf",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "哈喽，我是力工学院研一的谷田丰\n我那天参加社团见面会的时候看到了这个选题，本身我也是做ai相关的，所以群里问了一下有没有感兴趣的同学一起研究一下，我也处于探索期[呲牙]",
+      "sender": "对方"
     },
     {
       "create_time": 1762569741,
       "formatted_time": "2025-11-08 10:42:21",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\u001d\u0006\u0000\ufffd\ufffd,.\ufffd\ufffd\ufffd\ufffdw\ufffd\ufffde\u0004:Z/\ufffd\ufffd\ufffd\ufffd+΅_\ufffd\u001b\r\u0017mt/\u0002\ufffd\ufffd3\ufffd\ufffd\ufffdm\ufffd\u0010Y!ȄLȄN\u0005Q\ufffd\ufffd\ufffd.\ufffd\ufffd\u0015RW\ufffde\ufffd\ufffd\ufffd\u0006\u001b\ufffd(\ufffd\u0002\ufffdN\ufffd~\ufffd\u001f\ufffdO\ufffdIDs\u0016?\u001c7\ufffd,\u0003\ufffdJ\ufffd)\ufffd%\ufffdi\ufffd\ufffdn\ufffd9#\ufffd4y\ufffdyCa\ufffd5\ufffd\ufffd4\ufffd\ufffd06]V\ufffd\ufffd\n\ufffdKY|Р-,\ufffd\ufffd\ufffd \u001a\ufffd\ufffd\ufffd\u0012郬<\u0011\ufffd\ufffd\ufffd&\ufffd\ufffda\ufffd\ufffd\u0007\ufffd_\ufffd1\ufffd\ufffd\ufffd\ufffd\u0012\ufffd\u0004سD\ufffd\ufffd6\ufffd\u0019u\ufffd\ufffd\u0014>\u0004\u0000i\b\ufffd\ufffd\ufffdH\f\ufffd(\ufffd\ufffd\u0006",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "嗯嗯，很遗憾当时没能去参加社团见面会[流泪]想问下这个选题定好之后是怎么分工的呢？是几个人围绕这个大选题一起随意发挥研究吗？研究的目标是什么呢？",
+      "sender": "自己"
     },
     {
       "create_time": 1762570666,
       "formatted_time": "2025-11-08 10:57:46",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好像是6-8个人，大家一起根据选题制定方向，然后发一篇行业汇报。研究部那个群里这几天应该在统计选题跟人数～",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1762570714,
       "formatted_time": "2025-11-08 10:58:34",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0003}\u0013\u0000Vfy&\ufffd\ufffd\ufffd\u0003+70\ufffd\ufffd\u000b\ufffd`\"\ufffd\u001f<\ufffd\ufffd+\ufffd@\ufffd\u0003/LI$di ~\ufffd\f3$\u00030/k\u0000a\u0000z\u0000~\ufffd̲KV\ufffdS\ufffdДl\ufffd\ufffd6\ufffd\ufffd\ufffd\ufffdԧD\ufffd3J\ufffd]\ufffdt\ufffd\ufffd;\ufffd\u0007Z\ufffdm\ufffd\ufffd\n\ufffd\u001aG:\u0014\ufffd/\u0018P\ufffd\ufffdƑ \ufffd<\ufffd\ufffdo9\ufffdY\ufffd,\ufffdl\ufffde4kTed\ufffdCa2%̷ᶞ\u0012\ufffd\u0005\u0017\ufffdI\ufffd\bp\u001c@:T\ufffd\ufffd!\ufffd/\ufffd\ufffd#\u0002\ufffdӥ\ufffd]Ǯm\ufffdj.\u001d\ufffd\ufffd\ufffd8\u0014\ufffdh\ufffdm\ufffd\ufffd\ufffd:\ufffdzK\u0011\ufffd\ufffd\ufffd\u000e%v\ufffd\ufffd\u001duK\u001d\ufffd\u0013\ufffdJ\ufffd\ufffd\ufffd\ufffdQ\ufffd\ufffdW\ufffd\u001e\ufffd$\ufffd\ufffd\ufffd6\ufffdj\ufffd\ufffd/\u001fz\ufffd\ufffd\ufffd۟\u0016\ufffd\ufffd\ufffd\ufffd\ufffdǳ\ufffd\ufffd\ufffdo\ufffd\ufffd/\ufffd\ufffd|k\ufffd\ufffd\ufffdZ:ir\ufffdaQ\u0012\u001a\"\u0014\ufffdaQ \ufffd*CpE&\u0005\u000el\ufffd\ufffd\ufffd\t\r\ufffd\"pE\ufffd$cmkb\ufffd\b\u000eK\ufffd\ufffdg9H\ufffd\u0002\u0003l\ufffd\f\u001chF\ufffd\u001a\u001fW52.k\\hT\ufffd\ufffdT\u001d\ufffd\ufffda\u001f\u00037S\ufffd\ufffd#\u0004\ufffd\u0017\ufffd\ufffd\ufffd\n|[\ufffdх\ufffd@\ufffd\ufffd\ufffdH(\u00169\ufffd\ufffd\u0007\ufffd\ufffd\ufffdv\ufffd]\ufffdDҷ:3\ufffd\f\ufffdf\ufffd\u0005\u0017\ufffdgz\ufffd\ufffd\u0002\u0002se\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdO\ufffdۏ.\ufffd\ufffd\u0015/ΠE\ufffd\u0015N\ufffd\u000f\u001b\ufffd6\ufffdz\u0010[?\ufffd\u0013\ufffd\ufffd\ufffd\ufffd\ufffdi1\ufffd\u001d\ufffdp\ufffdu\ufffd\ufffd\ufffd4\u0015\ufffdg\ufffdE\ufffd\ufffd\ufffd\u0005-xJ\ufffd\ufffd\ufffd\ufffdI\ufffd\ufffdJ2&\u0012/ac\ufffdpI&\ufffd\ufffdH\ufffdF5\ufffd6\ufffd!hDFɮ\u00029 \u0010,I\ufffd-\u0006\ufffd\u0000ͅ|\u0002l\ufffd\ufffd۔\u0015\ufffdh\u0000\ufffd:đ\ufffd\ufffd\u0005\n\ufffd\ufffd\f\u0011\ufffd\"ٵe\ufffd\u0018\ufffd\ufffde\ufffd\ufffd\u0016QBD\ufffd\u0000Np\ufffd\u00147Z\ufffd\u0018\rق\ufffd\u0005\r\u0001\ufffd\ufffd\ufffd\ufffd\u001c\u0001\ufffdh\ufffd[V.0\u0004v\ufffd\b\ufffd\ufffd\ufffd\u0012\ufffd7\ufffd<\u000f+\ufffd\ufffd\ufffdM\ufffdX\u001fn\ufffdp\u001a\ufffd݉؝:$\ufffd\u0015>\u0013<\ufffd\u0001_\ufffd4L\u0019\ufffd0w\u0015\u0001a\u0001\ufffdf",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "对方"
     },
     {
       "create_time": 1762570735,
       "formatted_time": "2025-11-08 10:58:55",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我那天拍了一下，一共是这些选题",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1762570750,
       "formatted_time": "2025-11-08 10:59:10",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好呀好呀~我看了一下，大概也会选ai agent方向~期待后续的合作！不好意思占用时间啦！",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1762570810,
       "formatted_time": "2025-11-08 11:00:10",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好的呀，不用这么客气的，时间就是用来跟同学交流学习的[呲牙]",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1762570847,
       "formatted_time": "2025-11-08 11:00:47",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd`5\u00045\u0013\u0000\ufffd\ufffdv!@k\ufffd\ufffd\fx\ufffdhՍh\ufffd5lC\ufffd\ufffd\f\ufffd\ufffd\ufffd璤\ufffdRKUU\u0014\u0017\u0004r\u0000k\u0000i\u0000\ufffd\u001b^Ȏ\u0014\ufffd\u0019\ufffd\u000f\ufffd\ufffdKJ)\u000e\ufffd{\ufffd\u00039\ufffdJt%\ufffd\ufffdg\ufffdz\ufffd\ufffdrK\ufffd\ufffd\u0012\ufffd\ufffdc\ufffd\ufffd \ufffd}\ufffd\ufffd\ufffd*\ufffdy\ufffdT\u001e\ufffd\ufffd\ufffd\ufffd\ufffdR\ufffd_\ufffd\ufffd\ufffdaR\ufffd\ufffdw8ĤT\ufffd\u0012\u0019OLj\ufffd\ufffd\u0012uƭ\u0004&\ufffd\ufffd\ufffd\u0006\u0006\ufffd\ufffd\ufffd\ufffds\ufffd\ufffd\u001e\ufffd\u0003-\t\"<\ufffd'\u0014\ufffd\ufffdI\u0004\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd̍\ufffd\ufffdW3k'̸qcn\ufffd\ufffd\ufffd\b#̘\ufffd\ufffd\ufffd̫\ufffd\ufffd\ufffd\ufffdsW\ufffd\ufffdls\ufffd\ufffdor\ufffdJM\ufffd͵\ufffd\u0015\ufffdOx\u0006.\u0003\ufffd\ufffd\u0001(\r\ufffd\ufffd\ufffdq\u0018\u001eb\ufffd\ufffd\\\ufffd\ufffdTE4\ufffd\u000bPP\bx1`q`\u0003|\ufffd\u0005\u0004B\ufffd\u0011c\ufffd\ufffd\u001e\ufffd?\ufffd\u0002\ufffdڬ\u0017\ufffd\ufffd\u001a{\ufffd\ufffd\ufffdKC\u001es\ufffd\ufffdb\ufffdS\ufffd\ufffd\u000e\u0007\ufffd9\ufffdԢy4bR\u000e\ufffdw\u00180zOj7Uq\ufffd\u0000\u0017\ufffd,Ͽv\ufffd\ufffdL=\u001f\ufffd\ufffd\ufffdbY\ufffd\ufffdߩ\u000fq\ufffd\u0013u\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u001b\ufffd^\ufffd\ufffdCO\ufffd\n\f\u0014\ufffdƲ&#\ufffd\u000b\ufffd^\ufffd\ufffdr\ufffd\ufffd\ufffd\f\nF\ufffd \u0012))\u0010\tŋ\ufffd\u0013\u001c\u0018\ufffds\u00189\ufffd@\u000f󼆏\ufffd\ufffd\ufffdbtI5\ufffd\ufffd9\u0018\ufffd\ufffd\ufffdI!\ufffdURb\ufffd\u0001\ufffd\ufffd\ufffd\ufffdRIiD\ufffd\fIA\u001f\u001b>\ufffdN\u0010n\ufffd}\ufffdo\ufffdW{\ufffd\ufffd\ufffd;\ufffd\ufffds\ufffdo\ufffd\ufffdw\ufffd$\ufffdU\ufffd^.\ufffd\ufffdY\ufffdf\ufffdn\ufffdh\ufffdn\ufffdx{98 p\u0002\ufffd\ufffd\ufffd\ufffdH\u0019%\ufffdT\u001elr\ufffd\ufffd\u0006\ufffd\u0014\ufffd\ufffd\ufffd%xb\ufffd\u001ek\ufffd\ufffdxԛA\ufffd\ufffdl\u0014*\ufffd\u0016\ufffd\ufffd\ufffd;\ufffd\ufffd2\ufffd\ufffdIL\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd2\u0003\ufffdo\ufffd\ufffd\ufffd\u0006-\ufffd\ufffd\u0000\ufffdEOw%\u0006O\ufffd\ufffdXCkL#\ufffd˚1|\ufffd\ufffdk\ufffd\ufffd \u0006\u001fءc\u000e\u0007Yf\ufffd\u001d\u0010\u000b;ę7tF\ufffd\u0000\u000f90\u001d\ufffd\ufffdB\ufffd\u0019@\ufffdrH\ufffdj\ufffdpk\u000f",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:14+08:00",
+  "export_time": "2025-12-07T09:48:01+08:00",
   "message_count": 11
 }

@@ -2,6 +2,13 @@
     1.集成 go_decrypt，不使用GUI，直接将其代码化集成为后端
         测试：cd C:\Users\Lenovo\Desktop\WXAgent\backend
 
+
+        # 1. 修改代码后，必须先编译
+        go build -o wxagent_backend.exe ./cmd/wxagent_backend
+
+        # 2. 编译成功后，才能运行新版本
+        .\wxagent_backend.exe export-auto
+
         # 方式1: 最简单（全自动）
         .\wxagent_backend.exe export-auto
 
@@ -31,4 +38,42 @@
             默认值：今天
             示例：--end-date 2025-12-05
     
-            
+
+2. json进一步解析：
+    1.现在json中还是有一些乱码：
+    按照如下的规则替换字符串：
+            "type": "系统消息",str_content替换为[不支持的消息类型]
+            "type": "表情",str_content替换为[表情消息]
+            "type": "未知消息类型(227633266737)",看看echotrace是如何解析，将其str解析为#接龙\n确认明下午来一起玩玩玩🥳\n例 姓名-部门-年级\n\n1. 匡浩鑫-综合事务部-25\n2. 任凯-主席团-24\n3. 李昱铭-综合事务部-25\n4. 曾瑞云 -文体部-25\n5. 王祥宇-主席团-24\n6. 张豪乐-艺术团&媒体运营部-25\n7. 刘耀旸-文体-25\n8. 张壹豪-社团服务部-25\n9. 祝焱炎-文体-25"的，你也要这么做。
+
+    2.你需要看看echotrace的源代码，是如何对json中的各种信息进行解析的，避免乱码
+
+
+3. api集成
+    我现在想要在go后端中集成各家供应商的api
+    在config中可以设置对应的api_key
+    并加入api_key检测功能
+    
+    现在已经配置成功了deepseek
+    api:sk-70b3bb08f690485b85bce660f6ec32fc
+    测试：go build -o test_deepseek.exe .\cmd\test_deepseek
+
+    我现在想要把后端整合，先对json进行解析和拼接，获得某个时间段的所有内容
+
+    工作流程为：
+        1.把json全部合并解析为消息列表文件
+        2.对消息列表文件按照时间进行切片，选出某些天的消息
+        3.考虑到deepseek的上下文限制，我想要把消息列表文件再进行分段（由于deepseek的上下文限制为128K，我想要调用token计数，每个），分别进行总结
+        4.总结的prompt:
+            """请总结以下微信群聊天记录的主要内容和讨论话题：
+
+            {merged_content}
+
+            要求：
+            1. 用中文总结
+            2. 总结出主要话题和讨论内容
+            3. 提取出重要信息（如招聘信息、活动信息等）
+            4. 概括参与者的主要观点或反应"""
+        5.把所有的总结进行合并，形成最终的总结报告
+
+    

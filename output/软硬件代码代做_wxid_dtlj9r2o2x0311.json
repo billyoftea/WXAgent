@@ -5,109 +5,109 @@
     {
       "create_time": 1714308088,
       "formatted_time": "2024-04-28 20:41:28",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1714308092,
       "formatted_time": "2024-04-28 20:41:32",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你好",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1714308100,
       "formatted_time": "2024-04-28 20:41:40",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "对docx文件中的数据进行提取和处理，什么价格 就要个数据处理",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1714308103,
       "formatted_time": "2024-04-28 20:41:43",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0001\ufffd\u0010\u0000\ufffd\ufffdvC\u0010\ufffd\ufffd\u000e\u0000hR\ufffdpUUU\ufffdcg\ufffd]Ŀ_\ufffd\ufffd\u0013M\ufffd\u0002\ufffdB\ufffdfxV\ufffd+#\ufffd\ufffd\ufffdx;8n7\ufffdW|q\u0015\ufffdݿ\ufffd\u001c̨\ufffd\u000f\u000e`MH\u0012\u0001\u0000\u0000\u0000\u0002e\u0000c\u0000a\u0000\ufffd\ufffd\u0002aQ\ufffd,\u0014N\u001b\ufffdش\ufffdU\ufffd\ufffdP\ufffd\"\ufffd\ufffd\ufffd_\ufffd]\ufffd\u00104n\ufffdf=\ufffd\ufffd\u0019>D\ufffd\ufffdu\nč\ufffd\ufffd\u001a\ufffd\ufffd\ufffd\ufffd\u001b%\ufffd$Ⱥ\ufffd\ufffd\f\ufffd\t\ufffdQ7֜8G\ufffd+\ufffdDga\ufffdP΁\ufffd`h\ufffd\ufffd\ufffd1\ufffd\ufffdz\ufffd\ufffd7\ufffd\ufffd\ufffd{\ufffd\ufffd5\ufffd\u0001\ufffd/z\ufffd\ufffd\ufffd\ufffd9(\ufffdb}h|\u000f\ufffd`~[\ufffd\ufffdt\ufffd\ufffd;\ufffdN\ufffdގ_\ufffd\ufffd\f͎@\u0000D\ufffd򿱗\ufffdY\ufffd\u0011\u0006\u0007J\u0010\u0016\ufffdg\ufffd Vk\ufffdg\ufffdWC\ufffdc>\ufffd\u0005\ufffd\ufffddP;8i~.\ufffd\ufffd{\u000f哭Ӷ\ufffd\ufffd\f\ufffdiۅb\ufffd\u0005\u001d\ufffdc\ufffdv3g\ufffd\u0013\ufffd\u001e\ufffd\ufffd\ufffd\ufffd\r\"\ufffdE\u0017\ufffd\u000f\ufffd\ufffdH\ufffd\ufffd\ufffd\ufffdλ\\\ufffd\u0001\ufffdT\ufffdQ1-~\ufffd\ufffd/\ufffd\ufffd\u001b\ufffd/\ufffd\ufffdNg\ufffd\ufffd'A8\ufffd\ufffd\ufffd5\ufffd\ufffd\ufffdh\ufffd\ufffd__{\ufffd\ufffd+\ufffd\u001e\ufffdNɎf\ufffd\ufffdxL\ufffd5Fp\ufffd\ufffdO\ufffd_ \ufffd\u0006\u001c\ufffd{\ufffd\u001f3\ufffdB\ufffd\ufffd\ufffd\ufffd\ufffdN\ufffd\ufffd\ufffd}\ufffd\ufffdʺ\ufffd\ufffd\ufffd\ufffd5\ufffd^z[B\ufffd=\ufffdqC\u0000\ufffd\ufffd'ғ\u0011\ufffd\ufffd~{\ufffdjhK:\ufffdD\ufffdMh\u0012\u000b\ufffdU`\ufffd\u0007\ufffd\u0000\u0002\u0005\u001c\u001c$\ufffdˆY 1\ufffd\ufffd\ufffdͺ\ufffdr\ufffdհV\ufffd\ufffd=\ufffdp\u000f \ufffd\ufffdV\u0011\ufffd9\ufffd\b\u001a\u0000\u0002D\u0018\ufffdȄ\ufffd~Ed\ufffdoo\b\ufffd;ڙ\u0015\u0003\u0004\ufffd\ufffd!\ufffd\u001d:\ufffd\fQ@@`\u0012\ufffd\u0004\"\ufffdH \u0012\ufffd\u0004K\ufffdi\ufffd\u001d\ufffd\ufffd]\ufffd\u000fP\ufffd\ufffd\u0007\ufffd\f",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "请给我如下处理该文档的python代码：生成DataFrame，其中有Stock_Data列，为docx中每段数据的日期，company_name列，为docx中每段数据的direct affected的公司名称。之后新建十五列公司变量=['贵州茅台', '恒瑞医药', '伊利股份', '万华化学', '隆基绿能', '国电南瑞', '陕西煤业', '药明康德', '海尔智家', '三一重工', '中芯国际', '特变电工', '海光信息', '金山办公', '天合光能']，这个列的值为每段的postive/negative word文件位置为\"C:\\Users\\11853\\Desktop\\chatgpt\\新闻影响因子.docx\"，注意要按照文档中的格式进行识别和处理",
+      "sender": "自己"
     },
     {
       "create_time": 1714308107,
       "formatted_time": "2024-04-28 20:41:47",
-      "type": "未知类型(25769803825)",
-      "str_content": "(\ufffd/\ufffd`b\u0006M \u0000\ufffd<\ufffd? \ufffd\ufffd\r\ufffd\u0013\ufffd\u0010\ufffdp\u000e2\ufffd\u0004\u0000\ufffd\ufffd\ufffd\ufffd\ufffd\u0011d\u000f\ufffdn\ufffd5\u0013\u0011\u0019\ufffd\ufffd(E\ufffd\ufffd\ufffd[p2\ufffd\b\ufffd\u001a\ufffd\u0003\u001a\ufffd\ufffd'2\ufffd\ufffd\ufffdu({4@\ufffd\ufffd3\"\ufffd\u0000\ufffd\u0000\ufffd\u0000\u0019ֺ\ufffd\ufffd\ufffd]g\ufffd\ufffd\ufffd\ufffdj=\ufffd\ufffd$\t\ufffd^\ufffd\ufffd\ufffd\ufffdJU\ufffd\u001a!KY\ufffdz\nM\ufffdζJ\ufffd\u001a\ufffd\ufffdFe\ufffd\ufffdg߷\ufffd\ufffd\ufffdݷa\ufffdc\ufffdu\ufffd\ufffd}׶\fo\ufffd\ufffd\ufffd\ufffdk\ufffd\ufffd>\u001d\ufffd\ufffd\ufffd7i\ufffd\ufffd\u0019\ufffd\t\ufffd\u001a^O\ufffd4\ufffd\u0007\u0018N,T8q\u0010\ufffdd\ufffd\ufffd\ufffd\u000e\u0014Jh\ufffd bz\ufffd\ufffd~)\ufffd\ufffdd\ufffd\ufffd\ufffd\ufffd\ufffd\u0012\ufffd',Q5\ufffd\ufffd6WYV\ufffd\ufffd\ufffd\ufffdY*\ufffd\ufffd8<a\ufffd\ufffd\ufffd\ufffd\ufffdT&\ufffdg\ufffd2\u0005\ufffdD\u0000\ufffdR\ufffdm\ufffdw\ufffdM`\ufffd'\ufffd\r[\ufffdxø\ufffd\ufffd=\ufffdخ.\u0005ҙ\ufffd\ufffdݷ\ufffdᕜ\ufffdu^*\ufffd\ufffd\ufffd\ufffdz)]\"J\ufffd\ufffd\ufffd$(\ufffdZE\ufffd\u0013#\u0014c\ufffd\u0012\ufffd\ufffdV\u000bшRkmD\ufffd\ufffdh\ufffd\ufffdJTψN\ufffd\ufffd\ufffd\ufffdV[\ufffd\ufffd\ufffd\ufffdP=\ufffd\ufffd\ufffdRK)\ufffdh\ufffd5\ufffdX\ufffdOke\ufffdQ\ufffd\u001aO\ufffd)\ufffd3\ufffd\ufffdRQQF5N\ufffdFJ\ufffd\u001ac\ufffdq\ufffd\tE\ufffd\ufffdt\u00160\ufffd\ro\ufffd\ufffd\ufffd&\ufffd1\f\ufffd\ufffd_ʕq\ufffd\ufffd\ufffdp\ufffd>˶\ufffd\ufffd\u0018Ƿ\ufffd\u0007\ufffd\ufffd\ufffd \ufffdߓd\\d\ufffd\ufffd0,<8$ȑi,g}&\u0017\u001a\ufffd\ufffd\u0000\ufffd\ufffdm}\ufffd(\u000e䎋h:\ufffd\u0001\ufffd\ufffd\u000e\ufffd<\u001a\ufffd\ufffd./\ufffdbD\ufffd$Ӫ\u000f\ufffd\ufffd\ufffd-\ufffd\tlX\ufffd\u0002\u0018R\ufffdh\ufffdH\ufffd\u0015\u0014؈t\u001d\u001a\u001d\ufffd\u001a\ufffd\ufffd\ufffde29\u0012`\ufffd\ufffd\ufffd5\u00127\ufffdD\ufffdE\ufffd@&$\ufffd\ufffd\ufffd\ufffd\ufffd\u0016&\ufffdϐjF\u001d\ufffd\ufffd\"\r\ufffd\ufffddD#\u001fQFA\ufffdM\ufffd\ufffd\ufffd\u0003\ufffdDٽxI\r\ufffd\ufffd\"\ufffd\ufffd\"\ufffd\\v\u0003\ufffd=\ufffd\ufffdCQ\u000bl\ufffd\ufffd@C\u001fF\ufffd?\ufffdG{\u001cg:0<\b\ufffd\ufffd\u0007\ufffdA\u000f\ufffd\u0003\ufffd\u000b\r\ufffd\ufffd&\ufffdK\u0002\ufffd\ufffd\ufffd\u0019\ufffd\u0015x'\u0006\rF@X@\ufffd\ufffd\ufffd\u0011\u0017@\ufffd\ufffd\ufffd\ufffdd\ufffd8\f\ufffde\ufffd\ufffd}\ufffd\ufffdR\ufffdw\ufffdN\ufffd\ufffd\ufffdp-\ufffdb\ufffd\ufffd\ufffd\ufffd\ufffdl\ufffd\ufffd\ufffd\ufffd矷\ufffd=\ufffd8\ufffd\ufffd\ufffd\ufffd\ufffd0w)[\ufffd\ufffdwuF\ufffdkt\ufffd\ufffd\ufffdo\ufffd\ufffdp\ufffd\ufffd\ufffd\ufffd\u0017\ufffd\ufffd\ufffd\u0010^9u\ufffd}\ufffd\ufffd=\ufffd\ufffd1\ufffd\u0013\ufffdu4\ufffd+\ufffd\ufffdY\ufffdSSB\u0010\ufffd\ufffd\ufffdr\u0015\ufffdT%)\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0012x\ufffd\ufffdjd\ufffd\ufffd\ufffdx\ufffd\ufffdJ\ufffdB\ufffd\ufffd\u0016Ͼ\ufffd8\ufffdw\ufffdu\ufffdm\u0015\u0015V\ufffd\u0018\f\ufffdf\ufffd\ufffd\rq\n\u0011\"!\u0011Q\ufffd\ufffd\ufffd\u0019\ufffd\u0010$\ufffd\ufffdm\u0007\u0012@$E\ufffdZ\ufffdĈ\ufffd\ufffd_\ufffdg\u0010*\u0019Yf\ufffd\\3\r-\ufffd\u0016\ufffd\u00103Z\ufffdr\ufffdbjג\ufffd]C*\"\ufffdO\ufffd\ufffdo\ufffdJ{4H\u0019\ufffdM\ufffdF\ufffd\ufffd*\ufffd\ufffd#\ufffdn\ufffd\ufffd\ufffdK\ufffd\u0002\ufffd\ufffd\u0007ԅ\ufffd\u0006\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdy\ufffd\u001a(\ufffd\ufffd~\ufffdCj\ufffd\u0011떭ed\ufffd\ufffd'\ufffd\u000b\ufffd\ufffdhJ\ufffd\ufffdv\rhF󀂒\ufffd\ufffd_,\ufffd\u0010\ufffdc@\ufffd\u0003\u0019x\u0007\u001c\u0015\ufffd\ufffd*\ufffd\ufffd\ufffdQ\ufffd[\ufffd\u000e\ufffd۠\u000f\n՘r\ufffd\ufffdg\ufffd\ufffd\ufffd7kx\tCz\ufffd\ufffd\u001f\ufffdo\u001f\ufffd\ufffdʸ\ufffdor;9\ufffd\u0019#o\ufffd4\ufffd\ufffd\ufffd\ufffd\ufffd\u0010px\u0014P+'<Gr\ufffd@\ufffd6\ufffd\ufffd\"@ϫX\ufffd\ufffd\ufffdk\ufffd",
-      "is_sender": 0
+      "type": "文件消息",
+      "str_content": "新闻影响因子.docx",
+      "sender": "自己"
     },
     {
       "create_time": 1714308111,
       "formatted_time": "2024-04-28 20:41:51",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "大概是这样",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1714308264,
       "formatted_time": "2024-04-28 20:44:24",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "稍等",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1714308265,
       "formatted_time": "2024-04-28 20:44:25",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "看下",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1714308318,
       "formatted_time": "2024-04-28 20:45:18",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "可以200",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1714308364,
       "formatted_time": "2024-04-28 20:46:04",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "这也太贵了 那我还是去问gpt得了",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1714308501,
       "formatted_time": "2024-04-28 20:48:21",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "那你预算多少",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1714308832,
       "formatted_time": "2024-04-28 20:53:52",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你最低给多少吧",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1714308836,
       "formatted_time": "2024-04-28 20:53:56",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "这也就几行代码的事儿",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1714308856,
       "formatted_time": "2024-04-28 20:54:16",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "最低200",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1714308863,
       "formatted_time": "2024-04-28 20:54:23",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "那算了",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:22+08:00",
+  "export_time": "2025-12-07T09:48:07+08:00",
   "message_count": 15
 }

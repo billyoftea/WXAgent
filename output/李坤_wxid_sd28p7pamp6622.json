@@ -5,67 +5,67 @@
     {
       "create_time": 1693138328,
       "formatted_time": "2023-08-27 20:12:08",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "李哥  你明早有空一起把物资往爱广搬搬嘛，可以给工时",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1693138472,
       "formatted_time": "2023-08-27 20:14:32",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "几点呐",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1693138475,
       "formatted_time": "2023-08-27 20:14:35",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我上午没啥事",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1693138482,
       "formatted_time": "2023-08-27 20:14:42",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "大概八九点~",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1693138491,
       "formatted_time": "2023-08-27 20:14:51",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "行",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1693138498,
       "formatted_time": "2023-08-27 20:14:58",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好好好！感谢！",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1693138499,
       "formatted_time": "2023-08-27 20:14:59",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "叫我一声就行",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1693138502,
       "formatted_time": "2023-08-27 20:15:02",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd``\u0005\ufffd\u0015\u0000\ufffd/\ufffd\"@M\ufffd\u0003\ufffd\ufffd\ufffd\u0005\ufffd\ufffd\u0018\ufffdA\ufffd\u0006,'/>\ufffd\u00067!IdJ\"H*AQ\u0014\ufffd\r\ufffd\u0000r\u0000s\u0000\u000e\u0013\ufffd4ăB!Јq\ufffd\u0012\u0006\ufffd\ufffd\ufffde\ufffd?$G\ufffdy\ufffd\ufffd\ufffd#\ufffd\ufffd1qqx\u000f\ufffd8RK^N\ufffdӌ#\ufffdvm\ufffd\ufffd\ufffdjI\ufffd\ufffd,na\ufffd\ufffde\ufffdb\ufffdS\ufffd^s\ufffdLH\u0001ǼnR\u00025\ufffd\u000e\ufffdc\ufffd\ufffdR\ufffd\r\t\ufffdE\ufffdc\ufffde`d|\ufffd\ufffdT\ufffd\u001b\ufffdk\ufffdF\ufffd\u0017%<&\u0002\"%\ufffd8\u0007\ufffdȡy x0\u000bO\ufffd\u0004\u0005\nQC\u0010\ufffd\b|\ufffdKa\ufffdٞS\u000bQ\ufffd\ufffdc\u001azbt\ufffd\ufffdH,\ufffd*Ϙ\ufffd)o\ufffd\ufffdL^`\ufffdSSq\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdB~V|fg\ufffdח\u0017\ufffd\ufffd\ufffd\ufffdS7\ufffd~in6\ufffd\ufffd\ufffd\ufffd*Uj\ufffd\ufffd\u0013\ufffdfh\u0006\u0003\u0007\u001a\ufffd\u0003H\u001a\ufffd\ufffd\u001e\ufffd\u0003\ufffd\ufffd'F\n\ufffd\ufffd\ufffdH\ufffd\u0014ͳ\u000444\u0004,1\u0000\u0006\ufffd!\u0010a\ufffdb\ufffd\ufffd\u0006Օށ:F\ufffd\ufffdԂ˶\ufffd\ufffdC\ufffdҞ\ufffd\ufffd{ul-\ufffd\ufffd\ufffd-E\ufffdTUa\ufffd\u001a\ufffd\ufffd3\ufffd:_!߯3\ufffd2;\ufffdef\ufffdr{c\ufffdTU\ufffd.\ufffd\ufffd\ufffdm\ufffd\u000b\ufffdV\u0018\ufffd\ufffd*\ufffdilH@\ufffd\ufffdGR\u001a\ufffdE\ufffd\ufffdQ`\ufffd~GRM\ufffd<f\ufffdQ\u0012\ufffdJ\ufffd\ufffd\ufffdl\u0005\u0005\nQ\ufffd (P\u0010\u0014\ufffd\ufffd,Q?\u0006\ufffd\ufffd\ufffdEN3\ufffd\ufffd\ufffd,1\ufffd\ufffd\ufffd\ufffd\ufffdbt\u0012Ͱ\ufffd\u000e\ufffd\u0011\ufffdԈq\ufffd\ufffd\ufffd\ufffdH\ufffd\ufffd\ufffdE|\fđZ\ufffd\ufffde\u001d\\J\ufffd=\ufffd\ufffdv\ufffd\ufffd\\xW\ufffd\ufffd\ufffd\ufffd\u001ci\ufffd\ufffde_\ufffd\ufffd+f_gn\ufffd\ufffd]Y\ufffd=\ufffd\ufffd\ufffd\ufffd\ufffd꿺>\ufffdC\ufffd>\ufffd\ufffdV\ufffd\ufffd\ufffd\nD\ufffd\ufffd8\ufffd\u00105\ufffd\ufffdLH\"A\ufffd<\ufffd\ufffd\u0011\ufffdQy\u0012\ufffd\"\ufffd\ufffd\u0012,%p\u000e\n&~'\u0006\ufffd\u0016\u0007\ufffdyl\u0015\u0002\ufffd@ڶ\ufffd\ufffd6r\ufffdI\ufffdE\ufffd\u0011\ufffd\ufffdK@\ufffd\ufffd\ufffd.\ufffdK\u001f^\ufffd\ufffdt\ufffdD\ufffdl\ufffd(\ufffd+8\n\u0012\ufffd!\u0004\ufffd,c6f\ufffd\u001b}4\ufffd\ufffdG\u0012\ufffd\ufffd\fu3\ufffd\ufffd\"\ufffd\ufffd\ufffd\ufffd\\t\ufffd\ufffd\ufffd \ufffdj\ufffd\ufffd\ufffd\ufffdf\ufffdVC\ufffd]\u0014\ufffdv\ufffd\f\u0002\ufffd7NEZ)\ufffdT\ufffdP\ufffduF\ufffd\ufffd\u0018\u001a0\ufffdj#\ufffd\ufffdh\ufffdX\u0018\ufffd\u0014\ufffdp%ȩR\u0001",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender": "对方"
     },
     {
       "create_time": 1693138510,
       "formatted_time": "2023-08-27 20:15:10",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "[色]好嘞",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:25+08:00",
+  "export_time": "2025-12-07T09:48:09+08:00",
   "message_count": 9
 }

@@ -5,46 +5,46 @@
     {
       "create_time": 1672022941,
       "formatted_time": "2022-12-26 10:49:01",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1672026424,
       "formatted_time": "2022-12-26 11:47:04",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "群除我佬",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1672026429,
       "formatted_time": "2022-12-26 11:47:09",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "[社会社会]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1672027309,
       "formatted_time": "2022-12-26 12:01:49",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "木有木有[破涕为笑]",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1672027315,
       "formatted_time": "2022-12-26 12:01:55",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "只是运气好罢了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1672027959,
       "formatted_time": "2022-12-26 12:12:39",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "太谦虚了",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:25+08:00",
+  "export_time": "2025-12-07T09:48:09+08:00",
   "message_count": 6
 }

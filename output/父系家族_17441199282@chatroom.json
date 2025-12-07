@@ -5,11 +5,12 @@
     {
       "create_time": 1763292195,
       "formatted_time": "2025-11-16 19:23:15",
-      "type": "文本",
-      "str_content": "wxid_794e2azqfa5q21:\n联通电信号码，现在携号转移动网，50元包1000分钟，140G流量，宽带电视全免费。\n同学们有转的不？[呲牙]",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "联通电信号码，现在携号转移动网，50元包1000分钟，140G流量，宽带电视全免费。\n同学们有转的不？[呲牙]",
+      "sender_name": "爸",
+      "sender_wxid": "wxid_794e2azqfa5q21"
     }
   ],
-  "export_time": "2025-12-06T19:12:13+08:00",
+  "export_time": "2025-12-07T09:48:00+08:00",
   "message_count": 1
 }

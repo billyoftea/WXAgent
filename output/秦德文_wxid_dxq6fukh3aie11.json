@@ -5,11 +5,11 @@
     {
       "create_time": 1748704191,
       "formatted_time": "2025-05-31 23:09:51",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "端午安康！[太阳]",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:16+08:00",
+  "export_time": "2025-12-07T09:48:03+08:00",
   "message_count": 1
 }

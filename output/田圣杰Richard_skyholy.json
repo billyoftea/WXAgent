@@ -6,24 +6,24 @@
       "create_time": 1760445907,
       "formatted_time": "2025-10-14 20:45:07",
       "type": "系统消息",
-      "str_content": "以上是打招呼的消息",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1760445907,
       "formatted_time": "2025-10-14 20:45:07",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1760446631,
       "formatted_time": "2025-10-14 20:57:11",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0000u\f\u0000\ufffd\ufffdZ;`g\ufffd\u0003`\ufffdR&\u0006\u0000@2\u001b\ufffdm%:\ufffd\ufffd\ufffd\u0018\u0007\ufffd\ufffd\ufffd\ufffd0\ufffd+\ufffd\ufffdF4µ^n\ufffd\u000e\ufffd\ufffd\ufffd\u0018,\u0018\ufffda\ufffd9\b\ufffdLYaҁӂ\u0001I\u0000O\u0000H\u0000\u000f\u001b2t\ufffd\ufffd\ufffd\ufffd|b\ufffdM^\ufffd\ufffd\ufffd*\ufffd\ufffd:\ufffd\ufffdX\ufffd\ufffd\ufffd\u0013`O\ufffd҆\ufffdvC\ufffdH\ufffd\ufffd\\\ufffd\u0005OG\ufffdԾ\u001c\ufffdB\ufffd\ufffd\ufffd\u0015\u0010\ufffd\ufffd\ufffdC\ufffd^\ufffdS>d\ufffd\u000b\ufffdK\ufffd\ufffd\ufffd\u0001\ufffd\ufffd\u000f_O\ufffd\t\u000b\u000f\u000e\ufffd\ufffd\ufffdJԆ\ufffd\ufffdD\ufffd\u0002\ufffd\u0000\u0000\u0004\ufffd\u0002\u0007\u0012((\ufffd\u001a\ufffd\ufffdyT\ufffd\"y\u000b\u000fs\ufffdO\ufffd\u001f\\\ufffd\ufffd\u0005k(\u001c\u0019\ufffdOĥjS\ufffd\u0010:\f\ufffdA\u001eO\ufffd[6\ufffd\ufffd\ufffd<.\ufffd\u001b\f\u0011\ufffdݕ\ufffd\ufffd\ufffd)\ufffd1`{\ufffdW\ufffds(/\ufffd\ufffd\u0000e\ufffd\u0002\ufffd\ufffd\ufffd\u0005GT\ufffd\ufffdy\ufffdx\"\ufffd\ufffdז\ufffd=\ufffd\ufffd`\ufffd\u0001۲!\ufffd\ufffd-\bk\ufffd\ufffd\ufffd%z7\ufffdW\ufffdb&\ufffd>x\ufffd\ufffd\u000bZ\ufffd\ufffd\n\ufffdEWn^]^m\ufffd\ufffd9\u00033w\ufffd\u0014\ufffd\ufffd\ufffdS~\ufffd04y\u0004J\ufffdP~\u00026gr\u0002[|\ufffd\ufffd\u0001Z\ufffd\ufffds\ufffd\u0005e\ufffd%q\ufffdWղ!\u0017}\u0005\ufffd\ufffdr\ufffd\ufffd7\ufffd\ufffd\u0016x\u000b\u0000h\ufffd\u0014\ufffd\ufffd\ufffdj\u001c\ufffd\ufffdE\ufffd\ufffd\u0011B\ufffd\ufffd0 \ufffdu;3\u00075CCr\ufffd(",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "师兄好！我是汇丰25级数量与金融科技专业（我们这一届开始这两个方向合并了）的徐昂，刚才的宣讲会上穿着花衬衫向您请教市场部typical day的那个男生~\n我也很想进入金融市场相关的一些职位，以后找实习或者选择行业赛道的时候可以把我的简历和想法发给您，请教一下您的意见和指导嘛[可怜]其他时间，请允许我在您的列表默默给您朋友圈点赞嘛~",
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:18+08:00",
+  "export_time": "2025-12-07T09:48:04+08:00",
   "message_count": 3
 }

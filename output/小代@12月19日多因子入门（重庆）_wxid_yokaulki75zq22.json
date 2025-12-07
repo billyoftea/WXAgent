@@ -5,46 +5,46 @@
     {
       "create_time": 1747641896,
       "formatted_time": "2025-05-19 16:04:56",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "迅投开户",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1747656078,
       "formatted_time": "2025-05-19 20:01:18",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你是需要qmt开户吗",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1747659315,
       "formatted_time": "2025-05-19 20:55:15",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "嗯嗯",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1747702267,
       "formatted_time": "2025-05-20 08:51:07",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0002\ufffd\u000e\u0000\u0006\"h$\u0010\ufffd\ufffd\ufffd\ufffd\ufffdٍ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd_B\ufffd0y\ufffd\ufffd\ufffd?\ufffdܔTF\ufffd\ufffd\u0001\u0000\u0000\u0000\\Z\u0000Q\u0000^\u0000\ufffdze\ufffd]\ufffd\ufffd\ufffdW/\u0018\ufffd?\ufffd\ufffdVVU\ufffd\ufffd.\ufffd+C\ufffd}\ufffd\ufffd\ufffd*\ufffd\ufffd\ufffd\ufffd\b\ufffd\"qq\u0012[D\u0005\ufffd\ng\ufffd\ufffd\"'4\ufffdX\ufffd\nG!\ufffd\ufffd\ufffd[\\\ufffd\u000fa\ufffd\ufffd\ufffd\u0013c\\\u0019\ufffd\ufffd{E'\ufffdHJ'\ufffdB\ufffd&\ufffd\ufffdu\u001c#\ufffd+\ufffd\u0013=\ufffdS8\ufffd\ufffd?\ufffdq\u0013\ufffd\ufffd261\ufffd\ufffdD\u0011\ufffd6\ufffd\ufffd\ufffdi'\ufffd\"\ufffd\ufffd\ufffd\ufffdGߋ\ufffd\ufffd\ufffd\u0015\ufffdۧ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdx\ufffd5\ufffd\ufffdw\ufffd7\ufffd\ufffd\ufffd\ufffd\ufffd1^\ufffd\ufffd\ufffd7\ufffd?\ufffd\ufffd\u001e\u0019G5-d\"\ufffdT\u00007\u0006\u0007\u0010\ufffd\ufffd\ufffd\r\ufffdA\u0002KV\ufffd\ufffd\u000e\"D\ufffd1\u001a\ufffd\ufffd\ufffd\ufffd\ufffd'\ufffd$kG\ufffd\ufffd}\ufffd>\ufffdGe/$\ufffdE\ufffd\ufffdU\ufffd6/\u0016\ufffd\ufffd\ufffd\ufffdN$7\ufffd{\ufffd&\ufffd\u0010'\ufffd\ufffdp2\ufffd\ufffdQ\ufffd\ufffd\ufffdO\ufffd\u001ft\ufffd\ufffd8J\ufffd\u0001\r\ufffd\ufffd\u0004\u0018\r\ufffd\ufffd\u0002\f\u0001\u0006\ufffd\ufffd`m\u0012\ufffd6\ufffd\ufffd^\ufffd\ufffd\f\ufffd!aʄ\ufffdD\u001e\ufffd\u0006RQ\u0018\ufffd\ufffd&\ufffdC\ufffd\ufffdj\ufffd\u0010L(\ufffd\ufffd\ufffd\ufffdf\ufffd\ufffd\ufffd\u001aph\u0006 \ufffd'\ufffd&\u0003[\ufffd\ufffd\ufffdX\ufffd\ufffdIU\u0012\b\ufffd\ufffd\ufffde\"Y(\u0007K2@\ufffd`\u0012\n\u0014\ufffd\ufffd\ufffd0\ufffdǴ\ufffdǤ\ufffd\ufffd\n\u0014\u0000/\ufffdXI\ufffd\ufffd\ufffd\u0003EL\ufffd\ufffd\u001b\u0011l\u0004KK\ufffd\u001a\ufffdT\u00188\ufffd\ufffdى\ufffd\ufffdw\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdX\ufffd\u0019\ufffd%\ufffd\ufffd᎙\ufffd*aI\u0001\ng",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "对方"
     },
     {
       "create_time": 1747702282,
       "formatted_time": "2025-05-20 08:51:22",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "jiale",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1747702284,
       "formatted_time": "2025-05-20 08:51:24",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "那麻烦你加一下我的企微，然后我拉负责人进群，你可以直接跟他咨询",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:17+08:00",
+  "export_time": "2025-12-07T09:48:03+08:00",
   "message_count": 6
 }

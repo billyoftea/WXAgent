@@ -6,115 +6,115 @@
       "create_time": 1749476843,
       "formatted_time": "2025-06-09 21:47:23",
       "type": "系统消息",
-      "str_content": "你已添加了德·，现在可以开始聊天了。",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1749476911,
       "formatted_time": "2025-06-09 21:48:31",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "您好",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1749476921,
       "formatted_time": "2025-06-09 21:48:41",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "您这行程是到7.5号吗？",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1749476927,
       "formatted_time": "2025-06-09 21:48:47",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`z\u0002\ufffd\u000e\u0000\ufffd f%\u0010\ufffd\ufffd\u0001\ufffd&\ufffd\u0015\ufffd\ufffd\ufffdr\ufffd\u0014^\ufffdX8\ufffd,A\ufffdƫI$\ufffdd/#A\u001a\"\u0000\u0000\ufffd@W\u0000P\u0000\\\u0000\ufffdy\ufffd\ufffd\ufffd\ufffd%\u0018_\ufffd^\ufffd\ufffdr\ufffd\ufffd)\ufffd\ufffd\ufffd\ufffdI\ufffd\ufffdܙ\ufffd\ufffdc\ufffd\ufffd\ufffd\ufffd%\ufffd\u0010]\ufffd\ufffd\ufffdR\ufffdDӚE\ufffd>Dd\ufffd\ufffdM4\ufffd\ufffd\ufffd\ufffd(_~\ufffd\u0012B(\u001f\ufffd\ufffd\ufffd\ufffd\ufffdo\u0016\u0011\ufffd\ufffd\ufffd4A]\ufffdaP\ufffdu\u0002-6\ufffdԵ\ufffdu?\ufffdja-v\ufffdh\ufffd(\ufffdV\f\ufffd7\ufffd\ufffd\ufffd\ufffdXKT]\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd̏\u001ds\ufffd\ufffdql\ufffd\u000ev\ufffd\ufffd\ufffd\ufffd{Ǯ\ufffd\ufffd\ufffd\ufffd\ufffdչ\ufffd\ufffd\ufffd\ufffd{\ufffd\ufffdս\ufffdݞ\ufffdul\ufffd\u001e\u0012\ufffd\ufffd1\ufffd1\ufffdX\ufffdF>B@\ufffd\u0007\ufffdb\u0007\u0011\ufffd\ufffdo/:\ufffd\ufffd.\ufffd\ufffd\ufffd\u0006\ufffd\ufffd\u001cF\ufffd-\ufffd\u001d\ufffd&~\nc?G-Y*Ig\u0019c\ufffd\ufffdJ\u0019\u0007\ufffdu\ufffd(+\ufffdI4\ufffd{n'\ufffd\ufffdKN\u001fm\ufffd:\ufffd\ufffdV\ufffd/J\ufffdI\ufffd\ufffd՛h^\f\ufffd\ufffd\n\ufffdA]K\ufffd(\u001cy@ \ufffd\ufffd\u000b9J\ufffd\ufffd\u000f\ufffdS\ufffdʓQ \ufffd}T\ufffd\ufffd&\ufffd}&\ufffd\ufffd\ufffdL\ufffd\ufffdM\u0006\ufffd\u0003\ufffd\u0004\ufffdd\ufffd \ufffdR\ufffd\ufffdQ\ufffd#\ufffd`\b\ufffd\u0000\ufffd\ufffd\ufffd`\ufffd;1\u0005\ufffd\ufffd\ufffdT l\ufffd'\ufffd\ufffdia*\u0011̳@\ufffd<\f \ufffd\ufffd\u0000\ufffdjL&D\ufffd\u0011\u0015\u0000/\ufffd('aN\ufffd\u0012q\ufffd^ X\"\ufffd\u0018\u0016\u0015\ufffdz4\ufffd\u0006N\ufffds`\ufffd|\ufffd:\ufffd|\u000bK\ufffd\ufffd\ufffd\ufffdB\ufffdD\ufffd\u0019\ufffdf@c\ufffd\ufffdJ@R\ufffd\ufffd\u0019",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "对方"
     },
     {
       "create_time": 1749476952,
       "formatted_time": "2025-06-09 21:49:12",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "对的，目前是计划到5号",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1749476964,
       "formatted_time": "2025-06-09 21:49:24",
-      "type": "文本",
-      "str_content": "7.5是啥行程  因为我7.5号要接机来着 看能不能协调的来  ",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "7.5是啥行程  因为我7.5号要接机来着 看能不能协调的来",
+      "sender": "对方"
     },
     {
       "create_time": 1749476994,
       "formatted_time": "2025-06-09 21:49:54",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你们不会7.5号  正好飞吧  哈哈哈哈",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1749477027,
       "formatted_time": "2025-06-09 21:50:27",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我们现在还在计划中，因为之前是按照自驾来计划的，如果包车的话可能后续还有一些变动[破涕为笑]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1749477061,
       "formatted_time": "2025-06-09 21:51:01",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "那明白了  你们来新疆的票定了没",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1749477080,
       "formatted_time": "2025-06-09 21:51:20",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "定了，27号晚上之前到",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1749477137,
       "formatted_time": "2025-06-09 21:52:17",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "那就是27落地",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1749477141,
       "formatted_time": "2025-06-09 21:52:21",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "28开始行程",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1749478138,
       "formatted_time": "2025-06-09 22:08:58",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd`C\u0001\ufffd\u000e\u0000\ufffd\u001df8p'\ufffd\u0001\\\ufffdR\ufffd$P\u0015ߟ\ufffdl\ufffd\ufffdh\ufffd\u0014\ufffdt\ufffdF\nj\ufffd\u0011\ufffda{\ufffd[\ufffd>\"iM\ufffd\ufffd\ufffdMB\ufffd\ufffd\ufffd\ufffd\ufffd**\ufffdAU=\ufffd\u0017X\u0000V\u0000V\u0000\ufffd\u000e\ufffd\u0003\u0016\n\ufffdy$?\ufffd\\\ufffd\ufffdþ\u0001\ufffd#\ufffd\ufffd\ufffd'\u0011\ufffdЖ\ufffdGXL\ufffd\u000b\ufffd\ufffdW\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0006\u001a\ufffdfw,V\ufffd\ufffd\u0000\ufffd\ufffd5;\ufffd\ufffdCz\ufffd\ufffd\ufffds1\ufffd\ufffd\u0000\ufffd\ufffd\ufffd%\ufffd;\u0006K\ufffd~zx\ufffd\ufffd\ufffdP\ufffd\\\ufffd\u0001\u000b\ufffd\ufffd\ufffd\ufffd\ufffdc͐\ufffde\ufffdid=\ufffdS\ufffd)\ufffdBt\ufffd\ufffd*\u0016\ufffdH\ufffd\t4\ufffd<.kOfo\ufffd?\ufffdC5K\u000f\ufffd\ufffd\ufffd\ufffd54;\ufffd}(]\ufffd\ufffd\u0005\ufffd\ufffdTι\ufffd\u0007\ufffd\ufffd2_\u0001\ufffdTs\u0003\ufffd\ufffd\ufffd\u001d\ufffd\u0003(\u0010\u0002\u001eAXa\ufffd\u000ei\ufffd\ufffd[\ufffd\ufffd/\ufffd\ufffdAg)\ufffd\ufffd\fw3\ufffd\ufffd\\2\ufffdc\ufffd\ufffd\ufffdP\ufffdY\ufffd\u0012\u0003\ufffd\ufffd\ufffd\ufffd&\ufffd\ufffd\ufffd\ufffdE\ufffdI\u0016\ufffdp\"\ufffd\ufffdT\ufffd\u0012\ufffdM\ufffd\t\ufffd\ufffd\ufffd\u000f%\ufffd\ufffd\ufffd\u0011ݳ\ufffd\ufffd\\O\u0003F\u0000\ufffdg\ufffd\ufffd\ufffdY\ufffd\u0013m\ufffd\ufffdXʹ\u00054\ufffd\u001c\ufffd\u000ei)\ufffdn\ufffd\ufffd\u001aހ\"8\ufffd\ufffd.\ufffd\ufffd\ufffda\ufffd\ufffd\ufffdN\ufffd+\r:\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdS\ufffdo@\u0011\ufffds3\b[\u000eX\ufffd\ufffdP\ufffd#\ufffdVmfc>u\ufffd;`;\ufffdmМ򲚷/\u0013\u0000/+*qm\ufffd1\u0001\ufffd\fXsPY\ufffd(\u0013\ufffd̼\u0011\ufffd*}\ufffd^\u0013~\ufffd\u0006\ufffd\ufffdB\ufffd\ufffd\ufffd\ufffd~XN\f3X\ufffd\ufffdg\ufffd\ufffd-PQ",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "您好~我先明确下我们这边的情况：\n1.两男两女，计划是6月27晚之前到乌鲁木齐，暂定是6.28号~7.5号游玩（结束时间后续可能有一些微调，但幅度不会很大）\n2.我们目前已经对景点做了一些计划，希望无论是代驾还是包车都是指哪打哪~\n\n麻烦您介绍下您这边的：\n1.车型？能否放下四个行李箱？四人乘坐的舒适度？\n2.每天的价格？这个价格是否包含：高速费、油费、司机住宿费、餐饮费、进景区门票、停车费？后续可能的额外费用是什么？",
+      "sender": "自己"
     },
     {
       "create_time": 1749478488,
       "formatted_time": "2025-06-09 22:14:48",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0000\r\u000b\u0000F\u0015M5`%\ufffd\u0001`\ufffdR\ufffd\r\ufffdP\tEӈnk\ufffd\ufffd!\ufffdm\t\ufffdDn\ufffd~\ufffd\ufffd\ufffd/V\ufffdͰ\ufffd6A\u0010\u0004A\u0010t\ufffd\u0011+\ufffd\u0014\u0004A\ufffd\u0003=\u0000>\u0000?\u0000ڢ\u0015\ufffd\ufffds\ufffd\ufffd\ufffd\ufffdß{\u0010\ufffd\ufffdJǟ;W6\u0018U\ufffd\ufffd\ufffd\ufffd\ufffdB\ufffd_fd5\ufffd\\9\ufffd\ufffdZ\ufffd4\b\ufffdq.s\ufffdt\u0000\u0007\ufffdzj\ufffd\u001c\ufffd\u0005C\ufffd\ufffdg\ufffd3\ufffd\ufffd\\ٻ8\u0001\ufffd\u000b\ufffd\u0002\u000e\ufffdaf@{J\ufffd\u001e\ufffdRb\ufffd\ufffd[\ufffdƛ'\ufffd\ufffd\u0003\ufffd\u001f\ufffd \ufffdxd\ufffd\ufffd;̭Epq\u0011\ufffdK/_hs8\ufffd!|\ufffdx$Ս\ufffd\ufffds%E\ufffda\ufffd\t\ufffd{\ufffdݖ;\ufffd.\ufffd\ufffd\ufffdG\ufffdm\u0000\ufffd\ufffdsʁM\ufffd\ufffd²I\ufffd\ufffd\ufffdJ\ufffd\u001a\ufffdh(\ufffd\u0007\u0005\ufffdsU<\ufffd4\bC\ufffdR\ufffd\ufffd\u000e1\u001e\u001a\ufffdΕ\ufffd._-\ufffdڲ\ufffdHL\ufffd\ufffd\ufffds\ufffd'0\ufffd\nV\ufffd\ufffd{\ufffd{\ufffd\ufffdA\ufffdC\ufffdcX\ufffd2\ufffd\\\ufffd\u0011\ufffd\ufffd\ufffdL\ufffd\ufffdq\ufffd̲%,\u000f\u0000\u001e\ufffd\f`\ufffdLX\ufffd\ufffd\ufffdA\u001d!Q^\u0005˴t\ufffd`l\u0006\ufffdYR֬\ufffd\u0011/\u0000L\ufffd\ufffd\ufffd\u0001\ufffdi\u0006",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "1.车型是25年坦克300   28的行李箱能放四个的宽度 别的包啊啥的松松放 车里空间大  在新疆旅游昂 最好还是选择越野类的车\n2.每天的价格是1300元（包含过路费，油费，领队食宿，领队自驾景区门票，停车费）我这儿没有别的额外费用 我的工作就是安安全全的把你们带出去安安全全把你们带回来 我就收我行程的钱就行了没有别的",
+      "sender": "对方"
     },
     {
       "create_time": 1749479718,
       "formatted_time": "2025-06-09 22:35:18",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好的，了解，我明天给您回复~",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1749479832,
       "formatted_time": "2025-06-09 22:37:12",
-      "type": "语音",
-      "str_content": "(\ufffd/\ufffd E\u0003\u0000\u0002\ufffd\u0015\u001a\ufffd\ufffd:\ufffd\ufffd\ufffdFHYȕA\u0018\ufffdSϵD\ufffd\ufffd;\ufffd(.\b\ufffdc\ufffd\ufffdLZ7\ufffd(\ufffd8H\u0007H\ufffd@\\m3\u00077\u001a\ufffd\ufffd\ufffd?\ufffd\u0000\ufffd^1S\u001a\ufffd6\ufffd\ufffd\u0011\\\u0015\u0016v\ufffd䍫\ufffd5|-9\ufffd\u0012\ufffdwH\ufffdc\ufffd\u0005\u0000m .Jp\ufffd\b`S\ufffd\ufffd*u",
-      "is_sender": 0
+      "type": "语音消息",
+      "str_content": "[????]",
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:19+08:00",
+  "export_time": "2025-12-07T09:48:04+08:00",
   "message_count": 16
 }

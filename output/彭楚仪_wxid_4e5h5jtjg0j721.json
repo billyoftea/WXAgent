@@ -5,410 +5,410 @@
     {
       "create_time": 1702884229,
       "formatted_time": "2023-12-18 15:23:49",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702884237,
       "formatted_time": "2023-12-18 15:23:57",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "哈喽",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702887132,
       "formatted_time": "2023-12-18 16:12:12",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "学姐好学姐好！我是经济学院21级徐昂！",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702887154,
       "formatted_time": "2023-12-18 16:12:34",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd o\u0015\u0003\u00004\u0005我记得学姐！当时我们参观院史馆好像是您为讲解的！就觉\ufffd\ufffd害\u0004\u0000\\\u0003Т\u0014!\ufffd\ufffdgPP",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我记得学姐！当时我们参观院史馆好像是您为我们讲解的！！当时就觉得学姐好厉害",
+      "sender": "自己"
     },
     {
       "create_time": 1702893533,
       "formatted_time": "2023-12-18 17:58:53",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "哈哈哈哈哈你好呀（不好意思我手机冻关机了现在才开机）",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702893910,
       "formatted_time": "2023-12-18 18:05:10",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "诶学姐是在北方旅游呢嘛",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702893929,
       "formatted_time": "2023-12-18 18:05:29",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "素 在哈尔滨",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702893954,
       "formatted_time": "2023-12-18 18:05:54",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "羡慕羡慕、、武汉最近好冷又不下雪，只下冰碴子",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702893973,
       "formatted_time": "2023-12-18 18:06:13",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "加学姐好友是想请教一下港中深的就读体验！",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702894001,
       "formatted_time": "2023-12-18 18:06:41",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我看网上好多人都说港中深就业特别好，想请教下学姐的亲身感受~",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702894207,
       "formatted_time": "2023-12-18 18:10:07",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\ufffd\u0005\u0000\ufffdK,.p\ufffd\ufffd\u001c\ufffd܉\ufffd\ufffd9\ufffdz\u0003u\ufffd\u0007#Z\ufffd&Ѣj{\ufffdn')Q7i\ufffdh\u0016\ufffdO\ufffd\ufffd\ufffd\ufffd\u000bUUU\u0018\u0002\ufffd\ufffd\ufffdh\ufffdd\"N\u0003ĭX\\%p\ufffd\ufffda\ufffd\u0003\ufffdv\ufffd\u0011\u0014'\"\ufffdfc\b\ufffdpo\ufffd6\ufffd%q\u0019\u001cO,Wp̈\ufffd\ufffdVѠ\ufffd\ufffd\ufffdKG\ufffd!\ufffd)\t+\ufffdm\ufffdR\u001e\ufffd\ufffd:\ufffd\u000b \ufffdz\u000e㟥\ufffd\ufffd\ufffd\ufffdY\ufffdy\ufffdi\u0007\ufffd\ufffd\ufffdd\ufffd%\ufffd\ufffd`\b\u001d\ufffd-Y\\\u0011\ufffdE\ufffd/q\u0002\ufffdOV\ufffd\u0006#\u001cd\ufffd\ufffdQ\ufffd\ufffd\ufffd\u0014\ufffd\u0010z\u0002\u0000\b\u001fFxbPg",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "是说就业方面吗？我感觉其实还是因为实习比较方便8，跟港新硕比会更方便，但学校本身地理位不在深圳中心，有点远的如果要去实习，大家一般都租房",
+      "sender": "对方"
     },
     {
       "create_time": 1702894256,
       "formatted_time": "2023-12-18 18:10:56",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "另外港中深有CDC会发一些实习jd啥的，各个项目内部也会有学长学姐或者同学转发实习jd",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702894273,
       "formatted_time": "2023-12-18 18:11:13",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "整体比体制内的市场化氛围要浓吧",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702894401,
       "formatted_time": "2023-12-18 18:13:21",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "嗯嗯嗯嗯，我也挺向往这种浓点的市场化氛围的！\n那这个就业一般还是在广深大湾区嘛，认可度在北方怎么样呀[哇]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702894433,
       "formatted_time": "2023-12-18 18:13:53",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我有点不想去港新一方面是感觉深圳实习比较方面，此外也怕到了境外真的放飞自己了哈哈哈[捂脸]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702899987,
       "formatted_time": "2023-12-18 19:46:27",
-      "type": "未知类型(244813135921)",
-      "str_content": "(\ufffd/\ufffd`!\u0006\ufffd\u001f\u0000\ufffd1\ufffdG\u0000\ufffd8\u0007Lf\ufffd\ufffdPUU\ufffd_\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd  8_\ufffd\ufffd;\ufffdC\ufffd<\u001e\ufffd-~\ufffd|\ufffdv#R\ufffd\ufffd\ufffd\u001b\ufffd\ufffd\ufffd\u0011*\ufffd\ufffdV!J+\ufffdӚ\ufffd\ufffdd\ufffd&0\ufffd\ufffd*\ufffdt\t\u0001\ufffd\u0000\ufffd\u0000\ufffd\u0000\ufffdS\ufffd`\ufffd\u0014P0\ufffd\u0000\ufffd0\ufffd\ufffdx\u0010[\ufffdpVI\ufffdAq\u0011\u0015\ufffd\ufffd\u0015{i\ufffd&'?]3'D\ufffdD@\ufffd\ufffd\u0014wI\ufffd\u000e\u00198K\ufffd\ufffd:y\nVW\ufffd\ufffd\ufffd\ufffdE\ufffdtuRq\ufffd\\0\ufffd\ufffd\ufffd\ufffd\ufffdu\ufffd\ufffd]P\ufffd\ufffd\ufffdWX\ufffd\u0006\u0018\ufffdj\ufffd.h\ufffd\ufffd\"\ufffd\ufffd\ufffd\ufffdN\ufffd􊡠)\ufffd\u0018.A\u0015S)\ufffd\ufffd\ufffd\u001dn\ufffde\ufffdn\ufffdm0\ufffd\ufffd8>\ufffdm6\u0018_\ufffd\ufffd\ufffd@=b|m\ufffd\ufffd@=ZMg`\ufffd\t\ufffd6\u0018d\u0019\ufffd\ufffd\"M\u001c;\fط\ufffd!n;\ufffd\u000b;F]\ufffd\ufffdXfP\ufffd\ufffdO\ufffdsѹ\ufffd>\ufffd\u000e\ufffd\ufffd\u0019\ufffd\ufffd,<\ufffd\u0017f\ufffd\ufffd\u0019\ufffd\u001f\ufffd\ufffd\u0004\ufffd!y\ufffd\u0007\ufffd\ufffd?j\ufffdfh\ufffd\ufffd\ufffd/\ufffd\ufffd\ufffdQ)\ufffd}?1\ufffd\ufffd\ufffdM\ufffd^\ufffdۨ\f\ufffdj-<\ufffdc\ufffd]\ufffd\ufffdCQG\ufffd\ufffd\ufffdn\ufffd\ufffd\ufffd~\ufffdV|\ufffdV\ufffd<\ufffdyA\ufffd\ufffdV\ufffd:\ufffd\u0019)\ufffd\u0016\ufffd\u0006\u0018^\u0002B\ufffd\ufffd\ufffd\ufffdi\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd+v\ufffdfXVz\ufffd\ufffd\ufffdP`\u0011J\ufffd\u00074]\ufffd=2\ufffd\u000f\ufffdL\t\u00056\"\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdP\u001c\u0004\ufffd%\u0014\u0018\u000b\u0004\ufffd\ufffdD\u0017Q\ufffdN^1R\nNb\ufffd\ufffdή\ufffdJIL\ufffdtͬLxgkվ0@\ufffd\ufffd\u000eE\r\u0013\ufffdqW\ufffd\u0001\u0002\ufffd\ufffd\ufffd*\ufffd\ufffdD\ufffdܗ\u0004C]+\ufffdA\ufffd\ufffdJ2\u0003\ufffdc\ufffd\ufffdZ\ufffd4MS`\ufffd\u0000\nl\u0011@\ufffd^6K\r\ufffd\ufffdZ\ufffddQ\ufffd\ufffdxI\ufffd+b\u001d~\ufffdr[\ufffds\ufffd\ufffdl\u0016\\\ufffdc\ufffd\ufffdϞͲ6\ufffd\ry\ufffdr8f\ufffd\ufffd\ufffdĚ\u000e\ufffdc\ufffd\ufffd\ufffd\ufffd\u0018_K\ufffd\ufffdm\ufffd\ufffd8\u0016\u001b\u001b\ufffd\ufffd7<!\ufffdw\ufffd|_o\ufffd\u001a\ufffd\u001b\ufffd\u0017?x\ufffd\ufffd0\ufffd?\ufffd\u001f\ufffd\u0006\ufffd\u0000\ufffd;\ufffd7\ufffd5~d\ufffd\ufffdx\u000e\ufffdww\ufffd\ufffd!\ufffd\ufffd\ufffdd酻\u001c\ufffd|Q\ufffd\ufffd\ufffd6\u000byw\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdc\ufffd\ufffd\ufffd\ufffd\ufffdx[\ufffde\u0010\u0001\u0003_@\"\ufffd&V\ufffd\ufffd\ufffdV uVI79=\ufffd\ufffdj\ufffd\ufffd`RN\u001c\ufffd\ufffd\ufffdb\ufffd\u0016\u00141\ufffdHh\ufffd\u0001$\ufffd\ufffd\ufffd\ufffd\ufffdA\b\r\ufffd̂\ufffdT\ufffd\u001c \u0002b\ufffd\ufffdZ\u0007\u0011\u0010)u\ufffd\ufffd4)L\u0007\b(\ufffd\ufffd\ufffdoiSl\ufffd\ufffd\ufffd\u001eʓ\u0010;vI\ufffd\ufffd\ufffd'FQsX\ufffd\ufffd\u0016z\u0010h\r1\ufffd\u0017\ufffd\u00145\ufffd\u001at\ufffd\ufffdJ,-\ufffdm\u0015\ufffd7\ufffd\u001c\u0004\ufffdb\u001c\ufffd\ufffd\ufffd\ufffd4\ufffd,\ufffdĖ\ufffd\ufffd\ufffd\ufffd\u0015\ufffdr\ufffd\ufffdϫ4n\u0016\u0011~\ufffd\u0004\ufffd2\u000b*\"%4i\ufffd~\ufffd$}\ufffd\ufffd\ufffd\u0014\ufffd#zMNΊ\ufffd1\ufffdx8%l,4\ufffdz\ufffd*\ufffd\ufffdb(\ufffdŴ\u0014\ufffdwk\ufffd\ufffdo\ufffd\u0012r?H3\ufffd\ufffdOy\ufffd\u0012Q\ufffd\ufffd\ufffd(\ufffdGō\ufffd\ufffdƙ\ufffdo+\ufffd\u001f\u0000\ufffd\u0007}A\ufffda\ufffd\ufffd\"\u0007/\u0011\ufffdV\ufffd{w\ufffdʻ\ufffd\ufffd\ufffd\ufffd\u0001t\ufffd\ufffd,c\ufffd\u0006cS\ufffd<\ufffdӋ\u0002\ufffd\u0016\u000f\ufffd\ufffd\u000e\ufffd<\ufffd\ufffd\u001d\ufffd\ufffd\ufffdu\u000e\u001e\ufffd*\ufffd\ufffd4q\ufffd\ufffd\ufffd\u0014a\ufffd\u0018\u0016u\ufffd\ufffd<\b\ufffd\u0019Va\ufffd\ufffd\ufffdc\b\ufffdV\ufffd\ufffdߣY<\ufffde\ufffd\ufffdc\ufffdjg\ufffd\u0015Ы",
-      "is_sender": 0
+      "type": "引用消息",
+      "str_content": "感觉就业还是看你个人实习和未来职业规划？和是不是大湾区没啥太大关系，北京这种地方可能把gzs看成是港中文的分校，这个分不分的其实没啥人在意除了港中文本部、、",
+      "sender": "对方"
     },
     {
       "create_time": 1702900042,
       "formatted_time": "2023-12-18 19:47:22",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd Ƶ\u0005\u0000\ufffd\ufffd(/p\ufffd\ufffd\u0001<\ufffd\u0011I\ufffd\ufffdO\ufffd\ufffd\ufffd\ufffdU\u000f\u001a^\ufffd%&\ufffd\ufffd\ufffdUú\ufffd\ufffd\ufffdƚ\ufffd\ufffdY\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdp\u0003\u0017\ufffd\u000f\u001e0\ufffd\ufffd\ufffd\ufffdҺRm \ufffd\u0001\u000fi\ufffd\ufffd\u0015\ufffd\ufffd\ufffd&k\ufffdݤ2\t\u000ey\ufffd`Oѝ\ufffdIE;`[\ufffd\u000e\ufffdn\ufffdU\ufffd\ufffd2\ufffd\ufffd\ufffd\ufffd\u0010\ufffd+s\u0017\ufffd/޺;Ԟ\ufffd\ufffd\u0006\ufffd\u0006NI8\ufffd\ufffdM*/~!pļ\ufffd2#q\ufffdj\ufffd\ufffdW\ufffd\ufffdx\ufffdݫ\ufffd\u0003(?\u0012\ufffd&d\ufffdz\u0001@\u0016\u0005\u0000\u0010\u0013\ufffd\ufffd=d\t\ufffd\ufffdj\ufffd{1\ufffd",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "金工项目上海的多点就是因为上海的私募多，其他项目可能大湾区多一点但其实也是和个人未来规划有关吧，可能有部分人本来就想在南方所以才这样",
+      "sender": "对方"
     },
     {
       "create_time": 1702900099,
       "formatted_time": "2023-12-18 19:48:19",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\ufffd\u0004\u0000\ufffdH!(\ufffdI\u001d\ufffd%\ufffd.#\ufffdd\u001f\ufffd\ufffd1D\u0007\ufffd\ufffd\t\ufffd\ufffd\ufffd\ufffd\ufffd\u001b\u0001v\u001bd\ufffd\ufffd\ufffdȄLȄ̸\u0001\t\ufffd\ufffd\ufffd\u000e\ufffd%\ufffd\u000b\ufffd\u0007j\ufffd\u0003\ufffd\ufffd\ufffd\b\ufffd\ufffd\ufffd\u0007\ufffd\ufffd>\ufffdu\fgtox\n\ufffd\ufffd>\ufffd\ufffd\neJ\ufffd*\ufffd\ufffdZ\ufffd昞@GX.^\ufffd3\ufffdGn5\ufffd\ufffdn\ufffd\u000fb\ufffd\ufffd\u001d\ufffd\ufffd\ufffd\ufffd\u0014\ufffdpݚ\u001b\ufffdK\ufffd\ufffd\ufffd\ufffdv@\u0000\ufffd\ufffd\u0006\u0004\u0000\b\ufffd|M\ufffd\ufffd9\ufffd\"\ufffd2\u0003",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "但gzs说实在实习如果想住学校的话也不方便，只能说跟港新比要方便，港新的可能还得先上课再回来刷一年实习再毕业这样子",
+      "sender": "对方"
     },
     {
       "create_time": 1702900186,
       "formatted_time": "2023-12-18 19:49:46",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd%\u0006\u0000\ufffd\u000b,.\ufffdGm\ufffd%\ufffd\ufffd0\u0003\ufffd-\ufffd\ufffd{PB\ufffd\ufffd\tC|\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdc$\ufffdFA\ufffd7\"\ufffd\ufffdg`\u0006f`\u0006fJ\u0003o\ufffdo\ufffd\u00045\u0005i\ufffd^\"\ufffdA1\ufffd|J\ufffd\t(g\u001c\ufffd(\ufffdy۫\u0014GK\t[\ufffdv\ufffdF\ufffd~\u0016j\ufffd䥄u\ufffdb4\ufffd\ufffd\n\ufffd\ufffd\ufffd\u0005t\ufffd\ufffdb\ufffdá\ufffd\ufffd5\ufffdG\ufffd\ufffd\ufffd\u001e)\ufffd¬C\ufffd\u0002z\ufffd\ufffd\u0004\ufffd\ufffd\ufffdn\ufffd\ufffd꛴\u0005\ufffd\u0006\ufffd\ufffd\ufffd\u001f\ufffd){)\ufffd\t\ufffdF\ufffd\ufffdW%Z\u000b\ufffd\u001f\ufffd8\ufffd\ufffd\ufffd9\u0002e(\ufffd\ufffd\ufffd\u0001\u0005\u0000S!\ufffdA\ufffd\ufffdD\ufffd\u0010\u001b&\u0016\ufffdY\u0006",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "如果你想去互联网的话那可能北京的还蛮多的，深圳也有一部分毕竟腾讯字节都有厂在这边，金融的话私募也有一部分，基金啥的也有，但总体来说上海的金融相关会多",
+      "sender": "对方"
     },
     {
       "create_time": 1702900220,
       "formatted_time": "2023-12-18 19:50:20",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "像我们的话就会第一学期在学校上课，之后都在外面实习，考试再回学校，就比较自由吧因为你可以随便选课",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702900599,
       "formatted_time": "2023-12-18 19:56:39",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd`\u001b\u0000\ufffd\u0007\u0000\ufffd\ufffd81piu<\ufffd$\u0013\ufffd\ufffd?\ufffd\ufffd\ufffd\ufffd~\ufffdJjr{\ufffd-\ufffd!\u0014#\ufffd\ufffd\ufffd\ufffd\u0013k\ufffd\ufffd\bQ\ufffd|\u0005\t\u0000\u0002UUUU\ufffd\ufffd\u0003\u0006\fm\ufffdrG\ufffd\u0011\ufffd\ufffd\ufffd\ufffd\ufffd\u0017\ufffd\ufffd\ufffd\ufffd\ufffdlk\ufffd\ufffdA\ufffd\ufffdՔ\ufffd\r\ufffd3\ufffd8\ufffd\ufffd\ufffd\u0003U\ufffd \ufffdtq\ufffdniў5\ufffd\ufffdG\ufffd[ɧ\ufffd\u0010\u00127B,qp\ufffd~\u0005A\ufffd\ufffd\ufffdXS\"\u000f~?^\ufffd\ufffd\ufffd\ufffd\ufffd6\ufffdx\r1E׳\ufffd'Ĕ\ufffd\u0012\ufffd\u0004\u0005\u0003\ufffd\ufffdL\u001d\u0007\u0010\ufffdT\ufffd\ufffd<\ufffd\ufffdesK\ufffdxe\ufffd\ufffd\ufffd\ufffd\ufffd\t\ufffd\ufffd{\ufffd>6q\ufffd\ufffdhI\ufffd\u0015F\fQ\ufffd\u001f\u000eغ^\ufffd\ufffdXby\bá[B\ufffd\ufffd\ufffd\u0017\ufffdϚ\u001fZg[[\ufffd[\ufffd\u0007\u0007\u00001#<\ufffd\ufffd7\ufffdP3\u0004\ufffd<\ufffd\ufffd2ce\ufffd=",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "谢谢学姐的指导，，打这么多字提供了好多对我来说贼宝贵的信息！！[流泪]\n我看gzs官网上的就业报告感觉gzs就业好强起薪好高，想请教下学姐的体感是怎样的呢？金融行业或者互联网大厂对学校的认可度怎么样呀~",
+      "sender": "自己"
     },
     {
       "create_time": 1702900811,
       "formatted_time": "2023-12-18 20:00:11",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0001E\u0010\u0000ƞg7PeH\u001dH\ufffd\ufffdeB\ufffd\ufffd`\u0012\ufffd\ufffdt\ufffd\u0018\ufffdc\r)B\u0014m\u001aD<Ј\ufffd\ufffd\ufffd\ufffdf\ufffd\ufffd\u0002\ufffd\ufffdD,\u0018E;333\ufffd\ufffd\u001aDf&\ufffdW\u0000V\u0000Z\u0000\ufffdMC\ufffd%\ufffd\ufffd&}y\ufffd\ufffd\ufffd\u000f\ufffdE\ufffd\ufffd\ufffd\u0018\ufffd!\ufffd\ufffd\ufffd\ufffd\ufffdk\ufffd_\ufffdI\ufffd\u0019\ufffdk\"B\ufffdl]\ufffdB\ufffd\u000f\ufffd!\ufffdMr\ufffd\ufffd2\ufffd\u0000\u0017\ufffd\u0013\ufffd\u001e\ufffd\ufffdXf\u0010^1\ufffd\ufffdk\u0001\ufffd\ufffd\\\ufffd\ufffd\f\ufffd1\ufffd\ufffd4\ufffd\ufffd\u0017\ufffd\u0007\ufffd\ufffd\ufffdI\u0016![\ufffd\ufffdw\u0003\ufffd\ufffd\ufffd5\n\u0017\ufffdo\ufffd\ufffd\ufffd\ufffdL\ufffd\u0000\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd9\ufffdJ\ufffd\ufffdl\ufffdm\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffdT:\ufffd\u001c\ufffdk\ufffdg\ufffd\ufffd֞\ufffdJ\ufffd\ufffd(w8\ufffd\u0010^\ufffd\ufffd|\u0018\ufffd\ufffd\ufffdV\ufffd\ufffdX\u0002\u0012\u0012Qax\u001c\ufffdc=\ufffdg\ufffdk\ufffd_\u001eZ\u0000\ufffd\ufffd\u0001\u0005\u001a\ufffd\u000b\ufffd\ufffd \bI\ufffdU\ufffdj#\ufffd^ \ufffd5\ufffd\u001b\ufffd\u0015\ufffd\ufffdqp~\ufffd\ufffd\ufffd\ufffdi\ufffd\"\ufffd\ufffdtT\ufffd0\ufffd\t!\ufffd\ufffd=\ufffd\ufffd7\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdU\ufffd\ufffd;\ufffdG\ufffdG\ufffd\ufffd\ufffd%\ufffdά\ufffd\ufffd\ufffd;\ufffd\ufffd\ufffd\u001e\ufffd\u0017\ufffd!\ufffdN\ufffdlPcɉ\ufffd\ufffd\ufffdP\ufffd\ufffd\ufffd\ufffdX\u0016h8\ufffdb\ufffd\ufffd) o([\t\ufffd@*\ufffd\"3(o\ufffd_\ufffd;2\ufffda\ufffd\ufffdX\ufffdzŋ \ufffd\ufffd2D9kܡ^\ufffd\ufffd\ufffdĝ\ufffd\ufffd\ufffd@my\ufffdn\ufffdN( \u0010\u0014\ufffdT\ufffd\ufffd\ufffd\u0018m\ufffdj\ufffd\ufffd\u0000\ufffd\u001a\ufffd\ufffd\ufffdHT\ufffd:f\ufffd\ufffd\ufffdx4\ufffd\ufffd*I\u0011ô\ufffd읗\u000f\ufffdh\ufffd2\ufffd\u0011\u0010`[p\ufffdx\ufffd\ufffd\u0018lGi\ufffd\"d`wH\ufffd\ufffd\u000f\u000eF\u0014\u000690\ufffd\u0018\u0011\u001d\ufffd[\ufffdR./F^\ufffd\ufffdKk\ufffd\ufffd\ufffdR\ufffdEn\u0001)",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "去年的报告感觉也还好吧，平均才30万 因为整体行业都形势不太好，所以跟前年比没有进一步增长 看你个人对你之后就业的目标是多少吧，如果说是说学校的认可度方便的话，你去哪儿其实都够了，更多的还是看你个人的差异化导致你的就业不一样，比如说你想去互联网，那你就多刷几个互联网对口的实习，这样你就会之后秋招去互联网。这个跟学校的title没太大关系，就是这个学生思维可能要转变一下。因为说实话，华科的本科再加上任何一个和中九差不多的硕士（包括港新），其实都可以过简历的学校关，其他的就看你个人了",
+      "sender": "对方"
     },
     {
       "create_time": 1702900945,
       "formatted_time": "2023-12-18 20:02:25",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd`]\u0001M\u000e\u0000&\u001b_9Pg\ufffd\u0003H\u0011\ufffd\ufffd03\ufffdt\ufffdv\ufffd \ufffd\ufffd\b\ufffd\ufffd\u001f~\u0011c\ufffd1([\ufffd\ufffd?\ufffdO}hA\u0018\u0002f\u0000\ufffd\ufffd033ݪ\ufffdSdff\u0006MO\u0000Q\u0000P\u0000\ufffdq\ufffd\ufffd\ufffde\ufffdח\ufffd\\||\ufffd\u001d\ufffd\u001c\ufffd\ufffdz\ufffd5^\u0005\u0001\ufffdr\ufffd\ufffd\ufffdX\ufffd\ufffd\ufffd\ufffdki\ufffd\u0005r\u0015\ufffd\u001d\ufffd\u001e\ufffd\ufffdX\ufffdh 7\ufffd#\ufffd\ufffd\u001eΙ\ufffd4\u0003rdr\u0007}M\ufffdO\ufffd\r[K\ufffdw8\u001d\ufffdǏE{\u0010\ufffd\u0016\ufffd\ufffd\u0000\u0018\ufffd\u0004\f,0P\ufffdg\ufffd\ufffd\ufffd\ufffd\ufffd\u001b\ufffdUX.\ufffd\ufffdJ=jDė\u001c\ufffd\t>QA6,o\ufffd\u0011\ufffdм\ufffd~Z\ufffdp,\ufffdg\ufffdo@\ufffd@\ufffd\ufffdWѭ\ufffd\u0012\ufffd~V\ufffd\ufffd\u001e!\t\\\ufffd/>\ufffdd\ufffd\ufffdW\u0013\ufffdA\ufffd \ufffd^\ufffd\\\ufffd%\ufffds\ufffd\ufffd\u0015\u000f\ufffd\ufffd\ufffd\ufffd^K\ufffd^m\ufffd\ufffdGyd\ufffdc4\u0015\ufffd\u0018\ufffd3\ufffd\u0002\u000b\f\ufffd|\ufffd\ufffdZ ?@\u001a$\ufffd\ufffd\u0010\ufffdmLZ\u0001\ufffd!\ufffd\ufffd\ufffd\t\b\u0016\ufffd\u0003\u0017HO\u001eG o\\{\u0014\ufffd\ufffd젯\ufffd\ufffd\t\ufffdAn\ufffd\ufffd\rˣ\ufffdR\ufffd\ufffd\ufffd\ufffd\ufffdD\ufffdО]G\ufffdA\ufffd+\u0010\ufffd\nK\ufffd\ufffd]\ufffdR\ufffdL\ufffd)\ufffd\ufffd\t\ufffd\ufffdS\ufffd#ʫ\ufffd|\ufffd\ufffd\ufffd\ufffdN\ufffd9\u001b\u001c\u0000L\ufffd1\ufffd\ufffd\ufffda\ufffd\ufffd\u0000\ufffd\u0016\ufffd\ufffdXawt\f\u0001\ufffdQRFY\u001d`4w@H\ufffd\u0002Q\ufffd\ufffd_\u0016e\ufffd\ufffd\u001c\u001b6`\ufffd\ufffdI\u0000\ufffd\ufffd\ufffd\ufffdMm\ufffd\ufffd\ufffdL \ufffd\ufffdͥ\u0003\ufffd0\ufffds\ufffd2\u0003",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "就比如说你看我们的数据科学那个项目，他的平均薪资是36还是40我忘了，他那个薪资高并不是说他的学生有多牛，而是他们未来的就业目标基本上都是互联网的技术岗，那互联网的技术岗本身他的薪资就是会有base在25左右再乘以15或者16啊这些，然后他这个项目的bar会筛选出一批相对来说比较优质的学生，但其实你进来了港中深之后，所有的项目其实没有没有太大太大的差别，当然还是会有一定的差别在你的学的东西上面，所以说硕士看你想学什么东西吧",
+      "sender": "对方"
     },
     {
       "create_time": 1702901069,
       "formatted_time": "2023-12-18 20:04:29",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "原来是这样！我一直感觉..如果不去清北复交人这种传统强校以后就很难在商科就业..现在也很迷茫，尤其是今天刚出了个随机过程成绩打击到我后[流泪]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702902700,
       "formatted_time": "2023-12-18 20:31:40",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\ufffd\u0006\u0000R\r33pi\ufffd\u0001<\ufffd-e\ufffd\ufffdG(\ufffdғ%4\ufffd\ufffdH\ufffd&5u\ufffdo\u0016\ufffd\ufffdx}\ufffdvM\ufffd\"\ufffd\ufffd\ufffdl\u0000\ufffdS\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0005\ufffd}\ufffd\u0006\u0006u\ufffd\ufffdY\ufffd\ufffd\ufffd\u0012\ufffdO\ufffd\ufffdj\ufffd\b?P\ufffd\ufffd\ufffd\u000b\ufffdU\ufffd,es\u000b\ufffd;ya\ufffd\u000b#\ufffdk\u001e#\ufffd\ufffd\ufffd\ufffd\u0000/ >y\ufffdd\ufffd\u001a\ufffdd]N\u0005\ufffd\ufffd\ufffd\u0017Z\ufffd\u001bis\ufffdO@\u001ei\u0013\f\u0004\b@\ufffd;\ufffdu\ufffd\u0001V\ufffdKإ\ufffdG\ufffd\ufffd.\ufffd\ufffd>\ufffd\ufffdU\ufffd\ufffd7\u0007\ufffd8\ufffd\ufffd؋\ufffd\u001c\ufffd\u001f\u0016~8x\ufffd\u0018\u0000\ufffd\ufffd0\ufffd\ufffdz\ufffd\u001dQ;A\ufffd\ufffd]\ufffd\u0001\ufffd\ufffd%U_\ufffdV\u0005\ufffd\ufffd\u0003\u0004\u0000X\u001bj90=\u0018\ufffdÑsn",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈没啥看单门课成绩的地方啦 总加权其实也不是很在意如果不是一定要去那种很picky的公司的话（啥银行总行，头部私募啥的），至少互联网不是很在意gpa所以硕士没啥人继续卷gpa了",
+      "sender": "对方"
     },
     {
       "create_time": 1702902731,
       "formatted_time": "2023-12-18 20:32:11",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "随机过程我当时好像70多点..确实大三上结束挺难受的财管随机和金工几门课",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702902807,
       "formatted_time": "2023-12-18 20:33:27",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\u001d\u0006\u0000BL-/pk\ufffd\u0001{'q\ufffd\ufffd\ufffd\f\ufffd\ufffd\ufffd\ufffd\ufffd\ufffde\u001f\ufffd\u0004\ufffd\u0006\b\ufffd\u0013­6D\ufffd]\ufffd\ufffd\ufffd/\ufffd\ufffdq\ufffd\ufffd\ufffdW\ufffd\ufffd{\u0001\ufffd\ufffd\u0012w\u0017%$\ufffd\u001bk:\ufffd\ufffd4g\ufffd^U\ufffdu\ufffd\u0015\ufffdj\ufffd\u000f%a\ufffde\ufffd\u0002\u0014\u0007x\ufffd\u000eS7\ufffd\ufffd\f=ڊ\ufffd.[\ufffd1\t\u001fh\u0019o\ufffd\"\ufffdQ\ufffd\ufffd\u001f\u001a\ufffd\ufffdܔ\t\ufffdO\u001c\ufffd\ufffd\ufffd\u000f\ufffdwyZ~\ufffd\ufffd\f\ufffd@_\ufffdn\ufffd\ufffd\ufffdx\ufffd\u001b\u001dF\ufffd(\ufffd\"\u001d\":\ufffd\ufffdĝ\ufffd\u0003HG\ufffdK4m\ufffdh\u0004x\ufffd\"\u001b\ufffd\ufffd\ufffd\u001f\ufffdb\ufffdE9\ufffd\ufffd\u0003\u0000+\u0018\ufffd\ufffd\ufffdW\ufffd\u0015\ufffd",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "素的..随机过程打击到我后..感觉本来是有机会冲一冲清北复交人的..但这加权一下被拉下来了。。。整个人难受了一天了[流泪]感觉有种一门课干没我半辈子的感觉",
+      "sender": "自己"
     },
     {
       "create_time": 1702902996,
       "formatted_time": "2023-12-18 20:36:36",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "跟我一样 直接开始看留学去哪了当时",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702903167,
       "formatted_time": "2023-12-18 20:39:27",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "学姐申请的是什么项目呀",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702903281,
       "formatted_time": "2023-12-18 20:41:21",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我申的IMBA的IM track 这个项目是IM和BA合并到一起的，但整体我感觉IM的人更技术一点（涉及统计，机器学习，编程，数据库啥的），BA的更商科吧",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702903310,
       "formatted_time": "2023-12-18 20:41:50",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "项目相当于ds的商科版吧，会和商业结合",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702903341,
       "formatted_time": "2023-12-18 20:42:21",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "那这个申请难度怎么样呀，感觉和本科学的东西好像还有点差异的[发呆]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702903358,
       "formatted_time": "2023-12-18 20:42:38",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "所以bar整体没有ds高，但关键看你想学啥了，bar其实不算特别重要，bar有时候低点反而能让你拿高一点的奖学金",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702903388,
       "formatted_time": "2023-12-18 20:43:08",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "申请难度的话ds我听说好像笔面都没了今年，不知道明年啥情况",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702903418,
       "formatted_time": "2023-12-18 20:43:38",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我们这边还是笔试是概率统计和python简单题",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702903438,
       "formatted_time": "2023-12-18 20:43:58",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "面试分个面群面，比较像互联网风格了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702904091,
       "formatted_time": "2023-12-18 20:54:51",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "嗯嗯，谢谢学姐的指导！可以弱弱问一下学姐当时申请的bg大概是什么样子嘛",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702904096,
       "formatted_time": "2023-12-18 20:54:56",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd`A\u0006}\u0017\u0000\ufffdp\ufffd\"@M\ufffd\u0003_\u000b-\ufffd\ufffd\ufffd\u001b\u0006\ufffd\"\u001dxg,\ufffdG\ufffdn!;%\u0011$\ufffd8\ufffd\ufffd\u001c\b\ufffd\u0000v\u0000s\u0000\u0010\u000f\n\ufffd@C\ufffd\ufffd&j<\ufffd\ufffd\ufffd\ufffd\ufffdC.\u0003y\ufffda\u0006\ufffd\ufffd\ufffdI)\ufffd\ufffd\ufffd4\u0018\ufffd\u001a\ufffdjy\ufffdC\ufffdn\ufffd\ufffd\ufffd\u0005\ufffd\ufffdt9:\u0013n\ufffdl\ufffd\ufffd\ufffd*GBU\ufffdB\u001a;IeB\n@\ufffd\ufffdQH\ufffd\ufffd\ufffdH\ufffdIj)\ufffd\u001b$bRK\ufffd\ufffdTX\ufffd\u000bmњA1)\ufffd\u0006{\ufffd\u001b\ufffd\u0018\ufffd\ufffd\t\ufffdD@\ufffd\ufffd\ufffdv\ufffd\u00135\ufffd\ufffd@ђ\ufffd\u0005\ufffdi\ufffd\u0002\u0005\ufffdC\u0010\ufffd~w\ufffd<޾\ufffd\ufffd#\ufffdt\u0004E\ufffd\u0001\u0002\"\ufffdX_\ufffdc\ufffd\u001d\ufffd,9Y\ufffd֔\ufffd\ufffd_\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffduٶ\ufffdw\ufffd\ufffd\ufffd\ufffd\ufffdv<\ufffdV\ufffd}Oe\ufffd؛&\ufffd\ufffd\ufffd|\ufffd\ufffdʕ\ufffd\ufffd\ufffd\u0011\ufffdf\ufffd\ufffdY\u0006\u001a\u001c\b\ufffd8\u0006\f\ufffd恀\u0018\ufffd\f\ufffdJ\ufffd\ufffdȵ\u0014\u000e\ufffd\u000488\u0004(1`y\ufffd\b\ufffd\u0003\ufffdB\ufffd\ufffd\ufffdcD'\ufffd\n;x9\u001a\\\ufffd\ufffd\u0016\ufffd\ufffd\ufffds\ufffd.,\ufffd{\ufffd*1\u001a\ufffd*[w\ufffd\ufffd\ufffd\ufffd\ufffdۮg\ufffd\ufffd\ufffd\ufffd\ufffdճ\ufffd\ufffdm\ufffd\ufffd\ufffdv߶\ufffdSVҔ\ufffd\u0012]8Q\ufffd\ufffdq\ufffd\ufffd\ufffd\ufffd\ufffdhl\ufffd\ufffd\ufffd\ufffd\ufffdJ\ufffd\ufffd\"&\ufffdLԏ\u0002\ufffdhNJ5\u0017\ufffd\ufffd\u0004\ufffd K\ufffdg\ufffd\ufffd\ufffd\ufffd\ufffd_\r\u0005\n\fGA\ufffd\n\u0014\u0004\u0005\n\ufffd\ufffd\ufffdab\ufffd\ufffd\u0002\ufffd43\ufffd\ufffd\ufffd\bj %\ufffd#\ufffdB\ufffd1¤\u0016\ufffd\u0001\u001b\ufffd\ufffd\ufffd\u0010\ufffdZ\u0016\u0017\nL/\ufffd\ufffd\ufffdTB\u0016\ufffd\u0019\ufffd\ufffd\u001e|;\ufffd\ufffd\ufffdb\ufffd\ufffd/i\ufffd\ufffd~\ufffd\ufffd\ufffd\ufffd\ufffd}\ufffd45u\ufffd\ufffd\ufffd\ufffd\ufffd׶\ufffd\ufffd\ufffd\ufffdկ]\ufffdvY\ufffd\ufffd>q\ufffd\ufffd\ufffd\ufffd\ufffd`{۔m\n\ufffd\ufffd%\u0001W\ufffd\ufffd0ŐB\ufffdf\ufffdD2Ҷ\r\ufffd\u0002\ufffd!\ufffdz\u0012`\ufffd-\ufffd!\u0001\u0012\u0018\ufffd\ufffd\u0013L\ufffdN0\ufffdи:Hb\ufffd\ufffd\ty\u000f\ufffd\ufffde\u001cM\ufffd\ufffd\u0006\u0006\n\ufffd-d\u0007\ufffd4\ufffd\u0015\ufffd\ufffd\ufffd\u0015ł\ufffd`\ufffd+\f\u0007%Â1\ufffdk~\ufffd\ufffd4[X#>\ufffd-\u0010\ufffd\u000fd\ufffd\ufffd\ufffd.\ufffds\u0012\ufffd\ufffd+\ufffd\ufffd\ufffdP\ufffd\ufffd\ufffdm\u0019\u0004\u001d\ufffd\ufffdo\ufffd\u000eh\ufffdQ\u001b\ufffd\ufffd\f݂\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0018T\u001c9Y\ufffd\u001d\ufffd(\ufffd\ufffd\ufffd\b\u000b(3\b\ufffd\ufffd@\ufffdx.י0\ufffd\ufffd\ufffd\ufffd8\ufffd\u0007{P3^\ufffd\u0000\ufffd\ufffd!\ufffd)Hf\ufffd\u0007\ufffd𼭆\ufffdQ\ufffd\u001f+\ufffdr\ufffdtT\ufffd\u000e\ufffd\ufffd(v\u0018\ufffd1?\ufffd\u0006",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender": "自己"
     },
     {
       "create_time": 1702904892,
       "formatted_time": "2023-12-18 21:08:12",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\ufffd\u0004\u0000\u0004\b我当时是加权90+，六级55一段实习科研和几个比赛\ufffd过我感觉你和\ufffd\ufffd要有一个展示出来的可以说就了\u0006\u0000y\u0019Ū\ufffdd5`S\ufffd\ufffd\f\u0005\\\ufffd\f",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我当时是加权90+，六级550+，一段实习一段科研和几个比赛，不过我感觉你实习和科研只要有一个展示出来的可以说就可以了",
+      "sender": "对方"
     },
     {
       "create_time": 1702904963,
       "formatted_time": "2023-12-18 21:09:23",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffde\u0006\u00002\ufffd-/\ufffd9鬉\ufffd2)\u0003\ufffd\ufffd\ufffd\ufffd[\ufffd\ufffd\r3\ufffd\ufffdy\ufffd_l\ufffdq\ufffd\ufffdݵ\ufffd\ufffdz\ufffd\ufffdW`\ufffd\ufffd\ufffd\ufffdd\ufffdFd,.\u000f\ufffd\u0014\ufffdD\ufffd\u0000\ufffd̳\ufffd\ufffd\ufffd\ufffd\u0012\ufffd\u001d\ufffd\u0017\ufffdP\ufffd\u001c\u0007\ufffdɖ̒P\ufffd\u0019\ufffdd9\u0014\u000fA\ufffd\ufffd}\u0011v\ufffd҉d9\ufffd\u001f\u000bnL\u0003\ufffd\u001d,L\ufffd\ufffd\ufffdg\ufffd\u0016\ufffd\ufffd47N6\ufffd.\u0005\ufffd\u0017\ufffd\ufffd\tv\ufffd'\ufffd\ufffdxo\ufffd\u000f\fޘ\ufffdj\ufffd\ufffdF\u0011\ufffd\ufffd[0@@\ufffd,{\f\ufffd\ufffdɦ N\ufffd\ufffdNv\ufffd\ufffd\ufffd\u001e!ψ+\ufffdJ\u0016~I`\ufffd\ufffd\u001f\u000b\u000e\u0006\u0000d\u000e\u0003\ufffdwB\ufffd\ufffd\ufffd\ufffd\ufffdUԠ\ufffd\u0001",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我当时因为是提前批的第1批申的，所以bar会高一点。假如前面的提前批没有申上的话，也可以正式批申。我后面正常批的有一个同学是一个普通的211，然后加权可能85左右吧",
+      "sender": "对方"
     },
     {
       "create_time": 1702908893,
       "formatted_time": "2023-12-18 22:14:53",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "嗯嗯，那申请的时候是只能申一个项目嘛？学姐觉得港中深相比央财 上财 南大商学院这档次的学校怎么样呢？",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702909399,
       "formatted_time": "2023-12-18 22:23:19",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "同一个学院只能申请一个，imba金融经济会计市场ds啥的都是深高金，金工是单独出来的",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702909478,
       "formatted_time": "2023-12-18 22:24:38",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "bar的话我感觉跟央财上财差不多吧，南大不了解不过看不同专业貌似bar也不一样，但其实我个人回头来看感觉这种卷没有意义",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702909523,
       "formatted_time": "2023-12-18 22:25:23",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "当局者迷旁观者清[苦涩]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702909537,
       "formatted_time": "2023-12-18 22:25:37",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "学姐作为过来人  轻舟已过万重山了",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702909551,
       "formatted_time": "2023-12-18 22:25:51",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "本科生还是好难逃出这种卷的思想[苦涩]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702909572,
       "formatted_time": "2023-12-18 22:26:12",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd 7M\u0001\u0000\ufffd哈早点释怀放下过自己8\u0003\u0000\ufffd\ufffd\ufffd\ufffd,\ufffd\u0010",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "哈哈哈哈早点释怀早点放下早点放过自己8",
+      "sender": "对方"
     },
     {
       "create_time": 1702909614,
       "formatted_time": "2023-12-18 22:26:54",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\ufffd\u0003\u0000t\u0006如果你的目标是学校title的话随便去卷开心就好，就业能过就行\ufffd\ufffd他看个人选择\u0004\u0000OC\u0006\ufffd\u0000\ufffd\ufffd\u0002b\bf",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "如果你的目标是学校title的话随便去卷开心就好，如果就业的话学校title能过就行，其他看个人选择",
+      "sender": "对方"
     },
     {
       "create_time": 1702909663,
       "formatted_time": "2023-12-18 22:27:43",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\u001d\u0005\u0000\ufffd\ufffd%,pE\ufffd\u001c\ufffdޒ\ufffd\ufffd7U\t\ufffd\u0011\ufffd\ufffd\ufffd\ufffdg\u0002\ufffdn<Q\ufffd%\ufffd\ufffd,\ufffdDFa\u000f\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffds\u0003r\ufffd\ufffdnp\ufffd=g\ufffd,C\u0006Av\ufffdS\nc\ufffd\ufffdE\ufffd_\ufffd\ufffd\ufffdLz\u0014\u00164\ufffdv\ufffd\u001aj\u0017\ufffd#&\u0005\ufffd\t\ufffd\ufffdU\u0013\ufffd\ufffdwϱ\ufffdP\ufffdl\b5F\ufffd\ufffd\ufffdg\ufffd\ufffdlmꉠF\u001e\ufffd\u0014\u001fdU`\ufffd\ufffdT\ufffd\ufffd\u0005\ufffdeYۆfK\u0000Z.s\ufffd\u001bI\ufffd\ufffd̲\ufffd\ufffdk9\u0002\u0000rŀ\b\ufffd\ufffd\u0019",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "两财一贸的就业没有港中深好的主要原因还是有很多双非本科的就业时并不被市场看好导致的，另一方面也是有部分人会体制内就业",
+      "sender": "对方"
     },
     {
       "create_time": 1702909829,
       "formatted_time": "2023-12-18 22:30:29",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "谢谢学姐！和学姐聊过后真的感觉心态平了一些！",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702909847,
       "formatted_time": "2023-12-18 22:30:47",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "但还是挺难受的..哎可能是对自己期望太高了[苦涩]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702909859,
       "formatted_time": "2023-12-18 22:30:59",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "以后去深圳一定请学姐吃饭！！",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702909871,
       "formatted_time": "2023-12-18 22:31:11",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "哈哈哈哈哈哈随自己的心吧！",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1702909921,
       "formatted_time": "2023-12-18 22:32:01",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "谢谢学姐的宝贵信息和开导！！学姐在哈尔滨玩得开心呀！！[玫瑰][玫瑰]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1702910012,
       "formatted_time": "2023-12-18 22:33:32",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "哈哈哈哈哈好！",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1707534621,
       "formatted_time": "2024-02-10 11:10:21",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\ufffd\u0005\u0000\ufffd\u000b+,\ufffd\ufffd\ufffd\ufffdo\ufffd\ufffd\ufffd\u0019\ufffd&(\ufffd\ufffd\ufffdqDAD\ufffd\ufffd\ufffd\u0012\ufffd\ufffdmq\u0003\ufffd'.\ufffd}\ufffd(\ufffd\u0018\ufffd\ufffd\u0018\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd`'\ufffd\ufffdx\t\ufffd\u0004\ufffd\ufffdf@\ufffdokT5D\ufffd\ufffdy\u0003\ufffd\r\ufffd\ufffdG?\u0018}[\ufffd\ufffdm\u000f\ufffd?G+\ufffdM\"\u000fФ\u0018\ufffd8\ufffd\ufffd\ufffd\ufffd\u0002ş\ufffd\u0017\u0014\u001f\ufffdg2\ufffd\ufffd\bA\ufffd\ufffd\u0011\u0011n\ufffd\u000fЌU/\ufffd\ufffdi\ufffd\ufffd/\ufffd\rD\u0017\b\ufffd\ufffd#\ufffd#\ufffd\ufffd\ufffd\u0000\n\ufffd\u001e\ufffd\ufffd\ufffd\ufffdȷձdB\ufffd\ufffd:\ufffd`\u0007r\u0003\ufffd#L$\u00149\u0005\u0000\ufffd\ufffdDa\u0019T\ufffd\ufffdb\u001f\ufffdAA\u0001",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "楚仪学姐新年快乐，万事顺遂！谢谢学姐在我随机过程考败的最消沉的时候给我鼓励和力量，祝学姐在新的一年里天天开心，龙行龘龘发大财，前程朤朤好运来！",
+      "sender": "自己"
     },
     {
       "create_time": 1707539406,
       "formatted_time": "2024-02-10 12:30:06",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "谢谢小徐！向前看！本科再无随机的烦恼了哈哈哈哈也祝你保研/申请到心仪的学校，offer多多！",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1707541002,
       "formatted_time": "2024-02-10 12:56:42",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "嗯嗯，谢谢学姐！我计划还是走保研这条路，已经不想内耗了，期待着赶紧夏令营上岸了吧[捂脸]，祝学姐继续优秀，闪闪发光呀~",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:22+08:00",
+  "export_time": "2025-12-07T09:48:06+08:00",
   "message_count": 58
 }

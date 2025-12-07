@@ -5,46 +5,46 @@
     {
       "create_time": 1664287569,
       "formatted_time": "2022-09-27 22:06:09",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1664287573,
       "formatted_time": "2022-09-27 22:06:13",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你好",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1664287577,
       "formatted_time": "2022-09-27 22:06:17",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "几号设计师推荐",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1664287578,
       "formatted_time": "2022-09-27 22:06:18",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`{\u0001u\b\u0000\ufffdS8\u001ep5\ufffd\u0001\u001a\ufffdFL\u0001\ufffd\ufffdv\u0013\ufffdm\ufffd\ufffd\ufffd4К\ufffd2%\tNTU|\u00033\u0000)\u0000.\u0000L\ufffd\ufffdd\ufffd\ufffd|\ufffd\u0014\u0002\u0012\ufffdK<\b\ufffd6\u00052\ufffdp\ufffdK-kCq\ufffd\ufffd\ufffd1nMK\ufffd\ufffd\u0003QB\ufffd\u0000\u000el)\ufffd\ufffd\u0010\ufffd9<$W_\ufffd/&]ק.\ufffd\ufffdq}:~==1\ufffd\ufffd\ufffd\ufffd\u001a\r\ufffd\ufffdp\ufffdT\rotӌ\ufffd8\u001di\\\ufffd\u0007n\ufffd;\ufffd\r`B\t\ufffdq\u001c{\u00103Q\ufffd \u001c\u0003+\ufffdʒj\ufffdV\ufffdJ\ufffdJ5\ufffdҼR\ufffd\ufffdz|\ufffd\ufffd\ufffdz\ufffdE\f\ufffdsx\u0003Dq\ufffd\u001b \nR˚(a\u0005\ufffd@X\ufffd\b\ufffd\u0000{\nt\ufffd+1LK\ufffdͻi/{k\ufffd\ufffd\ufffd\ufffd`\ufffdD\ufffd+Pr^\u000f\u0000{#\ufffdm`iѬ\ufffdM\ufffd\ufffd\ufffdA9;\ufffdg\ufffd\u0012\ufffdaz\u0006cN\ufffd\u0016_\ufffd\ufffd\u0019ؘY\ufffdk\ufffd\ufffd",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "自己"
     },
     {
       "create_time": 1664287585,
       "formatted_time": "2022-09-27 22:06:25",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "能手写体p个名字吗",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1664287594,
       "formatted_time": "2022-09-27 22:06:34",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "可以",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:26+08:00",
+  "export_time": "2025-12-07T09:48:09+08:00",
   "message_count": 6
 }

@@ -6,66 +6,66 @@
       "create_time": 1754895179,
       "formatted_time": "2025-08-11 14:52:59",
       "type": "系统消息",
-      "str_content": "杜春通过了你的朋友验证请求，以上是打招呼的消息。",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1754895208,
       "formatted_time": "2025-08-11 14:53:28",
       "type": "系统消息",
-      "str_content": "你撤回了一条消息",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "自己"
     },
     {
       "create_time": 1754895685,
       "formatted_time": "2025-08-11 15:01:25",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd`]\u0001=\u000e\u0000\ufffdZ^8`5\ufffd\u0001\ufffd\u0010)\ufffd\u0018\u0000\u0000\ufffd\ufffd*@+\ufffd\ufffd\ufffd\ufffd\u0013F(\ufffd\ufffd,\f\u0019\ufffdkw\ufffdm'\ufffd>\ufffdI3U\ufffd>\ufffd\ufffd\ufffd\u0010\u0004\ufffd\ufffd.o\u0004A\ufffd\u0014\u001cP\u0000N\u0000O\u0000Y[\ufffdC\ufffdC\ufffd\u001dwSF\ufffd\ufffd\ufffd\ufffd\ufffd0d\ufffd\ufffd\ufffd\f}\u001a\u0013=\ufffd\u001e@\ufffd\ufffdvw\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd1\ufffdg\u000b\ufffd\u0005+\u001b,F`\ufffd\ufffd)\ufffd\ufffd \ufffd\ufffd\ufffd(y\ufffd\ufffd\u0005\u0018\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u001f<\u000f\u0015/Y\ufffd\ufffd\u000e\ufffd-\u001c\ufffdt\ufffd\u001eB\ufffdi\ufffdd~4\u001c\ufffdpq\n\ufffd\ufffdOw\ufffd\u0002\ufffd\ufffd\u0001+>\ufffd\ufffd\ufffd\ufffdϤj\ufffd\ufffd\u001f\ufffdG@\ufffd\ufffd\ufffd\ufffd\u0005|2?\u0012\ufffd7\ufffd?\ufffd\ufffd\u001f\ufffd\ufffd\u001b\ufffdÊ\ufffd\ufffd\ufffdF\ufffdY8B\ufffd\ufffd\ufffd!\ufffdU[\ufffd\ufffdnZ9)\ufffd\ufffdx\nf\ufffdb\b\ufffd\u001c\ufffd\ufffd\ufffd~(h\ufffd(k\ufffd\ufffd\ufffd\u0011\ufffd\ufffdTyē\u000bƇG\ufffd\ufffd<\ufffdB\ufffdf\ufffdEhm\ufffd\tӇQ\u0019\"twc\ufffd\u001b\ufffd\ufffdi\ufffd\ufffd\ufffd3X\ufffdqO\ufffdl\ufffd\u0002\ufffd\ufffd\u0004F\ufffd\u001d\ufffd<\ufffd\u0012\ufffd\u0001Pw\u0018\ufffdAΩ\u001a\u0003}b\ufffd\ufffd\ufffd7$\ufffd,n\ufffdX\ufffd\ufffd\u0016\u000f\ufffd\ufffdgHox\ufffd\u0005+9U;\ufffd>\ufffd\ufffdUu4\ufffd'\ufffdx\ufffd'\ufffd\ufffd>q_I\ufffd5\ufffd\f\ufffd\u0013\ufffd3\u0001\u001c\u0000V\ufffd\ufffd\ufffd0\ufffd\u001d\ufffd\u0012\ufffd\ufffdf\ufffd2c\u0004k.̀\ufffd\ufffd>\ufffd,[\ufffd\u0019$\ufffd\u0016\tٶx\u0003\ufffds$ױ(\ufffd\ufffde\ufffd\ufffdcS\ufffd\bR3L&\u001a^\u0011F\ufffd\ufffd\ufffd\ufffd`0Q\u000b<\ufffd`w0\ufffd",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "老师您好，我是25级新生徐昂，有两个问题想请教下老师：\n1.我想要申请研究生助学金，在填写经济情况调查表时，“研究生学业奖学金”和“导师姓名电话”该如何填写呢？“学习实践”一栏是要写本科期间的一些情况吗？经济调查表是要全部手写还是可以打印+手写结合呢？\n2.我的专业是金融（数量与金融科技方向），听说往年金融科技方向是没有开学数学考试的，请问今年我们这个方向与数金合并后还有数学考试吗？\n恳请老师做出解答[玫瑰][玫瑰]！",
+      "sender": "自己"
     },
     {
       "create_time": 1754896390,
       "formatted_time": "2025-08-11 15:13:10",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "研究生学业奖学金这部分不需要写",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1754896395,
       "formatted_time": "2025-08-11 15:13:15",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "只要写到本科吧",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1754896412,
       "formatted_time": "2025-08-11 15:13:32",
-      "type": "文本",
-      "str_content": "手写打印应该都可以  ",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "手写打印应该都可以",
+      "sender": "对方"
     },
     {
       "create_time": 1754896499,
       "formatted_time": "2025-08-11 15:14:59",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "数学考试等通知吧",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1754896701,
       "formatted_time": "2025-08-11 15:18:21",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "嗯嗯好的，明白了，谢谢老师！",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1754896714,
       "formatted_time": "2025-08-11 15:18:34",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "[玫瑰]",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:16+08:00",
+  "export_time": "2025-12-07T09:48:02+08:00",
   "message_count": 9
 }

@@ -6,52 +6,52 @@
       "create_time": 1708846328,
       "formatted_time": "2024-02-25 15:32:08",
       "type": "系统消息",
-      "str_content": "你已添加了别睡太晚.（演唱会均有票），现在可以开始聊天了。",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1708846359,
       "formatted_time": "2024-02-25 15:32:39",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "问价 武汉陶喆任意一场 680或者380 两张连号",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1708846442,
       "formatted_time": "2024-02-25 15:34:02",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0001\ufffd\t\u00006WA\u001dp'n\u0001\u001a\u0015\u0003\u000bܪ\ufffd\ufffd\f\u001b\ufffd\ufffd\u0017hLD\ufffd\ufffd\ufffd\ufffd#U\ufffd\ufffd\u0001<\u00001\u00007\u0000\ufffd\ufffd\ufffd\u001d^\u001e\ufffd\ufffdc\f0\u0005H+X\u000e\u0006_\ufffd\ufffdc0o\ufffd\ufffd,\ufffd\u0013g\ufffd\ufffd\ufffd\ufffdj)G\ufffd\ufffd#\ufffd\ufffd\b\ufffd\ufffduZ\f\ufffd\u0017h\ufffd \ufffdƊ\ufffdҴ\"깺\ufffd\u0014\ufffdS[5骧*7\ufffdT\ufffdVTn\ufffd\ufffd\ufffd\ufffd\ufffdͽ\ufffd\ufffd\u000f\ufffdN(\ufffd\ufffdu\ufffd\ufffdI\ufffd\ufffd\ufffd&\ufffdw\ufffd\ufffdj/x\ufffd\u0010\ufffd\u0014%J\ufffd\u0018\ufffd\ufffd8\ufffduWi\ufffdYCtv\ufffdx\ufffdâ\ufffd_\u0012%\u001fc9(\ufffd\u001f\ufffdS_\ufffd\ufffd\ufffdo\ufffd\ufffdS\ufffd\ufffd\ufffdڬ\ufffdI\ufffd\ufffd\u0005\ufffdi\u0000EAi\f\ufffd(\ufffd\ufffd\ufffdݧ\u0012<\ufffd?yZ$A\ufffd*;9\ufffd\ufffd\ufffd\u0017S@\ufffd\u0018\ufffd\ufffd\u0018\ufffdO`M\ufffd\ufffd\u0016\ufffd\f~!N\ufffd)&ۊ\ufffd\ufffdH\ufffd!\u0001\u0012\u0000L\ufffd\ufffd@\u0014\ufffd\u001b\u0011l\u0004\ufffd\u0016\ufffd\u00067\u0015\ufffdS\u0006\ufffd\ufffd\ufffd\ufffd\ufffd?,y\u000b\ufffdbvC\ufffd\ufffdX\ufffd\u001eM-6\ufffd\ufffd\ufffd/$\u0005(\ufffd\u0001",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "对方"
     },
     {
       "create_time": 1708846451,
       "formatted_time": "2024-02-25 15:34:11",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "售价➕50",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1708947456,
       "formatted_time": "2024-02-26 19:37:36",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "3月3 380票面",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1708947459,
       "formatted_time": "2024-02-26 19:37:39",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "有连号的吗",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1708947480,
       "formatted_time": "2024-02-26 19:38:00",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "没了连坐",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:23+08:00",
+  "export_time": "2025-12-07T09:48:07+08:00",
   "message_count": 7
 }

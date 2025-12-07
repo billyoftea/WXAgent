@@ -5,18 +5,18 @@
     {
       "create_time": 1707497851,
       "formatted_time": "2024-02-10 00:57:31",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd=\u0004\u0000d\u0007龙飞凤舞 喜迎新春[烟花]愿日子向阳\n爱的人，喜乐如常\n盼\ufffd\ufffd\ufffd于心上\n 一帆祝你新年快乐！\u0005\u0000+\u0004v\u0003\ufffd\ufffd{`\ufffd\ufffdvF\u0001",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "龙飞凤舞 喜迎新春[烟花]愿日子向阳\n爱的人，喜乐如常\n盼的事，归于心上\n      一帆祝你新年快乐！[烟花][烟花][烟花]",
+      "sender": "对方"
     },
     {
       "create_time": 1707497893,
       "formatted_time": "2024-02-10 00:58:13",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "新年快乐！祝龙行龘龘，前程朤朤！",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:22+08:00",
+  "export_time": "2025-12-07T09:48:07+08:00",
   "message_count": 2
 }

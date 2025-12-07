@@ -6,66 +6,66 @@
       "create_time": 1762870578,
       "formatted_time": "2025-11-11 22:16:18",
       "type": "系统消息",
-      "str_content": "(\ufffd/\ufffd \ufffdu\u0005\u0000\ufffd\t<?xml version=\"1.0\"?><sysmsg type=\"revokemsg\"><><content>\"傅圣智-北京航空航天大学-金融投资\" 撤回了一条消息</<revoketime>0</msg></sysmsg>\u0004\u00000\t\u0010c\ufffdDa\u0012\ufffd\ufffd\ufffd\u0001",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1762870583,
       "formatted_time": "2025-11-11 22:16:23",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "今约上德扑了[旺柴]",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1762870642,
       "formatted_time": "2025-11-11 22:17:22",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你们几人打[旺柴]",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1762871267,
       "formatted_time": "2025-11-11 22:27:47",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我们几个数金科的[旺柴][旺柴]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1762871270,
       "formatted_time": "2025-11-11 22:27:50",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "五六个",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1762871325,
       "formatted_time": "2025-11-11 22:28:45",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "可否容许我观摩学习一下[旺柴]",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1762871529,
       "formatted_time": "2025-11-11 22:32:09",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "来来来",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1762871531,
       "formatted_time": "2025-11-11 22:32:11",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "楼下瑞幸",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1762871552,
       "formatted_time": "2025-11-11 22:32:32",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \u0018]\u0000\u0000(哈\ufffd\ufffd\u0001\u0000&n\b",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈妥",
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:13+08:00",
+  "export_time": "2025-12-07T09:48:00+08:00",
   "message_count": 9
 }

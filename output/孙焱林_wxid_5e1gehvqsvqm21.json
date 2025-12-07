@@ -5,25 +5,25 @@
     {
       "create_time": 1668325446,
       "formatted_time": "2022-11-13 15:44:06",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd`\u0006\u0000-\u0007\u0000Ҍ13`i\ufffd\u0003\ufffd\ufffdlI\ufffd0\f\ufffdQ\ufffd\ufffdu\ufffdы\t\ufffdξ\ufffdu\ufffd\ufffdP\ufffd\u0019\ufffd&l\ufffd\ufffd\ufffd\ufffdً\u000e\ufffd\b\u0005A\u0010\u0004A\ufffda\ufffd\"\u0003\ufffd\ufffd\u0013\ufffd\nP\ufffdrkL\ufffd\ufffd\ufffd/\u001c{\ufffdx\ufffdF\ufffd}\ufffd\ufffdJC\u0016\ufffd\u0000\ufffd\u0010<\ufffd\ufffdT\ufffdE(\ufffd[=\ufffdXW\ufffd\ufffd꨺\u0011\ufffdN\ufffd\ufffd\u0004\ufffd\ufffd\u0013P\u0003\u00040\ufffdœn\ufffd\ufffd\ufffdz\ufffd\u001c2yV\ufffd\ufffd\ufffd\u0014\ufffdr`k\ufffd7\ufffd\ufffd\ufffd\ufffdI\ufffd\ufffd\ufffdN\ufffd\u0007\f\ufffd\ufffd\ufffd\ufffd.!ݸ\ufffd$\ufffd;\\N\ufffd\n\ufffd\ufffdu\ufffd{\ufffde\ufffdA\ufffdxC\ufffdQ\ufffdA\ufffd\ufffd\ufffd(\ufffd\u0004;n:P\ufffd\ufffd0B\ufffd\u0001\n\u0000\ufffd\ufffd\ufffd\ufffdg3[ј}\ufffd\u001144\u001f\ufffd>\ufffd\ufffd`\ufffdb\ufffdAy\u0002",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "孙老师，我和几个同学共同商量准备搞一个大创，现在选题在纠结疫情对房价的影响和疫情对失业率的影响。\r\n想问一下您对我们的选题有什么建议和可以推荐一下比较权威的的统计信息来源吗[疑问]",
+      "sender": "自己"
     },
     {
       "create_time": 1668329563,
       "formatted_time": "2022-11-13 16:52:43",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "估计后面一个更有意义，你看看知网上有关文献再定。",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1668329855,
       "formatted_time": "2022-11-13 16:57:35",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "嗯嗯，好的  谢谢孙老师～",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:25+08:00",
+  "export_time": "2025-12-07T09:48:08+08:00",
   "message_count": 3
 }

@@ -5,39 +5,39 @@
     {
       "create_time": 1736332857,
       "formatted_time": "2025-01-08 18:40:57",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1736332881,
       "formatted_time": "2025-01-08 18:41:21",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你好，想问下这几天o1mini老是连接不上是什么情况",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1736332943,
       "formatted_time": "2025-01-08 18:42:23",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`~\u0002\ufffd\u000e\u00006`e&\ufffd\ufffdl\u0003s@ڜ\u001e\b|\r+0`a@~\ufffd\u0005q\ufffd<n\ufffdȝ2i\ufffd\ufffd\ufffd\ufffd8,\u000e\ufffd\u0012V\u0000O\u0000]\u00002\ufffd9\ufffdS\ufffd\ufffdS1K\ufffdvnf\ufffdB\ufffd֟\ufffdyv럙!7\ufffd\ufffd\ufffdD\ufffde\ufffd\ufffd&4\ufffdJ\ufffd\u0016\rl\ufffd\ufffd\ufffd\ufffd\\\ufffd\ufffd]4qzc\ufffdc\ufffd\ufffd\u0005-8\ufffdZ\ufffd8\ufffd\ufffdO\ufffd\ufffd\ufffdM\ufffd\ufffd\u0014\ufffd\ufffdE\ufffd]\ufffd\ufffdy\u001d\u0014\ufffd\ufffds\u0013\ufffd\ufffd-\u001a\ufffd\ufffddݭ\ufffd\ufffdN\ufffd\ufffd\ufffdM$\ufffde\ufffdj\ufffd\ufffd7\ufffd&\ufffdU,\ufffd\\\ufffd5\ufffdg\ufffd\ufffdL9B\ufffd-\ufffd?\u001eݥ{t\ufffd-\ufffd\ufffd\ufffdR\ufffd\ufffd\ufffd\u0012\ufffd|\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdߡ\ufffd\ufffd\ufffd\ufffdN\ufffd\t\u000e8&\f\ufffd&I\ufffd\ufffd~\u000f\b\ufffdD2\ufffd\ufffd\ufffdz\ufffd\ufffd\ufffdU$ͣ\u0007\ufffd\ufffd\ufffdFC\ufffdbP>\ufffdPIau\ufffd\ufffd\ufffde\ufffdm]\ufffd\ufffd\ufffdY\ufffd\ufffdLX\ufffd\ufffd\ufffd\ufffd\ufffdb\ufffd\ufffdE\ufffd\ufffdE\\\u0014V[4n\ufffdӕ6\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd+\ufffd\"c\u0001\ufffd\ufffd\ufffd\u0018P#\ufffd.\u0003b@Od\ufffd\ufffd\ufffdcb\ufffd\ufffd\ufffd\ufffd\ufffdj\u0006\ufffdi\ufffdt\ufffdq\u000e\ufffd\ufffd&\u0012J\ufffdd⨯\ufffd\u0014 \ufffd}8$.mT\ufffd\ufffdM\u001c\ufffdM\ufffd\ufffd\ufffd\u0012\u0018\ufffd\n\ufffd\ufffdN\ufffd\ufffd\ufffd\ufffd)3mUd\ufffd@\ufffd\ufffdU\ufffd\ufffdQײI\u0016ꡒ\u001e\u0007\u0010\ufffdH\u0001L\ufffd\u0018\u0000/\ufffd\ufffd&a\ufffd\ufffdܲj\ufffd\t\ufffd\u0014\ufffd\u0002{+\ufffdm`QY\ufffdqSk8\u0015Q\u000eLć\ufffdc\ufffdgXFϕo\ufffdk9\ufffd\ufffd\ufffd^Z\ufffdS\ufffd1sW% )@\ufffd\f",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "对方"
     },
     {
       "create_time": 1736332948,
       "formatted_time": "2025-01-08 18:42:28",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "昨天封号严重",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1736332952,
       "formatted_time": "2025-01-08 18:42:32",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "有问题发群里即可",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:18+08:00",
+  "export_time": "2025-12-07T09:48:04+08:00",
   "message_count": 5
 }

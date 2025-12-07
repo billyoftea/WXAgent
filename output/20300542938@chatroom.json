@@ -5,11 +5,12 @@
     {
       "create_time": 1650936566,
       "formatted_time": "2022-04-26 09:29:26",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\ufffd\u0006\u0000\ufffd\fwxid_9384903848414:\n【比赛安排通知】\n昨日已正式公布晋级复赛的队伍。\n请各位\ufffd\ufffd员请注意！\n培训以线上形\ufffd\ufffd展平台：腾讯会议时间：4月27日（周三）19:00。\u0007\u0000\ufffdf\ufffd\u0003\ufffd\b-\ufffd\u0010(a\ufffdSA#˧\ufffd",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "【比赛安排通知】\n昨日已正式公布晋级复赛的队伍。\n请各位晋级复赛的队伍各队员请注意！\n复赛培训以线上形式开展。\n培训平台：腾讯会议。\n培训时间：4月27日（周三）19:00。",
+      "sender_name": "labyrinth",
+      "sender_wxid": "wxid_9384903848414"
     }
   ],
-  "export_time": "2025-12-06T19:12:26+08:00",
+  "export_time": "2025-12-07T09:48:09+08:00",
   "message_count": 1
 }

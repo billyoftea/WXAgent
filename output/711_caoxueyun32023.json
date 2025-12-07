@@ -5,39 +5,39 @@
     {
       "create_time": 1678369594,
       "formatted_time": "2023-03-09 21:46:34",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1678369622,
       "formatted_time": "2023-03-09 21:47:02",
-      "type": "未知类型(21474836529)",
-      "str_content": "(\ufffd/\ufffd`\u0006\u0002\ufffd\u0011\u0000v\u001fvD\u0010\ufffd\ufffd\u0001\u0000ƨ`\u0004\u0000\u0000\ufffd\ufffd1;\ufffdp\ufffd\ufffd\ufffd\ufffdCۆ!\ufffd\u000e\ufffd0\ufffd\ufffdl˥M!%P\ufffd#$\ufffd\b)\ufffd\ufffd\"\ufffd.\ufffd\ufffdl\ufffdK-\ufffd\u0000\ufffdmy\u0004=\u001d\u0000\u0000\u0000\u0014\bl\u0000a\u0000c\u0000/%(\ufffd\t\ufffd\ufffdAe\ufffdT\ufffd\ufffd\ufffdYa\ufffd9\ufffd\ufffd\ufffdl\u0006\\\ufffd\t\ufffd\ufffd\u0001\ufffdٲryp\ufffd\ufffd\u0010\ufffdR\ufffd\ufffd*!1\ufffd1w\ufffdZ\f\ufffd\ufffd\ufffd\u0016\ufffd\ufffdL\u00111OF̓\u0010.\u001fVZ\u001e /\u0017ZI\ufffd<\u0017\u0000\ufffd\ufffd\ufffd\ufffd_\ufffduqĜ\ufffd\ufffdF\ufffd\ufffd\ufffdt\ufffd\ufffd+\ufffd\ufffd\ufffd\ufffd[\ufffd7\ufffd\u001a]\ufffd\ufffd\ufffd]w9\ufffd\ufffd\ufffd\u0002h\u000fS\ufffdq&\f3\ufffd.u&3_\ufffdޣFJ)F\ufffd\ufffd\ufffdE\u0014\ufffd\ufffd\ufffd\ufffd\ufffd\u001dWZ5d\ufffd\ufffdJ\ufffd\u0000\ufffd=ǯ\ufffd\ufffdY\ufffd,\ufffd\ufffd\ufffd\u0017\ufffdC\ufffdH\bKe\ufffd\u0015\u0001Ù\ufffd\ufffd\ufffdB\ufffdL\u00111U--\t F\\(\ufffd\ufffd\ufffd#\u0013\ufffd\ufffd\u000fk\ufffdϩ\ufffdYh\ufffd\u0012\ufffd\ufffdހH#\ufffd\ufffd\ufffdPc*\u0011pZ\ufffd\ufffd\ufffdNXQj\\=\ufffd\ufffd͟\ufffdq\ufffd{}\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdW\ufffdEԖa\ufffd\f\ufffd\ufffdD\ufffd\u0004\u001f\ufffd8\u0010[\ufffdA\u0018\ufffdA\ufffd)\ufffd\u000e\ufffd\ufffd4\ufffd\ufffd\u001bX\u0003\ufffd\ufffd\u0014\ufffd98\ufffd\u0003\ufffd\u001b9\ufffd\ufffd\ufffd\ufffd_ZG1\ufffdh\ufffd=\u0003Կ\ufffde\ufffd[g\ufffdj;]i\ufffdX0\ufffd}\ufffd\ufffd~\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd[CCd\bD@\ufffd\ufffdh\r:Q\ufffd;\ufffd\ufffd\ufffd\u0002\ufffdS\bkO\u0002.~\ufffd\u000e\u000b\r\ufffd\ufffd2l\ufffd:e\ufffd\ufffd.\ufffd=\u001b\ufffd\ufffdI\ufffd\ufffd#  B\ufffd\ufffdl\u0003S\f\u0000\u0003Wk\ufffd\ufffd\r$\ufffdw\ufffd\ufffd\u000b\ufffd\u001c\ufffdnl4\ufffd_\ufffd\ufffd\u0016ckh\ufffd\ufffd\bF\ufffd\ufffd;\ufffd,\ufffd\ufffd\ufffd\ufffd\ufffd~\ufffdM\ufffdU+\u0010\ufffd\u0001\ufffd\\\ufffdo\ufffd\ufffd\ufffdr\ufffd\ufffd\ufffdd\ufffd{\ufffd\u0012v\ufffd\u000bF\ufffd[\ufffd\u001e\ufffde\ufffd\f",
-      "is_sender": 0
+      "type": "图文消息",
+      "str_content": "邀请你加入群聊",
+      "sender": "对方"
     },
     {
       "create_time": 1679581868,
       "formatted_time": "2023-03-23 22:31:08",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "请问那个减一百的活动持续到什么时候呀",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1679582173,
       "formatted_time": "2023-03-23 22:36:13",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "今天最后一天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1679582175,
       "formatted_time": "2023-03-23 22:36:15",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "还有一个小时",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:26+08:00",
+  "export_time": "2025-12-07T09:48:09+08:00",
   "message_count": 5
 }

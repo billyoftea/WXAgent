@@ -5,32 +5,32 @@
     {
       "create_time": 1674299086,
       "formatted_time": "2023-01-21 19:04:46",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`\u0005\u0002\ufffd\u0007\u0000\ufffd\ufffd0\u001d`5n\u0003`&\ufffd\u000e$\ufffdd\ufffd$tGQ\ufffd\ufffd\ufffdOI\"\ufffd\ufffd\ufffd I\ufffd++\u0000'\u0000!\u0000\ufffd\ufffd\ufffd\u0007iX\ufffd@\ufffd\u0018F\ufffd\ufffdA\ufffd\ufffd\ufffd\ufffd\ufffdW\ufffdɸr\ufffd\ufffd\ufffd2\ufffd\u001fd\ufffd\u0001\u0014؀h\ufffd\u001dI+\ufffd#\ufffdz)\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdٻ\ufffd\ufffdυ\ufffd1F5\u0018W1#b\ufffd\ufffd\"܃\u0010\ufffd\ufffdz\ufffd\ufffd\ufffd\u0004\ufffd\ufffd\ufffd\ufffd\u001e\u001d\u0017=\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd=n\ufffdh[\ufffdu\ufffdh\ufffdz\\=+\u0007I+<\ufffd\ufffd\ufffd\ufffd\u0004Gr2\u0019\b\ufffd\u0017\ufffd\u0014iћS\ufffd\ufffdv/\ufffd\t\u001c\u001dİ4ǖT\ufffdA\u0016Cc\u0018\u000111\u0013\u00004\ufffdR\ufffd\u0000\ufffd\ufffdS\ufffd\ufffd7ZA\ufffd˔\u001d7\u001b\t\ufffd\ufffd\ufffd߸c\ufffd[\bv\ufffd\u0000A\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd%\ufffd1\ufffdT%,)@\ufffd\f",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "对方"
     },
     {
       "create_time": 1674299094,
       "formatted_time": "2023-01-21 19:04:54",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`\u0004\u0002\ufffd\u0007\u0000\ufffd\u00101\u001d\ufffd\ufffd\ufffd\u0001 \ufffd\ufffd\ufffdށk\ufffd\ufffd&(\njTQ\ufffdDd\ufffdbj\u0002F`\u000f,\u0000(\u0000 \u0000\ufffdZ\ufffd\ufffd\u00071\ufffd\ufffd\u0001\ufffdҰ\ufffd`2ҟ\u0012&ut\ufffd\ufffdN\ufffdҝ\ufffd\ufffd\ufffd\u001fd\ufffd\u0001\u001cؠh\ufffd\u001dI;\ufffd#\ufffd\ufffd\ufffd\u0016e\ufffdWYGVr\t\ufffd\ufffdF\ufffd\ufffd\\palQբ\ufffd]DLTT\ufffd>H\ufffd\ufffdP^\ufffdA\u0004\ufffd\ufffdV6\ufffd\ufffd\ufffd\ufffd\u001f\ufffd/EGFW^\ufffd\ufffd\ufffd\ufffd{=\ufffd\ufffd\ufffd\ufffd\r\ufffdh\ufffd\u0006I;<\ufffd\ufffd\ufffd\ufffd\u0004Gr\ufffdi\ufffdb\ufffd\ufffd\ufffd\ufffdS\ufffds˽\\N\ufffd\ufffd \b\ufffd9Ơ+=\b\ufffdh\r+`\"\ufffd\u0006\u0012\u00004\ufffdRi\u0003\ufffd\ufffdS\ufffd\ufffd7ZA\ufffd˔\u001d77\ufffd٩{s;Fg`\ufffd\ufffdU\f\ufffd\f]TH-᎙\ufffd*aI\u0001\ng",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "对方"
     },
     {
       "create_time": 1674299116,
       "formatted_time": "2023-01-21 19:05:16",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd I\ufffd\u0001\u0000\ufffd\u0002除夕快乐[福]兔年顶呱呱[發]庆祝\u0003\u0000+\ufffd\u0000\ufffd\ufffdV\ufffd",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "除夕快乐[福][福][福]兔年顶呱呱[發][發][發][庆祝][庆祝]",
+      "sender": "对方"
     },
     {
       "create_time": 1674302137,
       "formatted_time": "2023-01-21 19:55:37",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "新年快乐嘿！",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:26+08:00",
+  "export_time": "2025-12-07T09:48:09+08:00",
   "message_count": 4
 }

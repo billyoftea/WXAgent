@@ -5,144 +5,144 @@
     {
       "create_time": 1720252547,
       "formatted_time": "2024-07-06 15:55:47",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1720252651,
       "formatted_time": "2024-07-06 15:57:31",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "阿姨您好，我是徐昂~您那边方便打电话嘛",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1720252669,
       "formatted_time": "2024-07-06 15:57:49",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "可以",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1720252901,
       "formatted_time": "2024-07-06 16:01:41",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`G\u0002\ufffd\b\u0000\u0016\ufffd:\u001dp\ufffdq\u0003\ufffdE\ufffd\u0010\u001a\tU\u001f\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdIZ\ufffd\ufffd\u0014ـ\ufffd\ufffdz'5\u0000-\u00001\u0000\ufffd\ufffd\ufffd\ufffd1\ufffd\ufffd\ufffdx\u0016_\f\ufffd\ufffdA\ufffdÀ\ufffdЋ(l\ufffd\ufffdi\ufffd\u0007\ufffd\ufffdVc-W\ufffd*o\ufffd\ufffd.F\u0001\u000b00\ufffdp/)\u000egxEgn5\ufffd+\ufffd\ufffd\ufffd\ufffd[\ufffd\ufffd\ufffdɭ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdl\ufffd\ufffd\ufffd\ufffd\u0010b>ݖ:\ufffd\ufffdlӣ\ufffdj\ufffd)Ld\u0002iy\ufffd\ufffd\ufffd/\ufffd\ufffd\ufffd\u0001Q8\u0019\ufffdK\ufffd{I'/\ufffd\ufffd\u0018\u00108\u0002\u0013@d\ufffd\ufffd2\ufffd\ufffd\ufffd\bn.\ufffd\ufffd\ufffd\ufffd9\ufffd\ufffdΜ\u0002\ufffd3<\ufffd\ufffdp/\u0001(\ufffd\ufffd:ej\ufffd\ufffd\ufffd|\ufffdG\ufffdƬK\ufffdMK-[\ufffdÀ\ufffd\ufffd\ufffd\ufffd0@\u0014E\ufffd\ufffd\ufffd\ufffd\u001bRݪ\u0010e\ufffd\u0015\u000e\u0000c\ufffd\u0000i\ufffdU\u0012\u0001rŧFnkh\ufffd\u0019\ufffd\ufffd;u\ufffd\ufffd\ufffd\u0010/AEy\ufffd=\ufffdecf\ufffd\ufffd\ufffd\ufffd\u0002",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "自己"
     },
     {
       "create_time": 1720252909,
       "formatted_time": "2024-07-06 16:01:49",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`G\u0002\ufffd\b\u0000&\ufffd:\u001cp5q\u0003\ufffdPg\ufffd\ufffd\ufffd\ufffd\ufffdu\ufffd\ufffd\ufffd*\ufffdTl\ufffdfm\u0003ڪ\ufffd\ufffd6\u0000+\u00001\u0000\ufffd'\ufffd)\ufffd\ufffd\ufffd\ufffd\u0019\ufffd\ufffd\ufffd@b\ufffd\ufffdŁ\u0000\ufffdj@\nӣ\ufffd\ufffd\ufffdR\ufffd\ufffdUQ\ufffd\ufffdv\ufffd\ufffd\ufffdI\ufffd`\u0005(\u0016\u001a\ufffd\ufffd \u0018\ufffd\ufffd \u0004\ufffd˿\ufffd\u001b\ufffds}\ufffd\ufffdl\ufffd\ufffdo\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdx\ufffdļ^\ufffd1\ufffd\ufffdf*\ufffd\\4\ufffd\ufffd\ufffd\ufffd\ufffda\ufffd\ng\ufffd\ufffd\ufffd\ufffd5\ufffd\ufffd}\ufffda@\u0012\ufffd\ufffd\u0019\ufffd\u001dF\u001b\u0007\ufffd\")\u001c\b\u001ab\tܭU\ufffd\ufffdN\u000f\u000f\ufffd\u0016=\ufffd\ufffd[\ufffd\u001c\ufffd\ufffd\ufffdw\ufffd\ufffd8\u0000\b\ufffdv\u0018\u0000\u0004\u0003A\ufffd\u0012-+\ufffd\ufffd~a\ufffd\ufffd\u0015\ufffd\ufffdj\u001d_\ufffdR\ufffdŀ\u0002a4#10 yg\ufffdR\ufffd\ufffd\u001fF\ufffd\u001c\ufffd29\u000e\u0000c\ufffd\u0000i\ufffdU\u0012\u0001rŧFnk\ufffd\ufffd\ufffdd\ufffd:\ufffd\ufffd\fKLT˼Ȟ3\ufffd1\ufffd\ufffd\ufffdHA\u0001",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "自己"
     },
     {
       "create_time": 1720253627,
       "formatted_time": "2024-07-06 16:13:47",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "谢谢阿姨谢谢阿姨",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1720253630,
       "formatted_time": "2024-07-06 16:13:50",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd $\ufffd\u0000\u0000\ufffd麻烦您了[可怜]\u0001\u0000\ufffd\u0014&",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "麻烦您了[可怜][可怜][可怜]",
+      "sender": "自己"
     },
     {
       "create_time": 1720254083,
       "formatted_time": "2024-07-06 16:21:23",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "不客气哈，徐昂，很乐意为你效劳[憨笑][憨笑]",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1720254108,
       "formatted_time": "2024-07-06 16:21:48",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "太麻烦您了[捂脸][捂脸][捂脸]真不好意思",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1720254123,
       "formatted_time": "2024-07-06 16:22:03",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "已经将那一堆资料放在大厅桌子上啦",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1720254131,
       "formatted_time": "2024-07-06 16:22:11",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我一放暑假就来深圳这边参营来着，也不知道人大的营还要纸质版原件材料[流泪]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1720254137,
       "formatted_time": "2024-07-06 16:22:17",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "谢谢阿姨！！",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1720254157,
       "formatted_time": "2024-07-06 16:22:37",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好的好的",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1720925594,
       "formatted_time": "2024-07-14 10:53:14",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "阿姨，我确定保研到北大啦，谢谢您一路的帮助和支持~",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1720925633,
       "formatted_time": "2024-07-14 10:53:53",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "恭喜恭喜呀",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1720925672,
       "formatted_time": "2024-07-14 10:54:32",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "不客气哈，这是阿姨应该做的",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1720925707,
       "formatted_time": "2024-07-14 10:55:07",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd`j\u0006\u001d\u0018\u0000\ufffd\ufffd\ufffd#@i\ufffd\u0003\u00131\ufffd\ufffdԀ\ufffd\ufffdE\ufffd\ufffd2\u0013\ufffd\ufffdva\ufffdY\ufffd4\u0012\ufffd\ufffd\ufffd\ufffde\u0019\u0006\u0000\u0002\ufffd\u0000u\u0000u\u0000\ufffd\ufffdi\ufffd\ufffd\ufffd \ufffd\ufffd\ufffdy\ufffdF$\u0017眄\ufffd\ufffd\ufffdH\ufffd~\ufffd#M2\ufffdj\ufffdD:siHiZ\ufffd\ufffd\u0018{\ufffd\ufffd\u001f\ufffd\ufffd\u0015\ufffd\f!c\ufffd\ufffd\ufffd#´u0jd\ufffdWu%NBj\ufffd\ufffd\nDG6\ufffd\ufffd\ufffd\u0019\ufffd\ufffdHG-\ufffd\ufffd^0@\u0007\ufffd\u0004c\ufffd|\u0019$M\ufffdv\u001b\ra\ufffd\ufffd-\ufffd\ufffdy \ufffd\ufffdc\ufffdD5\u0014\ufffd\ufffd\u0019\rH\ufffd\u0018\ufffd HP#\u0012\n\u0006\ufffd\b\b/\ufffds;\ufffd{\ufffd;r\ufffde\ufffd7\ufffd\ufffdO\ufffdӓ4\u0019\u0005\u0006\tC\ufffd\ufffd􏹽\ufffd\ufffdR\ufffd\ufffdE2M\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd|\ufffdș\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd{ݦ\ufffdݭ6m\ufffd\ufffd\ufffd\ufffd2e\ufffdښ>a\ufffd\ufffd~\u001cf`\u0001E\ufffd\u0004\"\ufffdQz\"\ufffd$\ufffd\ufffd80m\ufffd\u0007e\ufffd\u0000IK\ufffd\ufffdB\ufffd2\u0003\ufffd(o\ufffdZ\ufffd\u000eQا\ufffd\ufffdV\ufffd,2\u000eBf\u0015\b\u001f\\\u0010ٮ\ufffd\u0005\ufffd#\ufffd\ufffd;/\ufffd踻\ufffd\u001d3\ufffdY%\ufffd̎\ufffd\ufffd\ufffd\ufffd!3f\ufffd\ufffd1\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0019\ufffduc\u000b\u0002\ufffdcd\ufffd\ufffdHɭ\ufffd\ufffd\nۍ;\u0017\f\ufffd\u0012\ufffdZ\n\ufffdh\ufffdZҙ:R8\ufffd\ufffdj\ufffd*K\ufffd\ufffd\ufffd(\t\ufffd\ufffd\ufffd\ufffd\u0019\ufffd\ufffd\u001f\t\u0005\u0003: \u0012\u0007DbF=#iQK\ufffd\ufffd\u001b\ufffd\n\ufffdJ\u001c\u0010\ufffd\ufffd\ufffd2!r\ufffd\ufffd\ufffdaD\ufffdL\ufffd#-\ufffd\ufffd\ufffd\ufffd%\ufffd\u0019\ufffdjf#.\ufffd\ufffd\ufffd\ufffdj5\ufffd-\ufffd\ufffdF\ufffdt\ufffd\ufffd*/\ufffd4S:\u000e\ufffdxY\ufffdc\\G\ufffd\ufffd8D2\ufffd\ufffd⋮1\ufffd!\ufffd_\ufffd\u001f\ufffd\ufffd\ufffdھ\f\ufffdg\ufffd\ufffd\ufffd\ufffd\ufffd3\ufffd\ufffd\ufffd@vf\u001e\ufffd޲\ufffd\ufffdca\ufffd\ufffd0\ufffd\u0010C#B\")()h:\ufffd\ufffd\ufffd)\"\ufffd\u0012\ufffd\ufffd)̈\u0000\tDH,\ufffd\ufffd\ufffd\ufffd\ufffd$\ufffd\u000eCқ\ufffdyC\ufffdFˠ\u00130]\ufffd\u0013\ufffdO,扵\u000f^0\ufffd\u001b!\ufffdl\ufffde\ufffdDM\ufffd\ufffdǆ\ufffd\ufffd>\ufffd\ufffd\u0005Wm3Ǹ\u0007\ufffd\ufffdfk\ufffdVk\ufffdѱ~?u{\ufffd\u0000\ufffd  \ufffd\"\ufffd\ufffdyw\ufffd9ު\u000b\ufffd\ufffd\ufffd\ufffdb݆v\ufffd\ufffd\ufffd<\ufffd2\b\ufffd\ufffdj\u0014\ufffd\ufffd\ufffd\ufffd\ufffdy\ufffdm\u0006Å\ufffd\ufffd\ufffdD\u001c=4\ufffd\ufffd\ufffd\u0011]EAD\ufffdY\ufffd\ufffd\ufffdm\ufffd\ufffdST\ufffd\ufffd\u0018\u0010\ufffdV'\u001cV\u0007\fH\ufffdQ\ufffd\ufffdpS\ufffd\u0002\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd2\ufffd*@\ufffd%\ufffd\ufffd\ufffdY\u0014̓\u0006ӳE\ufffd\u0011\ufffd\ufffdД\ufffdqتz\ufffd\ufffd\u000b5",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender": "自己"
     },
     {
       "create_time": 1720925738,
       "formatted_time": "2024-07-14 10:55:38",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你真棒[强][666]",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1720925808,
       "formatted_time": "2024-07-14 10:56:48",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "还是感谢阿姨和老师们提供了这么好的学习环境[愉快]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1720926674,
       "formatted_time": "2024-07-14 11:11:14",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "[OK]",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:22+08:00",
+  "export_time": "2025-12-07T09:48:06+08:00",
   "message_count": 20
 }

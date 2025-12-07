@@ -6,52 +6,52 @@
       "create_time": 1714624477,
       "formatted_time": "2024-05-02 12:34:37",
       "type": "系统消息",
-      "str_content": "你已添加了啊舂，现在可以开始聊天了。",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1714624569,
       "formatted_time": "2024-05-02 12:36:09",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "哈喽！",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1714624577,
       "formatted_time": "2024-05-02 12:36:17",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd`\u0018\u0005\ufffd\u0012\u0000\ufffd\ufffds Pi\ufffd\u0003T\ufffdm\ufffdoU\ufffdh'\ufffd\ufffd\u0014ĸ\u0019\u001f\ufffd\b\ufffdL\ufffd\ufffdqD\ufffd\ufffd\ufffdUn\u0000m\u0000e\u0000-rŁ\ufffd\ufffdGJ\ufffd+u.܁\ufffd#1\ufffd\ufffd]B\ufffd_\ufffd\ufffd\ufffdT3ػb\ufffd\ufffd)\ufffd̮\ufffd\ufffd\ufffdA\ufffd:!̙#\ufffd\ufffd\nDşI\b\ufffd\ufffd.\ufffd+GZ\t\ufffd\ufffda\ufffdP\ufffd\u0012;a\ufffd\ufffd\ufffd#\ufffd\ufffdH\b.\u001a\ufffd\ufffd\ufffd\ufffd\ufffd+\rFB\ufffd\ufffd\r\ufffdтq z(\b\u000e\ufffd\ufffd\ufffd\"b\u0010\u0001\ufffdv[\ufffds\ufffdƋI\ufffd\ufffd5^\ufffd\ufffd-ĕ\ufffd\ufffd\u001a\u0019\u0014 \f\ufffdb\ufffd\ufffdZk\ufffdZ\ufffdo\ufffd\ufffd\ufffdȘ\ufffd\ufffdmk\ufffdZV\ufffdW\ufffdڵ\ufffd\ufffd\u0011\ufffdO\ufffdE\ufffd\u0003\u000f\u0013\u0001\u0010\ufffd\ufffd\ufffd\ufffd4\fǝ\u001a\u001dzy\ufffda\ufffdu`\ufffd\u0019\ufffd\ufffd\u00100k\ufffd\ufffd\ufffd\u0006\ufffdp\u0010xjM\u0012\ufffd@\ufffd\ufffd'c\ufffd\ufffd\u0001\ufffd\ufffd\ufffd\ufffd\ufffd1V\ufffd4N\ufffd\ufffdu\ufffd\u000f}m\ufffd\ufffd\ufffdd\ufffd\u001eU\ufffd\ufffdG\ufffd<\ufffd\ufffd\b\ufffd\ufffdr\ufffd+g\ufffd>\ufffd\ufffd\ufffd[\ufffd)J݄\ufffd\ufffd\ufffd\ufffdc\ufffdn9k\ufffdQ\ufffd\u0006\ufffdOv\ufffd\ufffd\ufffd\ufffd\ufffd0@\ufffd\ufffd#If\ufffdT\ufffd\u001b\ufffd\u0012\ufffd\u001f\tq\ufffdA\ufffd\ufffd\ufffd\ufffd\n6\ufffd\ufffd \ufffd\ufffd\u0001\tE\ufffd\u001c\u0010\ufffd\u0003\"\ufffd\u00122\ufffd\ufffd\ufffdF\ufffd5F\ufffd/\ufffd\ufffd8\ufffd6\ufffd\ufffd'3\ufffd\u001a\ufffd\ufffd\ufffdE|\ufffd\ufffdv;!5Q(\ufffd\u001c\ufffdANHR]a\u001c\ufffdNVΝ5\ufffd\ufffd)H\ufffd\ufffd&\u001f\ufffdK\ufffdѭ\ufffd\ufffd\ufffd\ufffdnr\u001d\\P\ufffdj\ufffd~\ufffdw\u0010.g\ufffdK\ufffd\ufffdy\u0015?խ-\u0005e8 \ufffd\u0002\u0019\ufffd\u0013=\ufffd@<\ufffd\ufffd\u0019\ufffdr\ufffd\ufffd\u001d\ufffd\n\ufffd\u0019*\ufffd?b\u001b\ufffdr\ufffd\ufffd\u001c\u0011\ufffd\ufffd\u0000>/\ufffd֏&\ufffd\u0015\u000e\u0000\ufffd\u000f\ufffd\ufffdWhX\u001d\u0013\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\n\u000f\ufffdΗ\ufffd?g\ufffdB\u001fؠ\ufffd(\u001ck\ufffdM\ufffd\u001aT\ufffd~\ufffd\ufffd\ufffd\ufffd6.Fx4\ufffd\u0006[\u0010\ufffd\ufffd\u0002\\\ufffdg&\ufffd\ufffd\u0019\ufffd\u000fF\ufffd\u00041\ufffdA\u0000\ufffdK\ufffd\ufffdDD\u0006\ufffde1'\ufffd \u001d\ufffd\u0003",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender": "对方"
     },
     {
       "create_time": 1714624589,
       "formatted_time": "2024-05-02 12:36:29",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你好~我叫徐昂[握手]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1714624612,
       "formatted_time": "2024-05-02 12:36:52",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "昂哥好！我叫张继翀",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1714624620,
       "formatted_time": "2024-05-02 12:37:00",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \u0018u\u0000\u0000@[拥抱]\u0001\u0000C\n\u0017",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "[拥抱][拥抱][拥抱]",
+      "sender": "对方"
     },
     {
       "create_time": 1714624677,
       "formatted_time": "2024-05-02 12:37:57",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \u001c\ufffd\u0000\u0000@[社会]\u0002\u00001\ufffd\bV\ufffd",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "[社会社会][社会社会]",
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:22+08:00",
+  "export_time": "2025-12-07T09:48:06+08:00",
   "message_count": 7
 }

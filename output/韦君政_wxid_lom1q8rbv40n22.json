@@ -5,116 +5,116 @@
     {
       "create_time": 1703085557,
       "formatted_time": "2023-12-20 23:19:17",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1703085575,
       "formatted_time": "2023-12-20 23:19:35",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "hi！我叫徐昂[握手]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1703085639,
       "formatted_time": "2023-12-20 23:20:39",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd ]\r\u0002\u0000T\u0003学长好！我是韦君政[玫瑰]请您多多指导\u0003\u0000\ufffd\u0000\ufffdB\u00142",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "学长好！我是韦君政[玫瑰][玫瑰][玫瑰]请您多多指导[玫瑰][玫瑰][玫瑰]",
+      "sender": "对方"
     },
     {
       "create_time": 1703085665,
       "formatted_time": "2023-12-20 23:21:05",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "共同学习呀~",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1703085695,
       "formatted_time": "2023-12-20 23:21:35",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd $\ufffd\u0000\u0000\ufffd共同进步[玫瑰]\u0001\u0000\ufffd\u0014&",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "共同进步[玫瑰][玫瑰][玫瑰]",
+      "sender": "对方"
     },
     {
       "create_time": 1706871118,
       "formatted_time": "2024-02-02 18:51:58",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\u0015\u0006\u0000\ufffd\ufffd,/\ufffd\ufffd9\ufffd[J\ufffde\u0004\ufffd\u0010\u0012\ufffd\u0006\ufffd\ufffd]$P\ufffd\u0016G3D/!!+\ufffd\ufffd\ufffd\ufffd\"\ufffdD\ufffd\u0019\ufffdK;\ufffd\ufffd\u0019\ufffd\ufffd\ufffd\u0000\u000e\ufffd+\u0006\ufffd\ufffd\t\ufffd=\ufffdX\ufffdEZ\ufffd\ufffd\u0006\ufffd\ufffd\ufffd\u00116$\ufffd+\ufffd/\ufffd\ufffdz\ufffd\ufffd#\ufffdO\ufffd6\ufffdQ\u001e\ufffdI\ufffd\ufffd8`\ufffd\u0016\ufffd\ufffd%+\ufffd\u001e}a\ufffd\ufffd\u001b\u0001V=.x\u0002y\ufffd2X\ufffd#\ufffd\ufffd\u001c~\ufffd\ufffd\ufffd'\u0013\ufffd\ufffd\ufffdb\ufffd\ufffd\u000e\u0018le\ufffd\ufffdy9\ufffd\ufffd\u001aR\ufffd\ufffd\ufffd\ufffd\ufffds\f\ufffd:\ufffd*0\ufffdIx\ufffd񼺀ކz#l\ufffdn\ufffd\ufffd\ufffd\ufffd\u0004\u0000\ufffd\nF\ufffd\ufffd%\"\ufffd.\bf",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "昂哥，我们不是准备搞一个PPT给导师汇报进展吗？哥你那边的资料麻烦发给我一下，还有哥有啥想要展示在PPT上的可以特别跟我说或者标注出来[玫瑰][玫瑰][玫瑰]",
+      "sender": "对方"
     },
     {
       "create_time": 1706871173,
       "formatted_time": "2024-02-02 18:52:53",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我那个资料在群里的链接里面，你可以先整理下那个",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1706871180,
       "formatted_time": "2024-02-02 18:53:00",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "也可以适当眼神下",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1706871181,
       "formatted_time": "2024-02-02 18:53:01",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "延伸",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1706871188,
       "formatted_time": "2024-02-02 18:53:08",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好勒",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1708427557,
       "formatted_time": "2024-02-20 19:12:37",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "徐昂\nU202116333\n1185369364\n经济学院经济统计学2101班\n17865716165\n建立实证部分因果识别模型，构建传导机制，利用CFPS数据库进行贫困状态变化原因的识别",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1708427577,
       "formatted_time": "2024-02-20 19:12:57",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \u001e\ufffd\u0000\u0000p收到[玫瑰]\u0001\u0000C\ufffd\u0012",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "收到[玫瑰][玫瑰][玫瑰]",
+      "sender": "对方"
     },
     {
       "create_time": 1708533487,
       "formatted_time": "2024-02-22 00:38:07",
-      "type": "未知类型(25769803825)",
-      "str_content": "(\ufffd/\ufffd`[\u0006u\u001f\u0000\u0006<\ufffd<0m\ufffd\u0006\ufffd\u000f\f\f\u0014\u001a\u001d\ufffdq@\u001c\ufffd\ufffdRþ\ufffdV:h\ufffdk\ufffdf7W\ufffd\ufffd\ufffd\ufffd`L\ufffd\ufffd\ufffdrp\ufffd8t\u001aY\"\u0012\ufffd\ufffd\ufffdF\ufffd߈\b\ufffd\ufffd9\ufffd\u0000\ufffd\u0000\ufffd\u0000\ufffdc-\ufffdW\ufffd/\ufffd\ufffd\ufffd\ufffd\ufffdLۼs\ufffd\ufffd\ufffd\ufffd6Rl\ufffd\ufffd\ufffd\u0010t\ufffdt\ufffdG)\ufffd\ufffd(\ufffd\ufffd\ufffd\ufffdκ\ufffd\ufffdz\ufffd\ufffd\ufffd/\ufffd\ufffd2\ufffd\ufffd^\ufffdl\ufffd϶m\ufffdn\ufffd\ufffdi]\ufffd\ufffd>\ufffdm;ßJ\ufffd\ufffd:\ufffd\ufffd\ufffdW\ufffdI\ufffd\ufffd_\ufffdD\ufffd\ufffdO\ufffd܍\u0001\\\ufffd\ufffd!C\u0005\u0010\ufffd[\ufffd\ufffd\u0015\u0002\ufffdL\u0012'\ufffd\ufffd~\ufffd\ufffd<B\u0012e\u0018ߥ7ߗ\ufffdG)g\ufffdL\ufffd\n\ufffdl\u0004\ufffd_\u0018f+$2a\ufffdU#S\u0000\ufffd\u0003\ufffd$\u0013zW<\ufffdM\ufffduq\u0002ԝ\ufffdoU\ufffdB&\ufffd\ufffd\ufffdU\ufffd\ufffd?\ufffd]\ufffd\ufffd2B\ufffd#\ufffd~>\ufffd_\ufffd\u0014E#\u0015\ufffd\ufffd\ufffdhtq\ufffd\ufffd\ufffd\ufffdҹ\ufffd\ufffdsN\ufffd\ufffd \ufffdqF\u0018#\ufffd/B\n\ufffd8)\ufffd\ufffdb\u0018E\u0018'\ufffd\u0011\ufffdIa\ufffd4F\f#\ufffd\u0011\ufffd(B*i\ufffdP\ufffdP\ufffd\ufffd\u0014R<i\u0004eL\ufffdZ\ufffdnf\u0018\u001dt7C\ufffdr/\ufffd\u000eJ\ufffdEJJ\ufffd\ufffds\ufffdA\ufffdŋ\ufffdW\ufffd\ufffd\ufffd\ufffd>*A\ufffd&\ufffd\ufffde\ufffd\ufffd\u0015\ufffd\ufffd\ufffdw\ufffda\ufffd뿮\u001d\r*0.\u000e\ufffd\u0004\ufffdf\ufffd\ufffd\ufffd\ufffd\ufffd;,\u001a\n\ufffd%4\u0017\u0015\ufffd\r\ufffd!\ufffd\ufffd\ufffdqE\ufffd\ufffd\ufffdq\ufffdr]\ufffdCo\u001cpOcgl\f\ufffd1'Ӄg4\ufffd\ufffd\ufffdh\ufffd2\u001b\ufffdN&zH/t\ufffdaqc\ufffd\u0006<6\ufffdx4\u001c\ufffd\ufffdb\u00019\ufffd\ufffd9\u0018\u0004\ufffd\ufffd\u001c\ufffd|h\u0019\u001b\ufffd\u0005oc\ufffdP\ufffdF\ufffdUG\ufffdJ&\u0017\ufffdɅ\ufffd\ufffd|\ufffd9\ufffd\u0001)P`@c\u001b\ufffdC\ufffd\ufffd\u000e\u0002\ufffd!}\u0019\u0012\u001e\u001a\ufffd\u0003\t\ufffdk\ufffda\ufffdR0\f\ufffd<\u0003*oZ*\u0014\ufffd\ufffd\u0007\ufffdf70\ufffd\ufffd\u0012dLhA݂C\ufffd\u0014[\u0006t\ufffd\ufffdm&\ufffd\ufffdݱ\ufffd\u0016\ufffdM\u0001\ufffd\tï\ufffdF\ufffd:E\ufffd\u0000\ufffd\u0002\ufffd\u0010\u001a*\ufffd\ufffd\ufffd\ufffd\u0003\ufffd\r\u001e&\f\ufffdO\ufffd\ufffd\ufffd\ufffd/\ufffd\ufffd\ufffdS!Ԥ\ufffd\ufffde\ufffd\ufffdr\ufffd\ufffd+\ufffd6];\ufffd7\ufffd\ufffd\ufffdV\ufffd\ufffd9\ufffd\ufffd*\ufffd-\ufffd\u0018\ufffdU\ufffd\ufffd\ufffd\ufffd\ufffdT7\ufffd\ufffd\ufffdk\ufffdI\ufffd\u0019^Y\ufffd\ufffdU\b\ufffd\ufffdf8\ufffd[}\ufffd\ufffd\ufffd\ufffd7\ufffd\ufffd\ufffd*\ufffd\ufffd\ufffd\ufffd4\ufffd\ufffd\ufffd2%\ufffd\ufffd\ufffd\ufffd,Y+?R\ufffd\ufffd\ufffd\ufffd\ufffd\u0010\ufffd\u0018\ufffd:\ufffdyj\ufffdܤ\ufffd\ufffd(B\ufffd\ufffd\ufffd\u0014\ufffd9\ufffd\nï\ufffd\ufffd\ufffd{\ufffdm\ufffdo\ufffd\ufffd\u0004\u0005%d\ufffdq\rqʐ2D\"\ufffd I\n\ufffd\u000e\u0010$\ufffd\ufffd\ufffd\u0003\u0012\ufffdSA\ufffdZ\ufffdĈ\ufffd\ufffd_\ufffdg\u0010z\u0019\ufffdbfB8\u0001\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\\\ufffdF=\ufffd\ufffdn \u0002w\ufffd\ufffd\ufffd#?$J\ufffd\ufffd\\B\ufffd\u0015J魵\ufffd\u0000\\P\ufffdS\u0017\ufffd\ufffdB\\͖0\ufffd\ufffd\ufffd\u000f\ufffd\u0003\ufffdj5\ufffd\ufffd\ufffd\ufffdĹ\ufffdhl\ufffd.\u0011a\ufffdw<\ufffd\ufffd\u0018\ufffd%\ufffd\u001eV\ufffdAt\u000e\ufffdPYw|\ufffd\ufffd\ufffd0\n\n\ufffd\ufffd\ufffd\ufffd\ufffdE\ufffd\ufffd\ufffd0\ufffd\t\ufffd\ufffd\u0011\u0013\ufffdd)\ufffd\ufffdvp\b\ufffd\ufffdwx\ufffd\ufffdw\ufffd\ufffd\ufffd/\ufffd\ufffd>j@\ufffd\ufffd\ufffd\ufffd4\ufffd~\ufffdG\ufffd\ufffd\ufffd\ufffdR\u0018\ufffd\ufffdMsN7\ufffd\ufffdl\u001994z00)\u0014\rJ\u001ec(\ufffd\ufffdg\u001d\ufffd%\ufffd\ufffd\ufffdneZ\ufffd\ufffd\ufffd\u0000!\ufffd\u0006\fj",
-      "is_sender": 0
+      "type": "文件消息",
+      "str_content": "申报.docx",
+      "sender": "自己"
     },
     {
       "create_time": 1708533494,
       "formatted_time": "2024-02-22 00:38:14",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你那边可以看看还有啥要修改的不",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1708564156,
       "formatted_time": "2024-02-22 09:09:16",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好勒",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1708564163,
       "formatted_time": "2024-02-22 09:09:23",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "收到",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:22+08:00",
+  "export_time": "2025-12-07T09:48:06+08:00",
   "message_count": 16
 }

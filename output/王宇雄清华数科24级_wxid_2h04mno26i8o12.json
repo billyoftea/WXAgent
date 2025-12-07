@@ -6,66 +6,66 @@
       "create_time": 1757506038,
       "formatted_time": "2025-09-10 20:07:18",
       "type": "系统消息",
-      "str_content": "(\ufffd/\ufffd \ufffd\u0005\u0005\u0000T\t你已添加了leave me alone，以上是打招呼的消息，<_wc_custom_link_ href=\"weixin://setting/sayhello\">使用常用内容</>介绍自己。\u0002\u0000R \ufffd\ufffd\"\ufffd\u0001",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1757506045,
       "formatted_time": "2025-09-10 20:07:25",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "hihi！",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1757506048,
       "formatted_time": "2025-09-10 20:07:28",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "学长好！",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1757506052,
       "formatted_time": "2025-09-10 20:07:32",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我是汇丰25数金徐昂",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1757506408,
       "formatted_time": "2025-09-10 20:13:28",
       "type": "系统消息",
-      "str_content": "\"王宇雄清华数科24级\" 撤回了一条消息",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1757506432,
       "formatted_time": "2025-09-10 20:13:52",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "您好，我是清华24级数科王宇雄很高兴认识您！我的电话是15901088434",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1757506464,
       "formatted_time": "2025-09-10 20:14:24",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "学长好！学长太客气了！以后恳请学长不吝赐教🥺！我的电话是17865716165",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1757506494,
       "formatted_time": "2025-09-10 20:14:54",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "多交流呀，闻道有先后，术业有专攻[嘿哈]",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1757506505,
       "formatted_time": "2025-09-10 20:15:05",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "嘿嘿向学长学习！[呲牙][呲牙]",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:19+08:00",
+  "export_time": "2025-12-07T09:48:05+08:00",
   "message_count": 9
 }

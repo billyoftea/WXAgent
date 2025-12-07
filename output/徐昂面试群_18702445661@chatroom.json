@@ -5,32 +5,29 @@
     {
       "create_time": 1642817793,
       "formatted_time": "2022-01-22 10:16:33",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd`\u0000\u0000U\u0007\u0000\ufffd\ufffd54`i\ufffd\u0001\ufffd\ufffdm\ufffde\u0006A\u0007\ufffd\ufffd\ufffd\n4\ufffd :}\ufffd\ufffd\ufffd\ufffdl\ufffd\ufffdK\u0006*M\ufffd\ufffdAu\u0001p\ufffd\ufffd \ufffd\ufffd5\u001f3\ufffd\ufffd%\ufffda\u000eN\ufffd>\ufffdp\ufffdt0\ufffd)\ufffd|\ufffd\ufffd\ufffd\ufffd7s\ufffd\ufffdH\ufffd\ufffd\ufffdo\ufffd\ufffdRJ#\u0012\ufffd\ufffdf\ufffdtIDZ\ufffdoV\ufffd\u000b\ufffdy\ufffdf\ufffd\ufffd\ufffdW\u001a)\ufffd5\ufffd\u0017\ufffd[\ufffd+\\\ufffdly\u0010\ufffd\ufffd\u001e̚bp\u0006\ufffd\ufffd8[֔\ufffd\ufffd$\ufffd.&\ufffd-\ufffd9\ufffd5\ufffd+&$&\ufffd\u00171W\b/\ufffdr'f\u000b{e\ufffdz\ufffd搵\ufffdT\ufffdƇ\u0006\ufffd\"\ufffd\ufffd\ufffd\ufffdueˊ\ufffdT\ufffd%\ufffd\ufffd\ufffd\ufffd\ufffdK\ufffd\u0005\u0004\ufffd \ufffd\ufffdt\b8\ufffd\ufffd\u0007\ufffd\ufffd<\ufffdG\u0005\u0000\ufffd\ufffd\u0000e\ufffdQ\ufffd\ufffd)\ufffd\u0010\u0018\ufffdf\u0014",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "aa774273416:\n@XxXxX 徐学早上好，此群为面试通知群，后续的面试通知和结果都会在此群发布。\n\n今日11:00准时开始面试，稍后面试官会把腾讯会议链接发送到群内~    \n\n请及时关注群消息~  收到回复1"
     },
     {
       "create_time": 1642817793,
       "formatted_time": "2022-01-22 10:16:33",
       "type": "系统消息",
-      "str_content": "\"vvvvvvvvvvvvv\"邀请你和\"Jason.Meng\"加入了群聊",
-      "is_sender": 0
+      "str_content": "[????????]"
     },
     {
       "create_time": 1642819779,
       "formatted_time": "2022-01-22 10:49:39",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "1",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1642819868,
       "formatted_time": "2022-01-22 10:51:08",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd`\u0000\u0000\u0015\u0007\u0000\ufffd\fmjshhf1108:\nJason.Meng 邀请您加入【的个人会议室】\n\n点击链接直接：\nhttps://meeting.tencent.com/p/3782545005\n\n#腾讯378-254-密码：123456\n\n复制该信息，打开手机即可参与\u0007\u0000\ufffd\u0002\ufffd\ufffdc\ufffd\ufffd\ufffd\ufffd*\ufffd\ufffd\b\ufffdj\ufffd\ufffdM\ufffd\u0001",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "mjshhf1108:\nJason.Meng 邀请您加入【Jason.Meng的个人会议室】\n\n点击链接直接加入会议：\nhttps://meeting.tencent.com/p/3782545005\n\n#腾讯会议：378-254-5005\n会议密码：123456\n\n复制该信息，打开手机腾讯会议即可参与"
     }
   ],
-  "export_time": "2025-12-06T19:12:26+08:00",
+  "export_time": "2025-12-07T09:48:09+08:00",
   "message_count": 4
 }

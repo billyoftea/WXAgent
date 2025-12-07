@@ -5,18 +5,18 @@
     {
       "create_time": 1672503115,
       "formatted_time": "2023-01-01 00:11:55",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "新年快乐！",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1672503139,
       "formatted_time": "2023-01-01 00:12:19",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "新年快乐驰哥！",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:25+08:00",
+  "export_time": "2025-12-07T09:48:08+08:00",
   "message_count": 2
 }

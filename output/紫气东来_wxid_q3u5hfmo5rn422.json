@@ -6,59 +6,59 @@
       "create_time": 1741658445,
       "formatted_time": "2025-03-11 10:00:45",
       "type": "系统消息",
-      "str_content": "你已添加了福建【安太】忠旺，现在可以开始聊天了。",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1741658481,
       "formatted_time": "2025-03-11 10:01:21",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "早上好",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1741658493,
       "formatted_time": "2025-03-11 10:01:33",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你好，我叫安泰，来自福建，怎么称呼你呢？",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1741658503,
       "formatted_time": "2025-03-11 10:01:43",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你是卖啥的",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1741658536,
       "formatted_time": "2025-03-11 10:02:16",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "自我介绍一下：我是做互联网+大健康行业的，有手机就可以赚钱。",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1741658575,
       "formatted_time": "2025-03-11 10:02:55",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\ufffd\u0004\u0000\ufffd\b在我们这里，很多80后、90，甚至50多岁的网盲大哥\ufffd\ufffd\ufffd\ufffd短几个月就能做到月收入过万， 周当然\ufffd有更多的。\u0006\u00008\ufffd\u00026\u001b&e\u0018)\ufffd\ufffd\ufffd,+O",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "在我们这里，很多80后、90后、00后，甚至50多岁的网盲大哥大姐，短短几个月就能做到月收入过万， 周收入过万，当然收入还有更多的。",
+      "sender": "对方"
     },
     {
       "create_time": 1741658579,
       "formatted_time": "2025-03-11 10:02:59",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "哥们你幽默了",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1741658596,
       "formatted_time": "2025-03-11 10:03:16",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "神他妈互联网+大健康",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:17+08:00",
+  "export_time": "2025-12-07T09:48:03+08:00",
   "message_count": 8
 }

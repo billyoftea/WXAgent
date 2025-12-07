@@ -5,18 +5,18 @@
     {
       "create_time": 1666287273,
       "formatted_time": "2022-10-21 01:34:33",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "徐昂已提交",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1666310308,
       "formatted_time": "2022-10-21 07:58:28",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "收到 辛苦啦～",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:26+08:00",
+  "export_time": "2025-12-07T09:48:09+08:00",
   "message_count": 2
 }

@@ -6,31 +6,31 @@
       "create_time": 1761554949,
       "formatted_time": "2025-10-27 16:49:09",
       "type": "系统消息",
-      "str_content": "以上是打招呼的消息",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1761554949,
       "formatted_time": "2025-10-27 16:49:09",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1761558407,
       "formatted_time": "2025-10-27 17:46:47",
       "type": "系统消息",
-      "str_content": "你撤回了一条消息",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "自己"
     },
     {
       "create_time": 1761558430,
       "formatted_time": "2025-10-27 17:47:10",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\u0005\u0007\u0000\ufffd\u000e5/p7\ufffd\\\ufffd{\ufffd\u0002\ufffd?VZk\ufffdx\ufffdzO\ufffd\ufffd\u001a4\ufffd\ufffd\u001f\ufffd\ufffd\ufffdA\u000f5\ufffd\ufffdn\u000b\"\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd߮\ufffd.\f\ufffd7\ufffdص\ufffd\ufffd\ufffdnrV(\u0002w\ufffd\ufffd!\u000fT\ufffdzaZ \ufffd\ufffd9ė\u0004\ufffdy4R\ufffd\ufffd*e\ufffd\t\ufffd\ufffd\ufffd|\ufffd\ufffd\r\u0000\ufffd\ufffd\ufffd[t\ufffd\ufffd\ufffd\ufffd\ufffdD\ufffdduA\ufffdv\ufffd!\ufffd\u0019\u001dQ\u001d\ufffd\ufffd$艼ġ7y)ZJS\ufffd\ufffde\ufffdqK\\\ufffdB]\ufffdZM\u000f\u0015Ws>\ufffd? \u0007\u0013\ufffd+?\ufffd,\u0014^\ufffdF\u0004\ufffd\ufffd\ufffdMV3\ufffd\n\ufffdK\ufffdWB\ufffd\u001c\ufffdz.Ŵzn\ufffd5\ufffd\ufffdt1k\ufffd\ufffd\ufffdt\ufffd\ufffd\u0017\ufffd\ufffd7\ufffd\ufffd\u001b\ufffd\u0010?\u0002\u0000\r\u001b\ufffd\ufffd\u0004F\n",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "师兄好！我是汇丰研一 数量与金融科技专业的徐昂，很荣幸能够加入链协研究部！虽然远在深圳无法参加这周末的迎新活动，但非常期待后续可以和师兄进一步交流学习，在链协中成长！",
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:12+08:00",
+  "export_time": "2025-12-07T09:48:00+08:00",
   "message_count": 4
 }

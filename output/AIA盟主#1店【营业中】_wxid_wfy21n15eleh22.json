@@ -6,38 +6,38 @@
       "create_time": 1761182628,
       "formatted_time": "2025-10-23 09:23:48",
       "type": "系统消息",
-      "str_content": "(\ufffd/\ufffd \ufffd}\u0005\u0000D\n你已添加了AIA盟主#1店【营业中】，以上是打招呼的消息，<_wc_custom_link_ href=\"weixin://setting/sayhello\">使用常用内容</>介绍自己。\u0002\u0000R θ\ufffd \u0005",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1761182666,
       "formatted_time": "2025-10-23 09:24:26",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0002\u001d\u000f\u0000ơi&\ufffd\ufffd\ufffd\u0001\ufffdA6\u0016.\ufffd=)1o\u0001\ufffdk\ufffdL\ufffdCy\u001e\ufffdH\u0011B\ufffd\u001629k\ufffdl\"\ufffd\ufffd\u0006Z\u0000R\u0000`\u0000\ufffd\ufffd\ufffd\ufffd\ufffd\u0019\ufffd\ufffd\ufffd|\ufffdR\ufffdV\ufffd\ufffd\ufffd\u0015KL\ufffd\ufffd\ufffd\ufffd\ufffd~\ufffd\ufffd\ufffdv\ufffd-ac(\ufffd\u000b*_X\u0016\u0015[\u001d\ufffd5\ufffdr14.\ufffdr\u001d\ufffdNjފ+U\ufffdz\ufffdQ\ufffdb\u001a+\ufffd-\ufffd\ufffd\ufffdfc4n\u0005v'G\ufffd\ufffd\u0007\ufffd\ufffd\ufffd#\ufffd¦6;\ufffdS\ufffd\u000eV\ufffd\ufffdW\ufffd\ufffd\ufffdʞ\ufffd\ufffdXX\ufffdu-(\ufffd7Ʋ\ufffd*\ufffd\ufffd\ufffdU\ufffd\ufffd\ufffda7u\ufffd_{\ufffd\ufffd\u001eF\ufffd\ufffd\ufffd\ufffd\ufffd0\ufffd\ufffd\ufffdh]\ufffdG\ufffd\ufffda\ufffd\ufffdh\ufffd\ufffd\ufffd\ufffd\ufffd\ufffda\ufffd\ufffd\ufffd<NF\u0004r2\ufffd\ufffd$J\n\ufffd\ufffd\u0003\ufffd)Sи\ufffd\u0017/6\u0011XpEbaSB\ufffd\ufffd\u0003\ufffd&\ufffd\ufffd\"\ufffd\ufffd\ufffd+\ufffd\ufffd\ufffd\ufffd\ufffd\u0019\ufffdu\u0017\ufffd{\ufffd\ufffdU\ufffd\ufffd\ufffdX\u001c흄\ufffd1w\ufffd\ufffd(\ufffd\ufffd)*Ƶ\u001c\ufffd:\ufffdκ\ufffd\ufffd\ufffdB\ufffdvZ\ufffd\ufffd;\u000f\ufffd\n\ufffd\u0002\u000fH\ufffd/\ufffd\ufffd\ufffd\ufffd*<H١q&\u0016\ufffd\u001c\"K\u001e\ufffd$ʃ\ufffd@\ufffd$\ufffd,\ufffd</\ufffd\ufffdL\ufffd8\ufffd\b\ufffd\u001e\ufffd\ufffd\ufffd\u0011H\ufffdV\ufffdPl\ufffdt$!\rD:\u0003 @\ufffd\ufffd\ufffd6 \ufffd\ufffdBBp^Cv\ufffd\ufffd(3\ufffd\ufffd\ufffd2\ufffdX\ufffd\ufffdHr\ufffd e\n\u0005\u000b\ufffd\ufffdq,\u0002\ufffdɪ&\u0015\u0000/\ufffd\ufffd&a\u000e5\u0013\u00111x\ufffd\ufffd\ufffd\ufffd\u0011,*7{4\ufffd\u0006N\ufffds`\">̎9P\ufffd\u0015\ufffd\ufffd\ufffd\ufffd\u0002\ufffd,y\ufffd8\ufffd\ufffdc:\ufffd\ufffdZR\ufffd\ufffd\u0019",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "自己"
     },
     {
       "create_time": 1761182672,
       "formatted_time": "2025-10-23 09:24:32",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "这个码数对吗",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1761190667,
       "formatted_time": "2025-10-23 11:37:47",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "您好，对的",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1761190676,
       "formatted_time": "2025-10-23 11:37:56",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "可以按身高体重选码",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:12+08:00",
+  "export_time": "2025-12-07T09:48:00+08:00",
   "message_count": 5
 }

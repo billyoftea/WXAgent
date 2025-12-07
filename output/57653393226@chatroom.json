@@ -5,137 +5,142 @@
     {
       "create_time": 1726802747,
       "formatted_time": "2024-09-20 11:25:47",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "dd",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1726802759,
       "formatted_time": "2024-09-20 11:25:59",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`)\u0002\ufffd\b\u0000&\ufffd8\u001bp\ufffdu\ufffdP5\ufffdH4\u0019\ufffd%\ufffd\ufffd\u001fa\ufffd\ufffd\ufffd\ufffd\ufffd$x\ufffd\ufffd\ufffd\u00103\u0000,\u0000/\u0000\ufffd\ufffd\ufffd\ufffd\u0006\u0013\ufffdQ\ufffdA0\u001c\ufffd\u001d\u0006\u0002\ufffd\ufffd\ufffd\ufffdfQJ\ufffd\ufffd\"$\ufffdI\ufffd\ufffd\ufffd\ufffd$\ufffd<\f\ufffd\u0018\u0003\f a\ufffdh\ufffd\u0015GK^\u0011\ufffdW\ufffdv\ufffd\ufffd\ufffd\ufffdnUE]\ufffd\ufffdj\ufffd5;\u001b)\ufffd\ufffdE\ufffdg\ufffdu\u001b\\\ufffd\ufffd9\ufffdR\ufffdD\ufffd\u001c\ufffd\ufffd\ufffdb\ufffd\r\ufffd\ufffd\ufffdѣD\ufffd\ufffd\ufffd\ufffdր(\ufffd\ufffd\ufffdܷ\ufffd\ufffd{\ufffd\ufffd\ufffd1\u0010h\u0005F@Ą\ufffd\ufffd\ufffdܬ\ufffdۦQ\ufffd\ufffd\ufffd\ufffd\u001e\rGK\ufffd\ufffd8\ufffds\ufffd\ufffd(xT\ufffdJ\ufffd\ufffd\ufffd8S~\ufffdq7\ufffd(\ufffd\ufffd\ufffdb\ufffdp\bH\n\ufffd9C\u0000Q\ufffd\ufffd\"\ufffd$S\ufffd\ufffdS\ufffd;\u000f\u0000c\ufffd\u0000i\ufffd\u0005\u0012\u0001^\ufffd\ufffd\ufffd+j\ufffd\ufffd\ufffd\ufffd~\ufffd;\ufffdf\u000b+A\ufffd\ufffd-\u0006_,\ufffds\ufffd13\ufffd\ufffdH\ufffd\u0001",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "自己"
     },
     {
       "create_time": 1726802768,
       "formatted_time": "2024-09-20 11:26:08",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "这个东西在下午两点前填好发我哈",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1726802777,
       "formatted_time": "2024-09-20 11:26:17",
       "type": "系统消息",
-      "str_content": "你撤回了一条消息",
-      "is_sender": 0
+      "str_content": "[????????]"
     },
     {
       "create_time": 1726802810,
       "formatted_time": "2024-09-20 11:26:50",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我自己打印了去学院签字",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1726802816,
       "formatted_time": "2024-09-20 11:26:56",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "然后扫描发给你们",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1726802818,
       "formatted_time": "2024-09-20 11:26:58",
-      "type": "文本",
-      "str_content": "@所有人 ",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "sender": "自己"
     },
     {
       "create_time": 1726802824,
       "formatted_time": "2024-09-20 11:27:04",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "收到回复哈",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1726802874,
       "formatted_time": "2024-09-20 11:27:54",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "诶不对这里有自己写字啥的",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1726802879,
       "formatted_time": "2024-09-20 11:27:59",
-      "type": "文本",
-      "str_content": "wxid_xo8aoeyxi75a22:\n嗯",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "嗯",
+      "sender_name": "韩一鸣",
+      "sender_wxid": "wxid_xo8aoeyxi75a22"
     },
     {
       "create_time": 1726802883,
       "formatted_time": "2024-09-20 11:28:03",
-      "type": "文本",
-      "str_content": "wxid_xo8aoeyxi75a22:\n要手写",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "要手写",
+      "sender_name": "韩一鸣",
+      "sender_wxid": "wxid_xo8aoeyxi75a22"
     },
     {
       "create_time": 1726802887,
       "formatted_time": "2024-09-20 11:28:07",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "那如果不在学校的话就扫描发我扫描版",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1726802903,
       "formatted_time": "2024-09-20 11:28:23",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "在学校的下午两点前把纸质版放我宿舍",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1726802904,
       "formatted_time": "2024-09-20 11:28:24",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "319",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1726802917,
       "formatted_time": "2024-09-20 11:28:37",
-      "type": "文本",
-      "str_content": "wxid_w7au3xgwekcv22:\nokok",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "okok",
+      "sender_name": "汤何敏",
+      "sender_wxid": "wxid_w7au3xgwekcv22"
     },
     {
       "create_time": 1726802948,
       "formatted_time": "2024-09-20 11:29:08",
-      "type": "文本",
-      "str_content": "wxid_rvvhpqa0ogod22:\n我下午也得去趟学院[捂脸]",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我下午也得去趟学院[捂脸]",
+      "sender_name": "王琪",
+      "sender_wxid": "wxid_rvvhpqa0ogod22"
     },
     {
       "create_time": 1726802975,
       "formatted_time": "2024-09-20 11:29:35",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "那要不你自己去？",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1726802980,
       "formatted_time": "2024-09-20 11:29:40",
-      "type": "文本",
-      "str_content": "wxid_rvvhpqa0ogod22:\n我自己去交吧",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我自己去交吧",
+      "sender_name": "王琪",
+      "sender_wxid": "wxid_rvvhpqa0ogod22"
     },
     {
       "create_time": 1726802982,
       "formatted_time": "2024-09-20 11:29:42",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd`A\u0007m\u001a\u0000f\ufffd\ufffd#\u0000s\ufffd3\ufffd^\ufffd\u000e\ufffd\ufffd\u000f\u0017\u0002\ufffd\ufffd޵\ufffd\ufffd{\ufffd&\ufffd$d\ufffd}\ufffd\ufffd\ufffd\ufffdw\u0017x\ufffd\u0000\ufffd\u0000\ufffd\u0000\ufffd\r\ufffdX\ufffd{\ufffd\ufffd\ufffd{˰~\u0012\ufffd\u000bB\ufffd\ufffd\ufffd\nBY\u001a];=\ufffd\ufffd*\ufffdK=\ufffd\ufffdB&KYS\ufffdK)\ufffdZ\ufffd\ufffdZ\ufffd-YC\ufffd\ufffd\ufffd\ufffdߦ;\ufffdo\\\u001f\ufffd\ufffd\ufffdI\ufffd\ufffd\ufffdN\ufffd\ufffd\ufffd5^\ufffd\ufffdq\u0006\u000f̨\ufffd\ufffd\u001a럇\ufffd\ufffdha\ufffd5_y܅M\ufffdZwB\u0014\u0001:ײ\ufffdat{\u0017ƚ\ufffd&e\ufffdE\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd\ufffd\ufffd@rM\u0005\u0000\u0003\ufffdU+\ufffd<7*\ufffd\ufffd\ufffdʨQ\ufffd#\ufffdG\ufffd\ufffdln\ufffd\ufffda{?\ufffd\ufffdA\ufffd\u001bt\ufffd\ufffd\ufffd\ufffdL\ufffdw\ufffd\ufffdޮas\ufffdv\ufffd\ufffd\ufffd\ufffd\ufffd[\ufffd^\u0018\u0014\ufffd\u0007ԺqG\b_t\ufffdq\ufffd\ufffd\ufffd+l\ufffd\ufffd\ufffd\ufffdvǏ\ufffd\ufffd\ufffdq7\ufffd\ufffdqc\ufffd\ufffd܍\ufffdO^\ufffd\u001e\ufffdj\ufffd\u0001\ufffdtP\ufffd\ufffd\ufffd\u000e[\ufffd\ufffd\"\ufffd\ufffd]\ufffdA\u0017\ufffd,\ufffdll@\ufffd\ufffdTլtD\"\u0003ս\u0010k$\ufffdBU\ufffd\ufffd\u001c\f\ufffd\u001aY\ufffdRsa.g\ufffd\ufffd1\ufffd\ufffdǴwЧ\ufffd\ufffd\ufffd\u000bk\ufffd\ufffd@\ufffdv\ufffd\u000fKw4\ufffdwN\ufffd|\ufffd?v\ufffd\ufffd\ufffd\u001b\ufffd\ufffdL\ufffd~\ufffd\ufffd\ufffdCis\ufffdΧ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd(\ufffd\ufffdo\ufffdaQ\ufffd\ufffd>-i\ufffd\u000e?\ufffd\ufffd'\u001d\ufffd\ufffdٟ\ufffd\ufffd\ufffd8?i\ufffd2>\ufffd\u001c\u001cujd^\ufffdo\ufffd\ufffd\ufffd\ufffdn\n\ufffd&\u001d\ufffd\ufffdSY:m>\ufffd\ufffds\u001dݫ\u001e\ufffd\ufffd\u0002݅YOI\ufffd\ufffd\ufffd\ufffd\ufffdqkj\u0006\ufffdk\ufffd\u0014\u0018D\n\fX\ufffd a\ufffd\ufffdE\ufffd0,0&U\ufffd\u0000a\u0013\u0012(\ufffdC}\ufffd\ufffd\u001b\ufffd\ufffd\ufffdC\u0004J\ufffd#a\ufffdD\ufffd\u000b[](<0\ufffd\ufffd:\ufffd\"ia\r\u0003%\ufffd\ufffdbCa\nHp<\ufffd\ufffdɔL\u0011\ufffd\u0002k\ufffd{\ufffdE\ufffddY\ufffd\ufffd[\ufffd[\u001f\ufffd\ufffd޹0\ufffdRfu\u0017V\ufffd\u000bI\ufffd\ufffd\u0016\ufffdϱ\u0006\ufffd5\ufffdX\ufffd{\ufffd\ufffdv\u0018\ufffd\ufffdR\n\ufffd\ufffdd\ufffd\ufffd\ufffd\ufffd\u001c\ufffd\ufffd1\ufffdL;l\ufffdc\ufffd\ufffd\\]\ufffd\ufffd\ufffd2rz3δiM\ufffd\ufffd\ufffdBL\u0019$\u0001\u0005\"\u0013L\u0010\ufffdU\ufffd\u0001p\ufffd\u0011\ufffd\ufffd\ufffd\u0001\u0012\ufffd\ufffd9\ufffd@F\u0000\ufffd\ufffd!\ufffd\u0011\u0018\ufffd\u0011\ufffdD)\u001c\n\u0014\ufffd\u000e\ufffdw^\ufffd8\ufffd$\ufffdzr\ufffd,\ufffd\ufffdk\u000e\ufffd\u001d\ufffd\ufffd4\ufffd\ufffd\ufffd\ufffdY\ufffd\u000fO\u0013\ufffd\ufffd0R\f\ufffdJ\ufffd8\ufffdw\ufffd\tS&d\ufffdJ\ufffdp\ufffdJ\fh\u0014y\ufffd\ufffd&T\ufffd\ufffd![G\u0001\ufffdy\u0014\ufffd\ufffd c\ufffd\ufffd6\ufffd\u0003\ufffd\u0000\ufffd鹀\ufffd\f\ufffd\u0019\ufffd\ufffd\ufffd\ufffd:\ufffd\ufffd\u0014C\u0010\ufffd\ufffd n\ufffd'\ufffd\ufffdT\ufffdt\ufffd,\u0016\ufffd\ufffdz\ufffd~\n\u000fK\u0001\ufffd=\ufffdʄ_L5\ufffdT\ufffd\ufffd..\ufffd(\ufffd%\u0000\ufffd\ufffd\ufffdP\ufffd\ufffd0q\ufffd\ufffd\ufffdXRD\ufffdr\ufffd\u0017T",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender_name": "王琪",
+      "sender_wxid": "wxid_rvvhpqa0ogod22"
     }
   ],
-  "export_time": "2025-12-06T19:12:22+08:00",
+  "export_time": "2025-12-07T09:48:06+08:00",
   "message_count": 19
 }

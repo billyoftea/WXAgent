@@ -5,53 +5,53 @@
     {
       "create_time": 1706778704,
       "formatted_time": "2024-02-01 17:11:44",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我们到了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1706778717,
       "formatted_time": "2024-02-01 17:11:57",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我从大门进来的",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1706778725,
       "formatted_time": "2024-02-01 17:12:05",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你们在哪",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1706778727,
       "formatted_time": "2024-02-01 17:12:07",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "ok",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1706778729,
       "formatted_time": "2024-02-01 17:12:09",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我在星巴克这儿",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1706778731,
       "formatted_time": "2024-02-01 17:12:11",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "马上进大门",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1706778826,
       "formatted_time": "2024-02-01 17:13:46",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "到了",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:22+08:00",
+  "export_time": "2025-12-07T09:48:07+08:00",
   "message_count": 7
 }

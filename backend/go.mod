@@ -3,6 +3,7 @@ module github.com/billyoftea/wxagent/go_backend
 go 1.24.0
 
 require (
+	github.com/klauspost/compress v1.18.2
 	golang.org/x/crypto v0.45.0
 	modernc.org/sqlite v1.40.1
 )

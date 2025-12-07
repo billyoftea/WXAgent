@@ -6,178 +6,198 @@
       "create_time": 1703644195,
       "formatted_time": "2023-12-27 10:29:55",
       "type": "系统消息",
-      "str_content": "(\ufffd/\ufffd`X\u0003\ufffd\r\u0000\ufffd\u001149372373131@chatroom:\n<sysmsg type=\"template\">\n\t<>\n\t\t<content_tmpl__profil\t\t<plain><![CDATA[]]></\"$username$\"邀请你和\"$s$\"加入了群聊link_list =\"\"\t\t<memberwxid_dnk6ln51p1ta21nick乔晟豪</</slom1q8rbv40n22韦君政tqhv6106kjfg苏睿贤4wm6w890ab38任彦同\t<separator、<//>\n> P\"q\ufffdN\u001e\u0015\bP \ufffd%\ufffd \ufffd_\ufffd0I\t\ufffd\ufffd\u00194\ufffd\ufffd\u000b\u001e\u0016@\ufffd\ufffdK\u000b\ufffd\u0001z!\ufffd\u0003̤\ufffd\u0007H4\ufffd^!\ufffd\ufffd\u0001H\ufffd\ufffd9\ufffdV\ufffd\ufffd@\ufffd\ufffdQvH\u0004\ufffd\f(\u001a\ufffd\u001c\ufffd\u0005*\ufffdcI\u0002\r\ufffd,Г\u001b\ufffd\ufffd-\ufffd\ufffd\u0002L\u0018`\u0015@`\ufffd\ufffd\u000e\ufffd\u0017t\ufffd\ufffd\ufffd0h\ufffdi\ufffdx\ufffd\ufffd\ufffd\ufffd\u0002\ufffd;x^X\ufffd\ufffd\ufffd\ufffd\ufffd\b\ufffdi\u0003\ufffd,[\u0005\ufffd\ufffdE\ufffd\ufffd\ufffd'`\ufffd\t",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender_name": "打工人组合",
+      "sender_wxid": "49372373131@chatroom"
     },
     {
       "create_time": 1703644195,
       "formatted_time": "2023-12-27 10:29:55",
-      "type": "文本",
-      "str_content": "wxid_dnk6ln51p1ta21:\n大家记得找几篇论文看看",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "大家记得找几篇论文看看",
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
     {
       "create_time": 1703644208,
       "formatted_time": "2023-12-27 10:30:08",
-      "type": "文本",
-      "str_content": "wxid_dnk6ln51p1ta21:\n师兄说可以慢，但不可以没有进度",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "师兄说可以慢，但不可以没有进度",
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
     {
       "create_time": 1703644222,
       "formatted_time": "2023-12-27 10:30:22",
-      "type": "文本",
-      "str_content": "wxid_dnk6ln51p1ta21:\n周四师兄约着讨论一下",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "周四师兄约着讨论一下",
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
     {
       "create_time": 1703725560,
       "formatted_time": "2023-12-28 09:06:00",
-      "type": "文本",
-      "str_content": "wxid_dnk6ln51p1ta21:\n大家下午2.可以吗",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "大家下午2.可以吗",
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
     {
       "create_time": 1703725590,
       "formatted_time": "2023-12-28 09:06:30",
-      "type": "文本",
-      "str_content": "wxid_dnk6ln51p1ta21:\n@所有人 ",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
     {
       "create_time": 1703725968,
       "formatted_time": "2023-12-28 09:12:48",
-      "type": "文本",
-      "str_content": "wxid_lom1q8rbv40n22:\n可以",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "可以",
+      "sender_name": "韦君政",
+      "sender_wxid": "wxid_lom1q8rbv40n22"
     },
     {
       "create_time": 1703727549,
       "formatted_time": "2023-12-28 09:39:09",
-      "type": "文本",
-      "str_content": "wxid_tqhv6106kjfg22:\n是去管院吗",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "是去管院吗",
+      "sender_name": "苏睿贤",
+      "sender_wxid": "wxid_tqhv6106kjfg22"
     },
     {
       "create_time": 1703727557,
       "formatted_time": "2023-12-28 09:39:17",
-      "type": "文本",
-      "str_content": "wxid_dnk6ln51p1ta21:\n对",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "对",
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
     {
       "create_time": 1703727563,
       "formatted_time": "2023-12-28 09:39:23",
-      "type": "文本",
-      "str_content": "wxid_tqhv6106kjfg22:\n嗷",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "嗷",
+      "sender_name": "苏睿贤",
+      "sender_wxid": "wxid_tqhv6106kjfg22"
     },
     {
       "create_time": 1703727566,
       "formatted_time": "2023-12-28 09:39:26",
-      "type": "文本",
-      "str_content": "wxid_tqhv6106kjfg22:\n可",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "可",
+      "sender_name": "苏睿贤",
+      "sender_wxid": "wxid_tqhv6106kjfg22"
     },
     {
       "create_time": 1703727778,
       "formatted_time": "2023-12-28 09:42:58",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "okk",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1703742545,
       "formatted_time": "2023-12-28 13:49:05",
-      "type": "文本",
-      "str_content": "wxid_tqhv6106kjfg22:\n先老地方集合吗",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "先老地方集合吗",
+      "sender_name": "苏睿贤",
+      "sender_wxid": "wxid_tqhv6106kjfg22"
     },
     {
       "create_time": 1703742552,
       "formatted_time": "2023-12-28 13:49:12",
-      "type": "文本",
-      "str_content": "wxid_dnk6ln51p1ta21:\n对滴",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "对滴",
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
     {
       "create_time": 1703743027,
       "formatted_time": "2023-12-28 13:57:07",
-      "type": "文本",
-      "str_content": "wxid_dnk6ln51p1ta21:\n速来@所有人 ",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "速来@所有人",
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
     {
       "create_time": 1703743071,
       "formatted_time": "2023-12-28 13:57:51",
-      "type": "文本",
-      "str_content": "wxid_tqhv6106kjfg22:\n来哪",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "来哪",
+      "sender_name": "苏睿贤",
+      "sender_wxid": "wxid_tqhv6106kjfg22"
     },
     {
       "create_time": 1703743084,
       "formatted_time": "2023-12-28 13:58:04",
-      "type": "文本",
-      "str_content": "wxid_dnk6ln51p1ta21:\n就是308门口",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "就是308门口",
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
     {
       "create_time": 1703743100,
       "formatted_time": "2023-12-28 13:58:20",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "11",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1704344111,
       "formatted_time": "2024-01-04 12:55:11",
-      "type": "文本",
-      "str_content": "wxid_dnk6ln51p1ta21:\n大家下午不用去啦",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "大家下午不用去啦",
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
     {
       "create_time": 1704344123,
       "formatted_time": "2024-01-04 12:55:23",
-      "type": "文本",
-      "str_content": "wxid_dnk6ln51p1ta21:\n刚刚打听到师兄不在实验室",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "刚刚打听到师兄不在实验室",
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
     {
       "create_time": 1704886084,
       "formatted_time": "2024-01-10 19:28:04",
-      "type": "文本",
-      "str_content": "wxid_dnk6ln51p1ta21:\n@所有人 咱们12日上午去找师兄哈，说下放假的安排",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "@所有人 咱们12日上午去找师兄哈，说下放假的安排",
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
     {
       "create_time": 1704886094,
       "formatted_time": "2024-01-10 19:28:14",
-      "type": "文本",
-      "str_content": "wxid_dnk6ln51p1ta21:\n@AX 昂，你几号考试",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "@AX 昂，你几号考试",
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
     {
       "create_time": 1704887670,
       "formatted_time": "2024-01-10 19:54:30",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我是13号早上",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1704887705,
       "formatted_time": "2024-01-10 19:55:05",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "能请个假嘛  到时候有什么事儿需要我干的直接说就ok",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1704887711,
       "formatted_time": "2024-01-10 19:55:11",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "财管看不完了[撇嘴]",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:22+08:00",
+  "export_time": "2025-12-07T09:48:07+08:00",
   "message_count": 25
 }

@@ -5,25 +5,25 @@
     {
       "create_time": 1727526733,
       "formatted_time": "2024-09-28 20:32:13",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1727526755,
       "formatted_time": "2024-09-28 20:32:35",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "爽哥，我是本科21级徐昂[呲牙]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1727526762,
       "formatted_time": "2024-09-28 20:32:42",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "hello你好你好",
-      "is_sender": 0
+      "sender": "对方"
     }
   ],
-  "export_time": "2025-12-06T19:12:22+08:00",
+  "export_time": "2025-12-07T09:48:07+08:00",
   "message_count": 3
 }

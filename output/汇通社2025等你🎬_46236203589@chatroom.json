@@ -5,18 +5,20 @@
     {
       "create_time": 1761449543,
       "formatted_time": "2025-10-26 11:32:23",
-      "type": "文本",
-      "str_content": "wxid_c3558as1icno21:\nHihi~抱歉打扰问一下哈：昨晚足球迎新杯B组小组赛有汇通社的同学拍照片吗？",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "Hihi~抱歉打扰问一下哈：昨晚足球迎新杯B组小组赛有汇通社的同学拍照片吗？",
+      "sender_name": "伊森",
+      "sender_wxid": "wxid_c3558as1icno21"
     },
     {
       "create_time": 1761449549,
       "formatted_time": "2025-10-26 11:32:29",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`x\u0002\ufffd\t\u0000\u0016\ufffd?\u001epIۀ*BT\ufffd\ufffdI\ufffdK\ufffd\ufffd\ufffd\u0013\ufffd\u0003\u0012uff\ufffd\ufffdd\ufffd\ufffd\ufffd\u0002<\u00003\u00003\u0000\ufffdwàA\fT\u0002\ufffd\ufffd+\ufffda|=\ufffd\ufffd\ufffd_y<\ufffd\ufffdÓ\ufffdʵ諑A\u0018\ufffd\ufffdB%Ci\ufffd\ufffdP\u0016\ufffd\u0000 \ufffdY\ufffdp\ufffd\ufffdt\ufffd\ufffd\u0013\ufffd\u0016\u0014\u0002ܫ۟\ufffdݨ\ufffd؇\ufffdbo\ufffd\ufffd6\ufffduz\ufffd,_D*Y\ufffd\ufffd\b\ufffdY\ufffd^\ufffd=Mv\ufffd\u000e/\ufffd\ufffdS\ufffd\u0010\u0018 $\ra9\bJc\ufffdZ\u001e>S8h\ufffd\ufffdEajQ\ufffd6\ufffdr\ufffd(\u0014\ufffd]\ufffd\ufffd\ufffd\u001d\u001f^J\ufffd|\ufffdj7\ufffd*\ufffd\ufffdl\ufffd\ufffd\ufffd\ufffdm\ufffd\ufffd\ufffdO\ufffd\be\ufffd\u0002\u000e\b\ufffd\ufffd\ufffd\u0003B5\ufffdE\ufffdYKx\ufffdZ\f\ufffdH=\ufffd)\ufffd\ufffd\ufffdF\ufffd{\ufffdH\ufffd/J\ufffdS:\u0006\ufffdo\ufffd9{\ufffd\ufffd\ufffda\ufffd\u0013!*,\t\u0015\u0000<\ufffd\u0002k\b\ufffd\u0012\u0001rŧF\ufffd`Qa\ufffdGSk8\u0015Q\u000eLć\ufffdc\ufffd[\ufffdp\ufffd\ufffd-b\u001c\u0004|\t\ufffd3\ufffdP\u0001\ufffd\ufffd\ufffd*\u0001^\u0001\nf",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender_name": "伊森",
+      "sender_wxid": "wxid_c3558as1icno21"
     }
   ],
-  "export_time": "2025-12-06T19:12:13+08:00",
+  "export_time": "2025-12-07T09:48:00+08:00",
   "message_count": 2
 }

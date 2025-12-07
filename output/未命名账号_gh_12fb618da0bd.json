@@ -1,0 +1,36 @@
+{
+  "session_id": "gh_12fb618da0bd",
+  "session_name": "未命名账号",
+  "messages": [
+    {
+      "create_time": 1735706900,
+      "formatted_time": "2025-01-01 12:48:20",
+      "type": "文本消息",
+      "str_content": "Hi，您好~欢迎关注多多买菜代收点，我们将为您提供取快递、查件等服务！<a href=\"https://mdkd.pinduoduo.com/weixin/package?p_channel=0\">点击前往取快递~</a>",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1735706901,
+      "formatted_time": "2025-01-01 12:48:21",
+      "type": "文本消息",
+      "str_content": "为避免您接收不到物流消息提醒，您可以点击右上角人像按钮，再点击右上角「…」按钮，选择「设置」关闭「消息免打扰」。",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1749449001,
+      "formatted_time": "2025-06-09 14:03:21",
+      "type": "图文消息",
+      "str_content": "实时查询包裹信息，取件省时又轻松",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1758003328,
+      "formatted_time": "2025-09-16 14:15:28",
+      "type": "图文消息",
+      "str_content": "关于账号进行迁移的说明",
+      "sender": "对方"
+    }
+  ],
+  "export_time": "2025-12-07T09:47:59+08:00",
+  "message_count": 4
+}

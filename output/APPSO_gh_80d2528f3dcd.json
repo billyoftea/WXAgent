@@ -1,0 +1,806 @@
+{
+  "session_id": "gh_80d2528f3dcd",
+  "session_name": "APPSO",
+  "messages": [
+    {
+      "create_time": 1761610108,
+      "formatted_time": "2025-10-28 08:08:28",
+      "type": "图文消息",
+      "str_content": "曝苹果地图将添加广告/iPhone 18或将延期/微信桌面端灰测「元宝总结」功能",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761622121,
+      "formatted_time": "2025-10-28 11:28:41",
+      "type": "图文消息",
+      "str_content": "每周 100 多万人跟 ChatGPT 聊自杀，OpenAI 紧急更新「救命」",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761635020,
+      "formatted_time": "2025-10-28 15:03:40",
+      "type": "图文消息",
+      "str_content": "被 AI 直播带货骗了之后，现在房产中介又想用 AI 让我当冤大头",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761700623,
+      "formatted_time": "2025-10-29 09:17:03",
+      "type": "图文消息",
+      "str_content": "曝20周年版iPhone将搭载自研相机/英伟达发布新一代AI超级芯片/OpenAI正在开发个人AGI，2028年实现重大突破",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761709284,
+      "formatted_time": "2025-10-29 11:41:24",
+      "type": "图文消息",
+      "str_content": "黄仁勋深夜甩出新一代核弹AI芯片，投资诺基亚搞6G，英伟达即将成为首家5万亿市值公司",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761723249,
+      "formatted_time": "2025-10-29 15:34:09",
+      "type": "图文消息",
+      "str_content": "全球首个家务机器人开卖！月租3600，拿瓶水要1分钟，还得真人遥控",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761785360,
+      "formatted_time": "2025-10-30 08:49:20",
+      "type": "图文消息",
+      "str_content": "史上首家，英伟达市值破5万亿美元/OLED版iPad mini曝光，明年推出/内存条价格暴涨，手机电脑将涨价",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761788633,
+      "formatted_time": "2025-10-30 09:43:53",
+      "type": "图文消息",
+      "str_content": "刚刚， OpenAI 上市计划曝光！冲刺万亿美元估值，将刷新历史纪录",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761820528,
+      "formatted_time": "2025-10-30 18:35:28",
+      "type": "图文消息",
+      "str_content": "大厂裁员 14000 人背后真相：AI 干不了你的活，却先砸了你的饭碗",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761869526,
+      "formatted_time": "2025-10-31 08:12:06",
+      "type": "图文消息",
+      "str_content": "微信官宣三大功能更新/库克：iPhone 17部分机型供不应求/小米回应「巨省电」空调名争议",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761883057,
+      "formatted_time": "2025-10-31 11:57:37",
+      "type": "图文消息",
+      "str_content": "你有多久没在下五子棋的时候又唱又跳了？我用 AI 试了试",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761890151,
+      "formatted_time": "2025-10-31 13:55:51",
+      "type": "图文消息",
+      "str_content": "一颗爱心打败所有 AI，ChatGPT、豆包、Gemini 全看不到",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761959057,
+      "formatted_time": "2025-11-01 09:04:17",
+      "type": "图文消息",
+      "str_content": "理想召回万辆MEGA，官方致歉/Google：安卓垃圾短信比iOS少58%/奥特曼晒特斯拉订单：七年没交付",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761969551,
+      "formatted_time": "2025-11-01 11:59:11",
+      "type": "图文消息",
+      "str_content": "AI 画作卖出 100 多万，这个世界没有疯",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762049068,
+      "formatted_time": "2025-11-02 10:04:28",
+      "type": "图文消息",
+      "str_content": "马斯克:未来手机没有操作系统和APP/ Ilya称奥特曼惯性撒谎 / AI正在拥有自我反省能力|Hunt Good周报",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762077414,
+      "formatted_time": "2025-11-02 17:56:54",
+      "type": "图文消息",
+      "str_content": "你刷抖音小红书不会变笨，但你的 AI 会",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762079002,
+      "formatted_time": "2025-11-02 18:23:22",
+      "type": "图文消息",
+      "str_content": "你刷抖音小红书不会变笨，但你的 AI 会",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762130904,
+      "formatted_time": "2025-11-03 08:48:24",
+      "type": "图文消息",
+      "str_content": "曝苹果AI国行版将再推迟发布/美团骑手「屏蔽恶意顾客」全国上线/华为鸿蒙智行成交均价超BBA",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762141841,
+      "formatted_time": "2025-11-03 11:50:41",
+      "type": "图文消息",
+      "str_content": "体验了一周 ChatGPT 浏览器，我还是把 Chrome 装了回来",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762171169,
+      "formatted_time": "2025-11-03 19:59:29",
+      "type": "图文消息",
+      "str_content": "OpenAI 甄嬛传续集：Ilya 52页「小作文」曝光奥特曼渣男行为，马斯克下场开撕",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762215796,
+      "formatted_time": "2025-11-04 08:23:16",
+      "type": "图文消息",
+      "str_content": "华为Mate70 Air真机曝光/ChatGPT不再回答这三类问题/余承东:鸿蒙目标「三分天下有其一」",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762251511,
+      "formatted_time": "2025-11-04 18:18:31",
+      "type": "图文消息",
+      "str_content": "大部分人不知道的 AI 抖音，居然是最「反抖音」的产品",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762303323,
+      "formatted_time": "2025-11-05 08:42:03",
+      "type": "图文消息",
+      "str_content": "连放9天，史上最长春节假期来了/曝苹果将推出平价Mac，首次进入5000元档/可口可乐用AI拍圣诞广告引发争议",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762317241,
+      "formatted_time": "2025-11-05 12:34:01",
+      "type": "图文消息",
+      "str_content": "AI 零成本预制雪景氛围大片！不去东北也能刷爆朋友圈 | 附保姆级教程",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762337746,
+      "formatted_time": "2025-11-05 18:15:46",
+      "type": "图文消息",
+      "str_content": "可口可乐，你浓眉大眼的也用AI做广告了？",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762387668,
+      "formatted_time": "2025-11-06 08:07:48",
+      "type": "图文消息",
+      "str_content": "小鹏机器人走猫步火了，网友:太像真人/曝Nano Banana 2即将发布/手机信号栏被塞广告，中国移动回应",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762402268,
+      "formatted_time": "2025-11-06 12:11:08",
+      "type": "图文消息",
+      "str_content": "你的 iPhone 即将变聪明！苹果每年砸 10 亿美元，用上谷歌最强 AI",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762419395,
+      "formatted_time": "2025-11-06 16:56:35",
+      "type": "图文消息",
+      "str_content": "小鹏机器人里面是不是真人？全球网友吵翻了，CEO 现场「扒开衣服」自证",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762474196,
+      "formatted_time": "2025-11-07 08:09:56",
+      "type": "图文消息",
+      "str_content": "马斯克万亿美元薪酬方案获批/豆包领跑美股版AI交易大赛/GTA6再次官宣跳票",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762476569,
+      "formatted_time": "2025-11-07 08:49:29",
+      "type": "图文消息",
+      "str_content": "历史第一人！马斯克锁定万亿薪酬包，但得先完成这些「不可能任务」",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762501030,
+      "formatted_time": "2025-11-07 15:37:10",
+      "type": "图文消息",
+      "str_content": "开源新王！首次干翻 GPT-5，实测 Kimi K2 Thinking，中国 AI 杀疯了",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762563728,
+      "formatted_time": "2025-11-08 09:02:08",
+      "type": "图文消息",
+      "str_content": "微信「多手机同时登录」功能将至？官方启动调研/抖音回应温峥嵘被AI盗播/泡泡玛特称不会开除直播事故员工",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762574240,
+      "formatted_time": "2025-11-08 11:57:20",
+      "type": "图文消息",
+      "str_content": "第一波 2025 年度词汇出炉，一半毫无悬念，一半完全懵",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762596227,
+      "formatted_time": "2025-11-08 18:03:47",
+      "type": "图文消息",
+      "str_content": "看完可口可乐的 AI 圣诞广告，我想喝百事了",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762653902,
+      "formatted_time": "2025-11-09 10:05:02",
+      "type": "图文消息",
+      "str_content": "AI六巨头罕见同台激辩/Kimi新模型训练成本引发海外关注/Nano Banana 2疑似泄露|Hunt Good周报",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762680312,
+      "formatted_time": "2025-11-09 17:25:12",
+      "type": "图文消息",
+      "str_content": "ChatGPT 写了 147 遍都是废话，直到我吐槽了它一句",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762735540,
+      "formatted_time": "2025-11-10 08:45:40",
+      "type": "图文消息",
+      "str_content": "曝苹果明年将推自研万亿参数模型/Meta被指靠诈骗广告获利1000多亿，官方回应/4.99万元起，京东第一辆车价格公布",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762754397,
+      "formatted_time": "2025-11-10 13:59:57",
+      "type": "图文消息",
+      "str_content": "GPT-5.1 「马甲」泄露！现在免费就能用，年底 AI 一大波更新要来了",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762769468,
+      "formatted_time": "2025-11-10 18:11:08",
+      "type": "图文消息",
+      "str_content": "Nano Banana 2 闪现 1 小时就下架，让所有 AI 翻车的测试，它轻松拿捏",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762819684,
+      "formatted_time": "2025-11-11 08:08:04",
+      "type": "图文消息",
+      "str_content": "曝苹果大幅推迟下一代 iPhone Air 发布/汉堡王中国也被卖了/前英特尔 CTO 加盟 OpenAI",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762823096,
+      "formatted_time": "2025-11-11 09:04:56",
+      "type": "图文消息",
+      "str_content": "用 460 万美元追上 GPT-5？Kimi 团队首次回应一切，杨植麟也来了",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762825599,
+      "formatted_time": "2025-11-11 09:46:39",
+      "type": "图文消息",
+      "str_content": "李飞飞最新长文刷屏，AI 下一个十年最需要的不是大模型",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762908023,
+      "formatted_time": "2025-11-12 08:40:23",
+      "type": "图文消息",
+      "str_content": "苹果上架iPhone「袜子」，1299元一只/不忍了，Meta AI大牛杨立昆被架空后离职创业/ChatGPT群聊曝光，更像微信",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762916438,
+      "formatted_time": "2025-11-12 11:00:38",
+      "type": "图文消息",
+      "str_content": "你用AI筛我，我用AI骗你：求职沦为作弊大战，能力强的反而最先出局",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762927620,
+      "formatted_time": "2025-11-12 14:07:00",
+      "type": "图文消息",
+      "str_content": "65岁图灵奖得主终于不用向28岁辍学生汇报了，小扎是怎么把他气走的",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762988765,
+      "formatted_time": "2025-11-13 07:06:05",
+      "type": "图文消息",
+      "str_content": "刚刚，GPT-5.1 正式发布，OpenAI 这次有点「不对劲」",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762995928,
+      "formatted_time": "2025-11-13 09:05:28",
+      "type": "图文消息",
+      "str_content": "前DeepSeek骨干罗福莉官宣加入小米/iPhone霸榜双11手机销量前三/OpenAI突袭发布GPT-5.1",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763028313,
+      "formatted_time": "2025-11-13 18:05:13",
+      "type": "图文消息",
+      "str_content": "AI 生成的歌首次登顶权威音乐榜，还把人听哭了？",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763080445,
+      "formatted_time": "2025-11-14 08:34:05",
+      "type": "图文消息",
+      "str_content": "苹果App Store抽成降至15%，腾讯回应/曝阿里将打造新应用对标ChatGPT/马化腾：微信最终将推出AI智能体",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763087196,
+      "formatted_time": "2025-11-14 10:26:36",
+      "type": "图文消息",
+      "str_content": "刚刚，ChatGPT 群聊功能上线，奥特曼要做 AI 版微信了？",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763168695,
+      "formatted_time": "2025-11-15 09:04:55",
+      "type": "图文消息",
+      "str_content": "价格暴涨后，多家手机厂商暂缓采购存储芯片/小米发布AI大招，将大模型接入智能家居/Apple Store新图标上线液态玻璃",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763172290,
+      "formatted_time": "2025-11-15 10:04:50",
+      "type": "图文消息",
+      "str_content": "这把 AI 福利局，APPSO 和你见面聊 | 招募",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763198865,
+      "formatted_time": "2025-11-15 17:27:45",
+      "type": "图文消息",
+      "str_content": "ChatGPT 最爱用的 emoji——暴露了 AI 不想让你知道的秘密",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763258748,
+      "formatted_time": "2025-11-16 10:05:48",
+      "type": "图文消息",
+      "str_content": "字节做了原神Agent，成功自主通关/ChatGPT破折号强迫症修复/优必选回应视频造假质疑 | Hunt Good 周报",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763265357,
+      "formatted_time": "2025-11-16 11:55:57",
+      "type": "图文消息",
+      "str_content": "创始人上阵假扮 AI，10 亿美元 AI 独角兽自曝黑历史，评论区炸了",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763287059,
+      "formatted_time": "2025-11-16 17:57:39",
+      "type": "图文消息",
+      "str_content": "这枚卖 2000 元的 AI 戒指，心率睡眠都测不了，只能听你碎碎念",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763339852,
+      "formatted_time": "2025-11-17 08:37:32",
+      "type": "图文消息",
+      "str_content": "雷军连发数文回怼质疑：车好看与安全不矛盾/曝库克将于明年卸任苹果CEO/华为或将发布AI突破性技术",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763348316,
+      "formatted_time": "2025-11-17 10:58:36",
+      "type": "图文消息",
+      "str_content": "刚刚，阿里千问 APP 开启公测，要做中国版ChatGPT | 附实测",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763359062,
+      "formatted_time": "2025-11-17 13:57:42",
+      "type": "图文消息",
+      "str_content": "Google 年度最强 AI 偷跑！一个电风扇动画引发疯传，Gemini 3要给GPT-5.1上强度了",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763425181,
+      "formatted_time": "2025-11-18 08:19:41",
+      "type": "图文消息",
+      "str_content": "华为Mate 80发布会官宣/俞敏洪在南极发全员信遭吐槽，员工：无法共情/千问App刚开放就崩了？官方回应",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763432375,
+      "formatted_time": "2025-11-18 10:19:35",
+      "type": "图文消息",
+      "str_content": "两个世界首富吵起来了！贝索斯融资 447 亿复出搞 AI，马斯克：跟屁虫",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763442867,
+      "formatted_time": "2025-11-18 13:14:27",
+      "type": "图文消息",
+      "str_content": "30秒做应用、实时写图文，「灵光」想用AI重塑创造力边界",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763502436,
+      "formatted_time": "2025-11-19 05:47:16",
+      "type": "图文消息",
+      "str_content": "刚刚，年度最强 AI 登场！马斯克奥特曼点赞 Gemini 3，体验后我发现 ChatGPT 要慌了",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763513375,
+      "formatted_time": "2025-11-19 08:49:35",
+      "type": "图文消息",
+      "str_content": "ChatGPT崩了一夜/iPhone 17大卖，苹果10月在华销量暴涨37%/Gemini 3发布，马斯克奥特曼罕见点赞",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763544697,
+      "formatted_time": "2025-11-19 17:31:37",
+      "type": "图文消息",
+      "str_content": "Sora 想做的 IP 内容生态，这个国产 AI 已经先走了一步",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763598120,
+      "formatted_time": "2025-11-20 08:22:00",
+      "type": "图文消息",
+      "str_content": "突发！图灵奖得主 Yann Lecun 官宣离职创业，65 岁正是闯的年纪",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763601141,
+      "formatted_time": "2025-11-20 09:12:21",
+      "type": "图文消息",
+      "str_content": "英伟达公布炸裂财报，黄仁勋：没看到AI泡沫/华为发布首款鸿蒙二合一平板电脑/Meta首席AI科学家宣布离职创业",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763636347,
+      "formatted_time": "2025-11-20 18:59:07",
+      "type": "图文消息",
+      "str_content": "别再把 Gemini 3 当作更强的 ChatGPT",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763663898,
+      "formatted_time": "2025-11-21 02:38:18",
+      "type": "图文消息",
+      "str_content": "Nano Banana Pro 深夜炸场，但最大的亮点不是 AI 生图",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763684133,
+      "formatted_time": "2025-11-21 08:15:33",
+      "type": "图文消息",
+      "str_content": "Nano Banana Pro发布，P图时代终结/俞敏洪回应全员信争议：鼓励员工吐槽/苹果远程「变砖」泄密M5 iPad Pro",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763707057,
+      "formatted_time": "2025-11-21 14:37:37",
+      "type": "图文消息",
+      "str_content": "重磅更新剧透！20+ AI 品牌整了个新活等你来玩，还送超多限定周边",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763773664,
+      "formatted_time": "2025-11-22 09:07:44",
+      "type": "图文消息",
+      "str_content": "苹果Android首次实现跨平台互通/华为发布重磅AI技术/ChatGPT群聊功能正式上线",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763783176,
+      "formatted_time": "2025-11-22 11:46:16",
+      "type": "图文消息",
+      "str_content": "黄仁勋送马斯克的3万块个人超算，要借Mac Studio才能流畅运行？首批真实体验来了",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763792897,
+      "formatted_time": "2025-11-22 14:28:17",
+      "type": "图文消息",
+      "str_content": "🔥广州首个AI 嘉年华来了！能玩能拍听 Live，还有大量周边福利送",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763863527,
+      "formatted_time": "2025-11-23 10:05:27",
+      "type": "图文消息",
+      "str_content": "Grok疯狂吹捧马斯克：比詹姆斯体能强/灵光4天下载破百万，速度超ChatGPT | Hunt Good 周报",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763889552,
+      "formatted_time": "2025-11-23 17:19:12",
+      "type": "图文消息",
+      "str_content": "豆包输入法上线，用了两天我在微信聊天不想再打字",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763945980,
+      "formatted_time": "2025-11-24 08:59:40",
+      "type": "图文消息",
+      "str_content": "iOS 27曝光，AI新功能是重点/俞敏洪再发内部信致歉：员工与管理层应互相成就/20+AI品牌齐聚广州，AIDONE收官",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763957420,
+      "formatted_time": "2025-11-24 12:10:20",
+      "type": "图文消息",
+      "str_content": "Nano Banana终于不是文盲了，但我可能会变「傻」",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763985895,
+      "formatted_time": "2025-11-24 20:04:55",
+      "type": "图文消息",
+      "str_content": "iOS 27 首曝，AI 终于不是 iPhone 最大短板了？",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764029843,
+      "formatted_time": "2025-11-25 08:17:23",
+      "type": "图文消息",
+      "str_content": "华为Mate 80系列发货已排到明年/ChatGPT推出全新购物功能/苹果互传将登陆更多Android机型",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764052253,
+      "formatted_time": "2025-11-25 14:30:53",
+      "type": "图文消息",
+      "str_content": "ChatGPT 这个新功能，想把淘宝小红书 B 站的活全干了",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764064505,
+      "formatted_time": "2025-11-25 17:55:05",
+      "type": "图文消息",
+      "str_content": "4699 元起！Mate 80 系列发布，华为旗舰罕见的性价比",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764118208,
+      "formatted_time": "2025-11-26 08:50:08",
+      "type": "图文消息",
+      "str_content": "「史上最严」充电宝新规将实施，3C认证全面失效/折叠屏iPhone或命名Ultra/英伟达回应Google芯片威胁",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764126397,
+      "formatted_time": "2025-11-26 11:06:37",
+      "type": "图文消息",
+      "str_content": "我溜去 AI 派对摸鱼，结果找到了 100 种搞定生活的姿势 | AIDONE",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764140238,
+      "formatted_time": "2025-11-26 14:57:18",
+      "type": "图文消息",
+      "str_content": "夸克 AI 浏览器全面升级，可随时唤起千问",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764205550,
+      "formatted_time": "2025-11-27 09:05:50",
+      "type": "图文消息",
+      "str_content": "罗永浩喊话华杉道歉，无人回应/已获3C认证移动电源将不受新标准影响/苹果AI中国大陆投诉页面短暂上线",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764232830,
+      "formatted_time": "2025-11-27 16:40:30",
+      "type": "图文消息",
+      "str_content": "APPSO 将发布 Tomorrow's Product Awards 2025｜明日产品榜单",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764242151,
+      "formatted_time": "2025-11-27 19:15:51",
+      "type": "图文消息",
+      "str_content": "还在用 Gemini 3 写 PPT？这才是最酷炫的玩法（附提示词）",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764288538,
+      "formatted_time": "2025-11-28 08:08:58",
+      "type": "图文消息",
+      "str_content": "多家手机厂商取消Air产品线/DeepSeek新开源模型达奥数金牌水平/3799起，夸克AI眼镜发布",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764295374,
+      "formatted_time": "2025-11-28 10:02:54",
+      "type": "图文消息",
+      "str_content": "300万网友为一条视频吵翻天：AI让名画「活」了，是艺术还是垃圾?",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764320716,
+      "formatted_time": "2025-11-28 17:05:16",
+      "type": "图文消息",
+      "str_content": "夸克 AI 眼镜体验：超细镜腿没负担，还能给出手机旗舰级画质",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764378263,
+      "formatted_time": "2025-11-29 09:04:23",
+      "type": "图文消息",
+      "str_content": "美团罕见亏损，王兴：外卖价格战不可持续/豆包能讲四种新方言/长沙地铁确认查充电宝3C认证",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764388625,
+      "formatted_time": "2025-11-29 11:57:05",
+      "type": "图文消息",
+      "str_content": "看完《疯狂动物城2》这样发合照火爆朋友圈，Nano Banana Pro 新玩法来了 | 附教程",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764468297,
+      "formatted_time": "2025-11-30 10:04:57",
+      "type": "图文消息",
+      "str_content": "华为AI玩具开售即秒罄/小鹏汽车：车展不雅视频系AI生成/Ilya辟谣Scaling Law终结论｜Hunt Good 周报",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764499801,
+      "formatted_time": "2025-11-30 18:50:01",
+      "type": "图文消息",
+      "str_content": "实测 AirPods 实时翻译：苹果 AI 最实用的功能，国行还要等多久",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764550619,
+      "formatted_time": "2025-12-01 08:56:59",
+      "type": "图文消息",
+      "str_content": "华为回应Mate80信号栏显示5A/ChatGPT迎来三岁「生日」/罗永浩透露与华杉录音内容：脏话很多无法公布",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764562826,
+      "formatted_time": "2025-12-01 12:20:26",
+      "type": "图文消息",
+      "str_content": "继 Nano Banana 2 之后，国产 AI 生图又杀出「一致性标杆」，Vidu 生图限时无限免费",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764590041,
+      "formatted_time": "2025-12-01 19:54:01",
+      "type": "图文消息",
+      "str_content": "刚刚，DeepSeek 发布两款新模型！达到 GPT-5 水平",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764646381,
+      "formatted_time": "2025-12-02 11:33:01",
+      "type": "图文消息",
+      "str_content": "笑死，兵马俑在千问 APP 里跳 K-Pop，比练习生还丝滑",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764655422,
+      "formatted_time": "2025-12-02 14:03:42",
+      "type": "图文消息",
+      "str_content": "不止 Sora2！拍我AI V5.5 更新：人人都能用 AI 视频当导演了",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764673538,
+      "formatted_time": "2025-12-02 19:05:38",
+      "type": "图文消息",
+      "str_content": "WPS 给 AI 装上「大脑」和「双手」后，我真正感受到它会干活这件事",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764724517,
+      "formatted_time": "2025-12-03 09:15:17",
+      "type": "图文消息",
+      "str_content": "三星首款三折叠发布，售价1.7万元/曝OpenAI将发布「大蒜」模型反击Gemini 3/初代iPhone SE成为「过时产品」",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764747383,
+      "formatted_time": "2025-12-03 15:36:23",
+      "type": "图文消息",
+      "str_content": "硅谷商战变厨艺大赛？小扎亲手煮汤挖人，OpenAI 说不慌都是演的",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764753863,
+      "formatted_time": "2025-12-03 17:24:23",
+      "type": "图文消息",
+      "str_content": "「原神之父」做了个毒舌 AI 猫娘，聊了两天的我被怼了八百回",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764807162,
+      "formatted_time": "2025-12-04 08:12:42",
+      "type": "图文消息",
+      "str_content": "突发！iOS 26「液态玻璃」缔造者跳槽 Meta，苹果设计团队遭遇大地震",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764810606,
+      "formatted_time": "2025-12-04 09:10:06",
+      "type": "图文消息",
+      "str_content": "豆包手机助手无法用微信？双方回应/苹果再失设计大将，液态玻璃缔造者跳槽Meta/1699元起，理想汽车发布AI眼镜",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764844975,
+      "formatted_time": "2025-12-04 18:42:55",
+      "type": "图文消息",
+      "str_content": "实测理想 AI 眼镜：没有蔡司也是好眼镜，车主还能解锁这些新玩法",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764894221,
+      "formatted_time": "2025-12-05 08:23:41",
+      "type": "图文消息",
+      "str_content": "苹果2025年度最佳App公布/罗永浩评「豆包手机」：技术革命拦不住/16岁以下禁用社交媒体，澳大利亚全球首例实施",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764902083,
+      "formatted_time": "2025-12-05 10:34:43",
+      "type": "图文消息",
+      "str_content": "苹果年度 App 出炉！女儿想学单词，他直接做了个 AI 神器 | 对话 CapWords",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764923261,
+      "formatted_time": "2025-12-05 16:27:41",
+      "type": "图文消息",
+      "str_content": "亚马逊云科技最强 AI Agent 阵容发布，设计火箭也不在话下",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764982759,
+      "formatted_time": "2025-12-06 08:59:19",
+      "type": "图文消息",
+      "str_content": "豆包手机助手再回应：调整AI操作功能/Netflix宣布827亿美元收购华纳兄弟/饿了么正式更名为淘宝闪购",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764993441,
+      "formatted_time": "2025-12-06 11:57:21",
+      "type": "图文消息",
+      "str_content": "1500 万围观的「疯狂动物城」游戏，Nano Banana Pro+可灵保姆级教程带你复刻",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1765014733,
+      "formatted_time": "2025-12-06 17:52:13",
+      "type": "图文消息",
+      "str_content": "ChatGPT 三周年之际，我怀念它写得很烂的时候",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1765070499,
+      "formatted_time": "2025-12-07 09:21:39",
+      "type": "图文消息",
+      "str_content": "突发！苹果高层再曝大地震：M 芯片之父要走，库克或破天荒设立 CTO 职位挽留",
+      "sender": "对方"
+    }
+  ],
+  "export_time": "2025-12-07T09:47:58+08:00",
+  "message_count": 114
+}

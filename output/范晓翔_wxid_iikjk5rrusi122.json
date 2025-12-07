@@ -5,102 +5,102 @@
     {
       "create_time": 1737020806,
       "formatted_time": "2025-01-16 17:46:46",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "范哥也拉我进个群吧",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1737020810,
       "formatted_time": "2025-01-16 17:46:50",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "放假回家有点无聊",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1737020814,
       "formatted_time": "2025-01-16 17:46:54",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "[捂脸]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1737020821,
       "formatted_time": "2025-01-16 17:47:01",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好嘞哥哈哈哈哈",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1737020833,
       "formatted_time": "2025-01-16 17:47:13",
-      "type": "未知类型(21474836529)",
-      "str_content": "(\ufffd/\ufffd`\u001f\u0002}\u0012\u0000\ufffd\u001fyE\u0010\ufffdl\u0003\u0000*\ufffd\ufffd\u0000\u0000\u0000 (\ufffd\u000er\ufffd\ufffd\u0018\ufffd\ufffd\ufffdŀ\ufffd\ufffd#\u0011\u0011\u000f`\u001a\ufffd\ufffdD\ufffd$#\ufffd\ufffd\ufffd\"o\ufffd߂\ufffd\ufffd\u001d\ufffd\ufffd\ufffd\u0002\ufffdrFi\ufffd?:ޚ\ufffd\u0001\u0000H0\u0000\bj\u0000h\u0000d\u0000\ufffd\u001a\ufffd\ufffdÈ\u000e\u001cl\u0010NZ\ufffd\u00139\ufffdM\ufffd`\ufffd\bi\ufffdT\ufffd\u0017{\u001b\u001b \u001d\ufffd\ufffd\ufffd6\ufffd\ufffd$ ,I\ufffd\u00115Z\ufffd\ufffdAB#\ufffd\n}\"\r\u0000\ufffd\ufffd\ufffd\ufffd\u001fS(\u0015\ufffd\ufffd>\ufffd~\ufffd\ufffd\ufffd\ufffdq\ufffdq{\ufffd-dʽϘR\ufffdȔ\ufffd\ufffd\u0007\ufffd0\ufffd\u0004\ufffd9\ufffdNQ\ufffd\ufffd\ufffd|\u0005\ufffd\ufffd\u0014/\ufffdb\ufffdju\ufffd^\ufffdV\ufffd\ufffdv\ufffd]\ufffd\ufffd\u0015\ufffd\ufffd\ufffd4Q׵\ufffdS\ufffd\ufffd\ufffd\u0017c\ufffd^\ufffd\u0017s<\ufffda\ufffdbU\ufffd\ufffdw\ufffd\ufffd\ufffd\ufffd\ufffd!\"\ufffda+\ufffd\ufffd\u000e.\ufffdf#6\ufffd\u0003v\u0016c-\ufffd\ufffd! Jp2\ufffd\ufffd\ufffdZ\ufffda\u0003;\"r+\ufffd\ufffdf\ufffd\ufffd\f:\ufffd\b\u0015l\u0012hl\ufffdp\ufffd\u0014 i\ufffd#\ufffd\ufffd%r\ufffd\ufffd\u000fFfL\ufffds@X\ufffd\"\ufffd\ufffd\ufffd\ufffdF\ufffd1\ufffd\u0012\u0015Ů\ufffd\ufffdlu\ufffdzoE\ufffd]\ufffd\ufffd4\ufffdOs\t\u001d\u0010\ufffd\ufffd\ufffd\u001cS'\ufffd%\ufffd\ufffd\rjS\u001ae.\ufffd\ufffd\ufffd\t}\ufffdf\ufffd\ufffd\ufffd\ufffd߯s\ufffdB\ufffd;\ufffds)\ufffdc\ufffd\ufffd\ufffd;\f\u0010\u0015\ufffdL\ufffdŚ\ufffd\u0013\ufffdչ\ufffd\ufffd\ufffd]\ufffd6\ufffd\nS\ufffd}1\ufffd;\ufffdi\ufffd\ufffd?\ufffd\ufffdb\ufffd?{\ufffdMԥv\u0013s-T\ufffd\ufffd\ufffd\u0005z<\bJ\t,Ry\ufffdye\ufffd\f\ufffdV\ufffd\ufffd(%\nG(\ufffdL)\ufffdq\u0004I\u001f\ufffd\ufffd\n\ufffd\u0015\ufffd\ufffd4 ܿ<\ufffd0\u0018\ufffdT\ufffd\"+  B#!\ufffd\u0006\ufffd\u0001\ufffd\ufffd\u0016\ufffd\u0001^\ufffd\n-\ufffd-0s\ufffdo\ufffd\ufffd\ufffd\u000b\u001ff\b\ufffd\ufffdщ\ufffd\ufffd\u001b\ufffdR\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0002ǂ\ufffd\ufffdg\ufffdX?bG\ufffd \ufffd\ufffdr\u0013\ufffdo\ufffd \ufffd\ufffd\ufffd\ufffd\u0016浾:\ufffd\ufffd~\ufffd)\ufffd\ufffd\u0000\ufffd\u000f\ufffd\"\ufffd\u00011\ufffd5\ufffd?\ufffd\ufffd\u0016k%\u001b\ufffd\u0019",
-      "is_sender": 0
+      "type": "图文消息",
+      "str_content": "邀请你加入群聊",
+      "sender": "对方"
     },
     {
       "create_time": 1737020847,
       "formatted_time": "2025-01-16 17:47:27",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd`?\u0006\ufffd\u0016\u0000Fo\ufffd\"@M\ufffd\u0003_\u000b\ufffd#ڎ\u0018C\ufffd\"\u001dxg,\ufffdGm[\ufffd;%\u0011$\ufffd8\ufffd\ufffd\u001c\b\ufffd\u0000r\u0000m\u0000\u000f\n\ufffd@C\u0014-\u0018O\ufffda\ufffd\ufffd\ufffd\ufffd\u001fr!\ufffdi\u0006G\ufffd\ufffd\u0006&\ufffd\u0010\ufffd\ufffd\ufffd`\ufffdiHʹ\ufffd\\ӌ\ufffd\ufffdqe\ufffdm\ufffd&Ǘ\u0007\ufffd\ufffd\ufffd\ufffds\r\ufffd\ufffdN!\ufffd\ufffd\ufffd2!\u0005`\ufffdf\u0014\ufffd\ufffd\ufffd4\u0012\ufffdI\ufffdB\ufffdAbE\ufffd\ufffd<\ufffda\ufffd!F'JJ\ufffd\ufffd\ufffdb\u0006d\f\ufffd\ufffd\u00128F@\ufffd\ufffd\ufffdf`\ufffd4\ufffd`\ufffdgIq\ufffda\ufffd\ufffd@\u0001b\b\u0002z\ufffdc?N\u0004\u001d  \u0012\ufffd\ufffd\ufffd\ufffdeN\ufffd%'\ufffd\ufffdXW>5׏\ufffd\ufffd\ufffdۿz\ufffd\ufffd\ufffd\ufffd\ufffdZ\ufffdm\ufffdl\ufffd\ufffd\ufffd\ufffd{۵\ufffd>\ufffdwOey\ufffd7M\ufffd\ufffd\ufffd\ufffd<˕+5\u0019\ufffd#\u0012\ufffdЌ\ufffd\f40\u0010\u0000a\f\u0018:\ufffd\u0006\ufffda'\ufffd\u0014+Y\ufffd\"\ufffdR0\ufffd\u0012\ufffd\ufffd\u0010\ufffdD\u0001K\u0013#bC\u0004\ufffd\ufffd\ufffd\ufffd\u0019\ufffd/\ufffd-kY\ufffd}\ufffd1\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffd\ufffd*\ufffd;[\ufffd\ufffd\ufffd]\ufffdN\ufffd~g\ufffd\ufffdciE\u0017\ufffd\u001c\ufffdkNaI\ufffdF\r\u0012\ufffd\ufffdtR\t\ufffdXDIq|\ufffdQ\ufffdPsR\ufffd\ufffd\u0010\ufffd\u00131A\ufffd\ufffd\ufffde\ufffd|\ufffd\ufffd<\ufffd\ufffd\ufffd\ufffd\ufffdw\ufffd\ufffd\ufffdw\ufffd6\ufffd}\u001e\ufffd\u0015\u0005\n\u0010\ufffd H\u0005\n\ufffd\u0002\u0005jfhb\u0014A\ufffdPӌ\ufffda8JDG\ufffd\u000b\u0005F\u0011Lj\u00115`\u0003\ufffdi4DI\u001d\u0019-\u0014b/\ufffdJ\ufffd*!\ufffd\ufffd#DR|\ufffdxY\ufffdcS\ufffdG\ufffd\u0005['S\ufffd\ufffd\ufffd\u001f\ufffd\ufffd\ufffd[\ufffde\ufffd\ufffdvݵ\ufffdm\ufffdK\ufffd\ufffd׾\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd;t\ufffd7T\ufffd\ufffd\ufffd\ufffdm:\ufffd褒|\ufffdaW\ufffd\ufffd8\ufffd\ufffd2#5\"\u0012\u0015$M\u001b\ufffd\ufffd\ufffd!\ufffd\ufffd\u0012\u0000\u0004z\ufffd\t\f2\u0002\ufffdL\ufffd3\ufffdАuHf\ufffd\ufffd-l\ufffd\ufffd)\ufffdӘf\ufffde\ufffd\ufffd\u001a\ufffdn7\ufffd+\ufffd\u001e\ufffd,\ufffd\ufffd\t\u0012\ufffd<\fk,3\ufffd\ufffd\ufffd\ufffd~U\ufffdG\ufffd\u000e\ufffd׾\u0014\u0012x\ufffd\ufffdg\ufffdUG\ufffd\u0018\ufffd7\ufffd\ufffd\ufffd%\ufffd!2T\ufffd\u000e\ufffdE0\ufffd\ufffd|\ufffd\ufffd\ufffd\ufffd\u001b\u0012\tSo\ufffdg9W\ufffd\ufffdQ!\ufffd\ufffd\ufffd\ufffdb\ufffdT;2\ufffdz\ufffd\ufffd\ufffdΕ\ufffd\ufffdB\ufffdAL\ufffd5\ufffds\ufffd\ufffd8\ufffde\b\ufffdk\ufffd/\ufffd\ufffd\ufffd=\ufffd1\ufffdT\u000f#$;\ufffd\ufffdW \ufffd\u0016\"dD\ufffd7V\ufffd\u0004\ufffd\ufffd\ufffd\ufffda\u001d\u0013\ufffdq\ufffd*x\u001c\ufffd[T",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender": "自己"
     },
     {
       "create_time": 1739429338,
       "formatted_time": "2025-02-13 14:48:58",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "徐昂哥，你有第六届大学联任职的聘书吗",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1739429376,
       "formatted_time": "2025-02-13 14:49:36",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "啊我好像没有",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1739429400,
       "formatted_time": "2025-02-13 14:50:00",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好滴好滴，现在这里补办",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1739429487,
       "formatted_time": "2025-02-13 14:51:27",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "没事没事，麻烦的话我就不要了[捂脸]现在我也不在济宁啦",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1739429514,
       "formatted_time": "2025-02-13 14:51:54",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "没事的哥，现在都在补，一块补出来吧，你有时间再拿也行",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1739429524,
       "formatted_time": "2025-02-13 14:52:04",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我给你加到名单了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1739429529,
       "formatted_time": "2025-02-13 14:52:09",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "嗯嗯好滴好滴 多谢",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1739429531,
       "formatted_time": "2025-02-13 14:52:11",
-      "type": "表情",
-      "str_content": "(\ufffd/\ufffd`.\u00035\u000f\u0000\ufffd`_\u001f@I\ufffdZu\ufffd\ufffd\u001b\ufffdk2\ufffd%\ufffdt2P\ufffd.\ufffd\u0018\ufffdK\ufffd\ufffd9iX\u0015\u0005\ufffdX\u0000W\u0000R\u0000\ufffd+(I\ufffdP>\ufffd\ufffdj˫l\ufffd!D\u000e5\ufffd\ufffd\u0012z\ufffd\u0014\u000f_P\ufffd\ufffd\u0016\ufffd\ufffdI\u0011\ufffd\ufffdt\ufffd\ufffdJ񛅲΃\ufffd\ufffdP@X{3Jk=\rQ\ufffdȆP:'\ufffdU$R\ufffdE2\ufffd\ufffdg\ufffd\ufffd\"\ufffdp\ufffd'(88\u000bAݚ>U\ufffdZ\ufffdƎխ\ufffd\ufffdW\ufffdU\ufffd^\ufffdX\ufffd\ufffdx\ufffd+\ufffd\u000e4\ufffd\u0004\ufffd\ufffd\ufffd˫0\ufffd\ufffd7;Fk\ufffd\ufffdXn\u0019˥\u0001\u000b\u000b\u00014\u00074\ufffdT$\fC\ufffd\ufffd9IQ\ufffd\u000f\ufffd\u0014\ufffd\u0014\ufffdf\ufffd\ufffdōۋ\ufffd\ufffd(\ufffd\ufffd*\ufffdpV\u0007\ufffd\ufffd\u0007e}\ufffd\ufffd=\ufffd?]\ufffdSx\ufffdf\ufffd)\ufffd(\ufffd\ufffdI2~\ufffd`\ufffdw\ufffd\ufffdj\u0015\ufffd6\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffdryu\ufffd\ufffd\ufffdZ\ufffd{\ufffd\ufffd\ufffd~w\ufffd\u0016s+\ufffd}|\ufffds\ufffd\u0010\u0017\ufffdb\ufffd\ufffds\ufffd\ufffd\ufffdZ{\u0005\u0007g1\b\n\ufffdE\ufffd\f6S\ufffd0\ufffd\ufffd\ufffd\\\ufffd\u0015\ufffd\ufffd\u0013*s\ufffd(%\ufffd\ufffdMF\ufffd\ufffd)\ufffd\ufffd`?A\ufffd\ufffd\ufffd6\ufffd\u0012\ufffd\ufffdx\ufffd\ufffdD\u0016U\ufffd=\ufffd\ufffd\ufffdԁL\ufffd\ufffd@\ufffdt\ufffd\ufffdO\ufffd\ufffd\ufffd\r)\ufffd\ufffd6e\ufffd.\ufffd\ufffd\ufffd\ufffdT( p\ufffd\ufffd\ufffd[\u000f\ufffd\ufffd\ufffd1\u0004\u001fh3\ufffd\ufffdǔofxKWn-ĉ\ufffd\u0012\u0000]\ufffd\u0002c\ufffdk\ufffda\u000e\ufffdY\ufffd\u001c\ufffd\u001a\u000f\ufffdΗ+\ufffd\ufffdd\ufffd\u001dyXgnEbd\ufffdŢx\u0014\ufffd\ufffd\u000b7\ufffd\ufffd\ufffd\ufffd\u0000\ufffd\ufffd\ufffd($\b\ufffdAЄcx\ufffd8\u0017,<\ufffdT\ufffdA\ufffd\ufffd\u0007",
-      "is_sender": 0
+      "type": "动画表情",
+      "str_content": "[????]",
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:19+08:00",
+  "export_time": "2025-12-07T09:48:05+08:00",
   "message_count": 14
 }

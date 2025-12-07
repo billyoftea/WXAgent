@@ -5,74 +5,79 @@
     {
       "create_time": 1756113384,
       "formatted_time": "2025-08-25 17:16:24",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "111",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1756113389,
       "formatted_time": "2025-08-25 17:16:29",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "🀄",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1756113394,
       "formatted_time": "2025-08-25 17:16:34",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "今晚吃了饭就去吧",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1756113422,
       "formatted_time": "2025-08-25 17:17:02",
-      "type": "文本",
-      "str_content": "wxid_bwzdztgb2lvz22:\n我看特工队有人在组局吃饭，要不咱晚上去那里吧",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我看特工队有人在组局吃饭，要不咱晚上去那里吧",
+      "sender_name": "25 金科 孙嘉言",
+      "sender_wxid": "wxid_bwzdztgb2lvz22"
     },
     {
       "create_time": 1756113449,
       "formatted_time": "2025-08-25 17:17:29",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "可以可以",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1756113462,
       "formatted_time": "2025-08-25 17:17:42",
-      "type": "文本",
-      "str_content": "wxid_bwzdztgb2lvz22:\n我问问李佳茗",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我问问李佳茗",
+      "sender_name": "25 金科 孙嘉言",
+      "sender_wxid": "wxid_bwzdztgb2lvz22"
     },
     {
       "create_time": 1756113976,
       "formatted_time": "2025-08-25 17:26:16",
-      "type": "文本",
-      "str_content": "wxid_gpjtpwap926w12:\nbro们看能不能再找个女生陪我一起",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "bro们看能不能再找个女生陪我一起",
+      "sender_name": "张晨阳",
+      "sender_wxid": "wxid_gpjtpwap926w12"
     },
     {
       "create_time": 1756113998,
       "formatted_time": "2025-08-25 17:26:38",
-      "type": "文本",
-      "str_content": "wxid_gpjtpwap926w12:\n或者找个男生补你们三缺一也ok",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "或者找个男生补你们三缺一也ok",
+      "sender_name": "张晨阳",
+      "sender_wxid": "wxid_gpjtpwap926w12"
     },
     {
       "create_time": 1756114021,
       "formatted_time": "2025-08-25 17:27:01",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "[捂脸][捂脸][捂脸]好，那我要不再去问一下男生",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1756114033,
       "formatted_time": "2025-08-25 17:27:13",
-      "type": "文本",
-      "str_content": "wxid_gpjtpwap926w12:\n可啊",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "可啊",
+      "sender_name": "张晨阳",
+      "sender_wxid": "wxid_gpjtpwap926w12"
     }
   ],
-  "export_time": "2025-12-06T19:12:18+08:00",
+  "export_time": "2025-12-07T09:48:04+08:00",
   "message_count": 10
 }

@@ -5,39 +5,39 @@
     {
       "create_time": 1720014164,
       "formatted_time": "2024-07-03 21:42:44",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1720014310,
       "formatted_time": "2024-07-03 21:45:10",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd ܝ\u0005\u0000\ufffd\ufffd%+\ufffd5nܲw\ufffd\ufffd@\ufffd5\u0019\ufffd \ufffdg\u001b\ufffd\u0010\ufffd߭M\ufffd\ufffd\ufffdv\ufffd*\ufffd\ufffdq\ufffd6\ufffd\ufffd\ufffdH\ufffdDF\u0007\u0003J\ufffd\ufffdFO\ufffd\ufffd}\ufffd\ufffd\ufffd\ufffd/\ufffd#\u0007\ufffdf\u0019\ufffdկz\b\ufffdvx@z\ufffdyZr~@'_X;jv\ufffd\u0000@?\ufffd~\ufffd\ufffd^-;\ufffdx\ufffdy\ufffd\ufffdɔ`\ufffd\u0019c\ufffd\ufffdq\ufffdj\b\u001fb\ufffdt\u001e\ufffd\ufffdm~Y\\\ufffd/6O\u000eO\ufffd\ufffd\r\ufffd\rk\ufffd-Pu\ufffd\ufffd#\ufffd\ufffd\"v#\ufffd\t\u0000x\u0018\ufffd5p\u0017\ufffd\u0006\u0006\ufffd\n\u001bR\u0007\u0001ka\ufffdM\r\u0010f\ufffd\ufffd",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "学长，想请问一下晚会组可以帮助我们把这几天的一些照片剪辑进我们的歌曲mv里面嘛\n或者可以请问下学长方便把最近的一些照片发给我们由我们来剪辑嘛[可怜][可怜]",
+      "sender": "自己"
     },
     {
       "create_time": 1720014387,
       "formatted_time": "2024-07-03 21:46:27",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "回头会放在这次活动的网盘里面，在学生大群里面会共享，不是实时照片",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1720014393,
       "formatted_time": "2024-07-03 21:46:33",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我可能也没有",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1720014420,
       "formatted_time": "2024-07-03 21:47:00",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "明白了明白了！谢谢学长！辛苦您啦！[玫瑰][玫瑰]",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:22+08:00",
+  "export_time": "2025-12-07T09:48:06+08:00",
   "message_count": 5
 }

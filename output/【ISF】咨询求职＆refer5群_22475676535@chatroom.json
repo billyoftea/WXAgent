@@ -5,32 +5,32 @@
     {
       "create_time": 1763515772,
       "formatted_time": "2025-11-19 09:29:32",
-      "type": "文本",
-      "str_content": "wxid_66xh0t6o9mwo22:\n【腾讯文档】【ISF】实习汇总11.16\nhttps://docs.qq.com/doc/DUnNBT0pVWXZxS0Z1",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "【腾讯文档】【ISF】实习汇总11.16\nhttps://docs.qq.com/doc/DUnNBT0pVWXZxS0Z1",
+      "sender_name": "小爱同学@ISF 群里请拍拍我更新",
+      "sender_wxid": "wxid_66xh0t6o9mwo22"
     },
     {
       "create_time": 1764227496,
       "formatted_time": "2025-11-27 15:11:36",
-      "type": "文本",
-      "str_content": "wxid_66xh0t6o9mwo22:\n【腾讯文档】【ISF】实习汇总11.24\nhttps://docs.qq.com/doc/DUnFBeUxaa1hZZUJ1",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "【腾讯文档】【ISF】实习汇总11.24\nhttps://docs.qq.com/doc/DUnFBeUxaa1hZZUJ1",
+      "sender_name": "小爱同学@ISF 群里请拍拍我更新",
+      "sender_wxid": "wxid_66xh0t6o9mwo22"
     },
     {
       "create_time": 1764909053,
       "formatted_time": "2025-12-05 12:30:53",
       "type": "系统消息",
-      "str_content": "\"Rosie\"邀请\"花间小酌\"加入了群聊",
-      "is_sender": 0
+      "str_content": "[????????]"
     },
     {
       "create_time": 1764909053,
       "formatted_time": "2025-12-05 12:30:53",
       "type": "系统消息",
-      "str_content": "\"花间小酌\"与群里其他人都不是朋友关系，请注意隐私安全",
-      "is_sender": 0
+      "str_content": "[????????]"
     }
   ],
-  "export_time": "2025-12-06T19:12:14+08:00",
+  "export_time": "2025-12-07T09:48:01+08:00",
   "message_count": 4
 }

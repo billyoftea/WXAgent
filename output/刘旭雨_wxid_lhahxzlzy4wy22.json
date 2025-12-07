@@ -5,81 +5,81 @@
     {
       "create_time": 1700288142,
       "formatted_time": "2023-11-18 14:15:42",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "这个表格里的政治面貌啥的要改成换的人的信息哈",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1700288142,
       "formatted_time": "2023-11-18 14:15:42",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0001\ufffd\b\u0000֓8\u001dp%\ufffd\u0001@눜\ufffd\b\u0015\ufffd\ufffd2\ufffd\ufffd\ufffd9\ufffdP6\ufffd\ufffd\ufffd\u0006\ufffd\ufffd\ufffd\r6\u0000)\u0000-\u0000\ufffdc\u00040\ufffd$\u0016\u0014\ufffd\ufffd\ufffdp\ufffd\u0018L\u001b(`\ufffd҆Ӑ[\ufffd\ufffd\ufffd&\ufffd(u\ufffd\u000eYNֺ\ufffd儎Q\ufffd\u0000\ufffd\ufffd\f/\ufffd\ufffdxM,\u0002\ufffd\ufffd\ufffdl}:j>7\ufffd\ufffd\ufffdT#\ufffdPk\ufffd|\ufffdWٟ\ufffd\ufffd%\ufffd\ufffd*\ufffd%8\ufffd0g\ufffd\ufffd\ufffd\ufffd\f\u0012\ufffdc\u0010\ufffd\u0007\ufffdB\ufffd\ufffd1\u0014\ufffd[Z@f*e\ufffd\ufffdw\ufffd\ufffd\ufffd\ufffd\ufffd<:j\ufffd\ufffd-[[\ufffd\ufffd~;\ufffdg\ufffd\u0002\ufffdk\ufffd\ufffd8^\ufffd\ufffd\ufffdh\ufffd)\b4\u000b|\ufffd\u0011\u0018N\ufffd\ufffd#\ufffd{\ufffd3F\ufffd\u0017J\ufffdӱNv\ufffd\ufffd\ufffd\ufffdX\u001cNR\ufffdx\u00112\u00185\u000f\u0000\ufffdꃸ\u0011\ufffd\ufffd7\ufffdn\ufffdeʎ\ufffd\ufffd\ufffd\ufffdI\ufffd\u001bw\ufffd\ufffd\ufffdB\ufffd\ufffd\u0010\ufffd\u001cv\ufffd,U\tK\nP8\u0003",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "自己"
     },
     {
       "create_time": 1700288181,
       "formatted_time": "2023-11-18 14:16:21",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "是的",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1700288195,
       "formatted_time": "2023-11-18 14:16:35",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "都是团员",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1700288197,
       "formatted_time": "2023-11-18 14:16:37",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "这个是已经改过的吗",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1700288199,
       "formatted_time": "2023-11-18 14:16:39",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "还有民族",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1700288248,
       "formatted_time": "2023-11-18 14:17:28",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "所有的信息都换成换的人是吗",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1700288252,
       "formatted_time": "2023-11-18 14:17:32",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "对的",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1700288364,
       "formatted_time": "2023-11-18 14:19:24",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好的",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1700288534,
       "formatted_time": "2023-11-18 14:22:14",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "改好了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1700288543,
       "formatted_time": "2023-11-18 14:22:23",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好滴好滴",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:22+08:00",
+  "export_time": "2025-12-07T09:48:07+08:00",
   "message_count": 11
 }

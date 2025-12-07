@@ -1,0 +1,274 @@
+{
+  "session_id": "gh_abc3d079060a",
+  "session_name": "数据科学实战",
+  "messages": [
+    {
+      "create_time": 1761580902,
+      "formatted_time": "2025-10-28 00:01:42",
+      "type": "图文消息",
+      "str_content": "用希尔伯特变换捕捉市场趋势：Python 量化交易实战",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761667282,
+      "formatted_time": "2025-10-29 00:01:22",
+      "type": "图文消息",
+      "str_content": "免费的期货跟单软件脚本，你确定不领一个玩玩？实盘模拟都可",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761753755,
+      "formatted_time": "2025-10-30 00:02:35",
+      "type": "图文消息",
+      "str_content": "散户投资的 5 大致命误区：用 Python 量化思维避坑指南",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761840881,
+      "formatted_time": "2025-10-31 00:14:41",
+      "type": "图文消息",
+      "str_content": "当回测结果好到不真实时，你可能遇到了时间旅行者",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1761926477,
+      "formatted_time": "2025-11-01 00:01:17",
+      "type": "图文消息",
+      "str_content": "用 Python 打造高胜率量化交易策略：波动率压缩突破系统实战",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762012930,
+      "formatted_time": "2025-11-02 00:02:10",
+      "type": "图文消息",
+      "str_content": "Pandas TA：量化交易的技术分析利器",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762099300,
+      "formatted_time": "2025-11-03 00:01:40",
+      "type": "图文消息",
+      "str_content": "用 Python 构建塔勒布风格的投资组合对冲策略：尾部风险防护实战",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762185697,
+      "formatted_time": "2025-11-04 00:01:37",
+      "type": "图文消息",
+      "str_content": "量化交易必学：用 Python 计算资产相关性",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762272149,
+      "formatted_time": "2025-11-05 00:02:29",
+      "type": "图文消息",
+      "str_content": "用混沌理论捕捉趋势：Lyapunov-Hurst 策略详解",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762358565,
+      "formatted_time": "2025-11-06 00:02:45",
+      "type": "图文消息",
+      "str_content": "技术指标打造量化交易策略：从概念到回测的完整实战",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762444905,
+      "formatted_time": "2025-11-07 00:01:45",
+      "type": "图文消息",
+      "str_content": "STRAPSim：让量化投资组合相似度计算更智能的新方法",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762531443,
+      "formatted_time": "2025-11-08 00:04:03",
+      "type": "图文消息",
+      "str_content": "免费开源！微软 Qlib：玩转量化交易的 AI 平台",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762617745,
+      "formatted_time": "2025-11-09 00:02:25",
+      "type": "图文消息",
+      "str_content": "用 Python 读懂市场情绪：量化交易中的市场状态识别",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762704109,
+      "formatted_time": "2025-11-10 00:01:49",
+      "type": "图文消息",
+      "str_content": "量化分析师的未来：从预测者到科学家的转变",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762799461,
+      "formatted_time": "2025-11-11 02:31:01",
+      "type": "图文消息",
+      "str_content": "用 Python 打造高胜率股票交易策略：基于 VWAP 的市场制度识别系统",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762879160,
+      "formatted_time": "2025-11-12 00:39:20",
+      "type": "图文消息",
+      "str_content": "Python 量化交易神器：QF-Lib 让策略回测如此简单",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1762963473,
+      "formatted_time": "2025-11-13 00:04:33",
+      "type": "图文消息",
+      "str_content": "波动率套利基金如何用 Heston 模型从期权市场获利",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763049832,
+      "formatted_time": "2025-11-14 00:03:52",
+      "type": "图文消息",
+      "str_content": "用 Python 挖掘小盘股的秘密：基于研究的量化选股策略",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763138657,
+      "formatted_time": "2025-11-15 00:44:17",
+      "type": "图文消息",
+      "str_content": "用 Python 和机器学习构建动态覆盖策略：从理论到实战",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763222669,
+      "formatted_time": "2025-11-16 00:04:29",
+      "type": "图文消息",
+      "str_content": "用 Python 构建股票估值评分系统：价值投资的量化方法",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763309064,
+      "formatted_time": "2025-11-17 00:04:24",
+      "type": "图文消息",
+      "str_content": "为什么大多数日内交易者都在用成交量分布和订单流指标",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763395392,
+      "formatted_time": "2025-11-18 00:03:12",
+      "type": "图文消息",
+      "str_content": "一个指标让策略收益从 162% 飙升到 223%：成交量分布的量化应用",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763481728,
+      "formatted_time": "2025-11-19 00:02:08",
+      "type": "图文消息",
+      "str_content": "用 Python 预测股价？这个模型提前 3 天告诉你涨跌",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763568173,
+      "formatted_time": "2025-11-20 00:02:53",
+      "type": "图文消息",
+      "str_content": "零成本打造量化交易系统：12 个必备 Python 库完全指南",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763654481,
+      "formatted_time": "2025-11-21 00:01:21",
+      "type": "图文消息",
+      "str_content": "Python 量化实战：复现 25 年 927% 回报的 GDMS 策略",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763740947,
+      "formatted_time": "2025-11-22 00:02:27",
+      "type": "图文消息",
+      "str_content": "136% 收益率！Python 量化交易之 KAMA 自适应均线策略实战",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763827311,
+      "formatted_time": "2025-11-23 00:01:51",
+      "type": "图文消息",
+      "str_content": "Python 量化实战：如何用 4 个简单指标实现 180 倍收益？",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1763913723,
+      "formatted_time": "2025-11-24 00:02:03",
+      "type": "图文消息",
+      "str_content": "收益率从 32% 飙升至 168%！用 Python 贝叶斯优化打造超级交易策略",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764062106,
+      "formatted_time": "2025-11-25 17:15:06",
+      "type": "图文消息",
+      "str_content": "用 Python 打造智能投资组合：Butterworth 滤波器实战指南",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764086517,
+      "formatted_time": "2025-11-26 00:01:57",
+      "type": "图文消息",
+      "str_content": "用 Python 实现趋势过滤的多资产投资策略",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764172941,
+      "formatted_time": "2025-11-27 00:02:21",
+      "type": "图文消息",
+      "str_content": "量化交易必读｜Python 算法交易顶级书单，从小白到高手的进阶指南",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764259483,
+      "formatted_time": "2025-11-28 00:04:43",
+      "type": "图文消息",
+      "str_content": "用 Python 做量化交易？这个回测神器让你快 100 倍！",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764405069,
+      "formatted_time": "2025-11-29 16:31:09",
+      "type": "图文消息",
+      "str_content": "告别传统方差！Python 实现现代投资组合优化的 7 种风险度量方法",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764432211,
+      "formatted_time": "2025-11-30 00:03:31",
+      "type": "图文消息",
+      "str_content": "用 Python 实现自适应均线 + 波动率交易策略，新手也能看懂",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764518526,
+      "formatted_time": "2025-12-01 00:02:06",
+      "type": "图文消息",
+      "str_content": "用 Python 构建低波动性股票策略，夏普比率达 0.84",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764604929,
+      "formatted_time": "2025-12-02 00:02:09",
+      "type": "图文消息",
+      "str_content": "Python 量化交易入门：10 种算法交易策略全解析",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764691351,
+      "formatted_time": "2025-12-03 00:02:31",
+      "type": "图文消息",
+      "str_content": "像量化分析师一样评估你的交易策略",
+      "sender": "对方"
+    },
+    {
+      "create_time": 1764777729,
+      "formatted_time": "2025-12-04 00:02:09",
+      "type": "图文消息",
+      "str_content": "顶级交易员都在用的秘密武器：Python 股票聚类分析实战",
+      "sender": "对方"
+    }
+  ],
+  "export_time": "2025-12-07T09:47:58+08:00",
+  "message_count": 38
+}

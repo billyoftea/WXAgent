@@ -5,74 +5,74 @@
     {
       "create_time": 1678271262,
       "formatted_time": "2023-03-08 18:27:42",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1678373971,
       "formatted_time": "2023-03-09 22:59:31",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`b\u0001M\b\u0000FR5\u001d\ufffd\ufffd\ufffd\u0001 ƈ`\ufffd6\ufffd\ufffdl\ufffdɈ\ufffd\ufffd\ufffdW\u0012\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u00021\u0000(\u0000)\u0000+\n \u0007BcD\ufffdb\u0014\ufffd@A\ufffd\u0011\u001cQ\ufffd:K\ufffd\r+E\ufffdx-Jk\ufffd\ufffdq,-s*F\ufffd\u000308E\ufffd\ufffd\u0014\u00074\ufffd\"\ufffd\ufffd\ufffdy>/\ufffd\r\ufffd\ufffd\ufffdO-}L\ufffd\ufffd\ufffd\ufffd&{\ufffd\ufffdTĹ\ufffd\ufffd\ufffd9357\ufffd\ufffd\ufffd\u0011P\u0010\b\u0007\u0004&\u000e\ufffdL/\u0006r\ufffd\u0004\u0017\ufffdɪy\ufffd\ufffd7\ufffdݭ\ufffdnZ\ufffd\ufffd\ufffdtz:\ufffd-\ufffd\ufffd\ufffdn\ufffdn\ufffd\u0001\u00074\ufffdAq\ufffd\ufffd\f\ufffd\ufffd0\ufffd\ufffdke\ufffd\ufffds\ufffd\ufffdBM\u001d\u001f\ufffd\ufffd\ufffd\r2\ufffd0-\u0012\u0005\ufffd\u0017Ƥ%Ѩ\ufffd\ufffd\ufffdh1\u0002\u0012\u0000r#\u0000Ko\ufffd0գ\ufffd5\ufffd\ufffd(\u0007&\ufffdC\ufffd\ufffd\u000bq\b\ufffdB\ufffd\ufffdBS\u0015%o\u0006|\t|\ufffd\u0011\ufffd\ufffdR\ufffd\ufffd\ufffd\u0000\ufffd3",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "自己"
     },
     {
       "create_time": 1678373972,
       "formatted_time": "2023-03-09 22:59:32",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`a\u00015\b\u0000\ufffd\ufffd5\u001dp\ufffd\ufffd\u0001@5b\u0001#U\ufffd\ufffdv\ufffd\ufffd\ufffd䵔M&)\ufffd \ufffd*q\u00033\u0000(\u0000)\u0000\ufffdÊ\ufffdİ4F\u00185\u0007\ufffd\u0005\f\u0010\ufffd\ufffd\b\ufffdV\u0015\ufffd\ufffd9\ufffd[/\ufffd\ufffd<\ufffd\u0016-\ufffdM{^\ufffdc\ufffd\u0001\u0014\ufffd\"`T\f\u0004\u0016\ufffd\u0011\ufffd\ufffd\ufffd\ufffd\ufffd\ufffds^\ufffd\u001f~)\ufffd\ufffdZ\ufffd\ufffdb\ufffd\ufffd\ufffdM\ufffd\ufffd[\ufffd\u0005\ufffd&\ufffd/\ufffd\ufffd\ufffd\ufffdܓ7\ufffd \ufffd\u0004*.I\ufffd7Gb\ufffd\ufffd\u001bd\ufffdj\ufffd\ufffdG\ufffdowﷹ\ufffd\ufffdۢs\ufffd\ufffd\ufffdn\ufffdO\ufffdv\ufffd\ufffdv\u0003\b,D\ufffd\ufffd\ufffd\ufffd\b\fĴ\ufffd\ufffd\ufffdF\ufffd\ufffd*\ufffdq\ufffd\ufffd\ufffd\ufffdY\ufffd\ufffd\ufffd\ufffd\u001c\ufffdE\ufffd\ufffd\ufffd¨4%nj\ufffd\ufffdQs\u0004\u0010\u0000q#\u0000+o\ufffd,ո\ufffd5\ufffd\ufffd(\u0007&\ufffdC\ufffd\ufffd\u000bq\b\ufffd\u0019\ufffd\ufffd\ufffd\ufffdˊsb;f\ufffd\ufffd\ufffd%\u0005(\ufffd\u0001",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "自己"
     },
     {
       "create_time": 1678373972,
       "formatted_time": "2023-03-09 22:59:32",
-      "type": "图片",
-      "str_content": "(\ufffd/\ufffd`b\u0001=\b\u0000\ufffd\ufffd5\u001dp\ufffd\ufffd\u0001@5b\u0001#U\ufffd\ufffdv\ufffd\ufffd\ufffdL۔M&)\ufffd \ufffd*q\u00033\u0000)\u0000(\u0000\ufffdÊ\ufffdİ4F\u00185\u0007\ufffd\u0005\f\u0010\ufffd\ufffd\b\ufffdt\ufffdmo\ufffd\ufffduԴ\ufffd:\ufffd)\ufffd\ufffd+\\cs\f8\ufffd\ufffdS\u0004\ufffd\ufffd\ufffd\ufffdB4\u0002G\ufffd~s\ufffd\ufffd\ufffdy9\ufffd\ufffd+\ufffd\ufffd\ufffd\ufffd\ufffd)\ufffd\ufffd\ufffd\ufffdd\u000f\ufffd\ufffd\ufffd8\ufffd\ufffd\ufffdb\ufffdL\ufffd\ufffd=ys\f\u0002Pq\ufffd\ufffd\ufffd9\u0012\u0003\\\ufffd \ufffdU\ufffd\ufffd47?\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdvoko\ufffd\ufffdw\ufffd\ufffdm\ufffd\ufffd\ufffd\ufffdm\ufffd\b,D\ufffd\ufffd\ufffd\ufffd\b\f\ufffd8\ufffd\u0010z\t}\ufffdW[\ufffd\ufffd[\ufffd\u000b\ufffd2\ufffdJ\ufffd\u001c\ufffdE\ufffd(\ufffd\ufffdQiJTm\ufffd\ufffdQs\u0018\ufffd\u0010\u0000r#\u0000Koh\ufffd9\ufffd\ufffd0\ufffd2(g'\ufffdo\ufffdX\ufffd8\ufffdla\ufffd\ufffdj\ufffdˊsb;f\ufffd\ufffd\ufffd%\u0005(\ufffd\u0001",
-      "is_sender": 0
+      "type": "图片消息",
+      "str_content": "[??]",
+      "sender": "自己"
     },
     {
       "create_time": 1678373974,
       "formatted_time": "2023-03-09 22:59:34",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "杨哥",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1678373994,
       "formatted_time": "2023-03-09 22:59:54",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你们评优里有三个人都是满分[发抖]",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1678374011,
       "formatted_time": "2023-03-09 23:00:11",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "但是组织部只有两个评优名额",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1678374016,
       "formatted_time": "2023-03-09 23:00:16",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你们倾向于哪两个呀",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1678375068,
       "formatted_time": "2023-03-09 23:17:48",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "王展，龚嘉昱",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1678375083,
       "formatted_time": "2023-03-09 23:18:03",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "收到",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:26+08:00",
+  "export_time": "2025-12-07T09:48:09+08:00",
   "message_count": 10
 }

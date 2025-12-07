@@ -6,17 +6,17 @@
       "create_time": 1684324196,
       "formatted_time": "2023-05-17 19:49:56",
       "type": "系统消息",
-      "str_content": "你已添加了沃顿学长Jack-6.1统一调价🔼，现在可以开始聊天了。",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1684324237,
       "formatted_time": "2023-05-17 19:50:37",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "您好，请问求职信息是怎么查询呢",
-      "is_sender": 0
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:25+08:00",
+  "export_time": "2025-12-07T09:48:09+08:00",
   "message_count": 2
 }

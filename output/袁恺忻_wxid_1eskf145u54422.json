@@ -5,151 +5,151 @@
     {
       "create_time": 1763261070,
       "formatted_time": "2025-11-16 10:44:30",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我是.",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1763261658,
       "formatted_time": "2025-11-16 10:54:18",
       "type": "系统消息",
-      "str_content": "(\ufffd/\ufffd \ufffd\ufffd\u0004\u0000\ufffd\b你已添加了.，以上是打招呼的消息，<_wc_custom_link_ href=\"weixin://setting/sayhello\">使用常用内容</>介绍自己。\u0002\u0000R \ufffd\ufffd\"\ufffd\u0001",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1763261723,
       "formatted_time": "2025-11-16 10:55:23",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "学长好，我是数字经济2401班的袁恺忻，是李浩同学推荐给我的，想问一下往年经统的第三第四大概能保到哪去呀[跳跳][跳跳]",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1763262016,
       "formatted_time": "2025-11-16 11:00:16",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffdM\u0006\u0000\ufffd\ufffd+,\ufffd7m\ufffd\ufffdȔ˝\u0004\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdg\ufffd\u0015\u0005D\b6\ufffdƜdm\ufffd2-\ufffd\ufffd\u0002\ufffd\ufffd\u0019\ufffdNUU\u0017\u0001\u0011Nqq\ufffdҊv4y\ufffd<?ɐ0!\ufffd\u000fP\u000e\f\ufffdbA\ufffd\ufffd\ufffdq\ufffd\u001b2O\ufffd\ufffd\ufffd\ufffd?\u000ew\ufffd\u001f8~\u0019<\ufffdz\u0019\ufffd\ufffdD\ufffdG\ufffd\u0006\ufffd\u0002㕁o\\\ufffd\ufffd\ufffd\ufffd\u000bb#\ufffd$\ufffdOr\ufffd\r5\ufffd\ufffde\ufffd\ufffd\ufffd\ufffd\ufffdh\ufffd\u0002\ufffd\u0019\ufffd\ufffd\ufffd\n}\ufffd\ufffdꍠ\ufffd\ufffdG*\ufffd4.\ufffdm\ufffd27\"\ufffd\ufffd\ufffd\ufffd\ufffdP\ufffd\ufffd\ufffd\ufffd\u0005H\u0004\b\u0000\u0001\ufffd\u0015\ufffdX\ufffd\u0011\ufffd\ufffdYE\ufffd*h@U\u001f\ufffd@\ufffd\u0001",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "21级经统一共20人，第四保本校，严格意义上没有第三，因为夏令营的时候第二拿到了北大ofr，预推免的时候原来的第三变成了第二，拿到了南大的ofr。据说夏令营的时候第三名基本没什么入营",
+      "sender": "自己"
     },
     {
       "create_time": 1763262086,
       "formatted_time": "2025-11-16 11:01:26",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\u001d\u0007\u0000\u0002N32pi\ufffd\u0001<ؽe8\ufffd\ufffd\ufffd\ufffdF\ufffd\ufffd؄h\ufffd\ufffd\u001bZ\\\ufffd@\ufffd\ufffd\ufffd\ufffd@\ufffdXҶ\b\ufffdn[\ufffd\ufffd\ufffd\ufffdy(\ufffd\ufffds\u0005\u0011\u0017\ufffdn2\ufffdrir\ufffd8\ufffd\ufffdi\u001e-\ufffd\ufffdq%kd!*\ufffd0p\ufffdB\ufffdH/\u0007\ufffd\u001c\ufffd\ufffdX\ufffd;\ufffd\nE*ml\ufffdx\u0004\ufffd=u']]\ufffd\ufffd7\ufffd\ufffd\ufffd\r˭\ufffd\ufffd\ufffd#\ufffdS\ufffd8\ufffd\ufffdP\ufffd\ufffd\ufffd\ufffdie\ufffd`\ufffdR\ufffd\u0014\ufffd'\ufffdj\u0001Q\ufffdv\ufffd\ufffd\ufffdp,\u00070\u0004\ufffd\ufffd\u000f\ufffdaF)\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdGZg\ufffd\ufffdD\ufffd7\ufffd\ufffd\ufffd\u0011\ufffdR£u\ufffd-\ufffd\ufffd\ufffd1\ufffd\ufffdS%|\ufffd\f\ufffd\f%\u000eE\ufffdˌ\ufffd\u0006\u0000Ә\ufffd\ufffd0\u0010Ȍ\ufffd\ufffd\ufffd\u0011\u0015y\t\n\u0019",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "20人的小专业可能只有第一第二名比较有优势，因为第三已经掉出10%了。\n当然这也是我们这一届的情况，你们如果有人工智能双学位的话可以选择的空间比较大，应该也和往年情况会不太一样",
+      "sender": "自己"
     },
     {
       "create_time": 1763262255,
       "formatted_time": "2025-11-16 11:04:15",
       "type": "系统消息",
-      "str_content": "(\ufffd/\ufffd \ufffd\u0015\u0004\u0000\u0014\u0007<?xml version=\"1.0\"?><sysmsg type=\"revokemsg\"><><content>\"袁恺忻\" 撤回了一条消息</time>0</msg></sysmsg>\u0005\u00000\t\ufffd1,\ufffd\u001c\ufffd\u0014)Q\ufffd",
-      "is_sender": 0
+      "str_content": "[????????]",
+      "sender": "对方"
     },
     {
       "create_time": 1763262265,
       "formatted_time": "2025-11-16 11:04:25",
-      "type": "文本",
-      "str_content": "(\ufffd/\ufffd \ufffd\ufffd\u0006\u0000R\ufffd00`i\ufffd\u0001\ufffd\ufffdI\ufffdA\u0010\ufffdt/!\ufffd[\ufffd\ufffd\ufffd\ufffd헲\ufffd\ufffd\ufffdW.jk\ufffd\ufffdJ\ufffdC\ufffd\ufffd(\ufffd\ufffd\b\ufffd\u0004A\u0010䔎\ufffd\ufffdy\u0017]Εҡ\ufffd\u0017̻\ufffdE\ufffd#,n\ufffd\ufffdn\ufffd荺\fƙ¥eb\u0001\ufffd\u0004s\ufffd\ufffd\rd\ufffd\ufffd\u0017\ufffd!t-\ufffd\u000f\ufffd\u0005\ufffdq{Q\ufffd\ufffdx\u0006VǬ)\ufffdpnd\ufffd\u001e0\ufffd\ufffdm\ufffd\ufffd\ufffd\b\ufffd\ufffd\u001c~0\ufffd6\ufffd\u0015\ufffdmbǃ\u00170\u001d\ufffd\u001f\ufffd\ufffdT-\ufffd:s\ufffd\ufffd#շ\ufffdc\ufffd\u0011\ufffd\u0010\ufffd\ufffd\ufffd\ufffd\ufffdմ\ufffdP\u001c\u001b\ufffd\ufffd\ufffdq+\ufffd\u0002(&\u0014?\u000eO\ufffdxZ\ufffd\ufffd\ufffd\u0006\u0000~\ufffd\ufffdEa3#\ufffd\ufffd\ufffdu\u0017epH\u0011\ufffd",
-      "is_sender": 0
+      "type": "文本消息",
+      "str_content": "我们这届是37个人，我是第三，然后我现在有三个省一，商赛数模数竞，我是打算偏数学方向一点，然后科研还没产出，实习也没开始，不知道大概会去什么样的学校，然后要往哪个方向去努力",
+      "sender": "对方"
     },
     {
       "create_time": 1763262293,
       "formatted_time": "2025-11-16 11:04:53",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "有什么具体的研究方向吗？",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1763262299,
       "formatted_time": "2025-11-16 11:04:59",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "或者感兴趣的",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1763262313,
       "formatted_time": "2025-11-16 11:05:13",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "数字经济或者能源经济",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1763262321,
       "formatted_time": "2025-11-16 11:05:21",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "[强]很优秀啊，越来越卷了",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1763262328,
       "formatted_time": "2025-11-16 11:05:28",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "你是想做学术吗",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1763262347,
       "formatted_time": "2025-11-16 11:05:47",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "其实我也没想好",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1763262409,
       "formatted_time": "2025-11-16 11:06:49",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "我看学长你的朋友圈有黄长虹的点赞，我之前偏好能源经济的，还跟他聊了一下",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1763262435,
       "formatted_time": "2025-11-16 11:07:15",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "现在其实觉得学相关的都可以",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1763262466,
       "formatted_time": "2025-11-16 11:07:46",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "哈哈我跟ch很熟，他人很好很强很热心，在华科应该能帮到你很多",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1763262495,
       "formatted_time": "2025-11-16 11:08:15",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "要不我们电话聊一下？",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1763262529,
       "formatted_time": "2025-11-16 11:08:49",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好滴好滴，稍等我找个地方",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1763262771,
       "formatted_time": "2025-11-16 11:12:51",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "好啦，学长你打吧",
-      "is_sender": 0
+      "sender": "对方"
     },
     {
       "create_time": 1763264852,
       "formatted_time": "2025-11-16 11:47:32",
-      "type": "文本",
+      "type": "文本消息",
       "str_content": "cursor",
-      "is_sender": 0
+      "sender": "自己"
     },
     {
       "create_time": 1763266082,
       "formatted_time": "2025-11-16 12:08:02",
-      "type": "未知类型(50)",
-      "str_content": "(\ufffd/\ufffd`\ufffd\u0000\ufffd\b\u0000\ufffd\u000e4-\ufffd\ufffdm\u0018\u0003s\tx\ufffd\\\u0007\ufffd\ufffd\ufffdP\ufffd\u0016\u0012\ufffdP\u0012!\u0011\ufffdZ\u0014Z\ufffd΁উ\ufffd&b\ufffd{\ufffd\u0000\u0016ae\ufffd\u0003\ufffdX\u001a}\ufffd\u0018\ufffde\ufffd\ufffd\ufffdNN/\ufffd\u0011F\ufffd\ufffdm\ufffdI\ufffdbלs\ufffd\u0002yqNQZ\ufffd\ufffd\ufffd\ufffd)\ufffd\u0017\ufffd\ufffdct/*\ufffd#\ufffd\\;\ufffd\ufffd^̋5\ufffd\ufffdy\ufffd\ufffd\ufffd\ufffdc\ufffd=\ufffd\u0015\ufffd\ufffd\ufffd\ufffdAv8\ufffd&\ufffd\ufffd\u0017!3mq\ufffd\ufffd\ufffd\ufffd4\u000b~\ufffd\ufffd\ufffd)\ufffdb\ufffd\\Bk\ufffdz\ufffd\ufffdHd\ufffd\u0001\ufffd\ufffd\ufffdp\ufffd\ufffdx\ufffd\ufffd\ufffd\ufffd\ufffdh\ufffd\ufffd<\u0012\u001e\u0005\u0004\u0010\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdc\u000f\ufffd\ufffdq\ufffd\u0001\u0004\ufffd\ufffd\ufffd\u0010\ufffdQu\u0019\ufffd\ufffd\ufffdW\ufffd\u0003\u001b\u0000\ufffd\ufffd\ufffdK\u0001<\ufffd7=G\ufffd\ufffd\ufffd*\ufffd0\u0001\ufffd\u0016\ufffd\ufffd\u001b\ufffdfw\ufffd\ufffdKl9f@\ufffd/2,\ufffdf\ufffd\ufffdR\nT\u0000\ufffd\u001a\ufffdg\ufffdYe\ufffdj\ufffd2ɂYra3>\ufffdz\ufffd1\ufffd",
-      "is_sender": 0
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-06T19:12:12+08:00",
+  "export_time": "2025-12-07T09:48:00+08:00",
   "message_count": 21
 }
