@@ -6,7 +6,7 @@
       "create_time": 1744472388,
       "formatted_time": "2025-04-12 23:39:48",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "46039004632@chatroom",
       "sender_wxid": "46039004632@chatroom"
     },
@@ -22,7 +22,7 @@
       "create_time": 1744472410,
       "formatted_time": "2025-04-12 23:40:10",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "46039004632@chatroom",
       "sender_wxid": "46039004632@chatroom"
     },
@@ -30,7 +30,7 @@
       "create_time": 1744472417,
       "formatted_time": "2025-04-12 23:40:17",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "46039004632@chatroom",
       "sender_wxid": "46039004632@chatroom"
     },
@@ -38,7 +38,7 @@
       "create_time": 1744472429,
       "formatted_time": "2025-04-12 23:40:29",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "46039004632@chatroom",
       "sender_wxid": "46039004632@chatroom"
     },
@@ -54,7 +54,7 @@
       "create_time": 1744472492,
       "formatted_time": "2025-04-12 23:41:32",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "Ragdoll",
       "sender_wxid": "wxid_jgnpkplu1mz312"
     },
@@ -62,13 +62,13 @@
       "create_time": 1744472503,
       "formatted_time": "2025-04-12 23:41:43",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1744474488,
       "formatted_time": "2025-04-13 00:14:48",
       "type": "位置消息",
-      "str_content": "[????]",
+      "str_content": "[位置消息]",
       "sender_name": "Ragdoll",
       "sender_wxid": "wxid_jgnpkplu1mz312"
     },
@@ -92,7 +92,7 @@
       "create_time": 1744475399,
       "formatted_time": "2025-04-13 00:29:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Vacilando",
       "sender_wxid": "wxid_6qmd631or83v11"
     },
@@ -172,7 +172,7 @@
       "create_time": 1744489250,
       "formatted_time": "2025-04-13 04:20:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Vacilando",
       "sender_wxid": "wxid_6qmd631or83v11"
     },
@@ -204,7 +204,7 @@
       "create_time": 1744489917,
       "formatted_time": "2025-04-13 04:31:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "ん",
       "sender_wxid": "wxid_l76yrdtoknvc22"
     },
@@ -276,7 +276,7 @@
       "create_time": 1744528641,
       "formatted_time": "2025-04-13 15:17:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "阿九",
       "sender_wxid": "wxid_qg6bxx6zs7io22"
     },
@@ -292,7 +292,7 @@
       "create_time": 1744528764,
       "formatted_time": "2025-04-13 15:19:24",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "ん",
       "sender_wxid": "wxid_l76yrdtoknvc22"
     },
@@ -348,11 +348,11 @@
       "create_time": 1744529127,
       "formatted_time": "2025-04-13 15:25:27",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "龙徐苏",
       "sender_wxid": "wxid_twaqh2hpk0p322"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 44
 }

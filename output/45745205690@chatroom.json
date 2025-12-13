@@ -6,7 +6,7 @@
       "create_time": 1732530283,
       "formatted_time": "2024-11-25 18:24:43",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "45745205690@chatroom",
       "sender_wxid": "45745205690@chatroom"
     },
@@ -116,7 +116,7 @@
       "create_time": 1732531207,
       "formatted_time": "2024-11-25 18:40:07",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王琪",
       "sender_wxid": "wxid_rvvhpqa0ogod22"
     },
@@ -124,7 +124,7 @@
       "create_time": 1732547819,
       "formatted_time": "2024-11-25 23:16:59",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王琪",
       "sender_wxid": "wxid_rvvhpqa0ogod22"
     },
@@ -156,7 +156,7 @@
       "create_time": 1732548126,
       "formatted_time": "2024-11-25 23:22:06",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王琪",
       "sender_wxid": "wxid_rvvhpqa0ogod22"
     },
@@ -180,7 +180,7 @@
       "create_time": 1732624449,
       "formatted_time": "2024-11-26 20:34:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王琪",
       "sender_wxid": "wxid_rvvhpqa0ogod22"
     },
@@ -203,7 +203,7 @@
       "create_time": 1732624634,
       "formatted_time": "2024-11-26 20:37:14",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王琪",
       "sender_wxid": "wxid_rvvhpqa0ogod22"
     },
@@ -219,7 +219,7 @@
       "create_time": 1732687960,
       "formatted_time": "2024-11-27 14:12:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王琪",
       "sender_wxid": "wxid_rvvhpqa0ogod22"
     },
@@ -227,7 +227,7 @@
       "create_time": 1740196937,
       "formatted_time": "2025-02-22 12:02:17",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "45745205690@chatroom",
       "sender_wxid": "45745205690@chatroom"
     },
@@ -307,7 +307,7 @@
       "create_time": 1740197757,
       "formatted_time": "2025-02-22 12:15:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王琪",
       "sender_wxid": "wxid_rvvhpqa0ogod22"
     },
@@ -338,7 +338,7 @@
       "create_time": 1740198397,
       "formatted_time": "2025-02-22 12:26:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "汤何敏",
       "sender_wxid": "wxid_w7au3xgwekcv22"
     },
@@ -354,7 +354,7 @@
       "create_time": 1740312163,
       "formatted_time": "2025-02-23 20:02:43",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王琪",
       "sender_wxid": "wxid_rvvhpqa0ogod22"
     },
@@ -393,7 +393,7 @@
       "create_time": 1740312375,
       "formatted_time": "2025-02-23 20:06:15",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -447,7 +447,7 @@
       "create_time": 1740726357,
       "formatted_time": "2025-02-28 15:05:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王琪",
       "sender_wxid": "wxid_rvvhpqa0ogod22"
     },
@@ -455,7 +455,7 @@
       "create_time": 1740726363,
       "formatted_time": "2025-02-28 15:06:03",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1740726410,
@@ -469,18 +469,18 @@
       "create_time": 1740726421,
       "formatted_time": "2025-02-28 15:07:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
       "create_time": 1740726442,
       "formatted_time": "2025-02-28 15:07:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王琪",
       "sender_wxid": "wxid_rvvhpqa0ogod22"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 61
 }

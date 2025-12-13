@@ -6,7 +6,7 @@
       "create_time": 1762617154,
       "formatted_time": "2025-11-08 23:52:34",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "董佳鹭"
     },
     {
@@ -349,7 +349,7 @@
       "create_time": 1762617943,
       "formatted_time": "2025-11-09 00:05:43",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -447,7 +447,7 @@
       "create_time": 1762618074,
       "formatted_time": "2025-11-09 00:07:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -545,7 +545,7 @@
       "create_time": 1762618374,
       "formatted_time": "2025-11-09 00:12:54",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -694,8 +694,15 @@
       "type": "引用消息",
       "str_content": "好像是叫这个[呲牙]",
       "sender_name": "董佳鹭"
+    },
+    {
+      "create_time": 1765534794,
+      "formatted_time": "2025-12-12 18:19:54",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
-  "message_count": 99
+  "export_time": "2025-12-13T14:57:48+08:00",
+  "message_count": 100
 }

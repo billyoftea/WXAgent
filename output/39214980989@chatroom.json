@@ -6,7 +6,7 @@
       "create_time": 1703232355,
       "formatted_time": "2023-12-22 16:05:55",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "39214980989@chatroom",
       "sender_wxid": "39214980989@chatroom"
     },
@@ -38,14 +38,14 @@
       "create_time": 1703232500,
       "formatted_time": "2023-12-22 16:08:20",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
       "create_time": 1703232511,
       "formatted_time": "2023-12-22 16:08:31",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "谢晗雨",
       "sender_wxid": "wxid_rfwt9pno6w2522"
     },
@@ -101,7 +101,7 @@
       "create_time": 1703256291,
       "formatted_time": "2023-12-22 22:44:51",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "谢晗雨",
       "sender_wxid": "wxid_rfwt9pno6w2522"
     },
@@ -232,7 +232,7 @@
       "create_time": 1703323445,
       "formatted_time": "2023-12-23 17:24:05",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "罗江帆",
       "sender_wxid": "wxid_58zy01u3z21w12"
     },
@@ -376,7 +376,7 @@
       "create_time": 1703329276,
       "formatted_time": "2023-12-23 19:01:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "谢晗雨",
       "sender_wxid": "wxid_rfwt9pno6w2522"
     },
@@ -405,7 +405,7 @@
       "create_time": 1703329297,
       "formatted_time": "2023-12-23 19:01:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "谢晗雨",
       "sender_wxid": "wxid_rfwt9pno6w2522"
     },
@@ -425,7 +425,7 @@
       "create_time": 1703329367,
       "formatted_time": "2023-12-23 19:02:47",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "谢晗雨",
       "sender_wxid": "wxid_rfwt9pno6w2522"
     },
@@ -433,7 +433,7 @@
       "create_time": 1703329395,
       "formatted_time": "2023-12-23 19:03:15",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -500,6 +500,6 @@
       "sender": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:55+08:00",
   "message_count": 71
 }

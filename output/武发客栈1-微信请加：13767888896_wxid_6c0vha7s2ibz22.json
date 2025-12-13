@@ -27,14 +27,14 @@
       "create_time": 1694528236,
       "formatted_time": "2023-09-12 22:17:16",
       "type": "位置消息",
-      "str_content": "[????]",
+      "str_content": "[位置消息]",
       "sender_name": "武发客栈1-微信请加：13767888896"
     },
     {
       "create_time": 1694528252,
       "formatted_time": "2023-09-12 22:17:32",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "武发客栈1-微信请加：13767888896"
     },
     {
@@ -188,7 +188,7 @@
       "create_time": 1694610687,
       "formatted_time": "2023-09-13 21:11:27",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "武发客栈1-微信请加：13767888896"
     },
     {
@@ -237,7 +237,7 @@
       "create_time": 1694781053,
       "formatted_time": "2023-09-15 20:30:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "武发客栈1-微信请加：13767888896"
     },
     {
@@ -283,6 +283,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:56+08:00",
   "message_count": 40
 }

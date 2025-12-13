@@ -6,7 +6,7 @@
       "create_time": 1687961143,
       "formatted_time": "2023-06-28 22:05:43",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "李欣霖"
     },
     {
@@ -34,7 +34,7 @@
       "create_time": 1687961167,
       "formatted_time": "2023-06-28 22:06:07",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李欣霖"
     },
     {
@@ -195,7 +195,7 @@
       "create_time": 1687962242,
       "formatted_time": "2023-06-28 22:24:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李欣霖"
     },
     {
@@ -216,21 +216,21 @@
       "create_time": 1687962350,
       "formatted_time": "2023-06-28 22:25:50",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "李欣霖"
     },
     {
       "create_time": 1687962406,
       "formatted_time": "2023-06-28 22:26:46",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "李欣霖"
     },
     {
       "create_time": 1687962439,
       "formatted_time": "2023-06-28 22:27:19",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "李欣霖"
     },
     {
@@ -244,7 +244,7 @@
       "create_time": 1687962702,
       "formatted_time": "2023-06-28 22:31:42",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "李欣霖"
     },
     {
@@ -265,7 +265,7 @@
       "create_time": 1687962831,
       "formatted_time": "2023-06-28 22:33:51",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李欣霖"
     },
     {
@@ -276,6 +276,6 @@
       "sender_name": "李欣霖"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 39
 }

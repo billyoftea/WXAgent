@@ -13,7 +13,7 @@
       "create_time": 1761825052,
       "formatted_time": "2025-10-30 19:50:52",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "able 刘文轩"
     },
     {
@@ -48,7 +48,7 @@
       "create_time": 1761825582,
       "formatted_time": "2025-10-30 19:59:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -62,7 +62,7 @@
       "create_time": 1761825661,
       "formatted_time": "2025-10-30 20:01:01",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "able 刘文轩"
     },
     {
@@ -76,7 +76,7 @@
       "create_time": 1761827913,
       "formatted_time": "2025-10-30 20:38:33",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "able 刘文轩"
     },
     {
@@ -111,7 +111,7 @@
       "create_time": 1762228870,
       "formatted_time": "2025-11-04 12:01:10",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "able 刘文轩"
     },
     {
@@ -132,7 +132,7 @@
       "create_time": 1762229766,
       "formatted_time": "2025-11-04 12:16:06",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "able 刘文轩"
     },
     {
@@ -251,7 +251,7 @@
       "create_time": 1762418743,
       "formatted_time": "2025-11-06 16:45:43",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "able 刘文轩"
     },
     {
@@ -395,6 +395,6 @@
       "sender_name": "able 刘文轩"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
+  "export_time": "2025-12-13T14:57:48+08:00",
   "message_count": 56
 }

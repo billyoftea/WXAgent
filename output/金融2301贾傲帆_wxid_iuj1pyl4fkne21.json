@@ -6,7 +6,7 @@
       "create_time": 1731335221,
       "formatted_time": "2024-11-11 22:27:01",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "金融2301贾傲帆"
     },
     {
@@ -27,7 +27,7 @@
       "create_time": 1731337487,
       "formatted_time": "2024-11-11 23:04:47",
       "type": "名片消息",
-      "str_content": "[????]",
+      "str_content": "[名片消息]",
       "sender_name": "自己"
     },
     {
@@ -69,7 +69,7 @@
       "create_time": 1731337640,
       "formatted_time": "2024-11-11 23:07:20",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "金融2301贾傲帆"
     },
     {
@@ -223,7 +223,7 @@
       "create_time": 1749647246,
       "formatted_time": "2025-06-11 21:07:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -370,7 +370,7 @@
       "create_time": 1749721093,
       "formatted_time": "2025-06-12 17:38:13",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "金融2301贾傲帆"
     },
     {
@@ -559,7 +559,7 @@
       "create_time": 1749866056,
       "formatted_time": "2025-06-14 09:54:16",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -601,7 +601,7 @@
       "create_time": 1749870552,
       "formatted_time": "2025-06-14 11:09:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "金融2301贾傲帆"
     },
     {
@@ -811,7 +811,7 @@
       "create_time": 1750039376,
       "formatted_time": "2025-06-16 10:02:56",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "金融2301贾傲帆"
     },
     {
@@ -860,7 +860,7 @@
       "create_time": 1750040072,
       "formatted_time": "2025-06-16 10:14:32",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "金融2301贾傲帆"
     },
     {
@@ -1056,7 +1056,7 @@
       "create_time": 1750062190,
       "formatted_time": "2025-06-16 16:23:10",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "金融2301贾傲帆"
     },
     {
@@ -1070,7 +1070,7 @@
       "create_time": 1750062363,
       "formatted_time": "2025-06-16 16:26:03",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -1175,14 +1175,14 @@
       "create_time": 1750067923,
       "formatted_time": "2025-06-16 17:58:43",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "金融2301贾傲帆"
     },
     {
       "create_time": 1750067934,
       "formatted_time": "2025-06-16 17:58:54",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "金融2301贾傲帆"
     },
     {
@@ -1196,7 +1196,7 @@
       "create_time": 1750070401,
       "formatted_time": "2025-06-16 18:40:01",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "自己"
     },
     {
@@ -1350,7 +1350,7 @@
       "create_time": 1750159059,
       "formatted_time": "2025-06-17 19:17:39",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -1392,7 +1392,7 @@
       "create_time": 1750166557,
       "formatted_time": "2025-06-17 21:22:37",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "金融2301贾傲帆"
     },
     {
@@ -1483,10 +1483,10 @@
       "create_time": 1750394577,
       "formatted_time": "2025-06-20 12:42:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 212
 }

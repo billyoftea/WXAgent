@@ -182,12 +182,14 @@ class SummaryRunResult {
     required this.outputPath,
     required this.durationSeconds,
     required this.content,
+    this.mode,
+    this.chunkCount,
   });
 
   factory SummaryRunResult.fromJson(Map<String, dynamic> json) {
     return SummaryRunResult(
-      messages: _toInt(json['messages']) ?? 0,
-      sessions: _toInt(json['sessions']) ?? 0,
+      messages: _toInt(json['messages']) ?? _toInt(json['total_messages']) ?? 0,
+      sessions: _toInt(json['sessions']) ?? _toInt(json['total_sessions']) ?? 0,
       outputPath:
           (json['summary_file'] ??
                   json['summary_output'] ??
@@ -197,6 +199,8 @@ class SummaryRunResult {
               as String?,
       durationSeconds: _toInt(json['duration']) ?? 0,
       content: json['summary'] as String? ?? json['content'] as String? ?? '',
+      mode: json['mode'] as String?,
+      chunkCount: _toInt(json['chunk_count']),
     );
   }
 
@@ -205,6 +209,8 @@ class SummaryRunResult {
   final String? outputPath;
   final int durationSeconds;
   final String content;
+  final String? mode;
+  final int? chunkCount;
 }
 
 int? _toInt(dynamic value) {

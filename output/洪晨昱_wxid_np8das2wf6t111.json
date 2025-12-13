@@ -6,7 +6,7 @@
       "create_time": 1739754697,
       "formatted_time": "2025-02-17 09:11:37",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -69,7 +69,7 @@
       "create_time": 1745937845,
       "formatted_time": "2025-04-29 22:44:05",
       "type": "位置消息",
-      "str_content": "[????]",
+      "str_content": "[位置消息]",
       "sender_name": "自己"
     },
     {
@@ -90,7 +90,7 @@
       "create_time": 1745937937,
       "formatted_time": "2025-04-29 22:45:37",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "洪晨昱"
     },
     {
@@ -111,7 +111,7 @@
       "create_time": 1745937948,
       "formatted_time": "2025-04-29 22:45:48",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "洪晨昱"
     },
     {
@@ -216,21 +216,21 @@
       "create_time": 1750311105,
       "formatted_time": "2025-06-19 13:31:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "洪晨昱"
     },
     {
       "create_time": 1750327322,
       "formatted_time": "2025-06-19 18:02:02",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1750327324,
       "formatted_time": "2025-06-19 18:02:04",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -265,7 +265,7 @@
       "create_time": 1750327354,
       "formatted_time": "2025-06-19 18:02:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "洪晨昱"
     },
     {
@@ -297,6 +297,6 @@
       "sender_name": "洪晨昱"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 42
 }

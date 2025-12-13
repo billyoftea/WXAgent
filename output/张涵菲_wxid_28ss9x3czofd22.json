@@ -90,7 +90,7 @@
       "create_time": 1750075103,
       "formatted_time": "2025-06-16 19:58:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -153,7 +153,7 @@
       "create_time": 1750218252,
       "formatted_time": "2025-06-18 11:44:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "张涵菲"
     },
     {
@@ -181,7 +181,7 @@
       "create_time": 1750218358,
       "formatted_time": "2025-06-18 11:45:58",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "自己"
     },
     {
@@ -290,6 +290,6 @@
       "sender_name": "张涵菲"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 41
 }

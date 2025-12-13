@@ -6,7 +6,7 @@
       "create_time": 1748085223,
       "formatted_time": "2025-05-24 19:13:43",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "🀄️🀄️🀄️",
       "sender_wxid": "47437316186@chatroom"
     },
@@ -14,7 +14,7 @@
       "create_time": 1748085223,
       "formatted_time": "2025-05-24 19:13:43",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -30,7 +30,7 @@
       "create_time": 1748085240,
       "formatted_time": "2025-05-24 19:14:00",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "于子昂",
       "sender_wxid": "wxid_3fu1y0law74u12"
     },
@@ -46,7 +46,7 @@
       "create_time": 1748085273,
       "formatted_time": "2025-05-24 19:14:33",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "🀄️🀄️🀄️",
       "sender_wxid": "47437316186@chatroom"
     },
@@ -62,7 +62,7 @@
       "create_time": 1748086954,
       "formatted_time": "2025-05-24 19:42:34",
       "type": "位置消息",
-      "str_content": "[????]",
+      "str_content": "[位置消息]",
       "sender_name": "卢俊鑫",
       "sender_wxid": "wxid_b923wh89k34r21"
     },
@@ -78,7 +78,7 @@
       "create_time": 1748086958,
       "formatted_time": "2025-05-24 19:42:38",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -125,7 +125,7 @@
       "create_time": 1748086990,
       "formatted_time": "2025-05-24 19:43:10",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "于子昂",
       "sender_wxid": "wxid_3fu1y0law74u12"
     },
@@ -133,7 +133,7 @@
       "create_time": 1748086995,
       "formatted_time": "2025-05-24 19:43:15",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -157,7 +157,7 @@
       "create_time": 1748087508,
       "formatted_time": "2025-05-24 19:51:48",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -189,7 +189,7 @@
       "create_time": 1748088605,
       "formatted_time": "2025-05-24 20:10:05",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -277,7 +277,7 @@
       "create_time": 1748089481,
       "formatted_time": "2025-05-24 20:24:41",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "卢俊鑫",
       "sender_wxid": "wxid_b923wh89k34r21"
     },
@@ -347,7 +347,7 @@
       "create_time": 1748104078,
       "formatted_time": "2025-05-25 00:27:58",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -355,7 +355,7 @@
       "create_time": 1748104136,
       "formatted_time": "2025-05-25 00:28:56",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "卢俊鑫",
       "sender_wxid": "wxid_b923wh89k34r21"
     },
@@ -363,13 +363,13 @@
       "create_time": 1748104147,
       "formatted_time": "2025-05-25 00:29:07",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1748105414,
       "formatted_time": "2025-05-25 00:50:14",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "于子昂",
       "sender_wxid": "wxid_3fu1y0law74u12"
     },
@@ -385,7 +385,7 @@
       "create_time": 1748105444,
       "formatted_time": "2025-05-25 00:50:44",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -408,7 +408,7 @@
       "create_time": 1748105714,
       "formatted_time": "2025-05-25 00:55:14",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "卢俊鑫",
       "sender_wxid": "wxid_b923wh89k34r21"
     },
@@ -424,7 +424,7 @@
       "create_time": 1748105722,
       "formatted_time": "2025-05-25 00:55:22",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "卢俊鑫",
       "sender_wxid": "wxid_b923wh89k34r21"
     },
@@ -432,7 +432,7 @@
       "create_time": 1748105726,
       "formatted_time": "2025-05-25 00:55:26",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "卢俊鑫",
       "sender_wxid": "wxid_b923wh89k34r21"
     },
@@ -440,7 +440,7 @@
       "create_time": 1748105729,
       "formatted_time": "2025-05-25 00:55:29",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "卢俊鑫",
       "sender_wxid": "wxid_b923wh89k34r21"
     },
@@ -488,7 +488,7 @@
       "create_time": 1748145852,
       "formatted_time": "2025-05-25 12:04:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "于子昂",
       "sender_wxid": "wxid_3fu1y0law74u12"
     },
@@ -536,7 +536,7 @@
       "create_time": 1748146335,
       "formatted_time": "2025-05-25 12:12:15",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "于子昂",
       "sender_wxid": "wxid_3fu1y0law74u12"
     },
@@ -560,7 +560,7 @@
       "create_time": 1748146361,
       "formatted_time": "2025-05-25 12:12:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "于子昂",
       "sender_wxid": "wxid_3fu1y0law74u12"
     },
@@ -600,7 +600,7 @@
       "create_time": 1748146409,
       "formatted_time": "2025-05-25 12:13:29",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "于子昂",
       "sender_wxid": "wxid_3fu1y0law74u12"
     },
@@ -648,7 +648,7 @@
       "create_time": 1748146523,
       "formatted_time": "2025-05-25 12:15:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "卢俊鑫",
       "sender_wxid": "wxid_b923wh89k34r21"
     },
@@ -672,7 +672,7 @@
       "create_time": 1748149406,
       "formatted_time": "2025-05-25 13:03:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "于子昂",
       "sender_wxid": "wxid_3fu1y0law74u12"
     },
@@ -856,7 +856,7 @@
       "create_time": 1748153879,
       "formatted_time": "2025-05-25 14:17:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "于子昂",
       "sender_wxid": "wxid_3fu1y0law74u12"
     },
@@ -909,6 +909,6 @@
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 114
 }

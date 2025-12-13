@@ -22,7 +22,7 @@
       "create_time": 1702987026,
       "formatted_time": "2023-12-19 19:57:06",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "wxid_5564125641011",
       "sender_wxid": "wxid_5564125641011"
     },
@@ -38,7 +38,7 @@
       "create_time": 1702988161,
       "formatted_time": "2023-12-19 20:16:01",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "whr1226",
       "sender_wxid": "wxid_l3xmfipfb51622"
     },
@@ -94,7 +94,7 @@
       "create_time": 1705300655,
       "formatted_time": "2024-01-15 14:37:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李坤",
       "sender_wxid": "wxid_sd28p7pamp6622"
     },
@@ -102,7 +102,7 @@
       "create_time": 1705300977,
       "formatted_time": "2024-01-15 14:42:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "🛩Joe",
       "sender_wxid": "wxid_9099040990712"
     },
@@ -181,7 +181,7 @@
       "create_time": 1709267930,
       "formatted_time": "2024-03-01 12:38:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Valerio",
       "sender_wxid": "wxid_lncf0wxr2c0d22"
     },
@@ -189,7 +189,7 @@
       "create_time": 1709267946,
       "formatted_time": "2024-03-01 12:39:06",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "🛩Joe",
       "sender_wxid": "wxid_9099040990712"
     },
@@ -213,7 +213,7 @@
       "create_time": 1709267976,
       "formatted_time": "2024-03-01 12:39:36",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "🛩Joe",
       "sender_wxid": "wxid_9099040990712"
     },
@@ -229,7 +229,7 @@
       "create_time": 1709269958,
       "formatted_time": "2024-03-01 13:12:38",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1709269979,
@@ -251,7 +251,7 @@
       "create_time": 1709270664,
       "formatted_time": "2024-03-01 13:24:24",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1709273148,
@@ -297,7 +297,7 @@
       "create_time": 1711630884,
       "formatted_time": "2024-03-28 21:01:24",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "夏梓奇",
       "sender_wxid": "wxid_kcjovtfyuqsr12"
     },
@@ -313,7 +313,7 @@
       "create_time": 1711689552,
       "formatted_time": "2024-03-29 13:19:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "joki妹",
       "sender_wxid": "wxid_4wlwvlv6utxr22"
     },
@@ -345,7 +345,7 @@
       "create_time": 1717302150,
       "formatted_time": "2024-06-02 12:22:30",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1717302158,
@@ -372,6 +372,6 @@
       "sender_wxid": "wxid_brm4y2ajdqyt22"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 47
 }

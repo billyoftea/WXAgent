@@ -6,13 +6,13 @@
       "create_time": 1761285467,
       "formatted_time": "2025-10-24 13:57:47",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761285976,
       "formatted_time": "2025-10-24 14:06:16",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "PKUBA研究部 2025-2026",
       "sender_wxid": "26674914766@chatroom"
     },
@@ -20,7 +20,7 @@
       "create_time": 1761286895,
       "formatted_time": "2025-10-24 14:21:35",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "PKUBA研究部 2025-2026",
       "sender_wxid": "26674914766@chatroom"
     },
@@ -28,7 +28,7 @@
       "create_time": 1761290511,
       "formatted_time": "2025-10-24 15:21:51",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "PKUBA研究部 2025-2026",
       "sender_wxid": "26674914766@chatroom"
     },
@@ -36,7 +36,7 @@
       "create_time": 1761293847,
       "formatted_time": "2025-10-24 16:17:27",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "PKUBA研究部 2025-2026",
       "sender_wxid": "26674914766@chatroom"
     },
@@ -44,13 +44,13 @@
       "create_time": 1761297950,
       "formatted_time": "2025-10-24 17:25:50",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761357291,
       "formatted_time": "2025-10-25 09:54:51",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "PKUBA研究部 2025-2026",
       "sender_wxid": "26674914766@chatroom"
     },
@@ -58,7 +58,7 @@
       "create_time": 1761395533,
       "formatted_time": "2025-10-25 20:32:13",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "PKUBA研究部 2025-2026",
       "sender_wxid": "26674914766@chatroom"
     },
@@ -66,7 +66,7 @@
       "create_time": 1761403510,
       "formatted_time": "2025-10-25 22:45:10",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "PKUBA研究部 2025-2026",
       "sender_wxid": "26674914766@chatroom"
     },
@@ -74,7 +74,7 @@
       "create_time": 1761527442,
       "formatted_time": "2025-10-27 09:10:42",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "PKUBA研究部 2025-2026",
       "sender_wxid": "26674914766@chatroom"
     },
@@ -114,7 +114,7 @@
       "create_time": 1761554961,
       "formatted_time": "2025-10-27 16:49:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Alan",
       "sender_wxid": "wxid_4kzhhqwzvbvc22"
     },
@@ -138,7 +138,7 @@
       "create_time": 1761556212,
       "formatted_time": "2025-10-27 17:10:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许安",
       "sender_wxid": "wxid_sjyae41gw5dl22"
     },
@@ -146,19 +146,19 @@
       "create_time": 1761713409,
       "formatted_time": "2025-10-29 12:50:09",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761713986,
       "formatted_time": "2025-10-29 12:59:46",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761721003,
       "formatted_time": "2025-10-29 14:56:43",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761823379,
@@ -180,7 +180,7 @@
       "create_time": 1761890543,
       "formatted_time": "2025-10-31 14:02:23",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761972582,
@@ -734,6 +734,6 @@
       "str_content": "gtf511:\n#接龙\n【Rwa/稳定币】\n例 姓名\n\n1. Owen+光华\n2. gn 经院\n3. 许安+国发院\n4. 黄喆 城环\n5. 郭钰 国发院\n6. 莫骏杰 国发院\n7. 张可欣 汇丰\n8. 于海岩 光华\n9. 朱莉\n10. 邓文争 国发院\n11. 袁睿婷\n12. CC\n13. 谷田丰 力工\n\n- - - - - - - - - - - -"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
+  "export_time": "2025-12-13T14:57:47+08:00",
   "message_count": 96
 }

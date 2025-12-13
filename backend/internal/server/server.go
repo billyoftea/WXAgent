@@ -33,9 +33,18 @@ func (s *Server) routes() {
 	s.mux.HandleFunc("/refresh-key", s.handleRefreshKey)
 	s.mux.HandleFunc("/wx-key/launch", s.handleLaunchWxKey)
 	s.mux.HandleFunc("/export", s.handleExport)
+	s.mux.HandleFunc("/export/states", s.handleExportStates)
 	s.mux.HandleFunc("/full-refresh", s.handleFullRefresh)
 	s.mux.HandleFunc("/sessions", s.handleListSessions)
+	s.mux.HandleFunc("/sessions/describe", s.handleDescribeSession)
 	s.mux.HandleFunc("/summary/run", s.handleRunSummary)
+	s.mux.HandleFunc("/summary/history", s.handleSummaryHistory)
+	s.mux.HandleFunc("/summary/history/content", s.handleSummaryHistoryContent)
+	s.mux.HandleFunc("/summary/export", s.handleExportFiltered)
+	s.mux.HandleFunc("/config", s.handleConfig)
+	s.mux.HandleFunc("/config/reload", s.handleConfigReload)
+	s.mux.HandleFunc("/llm/test", s.handleTestLLM)
+	s.mux.HandleFunc("/analysis/sessions", s.handleAnalyzeSessions)
 }
 
 func (s *Server) handleHealth(w http.ResponseWriter, r *http.Request) {
@@ -182,6 +191,9 @@ type SummarizeRequest struct {
 	Incremental  bool     `json:"incremental"`
 	Questions    []string `json:"questions"`
 	SaveMarkdown bool     `json:"save_markdown"`
+	Mode         string   `json:"mode"`     // "merged" (跨会话合并) 或 "per_session" (逐会话)
+	Sessions     []string `json:"sessions"` // 可选：指定会话列表
+	MaxTokens    int      `json:"max_tokens"`
 }
 
 func (s *Server) handleRunSummary(w http.ResponseWriter, r *http.Request) {
@@ -196,20 +208,43 @@ func (s *Server) handleRunSummary(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	// Default incremental to true if not specified?
-	// Actually bool defaults to false, but Python defaults to True.
-	// We might need a pointer or custom unmarshal to detect presence.
-	// For now, let's assume client sends it explicitly or we default to true if logic dictates.
-	// But here false is the zero value. Let's check if we can handle it.
-	// In Python: incremental: bool = True.
-	// So if client omits it, it should be true.
-	// But standard JSON unmarshal will make it false.
-	// Let's use a map to check presence or just assume false means false (full export).
-	// Wait, usually "incremental" means "only new stuff".
-	// If I want default True, I should set it before decoding if I decode into a struct with defaults,
-	// but json.Decode overwrites.
-	// Let's just use the value as is for now, assuming the client (Flutter) sends it.
+	// 默认使用 merged 模式（跨会话合并分析）
+	if req.Mode == "" || req.Mode == "merged" {
+		// 使用跨会话合并分析
+		log.Println("🔍 使用跨会话合并分析模式...")
 
+		// 设置默认 MaxTokens
+		maxTokens := req.MaxTokens
+		if maxTokens == 0 {
+			maxTokens = 80000 // DeepSeek 支持 128K，设置 80K 留余量
+		}
+
+		result, err := s.pipeline.AnalyzeChat(req.StartDate, req.EndDate, req.Sessions, maxTokens, "")
+		if err != nil {
+			log.Printf("❌ 跨会话分析失败: %v", err)
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			return
+		}
+
+		log.Printf("✅ 跨会话分析完成: %d 条消息, %d 个会话, %d 个分段",
+			result.TotalMessages, result.TotalSessions, result.ChunkCount)
+
+		// 返回与前端兼容的格式
+		jsonResponse(w, map[string]any{
+			"status":         "success",
+			"mode":           "merged",
+			"content":        result.FinalSummary,
+			"output_path":    result.OutputFile,
+			"total_messages": result.TotalMessages,
+			"total_sessions": result.TotalSessions,
+			"chunk_count":    result.ChunkCount,
+			"summaries":      result.Summaries,
+		})
+		return
+	}
+
+	// per_session 模式：逐会话分析（原有逻辑）
+	log.Println("📝 使用逐会话分析模式...")
 	res, err := s.pipeline.RunSummary(req.StartDate, req.EndDate, req.Incremental, req.Questions)
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
@@ -224,4 +259,188 @@ func jsonResponse(w http.ResponseWriter, data any) {
 	if err := json.NewEncoder(w).Encode(data); err != nil {
 		log.Printf("Error encoding response: %v", err)
 	}
+}
+
+func (s *Server) handleExportStates(w http.ResponseWriter, r *http.Request) {
+	sessions, err := s.pipeline.ListExportStates()
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+	jsonResponse(w, map[string]any{"data": sessions})
+}
+
+func (s *Server) handleDescribeSession(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodPost {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	var req struct {
+		File      string `json:"file"`
+		StartDate string `json:"start_date"`
+		EndDate   string `json:"end_date"`
+	}
+	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		return
+	}
+
+	result, err := s.pipeline.DescribeSession(req.File, req.StartDate, req.EndDate)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+	jsonResponse(w, result)
+}
+
+func (s *Server) handleSummaryHistory(w http.ResponseWriter, r *http.Request) {
+	limit := 50
+	if limitStr := r.URL.Query().Get("limit"); limitStr != "" {
+		if n, err := json.Number(limitStr).Int64(); err == nil {
+			limit = int(n)
+		}
+	}
+
+	history, err := s.pipeline.ListSummaryHistory(limit)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+	jsonResponse(w, map[string]any{"data": history})
+}
+
+func (s *Server) handleSummaryHistoryContent(w http.ResponseWriter, r *http.Request) {
+	path := r.URL.Query().Get("path")
+	if path == "" {
+		http.Error(w, "path parameter required", http.StatusBadRequest)
+		return
+	}
+
+	content, err := s.pipeline.ReadSummaryHistory(path)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+	jsonResponse(w, map[string]any{"content": content})
+}
+
+func (s *Server) handleExportFiltered(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodPost {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	var req struct {
+		Selected   []string `json:"selected"`
+		Files      []string `json:"files"`
+		StartDate  string   `json:"start_date"`
+		EndDate    string   `json:"end_date"`
+		OutputDir  string   `json:"output_dir"`
+		SingleFile bool     `json:"single_file"`
+	}
+	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		return
+	}
+
+	result, err := s.pipeline.ExportFiltered(req.Selected, req.Files, req.StartDate, req.EndDate, req.OutputDir, req.SingleFile)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+	jsonResponse(w, result)
+}
+
+func (s *Server) handleConfig(w http.ResponseWriter, r *http.Request) {
+	switch r.Method {
+	case http.MethodGet:
+		config := s.pipeline.GetConfig()
+		jsonResponse(w, config)
+	case http.MethodPut:
+		var req struct {
+			Values map[string]any `json:"values"`
+		}
+		if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+			http.Error(w, err.Error(), http.StatusBadRequest)
+			return
+		}
+		result, err := s.pipeline.UpdateConfig(req.Values)
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			return
+		}
+		jsonResponse(w, result)
+	default:
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+	}
+}
+
+func (s *Server) handleConfigReload(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodPost {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	result, err := s.pipeline.ReloadConfig()
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+	jsonResponse(w, result)
+}
+
+func (s *Server) handleTestLLM(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodPost {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	var req struct {
+		BaseURL string `json:"base_url"`
+		Model   string `json:"model"`
+		APIKey  string `json:"api_key"`
+	}
+	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		return
+	}
+
+	result, err := s.pipeline.TestLLM(req.BaseURL, req.Model, req.APIKey)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+	jsonResponse(w, result)
+}
+
+type AnalyzeSessionsRequest struct {
+	StartDate    string   `json:"start_date"`
+	EndDate      string   `json:"end_date"`
+	TopN         int      `json:"top_n"`
+	SessionTypes []string `json:"session_types"`
+}
+
+func (s *Server) handleAnalyzeSessions(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodPost {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	var req AnalyzeSessionsRequest
+	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		return
+	}
+
+	if req.TopN == 0 {
+		req.TopN = 10
+	}
+
+	result, err := s.pipeline.AnalyzeSessions(req.StartDate, req.EndDate, req.TopN, req.SessionTypes)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+	jsonResponse(w, result)
 }

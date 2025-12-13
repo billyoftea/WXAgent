@@ -69,7 +69,7 @@
       "create_time": 1761652834,
       "formatted_time": "2025-10-28 20:00:34",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -209,7 +209,7 @@
       "create_time": 1764246065,
       "formatted_time": "2025-11-27 20:21:05",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "自己"
     },
     {
@@ -237,7 +237,7 @@
       "create_time": 1764247650,
       "formatted_time": "2025-11-27 20:47:30",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "吴承楷"
     },
     {
@@ -251,10 +251,10 @@
       "create_time": 1764736146,
       "formatted_time": "2025-12-03 12:29:06",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "吴承楷"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
+  "export_time": "2025-12-13T14:57:48+08:00",
   "message_count": 36
 }

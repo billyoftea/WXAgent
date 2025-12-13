@@ -6,7 +6,7 @@
       "create_time": 1720257931,
       "formatted_time": "2024-07-06 17:25:31",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "丛雨君"
     },
     {
@@ -48,7 +48,7 @@
       "create_time": 1720276834,
       "formatted_time": "2024-07-06 22:40:34",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "丛雨君"
     },
     {
@@ -73,6 +73,6 @@
       "sender_name": "丛雨君"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 10
 }

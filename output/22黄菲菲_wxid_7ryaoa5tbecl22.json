@@ -76,14 +76,14 @@
       "create_time": 1700921006,
       "formatted_time": "2023-11-25 22:03:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1700921007,
       "formatted_time": "2023-11-25 22:03:27",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -216,7 +216,7 @@
       "create_time": 1700921358,
       "formatted_time": "2023-11-25 22:09:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -237,7 +237,7 @@
       "create_time": 1700921466,
       "formatted_time": "2023-11-25 22:11:06",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -272,7 +272,7 @@
       "create_time": 1700923569,
       "formatted_time": "2023-11-25 22:46:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -377,7 +377,7 @@
       "create_time": 1701751966,
       "formatted_time": "2023-12-05 12:52:46",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "22黄菲菲"
     },
     {
@@ -430,6 +430,6 @@
       "sender_name": "22黄菲菲"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 61
 }

@@ -48,7 +48,7 @@
       "create_time": 1657512390,
       "formatted_time": "2022-07-11 12:06:30",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "刘心雨2020010527"
     },
     {
@@ -90,14 +90,14 @@
       "create_time": 1657512481,
       "formatted_time": "2022-07-11 12:08:01",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "自己"
     },
     {
       "create_time": 1657512502,
       "formatted_time": "2022-07-11 12:08:22",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "刘心雨2020010527"
     },
     {
@@ -118,7 +118,7 @@
       "create_time": 1657512510,
       "formatted_time": "2022-07-11 12:08:30",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "自己"
     },
     {
@@ -139,14 +139,14 @@
       "create_time": 1657512523,
       "formatted_time": "2022-07-11 12:08:43",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1658913602,
       "formatted_time": "2022-07-27 17:20:02",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "自己"
     },
     {
@@ -160,7 +160,7 @@
       "create_time": 1658928069,
       "formatted_time": "2022-07-27 21:21:09",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "刘心雨2020010527"
     },
     {
@@ -185,6 +185,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 26
 }

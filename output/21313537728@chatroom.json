@@ -6,7 +6,7 @@
       "create_time": 1667886167,
       "formatted_time": "2022-11-08 13:42:47",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -22,7 +22,7 @@
       "create_time": 1667886177,
       "formatted_time": "2022-11-08 13:42:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -38,7 +38,7 @@
       "create_time": 1667887939,
       "formatted_time": "2022-11-08 14:12:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -54,7 +54,7 @@
       "create_time": 1667895831,
       "formatted_time": "2022-11-08 16:23:51",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -102,7 +102,7 @@
       "create_time": 1667895858,
       "formatted_time": "2022-11-08 16:24:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -131,6 +131,6 @@
       "sender_wxid": "wxid_39vjml2fnhp22"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:56+08:00",
   "message_count": 16
 }

@@ -6,7 +6,7 @@
       "create_time": 1703084991,
       "formatted_time": "2023-12-20 23:09:51",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "管院大创",
       "sender_wxid": "43559315659@chatroom"
     },
@@ -14,7 +14,7 @@
       "create_time": 1703084991,
       "formatted_time": "2023-12-20 23:09:51",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -30,14 +30,14 @@
       "create_time": 1703085033,
       "formatted_time": "2023-12-20 23:10:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
       "create_time": 1703085058,
       "formatted_time": "2023-12-20 23:10:58",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "管院大创",
       "sender_wxid": "43559315659@chatroom"
     },
@@ -53,7 +53,7 @@
       "create_time": 1703085073,
       "formatted_time": "2023-12-20 23:11:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "任彦同",
       "sender_wxid": "wxid_4wm6w890ab3822"
     },
@@ -132,7 +132,7 @@
       "create_time": 1703085432,
       "formatted_time": "2023-12-20 23:17:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "苏睿贤",
       "sender_wxid": "wxid_tqhv6106kjfg22"
     },
@@ -195,7 +195,7 @@
       "create_time": 1703085705,
       "formatted_time": "2023-12-20 23:21:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -225,7 +225,7 @@
       "create_time": 1703085821,
       "formatted_time": "2023-12-20 23:23:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "任彦同",
       "sender_wxid": "wxid_4wm6w890ab3822"
     },
@@ -289,7 +289,7 @@
       "create_time": 1703144459,
       "formatted_time": "2023-12-21 15:40:59",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "管院大创",
       "sender_wxid": "43559315659@chatroom"
     },
@@ -297,13 +297,13 @@
       "create_time": 1703144459,
       "formatted_time": "2023-12-21 15:40:59",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1703144465,
       "formatted_time": "2023-12-21 15:41:05",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -323,7 +323,7 @@
       "create_time": 1703147141,
       "formatted_time": "2023-12-21 16:25:41",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1703147366,
@@ -420,6 +420,6 @@
       "sender_wxid": "wxid_tqhv6106kjfg22"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 57
 }

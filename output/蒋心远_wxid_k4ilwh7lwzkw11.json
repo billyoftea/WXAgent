@@ -6,7 +6,7 @@
       "create_time": 1761719995,
       "formatted_time": "2025-10-29 14:39:55",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -20,7 +20,7 @@
       "create_time": 1761720016,
       "formatted_time": "2025-10-29 14:40:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远"
     },
     {
@@ -34,7 +34,7 @@
       "create_time": 1761720031,
       "formatted_time": "2025-10-29 14:40:31",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -48,7 +48,7 @@
       "create_time": 1762176669,
       "formatted_time": "2025-11-03 21:31:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远"
     },
     {
@@ -146,14 +146,14 @@
       "create_time": 1762403356,
       "formatted_time": "2025-11-06 12:29:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1762403401,
       "formatted_time": "2025-11-06 12:30:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远"
     },
     {
@@ -181,7 +181,7 @@
       "create_time": 1762525786,
       "formatted_time": "2025-11-07 22:29:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远"
     },
     {
@@ -244,7 +244,7 @@
       "create_time": 1762525834,
       "formatted_time": "2025-11-07 22:30:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远"
     },
     {
@@ -279,7 +279,7 @@
       "create_time": 1762525920,
       "formatted_time": "2025-11-07 22:32:00",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远"
     },
     {
@@ -496,7 +496,7 @@
       "create_time": 1762526174,
       "formatted_time": "2025-11-07 22:36:14",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远"
     },
     {
@@ -545,10 +545,80 @@
       "create_time": 1762534774,
       "formatted_time": "2025-11-08 00:59:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远"
+    },
+    {
+      "create_time": 1765270383,
+      "formatted_time": "2025-12-09 16:53:03",
+      "type": "文本消息",
+      "str_content": "诶，董佳鹭和吴江铭现在到底是啥情况",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765270387,
+      "formatted_time": "2025-12-09 16:53:07",
+      "type": "文本消息",
+      "str_content": "他俩可以见面不",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765270407,
+      "formatted_time": "2025-12-09 16:53:27",
+      "type": "文本消息",
+      "str_content": "应该是没什么情况但是也不太想见面的关系",
+      "sender_name": "蒋心远"
+    },
+    {
+      "create_time": 1765270413,
+      "formatted_time": "2025-12-09 16:53:33",
+      "type": "文本消息",
+      "str_content": "董佳鹭肯定不想见",
+      "sender_name": "蒋心远"
+    },
+    {
+      "create_time": 1765270421,
+      "formatted_time": "2025-12-09 16:53:41",
+      "type": "文本消息",
+      "str_content": "[捂脸][捂脸]哈哈明白",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765270423,
+      "formatted_time": "2025-12-09 16:53:43",
+      "type": "文本消息",
+      "str_content": "但是你硬要拉估计也不会怎么样",
+      "sender_name": "蒋心远"
+    },
+    {
+      "create_time": 1765270446,
+      "formatted_time": "2025-12-09 16:54:06",
+      "type": "文本消息",
+      "str_content": "董佳鹭说毕业的时候wjm微信找她想跟她合照",
+      "sender_name": "蒋心远"
+    },
+    {
+      "create_time": 1765270453,
+      "formatted_time": "2025-12-09 16:54:13",
+      "type": "文本消息",
+      "str_content": "她理都没理",
+      "sender_name": "蒋心远"
+    },
+    {
+      "create_time": 1765270527,
+      "formatted_time": "2025-12-09 16:55:27",
+      "type": "文本消息",
+      "str_content": "[撇嘴]",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765270528,
+      "formatted_time": "2025-12-09 16:55:28",
+      "type": "文本消息",
+      "str_content": "omg",
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
-  "message_count": 78
+  "export_time": "2025-12-13T14:57:47+08:00",
+  "message_count": 88
 }

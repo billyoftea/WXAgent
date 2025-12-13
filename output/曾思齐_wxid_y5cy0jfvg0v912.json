@@ -6,7 +6,7 @@
       "create_time": 1670485682,
       "formatted_time": "2022-12-08 15:48:02",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -69,7 +69,7 @@
       "create_time": 1670485741,
       "formatted_time": "2022-12-08 15:49:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -90,7 +90,7 @@
       "create_time": 1670485764,
       "formatted_time": "2022-12-08 15:49:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "曾思齐"
     },
     {
@@ -132,21 +132,21 @@
       "create_time": 1670485793,
       "formatted_time": "2022-12-08 15:49:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1670488814,
       "formatted_time": "2022-12-08 16:40:14",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1670488815,
       "formatted_time": "2022-12-08 16:40:15",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -174,7 +174,7 @@
       "create_time": 1670507963,
       "formatted_time": "2022-12-08 21:59:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "曾思齐"
     },
     {
@@ -202,7 +202,7 @@
       "create_time": 1684059899,
       "formatted_time": "2023-05-14 18:24:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "曾思齐"
     },
     {
@@ -241,6 +241,6 @@
       "sender_name": "曾思齐"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 34
 }

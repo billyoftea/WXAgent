@@ -1,0 +1,646 @@
+{
+  "session_id": "54549509316@chatroom",
+  "session_name": "54549509316@chatroom",
+  "messages": [
+    {
+      "create_time": 1765281252,
+      "formatted_time": "2025-12-09 19:54:12",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765281259,
+      "formatted_time": "2025-12-09 19:54:19",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765281264,
+      "formatted_time": "2025-12-09 19:54:24",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765282254,
+      "formatted_time": "2025-12-09 20:10:54",
+      "type": "文本消息",
+      "str_content": "2手",
+      "sender_name": "伊森",
+      "sender_wxid": "wxid_c3558as1icno21"
+    },
+    {
+      "create_time": 1765282261,
+      "formatted_time": "2025-12-09 20:11:01",
+      "type": "文本消息",
+      "str_content": "2手",
+      "sender_name": "潘逊",
+      "sender_wxid": "wxid_j04v5i2j69di12"
+    },
+    {
+      "create_time": 1765282261,
+      "formatted_time": "2025-12-09 20:11:01",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "sender_name": "54549509316@chatroom",
+      "sender_wxid": "54549509316@chatroom"
+    },
+    {
+      "create_time": 1765282277,
+      "formatted_time": "2025-12-09 20:11:17",
+      "type": "文本消息",
+      "str_content": "2手",
+      "sender_name": "夏炎",
+      "sender_wxid": "wxid_rkwsv2keqk9122"
+    },
+    {
+      "create_time": 1765282285,
+      "formatted_time": "2025-12-09 20:11:25",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765282801,
+      "formatted_time": "2025-12-09 20:20:01",
+      "type": "文本消息",
+      "str_content": "2手",
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765283323,
+      "formatted_time": "2025-12-09 20:28:43",
+      "type": "引用消息",
+      "str_content": "3手",
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765283638,
+      "formatted_time": "2025-12-09 20:33:58",
+      "type": "引用消息",
+      "str_content": "3手",
+      "sender_name": "伊森",
+      "sender_wxid": "wxid_c3558as1icno21"
+    },
+    {
+      "create_time": 1765283655,
+      "formatted_time": "2025-12-09 20:34:15",
+      "type": "文本消息",
+      "str_content": "2手",
+      "sender_name": "25MBA黄治源",
+      "sender_wxid": "wxid_55hex3otj31612"
+    },
+    {
+      "create_time": 1765283659,
+      "formatted_time": "2025-12-09 20:34:19",
+      "type": "引用消息",
+      "str_content": "4手",
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765284359,
+      "formatted_time": "2025-12-09 20:45:59",
+      "type": "文本消息",
+      "str_content": "两手",
+      "sender_name": "张义阳",
+      "sender_wxid": "wxid_sso5dm5pseu022"
+    },
+    {
+      "create_time": 1765284541,
+      "formatted_time": "2025-12-09 20:49:01",
+      "type": "文本消息",
+      "str_content": "借@傅圣智 1手",
+      "sender_name": "张义阳",
+      "sender_wxid": "wxid_sso5dm5pseu022"
+    },
+    {
+      "create_time": 1765284570,
+      "formatted_time": "2025-12-09 20:49:30",
+      "type": "引用消息",
+      "str_content": "4手",
+      "sender_name": "伊森",
+      "sender_wxid": "wxid_c3558as1icno21"
+    },
+    {
+      "create_time": 1765285278,
+      "formatted_time": "2025-12-09 21:01:18",
+      "type": "引用消息",
+      "str_content": "5手",
+      "sender_name": "伊森",
+      "sender_wxid": "wxid_c3558as1icno21"
+    },
+    {
+      "create_time": 1765285481,
+      "formatted_time": "2025-12-09 21:04:41",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765285559,
+      "formatted_time": "2025-12-09 21:05:59",
+      "type": "引用消息",
+      "str_content": "6手",
+      "sender_name": "伊森",
+      "sender_wxid": "wxid_c3558as1icno21"
+    },
+    {
+      "create_time": 1765285570,
+      "formatted_time": "2025-12-09 21:06:10",
+      "type": "文本消息",
+      "str_content": "3手",
+      "sender_name": "夏炎",
+      "sender_wxid": "wxid_rkwsv2keqk9122"
+    },
+    {
+      "create_time": 1765285768,
+      "formatted_time": "2025-12-09 21:09:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765285905,
+      "formatted_time": "2025-12-09 21:11:45",
+      "type": "文本消息",
+      "str_content": "4手",
+      "sender_name": "夏炎",
+      "sender_wxid": "wxid_rkwsv2keqk9122"
+    },
+    {
+      "create_time": 1765286179,
+      "formatted_time": "2025-12-09 21:16:19",
+      "type": "文本消息",
+      "str_content": "3手",
+      "sender_name": "张义阳",
+      "sender_wxid": "wxid_sso5dm5pseu022"
+    },
+    {
+      "create_time": 1765286270,
+      "formatted_time": "2025-12-09 21:17:50",
+      "type": "文本消息",
+      "str_content": "1手",
+      "sender_name": "潘逊",
+      "sender_wxid": "wxid_j04v5i2j69di12"
+    },
+    {
+      "create_time": 1765287075,
+      "formatted_time": "2025-12-09 21:31:15",
+      "type": "文本消息",
+      "str_content": "4手",
+      "sender_name": "张义阳",
+      "sender_wxid": "wxid_sso5dm5pseu022"
+    },
+    {
+      "create_time": 1765287310,
+      "formatted_time": "2025-12-09 21:35:10",
+      "type": "引用消息",
+      "str_content": "水上9.5",
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765287316,
+      "formatted_time": "2025-12-09 21:35:16",
+      "type": "文本消息",
+      "str_content": "666",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765287399,
+      "formatted_time": "2025-12-09 21:36:39",
+      "type": "文本消息",
+      "str_content": "[旺柴]",
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765287413,
+      "formatted_time": "2025-12-09 21:36:53",
+      "type": "文本消息",
+      "str_content": "从借3手到水上950",
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765287414,
+      "formatted_time": "2025-12-09 21:36:54",
+      "type": "文本消息",
+      "str_content": "怎么说",
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765287450,
+      "formatted_time": "2025-12-09 21:37:30",
+      "type": "文本消息",
+      "str_content": "不愧是深港的人",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765287454,
+      "formatted_time": "2025-12-09 21:37:34",
+      "type": "文本消息",
+      "str_content": "博雅的输多少了",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765287488,
+      "formatted_time": "2025-12-09 21:38:08",
+      "type": "文本消息",
+      "str_content": "我们今晚完胜博雅",
+      "sender_name": "程泓钦 25金投",
+      "sender_wxid": "wxid_w22jpykr9am222"
+    },
+    {
+      "create_time": 1765287527,
+      "formatted_time": "2025-12-09 21:38:47",
+      "type": "文本消息",
+      "str_content": "博雅的人跑了",
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765287543,
+      "formatted_time": "2025-12-09 21:39:03",
+      "type": "文本消息",
+      "str_content": "博雅1v3大水上还不够有说法嘛",
+      "sender_name": "莫孜晗",
+      "sender_wxid": "wxid_951jqdhhbgbm22"
+    },
+    {
+      "create_time": 1765287563,
+      "formatted_time": "2025-12-09 21:39:23",
+      "type": "文本消息",
+      "str_content": "水上率100%",
+      "sender_name": "莫孜晗",
+      "sender_wxid": "wxid_951jqdhhbgbm22"
+    },
+    {
+      "create_time": 1765287586,
+      "formatted_time": "2025-12-09 21:39:46",
+      "type": "拍一拍消息",
+      "str_content": "[拍一拍]"
+    },
+    {
+      "create_time": 1765287587,
+      "formatted_time": "2025-12-09 21:39:47",
+      "type": "文本消息",
+      "str_content": "这个才是真输了跑的",
+      "sender_name": "莫孜晗",
+      "sender_wxid": "wxid_951jqdhhbgbm22"
+    },
+    {
+      "create_time": 1765287595,
+      "formatted_time": "2025-12-09 21:39:55",
+      "type": "文本消息",
+      "str_content": "[吃瓜][吃瓜]",
+      "sender_name": "莫孜晗",
+      "sender_wxid": "wxid_951jqdhhbgbm22"
+    },
+    {
+      "create_time": 1765287619,
+      "formatted_time": "2025-12-09 21:40:19",
+      "type": "文本消息",
+      "str_content": "[旺柴][旺柴]港会",
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765287629,
+      "formatted_time": "2025-12-09 21:40:29",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765287642,
+      "formatted_time": "2025-12-09 21:40:42",
+      "type": "引用消息",
+      "str_content": "感谢深港会长的红包",
+      "sender_name": "莫孜晗",
+      "sender_wxid": "wxid_951jqdhhbgbm22"
+    },
+    {
+      "create_time": 1765287663,
+      "formatted_time": "2025-12-09 21:41:03",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765287846,
+      "formatted_time": "2025-12-09 21:44:06",
+      "type": "引用消息",
+      "str_content": "这是多少",
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765287858,
+      "formatted_time": "2025-12-09 21:44:18",
+      "type": "文本消息",
+      "str_content": "他发了9个包...",
+      "sender_name": "莫孜晗",
+      "sender_wxid": "wxid_951jqdhhbgbm22"
+    },
+    {
+      "create_time": 1765287874,
+      "formatted_time": "2025-12-09 21:44:34",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765287881,
+      "formatted_time": "2025-12-09 21:44:41",
+      "type": "文本消息",
+      "str_content": "哦哦哦",
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765287901,
+      "formatted_time": "2025-12-09 21:45:01",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765287909,
+      "formatted_time": "2025-12-09 21:45:09",
+      "type": "文本消息",
+      "str_content": "忙昏了，这是一个包",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765287931,
+      "formatted_time": "2025-12-09 21:45:31",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765287943,
+      "formatted_time": "2025-12-09 21:45:43",
+      "type": "文本消息",
+      "str_content": "我先领为敬",
+      "sender_name": "程泓钦 25金投",
+      "sender_wxid": "wxid_w22jpykr9am222"
+    },
+    {
+      "create_time": 1765287973,
+      "formatted_time": "2025-12-09 21:46:13",
+      "type": "引用消息",
+      "str_content": "博雅会长的格局值一毛七",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765287995,
+      "formatted_time": "2025-12-09 21:46:35",
+      "type": "文本消息",
+      "str_content": "别急",
+      "sender_name": "莫孜晗",
+      "sender_wxid": "wxid_951jqdhhbgbm22"
+    },
+    {
+      "create_time": 1765288049,
+      "formatted_time": "2025-12-09 21:47:29",
+      "type": "文本消息",
+      "str_content": "5手",
+      "sender_name": "夏炎",
+      "sender_wxid": "wxid_rkwsv2keqk9122"
+    },
+    {
+      "create_time": 1765288227,
+      "formatted_time": "2025-12-09 21:50:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765288494,
+      "formatted_time": "2025-12-09 21:54:54",
+      "type": "文本消息",
+      "str_content": "6手",
+      "sender_name": "夏炎",
+      "sender_wxid": "wxid_rkwsv2keqk9122"
+    },
+    {
+      "create_time": 1765289360,
+      "formatted_time": "2025-12-09 22:09:20",
+      "type": "文本消息",
+      "str_content": "7手",
+      "sender_name": "夏炎",
+      "sender_wxid": "wxid_rkwsv2keqk9122"
+    },
+    {
+      "create_time": 1765291002,
+      "formatted_time": "2025-12-09 22:36:42",
+      "type": "文本消息",
+      "str_content": "2.45",
+      "sender_name": "潘逊",
+      "sender_wxid": "wxid_j04v5i2j69di12"
+    },
+    {
+      "create_time": 1765291007,
+      "formatted_time": "2025-12-09 22:36:47",
+      "type": "文本消息",
+      "str_content": "+50",
+      "sender_name": "程泓钦 25金投",
+      "sender_wxid": "wxid_w22jpykr9am222"
+    },
+    {
+      "create_time": 1765291014,
+      "formatted_time": "2025-12-09 22:36:54",
+      "type": "文本消息",
+      "str_content": "+4",
+      "sender_name": "朱冠安",
+      "sender_wxid": "wxid_067uriexxsm822"
+    },
+    {
+      "create_time": 1765291020,
+      "formatted_time": "2025-12-09 22:37:00",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765291026,
+      "formatted_time": "2025-12-09 22:37:06",
+      "type": "文本消息",
+      "str_content": "-25",
+      "sender_name": "张义阳",
+      "sender_wxid": "wxid_sso5dm5pseu022"
+    },
+    {
+      "create_time": 1765291041,
+      "formatted_time": "2025-12-09 22:37:21",
+      "type": "文本消息",
+      "str_content": "+23",
+      "sender_name": "25-金投-赵雅琪",
+      "sender_wxid": "wxid_5gcuyo97tv3y22"
+    },
+    {
+      "create_time": 1765291041,
+      "formatted_time": "2025-12-09 22:37:21",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "sender_name": "张义阳",
+      "sender_wxid": "wxid_sso5dm5pseu022"
+    },
+    {
+      "create_time": 1765291045,
+      "formatted_time": "2025-12-09 22:37:25",
+      "type": "文本消息",
+      "str_content": "-78",
+      "sender_name": "伊森",
+      "sender_wxid": "wxid_c3558as1icno21"
+    },
+    {
+      "create_time": 1765291051,
+      "formatted_time": "2025-12-09 22:37:31",
+      "type": "文本消息",
+      "str_content": "-1.4",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765291051,
+      "formatted_time": "2025-12-09 22:37:31",
+      "type": "文本消息",
+      "str_content": "+30",
+      "sender_name": "莫孜晗",
+      "sender_wxid": "wxid_951jqdhhbgbm22"
+    },
+    {
+      "create_time": 1765291069,
+      "formatted_time": "2025-12-09 22:37:49",
+      "type": "文本消息",
+      "str_content": "—111.4",
+      "sender_name": "夏炎",
+      "sender_wxid": "wxid_rkwsv2keqk9122"
+    },
+    {
+      "create_time": 1765291074,
+      "formatted_time": "2025-12-09 22:37:54",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "sender_name": "伊森",
+      "sender_wxid": "wxid_c3558as1icno21"
+    },
+    {
+      "create_time": 1765291075,
+      "formatted_time": "2025-12-09 22:37:55",
+      "type": "文本消息",
+      "str_content": "刚才领了1.4",
+      "sender_name": "夏炎",
+      "sender_wxid": "wxid_rkwsv2keqk9122"
+    },
+    {
+      "create_time": 1765291111,
+      "formatted_time": "2025-12-09 22:38:31",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "sender_name": "夏炎",
+      "sender_wxid": "wxid_rkwsv2keqk9122"
+    },
+    {
+      "create_time": 1765291118,
+      "formatted_time": "2025-12-09 22:38:38",
+      "type": "文本消息",
+      "str_content": "+152.5",
+      "sender_name": "傅圣智-北京航空航天大学-金融投资",
+      "sender_wxid": "wxid_l2yldxx9wdbt22"
+    },
+    {
+      "create_time": 1765291137,
+      "formatted_time": "2025-12-09 22:38:57",
+      "type": "引用消息",
+      "str_content": "111.4",
+      "sender_name": "夏炎",
+      "sender_wxid": "wxid_rkwsv2keqk9122"
+    },
+    {
+      "create_time": 1765291188,
+      "formatted_time": "2025-12-09 22:39:48",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765291215,
+      "formatted_time": "2025-12-09 22:40:15",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "sender_name": "夏炎",
+      "sender_wxid": "wxid_rkwsv2keqk9122"
+    },
+    {
+      "create_time": 1765291472,
+      "formatted_time": "2025-12-09 22:44:32",
+      "type": "文本消息",
+      "str_content": "向他人发起了一笔转账，当前微信版本不支持展示该内容。",
+      "sender_name": "傅圣智-北京航空航天大学-金融投资",
+      "sender_wxid": "wxid_l2yldxx9wdbt22"
+    },
+    {
+      "create_time": 1765291487,
+      "formatted_time": "2025-12-09 22:44:47",
+      "type": "文本消息",
+      "str_content": "向他人发起了一笔转账，当前微信版本不支持展示该内容。",
+      "sender_name": "傅圣智-北京航空航天大学-金融投资",
+      "sender_wxid": "wxid_l2yldxx9wdbt22"
+    },
+    {
+      "create_time": 1765291488,
+      "formatted_time": "2025-12-09 22:44:48",
+      "type": "文本消息",
+      "str_content": "确认了一笔转账，当前微信版本不支持展示该内容。",
+      "sender_name": "潘逊",
+      "sender_wxid": "wxid_j04v5i2j69di12"
+    },
+    {
+      "create_time": 1765291493,
+      "formatted_time": "2025-12-09 22:44:53",
+      "type": "文本消息",
+      "str_content": "确认了一笔转账，当前微信版本不支持展示该内容。",
+      "sender_name": "25-金投-赵雅琪",
+      "sender_wxid": "wxid_5gcuyo97tv3y22"
+    },
+    {
+      "create_time": 1765291505,
+      "formatted_time": "2025-12-09 22:45:05",
+      "type": "文本消息",
+      "str_content": "向他人发起了一笔转账，当前微信版本不支持展示该内容。",
+      "sender_name": "傅圣智-北京航空航天大学-金融投资",
+      "sender_wxid": "wxid_l2yldxx9wdbt22"
+    },
+    {
+      "create_time": 1765291514,
+      "formatted_time": "2025-12-09 22:45:14",
+      "type": "文本消息",
+      "str_content": "确认了一笔转账，当前微信版本不支持展示该内容。",
+      "sender_name": "莫孜晗",
+      "sender_wxid": "wxid_951jqdhhbgbm22"
+    },
+    {
+      "create_time": 1765291516,
+      "formatted_time": "2025-12-09 22:45:16",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765291536,
+      "formatted_time": "2025-12-09 22:45:36",
+      "type": "文本消息",
+      "str_content": "向他人发起了一笔转账，当前微信版本不支持展示该内容。",
+      "sender_name": "傅圣智-北京航空航天大学-金融投资",
+      "sender_wxid": "wxid_l2yldxx9wdbt22"
+    },
+    {
+      "create_time": 1765291879,
+      "formatted_time": "2025-12-09 22:51:19",
+      "type": "文本消息",
+      "str_content": "确认了一笔转账，当前微信版本不支持展示该内容。",
+      "sender_name": "程泓钦 25金投",
+      "sender_wxid": "wxid_w22jpykr9am222"
+    }
+  ],
+  "export_time": "2025-12-13T14:57:47+08:00",
+  "message_count": 84
+}

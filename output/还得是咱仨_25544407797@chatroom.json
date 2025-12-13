@@ -21,7 +21,7 @@
       "create_time": 1650612023,
       "formatted_time": "2022-04-22 15:20:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -29,7 +29,7 @@
       "create_time": 1651171309,
       "formatted_time": "2022-04-29 02:41:49",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -37,7 +37,7 @@
       "create_time": 1651171309,
       "formatted_time": "2022-04-29 02:41:49",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -61,7 +61,7 @@
       "create_time": 1651194998,
       "formatted_time": "2022-04-29 09:16:38",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -99,7 +99,7 @@
       "create_time": 1651195081,
       "formatted_time": "2022-04-29 09:18:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -152,14 +152,14 @@
       "create_time": 1651195535,
       "formatted_time": "2022-04-29 09:25:35",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1651195536,
       "formatted_time": "2022-04-29 09:25:36",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -198,7 +198,7 @@
       "create_time": 1651195956,
       "formatted_time": "2022-04-29 09:32:36",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -251,7 +251,7 @@
       "create_time": 1651672382,
       "formatted_time": "2022-05-04 21:53:02",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender": "自己"
     },
     {
@@ -265,7 +265,7 @@
       "create_time": 1651672398,
       "formatted_time": "2022-05-04 21:53:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -300,6 +300,6 @@
       "sender_wxid": "wxid_k42yl12t1bag22"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 39
 }

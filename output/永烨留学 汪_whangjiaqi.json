@@ -104,7 +104,7 @@
       "create_time": 1702865886,
       "formatted_time": "2023-12-18 10:18:06",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -293,7 +293,7 @@
       "create_time": 1702866680,
       "formatted_time": "2023-12-18 10:31:20",
       "type": "位置消息",
-      "str_content": "[????]",
+      "str_content": "[位置消息]",
       "sender_name": "永烨留学 汪"
     },
     {
@@ -846,7 +846,7 @@
       "create_time": 1713452080,
       "formatted_time": "2024-04-18 22:54:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -937,7 +937,7 @@
       "create_time": 1713453897,
       "formatted_time": "2024-04-18 23:24:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "永烨留学 汪"
     },
     {
@@ -983,6 +983,6 @@
       "sender_name": "永烨留学 汪"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 140
 }

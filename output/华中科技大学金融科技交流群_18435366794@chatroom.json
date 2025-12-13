@@ -142,7 +142,7 @@
       "create_time": 1670318419,
       "formatted_time": "2022-12-06 17:20:19",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1670318429,
@@ -204,7 +204,7 @@
       "create_time": 1687330606,
       "formatted_time": "2023-06-21 14:56:46",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "华中科技大学金融科技交流群",
       "sender_wxid": "18435366794@chatroom"
     },
@@ -212,7 +212,7 @@
       "create_time": 1687511077,
       "formatted_time": "2023-06-23 17:04:37",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "华中科技大学金融科技交流群",
       "sender_wxid": "18435366794@chatroom"
     },
@@ -252,7 +252,7 @@
       "create_time": 1687526137,
       "formatted_time": "2023-06-23 21:15:37",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "Albert Tsui丨徐",
       "sender_wxid": "wxid_usj55jgrzcxh22"
     },
@@ -516,7 +516,7 @@
       "create_time": 1688018965,
       "formatted_time": "2023-06-29 14:09:25",
       "type": "视频号直播卡片",
-      "str_content": "[?????]",
+      "str_content": "[视频号直播]",
       "sender_name": "乛",
       "sender_wxid": "wxid_99mpswwwzcdr22"
     },
@@ -676,19 +676,19 @@
       "create_time": 1688534336,
       "formatted_time": "2023-07-05 13:18:56",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1688534345,
       "formatted_time": "2023-07-05 13:19:05",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1688534352,
       "formatted_time": "2023-07-05 13:19:12",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "华中科技大学金融科技交流群",
       "sender_wxid": "18435366794@chatroom"
     },
@@ -712,7 +712,7 @@
       "create_time": 1688551675,
       "formatted_time": "2023-07-05 18:07:55",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "乛",
       "sender_wxid": "wxid_99mpswwwzcdr22"
     },
@@ -1224,7 +1224,7 @@
       "create_time": 1689762510,
       "formatted_time": "2023-07-19 18:28:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "乛",
       "sender_wxid": "wxid_99mpswwwzcdr22"
     },
@@ -2112,7 +2112,7 @@
       "create_time": 1694161259,
       "formatted_time": "2023-09-08 16:20:59",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "华中科技大学金融科技交流群",
       "sender_wxid": "18435366794@chatroom"
     },
@@ -2312,7 +2312,7 @@
       "create_time": 1697102984,
       "formatted_time": "2023-10-12 17:29:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "乛",
       "sender_wxid": "wxid_99mpswwwzcdr22"
     },
@@ -2349,6 +2349,6 @@
       "sender_wxid": "wxid_99mpswwwzcdr22"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 294
 }

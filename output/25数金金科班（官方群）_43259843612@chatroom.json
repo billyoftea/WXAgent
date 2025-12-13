@@ -62,25 +62,25 @@
       "create_time": 1761653292,
       "formatted_time": "2025-10-28 20:08:12",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1761653416,
       "formatted_time": "2025-10-28 20:10:16",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1761654150,
       "formatted_time": "2025-10-28 20:22:30",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1761654235,
       "formatted_time": "2025-10-28 20:23:55",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1761724883,
@@ -110,7 +110,7 @@
       "create_time": 1761727542,
       "formatted_time": "2025-10-29 16:45:42",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761728376,
@@ -132,7 +132,7 @@
       "create_time": 1762141992,
       "formatted_time": "2025-11-03 11:53:12",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762142010,
@@ -178,7 +178,7 @@
       "create_time": 1762155891,
       "formatted_time": "2025-11-03 15:44:51",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "金科 李佳茗",
       "sender_wxid": "wxid_wv1c8feqfv0632"
     },
@@ -234,13 +234,13 @@
       "create_time": 1762156015,
       "formatted_time": "2025-11-03 15:46:55",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762156022,
       "formatted_time": "2025-11-03 15:47:02",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762156056,
@@ -286,7 +286,7 @@
       "create_time": 1762156324,
       "formatted_time": "2025-11-03 15:52:04",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762156426,
@@ -300,13 +300,13 @@
       "create_time": 1762156465,
       "formatted_time": "2025-11-03 15:54:25",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762157141,
       "formatted_time": "2025-11-03 16:05:41",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "周圆",
       "sender_wxid": "wxid_rjjvs2q3700422"
     },
@@ -338,7 +338,7 @@
       "create_time": 1762157297,
       "formatted_time": "2025-11-03 16:08:17",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762157304,
@@ -352,19 +352,19 @@
       "create_time": 1763032823,
       "formatted_time": "2025-11-13 19:20:23",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763032841,
       "formatted_time": "2025-11-13 19:20:41",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763032850,
       "formatted_time": "2025-11-13 19:20:50",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763090898,
@@ -402,7 +402,7 @@
       "create_time": 1763352375,
       "formatted_time": "2025-11-17 12:06:15",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "贸大经济统计郭嘉芸",
       "sender_wxid": "wxid_ua0a66ecbept22"
     },
@@ -415,6 +415,6 @@
       "sender_wxid": "wxid_ua0a66ecbept22"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
+  "export_time": "2025-12-13T14:57:48+08:00",
   "message_count": 55
 }

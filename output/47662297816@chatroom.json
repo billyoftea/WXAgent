@@ -6,7 +6,7 @@
       "create_time": 1727056149,
       "formatted_time": "2024-09-23 09:49:09",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "47662297816@chatroom",
       "sender_wxid": "47662297816@chatroom"
     },
@@ -45,14 +45,14 @@
       "create_time": 1727059343,
       "formatted_time": "2024-09-23 10:42:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
       "create_time": 1727059387,
       "formatted_time": "2024-09-23 10:43:07",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李建辉",
       "sender_wxid": "wxid_d9v00ph4t3e122"
     },
@@ -82,7 +82,7 @@
       "create_time": 1727063693,
       "formatted_time": "2024-09-23 11:54:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "成瑞",
       "sender_wxid": "wxid_e8vz7zelntbc21"
     },
@@ -90,7 +90,7 @@
       "create_time": 1727063693,
       "formatted_time": "2024-09-23 11:54:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "成瑞",
       "sender_wxid": "wxid_e8vz7zelntbc21"
     },
@@ -172,7 +172,7 @@
       "create_time": 1727085089,
       "formatted_time": "2024-09-23 17:51:29",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李建辉",
       "sender_wxid": "wxid_d9v00ph4t3e122"
     },
@@ -188,7 +188,7 @@
       "create_time": 1727085305,
       "formatted_time": "2024-09-23 17:55:05",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李建辉",
       "sender_wxid": "wxid_d9v00ph4t3e122"
     },
@@ -283,6 +283,6 @@
       "sender": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 37
 }

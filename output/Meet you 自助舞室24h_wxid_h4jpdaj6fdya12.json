@@ -34,7 +34,7 @@
       "create_time": 1737033110,
       "formatted_time": "2025-01-16 21:11:50",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -55,7 +55,7 @@
       "create_time": 1737033170,
       "formatted_time": "2025-01-16 21:12:50",
       "type": "视频消息",
-      "str_content": "[????]",
+      "str_content": "[视频消息]",
       "sender_name": "Meet you 自助舞室24h"
     },
     {
@@ -69,7 +69,7 @@
       "create_time": 1737033384,
       "formatted_time": "2025-01-16 21:16:24",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "Meet you 自助舞室24h"
     },
     {
@@ -83,7 +83,7 @@
       "create_time": 1737033475,
       "formatted_time": "2025-01-16 21:17:55",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "Meet you 自助舞室24h"
     },
     {
@@ -104,7 +104,7 @@
       "create_time": 1737035576,
       "formatted_time": "2025-01-16 21:52:56",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "Meet you 自助舞室24h"
     },
     {
@@ -150,6 +150,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 21
 }

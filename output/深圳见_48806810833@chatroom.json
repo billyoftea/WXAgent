@@ -1,0 +1,426 @@
+{
+  "session_id": "48806810833@chatroom",
+  "session_name": "深圳见",
+  "messages": [
+    {
+      "create_time": 1765268112,
+      "formatted_time": "2025-12-09 16:15:12",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765268112,
+      "formatted_time": "2025-12-09 16:15:12",
+      "type": "文本消息",
+      "str_content": "哎呦，我两边队好麻烦",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765268114,
+      "formatted_time": "2025-12-09 16:15:14",
+      "type": "文本消息",
+      "str_content": "对",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765268125,
+      "formatted_time": "2025-12-09 16:15:25",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268139,
+      "formatted_time": "2025-12-09 16:15:39",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765268147,
+      "formatted_time": "2025-12-09 16:15:47",
+      "type": "文本消息",
+      "str_content": "来了就是深圳人",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268152,
+      "formatted_time": "2025-12-09 16:15:52",
+      "type": "文本消息",
+      "str_content": "你俩本地人安排",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765268154,
+      "formatted_time": "2025-12-09 16:15:54",
+      "type": "文本消息",
+      "str_content": "我负责跟着",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765268157,
+      "formatted_time": "2025-12-09 16:15:57",
+      "type": "文本消息",
+      "str_content": "over",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765268178,
+      "formatted_time": "2025-12-09 16:16:18",
+      "type": "文本消息",
+      "str_content": "你想吃啥",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268182,
+      "formatted_time": "2025-12-09 16:16:22",
+      "type": "文本消息",
+      "str_content": "类型",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268187,
+      "formatted_time": "2025-12-09 16:16:27",
+      "type": "文本消息",
+      "str_content": "早茶吗",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268191,
+      "formatted_time": "2025-12-09 16:16:31",
+      "type": "文本消息",
+      "str_content": "你啥时候来深圳",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268202,
+      "formatted_time": "2025-12-09 16:16:42",
+      "type": "文本消息",
+      "str_content": "来之前是在hk吗",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268340,
+      "formatted_time": "2025-12-09 16:19:00",
+      "type": "文本消息",
+      "str_content": "我是合肥人",
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765268343,
+      "formatted_time": "2025-12-09 16:19:03",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765268373,
+      "formatted_time": "2025-12-09 16:19:33",
+      "type": "文本消息",
+      "str_content": "我对深圳的了解",
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765268382,
+      "formatted_time": "2025-12-09 16:19:42",
+      "type": "文本消息",
+      "str_content": "仅限于罗湖口岸和cocopark",
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765268387,
+      "formatted_time": "2025-12-09 16:19:47",
+      "type": "文本消息",
+      "str_content": "你别管，来了就是深圳呢人",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268402,
+      "formatted_time": "2025-12-09 16:20:02",
+      "type": "文本消息",
+      "str_content": "你们21号之前是在香港吗",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268424,
+      "formatted_time": "2025-12-09 16:20:24",
+      "type": "文本消息",
+      "str_content": "她18落地深圳",
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765268427,
+      "formatted_time": "2025-12-09 16:20:27",
+      "type": "文本消息",
+      "str_content": "21走",
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765268433,
+      "formatted_time": "2025-12-09 16:20:33",
+      "type": "文本消息",
+      "str_content": "18晚上可以在深圳",
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765268448,
+      "formatted_time": "2025-12-09 16:20:48",
+      "type": "文本消息",
+      "str_content": "18晚我不一定行）",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268465,
+      "formatted_time": "2025-12-09 16:21:05",
+      "type": "文本消息",
+      "str_content": "20号晚上你们是在hk住吗",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268470,
+      "formatted_time": "2025-12-09 16:21:10",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765268471,
+      "formatted_time": "2025-12-09 16:21:11",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765268474,
+      "formatted_time": "2025-12-09 16:21:14",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765268482,
+      "formatted_time": "2025-12-09 16:21:22",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765268491,
+      "formatted_time": "2025-12-09 16:21:31",
+      "type": "文本消息",
+      "str_content": "深圳到处都是自动签注机",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268494,
+      "formatted_time": "2025-12-09 16:21:34",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765268495,
+      "formatted_time": "2025-12-09 16:21:35",
+      "type": "文本消息",
+      "str_content": "这个不用担心",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268508,
+      "formatted_time": "2025-12-09 16:21:48",
+      "type": "文本消息",
+      "str_content": "o",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765268528,
+      "formatted_time": "2025-12-09 16:22:08",
+      "type": "文本消息",
+      "str_content": "因为我俩大概率18号晚上也是在深圳吃",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765268532,
+      "formatted_time": "2025-12-09 16:22:12",
+      "type": "文本消息",
+      "str_content": "那我们就flexible一点咯，反正最后21号作为backup，中间我们根据时间随时约",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268539,
+      "formatted_time": "2025-12-09 16:22:19",
+      "type": "文本消息",
+      "str_content": "我能去一定去，实在不行我去hk也可以",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268539,
+      "formatted_time": "2025-12-09 16:22:19",
+      "type": "文本消息",
+      "str_content": "你要是没空的话，那咱就21号",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765268547,
+      "formatted_time": "2025-12-09 16:22:27",
+      "type": "文本消息",
+      "str_content": "反正都不远",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268571,
+      "formatted_time": "2025-12-09 16:22:51",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765268599,
+      "formatted_time": "2025-12-09 16:23:19",
+      "type": "文本消息",
+      "str_content": "ok",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765268847,
+      "formatted_time": "2025-12-09 16:27:27",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765268998,
+      "formatted_time": "2025-12-09 16:29:58",
+      "type": "文本消息",
+      "str_content": "有什么好神奇的",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765269003,
+      "formatted_time": "2025-12-09 16:30:03",
+      "type": "文本消息",
+      "str_content": "因为你真的他妈的很久没见过我们了",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765419614,
+      "formatted_time": "2025-12-11 10:20:14",
+      "type": "文本消息",
+      "str_content": "老师们",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765419634,
+      "formatted_time": "2025-12-11 10:20:34",
+      "type": "文本消息",
+      "str_content": "我有一个我和xa的共友也在hk",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765419637,
+      "formatted_time": "2025-12-11 10:20:37",
+      "type": "文本消息",
+      "str_content": "想一起吃个饭",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765419646,
+      "formatted_time": "2025-12-11 10:20:46",
+      "type": "文本消息",
+      "str_content": "我直接拉进来了哈好对时间",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765419660,
+      "formatted_time": "2025-12-11 10:21:00",
+      "type": "引用消息",
+      "str_content": "可以嘛）",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765419665,
+      "formatted_time": "2025-12-11 10:21:05",
+      "type": "文本消息",
+      "str_content": "你俩不会没起吧",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765420561,
+      "formatted_time": "2025-12-11 10:36:01",
+      "type": "文本消息",
+      "str_content": "算了zhz和他在一块可能会尴尬",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765420571,
+      "formatted_time": "2025-12-11 10:36:11",
+      "type": "文本消息",
+      "str_content": "分两波吧",
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765427804,
+      "formatted_time": "2025-12-11 12:36:44",
+      "type": "文本消息",
+      "str_content": "好",
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765429474,
+      "formatted_time": "2025-12-11 13:04:34",
+      "type": "文本消息",
+      "str_content": "醒了",
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765433299,
+      "formatted_time": "2025-12-11 14:08:19",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765433300,
+      "formatted_time": "2025-12-11 14:08:20",
+      "type": "文本消息",
+      "str_content": "接秋招无痛好工作。",
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    }
+  ],
+  "export_time": "2025-12-13T14:57:47+08:00",
+  "message_count": 55
+}

@@ -6,7 +6,7 @@
       "create_time": 1758024575,
       "formatted_time": "2025-09-16 20:09:35",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "彭德辉 25企管"
     },
     {
@@ -41,7 +41,7 @@
       "create_time": 1758078887,
       "formatted_time": "2025-09-17 11:14:47",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -73,6 +73,6 @@
       "sender_name": "彭德辉 25企管"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 10
 }

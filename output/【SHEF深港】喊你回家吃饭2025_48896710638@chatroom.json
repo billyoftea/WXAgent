@@ -6,7 +6,7 @@
       "create_time": 1752834810,
       "formatted_time": "2025-07-18 18:33:30",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -46,7 +46,7 @@
       "create_time": 1752843661,
       "formatted_time": "2025-07-18 21:01:01",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -78,7 +78,7 @@
       "create_time": 1752843722,
       "formatted_time": "2025-07-18 21:02:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -166,7 +166,7 @@
       "create_time": 1752843784,
       "formatted_time": "2025-07-18 21:03:04",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1752843785,
@@ -204,7 +204,7 @@
       "create_time": 1752843793,
       "formatted_time": "2025-07-18 21:03:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -212,7 +212,7 @@
       "create_time": 1752843795,
       "formatted_time": "2025-07-18 21:03:15",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -268,7 +268,7 @@
       "create_time": 1752843810,
       "formatted_time": "2025-07-18 21:03:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -372,7 +372,7 @@
       "create_time": 1752843885,
       "formatted_time": "2025-07-18 21:04:45",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "CAP副会-24财新赵楚楚",
       "sender_wxid": "wxid_it62w7yp4dgj11"
     },
@@ -420,7 +420,7 @@
       "create_time": 1752843917,
       "formatted_time": "2025-07-18 21:05:17",
       "type": "视频消息",
-      "str_content": "[????]"
+      "str_content": "[视频消息]"
     },
     {
       "create_time": 1752843921,
@@ -586,7 +586,7 @@
       "create_time": 1752844014,
       "formatted_time": "2025-07-18 21:06:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -642,7 +642,7 @@
       "create_time": 1752844113,
       "formatted_time": "2025-07-18 21:08:33",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -762,7 +762,7 @@
       "create_time": 1752844224,
       "formatted_time": "2025-07-18 21:10:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -802,7 +802,7 @@
       "create_time": 1752844240,
       "formatted_time": "2025-07-18 21:10:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -986,7 +986,7 @@
       "create_time": 1752844454,
       "formatted_time": "2025-07-18 21:14:14",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1002,7 +1002,7 @@
       "create_time": 1752844462,
       "formatted_time": "2025-07-18 21:14:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -1026,7 +1026,7 @@
       "create_time": 1752844497,
       "formatted_time": "2025-07-18 21:14:57",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1034,7 +1034,7 @@
       "create_time": 1752844498,
       "formatted_time": "2025-07-18 21:14:58",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1042,7 +1042,7 @@
       "create_time": 1752844500,
       "formatted_time": "2025-07-18 21:15:00",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1050,7 +1050,7 @@
       "create_time": 1752844502,
       "formatted_time": "2025-07-18 21:15:02",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1082,7 +1082,7 @@
       "create_time": 1752844537,
       "formatted_time": "2025-07-18 21:15:37",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1122,7 +1122,7 @@
       "create_time": 1752844594,
       "formatted_time": "2025-07-18 21:16:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1138,7 +1138,7 @@
       "create_time": 1752844611,
       "formatted_time": "2025-07-18 21:16:51",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -1146,7 +1146,7 @@
       "create_time": 1752844613,
       "formatted_time": "2025-07-18 21:16:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -1154,7 +1154,7 @@
       "create_time": 1752844615,
       "formatted_time": "2025-07-18 21:16:55",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -1162,7 +1162,7 @@
       "create_time": 1752844618,
       "formatted_time": "2025-07-18 21:16:58",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -1226,7 +1226,7 @@
       "create_time": 1752844642,
       "formatted_time": "2025-07-18 21:17:22",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1752844649,
@@ -1240,7 +1240,7 @@
       "create_time": 1752844651,
       "formatted_time": "2025-07-18 21:17:31",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1408,7 +1408,7 @@
       "create_time": 1752844900,
       "formatted_time": "2025-07-18 21:21:40",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1520,7 +1520,7 @@
       "create_time": 1752844931,
       "formatted_time": "2025-07-18 21:22:11",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "仅会",
       "sender_wxid": "wxid_whxwfa3sufzm22"
     },
@@ -1528,7 +1528,7 @@
       "create_time": 1752844932,
       "formatted_time": "2025-07-18 21:22:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -1536,7 +1536,7 @@
       "create_time": 1752844938,
       "formatted_time": "2025-07-18 21:22:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "月亮邮递员",
       "sender_wxid": "wxid_aqamvidydq1j22"
     },
@@ -1552,7 +1552,7 @@
       "create_time": 1752844939,
       "formatted_time": "2025-07-18 21:22:19",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1752844940,
@@ -1566,7 +1566,7 @@
       "create_time": 1752844943,
       "formatted_time": "2025-07-18 21:22:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1574,7 +1574,7 @@
       "create_time": 1752844945,
       "formatted_time": "2025-07-18 21:22:25",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24-韩一赫-财新",
       "sender_wxid": "wxid_6y0h9cdskjpw21"
     },
@@ -1590,7 +1590,7 @@
       "create_time": 1752844956,
       "formatted_time": "2025-07-18 21:22:36",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "白",
       "sender_wxid": "wxid_hoomgkbkhto322"
     },
@@ -1622,7 +1622,7 @@
       "create_time": 1752844965,
       "formatted_time": "2025-07-18 21:22:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1670,7 +1670,7 @@
       "create_time": 1752844991,
       "formatted_time": "2025-07-18 21:23:11",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1742,7 +1742,7 @@
       "create_time": 1752845087,
       "formatted_time": "2025-07-18 21:24:47",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1750,7 +1750,7 @@
       "create_time": 1752845088,
       "formatted_time": "2025-07-18 21:24:48",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1758,7 +1758,7 @@
       "create_time": 1752845088,
       "formatted_time": "2025-07-18 21:24:48",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1766,7 +1766,7 @@
       "create_time": 1752845089,
       "formatted_time": "2025-07-18 21:24:49",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1774,7 +1774,7 @@
       "create_time": 1752845089,
       "formatted_time": "2025-07-18 21:24:49",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1782,7 +1782,7 @@
       "create_time": 1752845090,
       "formatted_time": "2025-07-18 21:24:50",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1790,7 +1790,7 @@
       "create_time": 1752845091,
       "formatted_time": "2025-07-18 21:24:51",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1798,7 +1798,7 @@
       "create_time": 1752845092,
       "formatted_time": "2025-07-18 21:24:52",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1806,7 +1806,7 @@
       "create_time": 1752845092,
       "formatted_time": "2025-07-18 21:24:52",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1814,7 +1814,7 @@
       "create_time": 1752845093,
       "formatted_time": "2025-07-18 21:24:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1822,7 +1822,7 @@
       "create_time": 1752845094,
       "formatted_time": "2025-07-18 21:24:54",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2086,7 +2086,7 @@
       "create_time": 1752845594,
       "formatted_time": "2025-07-18 21:33:14",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2094,7 +2094,7 @@
       "create_time": 1752845595,
       "formatted_time": "2025-07-18 21:33:15",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2102,7 +2102,7 @@
       "create_time": 1752845598,
       "formatted_time": "2025-07-18 21:33:18",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2118,7 +2118,7 @@
       "create_time": 1752845603,
       "formatted_time": "2025-07-18 21:33:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "管双 郑沁嘉",
       "sender_wxid": "wxid_wysat8o3ipmo12"
     },
@@ -2166,7 +2166,7 @@
       "create_time": 1752845707,
       "formatted_time": "2025-07-18 21:35:07",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -2382,7 +2382,7 @@
       "create_time": 1752845989,
       "formatted_time": "2025-07-18 21:39:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "管双 郑沁嘉",
       "sender_wxid": "wxid_wysat8o3ipmo12"
     },
@@ -2406,7 +2406,7 @@
       "create_time": 1752846017,
       "formatted_time": "2025-07-18 21:40:17",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2470,7 +2470,7 @@
       "create_time": 1752846181,
       "formatted_time": "2025-07-18 21:43:01",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2478,7 +2478,7 @@
       "create_time": 1752846185,
       "formatted_time": "2025-07-18 21:43:05",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2486,7 +2486,7 @@
       "create_time": 1752846187,
       "formatted_time": "2025-07-18 21:43:07",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2502,7 +2502,7 @@
       "create_time": 1752846190,
       "formatted_time": "2025-07-18 21:43:10",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2510,7 +2510,7 @@
       "create_time": 1752846192,
       "formatted_time": "2025-07-18 21:43:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2518,7 +2518,7 @@
       "create_time": 1752846197,
       "formatted_time": "2025-07-18 21:43:17",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2526,7 +2526,7 @@
       "create_time": 1752846201,
       "formatted_time": "2025-07-18 21:43:21",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2574,7 +2574,7 @@
       "create_time": 1752846327,
       "formatted_time": "2025-07-18 21:45:27",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2606,7 +2606,7 @@
       "create_time": 1752846368,
       "formatted_time": "2025-07-18 21:46:08",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2622,7 +2622,7 @@
       "create_time": 1752846372,
       "formatted_time": "2025-07-18 21:46:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -2630,7 +2630,7 @@
       "create_time": 1752846379,
       "formatted_time": "2025-07-18 21:46:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2734,7 +2734,7 @@
       "create_time": 1752846687,
       "formatted_time": "2025-07-18 21:51:27",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -2758,7 +2758,7 @@
       "create_time": 1752846706,
       "formatted_time": "2025-07-18 21:51:46",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -2782,7 +2782,7 @@
       "create_time": 1752846733,
       "formatted_time": "2025-07-18 21:52:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -2822,7 +2822,7 @@
       "create_time": 1752846755,
       "formatted_time": "2025-07-18 21:52:35",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -2870,7 +2870,7 @@
       "create_time": 1752846788,
       "formatted_time": "2025-07-18 21:53:08",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -2918,7 +2918,7 @@
       "create_time": 1752846856,
       "formatted_time": "2025-07-18 21:54:16",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -2958,7 +2958,7 @@
       "create_time": 1752846897,
       "formatted_time": "2025-07-18 21:54:57",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -2982,7 +2982,7 @@
       "create_time": 1752846937,
       "formatted_time": "2025-07-18 21:55:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -3014,7 +3014,7 @@
       "create_time": 1752846965,
       "formatted_time": "2025-07-18 21:56:05",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -3102,7 +3102,7 @@
       "create_time": 1752847087,
       "formatted_time": "2025-07-18 21:58:07",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "23 金科江冠洲",
       "sender_wxid": "wxid_htnx9vj4qyd711"
     },
@@ -3430,7 +3430,7 @@
       "create_time": 1752847614,
       "formatted_time": "2025-07-18 22:06:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -3574,7 +3574,7 @@
       "create_time": 1752849285,
       "formatted_time": "2025-07-18 22:34:45",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -3614,7 +3614,7 @@
       "create_time": 1752852549,
       "formatted_time": "2025-07-18 23:29:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -3670,7 +3670,7 @@
       "create_time": 1752852769,
       "formatted_time": "2025-07-18 23:32:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "管双 郑沁嘉",
       "sender_wxid": "wxid_wysat8o3ipmo12"
     },
@@ -3686,7 +3686,7 @@
       "create_time": 1752854901,
       "formatted_time": "2025-07-19 00:08:21",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -3694,7 +3694,7 @@
       "create_time": 1752854908,
       "formatted_time": "2025-07-19 00:08:28",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -3790,7 +3790,7 @@
       "create_time": 1752855294,
       "formatted_time": "2025-07-19 00:14:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -3806,7 +3806,7 @@
       "create_time": 1752855321,
       "formatted_time": "2025-07-19 00:15:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "吕和薇",
       "sender_wxid": "wxid_b1jjjv85wnwo22"
     },
@@ -3838,7 +3838,7 @@
       "create_time": 1752855383,
       "formatted_time": "2025-07-19 00:16:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -3846,7 +3846,7 @@
       "create_time": 1752855426,
       "formatted_time": "2025-07-19 00:17:06",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "吕和薇",
       "sender_wxid": "wxid_b1jjjv85wnwo22"
     },
@@ -3878,7 +3878,7 @@
       "create_time": 1752855496,
       "formatted_time": "2025-07-19 00:18:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -3934,7 +3934,7 @@
       "create_time": 1752855837,
       "formatted_time": "2025-07-19 00:23:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -3950,7 +3950,7 @@
       "create_time": 1752855851,
       "formatted_time": "2025-07-19 00:24:11",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "管双 郑沁嘉",
       "sender_wxid": "wxid_wysat8o3ipmo12"
     },
@@ -4030,7 +4030,7 @@
       "create_time": 1752926991,
       "formatted_time": "2025-07-19 20:09:51",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "CAP副会-24财新赵楚楚",
       "sender_wxid": "wxid_it62w7yp4dgj11"
     },
@@ -4038,7 +4038,7 @@
       "create_time": 1752927080,
       "formatted_time": "2025-07-19 20:11:20",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -4054,7 +4054,7 @@
       "create_time": 1752927087,
       "formatted_time": "2025-07-19 20:11:27",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4062,7 +4062,7 @@
       "create_time": 1752927087,
       "formatted_time": "2025-07-19 20:11:27",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -4070,7 +4070,7 @@
       "create_time": 1752927254,
       "formatted_time": "2025-07-19 20:14:14",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -4078,7 +4078,7 @@
       "create_time": 1752928488,
       "formatted_time": "2025-07-19 20:34:48",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -4086,7 +4086,7 @@
       "create_time": 1752929212,
       "formatted_time": "2025-07-19 20:46:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -4094,7 +4094,7 @@
       "create_time": 1752929498,
       "formatted_time": "2025-07-19 20:51:38",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -4126,7 +4126,7 @@
       "create_time": 1752929958,
       "formatted_time": "2025-07-19 20:59:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -4150,7 +4150,7 @@
       "create_time": 1752930051,
       "formatted_time": "2025-07-19 21:00:51",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4252,7 +4252,7 @@
       "create_time": 1752930097,
       "formatted_time": "2025-07-19 21:01:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -4308,7 +4308,7 @@
       "create_time": 1752930186,
       "formatted_time": "2025-07-19 21:03:06",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -4356,7 +4356,7 @@
       "create_time": 1752930248,
       "formatted_time": "2025-07-19 21:04:08",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1752930256,
@@ -4378,7 +4378,7 @@
       "create_time": 1752930263,
       "formatted_time": "2025-07-19 21:04:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4426,7 +4426,7 @@
       "create_time": 1752930290,
       "formatted_time": "2025-07-19 21:04:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4516,7 +4516,7 @@
       "create_time": 1752930361,
       "formatted_time": "2025-07-19 21:06:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -4548,7 +4548,7 @@
       "create_time": 1752930413,
       "formatted_time": "2025-07-19 21:06:53",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1752930419,
@@ -4586,7 +4586,7 @@
       "create_time": 1752930450,
       "formatted_time": "2025-07-19 21:07:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4610,7 +4610,7 @@
       "create_time": 1752930483,
       "formatted_time": "2025-07-19 21:08:03",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -4682,7 +4682,7 @@
       "create_time": 1752930607,
       "formatted_time": "2025-07-19 21:10:07",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1752930607,
@@ -4720,7 +4720,7 @@
       "create_time": 1752930615,
       "formatted_time": "2025-07-19 21:10:15",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -4736,7 +4736,7 @@
       "create_time": 1752930623,
       "formatted_time": "2025-07-19 21:10:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4864,7 +4864,7 @@
       "create_time": 1752930783,
       "formatted_time": "2025-07-19 21:13:03",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "CAP副会-24财新赵楚楚",
       "sender_wxid": "wxid_it62w7yp4dgj11"
     },
@@ -4896,7 +4896,7 @@
       "create_time": 1752930825,
       "formatted_time": "2025-07-19 21:13:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "CAP副会-24财新赵楚楚",
       "sender_wxid": "wxid_it62w7yp4dgj11"
     },
@@ -4912,7 +4912,7 @@
       "create_time": 1752930834,
       "formatted_time": "2025-07-19 21:13:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -4928,7 +4928,7 @@
       "create_time": 1752930843,
       "formatted_time": "2025-07-19 21:14:03",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -5008,7 +5008,7 @@
       "create_time": 1752930920,
       "formatted_time": "2025-07-19 21:15:20",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "泥泥",
       "sender_wxid": "wxid_1bbh510hksgf22"
     },
@@ -5032,7 +5032,7 @@
       "create_time": 1752930944,
       "formatted_time": "2025-07-19 21:15:44",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "泥泥",
       "sender_wxid": "wxid_1bbh510hksgf22"
     },
@@ -5072,7 +5072,7 @@
       "create_time": 1752930978,
       "formatted_time": "2025-07-19 21:16:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "CAP副会-24财新赵楚楚",
       "sender_wxid": "wxid_it62w7yp4dgj11"
     },
@@ -5136,7 +5136,7 @@
       "create_time": 1752931047,
       "formatted_time": "2025-07-19 21:17:27",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5144,7 +5144,7 @@
       "create_time": 1752931048,
       "formatted_time": "2025-07-19 21:17:28",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -5184,7 +5184,7 @@
       "create_time": 1752931095,
       "formatted_time": "2025-07-19 21:18:15",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5224,7 +5224,7 @@
       "create_time": 1752931133,
       "formatted_time": "2025-07-19 21:18:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -5232,7 +5232,7 @@
       "create_time": 1752931151,
       "formatted_time": "2025-07-19 21:19:11",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5240,7 +5240,7 @@
       "create_time": 1752931152,
       "formatted_time": "2025-07-19 21:19:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5248,7 +5248,7 @@
       "create_time": 1752931153,
       "formatted_time": "2025-07-19 21:19:13",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5256,7 +5256,7 @@
       "create_time": 1752931157,
       "formatted_time": "2025-07-19 21:19:17",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5264,7 +5264,7 @@
       "create_time": 1752931160,
       "formatted_time": "2025-07-19 21:19:20",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5272,7 +5272,7 @@
       "create_time": 1752931163,
       "formatted_time": "2025-07-19 21:19:23",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5280,7 +5280,7 @@
       "create_time": 1752931165,
       "formatted_time": "2025-07-19 21:19:25",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5296,7 +5296,7 @@
       "create_time": 1752931180,
       "formatted_time": "2025-07-19 21:19:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -5400,7 +5400,7 @@
       "create_time": 1752931353,
       "formatted_time": "2025-07-19 21:22:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -5408,7 +5408,7 @@
       "create_time": 1752931364,
       "formatted_time": "2025-07-19 21:22:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5456,7 +5456,7 @@
       "create_time": 1752931432,
       "formatted_time": "2025-07-19 21:23:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -5504,7 +5504,7 @@
       "create_time": 1752931602,
       "formatted_time": "2025-07-19 21:26:42",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5512,7 +5512,7 @@
       "create_time": 1752931603,
       "formatted_time": "2025-07-19 21:26:43",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5520,7 +5520,7 @@
       "create_time": 1752931605,
       "formatted_time": "2025-07-19 21:26:45",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5544,7 +5544,7 @@
       "create_time": 1752931693,
       "formatted_time": "2025-07-19 21:28:13",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5552,7 +5552,7 @@
       "create_time": 1752931694,
       "formatted_time": "2025-07-19 21:28:14",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5560,7 +5560,7 @@
       "create_time": 1752931695,
       "formatted_time": "2025-07-19 21:28:15",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5576,7 +5576,7 @@
       "create_time": 1752931712,
       "formatted_time": "2025-07-19 21:28:32",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -5600,7 +5600,7 @@
       "create_time": 1752931765,
       "formatted_time": "2025-07-19 21:29:25",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5672,7 +5672,7 @@
       "create_time": 1752931881,
       "formatted_time": "2025-07-19 21:31:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5688,7 +5688,7 @@
       "create_time": 1752931949,
       "formatted_time": "2025-07-19 21:32:29",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5696,7 +5696,7 @@
       "create_time": 1752931950,
       "formatted_time": "2025-07-19 21:32:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5704,7 +5704,7 @@
       "create_time": 1752931951,
       "formatted_time": "2025-07-19 21:32:31",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5712,7 +5712,7 @@
       "create_time": 1752931953,
       "formatted_time": "2025-07-19 21:32:33",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5720,7 +5720,7 @@
       "create_time": 1752931969,
       "formatted_time": "2025-07-19 21:32:49",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5736,7 +5736,7 @@
       "create_time": 1752932049,
       "formatted_time": "2025-07-19 21:34:09",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5744,7 +5744,7 @@
       "create_time": 1752932050,
       "formatted_time": "2025-07-19 21:34:10",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5760,7 +5760,7 @@
       "create_time": 1752932094,
       "formatted_time": "2025-07-19 21:34:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -5792,7 +5792,7 @@
       "create_time": 1752932174,
       "formatted_time": "2025-07-19 21:36:14",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5872,7 +5872,7 @@
       "create_time": 1752932421,
       "formatted_time": "2025-07-19 21:40:21",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5880,7 +5880,7 @@
       "create_time": 1752932422,
       "formatted_time": "2025-07-19 21:40:22",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5888,7 +5888,7 @@
       "create_time": 1752932423,
       "formatted_time": "2025-07-19 21:40:23",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5896,7 +5896,7 @@
       "create_time": 1752932425,
       "formatted_time": "2025-07-19 21:40:25",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5944,7 +5944,7 @@
       "create_time": 1752932592,
       "formatted_time": "2025-07-19 21:43:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5952,7 +5952,7 @@
       "create_time": 1752932593,
       "formatted_time": "2025-07-19 21:43:13",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5960,7 +5960,7 @@
       "create_time": 1752932594,
       "formatted_time": "2025-07-19 21:43:14",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5976,7 +5976,7 @@
       "create_time": 1752932711,
       "formatted_time": "2025-07-19 21:45:11",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5984,7 +5984,7 @@
       "create_time": 1752932712,
       "formatted_time": "2025-07-19 21:45:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -5992,7 +5992,7 @@
       "create_time": 1752932713,
       "formatted_time": "2025-07-19 21:45:13",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -6008,7 +6008,7 @@
       "create_time": 1752932729,
       "formatted_time": "2025-07-19 21:45:29",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -6032,7 +6032,7 @@
       "create_time": 1752932759,
       "formatted_time": "2025-07-19 21:45:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -6048,7 +6048,7 @@
       "create_time": 1752932798,
       "formatted_time": "2025-07-19 21:46:38",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -6168,7 +6168,7 @@
       "create_time": 1752933131,
       "formatted_time": "2025-07-19 21:52:11",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -6184,7 +6184,7 @@
       "create_time": 1752933142,
       "formatted_time": "2025-07-19 21:52:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Lindsay",
       "sender_wxid": "wxid_utc5lniw7mp922"
     },
@@ -6280,7 +6280,7 @@
       "create_time": 1752933214,
       "formatted_time": "2025-07-19 21:53:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -6288,7 +6288,7 @@
       "create_time": 1752933222,
       "formatted_time": "2025-07-19 21:53:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24 企业管理 吉驰",
       "sender_wxid": "wxid_e7z3098ehxho12"
     },
@@ -6296,7 +6296,7 @@
       "create_time": 1752933229,
       "formatted_time": "2025-07-19 21:53:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -6304,7 +6304,7 @@
       "create_time": 1752933243,
       "formatted_time": "2025-07-19 21:54:03",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "24-韩一赫-财新",
       "sender_wxid": "wxid_6y0h9cdskjpw21"
     },
@@ -6320,7 +6320,7 @@
       "create_time": 1752933250,
       "formatted_time": "2025-07-19 21:54:10",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6336,7 +6336,7 @@
       "create_time": 1752933252,
       "formatted_time": "2025-07-19 21:54:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6352,7 +6352,7 @@
       "create_time": 1752933254,
       "formatted_time": "2025-07-19 21:54:14",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6360,7 +6360,7 @@
       "create_time": 1752933256,
       "formatted_time": "2025-07-19 21:54:16",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6376,7 +6376,7 @@
       "create_time": 1752933276,
       "formatted_time": "2025-07-19 21:54:36",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6432,7 +6432,7 @@
       "create_time": 1752933335,
       "formatted_time": "2025-07-19 21:55:35",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6440,7 +6440,7 @@
       "create_time": 1752933337,
       "formatted_time": "2025-07-19 21:55:37",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6448,7 +6448,7 @@
       "create_time": 1752933342,
       "formatted_time": "2025-07-19 21:55:42",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6456,7 +6456,7 @@
       "create_time": 1752933344,
       "formatted_time": "2025-07-19 21:55:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6464,7 +6464,7 @@
       "create_time": 1752933348,
       "formatted_time": "2025-07-19 21:55:48",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6496,7 +6496,7 @@
       "create_time": 1752933446,
       "formatted_time": "2025-07-19 21:57:26",
       "type": "视频消息",
-      "str_content": "[????]"
+      "str_content": "[视频消息]"
     },
     {
       "create_time": 1752933448,
@@ -6582,7 +6582,7 @@
       "create_time": 1752933516,
       "formatted_time": "2025-07-19 21:58:36",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6590,7 +6590,7 @@
       "create_time": 1752933518,
       "formatted_time": "2025-07-19 21:58:38",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6598,7 +6598,7 @@
       "create_time": 1752933522,
       "formatted_time": "2025-07-19 21:58:42",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6606,7 +6606,7 @@
       "create_time": 1752933523,
       "formatted_time": "2025-07-19 21:58:43",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6646,7 +6646,7 @@
       "create_time": 1752933629,
       "formatted_time": "2025-07-19 22:00:29",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6670,7 +6670,7 @@
       "create_time": 1752933691,
       "formatted_time": "2025-07-19 22:01:31",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6678,13 +6678,13 @@
       "create_time": 1752933691,
       "formatted_time": "2025-07-19 22:01:31",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1752933692,
       "formatted_time": "2025-07-19 22:01:32",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6692,7 +6692,7 @@
       "create_time": 1752933694,
       "formatted_time": "2025-07-19 22:01:34",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6700,7 +6700,7 @@
       "create_time": 1752933696,
       "formatted_time": "2025-07-19 22:01:36",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6708,7 +6708,7 @@
       "create_time": 1752933698,
       "formatted_time": "2025-07-19 22:01:38",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6716,7 +6716,7 @@
       "create_time": 1752933700,
       "formatted_time": "2025-07-19 22:01:40",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -6740,7 +6740,7 @@
       "create_time": 1752933723,
       "formatted_time": "2025-07-19 22:02:03",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -6884,7 +6884,7 @@
       "create_time": 1752934118,
       "formatted_time": "2025-07-19 22:08:38",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -6892,7 +6892,7 @@
       "create_time": 1752934128,
       "formatted_time": "2025-07-19 22:08:48",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -6908,7 +6908,7 @@
       "create_time": 1752934140,
       "formatted_time": "2025-07-19 22:09:00",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -6980,7 +6980,7 @@
       "create_time": 1752934322,
       "formatted_time": "2025-07-19 22:12:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -7036,7 +7036,7 @@
       "create_time": 1752934401,
       "formatted_time": "2025-07-19 22:13:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -7108,7 +7108,7 @@
       "create_time": 1752934578,
       "formatted_time": "2025-07-19 22:16:18",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -7124,7 +7124,7 @@
       "create_time": 1752934610,
       "formatted_time": "2025-07-19 22:16:50",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1752934614,
@@ -7242,7 +7242,7 @@
       "create_time": 1752935108,
       "formatted_time": "2025-07-19 22:25:08",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -7378,7 +7378,7 @@
       "create_time": 1752935406,
       "formatted_time": "2025-07-19 22:30:06",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -7474,7 +7474,7 @@
       "create_time": 1752935692,
       "formatted_time": "2025-07-19 22:34:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -7514,7 +7514,7 @@
       "create_time": 1752935820,
       "formatted_time": "2025-07-19 22:37:00",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1752935837,
@@ -7536,13 +7536,13 @@
       "create_time": 1752935908,
       "formatted_time": "2025-07-19 22:38:28",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1752935909,
       "formatted_time": "2025-07-19 22:38:29",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1752935927,
@@ -7580,7 +7580,7 @@
       "create_time": 1752936016,
       "formatted_time": "2025-07-19 22:40:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -7596,7 +7596,7 @@
       "create_time": 1752936186,
       "formatted_time": "2025-07-19 22:43:06",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -7612,7 +7612,7 @@
       "create_time": 1752993939,
       "formatted_time": "2025-07-20 14:45:39",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -7620,7 +7620,7 @@
       "create_time": 1753006735,
       "formatted_time": "2025-07-20 18:18:55",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -7628,7 +7628,7 @@
       "create_time": 1753007353,
       "formatted_time": "2025-07-20 18:29:13",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -7644,7 +7644,7 @@
       "create_time": 1753013029,
       "formatted_time": "2025-07-20 20:03:49",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -7660,7 +7660,7 @@
       "create_time": 1753013059,
       "formatted_time": "2025-07-20 20:04:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -7748,7 +7748,7 @@
       "create_time": 1753013571,
       "formatted_time": "2025-07-20 20:12:51",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -7836,7 +7836,7 @@
       "create_time": 1753014094,
       "formatted_time": "2025-07-20 20:21:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "郭仪杰-24-金管",
       "sender_wxid": "wxid_tbbxhj3y0av622"
     },
@@ -7852,7 +7852,7 @@
       "create_time": 1753014694,
       "formatted_time": "2025-07-20 20:31:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "郭仪杰-24-金管",
       "sender_wxid": "wxid_tbbxhj3y0av622"
     },
@@ -7892,7 +7892,7 @@
       "create_time": 1753019230,
       "formatted_time": "2025-07-20 21:47:10",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -7932,7 +7932,7 @@
       "create_time": 1753020506,
       "formatted_time": "2025-07-20 22:08:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -7964,7 +7964,7 @@
       "create_time": 1753020530,
       "formatted_time": "2025-07-20 22:08:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -7972,7 +7972,7 @@
       "create_time": 1753020549,
       "formatted_time": "2025-07-20 22:09:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -8036,7 +8036,7 @@
       "create_time": 1753020595,
       "formatted_time": "2025-07-20 22:09:55",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -8052,7 +8052,7 @@
       "create_time": 1753020607,
       "formatted_time": "2025-07-20 22:10:07",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "财新 李欣然",
       "sender_wxid": "wxid_w35jeaptutbf22"
     },
@@ -8084,7 +8084,7 @@
       "create_time": 1753020690,
       "formatted_time": "2025-07-20 22:11:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "邬瑞媛 中财+金管",
       "sender_wxid": "wxid_u8azrfiaektu22"
     },
@@ -8092,7 +8092,7 @@
       "create_time": 1753020712,
       "formatted_time": "2025-07-20 22:11:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -8100,7 +8100,7 @@
       "create_time": 1753020722,
       "formatted_time": "2025-07-20 22:12:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -8124,7 +8124,7 @@
       "create_time": 1753020773,
       "formatted_time": "2025-07-20 22:12:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -8140,7 +8140,7 @@
       "create_time": 1753020874,
       "formatted_time": "2025-07-20 22:14:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "管双 郑沁嘉",
       "sender_wxid": "wxid_wysat8o3ipmo12"
     },
@@ -8148,7 +8148,7 @@
       "create_time": 1753020874,
       "formatted_time": "2025-07-20 22:14:34",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1753020886,
@@ -8162,7 +8162,7 @@
       "create_time": 1753020890,
       "formatted_time": "2025-07-20 22:14:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -8225,7 +8225,7 @@
       "formatted_time": "2025-07-20 22:18:24",
       "type": "文本消息",
       "str_content": "好真诚的会长们😭😭",
-      "sender_name": "25经济罗湘～",
+      "sender_name": "25经济罗湘",
       "sender_wxid": "wxid_zmsn63np2hlw22"
     },
     {
@@ -8380,7 +8380,7 @@
       "create_time": 1753022908,
       "formatted_time": "2025-07-20 22:48:28",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -8413,7 +8413,7 @@
       "formatted_time": "2025-07-20 22:49:07",
       "type": "文本消息",
       "str_content": "来了，啥时候，我留档期",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -8452,8 +8452,8 @@
       "create_time": 1753022987,
       "formatted_time": "2025-07-20 22:49:47",
       "type": "动画表情",
-      "str_content": "[????]",
-      "sender_name": "第小查",
+      "str_content": "[表情消息]",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -8516,7 +8516,7 @@
       "create_time": 1753023241,
       "formatted_time": "2025-07-20 22:54:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "月亮邮递员",
       "sender_wxid": "wxid_aqamvidydq1j22"
     },
@@ -8524,7 +8524,7 @@
       "create_time": 1753023260,
       "formatted_time": "2025-07-20 22:54:20",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "金管 陈凌智",
       "sender_wxid": "wxid_frtwmbm4v5mi12"
     },
@@ -8556,7 +8556,7 @@
       "create_time": 1753024966,
       "formatted_time": "2025-07-20 23:22:46",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -8580,7 +8580,7 @@
       "create_time": 1753025093,
       "formatted_time": "2025-07-20 23:24:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -8596,7 +8596,7 @@
       "create_time": 1753025315,
       "formatted_time": "2025-07-20 23:28:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "p",
       "sender_wxid": "wxid_rsushkfbrcqz22"
     },
@@ -8604,15 +8604,15 @@
       "create_time": 1753025409,
       "formatted_time": "2025-07-20 23:30:09",
       "type": "红包卡片",
-      "str_content": "[??]",
-      "sender_name": "⚡",
+      "str_content": "[红包]",
+      "sender_name": "雷鸣",
       "sender_wxid": "wxid_03tfi71nxxpt22"
     },
     {
       "create_time": 1753025449,
       "formatted_time": "2025-07-20 23:30:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -8620,7 +8620,7 @@
       "create_time": 1753025452,
       "formatted_time": "2025-07-20 23:30:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "夏雨欣 23",
       "sender_wxid": "wxid_avo16ayn44v921"
     },
@@ -8628,15 +8628,15 @@
       "create_time": 1753025453,
       "formatted_time": "2025-07-20 23:30:53",
       "type": "动画表情",
-      "str_content": "[????]",
-      "sender_name": "⚡",
+      "str_content": "[表情消息]",
+      "sender_name": "雷鸣",
       "sender_wxid": "wxid_03tfi71nxxpt22"
     },
     {
       "create_time": 1753025456,
       "formatted_time": "2025-07-20 23:30:56",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24 企业管理 吉驰",
       "sender_wxid": "wxid_e7z3098ehxho12"
     },
@@ -8644,7 +8644,7 @@
       "create_time": 1753025457,
       "formatted_time": "2025-07-20 23:30:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -8652,7 +8652,7 @@
       "create_time": 1753025458,
       "formatted_time": "2025-07-20 23:30:58",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -8660,15 +8660,15 @@
       "create_time": 1753025459,
       "formatted_time": "2025-07-20 23:30:59",
       "type": "动画表情",
-      "str_content": "[????]",
-      "sender_name": "第小查",
+      "str_content": "[表情消息]",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
       "create_time": 1753025462,
       "formatted_time": "2025-07-20 23:31:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "吕和薇",
       "sender_wxid": "wxid_b1jjjv85wnwo22"
     },
@@ -8676,7 +8676,7 @@
       "create_time": 1753025464,
       "formatted_time": "2025-07-20 23:31:04",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -8691,7 +8691,7 @@
       "create_time": 1753025469,
       "formatted_time": "2025-07-20 23:31:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "p",
       "sender_wxid": "wxid_rsushkfbrcqz22"
     },
@@ -8713,7 +8713,7 @@
       "create_time": 1753025476,
       "formatted_time": "2025-07-20 23:31:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "小兜（早睡早起版",
       "sender_wxid": "wxid_yq17xkjyj7xv22"
     },
@@ -8721,7 +8721,7 @@
       "create_time": 1753025478,
       "formatted_time": "2025-07-20 23:31:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -8729,7 +8729,7 @@
       "create_time": 1753025494,
       "formatted_time": "2025-07-20 23:31:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "管双 郑沁嘉",
       "sender_wxid": "wxid_wysat8o3ipmo12"
     },
@@ -8753,7 +8753,7 @@
       "create_time": 1753025503,
       "formatted_time": "2025-07-20 23:31:43",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "邬瑞媛 中财+金管",
       "sender_wxid": "wxid_u8azrfiaektu22"
     },
@@ -8798,7 +8798,7 @@
       "formatted_time": "2025-07-20 23:31:59",
       "type": "文本消息",
       "str_content": "@第小查 好意思吗",
-      "sender_name": "⚡",
+      "sender_name": "雷鸣",
       "sender_wxid": "wxid_03tfi71nxxpt22"
     },
     {
@@ -8813,8 +8813,8 @@
       "create_time": 1753025522,
       "formatted_time": "2025-07-20 23:32:02",
       "type": "动画表情",
-      "str_content": "[????]",
-      "sender_name": "第小查",
+      "str_content": "[表情消息]",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -8829,7 +8829,7 @@
       "create_time": 1753025532,
       "formatted_time": "2025-07-20 23:32:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -8837,7 +8837,7 @@
       "create_time": 1753025539,
       "formatted_time": "2025-07-20 23:32:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Rae",
       "sender_wxid": "wxid_5183051833512"
     },
@@ -8853,8 +8853,8 @@
       "create_time": 1753025555,
       "formatted_time": "2025-07-20 23:32:35",
       "type": "红包卡片",
-      "str_content": "[??]",
-      "sender_name": "第小查",
+      "str_content": "[红包]",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -8870,7 +8870,7 @@
       "formatted_time": "2025-07-20 23:32:46",
       "type": "文本消息",
       "str_content": "我爆个金币",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -8900,7 +8900,7 @@
       "formatted_time": "2025-07-20 23:33:34",
       "type": "文本消息",
       "str_content": "谢谢",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -8908,7 +8908,7 @@
       "formatted_time": "2025-07-20 23:33:39",
       "type": "文本消息",
       "str_content": "满18发18",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -8916,7 +8916,7 @@
       "formatted_time": "2025-07-20 23:33:45",
       "type": "文本消息",
       "str_content": "请大家自觉",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -8931,7 +8931,7 @@
       "create_time": 1753025635,
       "formatted_time": "2025-07-20 23:33:55",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "管双 郑沁嘉",
       "sender_wxid": "wxid_wysat8o3ipmo12"
     },
@@ -9018,7 +9018,7 @@
       "formatted_time": "2025-07-20 23:35:58",
       "type": "文本消息",
       "str_content": "等大家正式加入会有一波红包雨[机智][机智]",
-      "sender_name": "⚡",
+      "sender_name": "雷鸣",
       "sender_wxid": "wxid_03tfi71nxxpt22"
     },
     {
@@ -9033,7 +9033,7 @@
       "create_time": 1753025767,
       "formatted_time": "2025-07-20 23:36:07",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -9128,7 +9128,7 @@
       "formatted_time": "2025-07-20 23:37:30",
       "type": "引用消息",
       "str_content": "我也没抢到",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -9152,7 +9152,7 @@
       "formatted_time": "2025-07-20 23:39:47",
       "type": "文本消息",
       "str_content": "发了",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -9166,7 +9166,7 @@
       "formatted_time": "2025-07-20 23:39:58",
       "type": "文本消息",
       "str_content": "等大家抢完了我才发现发了",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -9181,7 +9181,7 @@
       "create_time": 1753026011,
       "formatted_time": "2025-07-20 23:40:11",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -9205,7 +9205,7 @@
       "create_time": 1753026023,
       "formatted_time": "2025-07-20 23:40:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "管双 郑沁嘉",
       "sender_wxid": "wxid_wysat8o3ipmo12"
     },
@@ -9213,7 +9213,7 @@
       "create_time": 1753026026,
       "formatted_time": "2025-07-20 23:40:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Rae",
       "sender_wxid": "wxid_5183051833512"
     },
@@ -9221,8 +9221,8 @@
       "create_time": 1753026050,
       "formatted_time": "2025-07-20 23:40:50",
       "type": "图片消息",
-      "str_content": "[??]",
-      "sender_name": "⚡",
+      "str_content": "[图片消息]",
+      "sender_name": "雷鸣",
       "sender_wxid": "wxid_03tfi71nxxpt22"
     },
     {
@@ -9246,7 +9246,7 @@
       "formatted_time": "2025-07-20 23:41:10",
       "type": "文本消息",
       "str_content": "这张图的含金量SHEFers应该都懂",
-      "sender_name": "⚡",
+      "sender_name": "雷鸣",
       "sender_wxid": "wxid_03tfi71nxxpt22"
     },
     {
@@ -9269,7 +9269,7 @@
       "create_time": 1753026101,
       "formatted_time": "2025-07-20 23:41:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -9278,7 +9278,7 @@
       "formatted_time": "2025-07-20 23:41:41",
       "type": "引用消息",
       "str_content": "看见这个图",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -9286,7 +9286,7 @@
       "formatted_time": "2025-07-20 23:41:49",
       "type": "文本消息",
       "str_content": "我肾上腺素就分泌起来了",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -9294,7 +9294,7 @@
       "formatted_time": "2025-07-20 23:41:59",
       "type": "文本消息",
       "str_content": "这个图是谁截的，居然抢到红包了",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -9310,7 +9310,7 @@
       "formatted_time": "2025-07-20 23:42:02",
       "type": "文本消息",
       "str_content": "为啥我没抢到",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -9318,14 +9318,14 @@
       "formatted_time": "2025-07-20 23:42:11",
       "type": "引用消息",
       "str_content": "蹲",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
       "create_time": 1753026142,
       "formatted_time": "2025-07-20 23:42:22",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1753026150,
@@ -9343,7 +9343,7 @@
       "create_time": 1753026153,
       "formatted_time": "2025-07-20 23:42:33",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9368,14 +9368,14 @@
       "formatted_time": "2025-07-20 23:43:10",
       "type": "引用消息",
       "str_content": "这个绝了",
-      "sender_name": "⚡",
+      "sender_name": "雷鸣",
       "sender_wxid": "wxid_03tfi71nxxpt22"
     },
     {
       "create_time": 1753026194,
       "formatted_time": "2025-07-20 23:43:14",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -9383,7 +9383,7 @@
       "create_time": 1753026199,
       "formatted_time": "2025-07-20 23:43:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张之耀Gloria",
       "sender_wxid": "wxid_jgvxkf4dmdjx22"
     },
@@ -9415,7 +9415,7 @@
       "create_time": 1753026220,
       "formatted_time": "2025-07-20 23:43:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Rae",
       "sender_wxid": "wxid_5183051833512"
     },
@@ -9423,7 +9423,7 @@
       "create_time": 1753026220,
       "formatted_time": "2025-07-20 23:43:40",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9439,7 +9439,7 @@
       "create_time": 1753026234,
       "formatted_time": "2025-07-20 23:43:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张之耀Gloria",
       "sender_wxid": "wxid_jgvxkf4dmdjx22"
     },
@@ -9471,22 +9471,22 @@
       "create_time": 1753026298,
       "formatted_time": "2025-07-20 23:44:58",
       "type": "动画表情",
-      "str_content": "[????]",
-      "sender_name": "第小查",
+      "str_content": "[表情消息]",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
       "create_time": 1753026360,
       "formatted_time": "2025-07-20 23:46:00",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1753026395,
       "formatted_time": "2025-07-20 23:46:35",
       "type": "动画表情",
-      "str_content": "[????]",
-      "sender_name": "第小查",
+      "str_content": "[表情消息]",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -9517,7 +9517,7 @@
       "create_time": 1753027428,
       "formatted_time": "2025-07-21 00:03:48",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -9539,7 +9539,7 @@
       "create_time": 1753057786,
       "formatted_time": "2025-07-21 08:29:46",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9547,7 +9547,7 @@
       "create_time": 1753060038,
       "formatted_time": "2025-07-21 09:07:18",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9555,7 +9555,7 @@
       "create_time": 1753060038,
       "formatted_time": "2025-07-21 09:07:18",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1753067676,
@@ -9569,7 +9569,7 @@
       "create_time": 1753067681,
       "formatted_time": "2025-07-21 11:14:41",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -9577,7 +9577,7 @@
       "create_time": 1753067708,
       "formatted_time": "2025-07-21 11:15:08",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -9593,7 +9593,7 @@
       "create_time": 1753067737,
       "formatted_time": "2025-07-21 11:15:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -9601,7 +9601,7 @@
       "create_time": 1753069516,
       "formatted_time": "2025-07-21 11:45:16",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9609,7 +9609,7 @@
       "create_time": 1753070479,
       "formatted_time": "2025-07-21 12:01:19",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9617,7 +9617,7 @@
       "create_time": 1753071012,
       "formatted_time": "2025-07-21 12:10:12",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9625,7 +9625,7 @@
       "create_time": 1753098652,
       "formatted_time": "2025-07-21 19:50:52",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9649,7 +9649,7 @@
       "create_time": 1753098698,
       "formatted_time": "2025-07-21 19:51:38",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -9665,7 +9665,7 @@
       "create_time": 1753098725,
       "formatted_time": "2025-07-21 19:52:05",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -9673,7 +9673,7 @@
       "create_time": 1753098742,
       "formatted_time": "2025-07-21 19:52:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -9689,7 +9689,7 @@
       "create_time": 1753098770,
       "formatted_time": "2025-07-21 19:52:50",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -9697,7 +9697,7 @@
       "create_time": 1753098770,
       "formatted_time": "2025-07-21 19:52:50",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9721,7 +9721,7 @@
       "create_time": 1753099134,
       "formatted_time": "2025-07-21 19:58:54",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9729,7 +9729,7 @@
       "create_time": 1753099140,
       "formatted_time": "2025-07-21 19:59:00",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9745,7 +9745,7 @@
       "create_time": 1753101483,
       "formatted_time": "2025-07-21 20:38:03",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9785,7 +9785,7 @@
       "create_time": 1753103628,
       "formatted_time": "2025-07-21 21:13:48",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "周圆",
       "sender_wxid": "wxid_rjjvs2q3700422"
     },
@@ -9793,7 +9793,7 @@
       "create_time": 1753103666,
       "formatted_time": "2025-07-21 21:14:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "施语非",
       "sender_wxid": "wxid_tre7gq4k2gx122"
     },
@@ -9801,7 +9801,7 @@
       "create_time": 1753103962,
       "formatted_time": "2025-07-21 21:19:22",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -9817,7 +9817,7 @@
       "create_time": 1753103968,
       "formatted_time": "2025-07-21 21:19:28",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -9889,7 +9889,7 @@
       "create_time": 1753107402,
       "formatted_time": "2025-07-21 22:16:42",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9897,7 +9897,7 @@
       "create_time": 1753186834,
       "formatted_time": "2025-07-22 20:20:34",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9905,7 +9905,7 @@
       "create_time": 1753229072,
       "formatted_time": "2025-07-23 08:04:32",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -9977,7 +9977,7 @@
       "create_time": 1753249063,
       "formatted_time": "2025-07-23 13:37:43",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -10033,7 +10033,7 @@
       "create_time": 1753249833,
       "formatted_time": "2025-07-23 13:50:33",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -10049,7 +10049,7 @@
       "create_time": 1753250847,
       "formatted_time": "2025-07-23 14:07:27",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10057,7 +10057,7 @@
       "create_time": 1753251086,
       "formatted_time": "2025-07-23 14:11:26",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10065,13 +10065,13 @@
       "create_time": 1753251086,
       "formatted_time": "2025-07-23 14:11:26",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1753251611,
       "formatted_time": "2025-07-23 14:20:11",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10079,7 +10079,7 @@
       "create_time": 1753257440,
       "formatted_time": "2025-07-23 15:57:20",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10087,7 +10087,7 @@
       "create_time": 1753270997,
       "formatted_time": "2025-07-23 19:43:17",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10095,7 +10095,7 @@
       "create_time": 1753272361,
       "formatted_time": "2025-07-23 20:06:01",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10103,7 +10103,7 @@
       "create_time": 1753275210,
       "formatted_time": "2025-07-23 20:53:30",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10111,7 +10111,7 @@
       "create_time": 1753355502,
       "formatted_time": "2025-07-24 19:11:42",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10119,7 +10119,7 @@
       "create_time": 1753359453,
       "formatted_time": "2025-07-24 20:17:33",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10127,7 +10127,7 @@
       "create_time": 1753363856,
       "formatted_time": "2025-07-24 21:30:56",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10167,7 +10167,7 @@
       "create_time": 1753443601,
       "formatted_time": "2025-07-25 19:40:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -10175,7 +10175,7 @@
       "create_time": 1753443896,
       "formatted_time": "2025-07-25 19:44:56",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1753444712,
@@ -10197,7 +10197,7 @@
       "create_time": 1753445076,
       "formatted_time": "2025-07-25 20:04:36",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -10205,7 +10205,7 @@
       "create_time": 1753445257,
       "formatted_time": "2025-07-25 20:07:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -10213,7 +10213,7 @@
       "create_time": 1753447020,
       "formatted_time": "2025-07-25 20:37:00",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "文耀瑾-湖南大学-数量和金融科技",
       "sender_wxid": "wxid_40a6a3gn9c9a22"
     },
@@ -10229,7 +10229,7 @@
       "create_time": 1753447059,
       "formatted_time": "2025-07-25 20:37:39",
       "type": "名片消息",
-      "str_content": "[????]",
+      "str_content": "[名片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -10237,7 +10237,7 @@
       "create_time": 1753447082,
       "formatted_time": "2025-07-25 20:38:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -10245,7 +10245,7 @@
       "create_time": 1753447086,
       "formatted_time": "2025-07-25 20:38:06",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -10269,7 +10269,7 @@
       "create_time": 1753447526,
       "formatted_time": "2025-07-25 20:45:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -10365,7 +10365,7 @@
       "create_time": 1753451206,
       "formatted_time": "2025-07-25 21:46:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Ray🌟",
       "sender_wxid": "wxid_stxthg3j01e121"
     },
@@ -10437,7 +10437,7 @@
       "create_time": 1753502075,
       "formatted_time": "2025-07-26 11:54:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Ray🌟",
       "sender_wxid": "wxid_stxthg3j01e121"
     },
@@ -10549,7 +10549,7 @@
       "create_time": 1753502303,
       "formatted_time": "2025-07-26 11:58:23",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10573,7 +10573,7 @@
       "create_time": 1753502600,
       "formatted_time": "2025-07-26 12:03:20",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10597,7 +10597,7 @@
       "create_time": 1753502804,
       "formatted_time": "2025-07-26 12:06:44",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -10613,7 +10613,7 @@
       "create_time": 1753502815,
       "formatted_time": "2025-07-26 12:06:55",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -10629,7 +10629,7 @@
       "create_time": 1753503646,
       "formatted_time": "2025-07-26 12:20:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "林诗堙 24 财新",
       "sender_wxid": "wxid_o47ri5tn02d522"
     },
@@ -10645,7 +10645,7 @@
       "create_time": 1753510886,
       "formatted_time": "2025-07-26 14:21:26",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10653,7 +10653,7 @@
       "create_time": 1753511883,
       "formatted_time": "2025-07-26 14:38:03",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10677,7 +10677,7 @@
       "create_time": 1753516719,
       "formatted_time": "2025-07-26 15:58:39",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "25经济赵婧彤",
       "sender_wxid": "wxid_2pq2bqo5ffil12"
     },
@@ -10741,7 +10741,7 @@
       "create_time": 1753523055,
       "formatted_time": "2025-07-26 17:44:15",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -10749,7 +10749,7 @@
       "create_time": 1753523075,
       "formatted_time": "2025-07-26 17:44:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -10757,7 +10757,7 @@
       "create_time": 1753523128,
       "formatted_time": "2025-07-26 17:45:28",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -10781,13 +10781,13 @@
       "create_time": 1753524123,
       "formatted_time": "2025-07-26 18:02:03",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1753524127,
       "formatted_time": "2025-07-26 18:02:07",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "金管 陈凌智",
       "sender_wxid": "wxid_frtwmbm4v5mi12"
     },
@@ -10803,7 +10803,7 @@
       "create_time": 1753524293,
       "formatted_time": "2025-07-26 18:04:53",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1753524651,
@@ -10825,7 +10825,7 @@
       "create_time": 1753524939,
       "formatted_time": "2025-07-26 18:15:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Sherry（乐观版）",
       "sender_wxid": "wxid_m9ldotp2vefn22"
     },
@@ -10841,7 +10841,7 @@
       "create_time": 1753526174,
       "formatted_time": "2025-07-26 18:36:14",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -10849,7 +10849,7 @@
       "create_time": 1753526201,
       "formatted_time": "2025-07-26 18:36:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈沛阳",
       "sender_wxid": "wxid_4y7zpxsngban12"
     },
@@ -10857,7 +10857,7 @@
       "create_time": 1753526483,
       "formatted_time": "2025-07-26 18:41:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -10921,7 +10921,7 @@
       "create_time": 1753526857,
       "formatted_time": "2025-07-26 18:47:37",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -10937,7 +10937,7 @@
       "create_time": 1753591813,
       "formatted_time": "2025-07-27 12:50:13",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -10945,7 +10945,7 @@
       "create_time": 1753592144,
       "formatted_time": "2025-07-27 12:55:44",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -10961,7 +10961,7 @@
       "create_time": 1753592160,
       "formatted_time": "2025-07-27 12:56:00",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -10969,7 +10969,7 @@
       "create_time": 1753592163,
       "formatted_time": "2025-07-27 12:56:03",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24-韩一赫-财新",
       "sender_wxid": "wxid_6y0h9cdskjpw21"
     },
@@ -10977,7 +10977,7 @@
       "create_time": 1753592260,
       "formatted_time": "2025-07-27 12:57:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -10985,7 +10985,7 @@
       "create_time": 1753598547,
       "formatted_time": "2025-07-27 14:42:27",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -11017,7 +11017,7 @@
       "create_time": 1753615943,
       "formatted_time": "2025-07-27 19:32:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -11025,7 +11025,7 @@
       "create_time": 1753615960,
       "formatted_time": "2025-07-27 19:32:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -11073,7 +11073,7 @@
       "create_time": 1753619615,
       "formatted_time": "2025-07-27 20:33:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -11089,7 +11089,7 @@
       "create_time": 1753622998,
       "formatted_time": "2025-07-27 21:29:58",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -11129,7 +11129,7 @@
       "create_time": 1753625999,
       "formatted_time": "2025-07-27 22:19:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Mab!e",
       "sender_wxid": "wxid_rjcsd3mhxw6p22"
     },
@@ -11145,7 +11145,7 @@
       "create_time": 1753626234,
       "formatted_time": "2025-07-27 22:23:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -11169,7 +11169,7 @@
       "create_time": 1753683609,
       "formatted_time": "2025-07-28 14:20:09",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -11185,7 +11185,7 @@
       "create_time": 1753683633,
       "formatted_time": "2025-07-28 14:20:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -11201,7 +11201,7 @@
       "create_time": 1753683644,
       "formatted_time": "2025-07-28 14:20:44",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Ray🌟",
       "sender_wxid": "wxid_stxthg3j01e121"
     },
@@ -11289,7 +11289,7 @@
       "create_time": 1753683909,
       "formatted_time": "2025-07-28 14:25:09",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1753683917,
@@ -11311,7 +11311,7 @@
       "create_time": 1753684265,
       "formatted_time": "2025-07-28 14:31:05",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "管双 郑沁嘉",
       "sender_wxid": "wxid_wysat8o3ipmo12"
     },
@@ -11351,7 +11351,7 @@
       "create_time": 1753684338,
       "formatted_time": "2025-07-28 14:32:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "金管 陈凌智",
       "sender_wxid": "wxid_frtwmbm4v5mi12"
     },
@@ -11383,7 +11383,7 @@
       "create_time": 1753684357,
       "formatted_time": "2025-07-28 14:32:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "管双 郑沁嘉",
       "sender_wxid": "wxid_wysat8o3ipmo12"
     },
@@ -11399,7 +11399,7 @@
       "create_time": 1753684488,
       "formatted_time": "2025-07-28 14:34:48",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1753684502,
@@ -11413,7 +11413,7 @@
       "create_time": 1753684709,
       "formatted_time": "2025-07-28 14:38:29",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -11421,7 +11421,7 @@
       "create_time": 1753684724,
       "formatted_time": "2025-07-28 14:38:44",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -11477,7 +11477,7 @@
       "create_time": 1753697590,
       "formatted_time": "2025-07-28 18:13:10",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -11493,7 +11493,7 @@
       "create_time": 1753697883,
       "formatted_time": "2025-07-28 18:18:03",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -11533,7 +11533,7 @@
       "create_time": 1753697963,
       "formatted_time": "2025-07-28 18:19:23",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -11549,7 +11549,7 @@
       "create_time": 1753769098,
       "formatted_time": "2025-07-29 14:04:58",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -11573,7 +11573,7 @@
       "create_time": 1753769173,
       "formatted_time": "2025-07-29 14:06:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -11581,7 +11581,7 @@
       "create_time": 1753769315,
       "formatted_time": "2025-07-29 14:08:35",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -11597,7 +11597,7 @@
       "create_time": 1753779031,
       "formatted_time": "2025-07-29 16:50:31",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -11621,7 +11621,7 @@
       "create_time": 1753790159,
       "formatted_time": "2025-07-29 19:55:59",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -11661,7 +11661,7 @@
       "create_time": 1753792832,
       "formatted_time": "2025-07-29 20:40:32",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李英华 24 YEA",
       "sender_wxid": "wxid_2bvtkugdwcpq12"
     },
@@ -11693,7 +11693,7 @@
       "create_time": 1753793712,
       "formatted_time": "2025-07-29 20:55:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Aura",
       "sender_wxid": "wxid_dlwdibi0tfka22"
     },
@@ -11709,7 +11709,7 @@
       "create_time": 1753794157,
       "formatted_time": "2025-07-29 21:02:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "23 金科江冠洲",
       "sender_wxid": "wxid_htnx9vj4qyd711"
     },
@@ -11725,7 +11725,7 @@
       "create_time": 1753794165,
       "formatted_time": "2025-07-29 21:02:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -11781,7 +11781,7 @@
       "create_time": 1753794717,
       "formatted_time": "2025-07-29 21:11:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -11789,7 +11789,7 @@
       "create_time": 1753794742,
       "formatted_time": "2025-07-29 21:12:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "周圆",
       "sender_wxid": "wxid_rjjvs2q3700422"
     },
@@ -11821,7 +11821,7 @@
       "create_time": 1753794885,
       "formatted_time": "2025-07-29 21:14:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -11837,7 +11837,7 @@
       "create_time": 1753794909,
       "formatted_time": "2025-07-29 21:15:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24 企业管理 吉驰",
       "sender_wxid": "wxid_e7z3098ehxho12"
     },
@@ -11845,7 +11845,7 @@
       "create_time": 1753794909,
       "formatted_time": "2025-07-29 21:15:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "华科管院 郑彤",
       "sender_wxid": "wxid_0kgvjr43i9n812"
     },
@@ -11853,7 +11853,7 @@
       "create_time": 1753794937,
       "formatted_time": "2025-07-29 21:15:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24-韩一赫-财新",
       "sender_wxid": "wxid_6y0h9cdskjpw21"
     },
@@ -11861,7 +11861,7 @@
       "create_time": 1753794955,
       "formatted_time": "2025-07-29 21:15:55",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "林诗堙 24 财新",
       "sender_wxid": "wxid_o47ri5tn02d522"
     },
@@ -11877,7 +11877,7 @@
       "create_time": 1753795032,
       "formatted_time": "2025-07-29 21:17:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李昱铭 25经济",
       "sender_wxid": "wxid_wt39r44ph7yu22"
     },
@@ -11885,7 +11885,7 @@
       "create_time": 1753795103,
       "formatted_time": "2025-07-29 21:18:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24-魏杰伦-管理",
       "sender_wxid": "wxid_pbnkngtno21g22"
     },
@@ -11894,7 +11894,7 @@
       "formatted_time": "2025-07-30 10:15:03",
       "type": "文本消息",
       "str_content": "【倚锋资本】投资/投后/BD部实习生 \n岗位职责：\n1、配合部门负责人进行行业分析、项目的信息搜集、跟踪和研究，配合完成相关报告；\n2、配合部门负责人开展投资项目的分析、尽职调查、协议签订、项目管理等工作；\n3、配合部门负责人对已投项目的投后管理工作；\n4、配合负责人进行创新药、器械项目BD工作；\n5、协助部门负责人处理部门相关的日常事务性工作；\n6、领导安排的其它工作。\n\n任职要求：\n1、高校在读本科及以上学历；\n2、生物医药、材料、金融专业等优先；\n3、具备行业研究、信息搜集整合能力，掌握相关行业专业基础，对相关行业技术与发展方向有一定研究；\n4、了解风险投资流程，能熟练运用相关工具进行投资分析、风险评估、估值分析等工作；\n5、为人正直勤奋，对投资事业充满激情，有强烈的目标导向，自我驱动型人才，有强烈的责任感和敬业精神，做事严谨，抗压能力强，具备举一反三的思考能力、执行力和优秀的团队合作精神。\n\n有意向的同学可联系张先生，18101734392（微信同号），简历可发邮箱jiaweizhang@efungcapital.com\n\n实习要求：实习3个月，每周3～5天",
-      "sender_name": "hm",
+      "sender_name": "杨慧敏",
       "sender_wxid": "wxid_d4z4psjbqtk322"
     },
     {
@@ -11902,7 +11902,7 @@
       "formatted_time": "2025-07-30 10:15:24",
       "type": "引用消息",
       "str_content": "带教非常好👍愿意耐心教",
-      "sender_name": "hm",
+      "sender_name": "杨慧敏",
       "sender_wxid": "wxid_d4z4psjbqtk322"
     },
     {
@@ -11941,7 +11941,7 @@
       "create_time": 1753875346,
       "formatted_time": "2025-07-30 19:35:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Mab!e",
       "sender_wxid": "wxid_rjcsd3mhxw6p22"
     },
@@ -11957,7 +11957,7 @@
       "create_time": 1753875575,
       "formatted_time": "2025-07-30 19:39:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "月亮邮递员",
       "sender_wxid": "wxid_aqamvidydq1j22"
     },
@@ -11973,7 +11973,7 @@
       "create_time": 1753877070,
       "formatted_time": "2025-07-30 20:04:30",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -11981,7 +11981,7 @@
       "create_time": 1753877321,
       "formatted_time": "2025-07-30 20:08:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "CAP副会-24财新赵楚楚",
       "sender_wxid": "wxid_it62w7yp4dgj11"
     },
@@ -12013,7 +12013,7 @@
       "create_time": 1753881341,
       "formatted_time": "2025-07-30 21:15:41",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -12053,7 +12053,7 @@
       "create_time": 1753881714,
       "formatted_time": "2025-07-30 21:21:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -12189,7 +12189,7 @@
       "create_time": 1753882637,
       "formatted_time": "2025-07-30 21:37:17",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "23 金科江冠洲",
       "sender_wxid": "wxid_htnx9vj4qyd711"
     },
@@ -12197,7 +12197,7 @@
       "create_time": 1753882678,
       "formatted_time": "2025-07-30 21:37:58",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -12205,7 +12205,7 @@
       "create_time": 1753882699,
       "formatted_time": "2025-07-30 21:38:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24 企业管理 吉驰",
       "sender_wxid": "wxid_e7z3098ehxho12"
     },
@@ -12213,13 +12213,13 @@
       "create_time": 1753883107,
       "formatted_time": "2025-07-30 21:45:07",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1753883191,
       "formatted_time": "2025-07-30 21:46:31",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -12235,7 +12235,7 @@
       "create_time": 1753967942,
       "formatted_time": "2025-07-31 21:19:02",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -12259,7 +12259,7 @@
       "create_time": 1753968010,
       "formatted_time": "2025-07-31 21:20:10",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -12292,7 +12292,7 @@
       "formatted_time": "2025-08-01 12:03:57",
       "type": "文本消息",
       "str_content": "送两张沪上阿姨到店自提券",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -12315,7 +12315,7 @@
       "create_time": 1754021219,
       "formatted_time": "2025-08-01 12:06:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -12323,8 +12323,8 @@
       "create_time": 1754021284,
       "formatted_time": "2025-08-01 12:08:04",
       "type": "动画表情",
-      "str_content": "[????]",
-      "sender_name": "第小查",
+      "str_content": "[表情消息]",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -12371,7 +12371,7 @@
       "create_time": 1754021652,
       "formatted_time": "2025-08-01 12:14:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "管双 郑沁嘉",
       "sender_wxid": "wxid_wysat8o3ipmo12"
     },
@@ -12380,7 +12380,7 @@
       "formatted_time": "2025-08-01 12:15:31",
       "type": "文本消息",
       "str_content": "有",
-      "sender_name": "第小查",
+      "sender_name": "22 金融管理 董欣",
       "sender_wxid": "wxid_jgdrbr0nzxa612"
     },
     {
@@ -12395,7 +12395,7 @@
       "create_time": 1754141474,
       "formatted_time": "2025-08-02 21:31:14",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -12403,7 +12403,7 @@
       "create_time": 1754141475,
       "formatted_time": "2025-08-02 21:31:15",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -12411,7 +12411,7 @@
       "create_time": 1754141482,
       "formatted_time": "2025-08-02 21:31:22",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -12419,7 +12419,7 @@
       "create_time": 1754141494,
       "formatted_time": "2025-08-02 21:31:34",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -12427,7 +12427,7 @@
       "create_time": 1754141519,
       "formatted_time": "2025-08-02 21:31:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -12451,7 +12451,7 @@
       "create_time": 1754141524,
       "formatted_time": "2025-08-02 21:32:04",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -12475,7 +12475,7 @@
       "create_time": 1754141531,
       "formatted_time": "2025-08-02 21:32:11",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -12483,7 +12483,7 @@
       "create_time": 1754141532,
       "formatted_time": "2025-08-02 21:32:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -12491,7 +12491,7 @@
       "create_time": 1754141535,
       "formatted_time": "2025-08-02 21:32:15",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "管双 郑沁嘉",
       "sender_wxid": "wxid_wysat8o3ipmo12"
     },
@@ -12499,7 +12499,7 @@
       "create_time": 1754141544,
       "formatted_time": "2025-08-02 21:32:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "CAP副会-24财新赵楚楚",
       "sender_wxid": "wxid_it62w7yp4dgj11"
     },
@@ -12507,7 +12507,7 @@
       "create_time": 1754141554,
       "formatted_time": "2025-08-02 21:32:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24-韩一赫-财新",
       "sender_wxid": "wxid_6y0h9cdskjpw21"
     },
@@ -12571,7 +12571,7 @@
       "create_time": 1754282055,
       "formatted_time": "2025-08-04 12:34:15",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -12595,7 +12595,7 @@
       "create_time": 1754282146,
       "formatted_time": "2025-08-04 12:35:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -12627,7 +12627,7 @@
       "create_time": 1754282182,
       "formatted_time": "2025-08-04 12:36:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -12691,7 +12691,7 @@
       "create_time": 1754282308,
       "formatted_time": "2025-08-04 12:38:28",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Derek",
       "sender_wxid": "wxid_eb2tdxywb7q222"
     },
@@ -12731,7 +12731,7 @@
       "create_time": 1754282548,
       "formatted_time": "2025-08-04 12:42:28",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -12755,7 +12755,7 @@
       "create_time": 1754283531,
       "formatted_time": "2025-08-04 12:58:51",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -12763,7 +12763,7 @@
       "create_time": 1754311289,
       "formatted_time": "2025-08-04 20:41:29",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -12771,7 +12771,7 @@
       "create_time": 1754311289,
       "formatted_time": "2025-08-04 20:41:29",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1754368051,
@@ -12793,7 +12793,7 @@
       "create_time": 1754368065,
       "formatted_time": "2025-08-05 12:27:45",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -12801,7 +12801,7 @@
       "create_time": 1754368069,
       "formatted_time": "2025-08-05 12:27:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -12825,7 +12825,7 @@
       "create_time": 1754368084,
       "formatted_time": "2025-08-05 12:28:04",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -12833,7 +12833,7 @@
       "create_time": 1754368090,
       "formatted_time": "2025-08-05 12:28:10",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -12857,7 +12857,7 @@
       "create_time": 1754390467,
       "formatted_time": "2025-08-05 18:41:07",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -12873,7 +12873,7 @@
       "create_time": 1754547957,
       "formatted_time": "2025-08-07 14:25:57",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -12881,7 +12881,7 @@
       "create_time": 1754547959,
       "formatted_time": "2025-08-07 14:25:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -12897,7 +12897,7 @@
       "create_time": 1754548049,
       "formatted_time": "2025-08-07 14:27:29",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -12953,7 +12953,7 @@
       "create_time": 1754631318,
       "formatted_time": "2025-08-08 13:35:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -12961,7 +12961,7 @@
       "create_time": 1754631328,
       "formatted_time": "2025-08-08 13:35:28",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1754631333,
@@ -12989,7 +12989,7 @@
       "create_time": 1754631433,
       "formatted_time": "2025-08-08 13:37:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -12997,7 +12997,7 @@
       "create_time": 1754631570,
       "formatted_time": "2025-08-08 13:39:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -13029,7 +13029,7 @@
       "create_time": 1754634361,
       "formatted_time": "2025-08-08 14:26:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "23 金科江冠洲",
       "sender_wxid": "wxid_htnx9vj4qyd711"
     },
@@ -13045,7 +13045,7 @@
       "create_time": 1754634416,
       "formatted_time": "2025-08-08 14:26:56",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Derek",
       "sender_wxid": "wxid_eb2tdxywb7q222"
     },
@@ -13109,7 +13109,7 @@
       "create_time": 1754798909,
       "formatted_time": "2025-08-10 12:08:29",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "金管 陈凌智",
       "sender_wxid": "wxid_frtwmbm4v5mi12"
     },
@@ -13117,7 +13117,7 @@
       "create_time": 1754798910,
       "formatted_time": "2025-08-10 12:08:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -13125,7 +13125,7 @@
       "create_time": 1754798921,
       "formatted_time": "2025-08-10 12:08:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "泥泥",
       "sender_wxid": "wxid_1bbh510hksgf22"
     },
@@ -13189,7 +13189,7 @@
       "create_time": 1754799028,
       "formatted_time": "2025-08-10 12:10:28",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "林诗堙 24 财新",
       "sender_wxid": "wxid_o47ri5tn02d522"
     },
@@ -13197,7 +13197,7 @@
       "create_time": 1754799062,
       "formatted_time": "2025-08-10 12:11:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Mab!e",
       "sender_wxid": "wxid_rjcsd3mhxw6p22"
     },
@@ -13205,7 +13205,7 @@
       "create_time": 1754799084,
       "formatted_time": "2025-08-10 12:11:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -13393,7 +13393,7 @@
       "create_time": 1754828965,
       "formatted_time": "2025-08-10 20:29:25",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -13401,7 +13401,7 @@
       "create_time": 1754828971,
       "formatted_time": "2025-08-10 20:29:31",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -13409,7 +13409,7 @@
       "create_time": 1754828974,
       "formatted_time": "2025-08-10 20:29:34",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -13441,7 +13441,7 @@
       "create_time": 1754829034,
       "formatted_time": "2025-08-10 20:30:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -13465,7 +13465,7 @@
       "create_time": 1754839771,
       "formatted_time": "2025-08-10 23:29:31",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -13489,7 +13489,7 @@
       "create_time": 1754899144,
       "formatted_time": "2025-08-11 15:59:04",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -13497,7 +13497,7 @@
       "create_time": 1754899158,
       "formatted_time": "2025-08-11 15:59:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -13513,7 +13513,7 @@
       "create_time": 1754899163,
       "formatted_time": "2025-08-11 15:59:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -13529,7 +13529,7 @@
       "create_time": 1754899172,
       "formatted_time": "2025-08-11 15:59:32",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "金管 陈凌智",
       "sender_wxid": "wxid_frtwmbm4v5mi12"
     },
@@ -13561,7 +13561,7 @@
       "create_time": 1754899224,
       "formatted_time": "2025-08-11 16:00:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -13617,7 +13617,7 @@
       "create_time": 1754899434,
       "formatted_time": "2025-08-11 16:03:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -13657,7 +13657,7 @@
       "create_time": 1754899927,
       "formatted_time": "2025-08-11 16:12:07",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -13705,7 +13705,7 @@
       "create_time": 1754990950,
       "formatted_time": "2025-08-12 17:29:10",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -13809,7 +13809,7 @@
       "create_time": 1755067549,
       "formatted_time": "2025-08-13 14:45:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -13817,7 +13817,7 @@
       "create_time": 1755067582,
       "formatted_time": "2025-08-13 14:46:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -13887,7 +13887,7 @@
       "create_time": 1755243698,
       "formatted_time": "2025-08-15 15:41:38",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -13903,7 +13903,7 @@
       "create_time": 1755243749,
       "formatted_time": "2025-08-15 15:42:29",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "华科管院 郑彤",
       "sender_wxid": "wxid_0kgvjr43i9n812"
     },
@@ -13911,7 +13911,7 @@
       "create_time": 1755243850,
       "formatted_time": "2025-08-15 15:44:10",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -13935,7 +13935,7 @@
       "create_time": 1755244486,
       "formatted_time": "2025-08-15 15:54:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -13944,7 +13944,7 @@
       "formatted_time": "2025-08-15 16:37:34",
       "type": "文本消息",
       "str_content": "【倚锋资本】投资/投后/BD部实习生 \n岗位职责：\n1、配合部门负责人进行行业分析、项目的信息搜集、跟踪和研究，配合完成相关报告；\n2、配合部门负责人开展投资项目的分析、尽职调查、协议签订、项目管理等工作；\n3、配合部门负责人对已投项目的投后管理工作；\n4、配合负责人进行创新药、器械项目BD工作；\n5、协助部门负责人处理部门相关的日常事务性工作；\n6、领导安排的其它工作。\n\n任职要求：\n1、高校在读本科及以上学历；\n2、生物医药、材料、金融专业等优先；\n3、具备行业研究、信息搜集整合能力，掌握相关行业专业基础，对相关行业技术与发展方向有一定研究；\n4、了解风险投资流程，能熟练运用相关工具进行投资分析、风险评估、估值分析等工作；\n5、为人正直勤奋，对投资事业充满激情，有强烈的目标导向，自我驱动型人才，有强烈的责任感和敬业精神，做事严谨，抗压能力强，具备举一反三的思考能力、执行力和优秀的团队合作精神。\n\n有意向的同学可联系张先生，18101734392（微信同号），简历可发邮箱jiaweizhang@efungcapital.com\n\n实习要求：实习3个月，每周3～5天\n【可内推】",
-      "sender_name": "hm",
+      "sender_name": "杨慧敏",
       "sender_wxid": "wxid_d4z4psjbqtk322"
     },
     {
@@ -13965,7 +13965,7 @@
       "create_time": 1755329381,
       "formatted_time": "2025-08-16 15:29:41",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1755434445,
@@ -13979,7 +13979,7 @@
       "create_time": 1755434458,
       "formatted_time": "2025-08-17 20:40:58",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -13987,7 +13987,7 @@
       "create_time": 1755434459,
       "formatted_time": "2025-08-17 20:40:59",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -13995,7 +13995,7 @@
       "create_time": 1755434460,
       "formatted_time": "2025-08-17 20:41:00",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -14019,7 +14019,7 @@
       "create_time": 1755434731,
       "formatted_time": "2025-08-17 20:45:31",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1755434740,
@@ -14049,7 +14049,7 @@
       "create_time": 1755526343,
       "formatted_time": "2025-08-18 22:12:23",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -14089,7 +14089,7 @@
       "create_time": 1755527176,
       "formatted_time": "2025-08-18 22:26:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "丁一柘",
       "sender_wxid": "wxid_5dgdsdps6nqc12"
     },
@@ -14105,7 +14105,7 @@
       "create_time": 1755527210,
       "formatted_time": "2025-08-18 22:26:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -14193,7 +14193,7 @@
       "create_time": 1755700584,
       "formatted_time": "2025-08-20 22:36:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -14217,7 +14217,7 @@
       "create_time": 1755700735,
       "formatted_time": "2025-08-20 22:38:55",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -14233,7 +14233,7 @@
       "create_time": 1755700916,
       "formatted_time": "2025-08-20 22:41:56",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赵祥",
       "sender_wxid": "wxid_g1khfsvn6tyg22"
     },
@@ -14241,7 +14241,7 @@
       "create_time": 1755700932,
       "formatted_time": "2025-08-20 22:42:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "金管 陈凌智",
       "sender_wxid": "wxid_frtwmbm4v5mi12"
     },
@@ -14257,7 +14257,7 @@
       "create_time": 1755700969,
       "formatted_time": "2025-08-20 22:42:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -14265,7 +14265,7 @@
       "create_time": 1755703374,
       "formatted_time": "2025-08-20 23:22:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王蓼汀-24-财新",
       "sender_wxid": "wxid_rjyq3qiw1d5d21"
     },
@@ -14289,7 +14289,7 @@
       "create_time": 1755950837,
       "formatted_time": "2025-08-23 20:07:17",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李英华 24 YEA",
       "sender_wxid": "wxid_2bvtkugdwcpq12"
     },
@@ -14297,7 +14297,7 @@
       "create_time": 1755950850,
       "formatted_time": "2025-08-23 20:07:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -14313,7 +14313,7 @@
       "create_time": 1755950888,
       "formatted_time": "2025-08-23 20:08:08",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -14361,7 +14361,7 @@
       "create_time": 1755951948,
       "formatted_time": "2025-08-23 20:25:48",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -14369,7 +14369,7 @@
       "create_time": 1755952308,
       "formatted_time": "2025-08-23 20:31:48",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -14377,7 +14377,7 @@
       "create_time": 1755952842,
       "formatted_time": "2025-08-23 20:40:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "23 金科江冠洲",
       "sender_wxid": "wxid_htnx9vj4qyd711"
     },
@@ -14401,7 +14401,7 @@
       "create_time": 1756211484,
       "formatted_time": "2025-08-26 20:31:24",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -14417,7 +14417,7 @@
       "create_time": 1756295165,
       "formatted_time": "2025-08-27 19:46:05",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -14433,7 +14433,7 @@
       "create_time": 1756295196,
       "formatted_time": "2025-08-27 19:46:36",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -14465,7 +14465,7 @@
       "create_time": 1756295209,
       "formatted_time": "2025-08-27 19:46:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -14473,7 +14473,7 @@
       "create_time": 1756295344,
       "formatted_time": "2025-08-27 19:49:04",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -14489,7 +14489,7 @@
       "create_time": 1756296673,
       "formatted_time": "2025-08-27 20:11:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "CAP副会-24财新赵楚楚",
       "sender_wxid": "wxid_it62w7yp4dgj11"
     },
@@ -14497,7 +14497,7 @@
       "create_time": 1756296701,
       "formatted_time": "2025-08-27 20:11:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -14505,7 +14505,7 @@
       "create_time": 1756368042,
       "formatted_time": "2025-08-28 16:00:42",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -14529,7 +14529,7 @@
       "create_time": 1756385610,
       "formatted_time": "2025-08-28 20:53:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -14545,7 +14545,7 @@
       "create_time": 1756385626,
       "formatted_time": "2025-08-28 20:53:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -14561,7 +14561,7 @@
       "create_time": 1756385691,
       "formatted_time": "2025-08-28 20:54:51",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -14569,7 +14569,7 @@
       "create_time": 1756385842,
       "formatted_time": "2025-08-28 20:57:22",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1756385845,
@@ -14599,7 +14599,7 @@
       "create_time": 1756386000,
       "formatted_time": "2025-08-28 21:00:00",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -14631,7 +14631,7 @@
       "create_time": 1756467431,
       "formatted_time": "2025-08-29 19:37:11",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -14687,7 +14687,7 @@
       "create_time": 1756469178,
       "formatted_time": "2025-08-29 20:06:18",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -14711,7 +14711,7 @@
       "create_time": 1756469253,
       "formatted_time": "2025-08-29 20:07:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -14735,7 +14735,7 @@
       "create_time": 1756469330,
       "formatted_time": "2025-08-29 20:08:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -14767,7 +14767,7 @@
       "create_time": 1756472113,
       "formatted_time": "2025-08-29 20:55:13",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -14775,7 +14775,7 @@
       "create_time": 1756539687,
       "formatted_time": "2025-08-30 15:41:27",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -14799,7 +14799,7 @@
       "create_time": 1756545767,
       "formatted_time": "2025-08-30 17:22:47",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -14823,7 +14823,7 @@
       "create_time": 1756545865,
       "formatted_time": "2025-08-30 17:24:25",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -14831,7 +14831,7 @@
       "create_time": 1756546028,
       "formatted_time": "2025-08-30 17:27:08",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -14855,7 +14855,7 @@
       "create_time": 1756623313,
       "formatted_time": "2025-08-31 14:55:13",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "马超然24经济",
       "sender_wxid": "wxid_hp5dv37torqf22"
     },
@@ -14879,7 +14879,7 @@
       "create_time": 1756623449,
       "formatted_time": "2025-08-31 14:57:29",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -14903,7 +14903,7 @@
       "create_time": 1756624381,
       "formatted_time": "2025-08-31 15:13:01",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -14911,7 +14911,7 @@
       "create_time": 1756628844,
       "formatted_time": "2025-08-31 16:27:24",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -14943,7 +14943,7 @@
       "create_time": 1756634626,
       "formatted_time": "2025-08-31 18:03:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -14959,7 +14959,7 @@
       "create_time": 1756651945,
       "formatted_time": "2025-08-31 22:52:25",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "林诗堙 24 财新",
       "sender_wxid": "wxid_o47ri5tn02d522"
     },
@@ -15093,7 +15093,7 @@
       "create_time": 1756716136,
       "formatted_time": "2025-09-01 16:42:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -15165,7 +15165,7 @@
       "create_time": 1756810799,
       "formatted_time": "2025-09-02 18:59:59",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1756824173,
@@ -15179,7 +15179,7 @@
       "create_time": 1756824183,
       "formatted_time": "2025-09-02 22:43:03",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -15187,7 +15187,7 @@
       "create_time": 1756824225,
       "formatted_time": "2025-09-02 22:43:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24 企业管理 吉驰",
       "sender_wxid": "wxid_e7z3098ehxho12"
     },
@@ -15195,7 +15195,7 @@
       "create_time": 1756824272,
       "formatted_time": "2025-09-02 22:44:32",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -15203,7 +15203,7 @@
       "create_time": 1756824281,
       "formatted_time": "2025-09-02 22:44:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -15211,7 +15211,7 @@
       "create_time": 1756824798,
       "formatted_time": "2025-09-02 22:53:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李硕-西安交通大学-金融",
       "sender_wxid": "wxid_bqp2b4w4mxy322"
     },
@@ -15243,7 +15243,7 @@
       "create_time": 1757077537,
       "formatted_time": "2025-09-05 21:05:37",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -15267,7 +15267,7 @@
       "create_time": 1757134202,
       "formatted_time": "2025-09-06 12:50:02",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -15275,7 +15275,7 @@
       "create_time": 1757146784,
       "formatted_time": "2025-09-06 16:19:44",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "【SHEF深港】喊你回家吃饭2025",
       "sender_wxid": "48896710638@chatroom"
     },
@@ -15283,7 +15283,7 @@
       "create_time": 1757252831,
       "formatted_time": "2025-09-07 21:47:11",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -15331,7 +15331,7 @@
       "create_time": 1757252860,
       "formatted_time": "2025-09-07 21:47:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "CAP副会-24财新赵楚楚",
       "sender_wxid": "wxid_it62w7yp4dgj11"
     },
@@ -15371,7 +15371,7 @@
       "create_time": 1757252877,
       "formatted_time": "2025-09-07 21:47:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "丁一柘",
       "sender_wxid": "wxid_5dgdsdps6nqc12"
     },
@@ -15403,7 +15403,7 @@
       "create_time": 1757252908,
       "formatted_time": "2025-09-07 21:48:28",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -15443,7 +15443,7 @@
       "create_time": 1757252947,
       "formatted_time": "2025-09-07 21:49:07",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨沈凌锐",
       "sender_wxid": "wxid_urps0y4eiypp12"
     },
@@ -15459,7 +15459,7 @@
       "create_time": 1757252951,
       "formatted_time": "2025-09-07 21:49:11",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -15483,25 +15483,25 @@
       "create_time": 1757267121,
       "formatted_time": "2025-09-08 01:45:21",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1757267136,
       "formatted_time": "2025-09-08 01:45:36",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1757267138,
       "formatted_time": "2025-09-08 01:45:38",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1757267181,
       "formatted_time": "2025-09-08 01:46:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "郭仪杰-24-金管",
       "sender_wxid": "wxid_tbbxhj3y0av622"
     },
@@ -15573,7 +15573,7 @@
       "create_time": 1757426369,
       "formatted_time": "2025-09-09 21:59:29",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -15589,7 +15589,7 @@
       "create_time": 1757427329,
       "formatted_time": "2025-09-09 22:15:29",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "泥泥",
       "sender_wxid": "wxid_1bbh510hksgf22"
     },
@@ -15613,7 +15613,7 @@
       "create_time": 1757427794,
       "formatted_time": "2025-09-09 22:23:14",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈柯宇 24",
       "sender_wxid": "wxid_ar90oegsq14h22"
     },
@@ -15645,7 +15645,7 @@
       "create_time": 1757503342,
       "formatted_time": "2025-09-10 19:22:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许家启-24-金投",
       "sender_wxid": "wxid_8qumlhd1468812"
     },
@@ -15661,11 +15661,11 @@
       "create_time": 1757505309,
       "formatted_time": "2025-09-10 19:55:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "徐文杰",
       "sender_wxid": "wxid_b7vb1dipn8xh22"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 1972
 }

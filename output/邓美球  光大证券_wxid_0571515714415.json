@@ -6,7 +6,7 @@
       "create_time": 1693618381,
       "formatted_time": "2023-09-02 09:33:01",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "邓美球  光大证券"
     },
     {
@@ -34,7 +34,7 @@
       "create_time": 1693618567,
       "formatted_time": "2023-09-02 09:36:07",
       "type": "名片消息",
-      "str_content": "[????]",
+      "str_content": "[名片消息]",
       "sender_name": "邓美球  光大证券"
     },
     {
@@ -45,6 +45,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 6
 }

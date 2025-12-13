@@ -288,8 +288,50 @@
       "type": "图文消息",
       "str_content": "【财经早餐】2025.12.07星期日",
       "sender_name": "财经早餐"
+    },
+    {
+      "create_time": 1765146280,
+      "formatted_time": "2025-12-08 06:24:40",
+      "type": "图文消息",
+      "str_content": "【财经早餐】2025.12.08星期一",
+      "sender_name": "财经早餐"
+    },
+    {
+      "create_time": 1765233264,
+      "formatted_time": "2025-12-09 06:34:24",
+      "type": "图文消息",
+      "str_content": "【财经早餐】2025.12.09星期二",
+      "sender_name": "财经早餐"
+    },
+    {
+      "create_time": 1765319276,
+      "formatted_time": "2025-12-10 06:27:56",
+      "type": "图文消息",
+      "str_content": "【财经早餐】2025.12.10星期三",
+      "sender_name": "财经早餐"
+    },
+    {
+      "create_time": 1765405778,
+      "formatted_time": "2025-12-11 06:29:38",
+      "type": "图文消息",
+      "str_content": "【财经早餐】2025.12.11星期四",
+      "sender_name": "财经早餐"
+    },
+    {
+      "create_time": 1765491665,
+      "formatted_time": "2025-12-12 06:21:05",
+      "type": "图文消息",
+      "str_content": "【财经早餐】2025.12.12星期五",
+      "sender_name": "财经早餐"
+    },
+    {
+      "create_time": 1765578363,
+      "formatted_time": "2025-12-13 06:26:03",
+      "type": "图文消息",
+      "str_content": "【财经早餐】2025.12.13星期六",
+      "sender_name": "财经早餐"
     }
   ],
-  "export_time": "2025-12-07T09:58:50+08:00",
-  "message_count": 41
+  "export_time": "2025-12-13T14:57:45+08:00",
+  "message_count": 47
 }

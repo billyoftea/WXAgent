@@ -6,7 +6,7 @@
       "create_time": 1756715702,
       "formatted_time": "2025-09-01 16:35:02",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "约球小队",
       "sender_wxid": "58716275172@chatroom"
     },
@@ -77,7 +77,7 @@
       "create_time": 1756735819,
       "formatted_time": "2025-09-01 22:10:19",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "野云催暮",
       "sender_wxid": "wxid_ermoshi0op2222"
     },
@@ -154,6 +154,6 @@
       "sender_wxid": "wxid_ermoshi0op2222"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 19
 }

@@ -14,7 +14,7 @@
       "create_time": 1761561523,
       "formatted_time": "2025-10-27 18:38:43",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "Dubhe",
       "sender_wxid": "wxid_m45vtlv2em5a22"
     },
@@ -46,13 +46,13 @@
       "create_time": 1762511955,
       "formatted_time": "2025-11-07 18:39:15",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762511955,
       "formatted_time": "2025-11-07 18:39:15",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762673860,
@@ -88,25 +88,25 @@
       "create_time": 1763048553,
       "formatted_time": "2025-11-13 23:42:33",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763048845,
       "formatted_time": "2025-11-13 23:47:25",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763114904,
       "formatted_time": "2025-11-14 18:08:24",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763114904,
       "formatted_time": "2025-11-14 18:08:24",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763364424,
@@ -174,7 +174,7 @@
       "create_time": 1764514350,
       "formatted_time": "2025-11-30 22:52:30",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764573016,
@@ -188,19 +188,19 @@
       "create_time": 1764574556,
       "formatted_time": "2025-12-01 15:35:56",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1764574604,
       "formatted_time": "2025-12-01 15:36:44",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1764574706,
       "formatted_time": "2025-12-01 15:38:26",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1764644099,
@@ -214,21 +214,43 @@
       "create_time": 1764861434,
       "formatted_time": "2025-12-04 23:17:14",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764861524,
       "formatted_time": "2025-12-04 23:18:44",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764894905,
       "formatted_time": "2025-12-05 08:35:05",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765253500,
+      "formatted_time": "2025-12-09 12:11:40",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765375805,
+      "formatted_time": "2025-12-10 22:10:05",
+      "type": "文本消息",
+      "str_content": "美团-产品实习生-北京\n\n岗位职责:\n1.基于市场调研、数据分析与用户洞察，输出有效的产品方案或产品策略，帮助更多的用户通过搜推找到餐饮门店；\n2.参与到餐供给图谱建设，为多个应用场景提供足够扎实并且有趣有亮点的决策信息；\n3.持续进行行业洞察，研究行业各方向best及迭代动作，输出有效策略。\n岗位要求:\n1.具备较好的用户视角和同理心，能洞察用户行为背后的需求场景；\n2.敏锐的数据洞察能力，过硬的数据分析功底，SQL熟练；\n3.能至少实习3个月及以上；\n4.具备以下者优先：有搜索、推荐等策略产品实习经验的优先，O2O、电商背景优先，熟练掌握AI工具的优先。\n岗位亮点:\n1、团队靠谱，核心成员均来自业内TOP公司，团队成长氛围好；\n2、可做功空间和潜力巨大，能参与到美团核心业务的重塑，是学习和沉淀认知的好机会；\n3、合作的前后端开发、算法、设计等团队专业度高，且人nice。\n\n简历直通老板，流程快",
+      "sender_name": "lougunm",
+      "sender_wxid": "wxid_giz36lagnr8e21"
+    },
+    {
+      "create_time": 1765375805,
+      "formatted_time": "2025-12-10 22:10:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "sender_name": "lougunm",
+      "sender_wxid": "wxid_giz36lagnr8e21"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
-  "message_count": 32
+  "export_time": "2025-12-13T14:57:47+08:00",
+  "message_count": 35
 }

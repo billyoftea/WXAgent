@@ -141,8 +141,36 @@
       "type": "图文消息",
       "str_content": "FINCH：大规模金融智能Text-to-SQL数据集",
       "sender_name": "灵度智能"
+    },
+    {
+      "create_time": 1765167128,
+      "formatted_time": "2025-12-08 12:12:08",
+      "type": "图文消息",
+      "str_content": "DRFN：基于静态和动态双重关系的股票预测融合网络",
+      "sender_name": "灵度智能"
+    },
+    {
+      "create_time": 1765328611,
+      "formatted_time": "2025-12-10 09:03:31",
+      "type": "图文消息",
+      "str_content": "全国首部AI智能体应用评估标准，现公开征集起草单位和个人",
+      "sender_name": "灵度智能"
+    },
+    {
+      "create_time": 1765426328,
+      "formatted_time": "2025-12-11 12:12:08",
+      "type": "图文消息",
+      "str_content": "FinRS：基于真实金融市场构建的风险敏感的交易框架",
+      "sender_name": "灵度智能"
+    },
+    {
+      "create_time": 1765599120,
+      "formatted_time": "2025-12-13 12:12:00",
+      "type": "图文消息",
+      "str_content": "随机森林中集成LSTM用于股市交易预测",
+      "sender_name": "灵度智能"
     }
   ],
-  "export_time": "2025-12-07T09:58:49+08:00",
-  "message_count": 20
+  "export_time": "2025-12-13T14:57:44+08:00",
+  "message_count": 24
 }

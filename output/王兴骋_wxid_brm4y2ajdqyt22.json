@@ -6,21 +6,21 @@
       "create_time": 1694328681,
       "formatted_time": "2023-09-10 14:51:21",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "王兴骋"
     },
     {
       "create_time": 1694328736,
       "formatted_time": "2023-09-10 14:52:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1694328748,
       "formatted_time": "2023-09-10 14:52:28",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王兴骋"
     },
     {
@@ -83,7 +83,7 @@
       "create_time": 1694329032,
       "formatted_time": "2023-09-10 14:57:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王兴骋"
     },
     {
@@ -139,7 +139,7 @@
       "create_time": 1694329282,
       "formatted_time": "2023-09-10 15:01:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王兴骋"
     },
     {
@@ -188,7 +188,7 @@
       "create_time": 1694333579,
       "formatted_time": "2023-09-10 16:12:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王兴骋"
     },
     {
@@ -241,6 +241,6 @@
       "sender_name": "王兴骋"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:56+08:00",
   "message_count": 34
 }

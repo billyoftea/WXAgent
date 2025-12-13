@@ -14,7 +14,7 @@
       "create_time": 1761064960,
       "formatted_time": "2025-10-22 00:42:40",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "JH Chong",
       "sender_wxid": "wxid_r3ge6l8ex5pq22"
     },
@@ -22,7 +22,7 @@
       "create_time": 1761132359,
       "formatted_time": "2025-10-22 19:25:59",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "PKU Blockchain2025秋季招新交流群",
       "sender_wxid": "49178204004@chatroom"
     },
@@ -46,7 +46,7 @@
       "create_time": 1761709271,
       "formatted_time": "2025-10-29 11:41:11",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "23硕-活策部-佩凌",
       "sender_wxid": "wxid_777al3ch0gcp22"
     },
@@ -54,7 +54,7 @@
       "create_time": 1761709272,
       "formatted_time": "2025-10-29 11:41:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "23硕-活策部-佩凌",
       "sender_wxid": "wxid_777al3ch0gcp22"
     },
@@ -62,7 +62,7 @@
       "create_time": 1761709273,
       "formatted_time": "2025-10-29 11:41:13",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "23硕-活策部-佩凌",
       "sender_wxid": "wxid_777al3ch0gcp22"
     },
@@ -78,7 +78,7 @@
       "create_time": 1761710699,
       "formatted_time": "2025-10-29 12:04:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "熊雨晴Rainie",
       "sender_wxid": "wxid_kim97rz9l2y721"
     },
@@ -86,19 +86,19 @@
       "create_time": 1762494978,
       "formatted_time": "2025-11-07 13:56:18",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763021332,
       "formatted_time": "2025-11-13 16:08:52",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763021332,
       "formatted_time": "2025-11-13 16:08:52",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763107357,
@@ -120,15 +120,39 @@
       "create_time": 1763187272,
       "formatted_time": "2025-11-15 14:14:32",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763187272,
       "formatted_time": "2025-11-15 14:14:32",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765433059,
+      "formatted_time": "2025-12-11 14:04:19",
+      "type": "文本消息",
+      "str_content": "AI Agent 的自动支付问题一直是 AI 发展的痛点。\n\n随着Coinbase和Cloudflare（就是前几天宕机导致全球网络瘫痪的云服务巨头）携手推出x402协议，这一困境可能获得根本解决。\n\nx402本质是一个工作流，被誉为：稳定币之后，web3最有希望真正落地的应用。\n\n目前该协议已经被Google和Visa等共同采用。\n\n希望各位多多批评指正！[抱拳][抱拳]",
+      "sender_name": "Owen Chen",
+      "sender_wxid": "wxid_60436csggvx722"
+    },
+    {
+      "create_time": 1765433060,
+      "formatted_time": "2025-12-11 14:04:20",
+      "type": "图文消息",
+      "str_content": "Google、Visa 参战！x402 协议如何重塑 AI Agent 的支付格局",
+      "sender_name": "Owen Chen",
+      "sender_wxid": "wxid_60436csggvx722"
+    },
+    {
+      "create_time": 1765433060,
+      "formatted_time": "2025-12-11 14:04:20",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "sender_name": "Owen Chen",
+      "sender_wxid": "wxid_60436csggvx722"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
-  "message_count": 17
+  "export_time": "2025-12-13T14:57:48+08:00",
+  "message_count": 20
 }

@@ -6,7 +6,7 @@
       "create_time": 1684653846,
       "formatted_time": "2023-05-21 15:24:06",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "35015981388@chatroom",
       "sender_wxid": "35015981388@chatroom"
     },
@@ -367,7 +367,7 @@
       "create_time": 1685092709,
       "formatted_time": "2023-05-26 17:18:29",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1685092716,
@@ -518,7 +518,7 @@
       "create_time": 1685422738,
       "formatted_time": "2023-05-30 12:58:58",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1685422754,
@@ -603,7 +603,7 @@
       "create_time": 1685437011,
       "formatted_time": "2023-05-30 16:56:51",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1685437020,
@@ -758,6 +758,6 @@
       "str_content": "zhengtao785646:\n注意休息"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 109
 }

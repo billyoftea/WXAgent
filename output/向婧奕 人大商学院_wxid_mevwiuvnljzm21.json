@@ -125,7 +125,7 @@
       "create_time": 1684758703,
       "formatted_time": "2023-05-22 20:31:43",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -139,7 +139,7 @@
       "create_time": 1684758713,
       "formatted_time": "2023-05-22 20:31:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -160,7 +160,7 @@
       "create_time": 1684758784,
       "formatted_time": "2023-05-22 20:33:04",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "向婧奕 人大商学院"
     },
     {
@@ -377,14 +377,14 @@
       "create_time": 1684759533,
       "formatted_time": "2023-05-22 20:45:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1684759681,
       "formatted_time": "2023-05-22 20:48:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "向婧奕 人大商学院"
     },
     {
@@ -426,7 +426,7 @@
       "create_time": 1684759997,
       "formatted_time": "2023-05-22 20:53:17",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "向婧奕 人大商学院"
     },
     {
@@ -496,7 +496,7 @@
       "create_time": 1684771937,
       "formatted_time": "2023-05-23 00:12:17",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -559,7 +559,7 @@
       "create_time": 1684772117,
       "formatted_time": "2023-05-23 00:15:17",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "向婧奕 人大商学院"
     },
     {
@@ -608,7 +608,7 @@
       "create_time": 1689777716,
       "formatted_time": "2023-07-19 22:41:56",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "向婧奕 人大商学院"
     },
     {
@@ -622,28 +622,28 @@
       "create_time": 1689777747,
       "formatted_time": "2023-07-19 22:42:27",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1689777817,
       "formatted_time": "2023-07-19 22:43:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "向婧奕 人大商学院"
     },
     {
       "create_time": 1689777833,
       "formatted_time": "2023-07-19 22:43:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1689777834,
       "formatted_time": "2023-07-19 22:43:54",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "向婧奕 人大商学院"
     },
     {
@@ -790,14 +790,14 @@
       "create_time": 1689778669,
       "formatted_time": "2023-07-19 22:57:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1689778673,
       "formatted_time": "2023-07-19 22:57:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "向婧奕 人大商学院"
     },
     {
@@ -860,7 +860,7 @@
       "create_time": 1689778770,
       "formatted_time": "2023-07-19 22:59:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -871,6 +871,6 @@
       "sender_name": "向婧奕 人大商学院"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 124
 }

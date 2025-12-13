@@ -13,7 +13,7 @@
       "create_time": 1726802759,
       "formatted_time": "2024-09-20 11:25:59",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -27,7 +27,7 @@
       "create_time": 1726802777,
       "formatted_time": "2024-09-20 11:26:17",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1726802810,
@@ -136,11 +136,11 @@
       "create_time": 1726802982,
       "formatted_time": "2024-09-20 11:29:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王琪",
       "sender_wxid": "wxid_rvvhpqa0ogod22"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 19
 }

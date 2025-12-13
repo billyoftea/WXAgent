@@ -48,7 +48,7 @@
       "create_time": 1763963005,
       "formatted_time": "2025-11-24 13:43:25",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "吴梦琳"
     },
     {
@@ -202,7 +202,7 @@
       "create_time": 1763963269,
       "formatted_time": "2025-11-24 13:47:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -272,7 +272,7 @@
       "create_time": 1763963487,
       "formatted_time": "2025-11-24 13:51:27",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -475,7 +475,7 @@
       "create_time": 1763964086,
       "formatted_time": "2025-11-24 14:01:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -507,6 +507,6 @@
       "sender_name": "吴梦琳"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
+  "export_time": "2025-12-13T14:57:48+08:00",
   "message_count": 72
 }

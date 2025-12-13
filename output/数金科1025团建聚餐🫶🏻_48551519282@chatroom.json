@@ -6,7 +6,7 @@
       "create_time": 1761229897,
       "formatted_time": "2025-10-23 22:31:37",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "数金科1025团建聚餐🫶🏻",
       "sender_wxid": "48551519282@chatroom"
     },
@@ -46,7 +46,7 @@
       "create_time": 1761230095,
       "formatted_time": "2025-10-23 22:34:55",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "数金科1025团建聚餐🫶🏻",
       "sender_wxid": "48551519282@chatroom"
     },
@@ -118,7 +118,7 @@
       "create_time": 1761283638,
       "formatted_time": "2025-10-24 13:27:18",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "贸大经济统计郭嘉芸",
       "sender_wxid": "wxid_ua0a66ecbept22"
     },
@@ -134,7 +134,7 @@
       "create_time": 1761373363,
       "formatted_time": "2025-10-25 14:22:43",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "吴承楷",
       "sender_wxid": "wxid_sqlzudtk2mdb22"
     },
@@ -158,13 +158,13 @@
       "create_time": 1761380284,
       "formatted_time": "2025-10-25 16:18:04",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761380288,
       "formatted_time": "2025-10-25 16:18:08",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761380292,
@@ -202,7 +202,7 @@
       "create_time": 1761380310,
       "formatted_time": "2025-10-25 16:18:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "贸大经济统计郭嘉芸",
       "sender_wxid": "wxid_ua0a66ecbept22"
     },
@@ -215,6 +215,6 @@
       "sender_wxid": "wxid_ua0a66ecbept22"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
+  "export_time": "2025-12-13T14:57:48+08:00",
   "message_count": 27
 }

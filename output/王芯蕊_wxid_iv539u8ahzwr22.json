@@ -6,7 +6,7 @@
       "create_time": 1749649963,
       "formatted_time": "2025-06-11 21:52:43",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "王芯蕊"
     },
     {
@@ -111,14 +111,14 @@
       "create_time": 1749979840,
       "formatted_time": "2025-06-15 17:30:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1749979855,
       "formatted_time": "2025-06-15 17:30:55",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王芯蕊"
     },
     {
@@ -202,7 +202,7 @@
       "create_time": 1750134233,
       "formatted_time": "2025-06-17 12:23:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王芯蕊"
     },
     {
@@ -251,7 +251,7 @@
       "create_time": 1750154777,
       "formatted_time": "2025-06-17 18:06:17",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王芯蕊"
     },
     {
@@ -272,10 +272,10 @@
       "create_time": 1750154811,
       "formatted_time": "2025-06-17 18:06:51",
       "type": "视频消息",
-      "str_content": "[????]",
+      "str_content": "[视频消息]",
       "sender_name": "王芯蕊"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 39
 }

@@ -6,13 +6,13 @@
       "create_time": 1693991661,
       "formatted_time": "2023-09-06 17:14:21",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1693991697,
       "formatted_time": "2023-09-06 17:14:57",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "44692885852@chatroom",
       "sender_wxid": "44692885852@chatroom"
     },
@@ -20,7 +20,7 @@
       "create_time": 1693991731,
       "formatted_time": "2023-09-06 17:15:31",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "44692885852@chatroom",
       "sender_wxid": "44692885852@chatroom"
     },
@@ -36,7 +36,7 @@
       "create_time": 1693991800,
       "formatted_time": "2023-09-06 17:16:40",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "44692885852@chatroom",
       "sender_wxid": "44692885852@chatroom"
     },
@@ -44,7 +44,7 @@
       "create_time": 1693991807,
       "formatted_time": "2023-09-06 17:16:47",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "44692885852@chatroom",
       "sender_wxid": "44692885852@chatroom"
     },
@@ -52,7 +52,7 @@
       "create_time": 1693991811,
       "formatted_time": "2023-09-06 17:16:51",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "44692885852@chatroom",
       "sender_wxid": "44692885852@chatroom"
     },
@@ -76,7 +76,7 @@
       "create_time": 1693991847,
       "formatted_time": "2023-09-06 17:17:27",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "天灵灵地灵灵许愿瓶会显灵",
       "sender_wxid": "wxid_nxmrnzvylv7v22"
     },
@@ -84,7 +84,7 @@
       "create_time": 1693991868,
       "formatted_time": "2023-09-06 17:17:48",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "44692885852@chatroom",
       "sender_wxid": "44692885852@chatroom"
     },
@@ -92,7 +92,7 @@
       "create_time": 1693991900,
       "formatted_time": "2023-09-06 17:18:20",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "向笑兮",
       "sender_wxid": "wxid_8ppuscyzsxvs22"
     },
@@ -121,6 +121,6 @@
       "sender_wxid": "wxid_nxmrnzvylv7v22"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 15
 }

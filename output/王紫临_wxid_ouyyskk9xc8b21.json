@@ -6,14 +6,14 @@
       "create_time": 1707809690,
       "formatted_time": "2024-02-13 15:34:50",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "王紫临"
     },
     {
       "create_time": 1707809720,
       "formatted_time": "2024-02-13 15:35:20",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -153,7 +153,7 @@
       "create_time": 1707812745,
       "formatted_time": "2024-02-13 16:25:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王紫临"
     },
     {
@@ -248,6 +248,6 @@
       "sender_name": "王紫临"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 35
 }

@@ -41,7 +41,7 @@
       "create_time": 1689590377,
       "formatted_time": "2023-07-17 18:39:37",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "34764082534@chatroom",
       "sender_wxid": "34764082534@chatroom"
     },
@@ -56,7 +56,7 @@
       "create_time": 1689590403,
       "formatted_time": "2023-07-17 18:40:03",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "谢晗雨",
       "sender_wxid": "wxid_rfwt9pno6w2522"
     },
@@ -72,7 +72,7 @@
       "create_time": 1689590673,
       "formatted_time": "2023-07-17 18:44:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -80,7 +80,7 @@
       "create_time": 1689590696,
       "formatted_time": "2023-07-17 18:44:56",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1689590708,
@@ -94,7 +94,7 @@
       "create_time": 1689590713,
       "formatted_time": "2023-07-17 18:45:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -102,7 +102,7 @@
       "create_time": 1689590714,
       "formatted_time": "2023-07-17 18:45:14",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -134,7 +134,7 @@
       "create_time": 1689590726,
       "formatted_time": "2023-07-17 18:45:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -150,7 +150,7 @@
       "create_time": 1689590739,
       "formatted_time": "2023-07-17 18:45:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -213,7 +213,7 @@
       "create_time": 1689592467,
       "formatted_time": "2023-07-17 19:14:27",
       "type": "位置消息",
-      "str_content": "[????]",
+      "str_content": "[位置消息]",
       "sender": "自己"
     },
     {
@@ -227,7 +227,7 @@
       "create_time": 1689593291,
       "formatted_time": "2023-07-17 19:28:11",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -235,7 +235,7 @@
       "create_time": 1689593313,
       "formatted_time": "2023-07-17 19:28:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "谢晗雨",
       "sender_wxid": "wxid_rfwt9pno6w2522"
     },
@@ -266,7 +266,7 @@
       "create_time": 1689670449,
       "formatted_time": "2023-07-18 16:54:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -302,7 +302,7 @@
       "create_time": 1689672811,
       "formatted_time": "2023-07-18 17:33:31",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -310,7 +310,7 @@
       "create_time": 1689672812,
       "formatted_time": "2023-07-18 17:33:32",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -423,21 +423,21 @@
       "create_time": 1689681720,
       "formatted_time": "2023-07-18 20:02:00",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1689681754,
       "formatted_time": "2023-07-18 20:02:34",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1689681795,
       "formatted_time": "2023-07-18 20:03:15",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -451,7 +451,7 @@
       "create_time": 1689686442,
       "formatted_time": "2023-07-18 21:20:42",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1689686445,
@@ -464,7 +464,7 @@
       "create_time": 1689686451,
       "formatted_time": "2023-07-18 21:20:51",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -503,7 +503,7 @@
       "create_time": 1689686460,
       "formatted_time": "2023-07-18 21:21:00",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -511,7 +511,7 @@
       "create_time": 1689686464,
       "formatted_time": "2023-07-18 21:21:04",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -542,7 +542,7 @@
       "create_time": 1689686510,
       "formatted_time": "2023-07-18 21:21:50",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "谢晗雨",
       "sender_wxid": "wxid_rfwt9pno6w2522"
     },
@@ -558,7 +558,7 @@
       "create_time": 1689686517,
       "formatted_time": "2023-07-18 21:21:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "谢晗雨",
       "sender_wxid": "wxid_rfwt9pno6w2522"
     },
@@ -573,7 +573,7 @@
       "create_time": 1689686541,
       "formatted_time": "2023-07-18 21:22:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -581,7 +581,7 @@
       "create_time": 1689686541,
       "formatted_time": "2023-07-18 21:22:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "谢晗雨",
       "sender_wxid": "wxid_rfwt9pno6w2522"
     },
@@ -665,7 +665,7 @@
       "create_time": 1689686648,
       "formatted_time": "2023-07-18 21:24:08",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -681,7 +681,7 @@
       "create_time": 1689688054,
       "formatted_time": "2023-07-18 21:47:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -689,7 +689,7 @@
       "create_time": 1689688057,
       "formatted_time": "2023-07-18 21:47:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -718,7 +718,7 @@
       "create_time": 1689688848,
       "formatted_time": "2023-07-18 22:00:48",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -734,7 +734,7 @@
       "create_time": 1689763639,
       "formatted_time": "2023-07-19 18:47:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -742,7 +742,7 @@
       "create_time": 1689763650,
       "formatted_time": "2023-07-19 18:47:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -758,7 +758,7 @@
       "create_time": 1689763660,
       "formatted_time": "2023-07-19 18:47:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -782,7 +782,7 @@
       "create_time": 1689763682,
       "formatted_time": "2023-07-19 18:48:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -790,7 +790,7 @@
       "create_time": 1689763699,
       "formatted_time": "2023-07-19 18:48:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -819,7 +819,7 @@
       "create_time": 1689763966,
       "formatted_time": "2023-07-19 18:52:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -827,7 +827,7 @@
       "create_time": 1689763991,
       "formatted_time": "2023-07-19 18:53:11",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -841,7 +841,7 @@
       "create_time": 1689764008,
       "formatted_time": "2023-07-19 18:53:28",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -854,6 +854,6 @@
       "sender_wxid": "wxid_9tevng3slca722"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:56+08:00",
   "message_count": 112
 }

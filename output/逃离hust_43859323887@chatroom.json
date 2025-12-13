@@ -6,13 +6,13 @@
       "create_time": 1716971579,
       "formatted_time": "2024-05-29 16:32:59",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1716971580,
       "formatted_time": "2024-05-29 16:33:00",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "逃离hust",
       "sender_wxid": "43859323887@chatroom"
     },
@@ -20,7 +20,7 @@
       "create_time": 1716971584,
       "formatted_time": "2024-05-29 16:33:04",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "逃离hust",
       "sender_wxid": "43859323887@chatroom"
     },
@@ -28,7 +28,7 @@
       "create_time": 1716971586,
       "formatted_time": "2024-05-29 16:33:06",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "逃离hust",
       "sender_wxid": "43859323887@chatroom"
     },
@@ -36,7 +36,7 @@
       "create_time": 1716971589,
       "formatted_time": "2024-05-29 16:33:09",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "逃离hust",
       "sender_wxid": "43859323887@chatroom"
     },
@@ -44,7 +44,7 @@
       "create_time": 1716971642,
       "formatted_time": "2024-05-29 16:34:02",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "逃离hust",
       "sender_wxid": "43859323887@chatroom"
     },
@@ -52,7 +52,7 @@
       "create_time": 1716971681,
       "formatted_time": "2024-05-29 16:34:41",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "逃离hust",
       "sender_wxid": "43859323887@chatroom"
     },
@@ -76,7 +76,7 @@
       "create_time": 1716972772,
       "formatted_time": "2024-05-29 16:52:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "邢瑞彤",
       "sender_wxid": "wxid_zljh6tfmw7k022"
     },
@@ -184,7 +184,7 @@
       "create_time": 1717551746,
       "formatted_time": "2024-06-05 09:42:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "邢瑞彤",
       "sender_wxid": "wxid_zljh6tfmw7k022"
     },
@@ -200,7 +200,7 @@
       "create_time": 1717551792,
       "formatted_time": "2024-06-05 09:43:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "宋晓缘",
       "sender_wxid": "wxid_j7ctw9ssnccp22"
     },
@@ -366,7 +366,7 @@
       "create_time": 1717650197,
       "formatted_time": "2024-06-06 13:03:17",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "刘卓",
       "sender_wxid": "wxid_bb7sjj1i889x22"
     },
@@ -414,7 +414,7 @@
       "create_time": 1717658705,
       "formatted_time": "2024-06-06 15:25:05",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender": "自己"
     },
     {
@@ -490,7 +490,7 @@
       "create_time": 1717815461,
       "formatted_time": "2024-06-08 10:57:41",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "邢瑞彤",
       "sender_wxid": "wxid_zljh6tfmw7k022"
     },
@@ -514,7 +514,7 @@
       "create_time": 1718164154,
       "formatted_time": "2024-06-12 11:49:14",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender": "自己"
     },
     {
@@ -636,7 +636,7 @@
       "create_time": 1718367108,
       "formatted_time": "2024-06-14 20:11:48",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1718367115,
@@ -650,7 +650,7 @@
       "create_time": 1718367506,
       "formatted_time": "2024-06-14 20:18:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "刘卓",
       "sender_wxid": "wxid_bb7sjj1i889x22"
     },
@@ -690,7 +690,7 @@
       "create_time": 1718367716,
       "formatted_time": "2024-06-14 20:21:56",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "邢瑞彤",
       "sender_wxid": "wxid_zljh6tfmw7k022"
     },
@@ -718,6 +718,6 @@
       "sender": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 92
 }

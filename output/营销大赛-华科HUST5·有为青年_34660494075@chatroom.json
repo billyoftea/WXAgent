@@ -14,7 +14,7 @@
       "create_time": 1698117719,
       "formatted_time": "2023-10-24 11:21:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨堪然",
       "sender_wxid": "wxid_1qo5y1cwfk4711"
     },
@@ -135,7 +135,7 @@
       "create_time": 1698569268,
       "formatted_time": "2023-10-29 16:47:48",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "刘佳仪",
       "sender_wxid": "wxid_00x32kp9dlu622"
     },
@@ -143,7 +143,7 @@
       "create_time": 1698569270,
       "formatted_time": "2023-10-29 16:47:50",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "刘佳仪",
       "sender_wxid": "wxid_00x32kp9dlu622"
     },
@@ -167,19 +167,19 @@
       "create_time": 1698569593,
       "formatted_time": "2023-10-29 16:53:13",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1698569600,
       "formatted_time": "2023-10-29 16:53:20",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1698569627,
       "formatted_time": "2023-10-29 16:53:47",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨堪然",
       "sender_wxid": "wxid_1qo5y1cwfk4711"
     },
@@ -260,13 +260,13 @@
       "create_time": 1702469838,
       "formatted_time": "2023-12-13 20:17:18",
       "type": "语音消息",
-      "str_content": "[????]"
+      "str_content": "[语音消息]"
     },
     {
       "create_time": 1702469884,
       "formatted_time": "2023-12-13 20:18:04",
       "type": "语音消息",
-      "str_content": "[????]"
+      "str_content": "[语音消息]"
     },
     {
       "create_time": 1702470142,
@@ -332,7 +332,7 @@
       "create_time": 1702804427,
       "formatted_time": "2023-12-17 17:13:47",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1702804438,
@@ -346,7 +346,7 @@
       "create_time": 1702804500,
       "formatted_time": "2023-12-17 17:15:00",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "吴卉灵",
       "sender_wxid": "wxid_pkdftw6v0rw522"
     },
@@ -362,19 +362,19 @@
       "create_time": 1702804910,
       "formatted_time": "2023-12-17 17:21:50",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1702804915,
       "formatted_time": "2023-12-17 17:21:55",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1702804923,
       "formatted_time": "2023-12-17 17:22:03",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1702805014,
@@ -391,6 +391,6 @@
       "str_content": "特等奖！管理学院在湖北省大学生营销策划挑战赛中获佳绩-华中科技大学新闻网"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 53
 }

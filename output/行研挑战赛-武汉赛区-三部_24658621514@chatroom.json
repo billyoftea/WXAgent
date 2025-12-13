@@ -14,7 +14,7 @@
       "create_time": 1650542307,
       "formatted_time": "2022-04-21 19:58:27",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赵泽勇",
       "sender_wxid": "wxid_qtsb5p82u7jh22"
     },
@@ -54,7 +54,7 @@
       "create_time": 1650619110,
       "formatted_time": "2022-04-22 17:18:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "芋泥麻薯冰淇淋🍨",
       "sender_wxid": "wxid_ve05cmr2y17z22"
     },
@@ -62,7 +62,7 @@
       "create_time": 1650619161,
       "formatted_time": "2022-04-22 17:19:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "晴栀菀歌",
       "sender_wxid": "wxid_s8eawdh50epw22"
     },
@@ -70,7 +70,7 @@
       "create_time": 1650619177,
       "formatted_time": "2022-04-22 17:19:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "手机屏又双叒叕碎了",
       "sender_wxid": "wxid_xx1uq5jqwd0k22"
     },
@@ -78,7 +78,7 @@
       "create_time": 1650620216,
       "formatted_time": "2022-04-22 17:36:56",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "gugu",
       "sender_wxid": "wxid_kv4twe2an7gj22"
     },
@@ -102,7 +102,7 @@
       "create_time": 1650625273,
       "formatted_time": "2022-04-22 19:01:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Ershu",
       "sender_wxid": "wxid_5j9b4bkfbhvs22"
     },
@@ -118,7 +118,7 @@
       "create_time": 1650625304,
       "formatted_time": "2022-04-22 19:01:44",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "喆",
       "sender_wxid": "wxid_i12e4gsc5khs22"
     },
@@ -142,7 +142,7 @@
       "create_time": 1650625335,
       "formatted_time": "2022-04-22 19:02:15",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Ershu",
       "sender_wxid": "wxid_5j9b4bkfbhvs22"
     },
@@ -198,7 +198,7 @@
       "create_time": 1651024602,
       "formatted_time": "2022-04-27 09:56:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "喆",
       "sender_wxid": "wxid_i12e4gsc5khs22"
     },
@@ -206,13 +206,13 @@
       "create_time": 1651714656,
       "formatted_time": "2022-05-05 09:37:36",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1651715814,
       "formatted_time": "2022-05-05 09:56:54",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1651723516,
@@ -234,25 +234,25 @@
       "create_time": 1651724196,
       "formatted_time": "2022-05-05 12:16:36",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1651724615,
       "formatted_time": "2022-05-05 12:23:35",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1651724993,
       "formatted_time": "2022-05-05 12:29:53",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1651725667,
       "formatted_time": "2022-05-05 12:41:07",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1651728949,
@@ -287,6 +287,6 @@
       "sender_wxid": "wxid_i12e4gsc5khs22"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 37
 }

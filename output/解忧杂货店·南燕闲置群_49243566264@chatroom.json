@@ -6,19 +6,19 @@
       "create_time": 1761882959,
       "formatted_time": "2025-10-31 11:55:59",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762403977,
       "formatted_time": "2025-11-06 12:39:37",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762404191,
       "formatted_time": "2025-11-06 12:43:11",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "吴英豪-吉林大学-数量与金融科技",
       "sender_wxid": "wxid_40c8sm4ke1sl22"
     },
@@ -26,7 +26,7 @@
       "create_time": 1762404192,
       "formatted_time": "2025-11-06 12:43:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "吴英豪-吉林大学-数量与金融科技",
       "sender_wxid": "wxid_40c8sm4ke1sl22"
     },
@@ -42,13 +42,13 @@
       "create_time": 1762405144,
       "formatted_time": "2025-11-06 12:59:04",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762406101,
       "formatted_time": "2025-11-06 13:15:01",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762425702,
@@ -118,13 +118,13 @@
       "create_time": 1763024577,
       "formatted_time": "2025-11-13 17:02:57",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763024605,
       "formatted_time": "2025-11-13 17:03:25",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763024782,
@@ -154,11 +154,25 @@
       "create_time": 1764465622,
       "formatted_time": "2025-11-30 09:20:22",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "辣妈",
       "sender_wxid": "wxid_ng1l3dtxg4hf22"
+    },
+    {
+      "create_time": 1765455278,
+      "formatted_time": "2025-12-11 20:14:38",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765598610,
+      "formatted_time": "2025-12-13 12:03:30",
+      "type": "文本消息",
+      "str_content": "求购peking新帽子、衣服",
+      "sender_name": "秋风月",
+      "sender_wxid": "wxid_g345azjt3ooa22"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
-  "message_count": 21
+  "export_time": "2025-12-13T14:57:48+08:00",
+  "message_count": 23
 }

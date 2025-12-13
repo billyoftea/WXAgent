@@ -6,7 +6,7 @@
       "create_time": 1653018734,
       "formatted_time": "2022-05-20 11:52:14",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "匡祎龙",
       "sender_wxid": "wxid_260mqx6owx5q22"
     },
@@ -22,7 +22,7 @@
       "create_time": 1653018750,
       "formatted_time": "2022-05-20 11:52:30",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -30,7 +30,7 @@
       "create_time": 1653018761,
       "formatted_time": "2022-05-20 11:52:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -38,7 +38,7 @@
       "create_time": 1653019148,
       "formatted_time": "2022-05-20 11:59:08",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "何弘源",
       "sender_wxid": "wxid_1zjpl7xdu07s22"
     },
@@ -46,7 +46,7 @@
       "create_time": 1653020182,
       "formatted_time": "2022-05-20 12:16:22",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "李文彤",
       "sender_wxid": "wxid_w494hyc5nnu331"
     },
@@ -59,6 +59,6 @@
       "sender_wxid": "wxid_ys8znvy2046j22"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 7
 }

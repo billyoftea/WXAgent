@@ -83,7 +83,7 @@
       "create_time": 1761060955,
       "formatted_time": "2025-10-21 23:35:55",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王一茗-对外经济贸易大学-金融科技"
     },
     {
@@ -181,7 +181,7 @@
       "create_time": 1761061219,
       "formatted_time": "2025-10-21 23:40:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -314,14 +314,14 @@
       "create_time": 1761091230,
       "formatted_time": "2025-10-22 08:00:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1761092566,
       "formatted_time": "2025-10-22 08:22:46",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王一茗-对外经济贸易大学-金融科技"
     },
     {
@@ -384,7 +384,7 @@
       "create_time": 1761092793,
       "formatted_time": "2025-10-22 08:26:33",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王一茗-对外经济贸易大学-金融科技"
     },
     {
@@ -636,7 +636,7 @@
       "create_time": 1761180971,
       "formatted_time": "2025-10-23 08:56:11",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -804,7 +804,7 @@
       "create_time": 1761280777,
       "formatted_time": "2025-10-24 12:39:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -916,7 +916,7 @@
       "create_time": 1761491327,
       "formatted_time": "2025-10-26 23:08:47",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -1042,7 +1042,7 @@
       "create_time": 1761501378,
       "formatted_time": "2025-10-27 01:56:18",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -1063,7 +1063,7 @@
       "create_time": 1761501392,
       "formatted_time": "2025-10-27 01:56:32",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -1266,7 +1266,7 @@
       "create_time": 1761562390,
       "formatted_time": "2025-10-27 18:53:10",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "自己"
     },
     {
@@ -1721,7 +1721,7 @@
       "create_time": 1763888438,
       "formatted_time": "2025-11-23 17:00:38",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -2015,7 +2015,7 @@
       "create_time": 1764661366,
       "formatted_time": "2025-12-02 15:42:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -2143,8 +2143,78 @@
       "type": "文本消息",
       "str_content": "合理的",
       "sender_name": "王一茗-对外经济贸易大学-金融科技"
+    },
+    {
+      "create_time": 1765198614,
+      "formatted_time": "2025-12-08 20:56:54",
+      "type": "文本消息",
+      "str_content": "你们竞选",
+      "sender_name": "王一茗-对外经济贸易大学-金融科技"
+    },
+    {
+      "create_time": 1765198616,
+      "formatted_time": "2025-12-08 20:56:56",
+      "type": "文本消息",
+      "str_content": "咋样哇",
+      "sender_name": "王一茗-对外经济贸易大学-金融科技"
+    },
+    {
+      "create_time": 1765208602,
+      "formatted_time": "2025-12-08 23:43:22",
+      "type": "文本消息",
+      "str_content": "运气运气",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765208611,
+      "formatted_time": "2025-12-08 23:43:31",
+      "type": "文本消息",
+      "str_content": "大家真的都很优秀，我相信无论谁上，都会让深港越来越好",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765208616,
+      "formatted_time": "2025-12-08 23:43:36",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈",
+      "sender_name": "王一茗-对外经济贸易大学-金融科技"
+    },
+    {
+      "create_time": 1765208621,
+      "formatted_time": "2025-12-08 23:43:41",
+      "type": "文本消息",
+      "str_content": "所以最后是你啊",
+      "sender_name": "王一茗-对外经济贸易大学-金融科技"
+    },
+    {
+      "create_time": 1765208634,
+      "formatted_time": "2025-12-08 23:43:54",
+      "type": "文本消息",
+      "str_content": "确实[捂脸]运气比较好",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765208670,
+      "formatted_time": "2025-12-08 23:44:30",
+      "type": "文本消息",
+      "str_content": "太强大了昂总",
+      "sender_name": "王一茗-对外经济贸易大学-金融科技"
+    },
+    {
+      "create_time": 1765208684,
+      "formatted_time": "2025-12-08 23:44:44",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "王一茗-对外经济贸易大学-金融科技"
+    },
+    {
+      "create_time": 1765531423,
+      "formatted_time": "2025-12-12 17:23:43",
+      "type": "文本消息",
+      "str_content": "他刚刚叽里咕噜一大堆说啥呢[可怜]",
+      "sender_name": "王一茗-对外经济贸易大学-金融科技"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
-  "message_count": 306
+  "export_time": "2025-12-13T14:57:48+08:00",
+  "message_count": 316
 }

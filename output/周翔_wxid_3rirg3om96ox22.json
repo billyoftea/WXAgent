@@ -6,7 +6,7 @@
       "create_time": 1756090353,
       "formatted_time": "2025-08-25 10:52:33",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "周翔"
     },
     {
@@ -20,7 +20,7 @@
       "create_time": 1756090364,
       "formatted_time": "2025-08-25 10:52:44",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "自己"
     },
     {
@@ -52,6 +52,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 7
 }

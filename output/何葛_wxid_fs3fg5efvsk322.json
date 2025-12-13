@@ -34,14 +34,14 @@
       "create_time": 1730287541,
       "formatted_time": "2024-10-30 19:25:41",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何葛"
     },
     {
       "create_time": 1730287572,
       "formatted_time": "2024-10-30 19:26:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -132,7 +132,7 @@
       "create_time": 1730432813,
       "formatted_time": "2024-11-01 11:46:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -202,7 +202,7 @@
       "create_time": 1736500372,
       "formatted_time": "2025-01-10 17:12:52",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何葛"
     },
     {
@@ -251,7 +251,7 @@
       "create_time": 1736500465,
       "formatted_time": "2025-01-10 17:14:25",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何葛"
     },
     {
@@ -335,7 +335,7 @@
       "create_time": 1745143898,
       "formatted_time": "2025-04-20 18:11:38",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "自己"
     },
     {
@@ -349,7 +349,7 @@
       "create_time": 1745146305,
       "formatted_time": "2025-04-20 18:51:45",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何葛"
     },
     {
@@ -496,7 +496,7 @@
       "create_time": 1749786203,
       "formatted_time": "2025-06-13 11:43:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何葛"
     },
     {
@@ -510,7 +510,7 @@
       "create_time": 1750326672,
       "formatted_time": "2025-06-19 17:51:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -538,7 +538,7 @@
       "create_time": 1750328753,
       "formatted_time": "2025-06-19 18:25:53",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "自己"
     },
     {
@@ -549,6 +549,6 @@
       "sender_name": "何葛"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 78
 }

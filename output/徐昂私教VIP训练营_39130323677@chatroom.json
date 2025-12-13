@@ -6,7 +6,7 @@
       "create_time": 1729769619,
       "formatted_time": "2024-10-24 19:33:39",
       "type": "视频消息",
-      "str_content": "[????]"
+      "str_content": "[视频消息]"
     },
     {
       "create_time": 1729770967,
@@ -20,13 +20,13 @@
       "create_time": 1729772770,
       "formatted_time": "2024-10-24 20:26:10",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1729772785,
       "formatted_time": "2024-10-24 20:26:25",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1729772793,
@@ -46,7 +46,7 @@
       "create_time": 1732797364,
       "formatted_time": "2024-11-28 20:36:04",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1732797480,
@@ -55,6 +55,6 @@
       "str_content": "fengjunbo5202007:\n体重110了💪"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 8
 }

@@ -62,7 +62,7 @@
       "create_time": 1698743602,
       "formatted_time": "2023-10-31 17:13:22",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -146,7 +146,7 @@
       "create_time": 1711856205,
       "formatted_time": "2024-03-31 11:36:45",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -209,7 +209,7 @@
       "create_time": 1711857027,
       "formatted_time": "2024-03-31 11:50:27",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "郑涛"
     },
     {
@@ -391,7 +391,7 @@
       "create_time": 1721276874,
       "formatted_time": "2024-07-18 12:27:54",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "郑涛"
     },
     {
@@ -433,7 +433,7 @@
       "create_time": 1721279135,
       "formatted_time": "2024-07-18 13:05:35",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "郑涛"
     },
     {
@@ -447,14 +447,14 @@
       "create_time": 1721279502,
       "formatted_time": "2024-07-18 13:11:42",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "郑涛"
     },
     {
       "create_time": 1721279539,
       "formatted_time": "2024-07-18 13:12:19",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "郑涛"
     },
     {
@@ -472,6 +472,6 @@
       "sender_name": "郑涛"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 67
 }

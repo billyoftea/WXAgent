@@ -6,7 +6,7 @@
       "create_time": 1760760020,
       "formatted_time": "2025-10-18 12:00:20",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "54421221562@chatroom",
       "sender_wxid": "54421221562@chatroom"
     },
@@ -30,7 +30,7 @@
       "create_time": 1760760068,
       "formatted_time": "2025-10-18 12:01:08",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "聊城计算机于文哲",
       "sender_wxid": "wxid_eqi0xp22b7r522"
     },
@@ -54,7 +54,7 @@
       "create_time": 1760760156,
       "formatted_time": "2025-10-18 12:02:36",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "聊城计算机于文哲",
       "sender_wxid": "wxid_eqi0xp22b7r522"
     },
@@ -154,7 +154,7 @@
       "create_time": 1760760930,
       "formatted_time": "2025-10-18 12:15:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "于德水",
       "sender_wxid": "wxid_pakrek5xcktu22"
     },
@@ -329,7 +329,7 @@
       "create_time": 1760849801,
       "formatted_time": "2025-10-19 12:56:41",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "聊城计算机于文哲",
       "sender_wxid": "wxid_eqi0xp22b7r522"
     },
@@ -353,7 +353,7 @@
       "create_time": 1760916428,
       "formatted_time": "2025-10-20 07:27:08",
       "type": "位置消息",
-      "str_content": "[????]",
+      "str_content": "[位置消息]",
       "sender": "自己"
     },
     {
@@ -487,7 +487,7 @@
       "create_time": 1760922253,
       "formatted_time": "2025-10-20 09:04:13",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1760922264,
@@ -516,7 +516,7 @@
       "create_time": 1760922285,
       "formatted_time": "2025-10-20 09:04:45",
       "type": "位置消息",
-      "str_content": "[????]",
+      "str_content": "[位置消息]",
       "sender": "自己"
     },
     {
@@ -625,7 +625,7 @@
       "create_time": 1760922773,
       "formatted_time": "2025-10-20 09:12:53",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1760922779,
@@ -776,7 +776,7 @@
       "create_time": 1760925410,
       "formatted_time": "2025-10-20 09:56:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -834,7 +834,7 @@
       "create_time": 1760925903,
       "formatted_time": "2025-10-20 10:05:03",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "于德水",
       "sender_wxid": "wxid_pakrek5xcktu22"
     },
@@ -945,7 +945,7 @@
       "create_time": 1760928404,
       "formatted_time": "2025-10-20 10:46:44",
       "type": "位置消息",
-      "str_content": "[????]",
+      "str_content": "[位置消息]",
       "sender_name": "于德水",
       "sender_wxid": "wxid_pakrek5xcktu22"
     },
@@ -969,7 +969,7 @@
       "create_time": 1760929643,
       "formatted_time": "2025-10-20 11:07:23",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -992,7 +992,7 @@
       "create_time": 1760930656,
       "formatted_time": "2025-10-20 11:24:16",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "聊城计算机于文哲",
       "sender_wxid": "wxid_eqi0xp22b7r522"
     },
@@ -1008,7 +1008,7 @@
       "create_time": 1760931063,
       "formatted_time": "2025-10-20 11:31:03",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "聊城计算机于文哲",
       "sender_wxid": "wxid_eqi0xp22b7r522"
     },
@@ -1059,6 +1059,6 @@
       "sender_wxid": "wxid_eqi0xp22b7r522"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 139
 }

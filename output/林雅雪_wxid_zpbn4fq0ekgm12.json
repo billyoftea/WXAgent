@@ -6,7 +6,7 @@
       "create_time": 1757859508,
       "formatted_time": "2025-09-14 22:18:28",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "林雅雪"
     },
     {
@@ -20,7 +20,7 @@
       "create_time": 1757859512,
       "formatted_time": "2025-09-14 22:18:32",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "林雅雪"
     },
     {
@@ -34,7 +34,7 @@
       "create_time": 1757859589,
       "formatted_time": "2025-09-14 22:19:49",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "林雅雪"
     },
     {
@@ -52,6 +52,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 7
 }

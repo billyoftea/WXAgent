@@ -41,7 +41,7 @@
       "create_time": 1742952460,
       "formatted_time": "2025-03-26 09:27:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "马硕  武大"
     },
     {
@@ -335,7 +335,7 @@
       "create_time": 1743124361,
       "formatted_time": "2025-03-28 09:12:41",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -409,6 +409,6 @@
       "sender_name": "马硕  武大"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 58
 }

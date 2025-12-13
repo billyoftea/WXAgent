@@ -20,7 +20,7 @@
       "create_time": 1698676429,
       "formatted_time": "2023-10-30 22:33:49",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "叶尔达那"
     },
     {
@@ -48,14 +48,14 @@
       "create_time": 1698676478,
       "formatted_time": "2023-10-30 22:34:38",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1698676484,
       "formatted_time": "2023-10-30 22:34:44",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "叶尔达那"
     },
     {
@@ -69,14 +69,14 @@
       "create_time": 1698676507,
       "formatted_time": "2023-10-30 22:35:07",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "叶尔达那"
     },
     {
       "create_time": 1698676526,
       "formatted_time": "2023-10-30 22:35:26",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "叶尔达那"
     },
     {
@@ -104,7 +104,7 @@
       "create_time": 1698678183,
       "formatted_time": "2023-10-30 23:03:03",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "叶尔达那"
     },
     {
@@ -118,14 +118,14 @@
       "create_time": 1698678207,
       "formatted_time": "2023-10-30 23:03:27",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "叶尔达那"
     },
     {
       "create_time": 1698678229,
       "formatted_time": "2023-10-30 23:03:49",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "叶尔达那"
     },
     {
@@ -139,14 +139,14 @@
       "create_time": 1698678290,
       "formatted_time": "2023-10-30 23:04:50",
       "type": "名片消息",
-      "str_content": "[????]",
+      "str_content": "[名片消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1698678292,
       "formatted_time": "2023-10-30 23:04:52",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "叶尔达那"
     },
     {
@@ -230,7 +230,7 @@
       "create_time": 1698762543,
       "formatted_time": "2023-10-31 22:29:03",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "叶尔达那"
     },
     {
@@ -500,6 +500,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 71
 }

@@ -6,7 +6,7 @@
       "create_time": 1752111236,
       "formatted_time": "2025-07-10 09:33:56",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "亿维张盼盼"
     },
     {
@@ -34,7 +34,7 @@
       "create_time": 1752115244,
       "formatted_time": "2025-07-10 10:40:44",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "亿维张盼盼"
     },
     {
@@ -104,7 +104,7 @@
       "create_time": 1752142915,
       "formatted_time": "2025-07-10 18:21:55",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -139,35 +139,35 @@
       "create_time": 1752201749,
       "formatted_time": "2025-07-11 10:42:29",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "亿维张盼盼"
     },
     {
       "create_time": 1752201760,
       "formatted_time": "2025-07-11 10:42:40",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "亿维张盼盼"
     },
     {
       "create_time": 1752204535,
       "formatted_time": "2025-07-11 11:28:55",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "亿维张盼盼"
     },
     {
       "create_time": 1752204541,
       "formatted_time": "2025-07-11 11:29:01",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "亿维张盼盼"
     },
     {
       "create_time": 1752204542,
       "formatted_time": "2025-07-11 11:29:02",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "自己"
     },
     {
@@ -181,14 +181,14 @@
       "create_time": 1752213534,
       "formatted_time": "2025-07-11 13:58:54",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1752213550,
       "formatted_time": "2025-07-11 13:59:10",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -223,7 +223,7 @@
       "create_time": 1752214265,
       "formatted_time": "2025-07-11 14:11:05",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "亿维张盼盼"
     },
     {
@@ -241,6 +241,6 @@
       "sender_name": "亿维张盼盼"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 34
 }

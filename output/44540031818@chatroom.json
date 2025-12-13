@@ -6,7 +6,7 @@
       "create_time": 1750296017,
       "formatted_time": "2025-06-19 09:20:17",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "44540031818@chatroom",
       "sender_wxid": "44540031818@chatroom"
     },
@@ -83,7 +83,7 @@
       "create_time": 1750296278,
       "formatted_time": "2025-06-19 09:24:38",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "张涵菲",
       "sender_wxid": "wxid_28ss9x3czofd22"
     },
@@ -171,7 +171,7 @@
       "create_time": 1750297096,
       "formatted_time": "2025-06-19 09:38:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张涵菲",
       "sender_wxid": "wxid_28ss9x3czofd22"
     },
@@ -187,7 +187,7 @@
       "create_time": 1750297425,
       "formatted_time": "2025-06-19 09:43:45",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "尹轩",
       "sender_wxid": "wxid_mxmpor5c4r0a32"
     },
@@ -195,7 +195,7 @@
       "create_time": 1750297500,
       "formatted_time": "2025-06-19 09:45:00",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "尹轩",
       "sender_wxid": "wxid_mxmpor5c4r0a32"
     },
@@ -243,7 +243,7 @@
       "create_time": 1750297675,
       "formatted_time": "2025-06-19 09:47:55",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "张涵菲",
       "sender_wxid": "wxid_28ss9x3czofd22"
     },
@@ -291,7 +291,7 @@
       "create_time": 1750297913,
       "formatted_time": "2025-06-19 09:51:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "尹轩",
       "sender_wxid": "wxid_mxmpor5c4r0a32"
     },
@@ -367,6 +367,6 @@
       "sender_wxid": "wxid_28ss9x3czofd22"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 46
 }

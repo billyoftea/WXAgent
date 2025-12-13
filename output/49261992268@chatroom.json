@@ -6,7 +6,7 @@
       "create_time": 1736777484,
       "formatted_time": "2025-01-13 22:11:24",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1736818249,
@@ -36,7 +36,7 @@
       "create_time": 1736820095,
       "formatted_time": "2025-01-14 10:01:35",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1736820805,
@@ -50,7 +50,7 @@
       "create_time": 1736820813,
       "formatted_time": "2025-01-14 10:13:33",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "wxid_u8d5e9zopwpj22",
       "sender_wxid": "wxid_u8d5e9zopwpj22"
     },
@@ -58,7 +58,7 @@
       "create_time": 1736820835,
       "formatted_time": "2025-01-14 10:13:55",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "wxid_u8d5e9zopwpj22",
       "sender_wxid": "wxid_u8d5e9zopwpj22"
     },
@@ -121,7 +121,7 @@
       "create_time": 1736901355,
       "formatted_time": "2025-01-15 08:35:55",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "wxid_xw0tf6coii4r22",
       "sender_wxid": "wxid_xw0tf6coii4r22"
     },
@@ -169,7 +169,7 @@
       "create_time": 1736901435,
       "formatted_time": "2025-01-15 08:37:15",
       "type": "位置消息",
-      "str_content": "[????]",
+      "str_content": "[位置消息]",
       "sender_name": "wxid_xw0tf6coii4r22",
       "sender_wxid": "wxid_xw0tf6coii4r22"
     },
@@ -177,7 +177,7 @@
       "create_time": 1736901443,
       "formatted_time": "2025-01-15 08:37:23",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1736901452,
@@ -271,7 +271,7 @@
       "create_time": 1736901709,
       "formatted_time": "2025-01-15 08:41:49",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "仙旭进",
       "sender_wxid": "wxid_kiwxo3y6owbp21"
     },
@@ -311,7 +311,7 @@
       "create_time": 1736902487,
       "formatted_time": "2025-01-15 08:54:47",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "仙旭进",
       "sender_wxid": "wxid_kiwxo3y6owbp21"
     },
@@ -351,7 +351,7 @@
       "create_time": 1736902679,
       "formatted_time": "2025-01-15 08:57:59",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "wxid_xw0tf6coii4r22",
       "sender_wxid": "wxid_xw0tf6coii4r22"
     },
@@ -375,7 +375,7 @@
       "create_time": 1736902688,
       "formatted_time": "2025-01-15 08:58:08",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "wxid_xw0tf6coii4r22",
       "sender_wxid": "wxid_xw0tf6coii4r22"
     },
@@ -391,7 +391,7 @@
       "create_time": 1736902694,
       "formatted_time": "2025-01-15 08:58:14",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "wxid_xw0tf6coii4r22",
       "sender_wxid": "wxid_xw0tf6coii4r22"
     },
@@ -407,11 +407,11 @@
       "create_time": 1741751575,
       "formatted_time": "2025-03-12 11:52:55",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "49261992268@chatroom",
       "sender_wxid": "49261992268@chatroom"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 52
 }

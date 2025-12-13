@@ -20,7 +20,7 @@
       "create_time": 1743304866,
       "formatted_time": "2025-03-30 11:21:06",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "刘远修"
     },
     {
@@ -48,7 +48,7 @@
       "create_time": 1743304959,
       "formatted_time": "2025-03-30 11:22:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "刘远修"
     },
     {
@@ -132,7 +132,7 @@
       "create_time": 1743307326,
       "formatted_time": "2025-03-30 12:02:06",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "自己"
     },
     {
@@ -202,7 +202,7 @@
       "create_time": 1743315924,
       "formatted_time": "2025-03-30 14:25:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "刘远修"
     },
     {
@@ -213,6 +213,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 30
 }

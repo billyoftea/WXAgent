@@ -6,7 +6,7 @@
       "create_time": 1748301162,
       "formatted_time": "2025-05-27 07:12:42",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1748301181,
@@ -34,7 +34,7 @@
       "create_time": 1748307607,
       "formatted_time": "2025-05-27 09:00:07",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -42,7 +42,7 @@
       "create_time": 1748307614,
       "formatted_time": "2025-05-27 09:00:14",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -94,7 +94,7 @@
       "create_time": 1748310570,
       "formatted_time": "2025-05-27 09:49:30",
       "type": "位置消息",
-      "str_content": "[????]",
+      "str_content": "[位置消息]",
       "sender": "自己"
     },
     {
@@ -124,7 +124,7 @@
       "create_time": 1748341103,
       "formatted_time": "2025-05-27 18:18:23",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "53180931048@chatroom",
       "sender_wxid": "53180931048@chatroom"
     },
@@ -132,7 +132,7 @@
       "create_time": 1748341103,
       "formatted_time": "2025-05-27 18:18:23",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1748343325,
@@ -160,13 +160,13 @@
       "create_time": 1748344250,
       "formatted_time": "2025-05-27 19:10:50",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1748344256,
       "formatted_time": "2025-05-27 19:10:56",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1748344329,
@@ -210,14 +210,14 @@
       "create_time": 1748365912,
       "formatted_time": "2025-05-28 01:11:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
       "create_time": 1748365998,
       "formatted_time": "2025-05-28 01:13:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "夏尹睿",
       "sender_wxid": "wxid_88ngzusk70ad22"
     },
@@ -225,7 +225,7 @@
       "create_time": 1748366058,
       "formatted_time": "2025-05-28 01:14:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -233,7 +233,7 @@
       "create_time": 1748412857,
       "formatted_time": "2025-05-28 14:14:17",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "张逸桐",
       "sender_wxid": "wxid_2ht15150348l22"
     },
@@ -241,21 +241,21 @@
       "create_time": 1748412891,
       "formatted_time": "2025-05-28 14:14:51",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1748412901,
       "formatted_time": "2025-05-28 14:15:01",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1748413471,
       "formatted_time": "2025-05-28 14:24:31",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 35
 }

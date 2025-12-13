@@ -142,7 +142,7 @@
       "create_time": 1761736439,
       "formatted_time": "2025-10-29 19:13:59",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1761736440,
@@ -162,20 +162,20 @@
       "create_time": 1761736454,
       "formatted_time": "2025-10-29 19:14:14",
       "type": "拍一拍消息",
-      "str_content": "[???]",
+      "str_content": "[拍一拍]",
       "sender": "自己"
     },
     {
       "create_time": 1761736495,
       "formatted_time": "2025-10-29 19:14:55",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1761736942,
       "formatted_time": "2025-10-29 19:22:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "韦舟泷",
       "sender_wxid": "wxid_sn001tpw9g2521"
     },
@@ -207,7 +207,7 @@
       "create_time": 1761737373,
       "formatted_time": "2025-10-29 19:29:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "韦舟泷",
       "sender_wxid": "wxid_sn001tpw9g2521"
     },
@@ -327,7 +327,7 @@
       "create_time": 1761740872,
       "formatted_time": "2025-10-29 20:27:52",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "财经传媒 朱泉润",
       "sender_wxid": "wxid_08w0rcu7zch222"
     },
@@ -415,7 +415,7 @@
       "create_time": 1761740948,
       "formatted_time": "2025-10-29 20:29:08",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "财新杜奕辰",
       "sender_wxid": "wxid_4sgj73a5rlbs22"
     },
@@ -503,7 +503,7 @@
       "create_time": 1761742724,
       "formatted_time": "2025-10-29 20:58:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "莫孜晗",
       "sender_wxid": "wxid_951jqdhhbgbm22"
     },
@@ -527,7 +527,7 @@
       "create_time": 1761743226,
       "formatted_time": "2025-10-29 21:07:06",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "程泓钦 25金投",
       "sender_wxid": "wxid_w22jpykr9am222"
     },
@@ -636,7 +636,7 @@
       "create_time": 1761750898,
       "formatted_time": "2025-10-29 23:14:58",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "财新杜奕辰",
       "sender_wxid": "wxid_4sgj73a5rlbs22"
     },
@@ -644,7 +644,7 @@
       "create_time": 1761750898,
       "formatted_time": "2025-10-29 23:14:58",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1761750902,
@@ -658,7 +658,7 @@
       "create_time": 1761750919,
       "formatted_time": "2025-10-29 23:15:19",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "财经传媒 朱泉润",
       "sender_wxid": "wxid_08w0rcu7zch222"
     },
@@ -673,7 +673,7 @@
       "create_time": 1761751757,
       "formatted_time": "2025-10-29 23:29:17",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761751763,
@@ -703,7 +703,7 @@
       "create_time": 1761752938,
       "formatted_time": "2025-10-29 23:48:58",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈家禾-北师-数金&金科",
       "sender_wxid": "wxid_l9n779y9r7kq22"
     },
@@ -719,14 +719,14 @@
       "create_time": 1761754876,
       "formatted_time": "2025-10-30 00:21:16",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender": "自己"
     },
     {
       "create_time": 1761757933,
       "formatted_time": "2025-10-30 01:12:13",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "程泓钦 25金投",
       "sender_wxid": "wxid_w22jpykr9am222"
     },
@@ -734,7 +734,7 @@
       "create_time": 1761757986,
       "formatted_time": "2025-10-30 01:13:06",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "陈家禾-北师-数金&金科",
       "sender_wxid": "wxid_l9n779y9r7kq22"
     },
@@ -742,7 +742,7 @@
       "create_time": 1761757992,
       "formatted_time": "2025-10-30 01:13:12",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "韦舟泷",
       "sender_wxid": "wxid_sn001tpw9g2521"
     },
@@ -750,7 +750,7 @@
       "create_time": 1761758124,
       "formatted_time": "2025-10-30 01:15:24",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761758193,
@@ -802,7 +802,7 @@
       "create_time": 1761813439,
       "formatted_time": "2025-10-30 16:37:19",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "纪鸿阳 财新",
       "sender_wxid": "wxid_xyv7rwhpro7v22"
     },
@@ -810,13 +810,13 @@
       "create_time": 1761813479,
       "formatted_time": "2025-10-30 16:37:59",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761890424,
       "formatted_time": "2025-10-31 14:00:24",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "财经传媒 朱泉润",
       "sender_wxid": "wxid_08w0rcu7zch222"
     },
@@ -824,7 +824,7 @@
       "create_time": 1763902603,
       "formatted_time": "2025-11-23 20:56:43",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "韦舟泷",
       "sender_wxid": "wxid_sn001tpw9g2521"
     },
@@ -832,7 +832,7 @@
       "create_time": 1763902612,
       "formatted_time": "2025-11-23 20:56:52",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "韦舟泷",
       "sender_wxid": "wxid_sn001tpw9g2521"
     },
@@ -840,11 +840,11 @@
       "create_time": 1763902763,
       "formatted_time": "2025-11-23 20:59:23",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "韦舟泷",
       "sender_wxid": "wxid_sn001tpw9g2521"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
+  "export_time": "2025-12-13T14:57:47+08:00",
   "message_count": 108
 }

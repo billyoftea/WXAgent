@@ -302,13 +302,13 @@
       "create_time": 1762862819,
       "formatted_time": "2025-11-11 20:06:59",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762862819,
       "formatted_time": "2025-11-11 20:06:59",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762865017,
@@ -434,7 +434,7 @@
       "create_time": 1763470458,
       "formatted_time": "2025-11-18 20:54:18",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1763548749,
@@ -512,7 +512,7 @@
       "create_time": 1763973586,
       "formatted_time": "2025-11-24 16:39:46",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764058070,
@@ -731,8 +731,62 @@
       "str_content": "小数点后的Alpha：限价单堆积如何预测股价走势",
       "sender_name": "QuantML",
       "sender_wxid": "wxid_iaq8ginycjo712"
+    },
+    {
+      "create_time": 1765112552,
+      "formatted_time": "2025-12-07 21:02:32",
+      "type": "图文消息",
+      "str_content": "华尔街巨头的新武器：Citadel 上线 AI 助手",
+      "sender_name": "QuantML",
+      "sender_wxid": "wxid_iaq8ginycjo712"
+    },
+    {
+      "create_time": 1765200248,
+      "formatted_time": "2025-12-08 21:24:08",
+      "type": "图文消息",
+      "str_content": "2025Q3最佳AI量化论文",
+      "sender_name": "QuantML",
+      "sender_wxid": "wxid_iaq8ginycjo712"
+    },
+    {
+      "create_time": 1765277318,
+      "formatted_time": "2025-12-09 18:48:38",
+      "type": "图文消息",
+      "str_content": "AI重塑因子挖掘：基于LLM文本嵌入的盈余溢出分析",
+      "sender_name": "QuantML",
+      "sender_wxid": "wxid_iaq8ginycjo712"
+    },
+    {
+      "create_time": 1765368087,
+      "formatted_time": "2025-12-10 20:01:27",
+      "type": "图文消息",
+      "str_content": "通过构建稀疏资产关系图提升夏普比率",
+      "sender_name": "QuantML",
+      "sender_wxid": "wxid_iaq8ginycjo712"
+    },
+    {
+      "create_time": 1765452927,
+      "formatted_time": "2025-12-11 19:35:27",
+      "type": "图文消息",
+      "str_content": "市场风格切换下的元学习预测框架",
+      "sender_name": "QuantML",
+      "sender_wxid": "wxid_iaq8ginycjo712"
+    },
+    {
+      "create_time": 1765460768,
+      "formatted_time": "2025-12-11 21:46:08",
+      "type": "文本消息",
+      "str_content": "nick-su:\n各位哪里可以下到1分钟数据？"
+    },
+    {
+      "create_time": 1765540752,
+      "formatted_time": "2025-12-12 19:59:12",
+      "type": "图文消息",
+      "str_content": "PaperGraph 全新升级，重新定义知识发现",
+      "sender_name": "QuantML",
+      "sender_wxid": "wxid_iaq8ginycjo712"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
-  "message_count": 95
+  "export_time": "2025-12-13T14:57:48+08:00",
+  "message_count": 102
 }

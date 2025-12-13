@@ -6,7 +6,7 @@
       "create_time": 1757407381,
       "formatted_time": "2025-09-09 16:43:01",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "🀄️发车！",
       "sender_wxid": "58231295952@chatroom"
     },
@@ -102,7 +102,7 @@
       "create_time": 1757407636,
       "formatted_time": "2025-09-09 16:47:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "南京大学王子垚",
       "sender_wxid": "wxid_owakf1ai15vf22"
     },
@@ -110,7 +110,7 @@
       "create_time": 1757409319,
       "formatted_time": "2025-09-09 17:15:19",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "南京大学王子垚",
       "sender_wxid": "wxid_owakf1ai15vf22"
     },
@@ -126,7 +126,7 @@
       "create_time": 1757409372,
       "formatted_time": "2025-09-09 17:16:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张晨阳",
       "sender_wxid": "wxid_gpjtpwap926w12"
     },
@@ -150,7 +150,7 @@
       "create_time": 1757409390,
       "formatted_time": "2025-09-09 17:16:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "南京大学王子垚",
       "sender_wxid": "wxid_owakf1ai15vf22"
     },
@@ -268,7 +268,7 @@
       "create_time": 1757415750,
       "formatted_time": "2025-09-09 19:02:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "张晨阳",
       "sender_wxid": "wxid_gpjtpwap926w12"
     },
@@ -284,14 +284,14 @@
       "create_time": 1757428557,
       "formatted_time": "2025-09-09 22:35:57",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender": "自己"
     },
     {
       "create_time": 1757428566,
       "formatted_time": "2025-09-09 22:36:06",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "张晨阳",
       "sender_wxid": "wxid_gpjtpwap926w12"
     },
@@ -394,19 +394,19 @@
       "create_time": 1757499762,
       "formatted_time": "2025-09-10 18:22:42",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1757499794,
       "formatted_time": "2025-09-10 18:23:14",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1757602002,
       "formatted_time": "2025-09-11 22:46:42",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "南京大学王子垚",
       "sender_wxid": "wxid_owakf1ai15vf22"
     },
@@ -436,7 +436,7 @@
       "create_time": 1757602088,
       "formatted_time": "2025-09-11 22:48:08",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张晨阳",
       "sender_wxid": "wxid_gpjtpwap926w12"
     },
@@ -444,7 +444,7 @@
       "create_time": 1757602117,
       "formatted_time": "2025-09-11 22:48:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "南京大学王子垚",
       "sender_wxid": "wxid_owakf1ai15vf22"
     },
@@ -467,14 +467,14 @@
       "create_time": 1758258080,
       "formatted_time": "2025-09-19 13:01:20",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
       "create_time": 1758258150,
       "formatted_time": "2025-09-19 13:02:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张晨阳",
       "sender_wxid": "wxid_gpjtpwap926w12"
     },
@@ -527,6 +527,6 @@
       "sender_wxid": "wxid_owakf1ai15vf22"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 67
 }

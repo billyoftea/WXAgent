@@ -6,7 +6,7 @@
       "create_time": 1752680513,
       "formatted_time": "2025-07-16 23:41:53",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "资勤"
     },
     {
@@ -20,7 +20,7 @@
       "create_time": 1752680529,
       "formatted_time": "2025-07-16 23:42:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "资勤"
     },
     {
@@ -48,7 +48,7 @@
       "create_time": 1752680558,
       "formatted_time": "2025-07-16 23:42:38",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -76,7 +76,7 @@
       "create_time": 1752680585,
       "formatted_time": "2025-07-16 23:43:05",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "资勤"
     },
     {
@@ -90,7 +90,7 @@
       "create_time": 1752680618,
       "formatted_time": "2025-07-16 23:43:38",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -104,7 +104,7 @@
       "create_time": 1752680755,
       "formatted_time": "2025-07-16 23:45:55",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "资勤"
     },
     {
@@ -146,7 +146,7 @@
       "create_time": 1752681113,
       "formatted_time": "2025-07-16 23:51:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "资勤"
     },
     {
@@ -164,6 +164,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 23
 }

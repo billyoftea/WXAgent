@@ -6,7 +6,7 @@
       "create_time": 1700141842,
       "formatted_time": "2023-11-16 21:37:22",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1700141862,
@@ -132,7 +132,7 @@
       "create_time": 1700142507,
       "formatted_time": "2023-11-16 21:48:27",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗嘉韵",
       "sender_wxid": "wxid_r6kh8o34v2h922"
     },
@@ -154,7 +154,7 @@
       "create_time": 1700142526,
       "formatted_time": "2023-11-16 21:48:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗嘉韵",
       "sender_wxid": "wxid_r6kh8o34v2h922"
     },
@@ -162,7 +162,7 @@
       "create_time": 1700142526,
       "formatted_time": "2023-11-16 21:48:46",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -198,7 +198,7 @@
       "create_time": 1700142746,
       "formatted_time": "2023-11-16 21:52:26",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -244,7 +244,7 @@
       "create_time": 1700190422,
       "formatted_time": "2023-11-17 11:07:02",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "38823670283@chatroom",
       "sender_wxid": "38823670283@chatroom"
     },
@@ -252,7 +252,7 @@
       "create_time": 1700361279,
       "formatted_time": "2023-11-19 10:34:39",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "38823670283@chatroom",
       "sender_wxid": "38823670283@chatroom"
     },
@@ -260,7 +260,7 @@
       "create_time": 1700363362,
       "formatted_time": "2023-11-19 11:09:22",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -350,6 +350,6 @@
       "sender_wxid": "wxid_jna4cpoj038l21"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 46
 }

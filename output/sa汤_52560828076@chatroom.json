@@ -6,7 +6,7 @@
       "create_time": 1729563830,
       "formatted_time": "2024-10-22 10:23:50",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "sa汤",
       "sender_wxid": "52560828076@chatroom"
     },
@@ -45,7 +45,7 @@
       "create_time": 1729563935,
       "formatted_time": "2024-10-22 10:25:35",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1729563952,
@@ -82,7 +82,7 @@
       "create_time": 1729564048,
       "formatted_time": "2024-10-22 10:27:28",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张天",
       "sender_wxid": "wxid_0cbtsuu1np8b22"
     },
@@ -153,7 +153,7 @@
       "create_time": 1729564445,
       "formatted_time": "2024-10-22 10:34:05",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -376,7 +376,7 @@
       "create_time": 1729566332,
       "formatted_time": "2024-10-22 11:05:32",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "sa汤",
       "sender_wxid": "52560828076@chatroom"
     },
@@ -456,7 +456,7 @@
       "create_time": 1729566653,
       "formatted_time": "2024-10-22 11:10:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张天",
       "sender_wxid": "wxid_0cbtsuu1np8b22"
     },
@@ -560,7 +560,7 @@
       "create_time": 1729566804,
       "formatted_time": "2024-10-22 11:13:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张天",
       "sender_wxid": "wxid_0cbtsuu1np8b22"
     },
@@ -632,7 +632,7 @@
       "create_time": 1729567224,
       "formatted_time": "2024-10-22 11:20:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨堪然",
       "sender_wxid": "wxid_1qo5y1cwfk4711"
     },
@@ -815,14 +815,14 @@
       "create_time": 1729567916,
       "formatted_time": "2024-10-22 11:31:56",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
       "create_time": 1729567921,
       "formatted_time": "2024-10-22 11:32:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨堪然",
       "sender_wxid": "wxid_1qo5y1cwfk4711"
     },
@@ -854,7 +854,7 @@
       "create_time": 1729567936,
       "formatted_time": "2024-10-22 11:32:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "杨堪然",
       "sender_wxid": "wxid_1qo5y1cwfk4711"
     },
@@ -894,7 +894,7 @@
       "create_time": 1729567992,
       "formatted_time": "2024-10-22 11:33:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "济宁数院程广圣",
       "sender_wxid": "wxid_pgqyx9yd4ug922"
     },
@@ -1030,7 +1030,7 @@
       "create_time": 1729568899,
       "formatted_time": "2024-10-22 11:48:19",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "济宁数院程广圣",
       "sender_wxid": "wxid_pgqyx9yd4ug922"
     },
@@ -1038,7 +1038,7 @@
       "create_time": 1729568905,
       "formatted_time": "2024-10-22 11:48:25",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "于德水",
       "sender_wxid": "wxid_pakrek5xcktu22"
     },
@@ -1092,13 +1092,13 @@
       "create_time": 1729568959,
       "formatted_time": "2024-10-22 11:49:19",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1729568961,
       "formatted_time": "2024-10-22 11:49:21",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -1137,7 +1137,7 @@
       "create_time": 1729569113,
       "formatted_time": "2024-10-22 11:51:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -1182,7 +1182,7 @@
       "create_time": 1729569520,
       "formatted_time": "2024-10-22 11:58:40",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -1198,7 +1198,7 @@
       "create_time": 1729569545,
       "formatted_time": "2024-10-22 11:59:05",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -1206,7 +1206,7 @@
       "create_time": 1729569548,
       "formatted_time": "2024-10-22 11:59:08",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1729569549,
@@ -1268,7 +1268,7 @@
       "create_time": 1729569585,
       "formatted_time": "2024-10-22 11:59:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "济宁数院程广圣",
       "sender_wxid": "wxid_pgqyx9yd4ug922"
     },
@@ -1276,7 +1276,7 @@
       "create_time": 1729569593,
       "formatted_time": "2024-10-22 11:59:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张天",
       "sender_wxid": "wxid_0cbtsuu1np8b22"
     },
@@ -1394,7 +1394,7 @@
       "create_time": 1729569930,
       "formatted_time": "2024-10-22 12:05:30",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1729570160,
@@ -1454,7 +1454,7 @@
       "create_time": 1729570382,
       "formatted_time": "2024-10-22 12:13:02",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1729570434,
@@ -1484,10 +1484,10 @@
       "create_time": 1729575024,
       "formatted_time": "2024-10-22 13:30:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 190
 }

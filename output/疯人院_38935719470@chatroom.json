@@ -14,13 +14,13 @@
       "create_time": 1662714767,
       "formatted_time": "2022-09-09 17:12:47",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1662714768,
       "formatted_time": "2022-09-09 17:12:48",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -60,7 +60,7 @@
       "create_time": 1662715122,
       "formatted_time": "2022-09-09 17:18:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -164,7 +164,7 @@
       "create_time": 1662715179,
       "formatted_time": "2022-09-09 17:19:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -212,7 +212,7 @@
       "create_time": 1662715597,
       "formatted_time": "2022-09-09 17:26:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -220,7 +220,7 @@
       "create_time": 1662715598,
       "formatted_time": "2022-09-09 17:26:38",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋泰延",
       "sender_wxid": "wxid_k42yl12t1bag22"
     },
@@ -228,7 +228,7 @@
       "create_time": 1662715599,
       "formatted_time": "2022-09-09 17:26:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -236,7 +236,7 @@
       "create_time": 1662715603,
       "formatted_time": "2022-09-09 17:26:43",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -303,7 +303,7 @@
       "create_time": 1662716040,
       "formatted_time": "2022-09-09 17:34:00",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -319,7 +319,7 @@
       "create_time": 1662716062,
       "formatted_time": "2022-09-09 17:34:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -442,7 +442,7 @@
       "create_time": 1662716173,
       "formatted_time": "2022-09-09 17:36:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -450,7 +450,7 @@
       "create_time": 1662716178,
       "formatted_time": "2022-09-09 17:36:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "吴江铭",
       "sender_wxid": "wxid_dwtrgn70axxu32"
     },
@@ -458,7 +458,7 @@
       "create_time": 1662716191,
       "formatted_time": "2022-09-09 17:36:31",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "蒋泰延",
       "sender_wxid": "wxid_k42yl12t1bag22"
     },
@@ -474,7 +474,7 @@
       "create_time": 1662716215,
       "formatted_time": "2022-09-09 17:36:55",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋泰延",
       "sender_wxid": "wxid_k42yl12t1bag22"
     },
@@ -490,7 +490,7 @@
       "create_time": 1662716219,
       "formatted_time": "2022-09-09 17:36:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赵琪琪",
       "sender_wxid": "wxid_hi3onmkntqgs22"
     },
@@ -522,7 +522,7 @@
       "create_time": 1662716234,
       "formatted_time": "2022-09-09 17:37:14",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "吴江铭",
       "sender_wxid": "wxid_dwtrgn70axxu32"
     },
@@ -546,7 +546,7 @@
       "create_time": 1662716262,
       "formatted_time": "2022-09-09 17:37:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赵琪琪",
       "sender_wxid": "wxid_hi3onmkntqgs22"
     },
@@ -554,7 +554,7 @@
       "create_time": 1662716270,
       "formatted_time": "2022-09-09 17:37:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -570,7 +570,7 @@
       "create_time": 1662716279,
       "formatted_time": "2022-09-09 17:37:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -578,7 +578,7 @@
       "create_time": 1662716303,
       "formatted_time": "2022-09-09 17:38:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赵琪琪",
       "sender_wxid": "wxid_hi3onmkntqgs22"
     },
@@ -688,7 +688,7 @@
       "create_time": 1662716414,
       "formatted_time": "2022-09-09 17:40:14",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1662716423,
@@ -755,7 +755,7 @@
       "create_time": 1662716522,
       "formatted_time": "2022-09-09 17:42:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -778,7 +778,7 @@
       "create_time": 1662716642,
       "formatted_time": "2022-09-09 17:44:02",
       "type": "视频消息",
-      "str_content": "[????]",
+      "str_content": "[视频消息]",
       "sender": "自己"
     },
     {
@@ -849,7 +849,7 @@
       "create_time": 1662719885,
       "formatted_time": "2022-09-09 18:38:05",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -872,7 +872,7 @@
       "create_time": 1662719957,
       "formatted_time": "2022-09-09 18:39:17",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -934,7 +934,7 @@
       "create_time": 1662721977,
       "formatted_time": "2022-09-09 19:12:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -950,14 +950,14 @@
       "create_time": 1662722000,
       "formatted_time": "2022-09-09 19:13:20",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1662722020,
       "formatted_time": "2022-09-09 19:13:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -977,6 +977,6 @@
       "sender": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 125
 }

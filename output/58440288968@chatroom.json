@@ -13,19 +13,19 @@
       "create_time": 1758762116,
       "formatted_time": "2025-09-25 09:01:56",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1758762172,
       "formatted_time": "2025-09-25 09:02:52",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1758762177,
       "formatted_time": "2025-09-25 09:02:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赵祥",
       "sender_wxid": "wxid_g1khfsvn6tyg22"
     },
@@ -33,9 +33,9 @@
       "create_time": 1758762186,
       "formatted_time": "2025-09-25 09:03:06",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 5
 }

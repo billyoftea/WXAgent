@@ -329,7 +329,7 @@
       "create_time": 1761733113,
       "formatted_time": "2025-10-29 18:18:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Patrick",
       "sender_wxid": "wxid_1wtz1wn502e422"
     },
@@ -337,7 +337,7 @@
       "create_time": 1761734093,
       "formatted_time": "2025-10-29 18:34:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王宁@财通汽车",
       "sender_wxid": "wxid_vv6la62hqxvp12"
     },
@@ -849,7 +849,7 @@
       "create_time": 1762437673,
       "formatted_time": "2025-11-06 22:01:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "邱思语",
       "sender_wxid": "wxid_29l0b6exq9cl12"
     },
@@ -857,7 +857,7 @@
       "create_time": 1762437692,
       "formatted_time": "2025-11-06 22:01:32",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762492870,
@@ -1068,7 +1068,7 @@
       "create_time": 1763135831,
       "formatted_time": "2025-11-14 23:57:11",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763135899,
@@ -1206,7 +1206,7 @@
       "create_time": 1763309891,
       "formatted_time": "2025-11-17 00:18:11",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "ZXG",
       "sender_wxid": "wxid_a17su0nul2rv22"
     },
@@ -1222,7 +1222,7 @@
       "create_time": 1763309905,
       "formatted_time": "2025-11-17 00:18:25",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763310178,
@@ -1521,7 +1521,7 @@
       "create_time": 1763593586,
       "formatted_time": "2025-11-20 07:06:26",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "境界",
       "sender_wxid": "wxid_l6fccthivixo22"
     },
@@ -1529,7 +1529,7 @@
       "create_time": 1763593590,
       "formatted_time": "2025-11-20 07:06:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "境界",
       "sender_wxid": "wxid_l6fccthivixo22"
     },
@@ -1553,7 +1553,7 @@
       "create_time": 1763593648,
       "formatted_time": "2025-11-20 07:07:28",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "25国金管邹瑶",
       "sender_wxid": "wxid_6erd74trxn1j22"
     },
@@ -1585,7 +1585,7 @@
       "create_time": 1763593730,
       "formatted_time": "2025-11-20 07:08:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "林雅雪",
       "sender_wxid": "wxid_zpbn4fq0ekgm12"
     },
@@ -1593,13 +1593,13 @@
       "create_time": 1763593745,
       "formatted_time": "2025-11-20 07:09:05",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763593843,
       "formatted_time": "2025-11-20 07:10:43",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763594373,
@@ -2085,13 +2085,13 @@
       "create_time": 1764904826,
       "formatted_time": "2025-12-05 11:20:26",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764904847,
       "formatted_time": "2025-12-05 11:20:47",
       "type": "拍一拍消息",
-      "str_content": "[???]",
+      "str_content": "[拍一拍]",
       "sender": "自己"
     },
     {
@@ -2224,7 +2224,7 @@
       "create_time": 1764909864,
       "formatted_time": "2025-12-05 12:44:24",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1764910082,
@@ -2506,8 +2506,72 @@
       "str_content": "亲爱的承楷 @吴承楷 生日快乐[蛋糕] \n所有的疲惫都甩开，所有的好运都接住🌟  \n和你相处的每一天，都像含着甜甜的彩虹糖🍬🌈  \n新的一岁，开心满格电，动力像火箭🚀  \n愿你一路乘风、自在向前，继续做闪闪发光的追风少年！✨🎈",
       "sender_name": "25国金管邹瑶",
       "sender_wxid": "wxid_6erd74trxn1j22"
+    },
+    {
+      "create_time": 1765350433,
+      "formatted_time": "2025-12-10 15:07:13",
+      "type": "文本消息",
+      "str_content": "家人们 坐标深圳 有家人有韩元现钞不",
+      "sender_name": "椰汁",
+      "sender_wxid": "wxid_1agsxm3yja9o22"
+    },
+    {
+      "create_time": 1765350447,
+      "formatted_time": "2025-12-10 15:07:27",
+      "type": "文本消息",
+      "str_content": "想换点",
+      "sender_name": "椰汁",
+      "sender_wxid": "wxid_1agsxm3yja9o22"
+    },
+    {
+      "create_time": 1765350467,
+      "formatted_time": "2025-12-10 15:07:47",
+      "type": "文本消息",
+      "str_content": "来不及去银行预约兑换了",
+      "sender_name": "椰汁",
+      "sender_wxid": "wxid_1agsxm3yja9o22"
+    },
+    {
+      "create_time": 1765351655,
+      "formatted_time": "2025-12-10 15:27:35",
+      "type": "文本消息",
+      "str_content": "啊哈哈哈哈 感觉大部分都可以支付宝微信",
+      "sender_name": "林懿心 Lyra",
+      "sender_wxid": "wxid_zkgetb5k1b521"
+    },
+    {
+      "create_time": 1765351682,
+      "formatted_time": "2025-12-10 15:28:02",
+      "type": "文本消息",
+      "str_content": "可以下飞机了机场换",
+      "sender_name": "林懿心 Lyra",
+      "sender_wxid": "wxid_zkgetb5k1b521"
+    },
+    {
+      "create_time": 1765351742,
+      "formatted_time": "2025-12-10 15:29:02",
+      "type": "引用消息",
+      "str_content": "福田站应该能换吧",
+      "sender_name": "王宁@财通汽车",
+      "sender_wxid": "wxid_vv6la62hqxvp12"
+    },
+    {
+      "create_time": 1765351760,
+      "formatted_time": "2025-12-10 15:29:20",
+      "type": "文本消息",
+      "str_content": "我每次去香港都是上高铁之前临时从那里换点港币，韩元或许也有？",
+      "sender_name": "王宁@财通汽车",
+      "sender_wxid": "wxid_vv6la62hqxvp12"
+    },
+    {
+      "create_time": 1765352051,
+      "formatted_time": "2025-12-10 15:34:11",
+      "type": "文本消息",
+      "str_content": "好匆忙好幸福",
+      "sender_name": "Domingo",
+      "sender_wxid": "wxid_qpsdnmbvax8b21"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
-  "message_count": 320
+  "export_time": "2025-12-13T14:57:47+08:00",
+  "message_count": 328
 }

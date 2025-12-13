@@ -6,13 +6,13 @@
       "create_time": 1757081045,
       "formatted_time": "2025-09-05 22:04:05",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1757081055,
       "formatted_time": "2025-09-05 22:04:15",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "45284540912@chatroom",
       "sender_wxid": "45284540912@chatroom"
     },
@@ -20,7 +20,7 @@
       "create_time": 1757081136,
       "formatted_time": "2025-09-05 22:05:36",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "45284540912@chatroom",
       "sender_wxid": "45284540912@chatroom"
     },
@@ -28,7 +28,7 @@
       "create_time": 1757081158,
       "formatted_time": "2025-09-05 22:05:58",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "45284540912@chatroom",
       "sender_wxid": "45284540912@chatroom"
     },
@@ -36,7 +36,7 @@
       "create_time": 1757081158,
       "formatted_time": "2025-09-05 22:05:58",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1757081221,
@@ -50,7 +50,7 @@
       "create_time": 1757081222,
       "formatted_time": "2025-09-05 22:07:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "财新-陈莹",
       "sender_wxid": "wxid_3kc2xwo9aatn22"
     },
@@ -81,7 +81,7 @@
       "create_time": 1757081482,
       "formatted_time": "2025-09-05 22:11:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -104,7 +104,7 @@
       "create_time": 1757081682,
       "formatted_time": "2025-09-05 22:14:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "财新-陈莹",
       "sender_wxid": "wxid_3kc2xwo9aatn22"
     },
@@ -126,18 +126,18 @@
       "create_time": 1757081699,
       "formatted_time": "2025-09-05 22:14:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
       "create_time": 1757081719,
       "formatted_time": "2025-09-05 22:15:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "财新-陈莹",
       "sender_wxid": "wxid_3kc2xwo9aatn22"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 18
 }

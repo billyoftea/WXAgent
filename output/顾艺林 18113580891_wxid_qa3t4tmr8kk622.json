@@ -6,14 +6,14 @@
       "create_time": 1657429669,
       "formatted_time": "2022-07-10 13:07:49",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "顾艺林 18113580891"
     },
     {
       "create_time": 1657429748,
       "formatted_time": "2022-07-10 13:09:08",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "顾艺林 18113580891"
     },
     {
@@ -27,7 +27,7 @@
       "create_time": 1657429755,
       "formatted_time": "2022-07-10 13:09:15",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "自己"
     },
     {
@@ -41,7 +41,7 @@
       "create_time": 1657429782,
       "formatted_time": "2022-07-10 13:09:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -52,6 +52,6 @@
       "sender_name": "顾艺林 18113580891"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 7
 }

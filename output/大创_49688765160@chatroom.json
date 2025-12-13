@@ -6,7 +6,7 @@
       "create_time": 1706014781,
       "formatted_time": "2024-01-23 20:59:41",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "大创",
       "sender_wxid": "49688765160@chatroom"
     },
@@ -14,7 +14,7 @@
       "create_time": 1706014781,
       "formatted_time": "2024-01-23 20:59:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -22,13 +22,13 @@
       "create_time": 1706014790,
       "formatted_time": "2024-01-23 20:59:50",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1706014803,
       "formatted_time": "2024-01-23 21:00:03",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "大创",
       "sender_wxid": "49688765160@chatroom"
     },
@@ -44,13 +44,13 @@
       "create_time": 1706014822,
       "formatted_time": "2024-01-23 21:00:22",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1706014840,
       "formatted_time": "2024-01-23 21:00:40",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1706015340,
@@ -253,7 +253,7 @@
       "create_time": 1706232240,
       "formatted_time": "2024-01-26 09:24:00",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -306,7 +306,7 @@
       "create_time": 1706234077,
       "formatted_time": "2024-01-26 09:54:37",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "韦君政",
       "sender_wxid": "wxid_lom1q8rbv40n22"
     },
@@ -360,7 +360,7 @@
       "create_time": 1706703933,
       "formatted_time": "2024-01-31 20:25:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -468,7 +468,7 @@
       "create_time": 1706975386,
       "formatted_time": "2024-02-03 23:49:46",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -484,7 +484,7 @@
       "create_time": 1706975417,
       "formatted_time": "2024-02-03 23:50:17",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "济宁数院程广圣",
       "sender_wxid": "wxid_pgqyx9yd4ug922"
     },
@@ -579,7 +579,7 @@
       "create_time": 1707487720,
       "formatted_time": "2024-02-09 22:08:40",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -690,13 +690,13 @@
       "create_time": 1708416833,
       "formatted_time": "2024-02-20 16:13:53",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1708416858,
       "formatted_time": "2024-02-20 16:14:18",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "韦君政",
       "sender_wxid": "wxid_lom1q8rbv40n22"
     },
@@ -720,7 +720,7 @@
       "create_time": 1708438700,
       "formatted_time": "2024-02-20 22:18:20",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -744,7 +744,7 @@
       "create_time": 1708831071,
       "formatted_time": "2024-02-25 11:17:51",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "乔晟豪",
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     },
@@ -765,6 +765,6 @@
       "sender_wxid": "wxid_dnk6ln51p1ta21"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 98
 }

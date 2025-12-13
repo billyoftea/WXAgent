@@ -448,8 +448,8 @@ func (e *Exporter) exportSession(db *sql.DB, tableName string, wxidMap map[strin
 		}
 
 		// 处理特殊类型消息
-		if msg.Type == "??" {
-			msg.StrContent = "????"
+		if msg.Type == "未知" {
+			msg.StrContent = "[不支持的消息类型]"
 		}
 
 		// 处理未知类型消息，统一转换为微信小程序
@@ -1070,69 +1070,69 @@ func (e *Exporter) parseMessageContent(msgType int64, content string, isGroupCha
 
 	// Direct parsing by message type (no binary garbage check)
 	switch msgType {
-	case 10000: // ????
-		// ?????????????????????
-		return "[????????]"
+	case 10000: // 系统消息
+		// 系统消息通常是加群、退群等操作通知
+		return "[系统消息]"
 
-	case 47: // ????
-		return "[????]"
+	case 47: // 动画表情
+		return "[表情消息]"
 
-	case 3: // ??
-		return "[??]"
+	case 3: // 图片
+		return "[图片消息]"
 
-	case 34: // ??
-		return "[????]"
+	case 34: // 语音
+		return "[语音消息]"
 
-	case 43: // ??
-		return "[????]"
+	case 43: // 视频
+		return "[视频消息]"
 
-	case 48: // ??
-		return "[????]"
+	case 48: // 位置
+		return "[位置消息]"
 
-	case 42: // ??
-		return "[????]"
+	case 42: // 名片
+		return "[名片消息]"
 
 	case 49: // Link/article
-		return e.extractXMLTitle(decoded, "[Link]")
+		return e.extractXMLTitle(decoded, "[链接]")
 
 	case 17179869233: // Mini program
-		return e.extractXMLTitle(decoded, "[Mini Program]")
+		return e.extractXMLTitle(decoded, "[小程序]")
 
 	case 21474836529: // Rich text / Graph message
-		return e.extractXMLTitle(decoded, "[Rich Text]")
+		return e.extractXMLTitle(decoded, "[图文消息]")
 
 	case 227633266737: // Solitaire message
 		extracted := e.extractSolitaireContent(decoded)
 		if extracted != "" {
 			return extracted
 		}
-		return "[????]"
+		return "[接龙消息]"
 
-	case 154618822705: // ?????
-		return e.extractXMLTitle(decoded, "[???]")
+	case 154618822705: // 小程序分享
+		return e.extractXMLTitle(decoded, "[小程序]")
 
-	case 12884901937: // ????
-		return "[??]"
+	case 12884901937: // 音乐卡片
+		return "[音乐]"
 
-	case 8594229559345: // ????
-		return "[??]"
+	case 8594229559345: // 红包卡片
+		return "[红包]"
 
-	case 81604378673: // ????????
-		return "[????]"
+	case 81604378673: // 聊天记录合并转发
+		return "[聊天记录]"
 
-	case 266287972401: // ?????
-		return "[???]"
+	case 266287972401: // 拍一拍消息
+		return "[拍一拍]"
 
-	case 8589934592049: // ????
-		return "[??]"
+	case 8589934592049: // 转账卡片
+		return "[转账]"
 
-	case 270582939697: // ???????
-		return "[?????]"
+	case 270582939697: // 视频号直播卡片
+		return "[视频号直播]"
 
-	case 25769803825: // ????
-		return e.extractXMLTitle(decoded, "[??]")
+	case 25769803825: // 文件消息
+		return e.extractXMLTitle(decoded, "[文件]")
 
-	case 244813135921: // ????
+	case 244813135921: // 引用消息
 		return e.extractQuoteContent(decoded)
 
 	case 1: // 文本消息
@@ -1151,11 +1151,11 @@ func (e *Exporter) parseMessageContent(msgType int64, content string, isGroupCha
 		return e.cleanTextContent(decoded)
 
 	default:
-		// ????
+		// 未知类型消息
 		if len(decoded) > 0 && !strings.Contains(decoded, "�") {
 			return e.cleanTextContent(decoded)
 		}
-		return "[????????]"
+		return "[不支持的消息类型]"
 	}
 }
 

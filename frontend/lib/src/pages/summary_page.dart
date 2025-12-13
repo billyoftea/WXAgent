@@ -30,6 +30,12 @@ class _SummaryPageState extends State<SummaryPage> {
   String? _summaryPath;
   String? _error;
 
+  // 后端返回的统计信息
+  int? _totalMessages;
+  int? _totalSessions;
+  int? _chunkCount;
+  String? _summaryMode;
+
   List<SummaryHistoryEntry> _history = const [];
   SummaryHistoryEntry? _selectedHistory;
   bool _historyLoading = false;
@@ -111,6 +117,11 @@ class _SummaryPageState extends State<SummaryPage> {
     setState(() {
       _running = true;
       _error = null;
+      // 清空旧的统计信息
+      _totalMessages = null;
+      _totalSessions = null;
+      _chunkCount = null;
+      _summaryMode = null;
     });
     try {
       final result = await widget.controller.api.runSummary(
@@ -122,6 +133,11 @@ class _SummaryPageState extends State<SummaryPage> {
       setState(() {
         _resultContent = result.content;
         _summaryPath = result.outputPath;
+        // 保存后端返回的统计信息
+        _totalMessages = result.messages;
+        _totalSessions = result.sessions;
+        _chunkCount = result.chunkCount;
+        _summaryMode = result.mode;
       });
       await _loadHistory();
       if (!mounted) return;
@@ -258,6 +274,24 @@ class _SummaryPageState extends State<SummaryPage> {
   Future<void> _openSummaryFile() async {
     if (_summaryPath == null) return;
     await launchUrl(Uri.file(_summaryPath!));
+  }
+
+  Widget _buildStatChip(String label, String value) {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.blue.shade300),
+      ),
+      child: Text(
+        '$label: $value',
+        style: TextStyle(
+          fontSize: 12,
+          color: Colors.blue.shade700,
+        ),
+      ),
+    );
   }
 
   @override
@@ -429,6 +463,47 @@ class _SummaryPageState extends State<SummaryPage> {
                   }
                 },
               ),
+              // 显示后端返回的统计信息
+              if (_totalMessages != null || _totalSessions != null || _chunkCount != null) ...[
+                const SizedBox(height: 12),
+                Container(
+                  padding: const EdgeInsets.all(12),
+                  decoration: BoxDecoration(
+                    color: Colors.blue.shade50,
+                    borderRadius: BorderRadius.circular(8),
+                    border: Border.all(color: Colors.blue.shade200),
+                  ),
+                  child: Row(
+                    children: [
+                      const Icon(Icons.analytics, size: 20, color: Colors.blue),
+                      const SizedBox(width: 8),
+                      Text(
+                        '分析统计: ',
+                        style: TextStyle(
+                          fontWeight: FontWeight.w600,
+                          color: Colors.blue.shade800,
+                        ),
+                      ),
+                      if (_totalMessages != null) ...[
+                        const SizedBox(width: 8),
+                        _buildStatChip('消息', '$_totalMessages 条'),
+                      ],
+                      if (_totalSessions != null) ...[
+                        const SizedBox(width: 8),
+                        _buildStatChip('会话', '$_totalSessions 个'),
+                      ],
+                      if (_chunkCount != null && _chunkCount! > 0) ...[
+                        const SizedBox(width: 8),
+                        _buildStatChip('分段', '$_chunkCount 段'),
+                      ],
+                      if (_summaryMode != null) ...[
+                        const SizedBox(width: 8),
+                        _buildStatChip('模式', _summaryMode == 'merged' ? '合并分析' : '逐会话'),
+                      ],
+                    ],
+                  ),
+                ),
+              ],
               const SizedBox(height: 16),
               Container(
                 decoration: BoxDecoration(

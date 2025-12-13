@@ -22,7 +22,7 @@
       "create_time": 1664625039,
       "formatted_time": "2022-10-01 19:50:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "董佳鹭",
       "sender_wxid": "wxid_9tevng3slca722"
     },
@@ -97,40 +97,40 @@
       "create_time": 1664638352,
       "formatted_time": "2022-10-01 23:32:32",
       "type": "视频消息",
-      "str_content": "[????]",
+      "str_content": "[视频消息]",
       "sender": "自己"
     },
     {
       "create_time": 1664638353,
       "formatted_time": "2022-10-01 23:32:33",
       "type": "视频消息",
-      "str_content": "[????]",
+      "str_content": "[视频消息]",
       "sender": "自己"
     },
     {
       "create_time": 1664638355,
       "formatted_time": "2022-10-01 23:32:35",
       "type": "视频消息",
-      "str_content": "[????]",
+      "str_content": "[视频消息]",
       "sender": "自己"
     },
     {
       "create_time": 1664638479,
       "formatted_time": "2022-10-01 23:34:39",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1664638486,
       "formatted_time": "2022-10-01 23:34:46",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1664639551,
       "formatted_time": "2022-10-01 23:52:31",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1664655907,
@@ -142,7 +142,7 @@
       "create_time": 1664655915,
       "formatted_time": "2022-10-02 04:25:15",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1664655928,
@@ -156,7 +156,7 @@
       "create_time": 1664655933,
       "formatted_time": "2022-10-02 04:25:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋心远",
       "sender_wxid": "wxid_k4ilwh7lwzkw11"
     },
@@ -164,7 +164,7 @@
       "create_time": 1664682126,
       "formatted_time": "2022-10-02 11:42:06",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1664684376,
@@ -194,7 +194,7 @@
       "create_time": 1664684387,
       "formatted_time": "2022-10-02 12:19:47",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1664684405,
@@ -224,7 +224,7 @@
       "create_time": 1664684416,
       "formatted_time": "2022-10-02 12:20:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -245,7 +245,7 @@
       "create_time": 1664684418,
       "formatted_time": "2022-10-02 12:20:18",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1664684421,
@@ -328,6 +328,6 @@
       "sender_wxid": "wxid_9tevng3slca722"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 48
 }

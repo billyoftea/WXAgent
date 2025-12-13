@@ -22,7 +22,7 @@
       "create_time": 1732807470,
       "formatted_time": "2024-11-28 23:24:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "ki",
       "sender_wxid": "wxid_06npputydc5q22"
     },
@@ -62,7 +62,7 @@
       "create_time": 1732886186,
       "formatted_time": "2024-11-29 21:16:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "HH",
       "sender_wxid": "wxid_np9nrm6utp3l22"
     },
@@ -70,7 +70,7 @@
       "create_time": 1732886896,
       "formatted_time": "2024-11-29 21:28:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Stella",
       "sender_wxid": "wxid_lk6vo313e7p322"
     },
@@ -118,7 +118,7 @@
       "create_time": 1734013013,
       "formatted_time": "2024-12-12 22:16:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "_(:3」_)_",
       "sender_wxid": "wxid_3mcw04fw5odo22"
     },
@@ -174,7 +174,7 @@
       "create_time": 1734578233,
       "formatted_time": "2024-12-19 11:17:13",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1734578275,
@@ -228,7 +228,7 @@
       "create_time": 1740628735,
       "formatted_time": "2025-02-27 11:58:55",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "爱闹君",
       "sender_wxid": "wxid_6phxx37uydea22"
     },
@@ -276,7 +276,7 @@
       "create_time": 1742913175,
       "formatted_time": "2025-03-25 22:32:55",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "摇摇柠檬茶",
       "sender_wxid": "wxid_70f2ujs852m522"
     },
@@ -316,13 +316,13 @@
       "create_time": 1743424360,
       "formatted_time": "2025-03-31 20:32:40",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1743424360,
       "formatted_time": "2025-03-31 20:32:40",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1743603697,
@@ -464,7 +464,7 @@
       "create_time": 1760534871,
       "formatted_time": "2025-10-15 21:27:51",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "爱闹君",
       "sender_wxid": "wxid_6phxx37uydea22"
     },
@@ -501,6 +501,6 @@
       "sender_wxid": "wxid_6phxx37uydea22"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 63
 }

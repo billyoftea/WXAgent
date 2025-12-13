@@ -126,7 +126,7 @@
       "create_time": 1761135838,
       "formatted_time": "2025-10-22 20:23:58",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "贸大经济统计郭嘉芸",
       "sender_wxid": "wxid_ua0a66ecbept22"
     },
@@ -213,7 +213,7 @@
       "create_time": 1764407978,
       "formatted_time": "2025-11-29 17:19:38",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "贸大经济统计郭嘉芸",
       "sender_wxid": "wxid_ua0a66ecbept22"
     },
@@ -245,7 +245,7 @@
       "create_time": 1764410679,
       "formatted_time": "2025-11-29 18:04:39",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764410690,
@@ -262,8 +262,16 @@
       "str_content": "Soga原来是这样",
       "sender_name": "贸大经济统计郭嘉芸",
       "sender_wxid": "wxid_ua0a66ecbept22"
+    },
+    {
+      "create_time": 1765505803,
+      "formatted_time": "2025-12-12 10:16:43",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "sender_name": "贸大经济统计郭嘉芸",
+      "sender_wxid": "wxid_ua0a66ecbept22"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
-  "message_count": 33
+  "export_time": "2025-12-13T14:57:47+08:00",
+  "message_count": 34
 }

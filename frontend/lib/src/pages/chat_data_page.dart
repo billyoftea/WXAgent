@@ -192,7 +192,22 @@ class _ChatDataPageState extends State<ChatDataPage> {
 
   Future<void> _openFile(String? path) async {
     if (path == null || path.isEmpty) return;
-    await launchUrl(Uri.file(path));
+    
+    // 如果是相对路径（只有文件名），则拼接导出目录
+    String fullPath = path;
+    if (!path.contains(Platform.pathSeparator) && !path.contains('/') && !path.contains('\\')) {
+      final exportDir = _exportDirCtrl.text;
+      if (exportDir.isNotEmpty) {
+        fullPath = '$exportDir${Platform.pathSeparator}$path';
+      }
+    }
+    
+    // 使用 Process.run 直接打开文件，避免 URL 编码问题
+    if (Platform.isWindows) {
+      await Process.run('explorer.exe', ['/select,', fullPath]);
+    } else {
+      await launchUrl(Uri.file(fullPath));
+    }
   }
 
   Future<void> _loadSessionPool() async {

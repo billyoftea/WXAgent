@@ -2,7 +2,29 @@
 
 > 集成 wx_key + echotrace + LLM，实现自动化的微信聊天记录提取、导出和智能总结
 
-## 🎯 项目简介
+## � 最新更新（2025-12-07）
+
+✨ **新增智能分析功能 `analyze-chat`**
+
+- 🤖 集成 DeepSeek AI，智能总结聊天记录
+- 📊 自动提取重要信息（招聘、活动、通知等）
+- 🎯 支持日期范围和会话筛选
+- 💡 自动处理长文本分段（支持128K上下文）
+- 📝 生成完整的 Markdown 分析报告
+
+**快速体验：**
+```powershell
+cd backend
+.\wxagent_backend.exe analyze-chat
+# 或使用交互式脚本
+..\test_chat_analysis.ps1
+```
+
+📖 查看 [快速开始指南](QUICKSTART.md) | [详细使用文档](CHAT_ANALYSIS_GUIDE.md)
+
+---
+
+## �🎯 项目简介
 
 WXAgent 是一个完整的微信聊天记录智能整理解决方案，通过整合三大核心模块：
 
@@ -134,6 +156,64 @@ cd modules\echotrace\build\windows\runner\Release
    - 运行 echotrace 模块，使用密钥导出聊天记录
    - JSON 文件会保存在 `output/` 目录下
    - 支持增量导出（`.export_state` 文件记录导出进度）
+
+3. **智能分析（新功能！）**
+   - 使用命令行直接分析聊天记录
+   - 自动提取关键信息（招聘、活动、通知等）
+   - 生成完整的 Markdown 分析报告
+
+### 🆕 智能分析功能（analyze-chat）
+
+我们新增了基于 DeepSeek AI 的智能分析功能，可以自动总结聊天记录：
+
+#### 快速开始
+
+```powershell
+cd backend
+
+# 1. 导出微信数据（如果还没有）
+.\wxagent_backend.exe export-auto
+
+# 2. 智能分析聊天记录
+.\wxagent_backend.exe analyze-chat
+
+# 3. 查看报告
+notepad ..\output\chat_analysis.md
+```
+
+#### 高级用法
+
+```powershell
+# 分析指定日期范围
+.\wxagent_backend.exe analyze-chat --start-date 2025-12-01 --end-date 2025-12-05
+
+# 只分析特定会话
+.\wxagent_backend.exe analyze-chat --sessions "【AFT】20-21-22-23-24-25"
+
+# 自定义输出文件
+.\wxagent_backend.exe analyze-chat --output "my_analysis.md"
+```
+
+#### 使用交互式测试脚本（推荐）
+
+```powershell
+# 运行测试脚本
+.\test_chat_analysis.ps1
+
+# 选择测试场景：
+# 1. 分析所有聊天记录
+# 2. 分析最近3天的消息
+# 3. 分析特定会话
+# 4. 查看可用的会话列表
+# 5. 自定义参数测试
+```
+
+📖 **详细文档**：
+- [快速开始指南](QUICKSTART.md)
+- [完整使用指南](CHAT_ANALYSIS_GUIDE.md)
+- [API 集成完成报告](API_INTEGRATION_COMPLETE.md)
+
+### 传统工作流程（前端界面）
 
 3. **智能总结**
    - 通过前端界面选择日期范围

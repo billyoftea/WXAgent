@@ -13,7 +13,7 @@
       "create_time": 1764258057,
       "formatted_time": "2025-11-27 23:40:57",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "Cauchy"
     },
     {
@@ -41,7 +41,7 @@
       "create_time": 1764258110,
       "formatted_time": "2025-11-27 23:41:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Cauchy"
     },
     {
@@ -55,7 +55,7 @@
       "create_time": 1764258125,
       "formatted_time": "2025-11-27 23:42:05",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -83,10 +83,10 @@
       "create_time": 1764258181,
       "formatted_time": "2025-11-27 23:43:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Cauchy"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
+  "export_time": "2025-12-13T14:57:48+08:00",
   "message_count": 12
 }

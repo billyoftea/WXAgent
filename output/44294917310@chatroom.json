@@ -6,13 +6,13 @@
       "create_time": 1706017029,
       "formatted_time": "2024-01-23 21:37:09",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1706017030,
       "formatted_time": "2024-01-23 21:37:10",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "44294917310@chatroom",
       "sender_wxid": "44294917310@chatroom"
     },
@@ -60,7 +60,7 @@
       "create_time": 1706017084,
       "formatted_time": "2024-01-23 21:38:04",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Ella老师",
       "sender_wxid": "25984982293351574@openim"
     },
@@ -83,7 +83,7 @@
       "create_time": 1706018182,
       "formatted_time": "2024-01-23 21:56:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -114,7 +114,7 @@
       "create_time": 1706167049,
       "formatted_time": "2024-01-25 15:17:29",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Ella老师",
       "sender_wxid": "25984982293351574@openim"
     },
@@ -153,7 +153,7 @@
       "create_time": 1706169513,
       "formatted_time": "2024-01-25 15:58:33",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "44294917310@chatroom",
       "sender_wxid": "44294917310@chatroom"
     },
@@ -169,7 +169,7 @@
       "create_time": 1706191078,
       "formatted_time": "2024-01-25 21:57:58",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "44294917310@chatroom",
       "sender_wxid": "44294917310@chatroom"
     },
@@ -273,7 +273,7 @@
       "create_time": 1706191181,
       "formatted_time": "2024-01-25 21:59:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Ella老师",
       "sender_wxid": "25984982293351574@openim"
     },
@@ -312,7 +312,7 @@
       "create_time": 1706807752,
       "formatted_time": "2024-02-02 01:15:52",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1706807786,
@@ -681,7 +681,7 @@
       "create_time": 1709472009,
       "formatted_time": "2024-03-03 21:20:09",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1709472029,
@@ -1165,7 +1165,7 @@
       "create_time": 1709562000,
       "formatted_time": "2024-03-04 22:20:00",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -1638,7 +1638,7 @@
       "create_time": 1709710001,
       "formatted_time": "2024-03-06 15:26:41",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1709710617,
@@ -1658,7 +1658,7 @@
       "create_time": 1709710619,
       "formatted_time": "2024-03-06 15:36:59",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -1695,21 +1695,21 @@
       "create_time": 1709724007,
       "formatted_time": "2024-03-06 19:20:07",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1709724007,
       "formatted_time": "2024-03-06 19:20:07",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1709724007,
       "formatted_time": "2024-03-06 19:20:07",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -1770,7 +1770,7 @@
       "create_time": 1709724294,
       "formatted_time": "2024-03-06 19:24:54",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -1816,7 +1816,7 @@
       "create_time": 1709724386,
       "formatted_time": "2024-03-06 19:26:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -1868,7 +1868,7 @@
       "create_time": 1709724619,
       "formatted_time": "2024-03-06 19:30:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -1936,13 +1936,13 @@
       "create_time": 1709865066,
       "formatted_time": "2024-03-08 10:31:06",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1709865066,
       "formatted_time": "2024-03-08 10:31:06",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -2017,7 +2017,7 @@
       "create_time": 1709867858,
       "formatted_time": "2024-03-08 11:17:38",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -2040,7 +2040,7 @@
       "create_time": 1709868233,
       "formatted_time": "2024-03-08 11:23:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -2122,7 +2122,7 @@
       "create_time": 1709900692,
       "formatted_time": "2024-03-08 20:24:52",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -2189,7 +2189,7 @@
       "create_time": 1709958552,
       "formatted_time": "2024-03-09 12:29:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -2396,14 +2396,14 @@
       "create_time": 1709989321,
       "formatted_time": "2024-03-09 21:02:01",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1709989321,
       "formatted_time": "2024-03-09 21:02:01",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -2477,7 +2477,7 @@
       "create_time": 1709993512,
       "formatted_time": "2024-03-09 22:11:52",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -2516,7 +2516,7 @@
       "create_time": 1709993858,
       "formatted_time": "2024-03-09 22:17:38",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -2530,7 +2530,7 @@
       "create_time": 1709994289,
       "formatted_time": "2024-03-09 22:24:49",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -2591,13 +2591,13 @@
       "create_time": 1709999784,
       "formatted_time": "2024-03-09 23:56:24",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1709999812,
       "formatted_time": "2024-03-09 23:56:52",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1710000097,
@@ -2665,7 +2665,7 @@
       "create_time": 1710000680,
       "formatted_time": "2024-03-10 00:11:20",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1710000688,
@@ -2761,14 +2761,14 @@
       "create_time": 1710042211,
       "formatted_time": "2024-03-10 11:43:31",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1710042211,
       "formatted_time": "2024-03-10 11:43:31",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -2782,7 +2782,7 @@
       "create_time": 1710044506,
       "formatted_time": "2024-03-10 12:21:46",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -3006,7 +3006,7 @@
       "create_time": 1710049295,
       "formatted_time": "2024-03-10 13:41:35",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -3060,7 +3060,7 @@
       "create_time": 1710049656,
       "formatted_time": "2024-03-10 13:47:36",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "丛正龙",
       "sender_wxid": "wxid_93hfjzbfi85n22"
     },
@@ -3068,7 +3068,7 @@
       "create_time": 1710049673,
       "formatted_time": "2024-03-10 13:47:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "丛正龙",
       "sender_wxid": "wxid_93hfjzbfi85n22"
     },
@@ -3289,7 +3289,7 @@
       "create_time": 1710079629,
       "formatted_time": "2024-03-10 22:07:09",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -3464,7 +3464,7 @@
       "create_time": 1710130869,
       "formatted_time": "2024-03-11 12:21:09",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1710130887,
@@ -3507,7 +3507,7 @@
       "create_time": 1710134094,
       "formatted_time": "2024-03-11 13:14:54",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -3583,7 +3583,7 @@
       "create_time": 1710148703,
       "formatted_time": "2024-03-11 17:18:23",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -3621,13 +3621,13 @@
       "create_time": 1710151737,
       "formatted_time": "2024-03-11 18:08:57",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1710151737,
       "formatted_time": "2024-03-11 18:08:57",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -3708,7 +3708,7 @@
       "create_time": 1710152910,
       "formatted_time": "2024-03-11 18:28:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -3853,14 +3853,14 @@
       "create_time": 1710312418,
       "formatted_time": "2024-03-13 14:46:58",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1710312418,
       "formatted_time": "2024-03-13 14:46:58",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -3874,14 +3874,14 @@
       "create_time": 1710315698,
       "formatted_time": "2024-03-13 15:41:38",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1710317130,
       "formatted_time": "2024-03-13 16:05:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -4038,7 +4038,7 @@
       "create_time": 1710568194,
       "formatted_time": "2024-03-16 13:49:54",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1710568200,
@@ -4141,7 +4141,7 @@
       "create_time": 1710640805,
       "formatted_time": "2024-03-17 10:00:05",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -4155,14 +4155,14 @@
       "create_time": 1710644290,
       "formatted_time": "2024-03-17 10:58:10",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1710644290,
       "formatted_time": "2024-03-17 10:58:10",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -4274,7 +4274,7 @@
       "create_time": 1710669214,
       "formatted_time": "2024-03-17 17:53:34",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -4296,7 +4296,7 @@
       "create_time": 1710669321,
       "formatted_time": "2024-03-17 17:55:21",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -4325,7 +4325,7 @@
       "create_time": 1710669344,
       "formatted_time": "2024-03-17 17:55:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -4408,7 +4408,7 @@
       "create_time": 1710669839,
       "formatted_time": "2024-03-17 18:03:59",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -4429,14 +4429,14 @@
       "create_time": 1710669929,
       "formatted_time": "2024-03-17 18:05:29",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1710671188,
       "formatted_time": "2024-03-17 18:26:28",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -4496,7 +4496,7 @@
       "create_time": 1710678761,
       "formatted_time": "2024-03-17 20:32:41",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -4540,7 +4540,7 @@
       "create_time": 1710684289,
       "formatted_time": "2024-03-17 22:04:49",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -4949,7 +4949,7 @@
       "create_time": 1715259721,
       "formatted_time": "2024-05-09 21:02:01",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1715259729,
@@ -5079,7 +5079,7 @@
       "create_time": 1726896026,
       "formatted_time": "2024-09-21 13:20:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Ella老师",
       "sender_wxid": "25984982293351574@openim"
     },
@@ -5087,7 +5087,7 @@
       "create_time": 1726896031,
       "formatted_time": "2024-09-21 13:20:31",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "44294917310@chatroom",
       "sender_wxid": "44294917310@chatroom"
     },
@@ -5095,9 +5095,9 @@
       "create_time": 1726896066,
       "formatted_time": "2024-09-21 13:21:06",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 674
 }

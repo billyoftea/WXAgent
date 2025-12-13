@@ -6,14 +6,14 @@
       "create_time": 1763864191,
       "formatted_time": "2025-11-23 10:16:31",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1763864194,
       "formatted_time": "2025-11-23 10:16:34",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -41,7 +41,7 @@
       "create_time": 1763867979,
       "formatted_time": "2025-11-23 11:19:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赵梓涵-南开大学-西方经济学"
     },
     {
@@ -62,7 +62,7 @@
       "create_time": 1763878700,
       "formatted_time": "2025-11-23 14:18:20",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赵梓涵-南开大学-西方经济学"
     },
     {
@@ -76,7 +76,7 @@
       "create_time": 1764925266,
       "formatted_time": "2025-12-05 17:01:06",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赵梓涵-南开大学-西方经济学"
     },
     {
@@ -90,7 +90,7 @@
       "create_time": 1764925336,
       "formatted_time": "2025-12-05 17:02:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -150,6 +150,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
+  "export_time": "2025-12-13T14:57:47+08:00",
   "message_count": 21
 }

@@ -27,7 +27,7 @@
       "create_time": 1737087620,
       "formatted_time": "2025-01-17 12:20:20",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李科"
     },
     {
@@ -230,7 +230,7 @@
       "create_time": 1745738146,
       "formatted_time": "2025-04-27 15:15:46",
       "type": "名片消息",
-      "str_content": "[????]",
+      "str_content": "[名片消息]",
       "sender_name": "自己"
     },
     {
@@ -248,6 +248,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 35
 }

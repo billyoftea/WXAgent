@@ -6,7 +6,7 @@
       "create_time": 1685284122,
       "formatted_time": "2023-05-28 22:28:42",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "技术群",
       "sender_wxid": "48983267921@chatroom"
     },
@@ -14,7 +14,7 @@
       "create_time": 1685284135,
       "formatted_time": "2023-05-28 22:28:55",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "张久廷",
       "sender_wxid": "wxid_9t1f09or50au22"
     },
@@ -53,7 +53,7 @@
       "create_time": 1686623658,
       "formatted_time": "2023-06-13 10:34:18",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "技术群",
       "sender_wxid": "48983267921@chatroom"
     },
@@ -61,13 +61,13 @@
       "create_time": 1686623658,
       "formatted_time": "2023-06-13 10:34:18",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1687260888,
       "formatted_time": "2023-06-20 19:34:48",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "技术群",
       "sender_wxid": "48983267921@chatroom"
     },
@@ -91,11 +91,11 @@
       "create_time": 1687260956,
       "formatted_time": "2023-06-20 19:35:56",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张久廷",
       "sender_wxid": "wxid_9t1f09or50au22"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:56+08:00",
   "message_count": 12
 }

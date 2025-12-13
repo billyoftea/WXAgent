@@ -30,7 +30,7 @@
       "create_time": 1761794208,
       "formatted_time": "2025-10-30 11:16:48",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "",
       "sender_wxid": "wxid_ey89umv9at8b22"
     },
@@ -118,7 +118,7 @@
       "create_time": 1762426655,
       "formatted_time": "2025-11-06 18:57:35",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762494169,
@@ -212,13 +212,13 @@
       "create_time": 1763461487,
       "formatted_time": "2025-11-18 18:24:47",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763462096,
       "formatted_time": "2025-11-18 18:34:56",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763553857,
@@ -240,7 +240,7 @@
       "create_time": 1763553857,
       "formatted_time": "2025-11-19 20:04:17",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "Neli@保研声",
       "sender_wxid": "wxid_d3h8ojmh9b522"
     },
@@ -248,7 +248,7 @@
       "create_time": 1763553857,
       "formatted_time": "2025-11-19 20:04:17",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "Neli@保研声",
       "sender_wxid": "wxid_d3h8ojmh9b522"
     },
@@ -264,7 +264,7 @@
       "create_time": 1763714701,
       "formatted_time": "2025-11-21 16:45:01",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763714717,
@@ -278,7 +278,7 @@
       "create_time": 1763714975,
       "formatted_time": "2025-11-21 16:49:35",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763729148,
@@ -300,7 +300,7 @@
       "create_time": 1763972021,
       "formatted_time": "2025-11-24 16:13:41",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "难却.",
       "sender_wxid": "wxid_omfl1lx6pppw22"
     },
@@ -316,7 +316,7 @@
       "create_time": 1763991790,
       "formatted_time": "2025-11-24 21:43:10",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "Zian",
       "sender_wxid": "wxid_r4o62ix1rqq221"
     },
@@ -356,13 +356,13 @@
       "create_time": 1764247752,
       "formatted_time": "2025-11-27 20:49:12",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1764334392,
       "formatted_time": "2025-11-28 20:53:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "Neli@保研声",
       "sender_wxid": "wxid_d3h8ojmh9b522"
     },
@@ -378,7 +378,7 @@
       "create_time": 1764334392,
       "formatted_time": "2025-11-28 20:53:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "Neli@保研声",
       "sender_wxid": "wxid_d3h8ojmh9b522"
     },
@@ -402,11 +402,67 @@
       "create_time": 1764743374,
       "formatted_time": "2025-12-03 14:29:34",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "Neli@保研声",
       "sender_wxid": "wxid_d3h8ojmh9b522"
+    },
+    {
+      "create_time": 1765114322,
+      "formatted_time": "2025-12-07 21:32:02",
+      "type": "文本消息",
+      "str_content": "#帮学生家长直转家教帖\n#家长是北大校友，也可以推荐有认识做家教的的学弟学妹\n初三学生，男，北三环附近，父母央企，找北京的大学生家教，希望对方性格开朗，三观正确，性取向正确，主要陪孩子网上聊天，偶尔线下见面，主要做孩子的人生导师，引导孩子的学业和成长，不用花很多时间，费用以月为单位，费用可以商量，本科生优先。可+家长微信号wdwlh2025",
+      "sender_name": ".Stargazer",
+      "sender_wxid": "wxid_dtecfeybdnt311"
+    },
+    {
+      "create_time": 1765114802,
+      "formatted_time": "2025-12-07 21:40:02",
+      "type": "引用消息",
+      "str_content": "如果微信号搜索不出来，可以用手机号联系：13911406853",
+      "sender_name": ".Stargazer",
+      "sender_wxid": "wxid_dtecfeybdnt311"
+    },
+    {
+      "create_time": 1765353217,
+      "formatted_time": "2025-12-10 15:53:37",
+      "type": "文本消息",
+      "str_content": "#帮转\n【纪源资本】科技投资实习生招聘\n纪源资本是一家领先的风险投资机构。我们寻找对前沿科技领域投资有热情的实习生。\n岗位名称：科技投资实习生\n工作地点：上海/北京（预计1月初入职）\n主要领域：前沿科技（AI与半导体）\n【工作职责】\n1. 深度参与投资工作，包括前期sourcing、项目判断 & 项目执行\n2. 行业研究、信息搜集 & 市场调研\n3. 其他投资相关辅助工作\n【任职要求】\n1. 每周至少4天，连续实习3个月以上\n2. 经管、理工科背景候选人优先，有投资经验者优先\n3. 勤奋好学，有责任心，抗压能力强，有一线VC/PE工作经验者优先\n4. 拥有硬科技，基础软件，人工智能，企业服务，医疗科技等投资领域相关实习或工作经验者优先\n5. 熟悉投资市场，对行业热点和趋势有敏锐的观察能力\n6. 英文听说读写优异者优先\n【岗位福利】\n1. 一线参与VC投资工作，学习最前沿的投资方向，近距离接触优秀创业者\n2. 有竞争力的实习薪酬福利\n3. 深入参与项目的全流程（Deal flow和Exposure超级好，近段时间都有deal），有学习深度研究的机会，合伙人直带\n4.很愿意分享、平等交流、非常非常非常非常好的老板！\n【投递渠道】\n简历投递：ylei-int@jiyuancap.com\n请于简历和邮件主题注明：投资实习生+姓名+学校+最快入职时间+每周实习时长+可实习时长",
+      "sender_name": "Neli@保研声",
+      "sender_wxid": "wxid_d3h8ojmh9b522"
+    },
+    {
+      "create_time": 1765353217,
+      "formatted_time": "2025-12-10 15:53:37",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "sender_name": "Neli@保研声",
+      "sender_wxid": "wxid_d3h8ojmh9b522"
+    },
+    {
+      "create_time": 1765353241,
+      "formatted_time": "2025-12-10 15:54:01",
+      "type": "文本消息",
+      "str_content": "【帮转】\n科技投资部实习生\n【工作内容】\n深度参与项目投资工作，包括但不限于以下内容：\n（1）行业研究：协助投资总监和投资经理进行重点行业及细分赛道研究；\n（2）协助制定和执行投资策略：参与科技项目的尽调和评估，协助准备详尽的投资建议书、投资协议等；\n（3）公司和团队交办的其他工作。\n【任职要求】\n（1）国内外知名院校硕士及以上学历，理工科背景优先（计算机、人工智能、微电子、物理、化学、材料等专业）；\n（2）具备较强的跨学科（商科/金融/经济）学习能力，较强的逻辑思维能力和沟通交流能力；责任心强、团队合作意识强；\n（3）每周出勤时间不少于三天，实习时间至少3个月；\n（4）加分项：具有股权投资机构、研究所等相关实习经验，熟悉 PE/VC等资本行业 ；有科技（半导体、人工智能、新能源等）相关领域研究经验。\n【福利待遇】\n（1）提供实习证明与实习报酬；\n（2）团队氛围好，高效扁平的企业文化，合伙人直接指导带教；\n（3）深度参与项目投资工作，全程参与项目流程，学习曲线陡峭；\n（4）实习期间表现优秀者可保留申请留用机会。\n\n【工作地址】\n上海浦东新区SK大厦\n【简历投递】\n如果有兴趣请发送简历至邮箱：简历投递邮箱：pipi.peng@midas-inv.com；\n邮箱命名格式：“岗位+姓名+学校+专业+毕业时间+每周出勤天数+最快到岗时间”命名简历及邮件主题\nps:若对公司和岗位有疑问也可以添加hr微信：pipi1007a",
+      "sender_name": "Neli@保研声",
+      "sender_wxid": "wxid_d3h8ojmh9b522"
+    },
+    {
+      "create_time": 1765353241,
+      "formatted_time": "2025-12-10 15:54:01",
+      "type": "文本消息",
+      "str_content": "小红书商业化策略中台-经营分析&商业分析BP实习生\n【工作职责】：\n1、运营数据分析和业绩管理：协助追踪业务团队的OKR和业务目标，协助完善业务健康度的经营分析框架和数据体系\n2、运营追踪和风险判断：支持客户动态跟踪，过程指标监控等数据处理工作，共同保证销售体系的业务管理正常运转 \n3、市场洞察和专项分析：深度行业研究，通过桌面研究、专家访谈、市场洞察等，了解市场、竞品及客户变化趋势，发掘潜在业务机会\n4、协助支持部分商业化专题分析与数据分析，为决策提供有质量的分析支持\n \n【职位要求】：\n1、211 985，QS top100本科及以上在读学历，偏好大三课少/大四or研一已保研或拿到offer的同学\n2、商业分析、统计学、计算机等相关专业优先；有优秀的沟通能力和数据分析能力，掌握Excel、SQL等数据分析语言与工具 \n3、清晰、缜密的逻辑思维能力，做事认真严谨，为交付内容负责  \n \n【实习时间及地点】\n1、实习时间：尽快到岗，要求onsite上海/北京，能够稳定实习4个月及以上，有考试、急事等可提前沟通请假，或个别天数在学校工作\n2、工作地点：上海市/黄浦区/ luone凯德晶萃广场办公楼，或北京市/朝阳区/中海国际大厦\n\n简历投递邮箱：fengqipei@xiaohongshu.com，抄送chenkeyi2@xiaohongshu.com 标题：姓名-学校-年级-一周可到岗几天-可实习几个月-base地",
+      "sender_name": "Neli@保研声",
+      "sender_wxid": "wxid_d3h8ojmh9b522"
+    },
+    {
+      "create_time": 1765526984,
+      "formatted_time": "2025-12-12 16:09:44",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "sender_name": "Leo Xu 徐明远",
+      "sender_wxid": "wxid_d9m2suz9gufq12"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
-  "message_count": 52
+  "export_time": "2025-12-13T14:57:47+08:00",
+  "message_count": 59
 }

@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"os"
 	"os/exec"
+	"strings"
 	"time"
 
 	"github.com/billyoftea/wxagent/go_backend/internal/config"
@@ -44,6 +45,8 @@ func main() {
 		runExport(pipe)
 	case "export-auto":
 		runExportAuto(pipe)
+	case "analyze-chat":
+		runAnalyzeChat(pipe)
 	case "summarize":
 		runSummarize(pipe)
 	case "server":
@@ -64,6 +67,7 @@ func printUsage() {
 	fmt.Println("  refresh-key   Refresh WeChat database key")
 	fmt.Println("  export        Trigger echotrace GUI export")
 	fmt.Println("  export-auto   Automatic export (no GUI)")
+	fmt.Println("  analyze-chat  Analyze chat messages with AI (DeepSeek)")
 	fmt.Println("  summarize     Run summary pipeline")
 	fmt.Println("  server        Start HTTP server")
 	fmt.Println("Options:")
@@ -110,6 +114,38 @@ func runExportAuto(p *pipeline.Pipeline) {
 		os.Exit(1)
 	}
 	fmt.Println("✓ Auto export completed successfully.")
+}
+
+func runAnalyzeChat(p *pipeline.Pipeline) {
+	fs := flag.NewFlagSet("analyze-chat", flag.ExitOnError)
+	startDate := fs.String("start-date", "", "Start date YYYY-MM-DD")
+	endDate := fs.String("end-date", "", "End date YYYY-MM-DD (default: today)")
+	sessions := fs.String("sessions", "", "Comma-separated session names (empty for all)")
+	maxTokens := fs.Int("max-tokens", 80000, "Max tokens per chunk (default: 80000)")
+	output := fs.String("output", "", "Output file path (default: output/chat_analysis.md)")
+	fs.Parse(flag.Args()[1:])
+
+	// 解析会话列表
+	var sessionList []string
+	if *sessions != "" {
+		sessionList = strings.Split(*sessions, ",")
+		for i := range sessionList {
+			sessionList[i] = strings.TrimSpace(sessionList[i])
+		}
+	}
+
+	fmt.Println("=== 微信聊天记录智能分析 ===\n")
+	result, err := p.AnalyzeChat(*startDate, *endDate, sessionList, *maxTokens, *output)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error analyzing chat: %v\n", err)
+		os.Exit(1)
+	}
+
+	fmt.Println("\n=== 分析完成 ===")
+	fmt.Printf("✓ 分析消息: %d 条\n", result.TotalMessages)
+	fmt.Printf("✓ 涉及会话: %d 个\n", result.TotalSessions)
+	fmt.Printf("✓ 分段处理: %d 段\n", result.ChunkCount)
+	fmt.Printf("✓ 报告保存: %s\n", result.OutputFile)
 }
 
 func runSummarize(p *pipeline.Pipeline) {

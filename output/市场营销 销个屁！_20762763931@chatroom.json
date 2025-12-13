@@ -6,7 +6,7 @@
       "create_time": 1729694605,
       "formatted_time": "2024-10-23 22:43:25",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "刘佳仪",
       "sender_wxid": "wxid_00x32kp9dlu622"
     },
@@ -213,7 +213,7 @@
       "create_time": 1729694912,
       "formatted_time": "2024-10-23 22:48:32",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "刘佳仪",
       "sender_wxid": "wxid_00x32kp9dlu622"
     },
@@ -290,6 +290,6 @@
       "sender_wxid": "wxid_1qo5y1cwfk4711"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 36
 }

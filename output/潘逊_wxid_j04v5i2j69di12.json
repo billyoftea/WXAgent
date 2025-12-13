@@ -20,7 +20,7 @@
       "create_time": 1763469917,
       "formatted_time": "2025-11-18 20:45:17",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "潘逊"
     },
     {
@@ -34,7 +34,7 @@
       "create_time": 1763469945,
       "formatted_time": "2025-11-18 20:45:45",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "潘逊"
     },
     {
@@ -125,7 +125,7 @@
       "create_time": 1763470079,
       "formatted_time": "2025-11-18 20:47:59",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "潘逊"
     },
     {
@@ -279,21 +279,21 @@
       "create_time": 1763724766,
       "formatted_time": "2025-11-21 19:32:46",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1763724787,
       "formatted_time": "2025-11-21 19:33:07",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1763724792,
       "formatted_time": "2025-11-21 19:33:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -370,7 +370,7 @@
       "create_time": 1763789582,
       "formatted_time": "2025-11-22 13:33:02",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -409,6 +409,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
+  "export_time": "2025-12-13T14:57:48+08:00",
   "message_count": 58
 }

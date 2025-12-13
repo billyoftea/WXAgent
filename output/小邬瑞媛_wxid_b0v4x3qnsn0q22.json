@@ -104,7 +104,7 @@
       "create_time": 1723626903,
       "formatted_time": "2024-08-14 17:15:03",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "自己"
     },
     {
@@ -153,7 +153,7 @@
       "create_time": 1723627169,
       "formatted_time": "2024-08-14 17:19:29",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "小邬瑞媛"
     },
     {
@@ -230,7 +230,7 @@
       "create_time": 1723627533,
       "formatted_time": "2024-08-14 17:25:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "小邬瑞媛"
     },
     {
@@ -251,10 +251,10 @@
       "create_time": 1723627576,
       "formatted_time": "2024-08-14 17:26:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 36
 }

@@ -45,7 +45,7 @@
       "create_time": 1761108565,
       "formatted_time": "2025-10-22 12:49:25",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -178,7 +178,7 @@
       "create_time": 1761148086,
       "formatted_time": "2025-10-22 23:48:06",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761148097,
@@ -216,7 +216,7 @@
       "create_time": 1761148843,
       "formatted_time": "2025-10-23 00:00:43",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许育豪 25 经济",
       "sender_wxid": "wxid_yfrvwz3bus522"
     },
@@ -408,7 +408,7 @@
       "create_time": 1761199305,
       "formatted_time": "2025-10-23 14:01:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -448,7 +448,7 @@
       "create_time": 1761199344,
       "formatted_time": "2025-10-23 14:02:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -512,7 +512,7 @@
       "create_time": 1761199665,
       "formatted_time": "2025-10-23 14:07:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -528,7 +528,7 @@
       "create_time": 1761200408,
       "formatted_time": "2025-10-23 14:20:08",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "经济 林千山",
       "sender_wxid": "wxid_2vi7friyk49u22"
     },
@@ -536,7 +536,7 @@
       "create_time": 1761201021,
       "formatted_time": "2025-10-23 14:30:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -648,7 +648,7 @@
       "create_time": 1761370384,
       "formatted_time": "2025-10-25 13:33:04",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -760,7 +760,7 @@
       "create_time": 1761370916,
       "formatted_time": "2025-10-25 13:41:56",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -800,7 +800,7 @@
       "create_time": 1761558792,
       "formatted_time": "2025-10-27 17:53:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -824,7 +824,7 @@
       "create_time": 1761614890,
       "formatted_time": "2025-10-28 09:28:10",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -848,7 +848,7 @@
       "create_time": 1761615501,
       "formatted_time": "2025-10-28 09:38:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "环能徐子洋",
       "sender_wxid": "wxid_m4dib8jd5go422"
     },
@@ -864,7 +864,7 @@
       "create_time": 1761615572,
       "formatted_time": "2025-10-28 09:39:32",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "经济 林千山",
       "sender_wxid": "wxid_2vi7friyk49u22"
     },
@@ -888,7 +888,7 @@
       "create_time": 1761615633,
       "formatted_time": "2025-10-28 09:40:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -896,7 +896,7 @@
       "create_time": 1761615649,
       "formatted_time": "2025-10-28 09:40:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "环能徐子洋",
       "sender_wxid": "wxid_m4dib8jd5go422"
     },
@@ -928,7 +928,7 @@
       "create_time": 1761615684,
       "formatted_time": "2025-10-28 09:41:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -936,7 +936,7 @@
       "create_time": 1761615685,
       "formatted_time": "2025-10-28 09:41:25",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "经济 林千山",
       "sender_wxid": "wxid_2vi7friyk49u22"
     },
@@ -976,7 +976,7 @@
       "create_time": 1761615728,
       "formatted_time": "2025-10-28 09:42:08",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "环能徐子洋",
       "sender_wxid": "wxid_m4dib8jd5go422"
     },
@@ -992,13 +992,13 @@
       "create_time": 1761615772,
       "formatted_time": "2025-10-28 09:42:52",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1761615772,
       "formatted_time": "2025-10-28 09:42:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1014,7 +1014,7 @@
       "create_time": 1761615812,
       "formatted_time": "2025-10-28 09:43:32",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "环能徐子洋",
       "sender_wxid": "wxid_m4dib8jd5go422"
     },
@@ -1086,7 +1086,7 @@
       "create_time": 1761731212,
       "formatted_time": "2025-10-29 17:46:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -1150,7 +1150,7 @@
       "create_time": 1761732402,
       "formatted_time": "2025-10-29 18:06:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1182,7 +1182,7 @@
       "create_time": 1761734206,
       "formatted_time": "2025-10-29 18:36:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1198,7 +1198,7 @@
       "create_time": 1761734279,
       "formatted_time": "2025-10-29 18:37:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -1206,7 +1206,7 @@
       "create_time": 1761751224,
       "formatted_time": "2025-10-29 23:20:24",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761992911,
@@ -1252,7 +1252,7 @@
       "create_time": 1762005753,
       "formatted_time": "2025-11-01 22:02:33",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -1260,7 +1260,7 @@
       "create_time": 1762005754,
       "formatted_time": "2025-11-01 22:02:34",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -1268,7 +1268,7 @@
       "create_time": 1762005777,
       "formatted_time": "2025-11-01 22:02:57",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1323,7 +1323,7 @@
       "create_time": 1762006364,
       "formatted_time": "2025-11-01 22:12:44",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "25管理 王振轩",
       "sender_wxid": "wxid_ol3zb6jnx3gj22"
     },
@@ -1331,13 +1331,13 @@
       "create_time": 1762007443,
       "formatted_time": "2025-11-01 22:30:43",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762007443,
       "formatted_time": "2025-11-01 22:30:43",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762007471,
@@ -1415,7 +1415,7 @@
       "create_time": 1762094144,
       "formatted_time": "2025-11-02 22:35:44",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762094149,
@@ -1445,7 +1445,7 @@
       "create_time": 1762094169,
       "formatted_time": "2025-11-02 22:36:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1549,7 +1549,7 @@
       "create_time": 1762094342,
       "formatted_time": "2025-11-02 22:39:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1557,7 +1557,7 @@
       "create_time": 1762094346,
       "formatted_time": "2025-11-02 22:39:06",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -1581,7 +1581,7 @@
       "create_time": 1762103531,
       "formatted_time": "2025-11-03 01:12:11",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1621,7 +1621,7 @@
       "create_time": 1762501812,
       "formatted_time": "2025-11-07 15:50:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1637,7 +1637,7 @@
       "create_time": 1762501846,
       "formatted_time": "2025-11-07 15:50:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -1653,7 +1653,7 @@
       "create_time": 1762501861,
       "formatted_time": "2025-11-07 15:51:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1693,7 +1693,7 @@
       "create_time": 1762501968,
       "formatted_time": "2025-11-07 15:52:48",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -1709,7 +1709,7 @@
       "create_time": 1762769084,
       "formatted_time": "2025-11-10 18:04:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1717,7 +1717,7 @@
       "create_time": 1762769170,
       "formatted_time": "2025-11-10 18:06:10",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -1733,7 +1733,7 @@
       "create_time": 1762769323,
       "formatted_time": "2025-11-10 18:08:43",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -1805,7 +1805,7 @@
       "create_time": 1763049410,
       "formatted_time": "2025-11-13 23:56:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1836,7 +1836,7 @@
       "create_time": 1763377709,
       "formatted_time": "2025-11-17 19:08:29",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1868,7 +1868,7 @@
       "create_time": 1763377747,
       "formatted_time": "2025-11-17 19:09:07",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1916,7 +1916,7 @@
       "create_time": 1763377779,
       "formatted_time": "2025-11-17 19:09:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -1924,7 +1924,7 @@
       "create_time": 1763377783,
       "formatted_time": "2025-11-17 19:09:43",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -1940,7 +1940,7 @@
       "create_time": 1763379266,
       "formatted_time": "2025-11-17 19:34:26",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763379530,
@@ -1970,7 +1970,7 @@
       "create_time": 1763387730,
       "formatted_time": "2025-11-17 21:55:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "经济 林千山",
       "sender_wxid": "wxid_2vi7friyk49u22"
     },
@@ -1978,7 +1978,7 @@
       "create_time": 1763387783,
       "formatted_time": "2025-11-17 21:56:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -1986,7 +1986,7 @@
       "create_time": 1763388076,
       "formatted_time": "2025-11-17 22:01:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许育豪 25 经济",
       "sender_wxid": "wxid_yfrvwz3bus522"
     },
@@ -2034,7 +2034,7 @@
       "create_time": 1763465097,
       "formatted_time": "2025-11-18 19:24:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -2050,7 +2050,7 @@
       "create_time": 1763465215,
       "formatted_time": "2025-11-18 19:26:55",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2082,7 +2082,7 @@
       "create_time": 1763466959,
       "formatted_time": "2025-11-18 19:55:59",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763467207,
@@ -2112,7 +2112,7 @@
       "create_time": 1763467229,
       "formatted_time": "2025-11-18 20:00:29",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -2120,7 +2120,7 @@
       "create_time": 1763467252,
       "formatted_time": "2025-11-18 20:00:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -2184,7 +2184,7 @@
       "create_time": 1763467312,
       "formatted_time": "2025-11-18 20:01:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -2232,7 +2232,7 @@
       "create_time": 1763467361,
       "formatted_time": "2025-11-18 20:02:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2248,7 +2248,7 @@
       "create_time": 1763467367,
       "formatted_time": "2025-11-18 20:02:47",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -2264,7 +2264,7 @@
       "create_time": 1763467383,
       "formatted_time": "2025-11-18 20:03:03",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763467394,
@@ -2302,7 +2302,7 @@
       "create_time": 1763467422,
       "formatted_time": "2025-11-18 20:03:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -2350,7 +2350,7 @@
       "create_time": 1763467515,
       "formatted_time": "2025-11-18 20:05:15",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2366,7 +2366,7 @@
       "create_time": 1763467526,
       "formatted_time": "2025-11-18 20:05:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -2382,7 +2382,7 @@
       "create_time": 1763467539,
       "formatted_time": "2025-11-18 20:05:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -2406,7 +2406,7 @@
       "create_time": 1763467559,
       "formatted_time": "2025-11-18 20:05:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -2534,7 +2534,7 @@
       "create_time": 1763467663,
       "formatted_time": "2025-11-18 20:07:43",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -2598,7 +2598,7 @@
       "create_time": 1763467689,
       "formatted_time": "2025-11-18 20:08:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2630,7 +2630,7 @@
       "create_time": 1763467709,
       "formatted_time": "2025-11-18 20:08:29",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -2638,7 +2638,7 @@
       "create_time": 1763467726,
       "formatted_time": "2025-11-18 20:08:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2694,7 +2694,7 @@
       "create_time": 1763467790,
       "formatted_time": "2025-11-18 20:09:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2758,7 +2758,7 @@
       "create_time": 1763467822,
       "formatted_time": "2025-11-18 20:10:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -2782,7 +2782,7 @@
       "create_time": 1763467848,
       "formatted_time": "2025-11-18 20:10:48",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -2790,7 +2790,7 @@
       "create_time": 1763467862,
       "formatted_time": "2025-11-18 20:11:02",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763467873,
@@ -2812,7 +2812,7 @@
       "create_time": 1763467887,
       "formatted_time": "2025-11-18 20:11:27",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -2852,7 +2852,7 @@
       "create_time": 1763467959,
       "formatted_time": "2025-11-18 20:12:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -2956,7 +2956,7 @@
       "create_time": 1763468003,
       "formatted_time": "2025-11-18 20:13:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -3108,7 +3108,7 @@
       "create_time": 1763468081,
       "formatted_time": "2025-11-18 20:14:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -3204,7 +3204,7 @@
       "create_time": 1763468199,
       "formatted_time": "2025-11-18 20:16:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -3212,7 +3212,7 @@
       "create_time": 1763468206,
       "formatted_time": "2025-11-18 20:16:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -3244,7 +3244,7 @@
       "create_time": 1763468221,
       "formatted_time": "2025-11-18 20:17:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -3356,7 +3356,7 @@
       "create_time": 1763468457,
       "formatted_time": "2025-11-18 20:20:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -3428,13 +3428,13 @@
       "create_time": 1763622595,
       "formatted_time": "2025-11-20 15:09:55",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763622793,
       "formatted_time": "2025-11-20 15:13:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -3450,7 +3450,7 @@
       "create_time": 1763624590,
       "formatted_time": "2025-11-20 15:43:10",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -3490,7 +3490,7 @@
       "create_time": 1763624721,
       "formatted_time": "2025-11-20 15:45:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -3498,7 +3498,7 @@
       "create_time": 1763624738,
       "formatted_time": "2025-11-20 15:45:38",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -3586,7 +3586,7 @@
       "create_time": 1763691510,
       "formatted_time": "2025-11-21 10:18:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -3594,7 +3594,7 @@
       "create_time": 1763707468,
       "formatted_time": "2025-11-21 14:44:28",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763709011,
@@ -3640,7 +3640,7 @@
       "create_time": 1763709228,
       "formatted_time": "2025-11-21 15:13:48",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -3688,7 +3688,7 @@
       "create_time": 1763709272,
       "formatted_time": "2025-11-21 15:14:32",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -3736,7 +3736,7 @@
       "create_time": 1763710364,
       "formatted_time": "2025-11-21 15:32:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -3810,7 +3810,7 @@
       "create_time": 1763711032,
       "formatted_time": "2025-11-21 15:43:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -3850,7 +3850,7 @@
       "create_time": 1763711070,
       "formatted_time": "2025-11-21 15:44:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "环能徐子洋",
       "sender_wxid": "wxid_m4dib8jd5go422"
     },
@@ -3912,13 +3912,13 @@
       "create_time": 1763886484,
       "formatted_time": "2025-11-23 16:28:04",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763886485,
       "formatted_time": "2025-11-23 16:28:05",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -3926,7 +3926,7 @@
       "create_time": 1763886487,
       "formatted_time": "2025-11-23 16:28:07",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763886492,
@@ -3948,7 +3948,7 @@
       "create_time": 1763886515,
       "formatted_time": "2025-11-23 16:28:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -3956,7 +3956,7 @@
       "create_time": 1763886755,
       "formatted_time": "2025-11-23 16:32:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -3964,7 +3964,7 @@
       "create_time": 1763886787,
       "formatted_time": "2025-11-23 16:33:07",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -3972,14 +3972,14 @@
       "create_time": 1763886800,
       "formatted_time": "2025-11-23 16:33:20",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
       "create_time": 1763886807,
       "formatted_time": "2025-11-23 16:33:27",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763886814,
@@ -4009,7 +4009,7 @@
       "create_time": 1763886844,
       "formatted_time": "2025-11-23 16:34:04",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4031,7 +4031,7 @@
       "create_time": 1763886964,
       "formatted_time": "2025-11-23 16:36:04",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763888255,
@@ -4045,7 +4045,7 @@
       "create_time": 1763888277,
       "formatted_time": "2025-11-23 16:57:57",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763888279,
@@ -4075,7 +4075,7 @@
       "create_time": 1763888875,
       "formatted_time": "2025-11-23 17:07:55",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许育豪 25 经济",
       "sender_wxid": "wxid_yfrvwz3bus522"
     },
@@ -4091,7 +4091,7 @@
       "create_time": 1763888907,
       "formatted_time": "2025-11-23 17:08:27",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4107,13 +4107,13 @@
       "create_time": 1763888918,
       "formatted_time": "2025-11-23 17:08:38",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763888946,
       "formatted_time": "2025-11-23 17:09:06",
       "type": "位置消息",
-      "str_content": "[????]",
+      "str_content": "[位置消息]",
       "sender_name": "许育豪 25 经济",
       "sender_wxid": "wxid_yfrvwz3bus522"
     },
@@ -4193,7 +4193,7 @@
       "create_time": 1763889169,
       "formatted_time": "2025-11-23 17:12:49",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "许育豪 25 经济",
       "sender_wxid": "wxid_yfrvwz3bus522"
     },
@@ -4241,7 +4241,7 @@
       "create_time": 1763889215,
       "formatted_time": "2025-11-23 17:13:35",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -4288,7 +4288,7 @@
       "create_time": 1763889253,
       "formatted_time": "2025-11-23 17:14:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4312,7 +4312,7 @@
       "create_time": 1763889265,
       "formatted_time": "2025-11-23 17:14:25",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -4328,7 +4328,7 @@
       "create_time": 1763889271,
       "formatted_time": "2025-11-23 17:14:31",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许育豪 25 经济",
       "sender_wxid": "wxid_yfrvwz3bus522"
     },
@@ -4360,7 +4360,7 @@
       "create_time": 1763889291,
       "formatted_time": "2025-11-23 17:14:51",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4384,7 +4384,7 @@
       "create_time": 1763889423,
       "formatted_time": "2025-11-23 17:17:03",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -4400,7 +4400,7 @@
       "create_time": 1763889472,
       "formatted_time": "2025-11-23 17:17:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4416,7 +4416,7 @@
       "create_time": 1763889517,
       "formatted_time": "2025-11-23 17:18:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许育豪 25 经济",
       "sender_wxid": "wxid_yfrvwz3bus522"
     },
@@ -4440,7 +4440,7 @@
       "create_time": 1763890373,
       "formatted_time": "2025-11-23 17:32:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4448,7 +4448,7 @@
       "create_time": 1763890387,
       "formatted_time": "2025-11-23 17:33:07",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "经济 林千山",
       "sender_wxid": "wxid_2vi7friyk49u22"
     },
@@ -4480,7 +4480,7 @@
       "create_time": 1763890427,
       "formatted_time": "2025-11-23 17:33:47",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "经济 林千山",
       "sender_wxid": "wxid_2vi7friyk49u22"
     },
@@ -4512,7 +4512,7 @@
       "create_time": 1763890471,
       "formatted_time": "2025-11-23 17:34:31",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -4544,7 +4544,7 @@
       "create_time": 1763890549,
       "formatted_time": "2025-11-23 17:35:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -4568,7 +4568,7 @@
       "create_time": 1763890692,
       "formatted_time": "2025-11-23 17:38:12",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763890694,
@@ -4590,7 +4590,7 @@
       "create_time": 1763890704,
       "formatted_time": "2025-11-23 17:38:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4614,7 +4614,7 @@
       "create_time": 1763891041,
       "formatted_time": "2025-11-23 17:44:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "环能徐子洋",
       "sender_wxid": "wxid_m4dib8jd5go422"
     },
@@ -4622,7 +4622,7 @@
       "create_time": 1763891338,
       "formatted_time": "2025-11-23 17:48:58",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "经济 林千山",
       "sender_wxid": "wxid_2vi7friyk49u22"
     },
@@ -4662,7 +4662,7 @@
       "create_time": 1763891737,
       "formatted_time": "2025-11-23 17:55:37",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -4717,7 +4717,7 @@
       "create_time": 1763891777,
       "formatted_time": "2025-11-23 17:56:17",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4741,7 +4741,7 @@
       "create_time": 1763891823,
       "formatted_time": "2025-11-23 17:57:03",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -4805,7 +4805,7 @@
       "create_time": 1763894291,
       "formatted_time": "2025-11-23 18:38:11",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763894312,
@@ -4819,7 +4819,7 @@
       "create_time": 1763894315,
       "formatted_time": "2025-11-23 18:38:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4835,7 +4835,7 @@
       "create_time": 1763896586,
       "formatted_time": "2025-11-23 19:16:26",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -4851,7 +4851,7 @@
       "create_time": 1763896595,
       "formatted_time": "2025-11-23 19:16:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -4867,7 +4867,7 @@
       "create_time": 1763899785,
       "formatted_time": "2025-11-23 20:09:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "25国金管邹瑶",
       "sender_wxid": "wxid_6erd74trxn1j22"
     },
@@ -4883,7 +4883,7 @@
       "create_time": 1763901298,
       "formatted_time": "2025-11-23 20:34:58",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "罗珺文",
       "sender_wxid": "wxid_n90k7y3x80ws22"
     },
@@ -4891,7 +4891,7 @@
       "create_time": 1763902376,
       "formatted_time": "2025-11-23 20:52:56",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4915,7 +4915,7 @@
       "create_time": 1763902394,
       "formatted_time": "2025-11-23 20:53:14",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -4931,7 +4931,7 @@
       "create_time": 1763902531,
       "formatted_time": "2025-11-23 20:55:31",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "经济 林千山",
       "sender_wxid": "wxid_2vi7friyk49u22"
     },
@@ -4939,7 +4939,7 @@
       "create_time": 1763902801,
       "formatted_time": "2025-11-23 21:00:01",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763902804,
@@ -4961,7 +4961,7 @@
       "create_time": 1763903015,
       "formatted_time": "2025-11-23 21:03:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "25国金管邹瑶",
       "sender_wxid": "wxid_6erd74trxn1j22"
     },
@@ -4969,7 +4969,7 @@
       "create_time": 1763904347,
       "formatted_time": "2025-11-23 21:25:47",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -5008,7 +5008,7 @@
       "create_time": 1764032399,
       "formatted_time": "2025-11-25 08:59:59",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764032405,
@@ -5038,7 +5038,7 @@
       "create_time": 1764032709,
       "formatted_time": "2025-11-25 09:05:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "环能徐子洋",
       "sender_wxid": "wxid_m4dib8jd5go422"
     },
@@ -5054,7 +5054,7 @@
       "create_time": 1764072414,
       "formatted_time": "2025-11-25 20:06:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -5070,7 +5070,7 @@
       "create_time": 1764072429,
       "formatted_time": "2025-11-25 20:07:09",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1764073202,
@@ -5100,13 +5100,13 @@
       "create_time": 1764135321,
       "formatted_time": "2025-11-26 13:35:21",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1764135322,
       "formatted_time": "2025-11-26 13:35:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -5114,7 +5114,7 @@
       "create_time": 1764135339,
       "formatted_time": "2025-11-26 13:35:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -5138,7 +5138,7 @@
       "create_time": 1764236187,
       "formatted_time": "2025-11-27 17:36:27",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -5178,7 +5178,7 @@
       "create_time": 1764236347,
       "formatted_time": "2025-11-27 17:39:07",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "经济 林千山",
       "sender_wxid": "wxid_2vi7friyk49u22"
     },
@@ -5186,21 +5186,21 @@
       "create_time": 1764244562,
       "formatted_time": "2025-11-27 19:56:02",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1764244564,
       "formatted_time": "2025-11-27 19:56:04",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1764244566,
       "formatted_time": "2025-11-27 19:56:06",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -5238,7 +5238,7 @@
       "create_time": 1764244620,
       "formatted_time": "2025-11-27 19:57:00",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "经济 林千山",
       "sender_wxid": "wxid_2vi7friyk49u22"
     },
@@ -5270,7 +5270,7 @@
       "create_time": 1764246297,
       "formatted_time": "2025-11-27 20:24:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -5300,7 +5300,7 @@
       "create_time": 1764246333,
       "formatted_time": "2025-11-27 20:25:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -5316,7 +5316,7 @@
       "create_time": 1764246344,
       "formatted_time": "2025-11-27 20:25:44",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
     },
@@ -5364,7 +5364,7 @@
       "create_time": 1764561465,
       "formatted_time": "2025-12-01 11:57:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "经济 林千山",
       "sender_wxid": "wxid_2vi7friyk49u22"
     },
@@ -5474,7 +5474,7 @@
       "create_time": 1764745951,
       "formatted_time": "2025-12-03 15:12:31",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -5538,7 +5538,7 @@
       "create_time": 1764746419,
       "formatted_time": "2025-12-03 15:20:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -5549,8 +5549,248 @@
       "str_content": "微信小程序",
       "sender_name": "赖琳琳 25管理",
       "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765189492,
+      "formatted_time": "2025-12-08 18:24:52",
+      "type": "图文消息",
+      "str_content": "苹果的计算器用47000除188会出现满屏圣诞树",
+      "sender_name": "罗珺文",
+      "sender_wxid": "wxid_n90k7y3x80ws22"
+    },
+    {
+      "create_time": 1765189538,
+      "formatted_time": "2025-12-08 18:25:38",
+      "type": "文本消息",
+      "str_content": "为啥47000/188",
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765189540,
+      "formatted_time": "2025-12-08 18:25:40",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "25管理 王振轩",
+      "sender_wxid": "wxid_ol3zb6jnx3gj22"
+    },
+    {
+      "create_time": 1765189544,
+      "formatted_time": "2025-12-08 18:25:44",
+      "type": "文本消息",
+      "str_content": "47000/188=250",
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765189545,
+      "formatted_time": "2025-12-08 18:25:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765189569,
+      "formatted_time": "2025-12-08 18:26:09",
+      "type": "文本消息",
+      "str_content": "被骗后气急败坏去害别人",
+      "sender_name": "罗珺文",
+      "sender_wxid": "wxid_n90k7y3x80ws22"
+    },
+    {
+      "create_time": 1765189572,
+      "formatted_time": "2025-12-08 18:26:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "罗珺文",
+      "sender_wxid": "wxid_n90k7y3x80ws22"
+    },
+    {
+      "create_time": 1765189593,
+      "formatted_time": "2025-12-08 18:26:33",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "罗珺文",
+      "sender_wxid": "wxid_n90k7y3x80ws22"
+    },
+    {
+      "create_time": 1765189627,
+      "formatted_time": "2025-12-08 18:27:07",
+      "type": "文本消息",
+      "str_content": "已气急败坏",
+      "sender_name": "25管理 王振轩",
+      "sender_wxid": "wxid_ol3zb6jnx3gj22"
+    },
+    {
+      "create_time": 1765189661,
+      "formatted_time": "2025-12-08 18:27:41",
+      "type": "文本消息",
+      "str_content": "笑死我了",
+      "sender_name": "罗珺文",
+      "sender_wxid": "wxid_n90k7y3x80ws22"
+    },
+    {
+      "create_time": 1765189710,
+      "formatted_time": "2025-12-08 18:28:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765189937,
+      "formatted_time": "2025-12-08 18:32:17",
+      "type": "文本消息",
+      "str_content": "已被骗到",
+      "sender_name": "25国金管邹瑶",
+      "sender_wxid": "wxid_6erd74trxn1j22"
+    },
+    {
+      "create_time": 1765189940,
+      "formatted_time": "2025-12-08 18:32:20",
+      "type": "文本消息",
+      "str_content": "开始传播",
+      "sender_name": "25国金管邹瑶",
+      "sender_wxid": "wxid_6erd74trxn1j22"
+    },
+    {
+      "create_time": 1765189955,
+      "formatted_time": "2025-12-08 18:32:35",
+      "type": "文本消息",
+      "str_content": "当个事儿办",
+      "sender_name": "罗珺文",
+      "sender_wxid": "wxid_n90k7y3x80ws22"
+    },
+    {
+      "create_time": 1765190040,
+      "formatted_time": "2025-12-08 18:34:00",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈，我朋友一脸激动的打出来，🟰250那一刻瞬间不嘻嘻",
+      "sender_name": "25国金管邹瑶",
+      "sender_wxid": "wxid_6erd74trxn1j22"
+    },
+    {
+      "create_time": 1765190059,
+      "formatted_time": "2025-12-08 18:34:19",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈",
+      "sender_name": "罗珺文",
+      "sender_wxid": "wxid_n90k7y3x80ws22"
+    },
+    {
+      "create_time": 1765190067,
+      "formatted_time": "2025-12-08 18:34:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "罗珺文",
+      "sender_wxid": "wxid_n90k7y3x80ws22"
+    },
+    {
+      "create_time": 1765417613,
+      "formatted_time": "2025-12-11 09:46:53",
+      "type": "文本消息",
+      "str_content": "写的挺好的~landing和mentor的对话",
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765417613,
+      "formatted_time": "2025-12-11 09:46:53",
+      "type": "图文消息",
+      "str_content": "如何借助 mentor 丝滑 landing（8 大场景",
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765418240,
+      "formatted_time": "2025-12-11 09:57:20",
+      "type": "文本消息",
+      "str_content": "逐字学习",
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765418325,
+      "formatted_time": "2025-12-11 09:58:45",
+      "type": "文本消息",
+      "str_content": "什么时候 能够mentor好好努力 和mentor打好关系",
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765418349,
+      "formatted_time": "2025-12-11 09:59:09",
+      "type": "文本消息",
+      "str_content": "什么时候 能够mentor好好努力",
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765418353,
+      "formatted_time": "2025-12-11 09:59:13",
+      "type": "文本消息",
+      "str_content": "然后未来 mentor一个call过来 xx啊 我这里新到xxx 自己带了个团队 还缺人",
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765418356,
+      "formatted_time": "2025-12-11 09:59:16",
+      "type": "文本消息",
+      "str_content": "你要不要过来",
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765418372,
+      "formatted_time": "2025-12-11 09:59:32",
+      "type": "文本消息",
+      "str_content": "😍",
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765418534,
+      "formatted_time": "2025-12-11 10:02:14",
+      "type": "引用消息",
+      "str_content": "涨薪50%",
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765418538,
+      "formatted_time": "2025-12-11 10:02:18",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765418606,
+      "formatted_time": "2025-12-11 10:03:26",
+      "type": "文本消息",
+      "str_content": "来嫡了",
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765501649,
+      "formatted_time": "2025-12-12 09:07:29",
+      "type": "图文消息",
+      "str_content": "时薪上千，大模型公司抢985文科生给AI当老师",
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765501650,
+      "formatted_time": "2025-12-12 09:07:30",
+      "type": "文本消息",
+      "str_content": "好神奇 这件事情关注度越来越高了",
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
-  "message_count": 703
+  "export_time": "2025-12-13T14:57:48+08:00",
+  "message_count": 733
 }

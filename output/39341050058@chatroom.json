@@ -6,7 +6,7 @@
       "create_time": 1691737397,
       "formatted_time": "2023-08-11 15:03:17",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -71,7 +71,7 @@
       "create_time": 1691737630,
       "formatted_time": "2023-08-11 15:07:10",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -109,7 +109,7 @@
       "create_time": 1691737682,
       "formatted_time": "2023-08-11 15:08:02",
       "type": "位置消息",
-      "str_content": "[????]"
+      "str_content": "[位置消息]"
     },
     {
       "create_time": 1691737714,
@@ -150,7 +150,7 @@
       "create_time": 1691737756,
       "formatted_time": "2023-08-11 15:09:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王佳原",
       "sender_wxid": "wxid_tms3soan5d9x12"
     },
@@ -195,7 +195,7 @@
       "create_time": 1691738295,
       "formatted_time": "2023-08-11 15:18:15",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王佳原",
       "sender_wxid": "wxid_tms3soan5d9x12"
     },
@@ -290,7 +290,7 @@
       "create_time": 1691757884,
       "formatted_time": "2023-08-11 20:44:44",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -327,13 +327,13 @@
       "create_time": 1691776765,
       "formatted_time": "2023-08-12 01:59:25",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1691831538,
       "formatted_time": "2023-08-12 17:12:18",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1691831543,
@@ -353,7 +353,7 @@
       "create_time": 1691835982,
       "formatted_time": "2023-08-12 18:26:22",
       "type": "视频消息",
-      "str_content": "[????]",
+      "str_content": "[视频消息]",
       "sender": "自己"
     },
     {
@@ -415,7 +415,7 @@
       "create_time": 1691836207,
       "formatted_time": "2023-08-12 18:30:07",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1691836218,
@@ -495,37 +495,37 @@
       "create_time": 1691836328,
       "formatted_time": "2023-08-12 18:32:08",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1691836359,
       "formatted_time": "2023-08-12 18:32:39",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1691836388,
       "formatted_time": "2023-08-12 18:33:08",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1691837272,
       "formatted_time": "2023-08-12 18:47:52",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1691837279,
       "formatted_time": "2023-08-12 18:47:59",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1691837343,
       "formatted_time": "2023-08-12 18:49:03",
       "type": "红包卡片",
-      "str_content": "[??]"
+      "str_content": "[红包]"
     },
     {
       "create_time": 1691852643,
@@ -549,7 +549,7 @@
       "create_time": 1691852656,
       "formatted_time": "2023-08-12 23:04:16",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -595,10 +595,10 @@
       "create_time": 1691852684,
       "formatted_time": "2023-08-12 23:04:44",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:56+08:00",
   "message_count": 90
 }

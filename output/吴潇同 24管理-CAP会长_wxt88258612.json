@@ -258,7 +258,7 @@
       "create_time": 1762964665,
       "formatted_time": "2025-11-13 00:24:25",
       "type": "拍一拍消息",
-      "str_content": "[???]",
+      "str_content": "[拍一拍]",
       "sender_name": "吴潇同 24管理-CAP会长"
     },
     {
@@ -272,14 +272,14 @@
       "create_time": 1763461284,
       "formatted_time": "2025-11-18 18:21:24",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1763472987,
       "formatted_time": "2025-11-18 21:36:27",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "吴潇同 24管理-CAP会长"
     },
     {
@@ -349,7 +349,7 @@
       "create_time": 1764423473,
       "formatted_time": "2025-11-29 21:37:53",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "吴潇同 24管理-CAP会长"
     },
     {
@@ -363,21 +363,21 @@
       "create_time": 1764423511,
       "formatted_time": "2025-11-29 21:38:31",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "吴潇同 24管理-CAP会长"
     },
     {
       "create_time": 1764423545,
       "formatted_time": "2025-11-29 21:39:05",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "吴潇同 24管理-CAP会长"
     },
     {
       "create_time": 1764423567,
       "formatted_time": "2025-11-29 21:39:27",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "吴潇同 24管理-CAP会长"
     },
     {
@@ -405,14 +405,14 @@
       "create_time": 1764424086,
       "formatted_time": "2025-11-29 21:48:06",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "吴潇同 24管理-CAP会长"
     },
     {
       "create_time": 1764424094,
       "formatted_time": "2025-11-29 21:48:14",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "吴潇同 24管理-CAP会长"
     },
     {
@@ -580,7 +580,7 @@
       "create_time": 1764692893,
       "formatted_time": "2025-12-03 00:28:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "吴潇同 24管理-CAP会长"
     },
     {
@@ -615,7 +615,7 @@
       "create_time": 1764692959,
       "formatted_time": "2025-12-03 00:29:19",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -624,8 +624,85 @@
       "type": "文本消息",
       "str_content": "okkkkkk",
       "sender_name": "吴潇同 24管理-CAP会长"
+    },
+    {
+      "create_time": 1765450394,
+      "formatted_time": "2025-12-11 18:53:14",
+      "type": "文本消息",
+      "str_content": "潇同哥，我接到那个fit ba的offer了~谢谢潇同哥的帮助！and我也选上深港会长了，期待以后和cap继续互通有无，合作进步！",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765460970,
+      "formatted_time": "2025-12-11 21:49:30",
+      "type": "文本消息",
+      "str_content": "哇塞！！！",
+      "sender_name": "吴潇同 24管理-CAP会长"
+    },
+    {
+      "create_time": 1765460974,
+      "formatted_time": "2025-12-11 21:49:34",
+      "type": "文本消息",
+      "str_content": "恭喜你呀！！！",
+      "sender_name": "吴潇同 24管理-CAP会长"
+    },
+    {
+      "create_time": 1765460980,
+      "formatted_time": "2025-12-11 21:49:40",
+      "type": "文本消息",
+      "str_content": "真的是好事成双了呀～～～",
+      "sender_name": "吴潇同 24管理-CAP会长"
+    },
+    {
+      "create_time": 1765461025,
+      "formatted_time": "2025-12-11 21:50:25",
+      "type": "文本消息",
+      "str_content": "耶耶！即将成为时间管理大师",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765461083,
+      "formatted_time": "2025-12-11 21:51:23",
+      "type": "文本消息",
+      "str_content": "加油呀加油呀！！！",
+      "sender_name": "吴潇同 24管理-CAP会长"
+    },
+    {
+      "create_time": 1765461086,
+      "formatted_time": "2025-12-11 21:51:26",
+      "type": "文本消息",
+      "str_content": "等你学成归来",
+      "sender_name": "吴潇同 24管理-CAP会长"
+    },
+    {
+      "create_time": 1765461092,
+      "formatted_time": "2025-12-11 21:51:32",
+      "type": "文本消息",
+      "str_content": "我要跟你学习了呀",
+      "sender_name": "吴潇同 24管理-CAP会长"
+    },
+    {
+      "create_time": 1765461104,
+      "formatted_time": "2025-12-11 21:51:44",
+      "type": "文本消息",
+      "str_content": "让我们一起了不起吧～",
+      "sender_name": "吴潇同 24管理-CAP会长"
+    },
+    {
+      "create_time": 1765462447,
+      "formatted_time": "2025-12-11 22:14:07",
+      "type": "文本消息",
+      "str_content": "不会不会！我只看到了传承！[加油]社团是，实习也是，我们的友谊也是[呲牙][呲牙]",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765463043,
+      "formatted_time": "2025-12-11 22:24:03",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "sender_name": "吴潇同 24管理-CAP会长"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
-  "message_count": 89
+  "export_time": "2025-12-13T14:57:48+08:00",
+  "message_count": 100
 }

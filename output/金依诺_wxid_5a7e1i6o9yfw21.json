@@ -6,14 +6,14 @@
       "create_time": 1763391247,
       "formatted_time": "2025-11-17 22:54:07",
       "type": "名片消息",
-      "str_content": "[????]",
+      "str_content": "[名片消息]",
       "sender_name": "金依诺"
     },
     {
       "create_time": 1763391263,
       "formatted_time": "2025-11-17 22:54:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -48,7 +48,7 @@
       "create_time": 1763391412,
       "formatted_time": "2025-11-17 22:56:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "金依诺"
     },
     {
@@ -307,14 +307,14 @@
       "create_time": 1763391990,
       "formatted_time": "2025-11-17 23:06:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "金依诺"
     },
     {
       "create_time": 1763392000,
       "formatted_time": "2025-11-17 23:06:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "金依诺"
     },
     {
@@ -328,7 +328,7 @@
       "create_time": 1763392013,
       "formatted_time": "2025-11-17 23:06:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -482,7 +482,7 @@
       "create_time": 1763392382,
       "formatted_time": "2025-11-17 23:13:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -790,7 +790,7 @@
       "create_time": 1763393769,
       "formatted_time": "2025-11-17 23:36:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -1007,7 +1007,7 @@
       "create_time": 1763394917,
       "formatted_time": "2025-11-17 23:55:17",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -1023,8 +1023,92 @@
       "type": "引用消息",
       "str_content": "这位是真的…",
       "sender_name": "金依诺"
+    },
+    {
+      "create_time": 1765269511,
+      "formatted_time": "2025-12-09 16:38:31",
+      "type": "文本消息",
+      "str_content": "Bambi姐，lbs的职业发展辅导是主要cdc在做，还是有一些学生职业发展社团？你觉得学生职业发展社团的凝聚力怎么样？会不会出现因为大家获取信息的渠道过多，或者都在忙自己的事情，导致社团凝聚力不强？\n因为我最近刚换届当了个职发社团的社长，可能是因为整体的金融大环境不好+大家有着越来越多的渠道，所以感觉凝聚起大家还是有难度的。",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765269529,
+      "formatted_time": "2025-12-09 16:38:49",
+      "type": "文本消息",
+      "str_content": "cdc为主",
+      "sender_name": "金依诺"
+    },
+    {
+      "create_time": 1765269533,
+      "formatted_time": "2025-12-09 16:38:53",
+      "type": "文本消息",
+      "str_content": "剩下我等会儿回",
+      "sender_name": "金依诺"
+    },
+    {
+      "create_time": 1765269544,
+      "formatted_time": "2025-12-09 16:39:04",
+      "type": "文本消息",
+      "str_content": "没问题[呲牙]感谢",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765270401,
+      "formatted_time": "2025-12-09 16:53:21",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "sender_name": "金依诺"
+    },
+    {
+      "create_time": 1765270421,
+      "formatted_time": "2025-12-09 16:53:41",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "sender_name": "金依诺"
+    },
+    {
+      "create_time": 1765270434,
+      "formatted_time": "2025-12-09 16:53:54",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "sender_name": "金依诺"
+    },
+    {
+      "create_time": 1765271003,
+      "formatted_time": "2025-12-09 17:03:23",
+      "type": "文本消息",
+      "str_content": "明白明白，可能是因为汇丰的cdc比较拉，我们这儿职发社团比较多，但现在也是面临着一些困境的\n那你们学生职发社团的宣传是在什么平台呀，能否给个传送门[可怜]想要学习下",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765271049,
+      "formatted_time": "2025-12-09 17:04:09",
+      "type": "文本消息",
+      "str_content": "whatsapp群聊直接发消息或者",
+      "sender_name": "金依诺"
+    },
+    {
+      "create_time": 1765271086,
+      "formatted_time": "2025-12-09 17:04:46",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "sender_name": "金依诺"
+    },
+    {
+      "create_time": 1765271089,
+      "formatted_time": "2025-12-09 17:04:49",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "sender_name": "金依诺"
+    },
+    {
+      "create_time": 1765271249,
+      "formatted_time": "2025-12-09 17:07:29",
+      "type": "文本消息",
+      "str_content": "要学校邮箱实名的你可能登不进去",
+      "sender_name": "金依诺"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
-  "message_count": 146
+  "export_time": "2025-12-13T14:57:48+08:00",
+  "message_count": 158
 }

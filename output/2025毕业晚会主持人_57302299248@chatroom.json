@@ -6,13 +6,13 @@
       "create_time": 1749864369,
       "formatted_time": "2025-06-14 09:26:09",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1749864369,
       "formatted_time": "2025-06-14 09:26:09",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "2025毕业晚会主持人",
       "sender_wxid": "57302299248@chatroom"
     },
@@ -74,7 +74,7 @@
       "create_time": 1749864617,
       "formatted_time": "2025-06-14 09:30:17",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李曼菁",
       "sender_wxid": "wxid_4158961589712"
     },
@@ -105,7 +105,7 @@
       "create_time": 1749871074,
       "formatted_time": "2025-06-14 11:17:54",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "2025毕业晚会主持人",
       "sender_wxid": "57302299248@chatroom"
     },
@@ -113,7 +113,7 @@
       "create_time": 1749871074,
       "formatted_time": "2025-06-14 11:17:54",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1749871101,
@@ -126,7 +126,7 @@
       "create_time": 1749871101,
       "formatted_time": "2025-06-14 11:18:21",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -165,7 +165,7 @@
       "create_time": 1749876075,
       "formatted_time": "2025-06-14 12:41:15",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -253,7 +253,7 @@
       "create_time": 1749978935,
       "formatted_time": "2025-06-15 17:15:35",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1749978940,
@@ -291,7 +291,7 @@
       "create_time": 1749979078,
       "formatted_time": "2025-06-15 17:17:58",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -342,7 +342,7 @@
       "create_time": 1750037937,
       "formatted_time": "2025-06-16 09:38:57",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李曼菁",
       "sender_wxid": "wxid_4158961589712"
     },
@@ -485,7 +485,7 @@
       "create_time": 1750084872,
       "formatted_time": "2025-06-16 22:41:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李曼菁",
       "sender_wxid": "wxid_4158961589712"
     },
@@ -509,7 +509,7 @@
       "create_time": 1750085014,
       "formatted_time": "2025-06-16 22:43:34",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李曼菁",
       "sender_wxid": "wxid_4158961589712"
     },
@@ -525,7 +525,7 @@
       "create_time": 1750085106,
       "formatted_time": "2025-06-16 22:45:06",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李曼菁",
       "sender_wxid": "wxid_4158961589712"
     },
@@ -541,7 +541,7 @@
       "create_time": 1750085150,
       "formatted_time": "2025-06-16 22:45:50",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李曼菁",
       "sender_wxid": "wxid_4158961589712"
     },
@@ -581,13 +581,13 @@
       "create_time": 1750086890,
       "formatted_time": "2025-06-16 23:14:50",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1750086900,
       "formatted_time": "2025-06-16 23:15:00",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1750086981,
@@ -736,7 +736,7 @@
       "create_time": 1750155230,
       "formatted_time": "2025-06-17 18:13:50",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender": "自己"
     },
     {
@@ -782,7 +782,7 @@
       "create_time": 1750155622,
       "formatted_time": "2025-06-17 18:20:22",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -854,6 +854,6 @@
       "str_content": "HoracePong:\n背景音调高点"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 116
 }

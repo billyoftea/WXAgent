@@ -6,7 +6,7 @@
       "create_time": 1751417788,
       "formatted_time": "2025-07-02 08:56:28",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "顾纯俊"
     },
     {
@@ -41,7 +41,7 @@
       "create_time": 1751417869,
       "formatted_time": "2025-07-02 08:57:49",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -132,7 +132,7 @@
       "create_time": 1758510704,
       "formatted_time": "2025-09-22 11:11:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -213,6 +213,6 @@
       "sender_name": "顾纯俊"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 30
 }

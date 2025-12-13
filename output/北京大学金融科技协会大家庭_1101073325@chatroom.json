@@ -20,19 +20,19 @@
       "create_time": 1762498806,
       "formatted_time": "2025-11-07 15:00:06",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762504380,
       "formatted_time": "2025-11-07 16:33:00",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763002912,
       "formatted_time": "2025-11-13 11:01:52",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1763003778,
@@ -70,7 +70,7 @@
       "create_time": 1763003996,
       "formatted_time": "2025-11-13 11:19:56",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "RUBIGJIANG",
       "sender_wxid": "wxid_cqupiyc35pp322"
     },
@@ -86,7 +86,7 @@
       "create_time": 1763004100,
       "formatted_time": "2025-11-13 11:21:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24 金科 陈润楠-会长",
       "sender_wxid": "wxid_e0c8w4bexksr12"
     },
@@ -122,7 +122,7 @@
       "create_time": 1763348175,
       "formatted_time": "2025-11-17 10:56:15",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24 金科 陈润楠-会长",
       "sender_wxid": "wxid_e0c8w4bexksr12"
     },
@@ -138,25 +138,25 @@
       "create_time": 1764661252,
       "formatted_time": "2025-12-02 15:40:52",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764661254,
       "formatted_time": "2025-12-02 15:40:54",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764661256,
       "formatted_time": "2025-12-02 15:40:56",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764661272,
       "formatted_time": "2025-12-02 15:41:12",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764661524,
@@ -176,7 +176,7 @@
       "create_time": 1764661651,
       "formatted_time": "2025-12-02 15:47:31",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24 金科 陈润楠-会长",
       "sender_wxid": "wxid_e0c8w4bexksr12"
     },
@@ -184,7 +184,7 @@
       "create_time": 1764661722,
       "formatted_time": "2025-12-02 15:48:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "郝心蕾",
       "sender_wxid": "wxid_bqytlyhe2hgm12"
     },
@@ -192,7 +192,7 @@
       "create_time": 1764662003,
       "formatted_time": "2025-12-02 15:53:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "蒋英杰",
       "sender_wxid": "wxid_eqvl0gqqjkrl22"
     },
@@ -208,7 +208,7 @@
       "create_time": 1764662213,
       "formatted_time": "2025-12-02 15:56:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "郑皓文-南开大学-数量与金融科技",
       "sender_wxid": "wxid_4dfc83ibbsiu22"
     },
@@ -216,7 +216,7 @@
       "create_time": 1764662221,
       "formatted_time": "2025-12-02 15:57:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "田唯佑",
       "sender_wxid": "wxid_4yxr3pemzv7i22"
     },
@@ -224,7 +224,7 @@
       "create_time": 1764662241,
       "formatted_time": "2025-12-02 15:57:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "24 金科 陈润楠-会长",
       "sender_wxid": "wxid_e0c8w4bexksr12"
     },
@@ -232,7 +232,7 @@
       "create_time": 1764662248,
       "formatted_time": "2025-12-02 15:57:28",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "万航程-四川大学-数量与金融科技",
       "sender_wxid": "wxid_mf2gckia3f5g12"
     },
@@ -240,7 +240,7 @@
       "create_time": 1764662259,
       "formatted_time": "2025-12-02 15:57:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "郭禹宏",
       "sender_wxid": "wxid_l647byn36kat21"
     },
@@ -248,7 +248,7 @@
       "create_time": 1764662274,
       "formatted_time": "2025-12-02 15:57:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王一茗-对外经济贸易大学-金融科技",
       "sender_wxid": "wxid_q2wsq6fxa8o722"
     },
@@ -256,7 +256,7 @@
       "create_time": 1764662296,
       "formatted_time": "2025-12-02 15:58:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "郝心蕾",
       "sender_wxid": "wxid_bqytlyhe2hgm12"
     },
@@ -264,7 +264,7 @@
       "create_time": 1764662298,
       "formatted_time": "2025-12-02 15:58:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "阿基米熊",
       "sender_wxid": "wxid_25mdpkhkrjkj12"
     },
@@ -272,7 +272,7 @@
       "create_time": 1764662352,
       "formatted_time": "2025-12-02 15:59:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "欧阳宏禹-贸大-数量与金融科技",
       "sender_wxid": "wxid_9jqk4eirkntq32"
     },
@@ -280,7 +280,7 @@
       "create_time": 1764662416,
       "formatted_time": "2025-12-02 16:00:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "赛林娜-对经贸-数量金融",
       "sender_wxid": "wxid_bq7rwz31z0ox22"
     },
@@ -288,7 +288,7 @@
       "create_time": 1764662435,
       "formatted_time": "2025-12-02 16:00:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "林增榕 金投",
       "sender_wxid": "wxid_d5c0umzv7we021"
     },
@@ -296,7 +296,7 @@
       "create_time": 1764662442,
       "formatted_time": "2025-12-02 16:00:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "金投 林晶莹",
       "sender_wxid": "wxid_pj7k6lric7gt11"
     },
@@ -304,13 +304,13 @@
       "create_time": 1764662454,
       "formatted_time": "2025-12-02 16:00:54",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764662593,
       "formatted_time": "2025-12-02 16:03:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "许江南-兰州大学-金融科技",
       "sender_wxid": "wxid_vubcm1gonlhi22"
     },
@@ -318,7 +318,7 @@
       "create_time": 1764663171,
       "formatted_time": "2025-12-02 16:12:51",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "24 金科 陈润楠-会长",
       "sender_wxid": "wxid_e0c8w4bexksr12"
     },
@@ -326,7 +326,7 @@
       "create_time": 1764665487,
       "formatted_time": "2025-12-02 16:51:27",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "生活的导演",
       "sender_wxid": "wxid_r8pgqvjw955312"
     },
@@ -334,11 +334,11 @@
       "create_time": 1764665558,
       "formatted_time": "2025-12-02 16:52:38",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Cathy fu",
       "sender_wxid": "wxid_1xxl2gbcvuvs21"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
+  "export_time": "2025-12-13T14:57:47+08:00",
   "message_count": 45
 }

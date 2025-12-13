@@ -6,7 +6,7 @@
       "create_time": 1720337558,
       "formatted_time": "2024-07-07 15:32:38",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "Group 7",
       "sender_wxid": "48406384019@chatroom"
     },
@@ -89,7 +89,7 @@
       "create_time": 1720395750,
       "formatted_time": "2024-07-08 07:42:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "耿暄+18135203900",
       "sender_wxid": "wxid_cpckr6zssirs11"
     },
@@ -169,7 +169,7 @@
       "create_time": 1720418744,
       "formatted_time": "2024-07-08 14:05:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "耿暄+18135203900",
       "sender_wxid": "wxid_cpckr6zssirs11"
     },
@@ -185,7 +185,7 @@
       "create_time": 1720418771,
       "formatted_time": "2024-07-08 14:06:11",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "宇青",
       "sender_wxid": "wxid_w80arl57iz8122"
     },
@@ -193,7 +193,7 @@
       "create_time": 1720418772,
       "formatted_time": "2024-07-08 14:06:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "宇青",
       "sender_wxid": "wxid_w80arl57iz8122"
     },
@@ -301,14 +301,14 @@
       "create_time": 1720419256,
       "formatted_time": "2024-07-08 14:14:16",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1720419304,
       "formatted_time": "2024-07-08 14:15:04",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -323,14 +323,14 @@
       "create_time": 1720419351,
       "formatted_time": "2024-07-08 14:15:51",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1720419363,
       "formatted_time": "2024-07-08 14:16:03",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1720419372,
@@ -384,14 +384,14 @@
       "create_time": 1720419519,
       "formatted_time": "2024-07-08 14:18:39",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1720419576,
       "formatted_time": "2024-07-08 14:19:36",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "耿暄+18135203900",
       "sender_wxid": "wxid_cpckr6zssirs11"
     },
@@ -407,14 +407,14 @@
       "create_time": 1720422284,
       "formatted_time": "2024-07-08 15:04:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1720422337,
       "formatted_time": "2024-07-08 15:05:37",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -584,6 +584,6 @@
       "sender_wxid": "wxid_au15zs7lqmwy22"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 75
 }

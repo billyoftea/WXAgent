@@ -20,7 +20,7 @@
       "create_time": 1739183827,
       "formatted_time": "2025-02-10 18:37:07",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "齐国皓-湖南大学HFT"
     },
     {
@@ -146,7 +146,7 @@
       "create_time": 1739193551,
       "formatted_time": "2025-02-10 21:19:11",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "齐国皓-湖南大学HFT"
     },
     {
@@ -202,14 +202,14 @@
       "create_time": 1739277409,
       "formatted_time": "2025-02-11 20:36:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1739277440,
       "formatted_time": "2025-02-11 20:37:20",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "齐国皓-湖南大学HFT"
     },
     {
@@ -258,7 +258,7 @@
       "create_time": 1739284750,
       "formatted_time": "2025-02-11 22:39:10",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "齐国皓-湖南大学HFT"
     },
     {
@@ -286,7 +286,7 @@
       "create_time": 1739285351,
       "formatted_time": "2025-02-11 22:49:11",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -314,7 +314,7 @@
       "create_time": 1739285599,
       "formatted_time": "2025-02-11 22:53:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -381,6 +381,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 54
 }

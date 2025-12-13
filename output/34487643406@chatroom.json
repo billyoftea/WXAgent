@@ -6,7 +6,7 @@
       "create_time": 1666577271,
       "formatted_time": "2022-10-24 10:07:51",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1667386191,
@@ -52,7 +52,7 @@
       "create_time": 1668251484,
       "formatted_time": "2022-11-12 19:11:24",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1668251496,
@@ -66,7 +66,7 @@
       "create_time": 1668251501,
       "formatted_time": "2022-11-12 19:11:41",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1668251504,
@@ -80,31 +80,31 @@
       "create_time": 1668251514,
       "formatted_time": "2022-11-12 19:11:54",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1668251521,
       "formatted_time": "2022-11-12 19:12:01",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1668251526,
       "formatted_time": "2022-11-12 19:12:06",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1668251570,
       "formatted_time": "2022-11-12 19:12:50",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1668251617,
       "formatted_time": "2022-11-12 19:13:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何逸博",
       "sender_wxid": "wxid_xepwwcy6y4dl22"
     },
@@ -112,7 +112,7 @@
       "create_time": 1668259676,
       "formatted_time": "2022-11-12 21:27:56",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1686896401,
@@ -126,7 +126,7 @@
       "create_time": 1686896434,
       "formatted_time": "2023-06-16 14:20:34",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "wxid_9nmbz3izecu621",
       "sender_wxid": "wxid_9nmbz3izecu621"
     },
@@ -134,7 +134,7 @@
       "create_time": 1686896463,
       "formatted_time": "2023-06-16 14:21:03",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "wxid_9nmbz3izecu621",
       "sender_wxid": "wxid_9nmbz3izecu621"
     },
@@ -142,7 +142,7 @@
       "create_time": 1686896508,
       "formatted_time": "2023-06-16 14:21:48",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "wxid_9nmbz3izecu621",
       "sender_wxid": "wxid_9nmbz3izecu621"
     },
@@ -150,11 +150,11 @@
       "create_time": 1686896553,
       "formatted_time": "2023-06-16 14:22:33",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "wxid_9nmbz3izecu621",
       "sender_wxid": "wxid_9nmbz3izecu621"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 21
 }

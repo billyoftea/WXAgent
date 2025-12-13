@@ -6,7 +6,7 @@
       "create_time": 1757739510,
       "formatted_time": "2025-09-13 12:58:30",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "9.13 AFT打车",
       "sender_wxid": "47785320490@chatroom"
     },
@@ -22,7 +22,7 @@
       "create_time": 1757739515,
       "formatted_time": "2025-09-13 12:58:35",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1757739524,
@@ -66,7 +66,7 @@
       "create_time": 1757747683,
       "formatted_time": "2025-09-13 15:14:43",
       "type": "位置消息",
-      "str_content": "[????]",
+      "str_content": "[位置消息]",
       "sender": "自己"
     },
     {
@@ -96,11 +96,11 @@
       "create_time": 1757775916,
       "formatted_time": "2025-09-13 23:05:16",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "武大数理金融 欧岱松",
       "sender_wxid": "wxid_h11n8ke0gvo322"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 13
 }

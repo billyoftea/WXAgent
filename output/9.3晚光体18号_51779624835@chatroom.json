@@ -6,7 +6,7 @@
       "create_time": 1725290013,
       "formatted_time": "2024-09-02 23:13:33",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "9.3晚光体18号",
       "sender_wxid": "51779624835@chatroom"
     },
@@ -22,7 +22,7 @@
       "create_time": 1725290518,
       "formatted_time": "2024-09-02 23:21:58",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "9.3晚光体18号",
       "sender_wxid": "51779624835@chatroom"
     },
@@ -30,7 +30,7 @@
       "create_time": 1725290518,
       "formatted_time": "2024-09-02 23:21:58",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1725364889,
@@ -60,7 +60,7 @@
       "create_time": 1725372945,
       "formatted_time": "2024-09-03 22:15:45",
       "type": "红包卡片",
-      "str_content": "[??]",
+      "str_content": "[红包]",
       "sender_name": "雨空、星痕",
       "sender_wxid": "wxid_e2zz286q1g3122"
     },
@@ -68,9 +68,9 @@
       "create_time": 1725372992,
       "formatted_time": "2024-09-03 22:16:32",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 9
 }

@@ -59,7 +59,7 @@
       "create_time": 1744371468,
       "formatted_time": "2025-04-11 19:37:48",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张绍明",
       "sender_wxid": "wxid_ynq76qcgzoad22"
     },
@@ -171,7 +171,7 @@
       "create_time": 1744378081,
       "formatted_time": "2025-04-11 21:28:01",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -200,7 +200,7 @@
       "create_time": 1744378124,
       "formatted_time": "2025-04-11 21:28:44",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -237,7 +237,7 @@
       "create_time": 1744378242,
       "formatted_time": "2025-04-11 21:30:42",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "56100805524@chatroom",
       "sender_wxid": "56100805524@chatroom"
     },
@@ -291,7 +291,7 @@
       "create_time": 1744379734,
       "formatted_time": "2025-04-11 21:55:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张绍明",
       "sender_wxid": "wxid_ynq76qcgzoad22"
     },
@@ -321,7 +321,7 @@
       "create_time": 1744380014,
       "formatted_time": "2025-04-11 22:00:14",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张绍明",
       "sender_wxid": "wxid_ynq76qcgzoad22"
     },
@@ -337,7 +337,7 @@
       "create_time": 1744380746,
       "formatted_time": "2025-04-11 22:12:26",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -352,19 +352,19 @@
       "create_time": 1744381023,
       "formatted_time": "2025-04-11 22:17:03",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1744381506,
       "formatted_time": "2025-04-11 22:25:06",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1744382931,
       "formatted_time": "2025-04-11 22:48:51",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1744442766,
@@ -401,7 +401,7 @@
       "create_time": 1744451971,
       "formatted_time": "2025-04-12 17:59:31",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -437,7 +437,7 @@
       "create_time": 1744452058,
       "formatted_time": "2025-04-12 18:00:58",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Ragdoll",
       "sender_wxid": "wxid_jgnpkplu1mz312"
     },
@@ -511,6 +511,6 @@
       "sender_wxid": "wxid_jgnpkplu1mz312"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 68
 }

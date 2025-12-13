@@ -104,7 +104,7 @@
       "create_time": 1761454866,
       "formatted_time": "2025-10-26 13:01:06",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "聊城计算机于文哲"
     },
     {
@@ -209,7 +209,7 @@
       "create_time": 1761455839,
       "formatted_time": "2025-10-26 13:17:19",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -230,7 +230,7 @@
       "create_time": 1761455844,
       "formatted_time": "2025-10-26 13:17:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -269,6 +269,6 @@
       "sender_name": "聊城计算机于文哲"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
+  "export_time": "2025-12-13T14:57:48+08:00",
   "message_count": 38
 }

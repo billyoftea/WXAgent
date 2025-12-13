@@ -6,21 +6,21 @@
       "create_time": 1756094014,
       "formatted_time": "2025-08-25 11:53:34",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "王佳妮"
     },
     {
       "create_time": 1756094019,
       "formatted_time": "2025-08-25 11:53:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1756094020,
       "formatted_time": "2025-08-25 11:53:40",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "王佳妮"
     },
     {
@@ -55,7 +55,7 @@
       "create_time": 1756094073,
       "formatted_time": "2025-08-25 11:54:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王佳妮"
     },
     {
@@ -76,7 +76,7 @@
       "create_time": 1756094085,
       "formatted_time": "2025-08-25 11:54:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王佳妮"
     },
     {
@@ -90,7 +90,7 @@
       "create_time": 1759994187,
       "formatted_time": "2025-10-09 15:16:27",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -118,7 +118,7 @@
       "create_time": 1759994416,
       "formatted_time": "2025-10-09 15:20:16",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "王佳妮"
     },
     {
@@ -181,7 +181,7 @@
       "create_time": 1759994584,
       "formatted_time": "2025-10-09 15:23:04",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王佳妮"
     },
     {
@@ -195,7 +195,7 @@
       "create_time": 1759994605,
       "formatted_time": "2025-10-09 15:23:25",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王佳妮"
     },
     {
@@ -216,10 +216,10 @@
       "create_time": 1760072240,
       "formatted_time": "2025-10-10 12:57:20",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "王佳妮"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 31
 }

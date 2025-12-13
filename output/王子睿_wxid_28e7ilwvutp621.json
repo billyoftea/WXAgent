@@ -6,7 +6,7 @@
       "create_time": 1756092460,
       "formatted_time": "2025-08-25 11:27:40",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "王子睿"
     },
     {
@@ -48,7 +48,7 @@
       "create_time": 1756092533,
       "formatted_time": "2025-08-25 11:28:53",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -73,6 +73,6 @@
       "sender_name": "王子睿"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 10
 }

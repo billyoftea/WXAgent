@@ -38,7 +38,7 @@
       "create_time": 1763720441,
       "formatted_time": "2025-11-21 18:20:41",
       "type": "视频消息",
-      "str_content": "[????]",
+      "str_content": "[视频消息]",
       "sender_name": "胡修军 姨夫",
       "sender_wxid": "wxid_1bek9jd1xkvp22"
     },
@@ -94,7 +94,7 @@
       "create_time": 1764130744,
       "formatted_time": "2025-11-26 12:19:04",
       "type": "视频消息",
-      "str_content": "[????]",
+      "str_content": "[视频消息]",
       "sender_name": "胡修军 姨夫",
       "sender_wxid": "wxid_1bek9jd1xkvp22"
     },
@@ -126,7 +126,7 @@
       "create_time": 1764388831,
       "formatted_time": "2025-11-29 12:00:31",
       "type": "视频消息",
-      "str_content": "[????]",
+      "str_content": "[视频消息]",
       "sender_name": "满玲 三姨",
       "sender_wxid": "wxid_wvf5scw2b4s122"
     },
@@ -134,7 +134,7 @@
       "create_time": 1764389585,
       "formatted_time": "2025-11-29 12:13:05",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "妈",
       "sender_wxid": "wxid_qu2dijy1xpfm12"
     },
@@ -142,7 +142,7 @@
       "create_time": 1764389623,
       "formatted_time": "2025-11-29 12:13:43",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "妈",
       "sender_wxid": "wxid_qu2dijy1xpfm12"
     },
@@ -150,7 +150,7 @@
       "create_time": 1764389659,
       "formatted_time": "2025-11-29 12:14:19",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "爸",
       "sender_wxid": "wxid_794e2azqfa5q21"
     },
@@ -161,8 +161,96 @@
       "str_content": "[呲牙][呲牙][呲牙]",
       "sender_name": "胡修军 姨夫",
       "sender_wxid": "wxid_1bek9jd1xkvp22"
+    },
+    {
+      "create_time": 1765168585,
+      "formatted_time": "2025-12-08 12:36:25",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "sender_name": "胡修军 姨夫",
+      "sender_wxid": "wxid_1bek9jd1xkvp22"
+    },
+    {
+      "create_time": 1765168710,
+      "formatted_time": "2025-12-08 12:38:30",
+      "type": "文本消息",
+      "str_content": "漂亮[强]",
+      "sender_name": "满涛 舅舅",
+      "sender_wxid": "wxid_cesiftwkcjka22"
+    },
+    {
+      "create_time": 1765168967,
+      "formatted_time": "2025-12-08 12:42:47",
+      "type": "文本消息",
+      "str_content": "胡凭画的真好，得闲的时候，给你姥姥画一幅微山湖捕鱼风景画，挂她卧室，你姥姥想老家的时候好看看",
+      "sender_name": "满涛 舅舅",
+      "sender_wxid": "wxid_cesiftwkcjka22"
+    },
+    {
+      "create_time": 1765169019,
+      "formatted_time": "2025-12-08 12:43:39",
+      "type": "文本消息",
+      "str_content": "没有名字也",
+      "sender_name": "胡修军 姨夫",
+      "sender_wxid": "wxid_1bek9jd1xkvp22"
+    },
+    {
+      "create_time": 1765169033,
+      "formatted_time": "2025-12-08 12:43:53",
+      "type": "文本消息",
+      "str_content": "怎么看出来的",
+      "sender_name": "胡修军 姨夫",
+      "sender_wxid": "wxid_1bek9jd1xkvp22"
+    },
+    {
+      "create_time": 1765169074,
+      "formatted_time": "2025-12-08 12:44:34",
+      "type": "文本消息",
+      "str_content": "[强][强]胡钰胡凭都有绘画天赋，功底深厚，咱这老小再继续培养",
+      "sender_name": "妈",
+      "sender_wxid": "wxid_qu2dijy1xpfm12"
+    },
+    {
+      "create_time": 1765170553,
+      "formatted_time": "2025-12-08 13:09:13",
+      "type": "文本消息",
+      "str_content": "我也来夸夸胡凭 [憨笑][憨笑]画的真好[强][强]",
+      "sender_name": "满玲 三姨",
+      "sender_wxid": "wxid_wvf5scw2b4s122"
+    },
+    {
+      "create_time": 1765172141,
+      "formatted_time": "2025-12-08 13:35:41",
+      "type": "文本消息",
+      "str_content": "画的很传神[强]厉害[强]",
+      "sender_name": "满慧 二姨",
+      "sender_wxid": "wxid_uarb19krpgu922"
+    },
+    {
+      "create_time": 1765372397,
+      "formatted_time": "2025-12-10 21:13:17",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "sender_name": "满慧 二姨",
+      "sender_wxid": "wxid_uarb19krpgu922"
+    },
+    {
+      "create_time": 1765590756,
+      "formatted_time": "2025-12-13 09:52:36",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "sender_name": "满玲 三姨",
+      "sender_wxid": "wxid_wvf5scw2b4s122"
+    },
+    {
+      "create_time": 1765606904,
+      "formatted_time": "2025-12-13 14:21:44",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "sender_name": "爸",
+      "sender_wxid": "wxid_794e2azqfa5q21"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
-  "message_count": 20
+  "export_time": "2025-12-13T14:57:48+08:00",
+  "message_count": 31
 }

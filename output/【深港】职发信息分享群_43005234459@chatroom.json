@@ -1,0 +1,38 @@
+{
+  "session_id": "43005234459@chatroom",
+  "session_name": "【深港】职发信息分享群",
+  "messages": [
+    {
+      "create_time": 1765592473,
+      "formatted_time": "2025-12-13 10:21:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765592663,
+      "formatted_time": "2025-12-13 10:24:23",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "sender_name": "【深港】职发信息分享群",
+      "sender_wxid": "43005234459@chatroom"
+    },
+    {
+      "create_time": 1765592790,
+      "formatted_time": "2025-12-13 10:26:30",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "sender_name": "【深港】职发信息分享群",
+      "sender_wxid": "43005234459@chatroom"
+    },
+    {
+      "create_time": 1765594421,
+      "formatted_time": "2025-12-13 10:53:41",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "sender_name": "【深港】职发信息分享群",
+      "sender_wxid": "43005234459@chatroom"
+    }
+  ],
+  "export_time": "2025-12-13T14:57:47+08:00",
+  "message_count": 4
+}

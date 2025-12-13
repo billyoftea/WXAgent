@@ -6,7 +6,7 @@
       "create_time": 1759212893,
       "formatted_time": "2025-09-30 14:14:53",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "华里里寓酒店"
     },
     {
@@ -20,7 +20,7 @@
       "create_time": 1759213328,
       "formatted_time": "2025-09-30 14:22:08",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -76,28 +76,28 @@
       "create_time": 1759645133,
       "formatted_time": "2025-10-05 14:18:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "华里里寓酒店"
     },
     {
       "create_time": 1759645133,
       "formatted_time": "2025-10-05 14:18:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "华里里寓酒店"
     },
     {
       "create_time": 1759645134,
       "formatted_time": "2025-10-05 14:18:54",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "华里里寓酒店"
     },
     {
       "create_time": 1759645135,
       "formatted_time": "2025-10-05 14:18:55",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "华里里寓酒店"
     },
     {
@@ -150,6 +150,6 @@
       "sender_name": "华里里寓酒店"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 21
 }

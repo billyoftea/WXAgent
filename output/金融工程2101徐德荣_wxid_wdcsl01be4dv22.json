@@ -13,7 +13,7 @@
       "create_time": 1740748267,
       "formatted_time": "2025-02-28 21:11:07",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -132,7 +132,7 @@
       "create_time": 1749478279,
       "formatted_time": "2025-06-09 22:11:19",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -195,7 +195,7 @@
       "create_time": 1750303632,
       "formatted_time": "2025-06-19 11:27:12",
       "type": "视频消息",
-      "str_content": "[????]",
+      "str_content": "[视频消息]",
       "sender_name": "金融工程2101徐德荣"
     },
     {
@@ -209,21 +209,21 @@
       "create_time": 1750303657,
       "formatted_time": "2025-06-19 11:27:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1750388102,
       "formatted_time": "2025-06-20 10:55:02",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1750388105,
       "formatted_time": "2025-06-20 10:55:05",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -241,6 +241,6 @@
       "sender_name": "金融工程2101徐德荣"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 34
 }

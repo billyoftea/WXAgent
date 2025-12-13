@@ -34,7 +34,7 @@
       "create_time": 1761469753,
       "formatted_time": "2025-10-26 17:09:13",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "自己"
     },
     {
@@ -62,7 +62,7 @@
       "create_time": 1761470014,
       "formatted_time": "2025-10-26 17:13:34",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "自己"
     },
     {
@@ -181,7 +181,7 @@
       "create_time": 1761565903,
       "formatted_time": "2025-10-27 19:51:43",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "自己"
     },
     {
@@ -286,7 +286,7 @@
       "create_time": 1761569273,
       "formatted_time": "2025-10-27 20:47:53",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "自己"
     },
     {
@@ -377,7 +377,7 @@
       "create_time": 1762339887,
       "formatted_time": "2025-11-05 18:51:27",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "自己"
     },
     {
@@ -412,7 +412,7 @@
       "create_time": 1763043817,
       "formatted_time": "2025-11-13 22:23:37",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -433,7 +433,7 @@
       "create_time": 1763202090,
       "formatted_time": "2025-11-15 18:21:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -552,7 +552,7 @@
       "create_time": 1763212698,
       "formatted_time": "2025-11-15 21:18:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -566,7 +566,7 @@
       "create_time": 1763283069,
       "formatted_time": "2025-11-16 16:51:09",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -629,7 +629,7 @@
       "create_time": 1763283615,
       "formatted_time": "2025-11-16 17:00:15",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "自己"
     },
     {
@@ -755,7 +755,7 @@
       "create_time": 1763431782,
       "formatted_time": "2025-11-18 10:09:42",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -832,7 +832,7 @@
       "create_time": 1763609213,
       "formatted_time": "2025-11-20 11:26:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -979,7 +979,7 @@
       "create_time": 1763789532,
       "formatted_time": "2025-11-22 13:32:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -1042,7 +1042,7 @@
       "create_time": 1763790053,
       "formatted_time": "2025-11-22 13:40:53",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "匡浩鑫-25-经济"
     },
     {
@@ -1128,8 +1128,323 @@
       "type": "文本消息",
       "str_content": "嗷嗷好的",
       "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765096235,
+      "formatted_time": "2025-12-07 16:30:35",
+      "type": "文本消息",
+      "str_content": "匡哥",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765096241,
+      "formatted_time": "2025-12-07 16:30:41",
+      "type": "文本消息",
+      "str_content": "cba前段时间包饺子是在哪里包的呀",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765096243,
+      "formatted_time": "2025-12-07 16:30:43",
+      "type": "文本消息",
+      "str_content": "感觉怎么样",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765096437,
+      "formatted_time": "2025-12-07 16:33:57",
+      "type": "引用消息",
+      "str_content": "凤凰山农趣乐",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765096502,
+      "formatted_time": "2025-12-07 16:35:02",
+      "type": "文本消息",
+      "str_content": "17人花了3000左右 人均170左右",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765096513,
+      "formatted_time": "2025-12-07 16:35:13",
+      "type": "文本消息",
+      "str_content": "我去",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765096516,
+      "formatted_time": "2025-12-07 16:35:16",
+      "type": "文本消息",
+      "str_content": "有点点贵啊",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765096529,
+      "formatted_time": "2025-12-07 16:35:29",
+      "type": "文本消息",
+      "str_content": "主要是需要自己做菜",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765096536,
+      "formatted_time": "2025-12-07 16:35:36",
+      "type": "文本消息",
+      "str_content": "没有点菜的",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765096569,
+      "formatted_time": "2025-12-07 16:36:09",
+      "type": "引用消息",
+      "str_content": "是啊是啊",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765096623,
+      "formatted_time": "2025-12-07 16:37:03",
+      "type": "文本消息",
+      "str_content": "应该是加上了包车 车程大概单程40分钟",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765096656,
+      "formatted_time": "2025-12-07 16:37:36",
+      "type": "文本消息",
+      "str_content": "hhh管理班准备包饺子团建",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765096665,
+      "formatted_time": "2025-12-07 16:37:45",
+      "type": "文本消息",
+      "str_content": "还准备参考cba经验呢",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765096690,
+      "formatted_time": "2025-12-07 16:38:10",
+      "type": "文本消息",
+      "str_content": "感觉要是班级的话 这个人均有点太贵了",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765096721,
+      "formatted_time": "2025-12-07 16:38:41",
+      "type": "文本消息",
+      "str_content": "社团的话会费还报销了一部分 最后我们大概每个人给了100",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765096737,
+      "formatted_time": "2025-12-07 16:38:57",
+      "type": "文本消息",
+      "str_content": "管理班活动好丰富",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765096742,
+      "formatted_time": "2025-12-07 16:39:02",
+      "type": "文本消息",
+      "str_content": "上次还去参访了",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765096911,
+      "formatted_time": "2025-12-07 16:41:51",
+      "type": "文本消息",
+      "str_content": "确实。。",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765096923,
+      "formatted_time": "2025-12-07 16:42:03",
+      "type": "文本消息",
+      "str_content": "金科班完全没有啥团建活动",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765096929,
+      "formatted_time": "2025-12-07 16:42:09",
+      "type": "文本消息",
+      "str_content": "目前还是散是满天星的状态",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765096991,
+      "formatted_time": "2025-12-07 16:43:11",
+      "type": "文本消息",
+      "str_content": "你们班人都太活跃了",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765097000,
+      "formatted_time": "2025-12-07 16:43:20",
+      "type": "文本消息",
+      "str_content": "感觉不团建也每天都在玩哈哈哈",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765511718,
+      "formatted_time": "2025-12-12 11:55:18",
+      "type": "文本消息",
+      "str_content": "昂总，当时舞会你们crs来调酒的时候物业有让你们提供食品许可证之类的吗",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765511748,
+      "formatted_time": "2025-12-12 11:55:48",
+      "type": "文本消息",
+      "str_content": "没有",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765511762,
+      "formatted_time": "2025-12-12 11:56:02",
+      "type": "文本消息",
+      "str_content": "okok",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765511780,
+      "formatted_time": "2025-12-12 11:56:20",
+      "type": "引用消息",
+      "str_content": "这个最后你们决定去哪了哈哈",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765511821,
+      "formatted_time": "2025-12-12 11:57:01",
+      "type": "文本消息",
+      "str_content": "金科班还没有要团建哈哈哈哈",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765511830,
+      "formatted_time": "2025-12-12 11:57:10",
+      "type": "文本消息",
+      "str_content": "因为我听说管理他们想去团建",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765511837,
+      "formatted_time": "2025-12-12 11:57:17",
+      "type": "文本消息",
+      "str_content": "就来问cba的情况来着",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765511842,
+      "formatted_time": "2025-12-12 11:57:22",
+      "type": "文本消息",
+      "str_content": "他们也想包饺砸来着",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765511853,
+      "formatted_time": "2025-12-12 11:57:33",
+      "type": "文本消息",
+      "str_content": "怪不得怪不得",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765511866,
+      "formatted_time": "2025-12-12 11:57:46",
+      "type": "文本消息",
+      "str_content": "金科的大家都在人生有路各自精彩",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765511870,
+      "formatted_time": "2025-12-12 11:57:50",
+      "type": "文本消息",
+      "str_content": "散是满天星",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765511870,
+      "formatted_time": "2025-12-12 11:57:50",
+      "type": "文本消息",
+      "str_content": "真的",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765511872,
+      "formatted_time": "2025-12-12 11:57:52",
+      "type": "文本消息",
+      "str_content": "你们",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765511889,
+      "formatted_time": "2025-12-12 11:58:09",
+      "type": "文本消息",
+      "str_content": "感觉什么社团的会长团里面都有你们哈哈哈",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765512033,
+      "formatted_time": "2025-12-12 12:00:33",
+      "type": "文本消息",
+      "str_content": "金投的也是",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765512052,
+      "formatted_time": "2025-12-12 12:00:52",
+      "type": "文本消息",
+      "str_content": "理工背景的大家还是很活跃的",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765512144,
+      "formatted_time": "2025-12-12 12:02:24",
+      "type": "文本消息",
+      "str_content": "确实确实",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765512155,
+      "formatted_time": "2025-12-12 12:02:35",
+      "type": "文本消息",
+      "str_content": "感觉你们和金投基本也不分家哈哈哈",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765512169,
+      "formatted_time": "2025-12-12 12:02:49",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈确实，我们几个寝室都交叉的，也一起打牌",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765512242,
+      "formatted_time": "2025-12-12 12:04:02",
+      "type": "文本消息",
+      "str_content": "舒服的",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765512259,
+      "formatted_time": "2025-12-12 12:04:19",
+      "type": "文本消息",
+      "str_content": "感觉经济班不如你们活跃哈哈哈",
+      "sender_name": "匡浩鑫-25-经济"
+    },
+    {
+      "create_time": 1765512287,
+      "formatted_time": "2025-12-12 12:04:47",
+      "type": "文本消息",
+      "str_content": "你们课业压力比较大[捂脸]",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765512351,
+      "formatted_time": "2025-12-12 12:05:51",
+      "type": "文本消息",
+      "str_content": "太命苦了....",
+      "sender_name": "匡浩鑫-25-经济"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
-  "message_count": 161
+  "export_time": "2025-12-13T14:57:47+08:00",
+  "message_count": 206
 }

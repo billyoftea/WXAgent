@@ -6,13 +6,13 @@
       "create_time": 1749639615,
       "formatted_time": "2025-06-11 19:00:15",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1749639617,
       "formatted_time": "2025-06-11 19:00:17",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "毕业晚会文化部",
       "sender_wxid": "56157609011@chatroom"
     },
@@ -20,7 +20,7 @@
       "create_time": 1749639622,
       "formatted_time": "2025-06-11 19:00:22",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "毕业晚会文化部",
       "sender_wxid": "56157609011@chatroom"
     },
@@ -28,7 +28,7 @@
       "create_time": 1749639628,
       "formatted_time": "2025-06-11 19:00:28",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "毕业晚会文化部",
       "sender_wxid": "56157609011@chatroom"
     },
@@ -43,14 +43,14 @@
       "create_time": 1749640994,
       "formatted_time": "2025-06-11 19:23:14",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1749641009,
       "formatted_time": "2025-06-11 19:23:29",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1749642278,
@@ -159,6 +159,6 @@
       "sender": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 21
 }

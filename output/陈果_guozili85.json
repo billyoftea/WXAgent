@@ -1,0 +1,43 @@
+{
+  "session_id": "guozili85",
+  "session_name": "陈果",
+  "messages": [
+    {
+      "create_time": 1765359855,
+      "formatted_time": "2025-12-10 17:44:15",
+      "type": "文本消息",
+      "str_content": "陈果师兄好！我是深港25级会长徐昂",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765367504,
+      "formatted_time": "2025-12-10 19:51:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "sender_name": "陈果"
+    },
+    {
+      "create_time": 1765367504,
+      "formatted_time": "2025-12-10 19:51:44",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "sender_name": "陈果"
+    },
+    {
+      "create_time": 1765509427,
+      "formatted_time": "2025-12-12 11:17:07",
+      "type": "文本消息",
+      "str_content": "陈果师兄好，我是汇丰25级的徐昂，很荣幸能够当选会长！我会努力把我们深港的文化内核传承好，争取让深港得到进一步的发展！也欢迎师兄常回家看看~",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765511079,
+      "formatted_time": "2025-12-12 11:44:39",
+      "type": "文本消息",
+      "str_content": "你好你好，加油",
+      "sender_name": "陈果"
+    }
+  ],
+  "export_time": "2025-12-13T14:57:47+08:00",
+  "message_count": 5
+}

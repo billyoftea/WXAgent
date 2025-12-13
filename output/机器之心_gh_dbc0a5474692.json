@@ -281,8 +281,57 @@
       "type": "图文消息",
       "str_content": "刚刚，英伟达CUDA迎来史上最大更新！",
       "sender_name": "机器之心"
+    },
+    {
+      "create_time": 1765081956,
+      "formatted_time": "2025-12-07 12:32:36",
+      "type": "图文消息",
+      "str_content": "LLM强化学习不稳定之谜，被Qwen团队从「一阶近似」视角解开",
+      "sender_name": "机器之心"
+    },
+    {
+      "create_time": 1765188624,
+      "formatted_time": "2025-12-08 18:10:24",
+      "type": "图文消息",
+      "str_content": "ICLR 2026还会好吗？300篇投稿50篇含幻觉，引用example.com竟也能过审",
+      "sender_name": "机器之心"
+    },
+    {
+      "create_time": 1765250196,
+      "formatted_time": "2025-12-09 11:16:36",
+      "type": "图文消息",
+      "str_content": "没了遥控器，还被扔进荒野，具身智能该「断奶」了",
+      "sender_name": "机器之心"
+    },
+    {
+      "create_time": 1765343361,
+      "formatted_time": "2025-12-10 13:09:21",
+      "type": "图文消息",
+      "str_content": "一手实测 | 智谱AutoGLM重磅开源： AI手机的「安卓时刻」正式到来",
+      "sender_name": "机器之心"
+    },
+    {
+      "create_time": 1765447152,
+      "formatted_time": "2025-12-11 17:59:12",
+      "type": "图文消息",
+      "str_content": "大模型的第一性原理：（一）统计物理篇",
+      "sender_name": "机器之心"
+    },
+    {
+      "create_time": 1765509767,
+      "formatted_time": "2025-12-12 11:22:47",
+      "type": "图文消息",
+      "str_content": "全球强化学习+VLA范式，PI*0.6背后都有这家中国公司技术伏笔",
+      "sender_name": "机器之心"
+    },
+    {
+      "create_time": 1765601903,
+      "formatted_time": "2025-12-13 12:58:23",
+      "type": "图文消息",
+      "str_content": "GPT-5.2已上线24小时：差评如潮！",
+      "sender_name": "机器之心"
     }
   ],
-  "export_time": "2025-12-07T09:58:49+08:00",
-  "message_count": 40
+  "export_time": "2025-12-13T14:57:45+08:00",
+  "message_count": 47
 }

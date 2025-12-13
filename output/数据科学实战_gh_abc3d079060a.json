@@ -267,8 +267,50 @@
       "type": "图文消息",
       "str_content": "顶级交易员都在用的秘密武器：Python 股票聚类分析实战",
       "sender_name": "数据科学实战"
+    },
+    {
+      "create_time": 1765200346,
+      "formatted_time": "2025-12-08 21:25:46",
+      "type": "图文消息",
+      "str_content": "0基础量化入门课程来了，六节课轻松掌握量化开发",
+      "sender_name": "数据科学实战"
+    },
+    {
+      "create_time": 1765273636,
+      "formatted_time": "2025-12-09 17:47:16",
+      "type": "图文消息",
+      "str_content": "DolphinDB + Alphalens：量化因子分析的高效实践指南",
+      "sender_name": "数据科学实战"
+    },
+    {
+      "create_time": 1765296096,
+      "formatted_time": "2025-12-10 00:01:36",
+      "type": "图文消息",
+      "str_content": "用 Python 打造自动交易系统：从零实现 Q-learning 量化策略",
+      "sender_name": "数据科学实战"
+    },
+    {
+      "create_time": 1765382565,
+      "formatted_time": "2025-12-11 00:02:45",
+      "type": "图文消息",
+      "str_content": "从论文到实盘：机器学习交易策略的实现指南",
+      "sender_name": "数据科学实战"
+    },
+    {
+      "create_time": 1765468923,
+      "formatted_time": "2025-12-12 00:02:03",
+      "type": "图文消息",
+      "str_content": "手把手教你用 Python 打造 AI 股票分析助手",
+      "sender_name": "数据科学实战"
+    },
+    {
+      "create_time": 1765555303,
+      "formatted_time": "2025-12-13 00:01:43",
+      "type": "图文消息",
+      "str_content": "GPU 加速让量化分析快 50 倍：用 Python 和 RAPIDS 挖掘 Alpha 因子",
+      "sender_name": "数据科学实战"
     }
   ],
-  "export_time": "2025-12-07T09:58:49+08:00",
-  "message_count": 38
+  "export_time": "2025-12-13T14:57:44+08:00",
+  "message_count": 44
 }

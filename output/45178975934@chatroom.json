@@ -14,13 +14,13 @@
       "create_time": 1667226891,
       "formatted_time": "2022-10-31 22:34:51",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1667226927,
       "formatted_time": "2022-10-31 22:35:27",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -33,7 +33,7 @@
       "create_time": 1667227121,
       "formatted_time": "2022-10-31 22:38:41",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1667227142,
@@ -53,7 +53,7 @@
       "create_time": 1667227223,
       "formatted_time": "2022-10-31 22:40:23",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -61,7 +61,7 @@
       "create_time": 1667227225,
       "formatted_time": "2022-10-31 22:40:25",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -69,7 +69,7 @@
       "create_time": 1667227226,
       "formatted_time": "2022-10-31 22:40:26",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -77,7 +77,7 @@
       "create_time": 1667227227,
       "formatted_time": "2022-10-31 22:40:27",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -85,7 +85,7 @@
       "create_time": 1667227229,
       "formatted_time": "2022-10-31 22:40:29",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -93,7 +93,7 @@
       "create_time": 1667227230,
       "formatted_time": "2022-10-31 22:40:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -101,56 +101,56 @@
       "create_time": 1667227283,
       "formatted_time": "2022-10-31 22:41:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
       "create_time": 1667227300,
       "formatted_time": "2022-10-31 22:41:40",
       "type": "视频消息",
-      "str_content": "[????]"
+      "str_content": "[视频消息]"
     },
     {
       "create_time": 1667227311,
       "formatted_time": "2022-10-31 22:41:51",
       "type": "视频消息",
-      "str_content": "[????]"
+      "str_content": "[视频消息]"
     },
     {
       "create_time": 1667227336,
       "formatted_time": "2022-10-31 22:42:16",
       "type": "视频消息",
-      "str_content": "[????]"
+      "str_content": "[视频消息]"
     },
     {
       "create_time": 1667227370,
       "formatted_time": "2022-10-31 22:42:50",
       "type": "视频消息",
-      "str_content": "[????]"
+      "str_content": "[视频消息]"
     },
     {
       "create_time": 1667227376,
       "formatted_time": "2022-10-31 22:42:56",
       "type": "视频消息",
-      "str_content": "[????]"
+      "str_content": "[视频消息]"
     },
     {
       "create_time": 1667227400,
       "formatted_time": "2022-10-31 22:43:20",
       "type": "视频消息",
-      "str_content": "[????]"
+      "str_content": "[视频消息]"
     },
     {
       "create_time": 1667227428,
       "formatted_time": "2022-10-31 22:43:48",
       "type": "视频消息",
-      "str_content": "[????]"
+      "str_content": "[视频消息]"
     },
     {
       "create_time": 1667230735,
       "formatted_time": "2022-10-31 23:38:55",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -158,7 +158,7 @@
       "create_time": 1667230741,
       "formatted_time": "2022-10-31 23:39:01",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -166,7 +166,7 @@
       "create_time": 1667230752,
       "formatted_time": "2022-10-31 23:39:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -174,7 +174,7 @@
       "create_time": 1667230755,
       "formatted_time": "2022-10-31 23:39:15",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -182,7 +182,7 @@
       "create_time": 1667230762,
       "formatted_time": "2022-10-31 23:39:22",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -190,7 +190,7 @@
       "create_time": 1667230769,
       "formatted_time": "2022-10-31 23:39:29",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -198,7 +198,7 @@
       "create_time": 1667230775,
       "formatted_time": "2022-10-31 23:39:35",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -206,7 +206,7 @@
       "create_time": 1667230781,
       "formatted_time": "2022-10-31 23:39:41",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -214,7 +214,7 @@
       "create_time": 1667230789,
       "formatted_time": "2022-10-31 23:39:49",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -222,7 +222,7 @@
       "create_time": 1667230796,
       "formatted_time": "2022-10-31 23:39:56",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -230,7 +230,7 @@
       "create_time": 1667230804,
       "formatted_time": "2022-10-31 23:40:04",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -238,7 +238,7 @@
       "create_time": 1667230813,
       "formatted_time": "2022-10-31 23:40:13",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -246,7 +246,7 @@
       "create_time": 1667230819,
       "formatted_time": "2022-10-31 23:40:19",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -254,7 +254,7 @@
       "create_time": 1667230825,
       "formatted_time": "2022-10-31 23:40:25",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -262,7 +262,7 @@
       "create_time": 1667230831,
       "formatted_time": "2022-10-31 23:40:31",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -270,7 +270,7 @@
       "create_time": 1667230838,
       "formatted_time": "2022-10-31 23:40:38",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -278,7 +278,7 @@
       "create_time": 1667230844,
       "formatted_time": "2022-10-31 23:40:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -286,7 +286,7 @@
       "create_time": 1667230850,
       "formatted_time": "2022-10-31 23:40:50",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -294,7 +294,7 @@
       "create_time": 1667230857,
       "formatted_time": "2022-10-31 23:40:57",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -302,7 +302,7 @@
       "create_time": 1667230863,
       "formatted_time": "2022-10-31 23:41:03",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -310,7 +310,7 @@
       "create_time": 1667230869,
       "formatted_time": "2022-10-31 23:41:09",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     },
@@ -318,11 +318,11 @@
       "create_time": 1667230889,
       "formatted_time": "2022-10-31 23:41:29",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "李安阳",
       "sender_wxid": "wxid_39vjml2fnhp22"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:56+08:00",
   "message_count": 43
 }

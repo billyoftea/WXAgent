@@ -6,28 +6,28 @@
       "create_time": 1667662659,
       "formatted_time": "2022-11-05 23:37:39",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "自己"
     },
     {
       "create_time": 1667662714,
       "formatted_time": "2022-11-05 23:38:34",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "海博宁"
     },
     {
       "create_time": 1667663407,
       "formatted_time": "2022-11-05 23:50:07",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "海博宁"
     },
     {
       "create_time": 1667663427,
       "formatted_time": "2022-11-05 23:50:27",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "自己"
     },
     {
@@ -69,7 +69,7 @@
       "create_time": 1679878520,
       "formatted_time": "2023-03-27 08:55:20",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "海博宁"
     },
     {
@@ -118,28 +118,28 @@
       "create_time": 1679882160,
       "formatted_time": "2023-03-27 09:56:00",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1682146392,
       "formatted_time": "2023-04-22 14:53:12",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1682146394,
       "formatted_time": "2023-04-22 14:53:14",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1682146404,
       "formatted_time": "2023-04-22 14:53:24",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "自己"
     },
     {
@@ -216,14 +216,14 @@
       "create_time": 1684413897,
       "formatted_time": "2023-05-18 20:44:57",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "海博宁"
     },
     {
       "create_time": 1684413984,
       "formatted_time": "2023-05-18 20:46:24",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "海博宁"
     },
     {
@@ -328,7 +328,7 @@
       "create_time": 1684414100,
       "formatted_time": "2023-05-18 20:48:20",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "海博宁"
     },
     {
@@ -370,14 +370,14 @@
       "create_time": 1684467416,
       "formatted_time": "2023-05-19 11:36:56",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1684467425,
       "formatted_time": "2023-05-19 11:37:05",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "海博宁"
     },
     {
@@ -398,7 +398,7 @@
       "create_time": 1684467496,
       "formatted_time": "2023-05-19 11:38:16",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -440,7 +440,7 @@
       "create_time": 1684468774,
       "formatted_time": "2023-05-19 11:59:34",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "海博宁"
     },
     {
@@ -465,6 +465,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 66
 }

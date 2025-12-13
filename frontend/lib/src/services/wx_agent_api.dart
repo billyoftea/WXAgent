@@ -101,6 +101,8 @@ class WxAgentApiClient {
     bool saveMarkdown = true,
     String? summaryPrompt,
     List<String>? sessions,
+    String mode = 'merged', // 默认使用跨会话合并模式
+    int? maxTokens,
   }) async {
     final sanitizedQuestions = questions
         ?.map((q) => q.trim())
@@ -116,7 +118,11 @@ class WxAgentApiClient {
       'incremental': incremental,
       'save_markdown': saveMarkdown,
       'summary_prompt': summaryPrompt,
+      'mode': mode,
     };
+    if (maxTokens != null) {
+      body['max_tokens'] = maxTokens;
+    }
     if (sanitizedQuestions != null && sanitizedQuestions.isNotEmpty) {
       body['questions'] = sanitizedQuestions;
     }

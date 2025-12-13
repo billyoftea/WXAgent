@@ -6,7 +6,7 @@
       "create_time": 1756091178,
       "formatted_time": "2025-08-25 11:06:18",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "沈吉杭"
     },
     {
@@ -20,7 +20,7 @@
       "create_time": 1756091198,
       "formatted_time": "2025-08-25 11:06:38",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "沈吉杭"
     },
     {
@@ -34,17 +34,17 @@
       "create_time": 1756091227,
       "formatted_time": "2025-08-25 11:07:07",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1756091304,
       "formatted_time": "2025-08-25 11:08:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "沈吉杭"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 6
 }

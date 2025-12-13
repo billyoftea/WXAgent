@@ -13,7 +13,7 @@
       "create_time": 1737080203,
       "formatted_time": "2025-01-17 10:16:43",
       "type": "名片消息",
-      "str_content": "[????]",
+      "str_content": "[名片消息]",
       "sender_name": "夏文会"
     },
     {
@@ -41,7 +41,7 @@
       "create_time": 1737080257,
       "formatted_time": "2025-01-17 10:17:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -55,7 +55,7 @@
       "create_time": 1737080269,
       "formatted_time": "2025-01-17 10:17:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "夏文会"
     },
     {
@@ -139,7 +139,7 @@
       "create_time": 1737087290,
       "formatted_time": "2025-01-17 12:14:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -150,6 +150,6 @@
       "sender_name": "夏文会"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 21
 }

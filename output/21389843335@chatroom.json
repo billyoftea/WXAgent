@@ -125,7 +125,7 @@
       "create_time": 1699228886,
       "formatted_time": "2023-11-06 08:01:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -210,7 +210,7 @@
       "create_time": 1699270121,
       "formatted_time": "2023-11-06 19:28:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈俞先",
       "sender_wxid": "wxid_jna4cpoj038l21"
     },
@@ -285,7 +285,7 @@
       "create_time": 1699276810,
       "formatted_time": "2023-11-06 21:20:10",
       "type": "名片消息",
-      "str_content": "[????]",
+      "str_content": "[名片消息]",
       "sender": "自己"
     },
     {
@@ -336,7 +336,7 @@
       "create_time": 1699447515,
       "formatted_time": "2023-11-08 20:45:15",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "黄令姝",
       "sender_wxid": "wxid_789639rs34q222"
     },
@@ -648,7 +648,7 @@
       "create_time": 1699773981,
       "formatted_time": "2023-11-12 15:26:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "黄令姝",
       "sender_wxid": "wxid_789639rs34q222"
     },
@@ -656,7 +656,7 @@
       "create_time": 1699773982,
       "formatted_time": "2023-11-12 15:26:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "黄令姝",
       "sender_wxid": "wxid_789639rs34q222"
     },
@@ -709,14 +709,14 @@
       "create_time": 1699774062,
       "formatted_time": "2023-11-12 15:27:42",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1699774062,
       "formatted_time": "2023-11-12 15:27:42",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -937,7 +937,7 @@
       "create_time": 1700394036,
       "formatted_time": "2023-11-19 19:40:36",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -972,7 +972,7 @@
       "create_time": 1700394280,
       "formatted_time": "2023-11-19 19:44:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈俞先",
       "sender_wxid": "wxid_jna4cpoj038l21"
     },
@@ -980,7 +980,7 @@
       "create_time": 1700397733,
       "formatted_time": "2023-11-19 20:42:13",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "黄令姝",
       "sender_wxid": "wxid_789639rs34q222"
     },
@@ -988,14 +988,14 @@
       "create_time": 1700399264,
       "formatted_time": "2023-11-19 21:07:44",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
       "create_time": 1700537541,
       "formatted_time": "2023-11-21 11:32:21",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender": "自己"
     },
     {
@@ -1183,14 +1183,14 @@
       "create_time": 1700561304,
       "formatted_time": "2023-11-21 18:08:24",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
       "create_time": 1700702354,
       "formatted_time": "2023-11-23 09:19:14",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -1339,7 +1339,7 @@
       "create_time": 1700725766,
       "formatted_time": "2023-11-23 15:49:26",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "黄令姝",
       "sender_wxid": "wxid_789639rs34q222"
     },
@@ -1347,7 +1347,7 @@
       "create_time": 1700725767,
       "formatted_time": "2023-11-23 15:49:27",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "黄令姝",
       "sender_wxid": "wxid_789639rs34q222"
     },
@@ -1355,7 +1355,7 @@
       "create_time": 1700725768,
       "formatted_time": "2023-11-23 15:49:28",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "黄令姝",
       "sender_wxid": "wxid_789639rs34q222"
     },
@@ -1363,21 +1363,21 @@
       "create_time": 1700725844,
       "formatted_time": "2023-11-23 15:50:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1700725844,
       "formatted_time": "2023-11-23 15:50:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1700725844,
       "formatted_time": "2023-11-23 15:50:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -1399,7 +1399,7 @@
       "create_time": 1700885699,
       "formatted_time": "2023-11-25 12:14:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "黄令姝",
       "sender_wxid": "wxid_789639rs34q222"
     },
@@ -1421,7 +1421,7 @@
       "create_time": 1700885723,
       "formatted_time": "2023-11-25 12:15:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "黄令姝",
       "sender_wxid": "wxid_789639rs34q222"
     },
@@ -1437,7 +1437,7 @@
       "create_time": 1700885741,
       "formatted_time": "2023-11-25 12:15:41",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "黄令姝",
       "sender_wxid": "wxid_789639rs34q222"
     },
@@ -1445,7 +1445,7 @@
       "create_time": 1700885746,
       "formatted_time": "2023-11-25 12:15:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈俞先",
       "sender_wxid": "wxid_jna4cpoj038l21"
     },
@@ -1453,7 +1453,7 @@
       "create_time": 1701330772,
       "formatted_time": "2023-11-30 15:52:52",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender": "自己"
     },
     {
@@ -1467,7 +1467,7 @@
       "create_time": 1701331077,
       "formatted_time": "2023-11-30 15:57:57",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "黄令姝",
       "sender_wxid": "wxid_789639rs34q222"
     },
@@ -1505,7 +1505,7 @@
       "create_time": 1701331380,
       "formatted_time": "2023-11-30 16:03:00",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈俞先",
       "sender_wxid": "wxid_jna4cpoj038l21"
     },
@@ -1895,6 +1895,6 @@
       "sender_wxid": "wxid_789639rs34q222"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 251
 }

@@ -6,14 +6,14 @@
       "create_time": 1661260658,
       "formatted_time": "2022-08-23 21:17:38",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "孙永康"
     },
     {
       "create_time": 1661305077,
       "formatted_time": "2022-08-24 09:37:57",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -27,7 +27,7 @@
       "create_time": 1661305141,
       "formatted_time": "2022-08-24 09:39:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "孙永康"
     },
     {
@@ -83,7 +83,7 @@
       "create_time": 1661305234,
       "formatted_time": "2022-08-24 09:40:34",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -129,6 +129,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 18
 }

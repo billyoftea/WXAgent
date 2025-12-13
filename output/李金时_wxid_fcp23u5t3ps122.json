@@ -111,7 +111,7 @@
       "create_time": 1761402773,
       "formatted_time": "2025-10-25 22:32:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -412,7 +412,7 @@
       "create_time": 1761464678,
       "formatted_time": "2025-10-26 15:44:38",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -468,7 +468,7 @@
       "create_time": 1761464947,
       "formatted_time": "2025-10-26 15:49:07",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "自己"
     },
     {
@@ -496,35 +496,35 @@
       "create_time": 1761929189,
       "formatted_time": "2025-11-01 00:46:29",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "自己"
     },
     {
       "create_time": 1761929276,
       "formatted_time": "2025-11-01 00:47:56",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "李金时"
     },
     {
       "create_time": 1761929299,
       "formatted_time": "2025-11-01 00:48:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李金时"
     },
     {
       "create_time": 1762427505,
       "formatted_time": "2025-11-06 19:11:45",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "李金时"
     },
     {
       "create_time": 1762427934,
       "formatted_time": "2025-11-06 19:18:54",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "自己"
     },
     {
@@ -615,14 +615,14 @@
       "create_time": 1763370111,
       "formatted_time": "2025-11-17 17:01:51",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李金时"
     },
     {
       "create_time": 1763880506,
       "formatted_time": "2025-11-23 14:48:26",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -643,7 +643,7 @@
       "create_time": 1763880522,
       "formatted_time": "2025-11-23 14:48:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李金时"
     },
     {
@@ -692,10 +692,479 @@
       "create_time": 1763880559,
       "formatted_time": "2025-11-23 14:49:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765297959,
+      "formatted_time": "2025-12-10 00:32:39",
+      "type": "文本消息",
+      "str_content": "现在你对面是深港经济金融协会（汇丰第一大社）的会长",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765297968,
+      "formatted_time": "2025-12-10 00:32:48",
+      "type": "文本消息",
+      "str_content": "晓芸姐也在这个社团里",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765297969,
+      "formatted_time": "2025-12-10 00:32:49",
+      "type": "文本消息",
+      "str_content": "！",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765297974,
+      "formatted_time": "2025-12-10 00:32:54",
+      "type": "文本消息",
+      "str_content": "恭喜你",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765297983,
+      "formatted_time": "2025-12-10 00:33:03",
+      "type": "文本消息",
+      "str_content": "获得晓芸姐",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765297988,
+      "formatted_time": "2025-12-10 00:33:08",
+      "type": "文本消息",
+      "str_content": "我哭晕在厕所",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765297993,
+      "formatted_time": "2025-12-10 00:33:13",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765297994,
+      "formatted_time": "2025-12-10 00:33:14",
+      "type": "文本消息",
+      "str_content": "md",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765297994,
+      "formatted_time": "2025-12-10 00:33:14",
+      "type": "文本消息",
+      "str_content": "[流泪]",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298000,
+      "formatted_time": "2025-12-10 00:33:20",
+      "type": "文本消息",
+      "str_content": "晓芸姐人真好",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298001,
+      "formatted_time": "2025-12-10 00:33:21",
+      "type": "文本消息",
+      "str_content": "吗的",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298005,
+      "formatted_time": "2025-12-10 00:33:25",
+      "type": "文本消息",
+      "str_content": "你太郭楠了",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298007,
+      "formatted_time": "2025-12-10 00:33:27",
+      "type": "文本消息",
+      "str_content": "虾头",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298015,
+      "formatted_time": "2025-12-10 00:33:35",
+      "type": "文本消息",
+      "str_content": "我要跟你混了",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298021,
+      "formatted_time": "2025-12-10 00:33:41",
+      "type": "引用消息",
+      "str_content": "我觉得也是",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298050,
+      "formatted_time": "2025-12-10 00:34:10",
+      "type": "文本消息",
+      "str_content": "星期一就换届完了",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298054,
+      "formatted_time": "2025-12-10 00:34:14",
+      "type": "文本消息",
+      "str_content": "怎么才和我说",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298056,
+      "formatted_time": "2025-12-10 00:34:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298079,
+      "formatted_time": "2025-12-10 00:34:39",
+      "type": "文本消息",
+      "str_content": "忘了给你吹牛逼了",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298087,
+      "formatted_time": "2025-12-10 00:34:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298094,
+      "formatted_time": "2025-12-10 00:34:54",
+      "type": "文本消息",
+      "str_content": "今天一整天都在向各路学长学姐 业界的人汇报",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298095,
+      "formatted_time": "2025-12-10 00:34:55",
+      "type": "文本消息",
+      "str_content": "先给每个女同学发了",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298111,
+      "formatted_time": "2025-12-10 00:35:11",
+      "type": "文本消息",
+      "str_content": "是人晓芸姐主动来恭喜得我",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298114,
+      "formatted_time": "2025-12-10 00:35:14",
+      "type": "文本消息",
+      "str_content": "这叫民心",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298159,
+      "formatted_time": "2025-12-10 00:35:59",
+      "type": "文本消息",
+      "str_content": "可能",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298162,
+      "formatted_time": "2025-12-10 00:36:02",
+      "type": "文本消息",
+      "str_content": "怕你欺负她",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298199,
+      "formatted_time": "2025-12-10 00:36:39",
+      "type": "文本消息",
+      "str_content": "哈哈哈不逗你了",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298204,
+      "formatted_time": "2025-12-10 00:36:44",
+      "type": "文本消息",
+      "str_content": "明年我去找你面试",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298210,
+      "formatted_time": "2025-12-10 00:36:50",
+      "type": "文本消息",
+      "str_content": "[偷笑]",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298243,
+      "formatted_time": "2025-12-10 00:37:23",
+      "type": "文本消息",
+      "str_content": "给你刷了",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298245,
+      "formatted_time": "2025-12-10 00:37:25",
+      "type": "文本消息",
+      "str_content": "太轻浮",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298358,
+      "formatted_time": "2025-12-10 00:39:18",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298371,
+      "formatted_time": "2025-12-10 00:39:31",
+      "type": "文本消息",
+      "str_content": "活多吗",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298400,
+      "formatted_time": "2025-12-10 00:40:00",
+      "type": "文本消息",
+      "str_content": "最近挺忙的，明天还有个腾讯面试，后天早上有一门我目前进度为0的考试",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298447,
+      "formatted_time": "2025-12-10 00:40:47",
+      "type": "文本消息",
+      "str_content": "妈呀",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298455,
+      "formatted_time": "2025-12-10 00:40:55",
+      "type": "文本消息",
+      "str_content": "你就一天复习时间",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298467,
+      "formatted_time": "2025-12-10 00:41:07",
+      "type": "文本消息",
+      "str_content": "最近太忙了",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298470,
+      "formatted_time": "2025-12-10 00:41:10",
+      "type": "文本消息",
+      "str_content": "昏头了",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298478,
+      "formatted_time": "2025-12-10 00:41:18",
+      "type": "文本消息",
+      "str_content": "不过我也不太想卷gpa",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298479,
+      "formatted_time": "2025-12-10 00:41:19",
+      "type": "文本消息",
+      "str_content": "whatever",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298484,
+      "formatted_time": "2025-12-10 00:41:24",
+      "type": "文本消息",
+      "str_content": "别卷了",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298487,
+      "formatted_time": "2025-12-10 00:41:27",
+      "type": "文本消息",
+      "str_content": "我也不想",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298504,
+      "formatted_time": "2025-12-10 00:41:44",
+      "type": "文本消息",
+      "str_content": "明天还得去你们学院当志愿者",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298516,
+      "formatted_time": "2025-12-10 00:41:56",
+      "type": "文本消息",
+      "str_content": "啥的",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298545,
+      "formatted_time": "2025-12-10 00:42:25",
+      "type": "文本消息",
+      "str_content": "我想想",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298593,
+      "formatted_time": "2025-12-10 00:43:13",
+      "type": "文本消息",
+      "str_content": "北大汇丰-剑桥嘉治全球创新创业大赛决赛系列活动志愿者招募\n时间：12月10日-11日（可根据时间段进行选择）\n地点：汇丰商学院\n招募数量：北大汇丰加速营：1人、半决赛：12人、总决赛：12人\n待遇：志愿者时长认证；可现场学习多赛道多领域最新创业趋势。\n与会嘉宾有：60个晋级半决赛的创业项目团队、100+家创投机构代表、行业领军企业创始人等。总计千人规模。",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298596,
+      "formatted_time": "2025-12-10 00:43:16",
+      "type": "文本消息",
+      "str_content": "这个",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298630,
+      "formatted_time": "2025-12-10 00:43:50",
+      "type": "文本消息",
+      "str_content": "你真积极",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298649,
+      "formatted_time": "2025-12-10 00:44:09",
+      "type": "文本消息",
+      "str_content": "目前我还没参加过任何一场这种志愿者活动",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298666,
+      "formatted_time": "2025-12-10 00:44:26",
+      "type": "文本消息",
+      "str_content": "顺便干自己事呗",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298669,
+      "formatted_time": "2025-12-10 00:44:29",
+      "type": "文本消息",
+      "str_content": "害",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298673,
+      "formatted_time": "2025-12-10 00:44:33",
+      "type": "文本消息",
+      "str_content": "刷一下时长",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298682,
+      "formatted_time": "2025-12-10 00:44:42",
+      "type": "文本消息",
+      "str_content": "有啥用",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298686,
+      "formatted_time": "2025-12-10 00:44:46",
+      "type": "文本消息",
+      "str_content": "你没入党吗",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298701,
+      "formatted_time": "2025-12-10 00:45:01",
+      "type": "文本消息",
+      "str_content": "评优",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298706,
+      "formatted_time": "2025-12-10 00:45:06",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298711,
+      "formatted_time": "2025-12-10 00:45:11",
+      "type": "文本消息",
+      "str_content": "我们要40h",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298713,
+      "formatted_time": "2025-12-10 00:45:13",
+      "type": "文本消息",
+      "str_content": "才能满",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298721,
+      "formatted_time": "2025-12-10 00:45:21",
+      "type": "文本消息",
+      "str_content": "[撇嘴]",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298723,
+      "formatted_time": "2025-12-10 00:45:23",
+      "type": "文本消息",
+      "str_content": "然后还缺篇paper",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298728,
+      "formatted_time": "2025-12-10 00:45:28",
+      "type": "文本消息",
+      "str_content": "压力老大",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298731,
+      "formatted_time": "2025-12-10 00:45:31",
+      "type": "文本消息",
+      "str_content": "你们卷吧卷吧",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298752,
+      "formatted_time": "2025-12-10 00:45:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298753,
+      "formatted_time": "2025-12-10 00:45:53",
+      "type": "文本消息",
+      "str_content": "吓人",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765298758,
+      "formatted_time": "2025-12-10 00:45:58",
+      "type": "文本消息",
+      "str_content": "感觉",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298760,
+      "formatted_time": "2025-12-10 00:46:00",
+      "type": "文本消息",
+      "str_content": "试试吧",
+      "sender_name": "李金时"
+    },
+    {
+      "create_time": 1765298765,
+      "formatted_time": "2025-12-10 00:46:05",
+      "type": "文本消息",
+      "str_content": "不行后面实习去了",
       "sender_name": "李金时"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
-  "message_count": 99
+  "export_time": "2025-12-13T14:57:48+08:00",
+  "message_count": 166
 }

@@ -6,7 +6,7 @@
       "create_time": 1761318300,
       "formatted_time": "2025-10-24 23:05:00",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "陈沛阳"
     },
     {
@@ -78,8 +78,71 @@
       "type": "文本消息",
       "str_content": "嗯嗯！",
       "sender_name": "自己"
+    },
+    {
+      "create_time": 1765288774,
+      "formatted_time": "2025-12-09 21:59:34",
+      "type": "文本消息",
+      "str_content": "沛阳哥，向您汇报下，我在昨天的换届里有幸当选了深港的会长！师兄当时在回家吃饭时给我的指导，这种在深港收获的家的温暖就是支撑我竞选的原因和底气，我一定会努力做好工作，让深港越来越好！\n（对不起师兄这两天忙昏头了[流泪]现在才来向师兄汇报",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765289200,
+      "formatted_time": "2025-12-09 22:06:40",
+      "type": "文本消息",
+      "str_content": "恭喜恭喜呀！加油，一起和会长团把深港建设好[拳头][拳头][拳头]",
+      "sender_name": "陈沛阳"
+    },
+    {
+      "create_time": 1765289250,
+      "formatted_time": "2025-12-09 22:07:30",
+      "type": "文本消息",
+      "str_content": "嗯嗯！师兄当时给的分享和指导真的让我感受到了深港的温暖内核，我非常想要把这份内核传承下去！",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765289283,
+      "formatted_time": "2025-12-09 22:08:03",
+      "type": "文本消息",
+      "str_content": "之后多交流，加油[强][强][强]",
+      "sender_name": "陈沛阳"
+    },
+    {
+      "create_time": 1765289348,
+      "formatted_time": "2025-12-09 22:09:08",
+      "type": "文本消息",
+      "str_content": "嗯嗯！向沛阳师兄学习！\n以后等师兄有空了欢迎来回家吃饭呀！大家对师兄的经历和工作内容都很感兴趣的！！[呲牙]",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765289455,
+      "formatted_time": "2025-12-09 22:10:55",
+      "type": "文本消息",
+      "str_content": "好呀，没问题，有需要帮忙的可以随时问我们，2122这几级相对来说刚毕业没多久都很活跃积极[呲牙]",
+      "sender_name": "陈沛阳"
+    },
+    {
+      "create_time": 1765289617,
+      "formatted_time": "2025-12-09 22:13:37",
+      "type": "文本消息",
+      "str_content": "嗯嗯，沛阳师兄将是我们重点connect的对象[旺柴]！深港永远是各位会员的家！",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765290328,
+      "formatted_time": "2025-12-09 22:25:28",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "陈沛阳"
+    },
+    {
+      "create_time": 1765290341,
+      "formatted_time": "2025-12-09 22:25:41",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
-  "message_count": 11
+  "export_time": "2025-12-13T14:57:48+08:00",
+  "message_count": 20
 }

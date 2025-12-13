@@ -76,7 +76,7 @@
       "create_time": 1761847294,
       "formatted_time": "2025-10-31 02:01:34",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "自己"
     },
     {
@@ -223,7 +223,7 @@
       "create_time": 1762898618,
       "formatted_time": "2025-11-12 06:03:38",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "文飞扬"
     },
     {
@@ -251,7 +251,7 @@
       "create_time": 1762914660,
       "formatted_time": "2025-11-12 10:31:00",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -293,7 +293,7 @@
       "create_time": 1762915112,
       "formatted_time": "2025-11-12 10:38:32",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -356,7 +356,7 @@
       "create_time": 1762915211,
       "formatted_time": "2025-11-12 10:40:11",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "文飞扬"
     },
     {
@@ -391,7 +391,7 @@
       "create_time": 1762915291,
       "formatted_time": "2025-11-12 10:41:31",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -559,7 +559,7 @@
       "create_time": 1763002995,
       "formatted_time": "2025-11-13 11:03:15",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "文飞扬"
     },
     {
@@ -587,7 +587,7 @@
       "create_time": 1763003078,
       "formatted_time": "2025-11-13 11:04:38",
       "type": "名片消息",
-      "str_content": "[????]",
+      "str_content": "[名片消息]",
       "sender_name": "文飞扬"
     },
     {
@@ -615,14 +615,14 @@
       "create_time": 1763169018,
       "formatted_time": "2025-11-15 09:10:18",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "文飞扬"
     },
     {
       "create_time": 1763169019,
       "formatted_time": "2025-11-15 09:10:19",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "文飞扬"
     },
     {
@@ -727,7 +727,7 @@
       "create_time": 1763505870,
       "formatted_time": "2025-11-19 06:44:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "文飞扬"
     },
     {
@@ -745,6 +745,6 @@
       "sender_name": "文飞扬"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
+  "export_time": "2025-12-13T14:57:47+08:00",
   "message_count": 106
 }

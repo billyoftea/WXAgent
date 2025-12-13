@@ -6,14 +6,14 @@
       "create_time": 1742463639,
       "formatted_time": "2025-03-20 17:40:39",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "Zhipeng Xu"
     },
     {
       "create_time": 1742463665,
       "formatted_time": "2025-03-20 17:41:05",
       "type": "位置消息",
-      "str_content": "[????]",
+      "str_content": "[位置消息]",
       "sender_name": "Zhipeng Xu"
     },
     {
@@ -69,7 +69,7 @@
       "create_time": 1743038776,
       "formatted_time": "2025-03-27 09:26:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -83,7 +83,7 @@
       "create_time": 1743038783,
       "formatted_time": "2025-03-27 09:26:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -97,7 +97,7 @@
       "create_time": 1743038809,
       "formatted_time": "2025-03-27 09:26:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Zhipeng Xu"
     },
     {
@@ -108,6 +108,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 15
 }

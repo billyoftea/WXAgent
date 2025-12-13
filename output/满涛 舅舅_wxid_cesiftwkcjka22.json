@@ -13,7 +13,7 @@
       "create_time": 1688699669,
       "formatted_time": "2023-07-07 11:14:29",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "满涛 舅舅"
     },
     {
@@ -34,7 +34,7 @@
       "create_time": 1688700151,
       "formatted_time": "2023-07-07 11:22:31",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "自己"
     },
     {
@@ -59,6 +59,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 8
 }

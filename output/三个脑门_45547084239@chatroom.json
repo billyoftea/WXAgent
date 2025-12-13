@@ -6,7 +6,7 @@
       "create_time": 1684116644,
       "formatted_time": "2023-05-15 10:10:44",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "三个脑门",
       "sender_wxid": "45547084239@chatroom"
     },
@@ -22,7 +22,7 @@
       "create_time": 1684116646,
       "formatted_time": "2023-05-15 10:10:46",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈俞先",
       "sender_wxid": "wxid_jna4cpoj038l21"
     },
@@ -45,7 +45,7 @@
       "create_time": 1684116697,
       "formatted_time": "2023-05-15 10:11:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈俞先",
       "sender_wxid": "wxid_jna4cpoj038l21"
     },
@@ -61,7 +61,7 @@
       "create_time": 1684975782,
       "formatted_time": "2023-05-25 08:49:42",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "三个脑门",
       "sender_wxid": "45547084239@chatroom"
     },
@@ -138,7 +138,7 @@
       "create_time": 1685331162,
       "formatted_time": "2023-05-29 11:32:42",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "陈俞先",
       "sender_wxid": "wxid_jna4cpoj038l21"
     },
@@ -160,7 +160,7 @@
       "create_time": 1685331252,
       "formatted_time": "2023-05-29 11:34:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "陈俞先",
       "sender_wxid": "wxid_jna4cpoj038l21"
     },
@@ -189,6 +189,6 @@
       "sender_wxid": "wxid_jna4cpoj038l21"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 24
 }

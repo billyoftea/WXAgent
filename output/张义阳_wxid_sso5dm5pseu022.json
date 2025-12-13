@@ -1,0 +1,29 @@
+{
+  "session_id": "wxid_sso5dm5pseu022",
+  "session_name": "张义阳",
+  "messages": [
+    {
+      "create_time": 1765280170,
+      "formatted_time": "2025-12-09 19:36:10",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "sender_name": "张义阳"
+    },
+    {
+      "create_time": 1765280170,
+      "formatted_time": "2025-12-09 19:36:10",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "sender_name": "张义阳"
+    },
+    {
+      "create_time": 1765280176,
+      "formatted_time": "2025-12-09 19:36:16",
+      "type": "文本消息",
+      "str_content": "25金投张义阳",
+      "sender_name": "张义阳"
+    }
+  ],
+  "export_time": "2025-12-13T14:57:47+08:00",
+  "message_count": 3
+}

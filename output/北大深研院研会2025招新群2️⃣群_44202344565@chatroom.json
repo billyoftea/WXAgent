@@ -14,7 +14,7 @@
       "create_time": 1762323945,
       "formatted_time": "2025-11-05 14:25:45",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "白兰鸽",
       "sender_wxid": "wxid_a1stwqgzp57522"
     },
@@ -30,7 +30,7 @@
       "create_time": 1762481517,
       "formatted_time": "2025-11-07 10:11:57",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "woods",
       "sender_wxid": "wxid_dt9j2mpsjrjx22"
     },
@@ -46,7 +46,7 @@
       "create_time": 1762676285,
       "formatted_time": "2025-11-09 16:18:05",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "woods",
       "sender_wxid": "wxid_dt9j2mpsjrjx22"
     },
@@ -78,7 +78,7 @@
       "create_time": 1764413701,
       "formatted_time": "2025-11-29 18:55:01",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764422471,
@@ -89,6 +89,6 @@
       "sender_wxid": "wxid_pl5bag7kqn4h22"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
+  "export_time": "2025-12-13T14:57:47+08:00",
   "message_count": 11
 }

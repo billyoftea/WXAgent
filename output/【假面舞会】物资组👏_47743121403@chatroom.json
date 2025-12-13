@@ -139,7 +139,7 @@
       "create_time": 1763051111,
       "formatted_time": "2025-11-14 00:25:11",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "莫孜晗",
       "sender_wxid": "wxid_951jqdhhbgbm22"
     },
@@ -269,7 +269,7 @@
       "create_time": 1763083559,
       "formatted_time": "2025-11-14 09:25:59",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "综合事务部 李依若",
       "sender_wxid": "wxid_iiy5b3sjczog21"
     },
@@ -325,7 +325,7 @@
       "create_time": 1763120222,
       "formatted_time": "2025-11-14 19:37:02",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "匡浩鑫-25-经济",
       "sender_wxid": "wxid_vlj601697ps122"
     },
@@ -373,7 +373,7 @@
       "create_time": 1763196922,
       "formatted_time": "2025-11-15 16:55:22",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "李昱铭 25经济",
       "sender_wxid": "wxid_wt39r44ph7yu22"
     },
@@ -405,7 +405,7 @@
       "create_time": 1763199995,
       "formatted_time": "2025-11-15 17:46:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何奕霏 25经济",
       "sender_wxid": "wxid_8ojvcbh07ptd22"
     },
@@ -469,7 +469,7 @@
       "create_time": 1763352882,
       "formatted_time": "2025-11-17 12:14:42",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "南京大学王子垚",
       "sender_wxid": "wxid_owakf1ai15vf22"
     },
@@ -501,7 +501,7 @@
       "create_time": 1763383568,
       "formatted_time": "2025-11-17 20:46:08",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "莫孜晗",
       "sender_wxid": "wxid_951jqdhhbgbm22"
     },
@@ -603,7 +603,7 @@
       "create_time": 1763385214,
       "formatted_time": "2025-11-17 21:13:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李昱铭 25经济",
       "sender_wxid": "wxid_wt39r44ph7yu22"
     },
@@ -857,7 +857,7 @@
       "create_time": 1763537852,
       "formatted_time": "2025-11-19 15:37:32",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -871,14 +871,14 @@
       "create_time": 1763537859,
       "formatted_time": "2025-11-19 15:37:39",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
       "create_time": 1763538122,
       "formatted_time": "2025-11-19 15:42:02",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "莫孜晗",
       "sender_wxid": "wxid_951jqdhhbgbm22"
     },
@@ -918,7 +918,7 @@
       "create_time": 1763538659,
       "formatted_time": "2025-11-19 15:50:59",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -933,7 +933,7 @@
       "create_time": 1763539248,
       "formatted_time": "2025-11-19 16:00:48",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1763539258,
@@ -963,7 +963,7 @@
       "create_time": 1763539414,
       "formatted_time": "2025-11-19 16:03:34",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "南京大学王子垚",
       "sender_wxid": "wxid_owakf1ai15vf22"
     },
@@ -1026,7 +1026,7 @@
       "create_time": 1763628918,
       "formatted_time": "2025-11-20 16:55:18",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "匡浩鑫-25-经济",
       "sender_wxid": "wxid_vlj601697ps122"
     },
@@ -1218,7 +1218,7 @@
       "create_time": 1763700371,
       "formatted_time": "2025-11-21 12:46:11",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763700375,
@@ -1295,7 +1295,7 @@
       "create_time": 1763715344,
       "formatted_time": "2025-11-21 16:55:44",
       "type": "视频消息",
-      "str_content": "[????]",
+      "str_content": "[视频消息]",
       "sender": "自己"
     },
     {
@@ -1349,7 +1349,7 @@
       "create_time": 1763722784,
       "formatted_time": "2025-11-21 18:59:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "田唯佑",
       "sender_wxid": "wxid_4yxr3pemzv7i22"
     },
@@ -1357,7 +1357,7 @@
       "create_time": 1763722785,
       "formatted_time": "2025-11-21 18:59:45",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "田唯佑",
       "sender_wxid": "wxid_4yxr3pemzv7i22"
     },
@@ -1365,7 +1365,7 @@
       "create_time": 1763722786,
       "formatted_time": "2025-11-21 18:59:46",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "田唯佑",
       "sender_wxid": "wxid_4yxr3pemzv7i22"
     },
@@ -1453,7 +1453,7 @@
       "create_time": 1763806050,
       "formatted_time": "2025-11-22 18:07:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "南京大学王子垚",
       "sender_wxid": "wxid_owakf1ai15vf22"
     },
@@ -1549,7 +1549,7 @@
       "create_time": 1763811561,
       "formatted_time": "2025-11-22 19:39:21",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "社团管理部-南贤辰",
       "sender_wxid": "wxid_uv2e0v8tuuls22"
     },
@@ -1597,7 +1597,7 @@
       "create_time": 1764510721,
       "formatted_time": "2025-11-30 21:52:01",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "匡浩鑫-25-经济",
       "sender_wxid": "wxid_vlj601697ps122"
     },
@@ -1610,6 +1610,6 @@
       "sender_wxid": "wxid_vlj601697ps122"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
+  "export_time": "2025-12-13T14:57:47+08:00",
   "message_count": 204
 }

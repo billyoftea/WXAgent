@@ -6,7 +6,7 @@
       "create_time": 1701697575,
       "formatted_time": "2023-12-04 21:46:15",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "＊ A龙泉匠心刀剑"
     },
     {
@@ -76,7 +76,7 @@
       "create_time": 1703216610,
       "formatted_time": "2023-12-22 11:43:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -118,14 +118,14 @@
       "create_time": 1703216668,
       "formatted_time": "2023-12-22 11:44:28",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "＊ A龙泉匠心刀剑"
     },
     {
       "create_time": 1703220522,
       "formatted_time": "2023-12-22 12:48:42",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "＊ A龙泉匠心刀剑"
     },
     {
@@ -136,6 +136,6 @@
       "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:57+08:00",
+  "export_time": "2025-12-13T14:57:54+08:00",
   "message_count": 19
 }

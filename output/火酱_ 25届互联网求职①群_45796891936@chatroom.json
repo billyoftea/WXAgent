@@ -6,13 +6,13 @@
       "create_time": 1761202722,
       "formatted_time": "2025-10-23 14:58:42",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761202725,
       "formatted_time": "2025-10-23 14:58:45",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "火酱 （沉浸学习版）",
       "sender_wxid": "wxid_qcydu0a4ex1p29"
     },
@@ -36,7 +36,7 @@
       "create_time": 1761364259,
       "formatted_time": "2025-10-25 11:50:59",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "火酱 （沉浸学习版）",
       "sender_wxid": "wxid_qcydu0a4ex1p29"
     },
@@ -52,7 +52,7 @@
       "create_time": 1761889513,
       "formatted_time": "2025-10-31 13:45:13",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "火酱 （沉浸学习版）",
       "sender_wxid": "wxid_qcydu0a4ex1p29"
     },
@@ -108,7 +108,7 @@
       "create_time": 1762697181,
       "formatted_time": "2025-11-09 22:06:21",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "火酱小助手",
       "sender_wxid": "wxid_frmiuk8muap312"
     },
@@ -229,8 +229,24 @@
       "str_content": "@所有人 火酱·25年度吐槽大会，嘉宾火热招募啦！\n\n🙋 25届刚入职的你们，过的还好吗？\n不管你是满肚子职场槽点想疯狂输出的“吐槽达人”——被画饼、遇内卷、踩过坑、扛过雷，\n还是对职场有独到见解的“清醒选手”——看透行业规则、放弃大厂光环投入中小厂的幸福怀抱，或是探讨如何打造理想职场模样，都欢迎来和我们相聚！\n\n火酱的麦克风🎤 已就位，大胆开麦畅所欲言！\n🕗开麦时间：12月20日晚八点\n🌿报名截至：12月10日晚八点\n✍️感兴趣的小伙伴速戳问卷报名：https://wj.qq.com/s2/25080255/43e1/，小助手会在1周内联系你～ \n所有开麦嘉宾都能解锁神秘惊喜🎁，快来一起碰撞观点、交新朋友、释放情绪呀～",
       "sender_name": "火酱小助手",
       "sender_wxid": "wxid_frmiuk8muap312"
+    },
+    {
+      "create_time": 1765449893,
+      "formatted_time": "2025-12-11 18:44:53",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "sender_name": "火酱小助手",
+      "sender_wxid": "wxid_frmiuk8muap312"
+    },
+    {
+      "create_time": 1765449894,
+      "formatted_time": "2025-12-11 18:44:54",
+      "type": "文本消息",
+      "str_content": "吐槽大会嘉宾招募倒计时！还有小伙伴一起来开麦吐槽的吗🥳 填写问卷报名：https://wj.qq.com/s2/25080255/43e1/，小助理会在一周内联系你~",
+      "sender_name": "火酱小助手",
+      "sender_wxid": "wxid_frmiuk8muap312"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
-  "message_count": 29
+  "export_time": "2025-12-13T14:57:48+08:00",
+  "message_count": 31
 }

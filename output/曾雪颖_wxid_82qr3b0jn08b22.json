@@ -13,14 +13,14 @@
       "create_time": 1678099296,
       "formatted_time": "2023-03-06 18:41:36",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
       "create_time": 1678099322,
       "formatted_time": "2023-03-06 18:42:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "曾雪颖"
     },
     {
@@ -237,7 +237,7 @@
       "create_time": 1680246483,
       "formatted_time": "2023-03-31 15:08:03",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -258,7 +258,7 @@
       "create_time": 1680246668,
       "formatted_time": "2023-03-31 15:11:08",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -314,7 +314,7 @@
       "create_time": 1693110096,
       "formatted_time": "2023-08-27 12:21:36",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "曾雪颖"
     },
     {
@@ -356,14 +356,14 @@
       "create_time": 1693198405,
       "formatted_time": "2023-08-28 12:53:25",
       "type": "语音消息",
-      "str_content": "[????]",
+      "str_content": "[语音消息]",
       "sender_name": "曾雪颖"
     },
     {
       "create_time": 1693198408,
       "formatted_time": "2023-08-28 12:53:28",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "曾雪颖"
     },
     {
@@ -384,10 +384,10 @@
       "create_time": 1693200231,
       "formatted_time": "2023-08-28 13:23:51",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "曾雪颖"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 55
 }

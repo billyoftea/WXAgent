@@ -6,13 +6,13 @@
       "create_time": 1678200051,
       "formatted_time": "2023-03-07 22:40:51",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1678200051,
       "formatted_time": "2023-03-07 22:40:51",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1678200051,
@@ -95,13 +95,13 @@
       "create_time": 1678283619,
       "formatted_time": "2023-03-08 21:53:39",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1678283627,
       "formatted_time": "2023-03-08 21:53:47",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1678284674,
@@ -123,7 +123,7 @@
       "create_time": 1678284807,
       "formatted_time": "2023-03-08 22:13:27",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1678284810,
@@ -137,7 +137,7 @@
       "create_time": 1678284819,
       "formatted_time": "2023-03-08 22:13:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "宋晨茹",
       "sender_wxid": "wxid_g9j7pe44hk9u22"
     },
@@ -153,13 +153,13 @@
       "create_time": 1678284912,
       "formatted_time": "2023-03-08 22:15:12",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1678284912,
       "formatted_time": "2023-03-08 22:15:12",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1678284950,
@@ -173,7 +173,7 @@
       "create_time": 1678285016,
       "formatted_time": "2023-03-08 22:16:56",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1678285143,
@@ -219,7 +219,7 @@
       "create_time": 1678285554,
       "formatted_time": "2023-03-08 22:25:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "宋晨茹",
       "sender_wxid": "wxid_g9j7pe44hk9u22"
     },
@@ -251,7 +251,7 @@
       "create_time": 1678285742,
       "formatted_time": "2023-03-08 22:29:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "宋晨茹",
       "sender_wxid": "wxid_g9j7pe44hk9u22"
     },
@@ -283,7 +283,7 @@
       "create_time": 1678286592,
       "formatted_time": "2023-03-08 22:43:12",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -369,7 +369,7 @@
       "create_time": 1678287609,
       "formatted_time": "2023-03-08 23:00:09",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "宋晨茹",
       "sender_wxid": "wxid_g9j7pe44hk9u22"
     },
@@ -401,7 +401,7 @@
       "create_time": 1678980414,
       "formatted_time": "2023-03-16 23:26:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张晨阳",
       "sender_wxid": "wxid_d08bx8v5plqf22"
     },
@@ -497,11 +497,11 @@
       "create_time": 1690721093,
       "formatted_time": "2023-07-30 20:44:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "丰驰",
       "sender_wxid": "wxid_z5jxiw1icjdv22"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 65
 }

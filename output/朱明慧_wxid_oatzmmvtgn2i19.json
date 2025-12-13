@@ -69,7 +69,7 @@
       "create_time": 1746933357,
       "formatted_time": "2025-05-11 11:15:57",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -132,7 +132,7 @@
       "create_time": 1747055832,
       "formatted_time": "2025-05-12 21:17:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "自己"
     },
     {
@@ -150,6 +150,6 @@
       "sender_name": "朱明慧"
     }
   ],
-  "export_time": "2025-12-07T09:58:55+08:00",
+  "export_time": "2025-12-13T14:57:52+08:00",
   "message_count": 21
 }

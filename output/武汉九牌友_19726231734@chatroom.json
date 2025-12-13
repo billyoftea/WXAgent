@@ -30,7 +30,7 @@
       "create_time": 1651059131,
       "formatted_time": "2022-04-27 19:32:11",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1651059131,
@@ -52,7 +52,7 @@
       "create_time": 1651059138,
       "formatted_time": "2022-04-27 19:32:18",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "洪晨昱",
       "sender_wxid": "wxid_np8das2wf6t111"
     },
@@ -68,7 +68,7 @@
       "create_time": 1651059156,
       "formatted_time": "2022-04-27 19:32:36",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "张陈玥",
       "sender_wxid": "wxid_za5k9k8p2trb22"
     },
@@ -100,13 +100,13 @@
       "create_time": 1651059265,
       "formatted_time": "2022-04-27 19:34:25",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1651059268,
       "formatted_time": "2022-04-27 19:34:28",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1651059271,
@@ -165,7 +165,7 @@
       "create_time": 1651059457,
       "formatted_time": "2022-04-27 19:37:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -246,7 +246,7 @@
       "create_time": 1651059635,
       "formatted_time": "2022-04-27 19:40:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -261,7 +261,7 @@
       "create_time": 1651059652,
       "formatted_time": "2022-04-27 19:40:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "洪晨昱",
       "sender_wxid": "wxid_np8das2wf6t111"
     },
@@ -315,7 +315,7 @@
       "create_time": 1651059934,
       "formatted_time": "2022-04-27 19:45:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Bryce",
       "sender_wxid": "wxid_39exkdnb5xhb22"
     },
@@ -331,7 +331,7 @@
       "create_time": 1651059943,
       "formatted_time": "2022-04-27 19:45:43",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Bryce",
       "sender_wxid": "wxid_39exkdnb5xhb22"
     },
@@ -370,7 +370,7 @@
       "create_time": 1651059963,
       "formatted_time": "2022-04-27 19:46:03",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1651059968,
@@ -400,7 +400,7 @@
       "create_time": 1651059997,
       "formatted_time": "2022-04-27 19:46:37",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Bryce",
       "sender_wxid": "wxid_39exkdnb5xhb22"
     },
@@ -423,7 +423,7 @@
       "create_time": 1651060005,
       "formatted_time": "2022-04-27 19:46:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -460,7 +460,7 @@
       "create_time": 1651060079,
       "formatted_time": "2022-04-27 19:47:59",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "洪晨昱",
       "sender_wxid": "wxid_np8das2wf6t111"
     },
@@ -543,7 +543,7 @@
       "create_time": 1652972786,
       "formatted_time": "2022-05-19 23:06:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "谭金盔",
       "sender_wxid": "wxid_a3j8u14z5o6w22"
     },
@@ -567,7 +567,7 @@
       "create_time": 1653115440,
       "formatted_time": "2022-05-21 14:44:00",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "谭金盔",
       "sender_wxid": "wxid_a3j8u14z5o6w22"
     },
@@ -575,7 +575,7 @@
       "create_time": 1653115446,
       "formatted_time": "2022-05-21 14:44:06",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "谭金盔",
       "sender_wxid": "wxid_a3j8u14z5o6w22"
     },
@@ -591,7 +591,7 @@
       "create_time": 1653115461,
       "formatted_time": "2022-05-21 14:44:21",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "谭金盔",
       "sender_wxid": "wxid_a3j8u14z5o6w22"
     },
@@ -679,7 +679,7 @@
       "create_time": 1653375984,
       "formatted_time": "2022-05-24 15:06:24",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "谭金盔",
       "sender_wxid": "wxid_a3j8u14z5o6w22"
     },
@@ -719,7 +719,7 @@
       "create_time": 1653377169,
       "formatted_time": "2022-05-24 15:26:09",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1653377176,
@@ -789,7 +789,7 @@
       "create_time": 1662088308,
       "formatted_time": "2022-09-02 11:11:48",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "RAIN",
       "sender_wxid": "wxid_mduqcr9vpd3111"
     },
@@ -797,7 +797,7 @@
       "create_time": 1662088479,
       "formatted_time": "2022-09-02 11:14:39",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "谭金盔",
       "sender_wxid": "wxid_a3j8u14z5o6w22"
     },
@@ -805,7 +805,7 @@
       "create_time": 1662088631,
       "formatted_time": "2022-09-02 11:17:11",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "RAIN",
       "sender_wxid": "wxid_mduqcr9vpd3111"
     },
@@ -850,6 +850,6 @@
       "sender_wxid": "wxid_a3j8u14z5o6w22"
     }
   ],
-  "export_time": "2025-12-07T09:58:59+08:00",
+  "export_time": "2025-12-13T14:57:57+08:00",
   "message_count": 110
 }

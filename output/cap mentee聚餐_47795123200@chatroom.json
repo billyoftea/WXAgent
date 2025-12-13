@@ -6,7 +6,7 @@
       "create_time": 1762598879,
       "formatted_time": "2025-11-08 18:47:59",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762598879,
@@ -44,7 +44,7 @@
       "create_time": 1762598907,
       "formatted_time": "2025-11-08 18:48:27",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "潘禹伯",
       "sender_wxid": "wxid_vm19qo0qrnpg22"
     },
@@ -52,7 +52,7 @@
       "create_time": 1762599417,
       "formatted_time": "2025-11-08 18:56:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "潘禹伯",
       "sender_wxid": "wxid_vm19qo0qrnpg22"
     },
@@ -107,7 +107,7 @@
       "create_time": 1762599838,
       "formatted_time": "2025-11-08 19:03:58",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "25管理王俊骁",
       "sender_wxid": "wxid_xjicn6b50utq22"
     },
@@ -155,7 +155,7 @@
       "create_time": 1762613656,
       "formatted_time": "2025-11-08 22:54:16",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "25管理 王振轩",
       "sender_wxid": "wxid_ol3zb6jnx3gj22"
     },
@@ -195,7 +195,7 @@
       "create_time": 1762613975,
       "formatted_time": "2025-11-08 22:59:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "潘禹伯",
       "sender_wxid": "wxid_vm19qo0qrnpg22"
     },
@@ -233,7 +233,7 @@
       "create_time": 1762927970,
       "formatted_time": "2025-11-12 14:12:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "潘禹伯",
       "sender_wxid": "wxid_vm19qo0qrnpg22"
     },
@@ -241,7 +241,7 @@
       "create_time": 1762928026,
       "formatted_time": "2025-11-12 14:13:46",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "25管理王俊骁",
       "sender_wxid": "wxid_xjicn6b50utq22"
     },
@@ -335,7 +335,7 @@
       "create_time": 1763193714,
       "formatted_time": "2025-11-15 16:01:54",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "潘禹伯",
       "sender_wxid": "wxid_vm19qo0qrnpg22"
     },
@@ -351,7 +351,7 @@
       "create_time": 1764319697,
       "formatted_time": "2025-11-28 16:48:17",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "潘禹伯",
       "sender_wxid": "wxid_vm19qo0qrnpg22"
     },
@@ -383,7 +383,7 @@
       "create_time": 1764319713,
       "formatted_time": "2025-11-28 16:48:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "潘禹伯",
       "sender_wxid": "wxid_vm19qo0qrnpg22"
     },
@@ -427,6 +427,6 @@
       "sender_wxid": "wxid_ol3zb6jnx3gj22"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
+  "export_time": "2025-12-13T14:57:47+08:00",
   "message_count": 54
 }

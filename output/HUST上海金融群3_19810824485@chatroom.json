@@ -6,25 +6,25 @@
       "create_time": 1761796188,
       "formatted_time": "2025-10-30 11:49:48",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761800560,
       "formatted_time": "2025-10-30 13:02:40",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761800560,
       "formatted_time": "2025-10-30 13:02:40",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762076932,
       "formatted_time": "2025-11-02 17:48:52",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "刘军",
       "sender_wxid": "wxid_1e4hlstfvqih22"
     },
@@ -46,7 +46,7 @@
       "create_time": 1763125224,
       "formatted_time": "2025-11-14 21:00:24",
       "type": "视频号直播卡片",
-      "str_content": "[?????]"
+      "str_content": "[视频号直播]"
     },
     {
       "create_time": 1763889142,
@@ -58,13 +58,13 @@
       "create_time": 1763889143,
       "formatted_time": "2025-11-23 17:12:23",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1763954661,
       "formatted_time": "2025-11-24 11:24:21",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763954897,
@@ -78,7 +78,7 @@
       "create_time": 1763954933,
       "formatted_time": "2025-11-24 11:28:53",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1763954977,
@@ -180,7 +180,7 @@
       "create_time": 1764169034,
       "formatted_time": "2025-11-26 22:57:14",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "刘军",
       "sender_wxid": "wxid_1e4hlstfvqih22"
     },
@@ -220,7 +220,7 @@
       "create_time": 1764169469,
       "formatted_time": "2025-11-26 23:04:29",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "丁双",
       "sender_wxid": "wxid_9ai8b2iyxf3e22"
     },
@@ -236,7 +236,7 @@
       "create_time": 1764169969,
       "formatted_time": "2025-11-26 23:12:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "刘军",
       "sender_wxid": "wxid_1e4hlstfvqih22"
     },
@@ -255,8 +255,242 @@
       "str_content": "各位大佬赚到的钱，可以找我来规划保障和传承[破涕为笑]",
       "sender_name": "丁双",
       "sender_wxid": "wxid_9ai8b2iyxf3e22"
+    },
+    {
+      "create_time": 1765367722,
+      "formatted_time": "2025-12-10 19:55:22",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765367722,
+      "formatted_time": "2025-12-10 19:55:22",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765368475,
+      "formatted_time": "2025-12-10 20:07:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765369026,
+      "formatted_time": "2025-12-10 20:17:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1765370576,
+      "formatted_time": "2025-12-10 20:42:56",
+      "type": "文本消息",
+      "str_content": "hairuo2008:\n向各位报个到，华科06级软件本，北大10级软件硕。目前在广发证券投行，主要做A股/港股IPO，再融资，并购重组，pre IPO投融资等业务。之前在中信证券投行北京，一直从事投行业务，主要看消费、智能制造、化工新材料方向。各位校友们多互动交流[玫瑰][玫瑰]"
+    },
+    {
+      "create_time": 1765370681,
+      "formatted_time": "2025-12-10 20:44:41",
+      "type": "红包卡片",
+      "str_content": "[红包]"
+    },
+    {
+      "create_time": 1765370951,
+      "formatted_time": "2025-12-10 20:49:11",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "Tiger_虎",
+      "sender_wxid": "wxid_4yeqqdyvbp6c21"
+    },
+    {
+      "create_time": 1765371013,
+      "formatted_time": "2025-12-10 20:50:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]"
+    },
+    {
+      "create_time": 1765371091,
+      "formatted_time": "2025-12-10 20:51:31",
+      "type": "文本消息",
+      "str_content": "👏👏",
+      "sender_name": "0·0",
+      "sender_wxid": "wxid_qzbjzcmhdk4h22"
+    },
+    {
+      "create_time": 1765371308,
+      "formatted_time": "2025-12-10 20:55:08",
+      "type": "文本消息",
+      "str_content": "欢迎👏",
+      "sender_name": "黎星LX",
+      "sender_wxid": "wxid_akszy6wfpdft22"
+    },
+    {
+      "create_time": 1765371350,
+      "formatted_time": "2025-12-10 20:55:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1765371361,
+      "formatted_time": "2025-12-10 20:56:01",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1765372183,
+      "formatted_time": "2025-12-10 21:09:43",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "水木年华",
+      "sender_wxid": "wxid_be6bt8bnygne12"
+    },
+    {
+      "create_time": 1765372208,
+      "formatted_time": "2025-12-10 21:10:08",
+      "type": "文本消息",
+      "str_content": "liudongpianhao:\n这后生有前途[强]"
+    },
+    {
+      "create_time": 1765372245,
+      "formatted_time": "2025-12-10 21:10:45",
+      "type": "文本消息",
+      "str_content": "liudongpianhao:\n吃个席吧"
+    },
+    {
+      "create_time": 1765372245,
+      "formatted_time": "2025-12-10 21:10:45",
+      "type": "图片消息",
+      "str_content": "[图片消息]"
+    },
+    {
+      "create_time": 1765372333,
+      "formatted_time": "2025-12-10 21:12:13",
+      "type": "引用消息",
+      "str_content": "这个厉害，千亿市值的饭局[偷笑]"
+    },
+    {
+      "create_time": 1765372534,
+      "formatted_time": "2025-12-10 21:15:34",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n[烟花]"
+    },
+    {
+      "create_time": 1765372546,
+      "formatted_time": "2025-12-10 21:15:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1765372548,
+      "formatted_time": "2025-12-10 21:15:48",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n罗振宇原来是华科90级新闻系的"
+    },
+    {
+      "create_time": 1765372548,
+      "formatted_time": "2025-12-10 21:15:48",
+      "type": "微信小程序",
+      "str_content": "微信小程序"
+    },
+    {
+      "create_time": 1765372605,
+      "formatted_time": "2025-12-10 21:16:45",
+      "type": "引用消息",
+      "str_content": "错过几个亿"
+    },
+    {
+      "create_time": 1765372674,
+      "formatted_time": "2025-12-10 21:17:54",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n高大上的bibg"
+    },
+    {
+      "create_time": 1765372680,
+      "formatted_time": "2025-12-10 21:18:00",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n并购重组"
+    },
+    {
+      "create_time": 1765373527,
+      "formatted_time": "2025-12-10 21:32:07",
+      "type": "文本消息",
+      "str_content": "hairuo2008:\n@陈进-96-房地产 陈师兄搞地产的大牛，回头组织交流下业务，聊聊天打打掼蛋[偷笑]"
+    },
+    {
+      "create_time": 1765373631,
+      "formatted_time": "2025-12-10 21:33:51",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n地产行业败落了，等你财大气粗的证券公司组织校友会[憨笑]"
+    },
+    {
+      "create_time": 1765373753,
+      "formatted_time": "2025-12-10 21:35:53",
+      "type": "文本消息",
+      "str_content": "hairuo2008:\n我们最近在筹备软件学院上海校友会，预计春节后成立大会，欢迎各位大佬捧场[握手]"
+    },
+    {
+      "create_time": 1765373832,
+      "formatted_time": "2025-12-10 21:37:12",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n软件学院听起来就牛逼"
+    },
+    {
+      "create_time": 1765373847,
+      "formatted_time": "2025-12-10 21:37:27",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n和信息学院一样"
+    },
+    {
+      "create_time": 1765374768,
+      "formatted_time": "2025-12-10 21:52:48",
+      "type": "文本消息",
+      "str_content": "@李剑-软件06本-投行 欢迎欢迎👏👏",
+      "sender_name": "AIA陈益军",
+      "sender_wxid": "wxid_26f603edgoi412"
+    },
+    {
+      "create_time": 1765529987,
+      "formatted_time": "2025-12-12 16:59:47",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1765530005,
+      "formatted_time": "2025-12-12 17:00:05",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
+    },
+    {
+      "create_time": 1765530863,
+      "formatted_time": "2025-12-12 17:14:23",
+      "type": "图文消息",
+      "str_content": "致华科软件人：软件定义世界，智能引领未来",
+      "sender_name": "Andy🌺",
+      "sender_wxid": "wxid_w0bzogyqlp9k22"
+    },
+    {
+      "create_time": 1765531108,
+      "formatted_time": "2025-12-12 17:18:28",
+      "type": "引用消息",
+      "str_content": "加入软件分会详情如上～",
+      "sender_name": "Andy🌺",
+      "sender_wxid": "wxid_w0bzogyqlp9k22"
+    },
+    {
+      "create_time": 1765531659,
+      "formatted_time": "2025-12-12 17:27:39",
+      "type": "文本消息",
+      "str_content": "hairuo2008:\n[呲牙][强][强]"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
-  "message_count": 37
+  "export_time": "2025-12-13T14:57:47+08:00",
+  "message_count": 72
 }

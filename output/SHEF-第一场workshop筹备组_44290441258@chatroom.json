@@ -6,7 +6,7 @@
       "create_time": 1761060753,
       "formatted_time": "2025-10-21 23:32:33",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -14,21 +14,21 @@
       "create_time": 1761060811,
       "formatted_time": "2025-10-21 23:33:31",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
       "create_time": 1761060814,
       "formatted_time": "2025-10-21 23:33:34",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender": "自己"
     },
     {
       "create_time": 1761127373,
       "formatted_time": "2025-10-22 18:02:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender": "自己"
     },
     {
@@ -65,7 +65,7 @@
       "create_time": 1761127732,
       "formatted_time": "2025-10-22 18:08:52",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1761127873,
@@ -272,7 +272,7 @@
       "create_time": 1761135220,
       "formatted_time": "2025-10-22 20:13:40",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -317,7 +317,7 @@
       "create_time": 1761143633,
       "formatted_time": "2025-10-22 22:33:53",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -357,7 +357,7 @@
       "create_time": 1761205292,
       "formatted_time": "2025-10-23 15:41:32",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -381,7 +381,7 @@
       "create_time": 1761205309,
       "formatted_time": "2025-10-23 15:41:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "何宇淳",
       "sender_wxid": "wxid_1j5h9d7rtxrr22"
     },
@@ -426,7 +426,7 @@
       "create_time": 1761208110,
       "formatted_time": "2025-10-23 16:28:30",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender": "自己"
     },
     {
@@ -444,6 +444,6 @@
       "sender": "自己"
     }
   ],
-  "export_time": "2025-12-07T09:58:51+08:00",
+  "export_time": "2025-12-13T14:57:47+08:00",
   "message_count": 58
 }

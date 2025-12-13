@@ -50,7 +50,7 @@
       "create_time": 1761304225,
       "formatted_time": "2025-10-24 19:10:25",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "向杜春",
       "sender_wxid": "wxid_6713537136612"
     },
@@ -58,7 +58,7 @@
       "create_time": 1761304231,
       "formatted_time": "2025-10-24 19:10:31",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "向杜春",
       "sender_wxid": "wxid_6713537136612"
     },
@@ -90,7 +90,7 @@
       "create_time": 1761612304,
       "formatted_time": "2025-10-28 08:45:04",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "LLLH",
       "sender_wxid": "wxid_tkfcwxt232u021"
     },
@@ -98,7 +98,7 @@
       "create_time": 1761658681,
       "formatted_time": "2025-10-28 21:38:01",
       "type": "视频号直播卡片",
-      "str_content": "[?????]",
+      "str_content": "[视频号直播]",
       "sender_name": "Lee",
       "sender_wxid": "wxid_q7be0zx14qft21"
     },
@@ -122,13 +122,13 @@
       "create_time": 1761659403,
       "formatted_time": "2025-10-28 21:50:03",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1761708344,
       "formatted_time": "2025-10-29 11:25:44",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "向杜春",
       "sender_wxid": "wxid_6713537136612"
     },
@@ -144,7 +144,7 @@
       "create_time": 1761781043,
       "formatted_time": "2025-10-30 07:37:23",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "Lee",
       "sender_wxid": "wxid_q7be0zx14qft21"
     },
@@ -208,7 +208,7 @@
       "create_time": 1761884605,
       "formatted_time": "2025-10-31 12:23:25",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "吕和薇",
       "sender_wxid": "wxid_b1jjjv85wnwo22"
     },
@@ -288,25 +288,25 @@
       "create_time": 1762067666,
       "formatted_time": "2025-11-02 15:14:26",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762067705,
       "formatted_time": "2025-11-02 15:15:05",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762067784,
       "formatted_time": "2025-11-02 15:16:24",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762069100,
       "formatted_time": "2025-11-02 15:38:20",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762132724,
@@ -328,7 +328,7 @@
       "create_time": 1762145183,
       "formatted_time": "2025-11-03 12:46:23",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762145199,
@@ -342,7 +342,7 @@
       "create_time": 1762145209,
       "formatted_time": "2025-11-03 12:46:49",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "彭德辉 25企管",
       "sender_wxid": "wxid_rqkli2urrd2i22"
     },
@@ -350,7 +350,7 @@
       "create_time": 1762145292,
       "formatted_time": "2025-11-03 12:48:12",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "贸大经济统计郭嘉芸",
       "sender_wxid": "wxid_ua0a66ecbept22"
     },
@@ -358,13 +358,13 @@
       "create_time": 1762145299,
       "formatted_time": "2025-11-03 12:48:19",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762145330,
       "formatted_time": "2025-11-03 12:48:50",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "付翔",
       "sender_wxid": "wxid_1nfuwfbrggz632"
     },
@@ -372,7 +372,7 @@
       "create_time": 1762145342,
       "formatted_time": "2025-11-03 12:49:02",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "曾瑞云-人大-管双",
       "sender_wxid": "wxid_rddyvgfqudgc22"
     },
@@ -388,7 +388,7 @@
       "create_time": 1762145699,
       "formatted_time": "2025-11-03 12:54:59",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762234040,
@@ -402,7 +402,7 @@
       "create_time": 1762234653,
       "formatted_time": "2025-11-04 13:37:33",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "金投 林晶莹",
       "sender_wxid": "wxid_pj7k6lric7gt11"
     },
@@ -410,7 +410,7 @@
       "create_time": 1762234681,
       "formatted_time": "2025-11-04 13:38:01",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "徐文杰",
       "sender_wxid": "wxid_b7vb1dipn8xh22"
     },
@@ -418,7 +418,7 @@
       "create_time": 1762234702,
       "formatted_time": "2025-11-04 13:38:22",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "318谢承熙",
       "sender_wxid": "wxid_62sk2sd9a6vf22"
     },
@@ -432,7 +432,7 @@
       "create_time": 1762236660,
       "formatted_time": "2025-11-04 14:11:00",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "安奕敏",
       "sender_wxid": "wxid_4wzu840axdcy22"
     },
@@ -465,7 +465,7 @@
       "formatted_time": "2025-11-06 17:03:30",
       "type": "文本消息",
       "str_content": "已更新，谢谢老师",
-      "sender_name": "zh1-young",
+      "sender_name": "张义阳",
       "sender_wxid": "wxid_sso5dm5pseu022"
     },
     {
@@ -512,13 +512,13 @@
       "create_time": 1762489467,
       "formatted_time": "2025-11-07 12:24:27",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762489468,
       "formatted_time": "2025-11-07 12:24:28",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762589953,
@@ -548,19 +548,19 @@
       "create_time": 1762780382,
       "formatted_time": "2025-11-10 21:13:02",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762780524,
       "formatted_time": "2025-11-10 21:15:24",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762782418,
       "formatted_time": "2025-11-10 21:46:58",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762824582,
@@ -574,31 +574,31 @@
       "create_time": 1762832325,
       "formatted_time": "2025-11-11 11:38:45",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762832780,
       "formatted_time": "2025-11-11 11:46:20",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762832801,
       "formatted_time": "2025-11-11 11:46:41",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762834082,
       "formatted_time": "2025-11-11 12:08:02",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762834189,
       "formatted_time": "2025-11-11 12:09:49",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1762856391,
@@ -612,7 +612,7 @@
       "create_time": 1762856541,
       "formatted_time": "2025-11-11 18:22:21",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "吴昊 25 财新",
       "sender_wxid": "wxid_5j38ptvh87b622"
     },
@@ -620,7 +620,7 @@
       "create_time": 1762856551,
       "formatted_time": "2025-11-11 18:22:31",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "任凯-24-金科",
       "sender_wxid": "wxid_ecsq8qhtiwy312"
     },
@@ -628,13 +628,13 @@
       "create_time": 1762856603,
       "formatted_time": "2025-11-11 18:23:23",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1762856742,
       "formatted_time": "2025-11-11 18:25:42",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "黄紫凌",
       "sender_wxid": "wxid_xbj4mnsuhk2222"
     },
@@ -642,7 +642,7 @@
       "create_time": 1762856846,
       "formatted_time": "2025-11-11 18:27:26",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "邹天宇 25 金管",
       "sender_wxid": "wxid_ya0msu1r13jh11"
     },
@@ -690,13 +690,13 @@
       "create_time": 1762942505,
       "formatted_time": "2025-11-12 18:15:05",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1762942518,
       "formatted_time": "2025-11-12 18:15:18",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1763018572,
@@ -718,7 +718,7 @@
       "create_time": 1763109822,
       "formatted_time": "2025-11-14 16:43:42",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "向杜春",
       "sender_wxid": "wxid_6713537136612"
     },
@@ -750,7 +750,7 @@
       "create_time": 1764307938,
       "formatted_time": "2025-11-28 13:32:18",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "Quickriser",
       "sender_wxid": "wxid_02kuo2ir6qbs22"
     },
@@ -766,19 +766,19 @@
       "create_time": 1764307962,
       "formatted_time": "2025-11-28 13:32:42",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764307974,
       "formatted_time": "2025-11-28 13:32:54",
       "type": "系统消息",
-      "str_content": "[????????]"
+      "str_content": "[系统消息]"
     },
     {
       "create_time": 1764307993,
       "formatted_time": "2025-11-28 13:33:13",
       "type": "拍一拍消息",
-      "str_content": "[???]"
+      "str_content": "[拍一拍]"
     },
     {
       "create_time": 1764577692,
@@ -811,8 +811,72 @@
       "str_content": "好的",
       "sender_name": "25 企业管理 李奕",
       "sender_wxid": "wxid_kh1hytc0cwwi22"
+    },
+    {
+      "create_time": 1765242773,
+      "formatted_time": "2025-12-09 09:12:53",
+      "type": "图文消息",
+      "str_content": "请查收2024年改进成绩单，2025年调研重启，专属福利等你拿！",
+      "sender_name": "Lee",
+      "sender_wxid": "wxid_q7be0zx14qft21"
+    },
+    {
+      "create_time": 1765242923,
+      "formatted_time": "2025-12-09 09:15:23",
+      "type": "文本消息",
+      "str_content": "物业服务中心有一个意见收集问卷，请大家有时间填写一下，感谢！",
+      "sender_name": "Lee",
+      "sender_wxid": "wxid_q7be0zx14qft21"
+    },
+    {
+      "create_time": 1765262891,
+      "formatted_time": "2025-12-09 14:48:11",
+      "type": "文本消息",
+      "str_content": "@彭德辉-上海大学-企业管理 @李冰倩-南开-西方经济学 @金培捷-北京大学-经双 你们的医保卡到了，周三10：30-16：00到H栋102b办理激活，记得带上身份证和手机",
+      "sender_name": "Lee",
+      "sender_wxid": "wxid_q7be0zx14qft21"
+    },
+    {
+      "create_time": 1765263076,
+      "formatted_time": "2025-12-09 14:51:16",
+      "type": "文本消息",
+      "str_content": "好的，谢谢老师",
+      "sender_name": "彭德辉 25企管",
+      "sender_wxid": "wxid_rqkli2urrd2i22"
+    },
+    {
+      "create_time": 1765263612,
+      "formatted_time": "2025-12-09 15:00:12",
+      "type": "文本消息",
+      "str_content": "好的，谢谢老师",
+      "sender_name": "Augusta per Angusta",
+      "sender_wxid": "wxid_dwtvr1fptugc12"
+    },
+    {
+      "create_time": 1765326314,
+      "formatted_time": "2025-12-10 08:25:14",
+      "type": "文本消息",
+      "str_content": "各位同学：\n\n为助力同学们掌握商务社交必备礼节，更好地展现我院学子的专业形象，学院将举办商务着装与礼仪专题培训。本次活动将分享职场实用经验，内容涵盖职业形象塑造与社交礼仪等核心要点，对大家的职业起步与发展具有重要意义。要求2025级所有同学参加。\n\n现就培训具体安排通知如下：\n\n讲座主题：职业发展决胜之本——知礼懂礼\n主讲嘉宾：王艳（广发银行深圳分行前海自贸区支行行长、北大汇丰2005级校友）\n时间：2025年12月10日（周三）14:00–16:00\n地点：501教室\n\n请同学们提前安排好时间，积极参与。\n\n另请汇通社协助安排本次会议的摄影及新闻稿撰写工作。\n\n祝好！",
+      "sender_name": "向杜春",
+      "sender_wxid": "wxid_6713537136612"
+    },
+    {
+      "create_time": 1765345866,
+      "formatted_time": "2025-12-10 13:51:06",
+      "type": "引用消息",
+      "str_content": "各位同学，本次讲座为必须参加的活动，请大家抓紧时间并签到。",
+      "sender_name": "向杜春",
+      "sender_wxid": "wxid_6713537136612"
+    },
+    {
+      "create_time": 1765352321,
+      "formatted_time": "2025-12-10 15:38:41",
+      "type": "引用消息",
+      "str_content": "签退刷脸3:38结束。",
+      "sender_name": "向杜春",
+      "sender_wxid": "wxid_6713537136612"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
-  "message_count": 108
+  "export_time": "2025-12-13T14:57:47+08:00",
+  "message_count": 116
 }

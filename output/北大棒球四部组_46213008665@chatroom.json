@@ -20,25 +20,25 @@
       "create_time": 1762911684,
       "formatted_time": "2025-11-12 09:41:24",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1762911693,
       "formatted_time": "2025-11-12 09:41:33",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1762911699,
       "formatted_time": "2025-11-12 09:41:39",
       "type": "图片消息",
-      "str_content": "[??]"
+      "str_content": "[图片消息]"
     },
     {
       "create_time": 1762911881,
       "formatted_time": "2025-11-12 09:44:41",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "ᓚᘏᗢ",
       "sender_wxid": "wxid_d4z0f5k1qqzj22"
     },
@@ -46,7 +46,7 @@
       "create_time": 1762912011,
       "formatted_time": "2025-11-12 09:46:51",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "吴昊 25 财新",
       "sender_wxid": "wxid_5j38ptvh87b622"
     },
@@ -54,7 +54,7 @@
       "create_time": 1762912067,
       "formatted_time": "2025-11-12 09:47:47",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "宁静致远",
       "sender_wxid": "wxid_krvvuo2mp4cs22"
     },
@@ -62,13 +62,13 @@
       "create_time": 1762912073,
       "formatted_time": "2025-11-12 09:47:53",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1762912077,
       "formatted_time": "2025-11-12 09:47:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "纪鸿阳 财新",
       "sender_wxid": "wxid_xyv7rwhpro7v22"
     },
@@ -92,7 +92,7 @@
       "create_time": 1762912114,
       "formatted_time": "2025-11-12 09:48:34",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "财新 李欣然",
       "sender_wxid": "wxid_w35jeaptutbf22"
     },
@@ -100,7 +100,7 @@
       "create_time": 1762912118,
       "formatted_time": "2025-11-12 09:48:38",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "林欣宜 25 财新",
       "sender_wxid": "wxid_wwvckt2s59kd22"
     },
@@ -116,7 +116,7 @@
       "create_time": 1762912135,
       "formatted_time": "2025-11-12 09:48:55",
       "type": "动画表情",
-      "str_content": "[????]"
+      "str_content": "[表情消息]"
     },
     {
       "create_time": 1762912156,
@@ -146,7 +146,7 @@
       "create_time": 1762912290,
       "formatted_time": "2025-11-12 09:51:30",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "欧阳宏禹-贸大-数量与金融科技",
       "sender_wxid": "wxid_9jqk4eirkntq32"
     },
@@ -162,7 +162,7 @@
       "create_time": 1762912293,
       "formatted_time": "2025-11-12 09:51:33",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "欧阳宏禹-贸大-数量与金融科技",
       "sender_wxid": "wxid_9jqk4eirkntq32"
     },
@@ -178,7 +178,7 @@
       "create_time": 1762912296,
       "formatted_time": "2025-11-12 09:51:36",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "欧阳宏禹-贸大-数量与金融科技",
       "sender_wxid": "wxid_9jqk4eirkntq32"
     },
@@ -186,7 +186,7 @@
       "create_time": 1762912300,
       "formatted_time": "2025-11-12 09:51:40",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "欧阳宏禹-贸大-数量与金融科技",
       "sender_wxid": "wxid_9jqk4eirkntq32"
     },
@@ -230,6 +230,6 @@
       "sender_wxid": "wxid_08w0rcu7zch222"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
+  "export_time": "2025-12-13T14:57:48+08:00",
   "message_count": 30
 }

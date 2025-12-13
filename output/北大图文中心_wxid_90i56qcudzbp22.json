@@ -153,14 +153,14 @@
       "create_time": 1762082585,
       "formatted_time": "2025-11-02 19:23:05",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "自己"
     },
     {
       "create_time": 1762082625,
       "formatted_time": "2025-11-02 19:23:45",
       "type": "转账卡片",
-      "str_content": "[??]",
+      "str_content": "[转账]",
       "sender_name": "北大图文中心"
     },
     {
@@ -211,8 +211,64 @@
       "type": "文本消息",
       "str_content": "55元",
       "sender_name": "北大图文中心"
+    },
+    {
+      "create_time": 1765387438,
+      "formatted_time": "2025-12-11 01:23:58",
+      "type": "文件消息",
+      "str_content": "TWY-Mid-Term-CheatSheet(1).pdf",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765387438,
+      "formatted_time": "2025-12-11 01:23:58",
+      "type": "文本消息",
+      "str_content": "麻烦打印到一张A4上，彩印",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765414044,
+      "formatted_time": "2025-12-11 08:47:24",
+      "type": "文本消息",
+      "str_content": "1",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765514099,
+      "formatted_time": "2025-12-12 12:34:59",
+      "type": "文件消息",
+      "str_content": "fae assignment1 xa.pdf",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765514099,
+      "formatted_time": "2025-12-12 12:34:59",
+      "type": "文本消息",
+      "str_content": "双面黑白打印~现在去拿",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765514150,
+      "formatted_time": "2025-12-12 12:35:50",
+      "type": "文本消息",
+      "str_content": "0.5元",
+      "sender_name": "北大图文中心"
+    },
+    {
+      "create_time": 1765514162,
+      "formatted_time": "2025-12-12 12:36:02",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765514253,
+      "formatted_time": "2025-12-12 12:37:33",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "sender_name": "北大图文中心"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
-  "message_count": 30
+  "export_time": "2025-12-13T14:57:48+08:00",
+  "message_count": 38
 }

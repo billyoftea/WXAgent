@@ -6,7 +6,7 @@
       "create_time": 1759134896,
       "formatted_time": "2025-09-29 16:34:56",
       "type": "系统消息",
-      "str_content": "[????????]",
+      "str_content": "[系统消息]",
       "sender_name": "49811504805@chatroom",
       "sender_wxid": "49811504805@chatroom"
     },
@@ -14,7 +14,7 @@
       "create_time": 1759134896,
       "formatted_time": "2025-09-29 16:34:56",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "吕和薇",
       "sender_wxid": "wxid_b1jjjv85wnwo22"
     },
@@ -140,7 +140,7 @@
       "create_time": 1759135137,
       "formatted_time": "2025-09-29 16:38:57",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李婧怡 24",
       "sender_wxid": "wxid_57czzpdmynod22"
     },
@@ -457,7 +457,7 @@
       "create_time": 1759136565,
       "formatted_time": "2025-09-29 17:02:45",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李婧怡 24",
       "sender_wxid": "wxid_57czzpdmynod22"
     },
@@ -473,7 +473,7 @@
       "create_time": 1759137884,
       "formatted_time": "2025-09-29 17:24:44",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "宋捷",
       "sender_wxid": "wxid_aaz5ajmxw6hv11"
     },
@@ -488,7 +488,7 @@
       "create_time": 1759137995,
       "formatted_time": "2025-09-29 17:26:35",
       "type": "动画表情",
-      "str_content": "[????]",
+      "str_content": "[表情消息]",
       "sender_name": "李婧怡 24",
       "sender_wxid": "wxid_57czzpdmynod22"
     },
@@ -540,6 +540,6 @@
       "sender_wxid": "wxid_b1jjjv85wnwo22"
     }
   ],
-  "export_time": "2025-12-07T09:58:54+08:00",
+  "export_time": "2025-12-13T14:57:51+08:00",
   "message_count": 68
 }

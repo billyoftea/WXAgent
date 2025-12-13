@@ -69,14 +69,14 @@
       "create_time": 1763043083,
       "formatted_time": "2025-11-13 22:11:23",
       "type": "聊天记录合并转发",
-      "str_content": "[????]",
+      "str_content": "[聊天记录]",
       "sender_name": "高紫涵-西南财经大学-数量与金科"
     },
     {
       "create_time": 1763043092,
       "formatted_time": "2025-11-13 22:11:32",
       "type": "拍一拍消息",
-      "str_content": "[???]",
+      "str_content": "[拍一拍]",
       "sender_name": "高紫涵-西南财经大学-数量与金科"
     },
     {
@@ -132,7 +132,7 @@
       "create_time": 1763043180,
       "formatted_time": "2025-11-13 22:13:00",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -188,7 +188,7 @@
       "create_time": 1763454440,
       "formatted_time": "2025-11-18 16:27:20",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "高紫涵-西南财经大学-数量与金科"
     },
     {
@@ -209,7 +209,7 @@
       "create_time": 1763454466,
       "formatted_time": "2025-11-18 16:27:46",
       "type": "图片消息",
-      "str_content": "[??]",
+      "str_content": "[图片消息]",
       "sender_name": "自己"
     },
     {
@@ -234,6 +234,6 @@
       "sender_name": "高紫涵-西南财经大学-数量与金科"
     }
   ],
-  "export_time": "2025-12-07T09:58:52+08:00",
+  "export_time": "2025-12-13T14:57:47+08:00",
   "message_count": 33
 }
