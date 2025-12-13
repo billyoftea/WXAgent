@@ -494,14 +494,13 @@ func (a *Analyzer) summarizeChunk(ctx context.Context, chunk string, chunkNum, t
 要求：
 1. 用中文总结
 2. 总结出主要话题和讨论内容
-3. 提取出重要信息（如招聘信息、活动信息、通知事项等）
-4. 概括参与者的主要观点或反应
-5. 保持简洁，突出重点`, chunkNum, totalChunks, chunk)
+3. 提取出重要信息（如招聘信息、活动信息等）
+4. 概括参与者的主要观点或反应`, chunkNum, totalChunks, chunk)
 
 	messages := []llm.ChatMessage{
 		{
 			Role:    "system",
-			Content: "你是一个专业的微信聊天记录分析助手，擅长总结和提取关键信息。",
+			Content: "你是一个专业的微信群聊天内容分析助手，能够快速准确地总结和分析群聊内容。",
 		},
 		{
 			Role:    "user",

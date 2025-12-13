@@ -883,8 +883,22 @@
       "str_content": "[位置消息]",
       "sender_name": "莫孜晗",
       "sender_wxid": "wxid_951jqdhhbgbm22"
+    },
+    {
+      "create_time": 1765610297,
+      "formatted_time": "2025-12-13 15:18:17",
+      "type": "文本消息",
+      "str_content": "大家进门可以拿书呀～",
+      "sender_name": "莫孜晗",
+      "sender_wxid": "wxid_951jqdhhbgbm22"
+    },
+    {
+      "create_time": 1765610594,
+      "formatted_time": "2025-12-13 15:23:14",
+      "type": "系统消息",
+      "str_content": "[系统消息]"
     }
   ],
-  "export_time": "2025-12-13T14:57:48+08:00",
-  "message_count": 127
+  "export_time": "2025-12-13T16:06:13+08:00",
+  "message_count": 129
 }

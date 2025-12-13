@@ -86,3 +86,5 @@ flutter run -d windows
 
 
 exe打包方案？
+cd scripts
+cd C:\Users\Lenovo\Desktop\WXAgent\scripts; .\build_release.bat

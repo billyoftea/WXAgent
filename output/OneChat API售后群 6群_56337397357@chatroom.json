@@ -7905,8 +7905,48 @@
       "formatted_time": "2025-12-12 12:02:20",
       "type": "文本消息",
       "str_content": "samlayan:\n我现在找不到，换了电脑没记录"
+    },
+    {
+      "create_time": 1765609135,
+      "formatted_time": "2025-12-13 14:58:55",
+      "type": "文本消息",
+      "str_content": "为什么nanobananapro总是超时",
+      "sender_name": "ユ",
+      "sender_wxid": "wxid_filfqdahlz7y22"
+    },
+    {
+      "create_time": 1765609136,
+      "formatted_time": "2025-12-13 14:58:56",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "sender_name": "ユ",
+      "sender_wxid": "wxid_filfqdahlz7y22"
+    },
+    {
+      "create_time": 1765609144,
+      "formatted_time": "2025-12-13 14:59:04",
+      "type": "文本消息",
+      "str_content": "@Kairo丶",
+      "sender_name": "ユ",
+      "sender_wxid": "wxid_filfqdahlz7y22"
+    },
+    {
+      "create_time": 1765609961,
+      "formatted_time": "2025-12-13 15:12:41",
+      "type": "文本消息",
+      "str_content": "稍等",
+      "sender_name": "奇奇",
+      "sender_wxid": "wxid_h74qdogns9zt22"
+    },
+    {
+      "create_time": 1765610959,
+      "formatted_time": "2025-12-13 15:29:19",
+      "type": "文本消息",
+      "str_content": "@ユ 现在呢？",
+      "sender_name": "奇奇",
+      "sender_wxid": "wxid_h74qdogns9zt22"
     }
   ],
-  "export_time": "2025-12-13T14:57:48+08:00",
-  "message_count": 1031
+  "export_time": "2025-12-13T16:06:13+08:00",
+  "message_count": 1036
 }

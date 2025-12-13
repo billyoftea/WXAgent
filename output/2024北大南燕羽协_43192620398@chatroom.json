@@ -2685,8 +2685,32 @@
       "str_content": "今天回去略晚 最晚可以几点开始",
       "sender_name": "Dawide",
       "sender_wxid": "wxid_t0zjm56gp3tk22"
+    },
+    {
+      "create_time": 1765612247,
+      "formatted_time": "2025-12-13 15:50:47",
+      "type": "文本消息",
+      "str_content": "huanxiongxiongxiong:\n我6-10点在镜湖！"
+    },
+    {
+      "create_time": 1765612261,
+      "formatted_time": "2025-12-13 15:51:01",
+      "type": "文本消息",
+      "str_content": "huanxiongxiongxiong:\n等你[机智]"
+    },
+    {
+      "create_time": 1765612264,
+      "formatted_time": "2025-12-13 15:51:04",
+      "type": "动画表情",
+      "str_content": "[表情消息]"
+    },
+    {
+      "create_time": 1765612274,
+      "formatted_time": "2025-12-13 15:51:14",
+      "type": "拍一拍消息",
+      "str_content": "[拍一拍]"
     }
   ],
-  "export_time": "2025-12-13T14:57:48+08:00",
-  "message_count": 364
+  "export_time": "2025-12-13T16:06:13+08:00",
+  "message_count": 368
 }
