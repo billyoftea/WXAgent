@@ -1,0 +1,93 @@
+{
+  "session_id": "52452246272@chatroom",
+  "session_name": "52452246272@chatroom",
+  "messages": [
+    {
+      "create_time": 1756113384,
+      "formatted_time": "2025-08-25 17:16:24",
+      "type": "文本消息",
+      "str_content": "111",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756113389,
+      "formatted_time": "2025-08-25 17:16:29",
+      "type": "文本消息",
+      "str_content": "🀄",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756113394,
+      "formatted_time": "2025-08-25 17:16:34",
+      "type": "文本消息",
+      "str_content": "今晚吃了饭就去吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756113422,
+      "formatted_time": "2025-08-25 17:17:02",
+      "type": "文本消息",
+      "str_content": "我看特工队有人在组局吃饭，要不咱晚上去那里吧",
+      "is_send": 0,
+      "sender_name": "25 金科 孙嘉言",
+      "sender_wxid": "wxid_bwzdztgb2lvz22"
+    },
+    {
+      "create_time": 1756113449,
+      "formatted_time": "2025-08-25 17:17:29",
+      "type": "文本消息",
+      "str_content": "可以可以",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756113462,
+      "formatted_time": "2025-08-25 17:17:42",
+      "type": "文本消息",
+      "str_content": "我问问李佳茗",
+      "is_send": 0,
+      "sender_name": "25 金科 孙嘉言",
+      "sender_wxid": "wxid_bwzdztgb2lvz22"
+    },
+    {
+      "create_time": 1756113976,
+      "formatted_time": "2025-08-25 17:26:16",
+      "type": "文本消息",
+      "str_content": "bro们看能不能再找个女生陪我一起",
+      "is_send": 0,
+      "sender_name": "张晨阳",
+      "sender_wxid": "wxid_gpjtpwap926w12"
+    },
+    {
+      "create_time": 1756113998,
+      "formatted_time": "2025-08-25 17:26:38",
+      "type": "文本消息",
+      "str_content": "或者找个男生补你们三缺一也ok",
+      "is_send": 0,
+      "sender_name": "张晨阳",
+      "sender_wxid": "wxid_gpjtpwap926w12"
+    },
+    {
+      "create_time": 1756114021,
+      "formatted_time": "2025-08-25 17:27:01",
+      "type": "文本消息",
+      "str_content": "[捂脸][捂脸][捂脸]好，那我要不再去问一下男生",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756114033,
+      "formatted_time": "2025-08-25 17:27:13",
+      "type": "文本消息",
+      "str_content": "可啊",
+      "is_send": 0,
+      "sender_name": "张晨阳",
+      "sender_wxid": "wxid_gpjtpwap926w12"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:27+08:00",
+  "message_count": 10
+}

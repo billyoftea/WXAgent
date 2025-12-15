@@ -1,0 +1,88 @@
+{
+  "session_id": "wxid_3md5bq8u135d29",
+  "session_name": "叻叻女",
+  "messages": [
+    {
+      "create_time": 1705233900,
+      "formatted_time": "2024-01-14 20:05:00",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "叻叻女"
+    },
+    {
+      "create_time": 1705233911,
+      "formatted_time": "2024-01-14 20:05:11",
+      "type": "文本消息",
+      "str_content": "你好老板",
+      "is_send": 0,
+      "sender_name": "叻叻女"
+    },
+    {
+      "create_time": 1705233930,
+      "formatted_time": "2024-01-14 20:05:30",
+      "type": "文本消息",
+      "str_content": "可以在这边转账",
+      "is_send": 0,
+      "sender_name": "叻叻女"
+    },
+    {
+      "create_time": 1705233992,
+      "formatted_time": "2024-01-14 20:06:32",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "叻叻女"
+    },
+    {
+      "create_time": 1705234006,
+      "formatted_time": "2024-01-14 20:06:46",
+      "type": "文本消息",
+      "str_content": "好的，稍等",
+      "is_send": 0,
+      "sender_name": "叻叻女"
+    },
+    {
+      "create_time": 1705234576,
+      "formatted_time": "2024-01-14 20:16:16",
+      "type": "文本消息",
+      "str_content": "4040380523952489 expiry：2026-01 cvc：980 balance：20",
+      "is_send": 0,
+      "sender_name": "叻叻女"
+    },
+    {
+      "create_time": 1705234583,
+      "formatted_time": "2024-01-14 20:16:23",
+      "type": "文本消息",
+      "str_content": "开好了，老板",
+      "is_send": 0,
+      "sender_name": "叻叻女"
+    },
+    {
+      "create_time": 1705234613,
+      "formatted_time": "2024-01-14 20:16:53",
+      "type": "文本消息",
+      "str_content": "订阅完取消自动订阅后通知一下我，谢谢你",
+      "is_send": 0,
+      "sender_name": "叻叻女"
+    },
+    {
+      "create_time": 1705234761,
+      "formatted_time": "2024-01-14 20:19:21",
+      "type": "文本消息",
+      "str_content": "好了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705234773,
+      "formatted_time": "2024-01-14 20:19:33",
+      "type": "文本消息",
+      "str_content": "好的，谢谢你",
+      "is_send": 0,
+      "sender_name": "叻叻女"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:31+08:00",
+  "message_count": 10
+}

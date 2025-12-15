@@ -1,0 +1,5424 @@
+{
+  "session_id": "zhengtao785646",
+  "session_name": "郑涛",
+  "messages": [
+    {
+      "create_time": 1684484694,
+      "formatted_time": "2023-05-19 16:24:54",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684484720,
+      "formatted_time": "2023-05-19 16:25:20",
+      "type": "文本消息",
+      "str_content": "你好 建投医药组 郑涛18311206800",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684484755,
+      "formatted_time": "2023-05-19 16:25:55",
+      "type": "文本消息",
+      "str_content": "好的！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684484765,
+      "formatted_time": "2023-05-19 16:26:05",
+      "type": "文件消息",
+      "str_content": "华中科技大学-经济统计学-徐昂.pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684484804,
+      "formatted_time": "2023-05-19 16:26:44",
+      "type": "文本消息",
+      "str_content": "郑老师，这是我的简历~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684484841,
+      "formatted_time": "2023-05-19 16:27:21",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684484847,
+      "formatted_time": "2023-05-19 16:27:27",
+      "type": "文本消息",
+      "str_content": "收到，我算不上老师，叫我师兄吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684484916,
+      "formatted_time": "2023-05-19 16:28:36",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈好的！\n师兄我一定会努力的！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684552348,
+      "formatted_time": "2023-05-20 11:12:28",
+      "type": "文本消息",
+      "str_content": "尽快回复",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684552348,
+      "formatted_time": "2023-05-20 11:12:28",
+      "type": "文本消息",
+      "str_content": "帮我检查一下这个ppt的文档，有没有错别字哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684552348,
+      "formatted_time": "2023-05-20 11:12:28",
+      "type": "文件消息",
+      "str_content": "2023.05.20  中信建投医药生物行业周报-器械+服务 板块 周报.pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684552702,
+      "formatted_time": "2023-05-20 11:18:22",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684553809,
+      "formatted_time": "2023-05-20 11:36:49",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684553811,
+      "formatted_time": "2023-05-20 11:36:51",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684553821,
+      "formatted_time": "2023-05-20 11:37:01",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684553829,
+      "formatted_time": "2023-05-20 11:37:09",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684553844,
+      "formatted_time": "2023-05-20 11:37:24",
+      "type": "文本消息",
+      "str_content": "师兄，我找到的是第三页的省份名称没统一，第六页应该是少一个标点符号",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684553878,
+      "formatted_time": "2023-05-20 11:37:58",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684590031,
+      "formatted_time": "2023-05-20 21:40:31",
+      "type": "文本消息",
+      "str_content": "明天下午一点半 方便线上讨论嘛？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684590393,
+      "formatted_time": "2023-05-20 21:46:33",
+      "type": "文本消息",
+      "str_content": "嗯嗯可以的！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684590400,
+      "formatted_time": "2023-05-20 21:46:40",
+      "type": "文本消息",
+      "str_content": "是腾讯会议嘛[疑问]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684590407,
+      "formatted_time": "2023-05-20 21:46:47",
+      "type": "文本消息",
+      "str_content": "你定一个腾讯会议给我哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684590415,
+      "formatted_time": "2023-05-20 21:46:55",
+      "type": "文本消息",
+      "str_content": "好嘞",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684590477,
+      "formatted_time": "2023-05-20 21:47:57",
+      "type": "文本消息",
+      "str_content": "blt 邀请您参加腾讯会议\n会议主题：blt预定的会议\n会议时间：2023/05/21 13:25-13:55 (GMT+08:00) 中国标准时间 - 北京\n\n点击链接入会，或添加至会议列表：\nhttps://meeting.tencent.com/dm/jXOm14PkFtCl\n\n#腾讯会议：947-681-224\n\n复制该信息，打开手机腾讯会议即可参与",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684590485,
+      "formatted_time": "2023-05-20 21:48:05",
+      "type": "文本消息",
+      "str_content": "好的 收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684590500,
+      "formatted_time": "2023-05-20 21:48:20",
+      "type": "文本消息",
+      "str_content": "嗯嗯！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684643413,
+      "formatted_time": "2023-05-21 12:30:13",
+      "type": "文本消息",
+      "str_content": "徐昂 ，下午的会调整到3点吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684643417,
+      "formatted_time": "2023-05-21 12:30:17",
+      "type": "文本消息",
+      "str_content": "我临时有事情",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684643451,
+      "formatted_time": "2023-05-21 12:30:51",
+      "type": "文本消息",
+      "str_content": "嗯嗯好的！我都可以的，那我再预定个会议哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684643467,
+      "formatted_time": "2023-05-21 12:31:07",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684643489,
+      "formatted_time": "2023-05-21 12:31:29",
+      "type": "文本消息",
+      "str_content": "blt 邀请您参加腾讯会议\n会议主题：blt预定的会议\n会议时间：2023/05/21 14:55-15:25 (GMT+08:00) 中国标准时间 - 北京\n\n点击链接入会，或添加至会议列表：\nhttps://meeting.tencent.com/dm/7JjSi3moemz5\n\n#腾讯会议：700-710-646\n\n复制该信息，打开手机腾讯会议即可参与",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684643562,
+      "formatted_time": "2023-05-21 12:32:42",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684652420,
+      "formatted_time": "2023-05-21 15:00:20",
+      "type": "文本消息",
+      "str_content": "微茫 邀请您参加腾讯会议\n会议主题：微茫的快速会议\n会议时间：2023/05/21 14:49-15:49 (GMT+08:00) 新加坡标准时间\n\n点击链接直接加入会议：\nhttps://meeting.tencent.com/dm/YIF2QZmXBLk3\n\n#腾讯会议：627-637-248\n\n复制该信息，打开手机腾讯会议即可参与",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684652428,
+      "formatted_time": "2023-05-21 15:00:28",
+      "type": "文本消息",
+      "str_content": "你接入这个会议",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684652433,
+      "formatted_time": "2023-05-21 15:00:33",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684978754,
+      "formatted_time": "2023-05-25 09:39:14",
+      "type": "文本消息",
+      "str_content": "今天下午三点半你有时间吗？ 一个小时左右",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684978804,
+      "formatted_time": "2023-05-25 09:40:04",
+      "type": "文本消息",
+      "str_content": "嗯呢可以的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684978832,
+      "formatted_time": "2023-05-25 09:40:32",
+      "type": "图文消息",
+      "str_content": "建投医药丨新华医疗&民生加银1V1交流",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684978847,
+      "formatted_time": "2023-05-25 09:40:47",
+      "type": "文本消息",
+      "str_content": "把你的腾讯会议昵称改成“中信建投”",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684978861,
+      "formatted_time": "2023-05-25 09:41:01",
+      "type": "文本消息",
+      "str_content": "然后接入会议录个音，我会开场主持",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684978878,
+      "formatted_time": "2023-05-25 09:41:18",
+      "type": "文本消息",
+      "str_content": "怎么录音你问一下津瑜",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1684978904,
+      "formatted_time": "2023-05-25 09:41:44",
+      "type": "文本消息",
+      "str_content": "好的！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685000537,
+      "formatted_time": "2023-05-25 15:42:17",
+      "type": "文本消息",
+      "str_content": "你在听嘛？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685000544,
+      "formatted_time": "2023-05-25 15:42:24",
+      "type": "文本消息",
+      "str_content": "嗯嗯在听的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685000546,
+      "formatted_time": "2023-05-25 15:42:26",
+      "type": "文本消息",
+      "str_content": "在录音了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685000566,
+      "formatted_time": "2023-05-25 15:42:46",
+      "type": "文本消息",
+      "str_content": "做个纪要吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685000619,
+      "formatted_time": "2023-05-25 15:43:39",
+      "type": "文本消息",
+      "str_content": "好的，这个纪要大概什么时候交呀师兄",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685000642,
+      "formatted_time": "2023-05-25 15:44:02",
+      "type": "文本消息",
+      "str_content": "没事 你先记录吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685000653,
+      "formatted_time": "2023-05-25 15:44:13",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685003938,
+      "formatted_time": "2023-05-25 16:38:58",
+      "type": "文本消息",
+      "str_content": "师兄这是本次录的音，我会议上记得不太全，那我再对照录音做一下纪要嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685003989,
+      "formatted_time": "2023-05-25 16:39:49",
+      "type": "文本消息",
+      "str_content": "链接：https://pan.baidu.com/s/1tdSKFP5FNyzacMdJV1A5xg?pwd=fl4y \n提取码：fl4y \n--来自百度网盘超级会员V5的分享",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685004091,
+      "formatted_time": "2023-05-25 16:41:31",
+      "type": "文本消息",
+      "str_content": "你今天有时间做这个纪要吗？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685004113,
+      "formatted_time": "2023-05-25 16:41:53",
+      "type": "文本消息",
+      "str_content": "有的话整理一下吧，没有时间的话把你记录的内容发我",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685004116,
+      "formatted_time": "2023-05-25 16:41:56",
+      "type": "文本消息",
+      "str_content": "感觉内容不是很多，应该可以做出来",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685004121,
+      "formatted_time": "2023-05-25 16:42:01",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685004140,
+      "formatted_time": "2023-05-25 16:42:20",
+      "type": "文本消息",
+      "str_content": "这个领导废话有点多，你记录要点和关键内容就好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685004179,
+      "formatted_time": "2023-05-25 16:42:59",
+      "type": "文本消息",
+      "str_content": "哈哈哈，好的~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685004366,
+      "formatted_time": "2023-05-25 16:46:06",
+      "type": "文本消息",
+      "str_content": "辛苦哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685004458,
+      "formatted_time": "2023-05-25 16:47:38",
+      "type": "文本消息",
+      "str_content": "没有没有，应该做的！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685011585,
+      "formatted_time": "2023-05-25 18:46:25",
+      "type": "文件消息",
+      "str_content": "2023.5.25 新华医疗会议纪要.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685011593,
+      "formatted_time": "2023-05-25 18:46:33",
+      "type": "文本消息",
+      "str_content": "师兄这是我整理好的会议纪要~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685013747,
+      "formatted_time": "2023-05-25 19:22:27",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685098894,
+      "formatted_time": "2023-05-26 19:01:34",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685098903,
+      "formatted_time": "2023-05-26 19:01:43",
+      "type": "文本消息",
+      "str_content": "你现在方便吗？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685098951,
+      "formatted_time": "2023-05-26 19:02:31",
+      "type": "文本消息",
+      "str_content": "嗯嗯可以的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685098967,
+      "formatted_time": "2023-05-26 19:02:47",
+      "type": "文本消息",
+      "str_content": "给我一个电话号码哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685098977,
+      "formatted_time": "2023-05-26 19:02:57",
+      "type": "文本消息",
+      "str_content": "17865716165",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685099102,
+      "formatted_time": "2023-05-26 19:05:02",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685099128,
+      "formatted_time": "2023-05-26 19:05:28",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685099145,
+      "formatted_time": "2023-05-26 19:05:45",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685099234,
+      "formatted_time": "2023-05-26 19:07:14",
+      "type": "文件消息",
+      "str_content": "2023.5.25 民生加银-新华医疗会议纪要.docx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685099234,
+      "formatted_time": "2023-05-26 19:07:14",
+      "type": "文本消息",
+      "str_content": "2023.05.25 民生加银-新华医疗会议纪要要点\n1、经营战略的变化：调结构，医疗商贸、医疗服务。强板块，医疗器械、制药装备。把存量产品进行进一步优化改造，迭代升级。存量项目有增量的考核目标。重视出口。把高端产品卖入高端医院。\n2、盈利能力：工业产品毛利率高（40%），制药装备毛利27%。医疗器械占70-80%净利润\n3、医院ICU建设：大项目一季度完不成，可能会在5-6月份慢慢体现。\n4、海外出口：21筹备事业部改造产品，去年翻倍增长，目标2035年海外收入占比达到10-15%。主要产品是制药装备和感控等。\n5、医疗服务剥离进展：基本调整完毕，目前医院集中在血液透析、肾脏健康、肾内专科医院。板块的营收和毛利在提升，板块处于盈利的状态。\n6、商誉减值情况：目前商誉2.6亿，主要集中在长春博讯（体外诊断，产线稳定），有2.4亿商誉。",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685099288,
+      "formatted_time": "2023-05-26 19:08:08",
+      "type": "文件消息",
+      "str_content": "乐普医疗-深度报告更新【请勿转发】-2211.pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685099309,
+      "formatted_time": "2023-05-26 19:08:29",
+      "type": "文件消息",
+      "str_content": "中信建投-新股报告-微泰医疗-聚焦糖尿病管理器械，新产品即将进入收获期-20210822.docx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685099387,
+      "formatted_time": "2023-05-26 19:09:47",
+      "type": "文本消息",
+      "str_content": "1.整体经营情况分析\n2.相关头部企业在此细分行业的经营优势和劣势\n3.股票市场投资机会分析\n（1）此前影响股价变动的原因（股价复盘图）\n（2）行业内估值情况（单列成一张心脉 乐普 惠泰 微电生理估值对比表，收入和利润，PS和PE）（徐昂不用管）\n（3）未来企业增长动力分析\n（4）投资建议",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685099402,
+      "formatted_time": "2023-05-26 19:10:02",
+      "type": "文件消息",
+      "str_content": "高值耗材集采背景下的行业变化及战略调整.pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685152523,
+      "formatted_time": "2023-05-27 09:55:23",
+      "type": "文件消息",
+      "str_content": "2023.05.26 中信建投医药生物行业周报-器械+服务 板块 周报V1.pptx(1).pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685152523,
+      "formatted_time": "2023-05-27 09:55:23",
+      "type": "文本消息",
+      "str_content": "帮我过一遍，看有没有错别字或者病句哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685152523,
+      "formatted_time": "2023-05-27 09:55:23",
+      "type": "文本消息",
+      "str_content": "尽快发我~",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685152534,
+      "formatted_time": "2023-05-27 09:55:34",
+      "type": "文本消息",
+      "str_content": "嗯嗯好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685154397,
+      "formatted_time": "2023-05-27 10:26:37",
+      "type": "文件消息",
+      "str_content": "2023.05.26 中信建投医药生物行业周报-器械+服务 板块 周报V1.pptx(1)(2).pptx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685154405,
+      "formatted_time": "2023-05-27 10:26:45",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685154463,
+      "formatted_time": "2023-05-27 10:27:43",
+      "type": "引用消息",
+      "str_content": "师兄我主要改了几个数字格式和括号全角半角没统一的问题，找到的一份可能的语法错误在这里面标黄了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685154473,
+      "formatted_time": "2023-05-27 10:27:53",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685154516,
+      "formatted_time": "2023-05-27 10:28:36",
+      "type": "文本消息",
+      "str_content": "这些标点符号，你改了之后有做批注吗？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685154547,
+      "formatted_time": "2023-05-27 10:29:07",
+      "type": "文本消息",
+      "str_content": "以后让你修改检查的内容的时候，修改的内容一定要做标注",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685154602,
+      "formatted_time": "2023-05-27 10:30:02",
+      "type": "文本消息",
+      "str_content": "嗯嗯好的，因为感觉改的比较杂所以就没做，括号主要在第二页中有不统一，数字格式主要在第四页中不统一",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685154671,
+      "formatted_time": "2023-05-27 10:31:11",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685168532,
+      "formatted_time": "2023-05-27 14:22:12",
+      "type": "文本消息",
+      "str_content": "师兄我做word报告的时候发现好像那两个ppt里好像没有提相关头部企业在此细分行业的经营优势和劣势诶，感觉那个深度报告里主要在提乐普自己的器械产品，没有提相关企业的经营情况",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685168571,
+      "formatted_time": "2023-05-27 14:22:51",
+      "type": "文本消息",
+      "str_content": "经营优劣势暂时不写了哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685168589,
+      "formatted_time": "2023-05-27 14:23:09",
+      "type": "文本消息",
+      "str_content": "好的，收到~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685175015,
+      "formatted_time": "2023-05-27 16:10:15",
+      "type": "文件消息",
+      "str_content": "乐普医疗 (2).docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685175017,
+      "formatted_time": "2023-05-27 16:10:17",
+      "type": "文本消息",
+      "str_content": "师兄我第一部分和第三部分写好了\n第一页我只改了下摘要；绿色高亮是提纲中列出但没补充的部分，黄色高亮是需要总结的部分和我改格式的时候发现的可能的问题",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685175033,
+      "formatted_time": "2023-05-27 16:10:33",
+      "type": "文本消息",
+      "str_content": "好的 我改改",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685767996,
+      "formatted_time": "2023-06-03 12:53:16",
+      "type": "文本消息",
+      "str_content": "帮我检查一下错别字语病哈，直接截图给我就好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685767996,
+      "formatted_time": "2023-06-03 12:53:16",
+      "type": "文件消息",
+      "str_content": "2023.06.02 中信建投医药生物行业周报-器械+服务 板块 周报.pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685768896,
+      "formatted_time": "2023-06-03 13:08:16",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685769419,
+      "formatted_time": "2023-06-03 13:16:59",
+      "type": "文本消息",
+      "str_content": "我只找到了一个标点问题，其他应该没问题~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685769421,
+      "formatted_time": "2023-06-03 13:17:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685769492,
+      "formatted_time": "2023-06-03 13:18:12",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685769495,
+      "formatted_time": "2023-06-03 13:18:15",
+      "type": "文本消息",
+      "str_content": "辛苦哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685769516,
+      "formatted_time": "2023-06-03 13:18:36",
+      "type": "文本消息",
+      "str_content": "没事没事~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685959163,
+      "formatted_time": "2023-06-05 17:59:23",
+      "type": "文本消息",
+      "str_content": "今天有时间写一个纪要嘛？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685959196,
+      "formatted_time": "2023-06-05 17:59:56",
+      "type": "文本消息",
+      "str_content": "我今天晚上刚好有个考试[苦涩]，如果不急的话明天应该可以写好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685959210,
+      "formatted_time": "2023-06-05 18:00:10",
+      "type": "文本消息",
+      "str_content": "没事 那你先考试",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685959577,
+      "formatted_time": "2023-06-05 18:06:17",
+      "type": "文本消息",
+      "str_content": "嗯嗯好的~[玫瑰]，师兄我暑假去北京的话工作地点是哪里呢 我应该会借住在我亲戚那里~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685959764,
+      "formatted_time": "2023-06-05 18:09:24",
+      "type": "文本消息",
+      "str_content": "东城区朝阳门 凯恒中心",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685959790,
+      "formatted_time": "2023-06-05 18:09:50",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685959826,
+      "formatted_time": "2023-06-05 18:10:26",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685959958,
+      "formatted_time": "2023-06-05 18:12:38",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685959967,
+      "formatted_time": "2023-06-05 18:12:47",
+      "type": "文本消息",
+      "str_content": "我速记了一些内容，不全，你可以参考一下",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685960033,
+      "formatted_time": "2023-06-05 18:13:53",
+      "type": "文本消息",
+      "str_content": "嗯嗯收到！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685960163,
+      "formatted_time": "2023-06-05 18:16:03",
+      "type": "文本消息",
+      "str_content": "这个纪要你别管了哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685960166,
+      "formatted_time": "2023-06-05 18:16:06",
+      "type": "文本消息",
+      "str_content": "我刚刚发错了",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1685960208,
+      "formatted_time": "2023-06-05 18:16:48",
+      "type": "文本消息",
+      "str_content": "[捂脸][捂脸]好的好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686016811,
+      "formatted_time": "2023-06-06 10:00:11",
+      "type": "文本消息",
+      "str_content": "今天下午讨论你方便吗？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686016865,
+      "formatted_time": "2023-06-06 10:01:05",
+      "type": "文本消息",
+      "str_content": "下午我可以的~大概几点呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686016871,
+      "formatted_time": "2023-06-06 10:01:11",
+      "type": "文本消息",
+      "str_content": "三点吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686016879,
+      "formatted_time": "2023-06-06 10:01:19",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686016916,
+      "formatted_time": "2023-06-06 10:01:56",
+      "type": "文本消息",
+      "str_content": "徐昂 邀请您参加腾讯会议\n会议主题：徐昂预定的会议\n会议时间：2023/06/06 15:00-16:00 (GMT+08:00) 中国标准时间 - 北京\n\n点击链接入会，或添加至会议列表：\nhttps://meeting.tencent.com/dm/Pz4z39AoEh3U\n\n#腾讯会议：204-997-635\n\n复制该信息，打开手机腾讯会议即可参与",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686016991,
+      "formatted_time": "2023-06-06 10:03:11",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686035451,
+      "formatted_time": "2023-06-06 15:10:51",
+      "type": "文本消息",
+      "str_content": "师兄我这边ok了~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686035674,
+      "formatted_time": "2023-06-06 15:14:34",
+      "type": "文本消息",
+      "str_content": "你发我一下最新的心律报告",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686035915,
+      "formatted_time": "2023-06-06 15:18:35",
+      "type": "文件消息",
+      "str_content": "2023.06.6 微创心律-行业+公司.pptx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686035918,
+      "formatted_time": "2023-06-06 15:18:38",
+      "type": "文件消息",
+      "str_content": "微创心律营收拆分.xlsx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686036490,
+      "formatted_time": "2023-06-06 15:28:10",
+      "type": "文件消息",
+      "str_content": "微创心律 5.30 徐昂.pptx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686036798,
+      "formatted_time": "2023-06-06 15:33:18",
+      "type": "文本消息",
+      "str_content": "啊师兄",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686036801,
+      "formatted_time": "2023-06-06 15:33:21",
+      "type": "文本消息",
+      "str_content": "我可以听见你的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686036812,
+      "formatted_time": "2023-06-06 15:33:32",
+      "type": "文本消息",
+      "str_content": "我这边听不见你",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686106976,
+      "formatted_time": "2023-06-07 11:02:56",
+      "type": "文本消息",
+      "str_content": "昨天说的内容你改好了嘛",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686107024,
+      "formatted_time": "2023-06-07 11:03:44",
+      "type": "文本消息",
+      "str_content": "嗯嗯，改好了，现在还在上课，师兄我中午发你~\n那个CRM的相关论文我还在找",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686107043,
+      "formatted_time": "2023-06-07 11:04:03",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686118526,
+      "formatted_time": "2023-06-07 14:15:26",
+      "type": "文件消息",
+      "str_content": "微创心律收入拆分（new）.xlsx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686118528,
+      "formatted_time": "2023-06-07 14:15:28",
+      "type": "文件消息",
+      "str_content": "2023.06.7微创心律-行业+公司.pptx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686118541,
+      "formatted_time": "2023-06-07 14:15:41",
+      "type": "文本消息",
+      "str_content": "下午或者晚上有时间讨论嘛 ？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686118555,
+      "formatted_time": "2023-06-07 14:15:55",
+      "type": "文本消息",
+      "str_content": "晚上可以的~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686118573,
+      "formatted_time": "2023-06-07 14:16:13",
+      "type": "文本消息",
+      "str_content": "晚上几点呢",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686118597,
+      "formatted_time": "2023-06-07 14:16:37",
+      "type": "文本消息",
+      "str_content": "七点到九点我都ok的~看您什么时候方便",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686118611,
+      "formatted_time": "2023-06-07 14:16:51",
+      "type": "文本消息",
+      "str_content": "八点吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686118621,
+      "formatted_time": "2023-06-07 14:17:01",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686118644,
+      "formatted_time": "2023-06-07 14:17:24",
+      "type": "文本消息",
+      "str_content": "徐昂 邀请您参加腾讯会议\n会议主题：徐昂预定的会议\n会议时间：2023/06/07 20:00-21:00 (GMT+08:00) 中国标准时间 - 北京\n\n点击链接入会，或添加至会议列表：\nhttps://meeting.tencent.com/dm/4mFFfuKBmTxc\n\n#腾讯会议：577-189-533\n\n复制该信息，打开手机腾讯会议即可参与",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686118661,
+      "formatted_time": "2023-06-07 14:17:41",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686129275,
+      "formatted_time": "2023-06-07 17:14:35",
+      "type": "文本消息",
+      "str_content": "师兄这是我找到的一些资料，因为没有具体说明其研发难点的论文我就按照自己的理解总结了下",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686129275,
+      "formatted_time": "2023-06-07 17:14:35",
+      "type": "文件消息",
+      "str_content": "CRM器械相关.zip",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686129289,
+      "formatted_time": "2023-06-07 17:14:49",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686140638,
+      "formatted_time": "2023-06-07 20:23:58",
+      "type": "文本消息",
+      "str_content": "师兄我这边ok咧~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686141742,
+      "formatted_time": "2023-06-07 20:42:22",
+      "type": "文本消息",
+      "str_content": "我以为是九点",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686141747,
+      "formatted_time": "2023-06-07 20:42:27",
+      "type": "文本消息",
+      "str_content": "稍等我十分钟",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686141750,
+      "formatted_time": "2023-06-07 20:42:30",
+      "type": "文本消息",
+      "str_content": "我还有个会",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686141760,
+      "formatted_time": "2023-06-07 20:42:40",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686142488,
+      "formatted_time": "2023-06-07 20:54:48",
+      "type": "文本消息",
+      "str_content": "我上线了哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686142600,
+      "formatted_time": "2023-06-07 20:56:40",
+      "type": "文本消息",
+      "str_content": "师兄我这里好像卡了一下",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686142603,
+      "formatted_time": "2023-06-07 20:56:43",
+      "type": "文本消息",
+      "str_content": "稍等下哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686142624,
+      "formatted_time": "2023-06-07 20:57:04",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686142630,
+      "formatted_time": "2023-06-07 20:57:10",
+      "type": "文本消息",
+      "str_content": "我一直听不见你声音",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686143552,
+      "formatted_time": "2023-06-07 21:12:32",
+      "type": "图文消息",
+      "str_content": "国产占比仅一成！14省耗材集采密集启动",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686143951,
+      "formatted_time": "2023-06-07 21:19:11",
+      "type": "文件消息",
+      "str_content": "起搏器 2022.04.12.pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686145441,
+      "formatted_time": "2023-06-07 21:44:01",
+      "type": "文件消息",
+      "str_content": "2023.06.07微创心律-行业+公司  zt revised(1).pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686145515,
+      "formatted_time": "2023-06-07 21:45:15",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686302209,
+      "formatted_time": "2023-06-09 17:16:49",
+      "type": "文件消息",
+      "str_content": "2023.06.09微创心律-行业+公司.pptx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686302211,
+      "formatted_time": "2023-06-09 17:16:51",
+      "type": "文件消息",
+      "str_content": "2023-06-09 微创心律财务细分.xlsx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686302237,
+      "formatted_time": "2023-06-09 17:17:17",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686302253,
+      "formatted_time": "2023-06-09 17:17:33",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686364593,
+      "formatted_time": "2023-06-10 10:36:33",
+      "type": "文件消息",
+      "str_content": "2023.06.09  中信建投医药生物行业周报-器械+服务 板块 周报.pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686364606,
+      "formatted_time": "2023-06-10 10:36:46",
+      "type": "文本消息",
+      "str_content": "帮我检查一下周报的错别字，尽快哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686364614,
+      "formatted_time": "2023-06-10 10:36:54",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686366418,
+      "formatted_time": "2023-06-10 11:06:58",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686366418,
+      "formatted_time": "2023-06-10 11:06:58",
+      "type": "文本消息",
+      "str_content": "这是我感觉表达的不太清晰的的地方~那个公告口替代我没太看懂是啥意思[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686366418,
+      "formatted_time": "2023-06-10 11:06:58",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686366420,
+      "formatted_time": "2023-06-10 11:07:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686368125,
+      "formatted_time": "2023-06-10 11:35:25",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686448221,
+      "formatted_time": "2023-06-11 09:50:21",
+      "type": "文本消息",
+      "str_content": "师兄，我们这学期快结束了，考试和大作业都堆一块了，可能会有点忙，我大概6.23考完，之后再继续做一些远程的工作可以嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686448246,
+      "formatted_time": "2023-06-11 09:50:46",
+      "type": "文本消息",
+      "str_content": "好的 没问题",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686448257,
+      "formatted_time": "2023-06-11 09:50:57",
+      "type": "文本消息",
+      "str_content": "学生还是要以学业为主",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1686448267,
+      "formatted_time": "2023-06-11 09:51:07",
+      "type": "文本消息",
+      "str_content": "嗯嗯！好嘞好嘞",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686448268,
+      "formatted_time": "2023-06-11 09:51:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687577022,
+      "formatted_time": "2023-06-24 11:23:42",
+      "type": "文件消息",
+      "str_content": "2023.06.24  中信建投医药生物行业周报-器械+服务 板块 周报 V1.pptx.pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687577028,
+      "formatted_time": "2023-06-24 11:23:48",
+      "type": "文本消息",
+      "str_content": "帮我检查一下错别字，语病的内容哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687577033,
+      "formatted_time": "2023-06-24 11:23:53",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687578555,
+      "formatted_time": "2023-06-24 11:49:15",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687578556,
+      "formatted_time": "2023-06-24 11:49:16",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687578556,
+      "formatted_time": "2023-06-24 11:49:16",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687578556,
+      "formatted_time": "2023-06-24 11:49:16",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687578556,
+      "formatted_time": "2023-06-24 11:49:16",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687578556,
+      "formatted_time": "2023-06-24 11:49:16",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687578613,
+      "formatted_time": "2023-06-24 11:50:13",
+      "type": "文本消息",
+      "str_content": "标黄的意思是 ？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687578634,
+      "formatted_time": "2023-06-24 11:50:34",
+      "type": "文本消息",
+      "str_content": "我增加或者修改的词语和标点",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687578659,
+      "formatted_time": "2023-06-24 11:50:59",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687578685,
+      "formatted_time": "2023-06-24 11:51:25",
+      "type": "文本消息",
+      "str_content": "师兄我考完期末了~最近我们要先去福建搞一个实践调研，可能没法抽大段时间来干活，但我想先学学wind的使用，您这边有账号嘛~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687578703,
+      "formatted_time": "2023-06-24 11:51:43",
+      "type": "文本消息",
+      "str_content": "只有同花顺",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687578721,
+      "formatted_time": "2023-06-24 11:52:01",
+      "type": "文本消息",
+      "str_content": "wind现在账号整个研究所都在收紧。 正式员工也没有了",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687578784,
+      "formatted_time": "2023-06-24 11:53:04",
+      "type": "文本消息",
+      "str_content": "账号：zxjt5789\n密码：635157\n下载地址：www.51ifind.com 下载中心下载同花顺iFinDPC版。默认安装，输入账号密码即可登录。",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687578816,
+      "formatted_time": "2023-06-24 11:53:36",
+      "type": "文本消息",
+      "str_content": "噢噢噢好嘞好嘞，谢谢师兄~那我先学着用用~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687578827,
+      "formatted_time": "2023-06-24 11:53:47",
+      "type": "文本消息",
+      "str_content": "里面有教程",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687578852,
+      "formatted_time": "2023-06-24 11:54:12",
+      "type": "文本消息",
+      "str_content": "٩(•̤̀ᵕ•̤́๑)ᵒᵏᵎᵎᵎᵎ",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687663292,
+      "formatted_time": "2023-06-25 11:21:32",
+      "type": "文本消息",
+      "str_content": "全球医疗机器人（或者手术机器人）上市公司的汇总：成立时间，上市时间，主要产品以及装机量、年手术量、累计手术量，年收入、净利润、市值等主要数据；国内最近3年，医疗机器人公司的融资情况，产品获证情况以及装机情况，手术量情况。",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687663306,
+      "formatted_time": "2023-06-25 11:21:46",
+      "type": "文本消息",
+      "str_content": "帮我整理一份数据吧,以excel的形式，明天中午给我哈，有问题随时联系我",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687663366,
+      "formatted_time": "2023-06-25 11:22:46",
+      "type": "文本消息",
+      "str_content": "嗯嗯好的，这个数据来源一般是在哪里呢，是同花顺的那个数据库嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687663416,
+      "formatted_time": "2023-06-25 11:23:36",
+      "type": "文本消息",
+      "str_content": "你先找到这些公司列表，如果是上市公司或者拟上市公司的话，同花顺就能查到数据",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687663433,
+      "formatted_time": "2023-06-25 11:23:53",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687663442,
+      "formatted_time": "2023-06-25 11:24:02",
+      "type": "文本消息",
+      "str_content": "非上市公司的话只能查网页了",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687663648,
+      "formatted_time": "2023-06-25 11:27:28",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687738089,
+      "formatted_time": "2023-06-26 08:08:09",
+      "type": "文本消息",
+      "str_content": "师兄这是我整理的一些数据~，sheet1是上市公司情况，sheet2是国内的融资和获批情况\n因为数据来源比较杂，可能有些公司的业务和产品我找的不太全",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687738089,
+      "formatted_time": "2023-06-26 08:08:09",
+      "type": "文件消息",
+      "str_content": "机器人.xlsx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687738738,
+      "formatted_time": "2023-06-26 08:18:58",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687846746,
+      "formatted_time": "2023-06-27 14:19:06",
+      "type": "文本消息",
+      "str_content": "待会我发你一些照片",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687846782,
+      "formatted_time": "2023-06-27 14:19:42",
+      "type": "文本消息",
+      "str_content": "你帮我整理到ppt里面哈 一个页面放一张图片 可以吗 ？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687846796,
+      "formatted_time": "2023-06-27 14:19:56",
+      "type": "文本消息",
+      "str_content": "有时间吗？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687848754,
+      "formatted_time": "2023-06-27 14:52:34",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我今天下午可能会忙，晚上应该ok\n这个是怎么整理的呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687848981,
+      "formatted_time": "2023-06-27 14:56:21",
+      "type": "文本消息",
+      "str_content": "没事",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687848987,
+      "formatted_time": "2023-06-27 14:56:27",
+      "type": "文本消息",
+      "str_content": "我让其他同学整理了",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1687850098,
+      "formatted_time": "2023-06-27 15:14:58",
+      "type": "文本消息",
+      "str_content": "嗯嗯好的~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688017443,
+      "formatted_time": "2023-06-29 13:44:03",
+      "type": "文本消息",
+      "str_content": "今天有时间帮我整理一个纪要嘛",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688017517,
+      "formatted_time": "2023-06-29 13:45:17",
+      "type": "文本消息",
+      "str_content": "师兄今天我们行程安排的比较满，可能没太有时间[流泪]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688017533,
+      "formatted_time": "2023-06-29 13:45:33",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688175936,
+      "formatted_time": "2023-07-01 09:45:36",
+      "type": "文件消息",
+      "str_content": "2023.06.30   器械周报.pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688175942,
+      "formatted_time": "2023-07-01 09:45:42",
+      "type": "文本消息",
+      "str_content": "检查一下哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688177650,
+      "formatted_time": "2023-07-01 10:14:10",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688179618,
+      "formatted_time": "2023-07-01 10:46:58",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688179618,
+      "formatted_time": "2023-07-01 10:46:58",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688179619,
+      "formatted_time": "2023-07-01 10:46:59",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688179620,
+      "formatted_time": "2023-07-01 10:47:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688179620,
+      "formatted_time": "2023-07-01 10:47:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688179821,
+      "formatted_time": "2023-07-01 10:50:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688362413,
+      "formatted_time": "2023-07-03 13:33:33",
+      "type": "文本消息",
+      "str_content": "今天有时间讨论你接下来的工作安排嘛 ？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688362599,
+      "formatted_time": "2023-07-03 13:36:39",
+      "type": "文本消息",
+      "str_content": "嗯嗯，可以的，晚上您有空嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688362641,
+      "formatted_time": "2023-07-03 13:37:21",
+      "type": "文本消息",
+      "str_content": "七点半之前，九点半之后？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688362673,
+      "formatted_time": "2023-07-03 13:37:53",
+      "type": "文本消息",
+      "str_content": "那就九点半之后吧~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688362686,
+      "formatted_time": "2023-07-03 13:38:06",
+      "type": "文本消息",
+      "str_content": "九点半之后，你发我一下会议链接",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688362776,
+      "formatted_time": "2023-07-03 13:39:36",
+      "type": "文本消息",
+      "str_content": "徐昂 邀请您参加腾讯会议\n会议主题：徐昂预定的会议\n会议时间：2023/07/03 21:40-22:10 (GMT+08:00) 中国标准时间 - 北京\n\n点击链接入会，或添加至会议列表：\nhttps://meeting.tencent.com/dm/B74Ur72JuaDF\n\n#腾讯会议：511-990-448\n\n复制该信息，打开手机腾讯会议即可参与",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688362780,
+      "formatted_time": "2023-07-03 13:39:40",
+      "type": "文本消息",
+      "str_content": "那就九点四十可以嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688362784,
+      "formatted_time": "2023-07-03 13:39:44",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688362792,
+      "formatted_time": "2023-07-03 13:39:52",
+      "type": "文本消息",
+      "str_content": "会前提醒我一下",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688362802,
+      "formatted_time": "2023-07-03 13:40:02",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688390834,
+      "formatted_time": "2023-07-03 21:27:14",
+      "type": "文本消息",
+      "str_content": "师兄记得一会开会~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688391237,
+      "formatted_time": "2023-07-03 21:33:57",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688392792,
+      "formatted_time": "2023-07-03 21:59:52",
+      "type": "文件消息",
+      "str_content": "2023.06.09微创心律-行业+公司.pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688392924,
+      "formatted_time": "2023-07-03 22:02:04",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688452239,
+      "formatted_time": "2023-07-04 14:30:39",
+      "type": "文本消息",
+      "str_content": "徐昂，你现在有空吗？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688452264,
+      "formatted_time": "2023-07-04 14:31:04",
+      "type": "文本消息",
+      "str_content": "师兄我现在在火车上，有什么工作嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688452299,
+      "formatted_time": "2023-07-04 14:31:39",
+      "type": "文本消息",
+      "str_content": "火车上网不好，那算了哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688452307,
+      "formatted_time": "2023-07-04 14:31:47",
+      "type": "文本消息",
+      "str_content": "想让你帮忙查一些资料的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688452369,
+      "formatted_time": "2023-07-04 14:32:49",
+      "type": "文本消息",
+      "str_content": "[捂脸]火车上的网确实不太稳定",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688452582,
+      "formatted_time": "2023-07-04 14:36:22",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688529762,
+      "formatted_time": "2023-07-05 12:02:42",
+      "type": "文本消息",
+      "str_content": "找到这个引用的报告发我哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688529764,
+      "formatted_time": "2023-07-05 12:02:44",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688530345,
+      "formatted_time": "2023-07-05 12:12:25",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688530913,
+      "formatted_time": "2023-07-05 12:21:53",
+      "type": "文件消息",
+      "str_content": "2023062614363871620764.pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688531055,
+      "formatted_time": "2023-07-05 12:24:15",
+      "type": "文本消息",
+      "str_content": "把文件改个标题再发我一下哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688531115,
+      "formatted_time": "2023-07-05 12:25:15",
+      "type": "文件消息",
+      "str_content": "中国心血管健康与疾病报告2022.pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688531117,
+      "formatted_time": "2023-07-05 12:25:17",
+      "type": "文本消息",
+      "str_content": "嗯嗯好嘞",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688531192,
+      "formatted_time": "2023-07-05 12:26:32",
+      "type": "文本消息",
+      "str_content": "德邦外发的材料都在瞎写，这里面哪有起搏器的植入量？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688531338,
+      "formatted_time": "2023-07-05 12:28:58",
+      "type": "引用消息",
+      "str_content": "[发呆]是不是这个文件是报告的概要，我再试试能不能找到报告的原文",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688531354,
+      "formatted_time": "2023-07-05 12:29:14",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688531493,
+      "formatted_time": "2023-07-05 12:31:33",
+      "type": "文件消息",
+      "str_content": "中国心血管健康与疾病报告2022 (全).pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688531501,
+      "formatted_time": "2023-07-05 12:31:41",
+      "type": "文本消息",
+      "str_content": "应该是这里面的，有那个数据[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688531538,
+      "formatted_time": "2023-07-05 12:32:18",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688607694,
+      "formatted_time": "2023-07-06 09:41:34",
+      "type": "文本消息",
+      "str_content": "师兄这是按照上次讨论结果修改后的一版~先健和乐普的数据网上比较少，没找到的我就先空着了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688607694,
+      "formatted_time": "2023-07-06 09:41:34",
+      "type": "文件消息",
+      "str_content": "2023.07.06微创心律-行业+公司.pptx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688607935,
+      "formatted_time": "2023-07-06 09:45:35",
+      "type": "文本消息",
+      "str_content": "好的 收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688638429,
+      "formatted_time": "2023-07-06 18:13:49",
+      "type": "文本消息",
+      "str_content": "有时间帮我整理一个交流纪要吗？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688638529,
+      "formatted_time": "2023-07-06 18:15:29",
+      "type": "文本消息",
+      "str_content": "嗯嗯可以的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688638572,
+      "formatted_time": "2023-07-06 18:16:12",
+      "type": "文本消息",
+      "str_content": "我发你录音哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688638611,
+      "formatted_time": "2023-07-06 18:16:51",
+      "type": "文件消息",
+      "str_content": "20230706_142132.m4a",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688638626,
+      "formatted_time": "2023-07-06 18:17:06",
+      "type": "文本消息",
+      "str_content": "好嘞~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688638912,
+      "formatted_time": "2023-07-06 18:21:52",
+      "type": "文本消息",
+      "str_content": "这个纪要是圆桌论坛会议的形式，可以简单精炼一点",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688639103,
+      "formatted_time": "2023-07-06 18:25:03",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我试着写下",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688740493,
+      "formatted_time": "2023-07-07 22:34:53",
+      "type": "文本消息",
+      "str_content": "师兄，这是昨天的会议纪要，我有两个地方没太听清也没搜到结果，就先标黄了~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688740493,
+      "formatted_time": "2023-07-07 22:34:53",
+      "type": "文件消息",
+      "str_content": "2023.7.6 医疗机器人圆桌会谈纪要.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688741136,
+      "formatted_time": "2023-07-07 22:45:36",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688741137,
+      "formatted_time": "2023-07-07 22:45:37",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688784869,
+      "formatted_time": "2023-07-08 10:54:29",
+      "type": "文件消息",
+      "str_content": "中信建投医药生物行业周报-医疗器械和服务-20230708.pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688784880,
+      "formatted_time": "2023-07-08 10:54:40",
+      "type": "文本消息",
+      "str_content": "帮我检查一下周报内容",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688784888,
+      "formatted_time": "2023-07-08 10:54:48",
+      "type": "文本消息",
+      "str_content": "有问题直接截图给我",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688784951,
+      "formatted_time": "2023-07-08 10:55:51",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688787577,
+      "formatted_time": "2023-07-08 11:39:37",
+      "type": "文本消息",
+      "str_content": "师兄我看了几遍，应该没啥错误",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688787583,
+      "formatted_time": "2023-07-08 11:39:43",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688818147,
+      "formatted_time": "2023-07-08 20:09:07",
+      "type": "文本消息",
+      "str_content": "师兄我明天早上到北京，什么时候开始工作比较合适呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688818226,
+      "formatted_time": "2023-07-08 20:10:26",
+      "type": "文本消息",
+      "str_content": "周一哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688818241,
+      "formatted_time": "2023-07-08 20:10:41",
+      "type": "文本消息",
+      "str_content": "嗯嗯，收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688874582,
+      "formatted_time": "2023-07-09 11:49:42",
+      "type": "文本消息",
+      "str_content": "凯恒中心 B座  12层，中信建投证券",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688874588,
+      "formatted_time": "2023-07-09 11:49:48",
+      "type": "文本消息",
+      "str_content": "明天早上十点前到就可以了，不用太早了",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688874940,
+      "formatted_time": "2023-07-09 11:55:40",
+      "type": "文本消息",
+      "str_content": "嗯嗯好嘞，那我到时候联系您~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688875026,
+      "formatted_time": "2023-07-09 11:57:06",
+      "type": "文本消息",
+      "str_content": "okk",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688906066,
+      "formatted_time": "2023-07-09 20:34:26",
+      "type": "文本消息",
+      "str_content": "师兄我们上班着装有什么要求嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688906163,
+      "formatted_time": "2023-07-09 20:36:03",
+      "type": "文本消息",
+      "str_content": "没有要求 干净整齐就好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688906173,
+      "formatted_time": "2023-07-09 20:36:13",
+      "type": "文本消息",
+      "str_content": "我们晚上讨论要不明天再说吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688906177,
+      "formatted_time": "2023-07-09 20:36:17",
+      "type": "文本消息",
+      "str_content": "明天线下说吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688906182,
+      "formatted_time": "2023-07-09 20:36:22",
+      "type": "文本消息",
+      "str_content": "嗯嗯，🈶可以的~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688952931,
+      "formatted_time": "2023-07-10 09:35:31",
+      "type": "文本消息",
+      "str_content": "师兄我到啦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688952935,
+      "formatted_time": "2023-07-10 09:35:35",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688952952,
+      "formatted_time": "2023-07-10 09:35:52",
+      "type": "文本消息",
+      "str_content": "稍等 我还没有到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1688952959,
+      "formatted_time": "2023-07-10 09:35:59",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688952975,
+      "formatted_time": "2023-07-10 09:36:15",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689050413,
+      "formatted_time": "2023-07-11 12:40:13",
+      "type": "文本消息",
+      "str_content": "点好了跟我说哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689050413,
+      "formatted_time": "2023-07-11 12:40:13",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689050657,
+      "formatted_time": "2023-07-11 12:44:17",
+      "type": "文本消息",
+      "str_content": "我点好啦师兄~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689050665,
+      "formatted_time": "2023-07-11 12:44:25",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689142794,
+      "formatted_time": "2023-07-12 14:19:54",
+      "type": "文本消息",
+      "str_content": "徐昂 ，你过来一下哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689153156,
+      "formatted_time": "2023-07-12 17:12:36",
+      "type": "文本消息",
+      "str_content": "师兄，我一会还有点事，就先走啦~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689153216,
+      "formatted_time": "2023-07-12 17:13:36",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689219344,
+      "formatted_time": "2023-07-13 11:35:44",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689219353,
+      "formatted_time": "2023-07-13 11:35:53",
+      "type": "文本消息",
+      "str_content": "徐昂，这位是？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689219392,
+      "formatted_time": "2023-07-13 11:36:32",
+      "type": "文本消息",
+      "str_content": "这是我舅舅，是他通过刘宁总帮我找的实习~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689219400,
+      "formatted_time": "2023-07-13 11:36:40",
+      "type": "文本消息",
+      "str_content": "哦哦 好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689219405,
+      "formatted_time": "2023-07-13 11:36:45",
+      "type": "文本消息",
+      "str_content": "那我加一下哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689219414,
+      "formatted_time": "2023-07-13 11:36:54",
+      "type": "文本消息",
+      "str_content": "加您可能是想请您吃顿饭感谢下[玫瑰][玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689219421,
+      "formatted_time": "2023-07-13 11:37:01",
+      "type": "文本消息",
+      "str_content": "你跟玮玥都在公司吧，我待会儿过来",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689219446,
+      "formatted_time": "2023-07-13 11:37:26",
+      "type": "文本消息",
+      "str_content": "嗯嗯我们出来吃饭了，快吃完了就回公司",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689219493,
+      "formatted_time": "2023-07-13 11:38:13",
+      "type": "引用消息",
+      "str_content": "哎哟 我的徐昂老板 别了别了 跟舅舅说真不用，你想想我们工作平时强度也挺大，我家里还有个一岁的小娃娃 我多回去陪陪孩子哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689219505,
+      "formatted_time": "2023-07-13 11:38:25",
+      "type": "文本消息",
+      "str_content": "心意领了 你们过来实习本来也是帮我",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689219524,
+      "formatted_time": "2023-07-13 11:38:44",
+      "type": "文本消息",
+      "str_content": "我到时候请你喝玮玥一起吃个便饭就好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689219592,
+      "formatted_time": "2023-07-13 11:39:52",
+      "type": "文本消息",
+      "str_content": "不是不是师兄[捂脸][捂脸]我舅舅打算好久了，打算就请您和刘宁总在咱公司大楼附近中午吃个便饭，不是那种饭局[捂脸][捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689219609,
+      "formatted_time": "2023-07-13 11:40:09",
+      "type": "文本消息",
+      "str_content": "这也是我们家的一点心意嘛[玫瑰][玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689222079,
+      "formatted_time": "2023-07-13 12:21:19",
+      "type": "文本消息",
+      "str_content": "师兄我买好放桌上了[好的]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689222090,
+      "formatted_time": "2023-07-13 12:21:30",
+      "type": "文本消息",
+      "str_content": "好的好的，多谢哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689222105,
+      "formatted_time": "2023-07-13 12:21:45",
+      "type": "文本消息",
+      "str_content": "没事没事[玫瑰][玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689231493,
+      "formatted_time": "2023-07-13 14:58:13",
+      "type": "图文消息",
+      "str_content": "2021年，我国实施132万例PCI，20万例射频消融！中国心血管病医疗质量概述",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689231517,
+      "formatted_time": "2023-07-13 14:58:37",
+      "type": "文本消息",
+      "str_content": "徐昂，帮我下载一下原文发我哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689231527,
+      "formatted_time": "2023-07-13 14:58:47",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689231843,
+      "formatted_time": "2023-07-13 15:04:03",
+      "type": "文件消息",
+      "str_content": "2022年中国心血管病医疗质量概述.pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689304023,
+      "formatted_time": "2023-07-14 11:07:03",
+      "type": "文本消息",
+      "str_content": "师兄，纬玥电脑黑屏，去工体那边修电脑了，说她今天中午在外面吃",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689304053,
+      "formatted_time": "2023-07-14 11:07:33",
+      "type": "文本消息",
+      "str_content": "好的 ，怎么还黑屏了[捂脸]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689304125,
+      "formatted_time": "2023-07-14 11:08:45",
+      "type": "文本消息",
+      "str_content": "不知道[捂脸]，她重启几遍也没好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689304157,
+      "formatted_time": "2023-07-14 11:09:17",
+      "type": "文本消息",
+      "str_content": "好吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689304602,
+      "formatted_time": "2023-07-14 11:16:42",
+      "type": "文件消息",
+      "str_content": "7.14海外对标课题-心脏起搏器.pptx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689304629,
+      "formatted_time": "2023-07-14 11:17:09",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689305157,
+      "formatted_time": "2023-07-14 11:25:57",
+      "type": "文本消息",
+      "str_content": "在v011",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689476773,
+      "formatted_time": "2023-07-16 11:06:13",
+      "type": "文件消息",
+      "str_content": "中信建投医药生物行业周报-20230716- 中报业绩预告梳理(1).pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689476782,
+      "formatted_time": "2023-07-16 11:06:22",
+      "type": "文件消息",
+      "str_content": "2023.07.15医疗器械周报.docx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689476817,
+      "formatted_time": "2023-07-16 11:06:57",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689476924,
+      "formatted_time": "2023-07-16 11:08:44",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689477036,
+      "formatted_time": "2023-07-16 11:10:36",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689477043,
+      "formatted_time": "2023-07-16 11:10:43",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689477179,
+      "formatted_time": "2023-07-16 11:12:59",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689478012,
+      "formatted_time": "2023-07-16 11:26:52",
+      "type": "引用消息",
+      "str_content": "师兄我检查了下，这里面的内容和ppt里面是一致的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689479377,
+      "formatted_time": "2023-07-16 11:49:37",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689565877,
+      "formatted_time": "2023-07-17 11:51:17",
+      "type": "文本消息",
+      "str_content": "郑老师我们几个上来打饭了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689565884,
+      "formatted_time": "2023-07-17 11:51:24",
+      "type": "文本消息",
+      "str_content": "还需要带几份下去嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689565890,
+      "formatted_time": "2023-07-17 11:51:30",
+      "type": "文本消息",
+      "str_content": "不用哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689565901,
+      "formatted_time": "2023-07-17 11:51:41",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689565910,
+      "formatted_time": "2023-07-17 11:51:50",
+      "type": "文本消息",
+      "str_content": "就带一份哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689565921,
+      "formatted_time": "2023-07-17 11:52:01",
+      "type": "文本消息",
+      "str_content": "给沈兴熙",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1689566390,
+      "formatted_time": "2023-07-17 11:59:50",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690189459,
+      "formatted_time": "2023-07-24 17:04:19",
+      "type": "文件消息",
+      "str_content": "国投瑞银 -爱康基金.mp3",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690189476,
+      "formatted_time": "2023-07-24 17:04:36",
+      "type": "文本消息",
+      "str_content": "徐昂，帮我整理一个纪要哈，我跟上市公司聊天的不用整理进去",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690189504,
+      "formatted_time": "2023-07-24 17:05:04",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690189513,
+      "formatted_time": "2023-07-24 17:05:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690189526,
+      "formatted_time": "2023-07-24 17:05:26",
+      "type": "文件消息",
+      "str_content": "2023.07.24  国投瑞银-爱康医疗.docx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690189536,
+      "formatted_time": "2023-07-24 17:05:36",
+      "type": "文本消息",
+      "str_content": "我自己没记下来多少 ，你参考一下哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690189604,
+      "formatted_time": "2023-07-24 17:06:44",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞，这个大概什么时候要呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690189616,
+      "formatted_time": "2023-07-24 17:06:56",
+      "type": "文本消息",
+      "str_content": "今天",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690189619,
+      "formatted_time": "2023-07-24 17:06:59",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690189627,
+      "formatted_time": "2023-07-24 17:07:07",
+      "type": "文本消息",
+      "str_content": "今天哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690189639,
+      "formatted_time": "2023-07-24 17:07:19",
+      "type": "文本消息",
+      "str_content": "好嘞",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690296043,
+      "formatted_time": "2023-07-25 22:40:43",
+      "type": "图文消息",
+      "str_content": "聚光科技-Balyasny 1V1交流【建投医药】",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690296043,
+      "formatted_time": "2023-07-25 22:40:43",
+      "type": "文本消息",
+      "str_content": "记得改名上线哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690296052,
+      "formatted_time": "2023-07-25 22:40:52",
+      "type": "文本消息",
+      "str_content": "提前调试一下录音设备",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690296076,
+      "formatted_time": "2023-07-25 22:41:16",
+      "type": "文本消息",
+      "str_content": "嗯嗯，收到！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690431829,
+      "formatted_time": "2023-07-27 12:23:49",
+      "type": "文本消息",
+      "str_content": "郑老师，我周末打算回一趟山东，明天想请个假~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690431836,
+      "formatted_time": "2023-07-27 12:23:56",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690515660,
+      "formatted_time": "2023-07-28 11:41:00",
+      "type": "文本消息",
+      "str_content": "你今天有时间帮我们整理一个30分钟的纪要嘛？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690515775,
+      "formatted_time": "2023-07-28 11:42:55",
+      "type": "文本消息",
+      "str_content": "嗯嗯，晚上写好可以嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690515810,
+      "formatted_time": "2023-07-28 11:43:30",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690519174,
+      "formatted_time": "2023-07-28 12:39:34",
+      "type": "文件消息",
+      "str_content": "先瑞达医疗 平安基金.mp3",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690519175,
+      "formatted_time": "2023-07-28 12:39:35",
+      "type": "文件消息",
+      "str_content": "2023.07.28  先瑞达医疗-平安基金.docx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690519231,
+      "formatted_time": "2023-07-28 12:40:31",
+      "type": "文本消息",
+      "str_content": "前半部分有大段的读PPT的内容，那些内容你不用管，只需要把穿插的提问和后面的问答环节整理一下",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690519249,
+      "formatted_time": "2023-07-28 12:40:49",
+      "type": "文本消息",
+      "str_content": "嗯嗯好哩",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690546820,
+      "formatted_time": "2023-07-28 20:20:20",
+      "type": "文件消息",
+      "str_content": "2023.07.28  先瑞达医疗-平安基金.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690546827,
+      "formatted_time": "2023-07-28 20:20:27",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690546828,
+      "formatted_time": "2023-07-28 20:20:28",
+      "type": "文本消息",
+      "str_content": "师兄我写好咧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690546997,
+      "formatted_time": "2023-07-28 20:23:17",
+      "type": "文本消息",
+      "str_content": "辛苦啥",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690547019,
+      "formatted_time": "2023-07-28 20:23:39",
+      "type": "文本消息",
+      "str_content": "没事没事",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690593396,
+      "formatted_time": "2023-07-29 09:16:36",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690980975,
+      "formatted_time": "2023-08-02 20:56:15",
+      "type": "文本消息",
+      "str_content": "你现在有空嘛 ？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690980992,
+      "formatted_time": "2023-08-02 20:56:32",
+      "type": "文本消息",
+      "str_content": "嗯嗯有的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690981002,
+      "formatted_time": "2023-08-02 20:56:42",
+      "type": "文件消息",
+      "str_content": "睿远基金.mp3",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690981032,
+      "formatted_time": "2023-08-02 20:57:12",
+      "type": "文本消息",
+      "str_content": "你帮我整理后20分钟的纪要就好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690981069,
+      "formatted_time": "2023-08-02 20:57:49",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690981079,
+      "formatted_time": "2023-08-02 20:57:59",
+      "type": "文本消息",
+      "str_content": "最后20分钟哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690981089,
+      "formatted_time": "2023-08-02 20:58:09",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690984323,
+      "formatted_time": "2023-08-02 21:52:03",
+      "type": "文本消息",
+      "str_content": "好了嘛？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690984744,
+      "formatted_time": "2023-08-02 21:59:04",
+      "type": "文本消息",
+      "str_content": "你先把现在的进度给我吧 ？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1690984822,
+      "formatted_time": "2023-08-02 22:00:22",
+      "type": "文本消息",
+      "str_content": "嗯嗯，刚刚写完",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690984830,
+      "formatted_time": "2023-08-02 22:00:30",
+      "type": "文件消息",
+      "str_content": "睿远基金.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690984838,
+      "formatted_time": "2023-08-02 22:00:38",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691467002,
+      "formatted_time": "2023-08-08 11:56:42",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691467034,
+      "formatted_time": "2023-08-08 11:57:14",
+      "type": "文本消息",
+      "str_content": "我想起来了，去彭博机上看一下日本精密仪器指数成分股包括哪些标的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691467038,
+      "formatted_time": "2023-08-08 11:57:18",
+      "type": "文本消息",
+      "str_content": "截图就行",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691467060,
+      "formatted_time": "2023-08-08 11:57:40",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我下午去试试",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691467064,
+      "formatted_time": "2023-08-08 11:57:44",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691469595,
+      "formatted_time": "2023-08-08 12:39:55",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691469595,
+      "formatted_time": "2023-08-08 12:39:55",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691469602,
+      "formatted_time": "2023-08-08 12:40:02",
+      "type": "文本消息",
+      "str_content": "郑老师，是这个嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691469696,
+      "formatted_time": "2023-08-08 12:41:36",
+      "type": "文本消息",
+      "str_content": "这个名单全嘛",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691469713,
+      "formatted_time": "2023-08-08 12:41:53",
+      "type": "文本消息",
+      "str_content": "嗯嗯，一共三十三个，都在截图里",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691469734,
+      "formatted_time": "2023-08-08 12:42:14",
+      "type": "文本消息",
+      "str_content": "前十没看到？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691469746,
+      "formatted_time": "2023-08-08 12:42:26",
+      "type": "文本消息",
+      "str_content": "他好像就是从11开始标号的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691469772,
+      "formatted_time": "2023-08-08 12:42:52",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691469847,
+      "formatted_time": "2023-08-08 12:44:07",
+      "type": "文本消息",
+      "str_content": "帮忙整理成excel嘛",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691469872,
+      "formatted_time": "2023-08-08 12:44:32",
+      "type": "文本消息",
+      "str_content": "图片转excel 你可以试一下在线工具",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691469896,
+      "formatted_time": "2023-08-08 12:44:56",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691470181,
+      "formatted_time": "2023-08-08 12:49:41",
+      "type": "文件消息",
+      "str_content": "TPPREC 成分股.xlsx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691658258,
+      "formatted_time": "2023-08-10 17:04:18",
+      "type": "图文消息",
+      "str_content": "【建投医药】深圳电生锂专家（碧云资本）",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691665038,
+      "formatted_time": "2023-08-10 18:57:18",
+      "type": "文本消息",
+      "str_content": "记得入会哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691675594,
+      "formatted_time": "2023-08-10 21:53:14",
+      "type": "文本消息",
+      "str_content": "晚上纪要能出来吗",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691675636,
+      "formatted_time": "2023-08-10 21:53:56",
+      "type": "文本消息",
+      "str_content": "emm今天可能要晚一些，那个专家语速特别快输出了不少东西[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691675645,
+      "formatted_time": "2023-08-10 21:54:05",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691679799,
+      "formatted_time": "2023-08-10 23:03:19",
+      "type": "文件消息",
+      "str_content": "2023-8-10 惠泰 碧云资本.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691679835,
+      "formatted_time": "2023-08-10 23:03:55",
+      "type": "文件消息",
+      "str_content": "23-8-10惠泰 碧云资本.zip",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691679864,
+      "formatted_time": "2023-08-10 23:04:24",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691742958,
+      "formatted_time": "2023-08-11 16:35:58",
+      "type": "文件消息",
+      "str_content": "2023.06.07 福瑞股份3.xlsx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691743136,
+      "formatted_time": "2023-08-11 16:38:56",
+      "type": "文本消息",
+      "str_content": "郑老师，还有那个要填的表格没有发",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691743148,
+      "formatted_time": "2023-08-11 16:39:08",
+      "type": "文本消息",
+      "str_content": "对的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691743183,
+      "formatted_time": "2023-08-11 16:39:43",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691744687,
+      "formatted_time": "2023-08-11 17:04:47",
+      "type": "文件消息",
+      "str_content": "福瑞股份-路演材料202303.pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691746864,
+      "formatted_time": "2023-08-11 17:41:04",
+      "type": "文本消息",
+      "str_content": "郑老师我那个锦好医疗的拍上去了，诌了个核心逻辑，后面的蓝帆医疗，康泰医学，麦克奥迪也是这样补全嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691746914,
+      "formatted_time": "2023-08-11 17:41:54",
+      "type": "文本消息",
+      "str_content": "好的 你截图给我看一下哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691747024,
+      "formatted_time": "2023-08-11 17:43:44",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691747046,
+      "formatted_time": "2023-08-11 17:44:06",
+      "type": "文本消息",
+      "str_content": "好 就这样吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1691747052,
+      "formatted_time": "2023-08-11 17:44:12",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691755563,
+      "formatted_time": "2023-08-11 20:06:03",
+      "type": "文件消息",
+      "str_content": "海外市场营收.xlsx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691755574,
+      "formatted_time": "2023-08-11 20:06:14",
+      "type": "文本消息",
+      "str_content": "郑老师我拍完了，这是数据底稿",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691755687,
+      "formatted_time": "2023-08-11 20:08:07",
+      "type": "文本消息",
+      "str_content": "好的哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692080978,
+      "formatted_time": "2023-08-15 14:29:38",
+      "type": "文本消息",
+      "str_content": "有空帮我整理个纪要哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692080999,
+      "formatted_time": "2023-08-15 14:29:59",
+      "type": "文本消息",
+      "str_content": "嗯嗯好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692081021,
+      "formatted_time": "2023-08-15 14:30:21",
+      "type": "文件消息",
+      "str_content": "维力医疗.mp3",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692081030,
+      "formatted_time": "2023-08-15 14:30:30",
+      "type": "文件消息",
+      "str_content": "2023.08.15  维力医疗纪要.docx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692081053,
+      "formatted_time": "2023-08-15 14:30:53",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692081069,
+      "formatted_time": "2023-08-15 14:31:09",
+      "type": "文本消息",
+      "str_content": "这个公司我也不是很了解，你看一下，下游客户的公司名称，自己查一下哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692081084,
+      "formatted_time": "2023-08-15 14:31:24",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692088695,
+      "formatted_time": "2023-08-15 16:38:15",
+      "type": "文件消息",
+      "str_content": "2023.08.15  维力医疗纪要.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692088720,
+      "formatted_time": "2023-08-15 16:38:40",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692165812,
+      "formatted_time": "2023-08-16 14:03:32",
+      "type": "文件消息",
+      "str_content": "诺辉健康2023年上半年业绩预告点评：上半年业绩高增长，三大商业化产品快速放量.docx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692167086,
+      "formatted_time": "2023-08-16 14:24:46",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692167086,
+      "formatted_time": "2023-08-16 14:24:46",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692179208,
+      "formatted_time": "2023-08-16 17:46:48",
+      "type": "文本消息",
+      "str_content": "郑老师，今天晚上什么时候讨论呀[疑问]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692179223,
+      "formatted_time": "2023-08-16 17:47:03",
+      "type": "文本消息",
+      "str_content": "九点吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692179232,
+      "formatted_time": "2023-08-16 17:47:12",
+      "type": "文本消息",
+      "str_content": "好嘞~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692179245,
+      "formatted_time": "2023-08-16 17:47:25",
+      "type": "文本消息",
+      "str_content": "说错了 八点半哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692179248,
+      "formatted_time": "2023-08-16 17:47:28",
+      "type": "文本消息",
+      "str_content": "贰柒 邀请您参加腾讯会议\n会议主题：贰柒预定的会议\n会议时间：2023/08/16 20:30-21:30 (GMT+08:00) 中国标准时间 - 北京\n\n点击链接入会，或添加至会议列表：\nhttps://meeting.tencent.com/dm/puf9rZPm3v3H\n\n#腾讯会议：414-925-574\n\n复制该信息，打开手机腾讯会议即可参与",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692179271,
+      "formatted_time": "2023-08-16 17:47:51",
+      "type": "文本消息",
+      "str_content": "哈哈好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692191173,
+      "formatted_time": "2023-08-16 21:06:13",
+      "type": "文本消息",
+      "str_content": "微创医疗、沛嘉、心通、启明、业聚医疗、先瑞达、微创脑科学。",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692268204,
+      "formatted_time": "2023-08-17 18:30:04",
+      "type": "文本消息",
+      "str_content": "郑老师，今晚七点的讨论有会议号嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692268380,
+      "formatted_time": "2023-08-17 18:33:00",
+      "type": "文本消息",
+      "str_content": "今天晚上临时有晚餐路演 要取消哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692268420,
+      "formatted_time": "2023-08-17 18:33:40",
+      "type": "文本消息",
+      "str_content": "噢噢好嘞",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692354867,
+      "formatted_time": "2023-08-18 18:34:27",
+      "type": "文本消息",
+      "str_content": "[太阳]微电生理发布23年半年报\n\n[玫瑰]23年H1公司实现收入1.42亿元，同比+17%；归母净利润0.02亿元，同比+45%；扣非归母净利润-0.12亿元，同比-2031%。\n[玫瑰]据此计算：23Q2公司实现收入0.90亿元，同比+36%；归母净利润0.11亿元，同比+595%。\n\n[玫瑰]一季度，受电生理省际联盟集中带量采购实施前经销商订货量减少的影响，公司销售收入同比有所下降。第二季度，随着公司产品市场渗透率持续提升，产品竞争力不断增强，集中采购陆续落地执行，手术量快速提升。\n\n[庆祝]国内市场：\n1）报告期内，公司电生理手术量快速提升，同比增长超过50%，截至本报告期末，公司三维手术累计超过4万例，累计覆盖医院900余家。\n2）报告期内，公司开展福建集采执行工作，进行数据维护、配送勾选及三方签约等，截至目前已有20个省份正式执行集采政策。\n3）全面开展TrueForce®压力导管商业化推广，作为首款获得国家药监局批准上市的国产压力导管，从今年2月上市后临床使用至今，已在26个省市完成了300余例压力指导下的射频消融手术，在国内众多中心如北京安贞医院、北京阜外医院等获得了满意疗效和术者好评。\n\n[庆祝]国际市场：截至报告期末，国际市场实现营业收入同比增长超过60%，累计覆盖31个国家和地区；共计新增11款产品在4个国家及地区获得首次注册证，累计20款产品获得CE认证，4款产品获得FDA注册许可。\n\n[庆祝]在研产品管线：\n1）压力感知脉冲消融导管正在开展临床试验，预计2023年年内完成\n2）肾动脉消融导管于今年3月份完成首例临床入组\n3）冷冻消融系列产品已于2022年12月完成国内注册资料递交，预计今年第三季度获批\n4）新布局的可伸缩针消融导管等项目也在研发推进中\n\n[抱拳]以上内容来自公司公告，欢迎联系中信建投医药 贺菊颖/王在存/朱琪璋/郑涛沟通交流",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692354867,
+      "formatted_time": "2023-08-18 18:34:27",
+      "type": "文本消息",
+      "str_content": "帮忙核对一下微电生理的数据哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692355919,
+      "formatted_time": "2023-08-18 18:51:59",
+      "type": "文本消息",
+      "str_content": "郑老师我现在在外面吃饭，可能需要晚上再回去核对[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692355932,
+      "formatted_time": "2023-08-18 18:52:12",
+      "type": "文本消息",
+      "str_content": "没事 那不用了哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692355952,
+      "formatted_time": "2023-08-18 18:52:32",
+      "type": "文本消息",
+      "str_content": "嗯嗯好哩",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692683328,
+      "formatted_time": "2023-08-22 13:48:48",
+      "type": "文本消息",
+      "str_content": "下午四点半方便线上接入一个会议，帮忙录音做纪要嘛",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692683358,
+      "formatted_time": "2023-08-22 13:49:18",
+      "type": "文本消息",
+      "str_content": "嗯嗯ok的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692683384,
+      "formatted_time": "2023-08-22 13:49:44",
+      "type": "图文消息",
+      "str_content": "【建投医药】微电生理1V1交流-建信基金",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692683393,
+      "formatted_time": "2023-08-22 13:49:53",
+      "type": "文本消息",
+      "str_content": "改名字上线哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692683400,
+      "formatted_time": "2023-08-22 13:50:00",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692700604,
+      "formatted_time": "2023-08-22 18:36:44",
+      "type": "文件消息",
+      "str_content": "微电生理 建信基金.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692700612,
+      "formatted_time": "2023-08-22 18:36:52",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692704329,
+      "formatted_time": "2023-08-22 19:38:49",
+      "type": "文本消息",
+      "str_content": "还有一个会议纪要，有时间做吗？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692704413,
+      "formatted_time": "2023-08-22 19:40:13",
+      "type": "文本消息",
+      "str_content": "郑老师，今天我可能做不太了了，刚测了下体温有点发烧[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692704437,
+      "formatted_time": "2023-08-22 19:40:37",
+      "type": "文本消息",
+      "str_content": "好的好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692704443,
+      "formatted_time": "2023-08-22 19:40:43",
+      "type": "文本消息",
+      "str_content": "今天晚上好好休息",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692704525,
+      "formatted_time": "2023-08-22 19:42:05",
+      "type": "文本消息",
+      "str_content": "嗯嗯，好嘞",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692704568,
+      "formatted_time": "2023-08-22 19:42:48",
+      "type": "文本消息",
+      "str_content": "明天早上九点我们一起开个小会 ，有一个很傻逼的课题需要小伙伴帮忙，你到时候如果不方便上会的话也跟我说一下哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692704606,
+      "formatted_time": "2023-08-22 19:43:26",
+      "type": "文本消息",
+      "str_content": "好的好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692704620,
+      "formatted_time": "2023-08-22 19:43:40",
+      "type": "图文消息",
+      "str_content": "sk.预定的会议",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692746519,
+      "formatted_time": "2023-08-23 07:21:59",
+      "type": "文本消息",
+      "str_content": "郑老师我今天还是有点不舒服，早上的会议可能得请个假",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692747602,
+      "formatted_time": "2023-08-23 07:40:02",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692872305,
+      "formatted_time": "2023-08-24 18:18:25",
+      "type": "文本消息",
+      "str_content": "今天有时间帮我写一下惠泰医疗的点评文字？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692872314,
+      "formatted_time": "2023-08-24 18:18:34",
+      "type": "文本消息",
+      "str_content": "他们年报内容今天刚发",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692872323,
+      "formatted_time": "2023-08-24 18:18:43",
+      "type": "文本消息",
+      "str_content": "嗯嗯好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692873224,
+      "formatted_time": "2023-08-24 18:33:44",
+      "type": "文本消息",
+      "str_content": "[庆祝]惠泰医疗发布半年报\n\n[玫瑰]公司2023年上半年实现营业收入7.88亿元（同比+42%），归母净利润2.57亿元（同比+62%），扣非归母净利润为2.42亿元（同比+72%）。\n\n[玫瑰]23Q2单季度实现营业收入4.38亿元（同比+51%），归母净利润1.55亿元（同比+68%），扣非归母净利润1.52亿元（同比+89%）。\n\n[玫瑰]23H1收入同比增长42%，主要系公司销售规模持续扩大，血管介入类产品的覆盖率及入院渗透率进一步提升，海外市场及 OEM 业务持续良好增长；归母净利润和扣非归母净利润分别同比增长62%和72%，主要系销售规模增长、降本控费带来的利润增长。\n\n[玫瑰]电生理业务：上半年公司在超过400家医院完成三维电生理手术3500余例，此外，公司陆续完成了脉冲场（PFA）消融导管临床注册试验和压力感应射频消融导管临床注册试验的受试者入组，目前正处于临床随访阶段。\n\n[玫瑰]血管介入类业务：上半年公司血管介入类产品的覆盖率及入院渗透率进一步提升，产品入院数量较去年同期增长500余家，整体覆盖医院数3000 余家。\n\n[玫瑰]国际业务：上半年公司国际业务整体呈现良好的增长趋势，PCI 自主品牌同比增长96.29%；EP自主品牌同比增长98.09%；国际OEM同比增长 77.95%；PCI自主品牌及EP自主品牌依然是国际业务增长的驱动源头。\n \n以上内容来自公司公告，欢迎联系中信建投医药团队贺菊颖/王在存/朱琪璋/郑涛沟通交流。",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692873229,
+      "formatted_time": "2023-08-24 18:33:49",
+      "type": "文本消息",
+      "str_content": "这个文字给你参考",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692873255,
+      "formatted_time": "2023-08-24 18:34:15",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692878692,
+      "formatted_time": "2023-08-24 20:04:52",
+      "type": "文件消息",
+      "str_content": "惠泰点评报告.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692880061,
+      "formatted_time": "2023-08-24 20:27:41",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692887024,
+      "formatted_time": "2023-08-24 22:23:44",
+      "type": "文本消息",
+      "str_content": "[玫瑰] 赛诺医疗2023中报业绩说明会\n[玫瑰]时间：8月25日 周五 上午10:00\n\n[玫瑰]出席嘉宾：\n康小然/常务副总裁\n黄 凯/董秘\n \n[玫瑰]网络参会: https://s.comein.cn/A1VPQ\n[玫瑰]电话参会：\n+86-4001888933（中国大陆）\n+86-01089632651（中国）\n+853-68258501（中国澳门）\n+886-277414091（中国台湾）\n+1-6468609590（美国）\n+65-31586120（新加坡）\n+852-57006913（中国香港）\n[玫瑰]参会密码： 947665\n\n[玫瑰]如需外呼请联系中信建投医药贺菊颖/王在存/郑涛或对口销售经理",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692887030,
+      "formatted_time": "2023-08-24 22:23:50",
+      "type": "文本消息",
+      "str_content": "明天上午这个时间你有空吗？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692887059,
+      "formatted_time": "2023-08-24 22:24:19",
+      "type": "文本消息",
+      "str_content": "嗯嗯应该是ok的，持续时间大概一个小时嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692887089,
+      "formatted_time": "2023-08-24 22:24:49",
+      "type": "文本消息",
+      "str_content": "对的 ，10-11",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692887096,
+      "formatted_time": "2023-08-24 22:24:56",
+      "type": "文本消息",
+      "str_content": "我ok的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692887211,
+      "formatted_time": "2023-08-24 22:26:51",
+      "type": "文本消息",
+      "str_content": "你负责另外一场哈  我发你链接",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692887227,
+      "formatted_time": "2023-08-24 22:27:07",
+      "type": "文本消息",
+      "str_content": "[玫瑰]先瑞达医疗2023年中报业绩说明会\n[玫瑰]时间：8月25日 周五 上午10:00\n\n[玫瑰]出席嘉宾：\nCEO 李静\n市场销售VP 张慧\n研发VP 卢立中\n董秘&BD总监 李晨\n \n[玫瑰]参会方式：\n会议拨入平台：ZOOM\n会议号：959 3790 3701\t\n密码：218194\t\n\n[抱拳]欢迎随时联系中信建投医药 贺菊颖/王在存/郑涛交流。",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692887230,
+      "formatted_time": "2023-08-24 22:27:10",
+      "type": "文本消息",
+      "str_content": "这场",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692887280,
+      "formatted_time": "2023-08-24 22:28:00",
+      "type": "文本消息",
+      "str_content": "收到，这个就是录音做纪要嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692887285,
+      "formatted_time": "2023-08-24 22:28:05",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692887326,
+      "formatted_time": "2023-08-24 22:28:46",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692929250,
+      "formatted_time": "2023-08-25 10:07:30",
+      "type": "文本消息",
+      "str_content": "接入了嘛",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692929476,
+      "formatted_time": "2023-08-25 10:11:16",
+      "type": "文本消息",
+      "str_content": "嗯嗯，已经接入了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692929483,
+      "formatted_time": "2023-08-25 10:11:23",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692929493,
+      "formatted_time": "2023-08-25 10:11:33",
+      "type": "文本消息",
+      "str_content": "PPT内容就不需要记录了，回头我发你PPT",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692929513,
+      "formatted_time": "2023-08-25 10:11:53",
+      "type": "文本消息",
+      "str_content": "之后的问答环节 要记录一下",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692929527,
+      "formatted_time": "2023-08-25 10:12:07",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692930178,
+      "formatted_time": "2023-08-25 10:22:58",
+      "type": "文本消息",
+      "str_content": "郑老师我这儿有点听不清，这是我的网络问题吗[衰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692930206,
+      "formatted_time": "2023-08-25 10:23:26",
+      "type": "文本消息",
+      "str_content": "应该是公司网络问题",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692932750,
+      "formatted_time": "2023-08-25 11:05:50",
+      "type": "文本消息",
+      "str_content": "需要我发你个录音不？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692932804,
+      "formatted_time": "2023-08-25 11:06:44",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我自己的录音不太清晰[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692933480,
+      "formatted_time": "2023-08-25 11:18:00",
+      "type": "文件消息",
+      "str_content": "先瑞达医疗科技2023年中期业绩回顾-202308.pdf",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692933703,
+      "formatted_time": "2023-08-25 11:21:43",
+      "type": "文件消息",
+      "str_content": "先瑞达医疗(2)(2).mp3",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692933715,
+      "formatted_time": "2023-08-25 11:21:55",
+      "type": "文本消息",
+      "str_content": "PPT上的内容就不做纪要了",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692933728,
+      "formatted_time": "2023-08-25 11:22:08",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692933729,
+      "formatted_time": "2023-08-25 11:22:09",
+      "type": "文本消息",
+      "str_content": "我这边录音也是磕磕绊绊的，应该是对面网络不行",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692933740,
+      "formatted_time": "2023-08-25 11:22:20",
+      "type": "文本消息",
+      "str_content": "纪要尽快给我哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692933760,
+      "formatted_time": "2023-08-25 11:22:40",
+      "type": "文本消息",
+      "str_content": "好的，我这儿也听不太清楚[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692933774,
+      "formatted_time": "2023-08-25 11:22:54",
+      "type": "文本消息",
+      "str_content": "不清楚的话，标记一下就好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1692933781,
+      "formatted_time": "2023-08-25 11:23:01",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692944724,
+      "formatted_time": "2023-08-25 14:25:24",
+      "type": "文件消息",
+      "str_content": "先瑞达投资者会议纪要.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692944733,
+      "formatted_time": "2023-08-25 14:25:33",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693313226,
+      "formatted_time": "2023-08-29 20:47:06",
+      "type": "文本消息",
+      "str_content": "好了不",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693313232,
+      "formatted_time": "2023-08-29 20:47:12",
+      "type": "文本消息",
+      "str_content": "聚光的纪要 ？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693313256,
+      "formatted_time": "2023-08-29 20:47:36",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我八点钟下的课，应该能在半小时内搞完",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693313264,
+      "formatted_time": "2023-08-29 20:47:44",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693316153,
+      "formatted_time": "2023-08-29 21:35:53",
+      "type": "文件消息",
+      "str_content": "2023.08.29 聚光科技交流电话会.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693316162,
+      "formatted_time": "2023-08-29 21:36:02",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693359596,
+      "formatted_time": "2023-08-30 09:39:56",
+      "type": "文本消息",
+      "str_content": "[太阳]赛诺医疗发布23H1业绩报告\n\n[玫瑰]公司23H1实现营收1.61亿元（同比+46%），其中冠脉业务同比增长57%，23年是国家二轮冠脉支架带量集中采购政策落地实施的第一年，公司两款冠脉支架产品均进入集采范围，冠脉支架产品销量大幅增长；神经介入业务营收同比增长37%，其中颅内球囊和颅内支架产品预计同比分别增长16%和107%。上半年公司境外收入0.03亿元，其中支架类产品和球囊类产品分别收入0.017和0.013亿元。\n\n[玫瑰]公司23H1实现归母净利润-0.30亿元（同比+58%），扣非归母净利润为-0.35亿元（同比+52%），主要系产品销售规模增长、降本控费带来的利润亏损收窄。\n\n[玫瑰]单季度看，公司23Q2实现营收0.88亿元（同比+73%），归母净利润-0.14亿元（同比+67%），扣非归母净利润-0.15亿元（同比+65%）。\n\n[玫瑰]23H1，公司冠脉介入领域公司新一代HT Infinity冠脉支架大规格（适用血管直径 4.5mm-5.0mm）、新一代后扩张球囊和新一代预扩张球囊获批。棘突球囊产品已提交注册，预计 2023年下半年获批。神经介入领域，公司自主研发的远端通路导管、颅内血栓抽吸导管、远端通路导引导管、微导管、颅内取栓支架、导引导管、桡动脉通路导引系统等多款神经介入产品相继获批；公司自主研发的颅内自膨药物支架于2023年2月完成临床入组，并完成创新审批资料的提交；涂层密网支架于2023年3月底完成首例临床入组，在4个月内完成临床试验全部病例的入组，计划下半年提交创新通道审批。\n\n以上内容来自公司公告，欢迎联系中信建投医药团队贺菊颖/王在存/郑涛沟通交流。",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693359607,
+      "formatted_time": "2023-08-30 09:40:07",
+      "type": "文本消息",
+      "str_content": "徐昂，你按这个格式写一下佰仁的段子吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693359612,
+      "formatted_time": "2023-08-30 09:40:12",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693363839,
+      "formatted_time": "2023-08-30 10:50:39",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693363851,
+      "formatted_time": "2023-08-30 10:50:51",
+      "type": "文本消息",
+      "str_content": "[太阳]佰仁医疗发布23H1业绩报告\n\n[玫瑰]公司23H1实现营收1.68亿元（同比+19%），主要系一季度受到疫情影响较大，二季度已恢复疫情前的快速增长态势。上半年公司心脏瓣膜置换与修复治疗同比增长7%；先天性心脏病植介入治疗同比增长30%；外科软组织修复同比增长24%。实现归母净利润0.44亿元（同比+19%），扣非归母净利润为0.38亿元（同比+20%）。\n\n[玫瑰]23Q2单季度实现营收1.03亿元（同比+37%），其中二瓣膜置换与修复板块销售收入增长27%，人工生物心脏瓣膜销售收入 3,233.92 万元，同比增长 29.53%；先天性心脏病植介入治疗板块销售收入增长 44.62%；外科软组织修复板块销售收入增长 44.61%。归母净利润为0.33亿元（同比+26%），扣非归母净利润为0.29亿元（同比38%）。\n\n[玫瑰]23H1，公司取得多项研发成果。截至目前，主要在研产品血管生物补片已提交注册申请，球扩式介入主动脉瓣、介入瓣中瓣已进入创新通道，临床试验术后一年随访效果良好，其中介入瓣中瓣已顺利提交注册申请，介入主动脉瓣即将完成注册前准备工作。眼科生物补片产品已完成临床试验术后随访并做好注册前准备，介入肺动脉瓣已完成临床试验入组，分体式介入瓣进展顺利，分体式介入主动脉瓣动物试验效果达到预期。另外，报告期内公司限位可扩张外科瓣产品完成与国家药监局医疗器械技术审评中心的沟通并于近期获得批淮注册，填补了公司瓣膜病治疗产品管线布局。\n\n以上内容来自公司公告，欢迎联系中信建投医药团队贺菊颖/王在存/郑涛沟通交流。",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693363938,
+      "formatted_time": "2023-08-30 10:52:18",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693364390,
+      "formatted_time": "2023-08-30 10:59:50",
+      "type": "文件消息",
+      "str_content": "2023-08-25-688617.SH---惠泰医疗-6886172023年半年度报告.pdf",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693364393,
+      "formatted_time": "2023-08-30 10:59:53",
+      "type": "文件消息",
+      "str_content": "中信建投-惠泰医疗2022年半年报点评：2022年业绩高增长，2023年一季度业绩超预期V2.docx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693364408,
+      "formatted_time": "2023-08-30 11:00:08",
+      "type": "文本消息",
+      "str_content": "帮我检查一下这个点评报告里面的文字和数字哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693364437,
+      "formatted_time": "2023-08-30 11:00:37",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693366425,
+      "formatted_time": "2023-08-30 11:33:45",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693366466,
+      "formatted_time": "2023-08-30 11:34:26",
+      "type": "文本消息",
+      "str_content": "还有这里的小数位数没统一",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693366466,
+      "formatted_time": "2023-08-30 11:34:26",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693366515,
+      "formatted_time": "2023-08-30 11:35:15",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693366605,
+      "formatted_time": "2023-08-30 11:36:45",
+      "type": "文本消息",
+      "str_content": "还有这里的小数位数~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693366606,
+      "formatted_time": "2023-08-30 11:36:46",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693368124,
+      "formatted_time": "2023-08-30 12:02:04",
+      "type": "文本消息",
+      "str_content": "还有其他问题嘛",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693368206,
+      "formatted_time": "2023-08-30 12:03:26",
+      "type": "文本消息",
+      "str_content": "没发现其他的问题了~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693368917,
+      "formatted_time": "2023-08-30 12:15:17",
+      "type": "文本消息",
+      "str_content": "好的哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693472885,
+      "formatted_time": "2023-08-31 17:08:05",
+      "type": "文件消息",
+      "str_content": "010 2137 7332_20230831155958.m4a",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693472903,
+      "formatted_time": "2023-08-31 17:08:23",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693472927,
+      "formatted_time": "2023-08-31 17:08:47",
+      "type": "文件消息",
+      "str_content": "心脉亿.docx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693472933,
+      "formatted_time": "2023-08-31 17:08:53",
+      "type": "文本消息",
+      "str_content": "后半段我记录的不多哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693487028,
+      "formatted_time": "2023-08-31 21:03:48",
+      "type": "文件消息",
+      "str_content": "2023.8.31心脉医疗.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693487377,
+      "formatted_time": "2023-08-31 21:09:37",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693527729,
+      "formatted_time": "2023-09-01 08:22:09",
+      "type": "文本消息",
+      "str_content": "上午十点半，你有时间参加一场线上交流嘛？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1693527755,
+      "formatted_time": "2023-09-01 08:22:35",
+      "type": "文本消息",
+      "str_content": "郑老师我今天上午有课[苦涩]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693528529,
+      "formatted_time": "2023-09-01 08:35:29",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694180403,
+      "formatted_time": "2023-09-08 21:40:03",
+      "type": "文本消息",
+      "str_content": "现在能帮忙嘛？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694180413,
+      "formatted_time": "2023-09-08 21:40:13",
+      "type": "文本消息",
+      "str_content": "嗯嗯可以的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694180420,
+      "formatted_time": "2023-09-08 21:40:20",
+      "type": "文件消息",
+      "str_content": "2023.09.08 福瑞股份路演资料.pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694180444,
+      "formatted_time": "2023-09-08 21:40:44",
+      "type": "文本消息",
+      "str_content": "把15页之后的PPT都修剪成前面的格式哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694180454,
+      "formatted_time": "2023-09-08 21:40:54",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694181180,
+      "formatted_time": "2023-09-08 21:53:00",
+      "type": "文件消息",
+      "str_content": "2023.09.08 福瑞股份路演资料.pptx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694181215,
+      "formatted_time": "2023-09-08 21:53:35",
+      "type": "文件消息",
+      "str_content": "20230908_152732.m4a",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694181230,
+      "formatted_time": "2023-09-08 21:53:50",
+      "type": "文本消息",
+      "str_content": "还有福瑞股份一个30分钟的纪要哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694181253,
+      "formatted_time": "2023-09-08 21:54:13",
+      "type": "文本消息",
+      "str_content": "关键词 ECHOSENS，Fibroscan，NASH",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694181321,
+      "formatted_time": "2023-09-08 21:55:21",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694184696,
+      "formatted_time": "2023-09-08 22:51:36",
+      "type": "文本消息",
+      "str_content": "整理了多少了？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694184714,
+      "formatted_time": "2023-09-08 22:51:54",
+      "type": "文本消息",
+      "str_content": "大概还有十分钟左右",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694184779,
+      "formatted_time": "2023-09-08 22:52:59",
+      "type": "文本消息",
+      "str_content": "好的，最后14分钟我来弄吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694185076,
+      "formatted_time": "2023-09-08 22:57:56",
+      "type": "文件消息",
+      "str_content": "2023.9.8福瑞股份.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694185081,
+      "formatted_time": "2023-09-08 22:58:01",
+      "type": "文本消息",
+      "str_content": "嗯嗯，这是前20分钟的~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694228142,
+      "formatted_time": "2023-09-09 10:55:42",
+      "type": "文件消息",
+      "str_content": "【器械服务部分】中信建投医药生物行业周报-20230909.pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694228152,
+      "formatted_time": "2023-09-09 10:55:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694228158,
+      "formatted_time": "2023-09-09 10:55:58",
+      "type": "文本消息",
+      "str_content": "帮忙检查一下周报内容哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694228164,
+      "formatted_time": "2023-09-09 10:56:04",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694229714,
+      "formatted_time": "2023-09-09 11:21:54",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694229724,
+      "formatted_time": "2023-09-09 11:22:04",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694236985,
+      "formatted_time": "2023-09-09 13:23:05",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694600279,
+      "formatted_time": "2023-09-13 18:17:59",
+      "type": "文本消息",
+      "str_content": "你查一下这两个公司的点评核对一下数据",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694600279,
+      "formatted_time": "2023-09-13 18:17:59",
+      "type": "文件消息",
+      "str_content": "鱼跃医疗-2023中报点评-呼吸制氧板块高速增长，品牌影响力持续提升-20230912.docx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694600279,
+      "formatted_time": "2023-09-13 18:17:59",
+      "type": "文件消息",
+      "str_content": "乐普医疗-2023中报点评-高基数下业绩短期承压，研发项目稳步推进-20230912.docx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694600280,
+      "formatted_time": "2023-09-13 18:18:00",
+      "type": "文件消息",
+      "str_content": "财务预测与估值模型-鱼跃医疗-202309.xls",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694600280,
+      "formatted_time": "2023-09-13 18:18:00",
+      "type": "文件消息",
+      "str_content": "中信建投-乐普医疗估值模型-20230830.xls",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694600318,
+      "formatted_time": "2023-09-13 18:18:38",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694600338,
+      "formatted_time": "2023-09-13 18:18:58",
+      "type": "文本消息",
+      "str_content": "也看一下文字是否有问题，多谢哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694600347,
+      "formatted_time": "2023-09-13 18:19:07",
+      "type": "文本消息",
+      "str_content": "好的好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694600359,
+      "formatted_time": "2023-09-13 18:19:19",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694604672,
+      "formatted_time": "2023-09-13 19:31:12",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694604682,
+      "formatted_time": "2023-09-13 19:31:22",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694604695,
+      "formatted_time": "2023-09-13 19:31:35",
+      "type": "文本消息",
+      "str_content": "郑老师我查的这两处数据不一样",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694604700,
+      "formatted_time": "2023-09-13 19:31:40",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1694604703,
+      "formatted_time": "2023-09-13 19:31:43",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1695132534,
+      "formatted_time": "2023-09-19 22:08:54",
+      "type": "文件消息",
+      "str_content": "2023.09.19 心脉医疗中报点评报告.docx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1695132559,
+      "formatted_time": "2023-09-19 22:09:19",
+      "type": "文本消息",
+      "str_content": "徐昂，帮我检查一下心脉的中报点评，文字和数字哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1695132565,
+      "formatted_time": "2023-09-19 22:09:25",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695134426,
+      "formatted_time": "2023-09-19 22:40:26",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695134439,
+      "formatted_time": "2023-09-19 22:40:39",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695170116,
+      "formatted_time": "2023-09-20 08:35:16",
+      "type": "文本消息",
+      "str_content": "只有这两个错误哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1695177169,
+      "formatted_time": "2023-09-20 10:32:49",
+      "type": "文本消息",
+      "str_content": "嗯嗯是的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695177215,
+      "formatted_time": "2023-09-20 10:33:35",
+      "type": "文本消息",
+      "str_content": "okk",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1695366683,
+      "formatted_time": "2023-09-22 15:11:23",
+      "type": "文件消息",
+      "str_content": "20230919.沛嘉医疗中报简评报告.docx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1695366694,
+      "formatted_time": "2023-09-22 15:11:34",
+      "type": "文本消息",
+      "str_content": "帮忙检查一下沛嘉的中报点评哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1695369820,
+      "formatted_time": "2023-09-22 16:03:40",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695374186,
+      "formatted_time": "2023-09-22 17:16:26",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695374187,
+      "formatted_time": "2023-09-22 17:16:27",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695374187,
+      "formatted_time": "2023-09-22 17:16:27",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695374187,
+      "formatted_time": "2023-09-22 17:16:27",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695374204,
+      "formatted_time": "2023-09-22 17:16:44",
+      "type": "文本消息",
+      "str_content": "郑老师我共找到这四处",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695374273,
+      "formatted_time": "2023-09-22 17:17:53",
+      "type": "文本消息",
+      "str_content": "好的哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1695377080,
+      "formatted_time": "2023-09-22 18:04:40",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1695377096,
+      "formatted_time": "2023-09-22 18:04:56",
+      "type": "文本消息",
+      "str_content": "第四张图我是参考这个数据的，我把前面的描述改一下",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1695377251,
+      "formatted_time": "2023-09-22 18:07:31",
+      "type": "文本消息",
+      "str_content": "嗯嗯，下次我再细细对照中报看下~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695377256,
+      "formatted_time": "2023-09-22 18:07:36",
+      "type": "文本消息",
+      "str_content": "好的哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1695446118,
+      "formatted_time": "2023-09-23 13:15:18",
+      "type": "文件消息",
+      "str_content": "中信建投医药生物行业周报-20230923 器械周报.pptx",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1695446128,
+      "formatted_time": "2023-09-23 13:15:28",
+      "type": "文本消息",
+      "str_content": "帮忙检查一下周报的这部分内容哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1695446139,
+      "formatted_time": "2023-09-23 13:15:39",
+      "type": "文本消息",
+      "str_content": "不需要核对数字，就看有没有错别字",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1695446173,
+      "formatted_time": "2023-09-23 13:16:13",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695449515,
+      "formatted_time": "2023-09-23 14:11:55",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695449522,
+      "formatted_time": "2023-09-23 14:12:02",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695449530,
+      "formatted_time": "2023-09-23 14:12:10",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695449538,
+      "formatted_time": "2023-09-23 14:12:18",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695449545,
+      "formatted_time": "2023-09-23 14:12:25",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695449561,
+      "formatted_time": "2023-09-23 14:12:41",
+      "type": "文本消息",
+      "str_content": "郑老师这是我找到的错误",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695449647,
+      "formatted_time": "2023-09-23 14:14:07",
+      "type": "文本消息",
+      "str_content": "好的 收到",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1698743181,
+      "formatted_time": "2023-10-31 17:06:21",
+      "type": "文本消息",
+      "str_content": "郑老师，我们学校最近有一些课程，涉及到一些财务报表的导出，我想着用同花顺的那个ifind可以导出的快一些，但我之前的那个账号好像登不上去了，想问下您这边还有另外的账号嘛[可怜]能暂时借用下嘛[可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698743397,
+      "formatted_time": "2023-10-31 17:09:57",
+      "type": "文本消息",
+      "str_content": "你要不先用我的账号",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1698743449,
+      "formatted_time": "2023-10-31 17:10:49",
+      "type": "文本消息",
+      "str_content": "嗯嗯，太好了！谢谢郑老师[可怜][玫瑰][玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698743463,
+      "formatted_time": "2023-10-31 17:11:03",
+      "type": "文本消息",
+      "str_content": "账号：zxjt5789\n密码：635157\n下载地址：www.51ifind.com 下载中心下载同花顺iFinDPC版。默认安装，输入账号密码即可登录。",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1698743463,
+      "formatted_time": "2023-10-31 17:11:03",
+      "type": "文本消息",
+      "str_content": "账号：zxjt5788\n密码：552385\n下载地址：www.51ifind.com 下载中心下载同花顺iFinDPC版。默认安装，输入账号密码即可登录。",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1698743474,
+      "formatted_time": "2023-10-31 17:11:14",
+      "type": "文本消息",
+      "str_content": "我账号密码忘了，你试一下这两个账号",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1698743478,
+      "formatted_time": "2023-10-31 17:11:18",
+      "type": "文本消息",
+      "str_content": "应该可以登录哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1698743597,
+      "formatted_time": "2023-10-31 17:13:17",
+      "type": "文本消息",
+      "str_content": "郑老师 不知道为啥，这俩好像都被锁了[苦涩]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698743602,
+      "formatted_time": "2023-10-31 17:13:22",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698743602,
+      "formatted_time": "2023-10-31 17:13:22",
+      "type": "文本消息",
+      "str_content": "哎",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1698743615,
+      "formatted_time": "2023-10-31 17:13:35",
+      "type": "文本消息",
+      "str_content": "那我找一下我的密码 稍等",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1698743647,
+      "formatted_time": "2023-10-31 17:14:07",
+      "type": "文本消息",
+      "str_content": "嗯嗯，麻烦您了！[可怜][可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698743789,
+      "formatted_time": "2023-10-31 17:16:29",
+      "type": "文本消息",
+      "str_content": "账号：zxjt2175\n密码：zt986223",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1698743859,
+      "formatted_time": "2023-10-31 17:17:39",
+      "type": "文本消息",
+      "str_content": "登进去了登进去了，太谢谢郑老师了！[玫瑰][玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698743868,
+      "formatted_time": "2023-10-31 17:17:48",
+      "type": "文本消息",
+      "str_content": "okk 没事情",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1707534553,
+      "formatted_time": "2024-02-10 11:09:13",
+      "type": "文本消息",
+      "str_content": "郑老师新年快乐！感谢您在实习期间给我的帮助和支持，那段宝贵的经历让我受益良多，祝您在新的一年中龙行龘龘发大财，前程朤朤好运来！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707555868,
+      "formatted_time": "2024-02-10 17:04:28",
+      "type": "文本消息",
+      "str_content": "多谢多谢，新年快乐哈～",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1711856091,
+      "formatted_time": "2024-03-31 11:34:51",
+      "type": "文本消息",
+      "str_content": "郑老师，我最近在申请保研夏令营，其中的实习经历最好还是有一个证明（虽然卡的并不严格），想请教下您这边可以开一个不含公章的背调证明嘛？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711856200,
+      "formatted_time": "2024-03-31 11:36:40",
+      "type": "文本消息",
+      "str_content": "如果不含公章的话，对格式有什么要求嘛？",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1711856205,
+      "formatted_time": "2024-03-31 11:36:45",
+      "type": "文本消息",
+      "str_content": "我的简历上对于实习经历是这样描述的，您这边有什么建议吗[可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711856205,
+      "formatted_time": "2024-03-31 11:36:45",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711856249,
+      "formatted_time": "2024-03-31 11:37:29",
+      "type": "文本消息",
+      "str_content": "我帮你改的稍微合规一点吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1711856273,
+      "formatted_time": "2024-03-31 11:37:53",
+      "type": "文本消息",
+      "str_content": "嗯嗯，感谢郑老师~那我这边草拟一份证明，您再看一下~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711856437,
+      "formatted_time": "2024-03-31 11:40:37",
+      "type": "文本消息",
+      "str_content": "协助分析师进行医疗器械行业和相关上市公司的研究，在分析师指导下主笔撰写一篇公司深度报告。整理在库上市公司年报及一季报,协助撰写了27家公司的二季度跟踪报告。\n多次参与上市公司年报/季报公开电话会，并将一手资料整理为会议纪要。累积撰写10+篇会议纪要。协助分析师完成其他日常工作：利用Wind、ifinD、Bloomberg等投研平台整理数据、更新行业动态；协助完成10+篇周报。",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1711856477,
+      "formatted_time": "2024-03-31 11:41:17",
+      "type": "文本消息",
+      "str_content": "公司深度报告那边，可以用一句话展开写一下对这个公司或者报告的理解",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1711856791,
+      "formatted_time": "2024-03-31 11:46:31",
+      "type": "文本消息",
+      "str_content": "好的好的，感谢郑老师，我再改一下实习描述~我草拟了一份这样子的实习证明，您看可以嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711856794,
+      "formatted_time": "2024-03-31 11:46:34",
+      "type": "文件消息",
+      "str_content": "实习证明.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711856956,
+      "formatted_time": "2024-03-31 11:49:16",
+      "type": "文本消息",
+      "str_content": "我给你一个电子签名就可以，对吧",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1711856963,
+      "formatted_time": "2024-03-31 11:49:23",
+      "type": "文本消息",
+      "str_content": "嗯嗯是的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711857027,
+      "formatted_time": "2024-03-31 11:50:27",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1711857031,
+      "formatted_time": "2024-03-31 11:50:31",
+      "type": "文本消息",
+      "str_content": "这个哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1711857049,
+      "formatted_time": "2024-03-31 11:50:49",
+      "type": "文本消息",
+      "str_content": "收到！感谢郑老师~~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711857160,
+      "formatted_time": "2024-03-31 11:52:40",
+      "type": "文本消息",
+      "str_content": "没事没事",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1711857170,
+      "formatted_time": "2024-03-31 11:52:50",
+      "type": "文本消息",
+      "str_content": "预祝你申请顺利哈 你可以的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1711857281,
+      "formatted_time": "2024-03-31 11:54:41",
+      "type": "文本消息",
+      "str_content": "谢谢郑老师！等我拿到了offer一定来向您汇报~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711857294,
+      "formatted_time": "2024-03-31 11:54:54",
+      "type": "文本消息",
+      "str_content": "哈哈哈 好～",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721210341,
+      "formatted_time": "2024-07-17 17:59:01",
+      "type": "文本消息",
+      "str_content": "郑老师，向您汇报下，我基本确定保研到北大汇丰的数量金融专硕了~谢谢您一路的帮助！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721210412,
+      "formatted_time": "2024-07-17 18:00:12",
+      "type": "文本消息",
+      "str_content": "嗯嗯  恭喜恭喜！",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721210522,
+      "formatted_time": "2024-07-17 18:02:02",
+      "type": "文本消息",
+      "str_content": "[呲牙]虽然不知道这算不算49入国军，但也算得偿所愿啦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721211056,
+      "formatted_time": "2024-07-17 18:10:56",
+      "type": "文本消息",
+      "str_content": "那你要去深圳吗",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721211121,
+      "formatted_time": "2024-07-17 18:12:01",
+      "type": "文本消息",
+      "str_content": "对的，研究生应该是在深圳读了，不过实习和就业无论北上深，我都还是很愿意尝试的[呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721211132,
+      "formatted_time": "2024-07-17 18:12:12",
+      "type": "文本消息",
+      "str_content": "哈哈哈 可以可以",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721211145,
+      "formatted_time": "2024-07-17 18:12:25",
+      "type": "文本消息",
+      "str_content": "后续要是还想来实习随时跟我说",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721211197,
+      "formatted_time": "2024-07-17 18:13:17",
+      "type": "文本消息",
+      "str_content": "好的好的！感谢郑老师！我准备暑期先调整一下状态，大四可能还是得努力找找机会~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721211213,
+      "formatted_time": "2024-07-17 18:13:33",
+      "type": "文本消息",
+      "str_content": "嗯嗯  好的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721276098,
+      "formatted_time": "2024-07-18 12:14:58",
+      "type": "文本消息",
+      "str_content": "你想去中欧实习吗？现在有一个推荐的机会",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721276454,
+      "formatted_time": "2024-07-18 12:20:54",
+      "type": "文本消息",
+      "str_content": "嗯嗯很想的，郑老师，具体是什么岗位呢，线上还是线下呀[哇][哇]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721276474,
+      "formatted_time": "2024-07-18 12:21:14",
+      "type": "文本消息",
+      "str_content": "就是研究助理",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721276509,
+      "formatted_time": "2024-07-18 12:21:49",
+      "type": "文本消息",
+      "str_content": "是类似于医疗这种行业的行研嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721276516,
+      "formatted_time": "2024-07-18 12:21:56",
+      "type": "文本消息",
+      "str_content": "对的",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721276683,
+      "formatted_time": "2024-07-18 12:24:43",
+      "type": "文本消息",
+      "str_content": "郑老师，非常感谢您的推荐和关心！不过我近期的职业规划是想要探索一下量化领域（和我的硕士专业可能更对口一些），所以暂时就不考虑其他方向的机会了~真的很感谢郑老师的推荐！！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721276696,
+      "formatted_time": "2024-07-18 12:24:56",
+      "type": "文本消息",
+      "str_content": "嗯嗯 好",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721276719,
+      "formatted_time": "2024-07-18 12:25:19",
+      "type": "文本消息",
+      "str_content": "需要帮你推一个量化的实习不",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721276744,
+      "formatted_time": "2024-07-18 12:25:44",
+      "type": "文本消息",
+      "str_content": "可以的可以的！量化和金工研究组都是ok的！[哇][哇]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721276828,
+      "formatted_time": "2024-07-18 12:27:08",
+      "type": "文本消息",
+      "str_content": "你更新一个简历给我哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721276874,
+      "formatted_time": "2024-07-18 12:27:54",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721276889,
+      "formatted_time": "2024-07-18 12:28:09",
+      "type": "文件消息",
+      "str_content": "附件简历-徐昂-证券 基金 期货.pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721276937,
+      "formatted_time": "2024-07-18 12:28:57",
+      "type": "文本消息",
+      "str_content": "天呐是九坤吗[哇]，感觉相比九坤要求，我的经历还是比较少[捂脸][捂脸]所以想着如果可以的话，从小司开始历练也是很好的~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721276989,
+      "formatted_time": "2024-07-18 12:29:49",
+      "type": "文本消息",
+      "str_content": "试一下咯",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721277023,
+      "formatted_time": "2024-07-18 12:30:23",
+      "type": "文本消息",
+      "str_content": "嗯嗯！谢谢郑老师的推荐！！麻烦您了！[哇][哇]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721277029,
+      "formatted_time": "2024-07-18 12:30:29",
+      "type": "文本消息",
+      "str_content": "不客气哈",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721279135,
+      "formatted_time": "2024-07-18 13:05:35",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721279387,
+      "formatted_time": "2024-07-18 13:09:47",
+      "type": "文本消息",
+      "str_content": "我都可以的郑老师！如果不可以远程的话可以在北京或上海租房",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721279502,
+      "formatted_time": "2024-07-18 13:11:42",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721279539,
+      "formatted_time": "2024-07-18 13:12:19",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    },
+    {
+      "create_time": 1721279643,
+      "formatted_time": "2024-07-18 13:14:03",
+      "type": "文本消息",
+      "str_content": "好的好的，明白！感谢郑老师的推荐！麻烦您了！！[哇][哇]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721279730,
+      "formatted_time": "2024-07-18 13:15:30",
+      "type": "文本消息",
+      "str_content": "okk",
+      "is_send": 0,
+      "sender_name": "郑涛"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:41+08:00",
+  "message_count": 677
+}

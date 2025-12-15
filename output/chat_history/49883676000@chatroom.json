@@ -1,0 +1,57 @@
+{
+  "session_id": "49883676000@chatroom",
+  "session_name": "49883676000@chatroom",
+  "messages": [
+    {
+      "create_time": 1719652505,
+      "formatted_time": "2024-06-29 17:15:05",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1719652507,
+      "formatted_time": "2024-06-29 17:15:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "49883676000@chatroom",
+      "sender_wxid": "49883676000@chatroom"
+    },
+    {
+      "create_time": 1719652512,
+      "formatted_time": "2024-06-29 17:15:12",
+      "type": "文本消息",
+      "str_content": "保研声MOCK专场\n\n项目：汇丰·数量金融\t6.29\t19:00-19:30\n\n1⃣物料准备\n电脑、手机（备用）、良好网络状况、安静环境\n\n2⃣注意事项\n1）面试以腾讯会议视频方式，建议首选电脑接收腾讯会议视频，如用手机请正对自己并确保电量充足，仪表仪态列入考核范围\n2）提前10分钟”导师“需要把MOCK会议链接发送至本群内，提前5分钟点名，测试网络环境\n3）在其他同学发言时，为了避免杂音等影响，开启静音\n4）断网或网络不好请及时退出重连\n\n‼ps:此群内所有学员已确定好时间！不可请假！不补面！请必须此时间到场！！\n\n💓收到请回复哦!!! 面试加油~~",
+      "is_send": 0,
+      "sender_name": "小阳老师",
+      "sender_wxid": "25984982947563951@openim"
+    },
+    {
+      "create_time": 1719653032,
+      "formatted_time": "2024-06-29 17:23:52",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1719658339,
+      "formatted_time": "2024-06-29 18:52:19",
+      "type": "文本消息",
+      "str_content": "#腾讯会议：682-913-165",
+      "is_send": 0,
+      "sender_name": "无",
+      "sender_wxid": "wxid_i0x55q0mgvuz22"
+    },
+    {
+      "create_time": 1719841994,
+      "formatted_time": "2024-07-01 21:53:14",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    }
+  ],
+  "export_time": "2025-12-15T00:08:31+08:00",
+  "message_count": 6
+}

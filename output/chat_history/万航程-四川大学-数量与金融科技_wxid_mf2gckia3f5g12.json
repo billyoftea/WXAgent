@@ -1,0 +1,48 @@
+{
+  "session_id": "wxid_mf2gckia3f5g12",
+  "session_name": "万航程-四川大学-数量与金融科技",
+  "messages": [
+    {
+      "create_time": 1756199165,
+      "formatted_time": "2025-08-26 17:06:05",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "万航程-四川大学-数量与金融科技"
+    },
+    {
+      "create_time": 1756199165,
+      "formatted_time": "2025-08-26 17:06:05",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "万航程-四川大学-数量与金融科技"
+    },
+    {
+      "create_time": 1756199200,
+      "formatted_time": "2025-08-26 17:06:40",
+      "type": "文本消息",
+      "str_content": "hi😁",
+      "is_send": 0,
+      "sender_name": "万航程-四川大学-数量与金融科技"
+    },
+    {
+      "create_time": 1756199223,
+      "formatted_time": "2025-08-26 17:07:03",
+      "type": "文本消息",
+      "str_content": "hihi",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1756199224,
+      "formatted_time": "2025-08-26 17:07:04",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:23+08:00",
+  "message_count": 5
+}

@@ -38,6 +38,7 @@ func (s *Server) routes() {
 	s.mux.HandleFunc("/sessions", s.handleListSessions)
 	s.mux.HandleFunc("/sessions/describe", s.handleDescribeSession)
 	s.mux.HandleFunc("/summary/run", s.handleRunSummary)
+	s.mux.HandleFunc("/summary/run-stream", s.handleRunSummaryStream)
 	s.mux.HandleFunc("/summary/history", s.handleSummaryHistory)
 	s.mux.HandleFunc("/summary/history/content", s.handleSummaryHistoryContent)
 	s.mux.HandleFunc("/summary/export", s.handleExportFiltered)
@@ -239,6 +240,7 @@ func (s *Server) handleRunSummary(w http.ResponseWriter, r *http.Request) {
 			"total_sessions": result.TotalSessions,
 			"chunk_count":    result.ChunkCount,
 			"summaries":      result.Summaries,
+			"logs":           result.Logs,
 		})
 		return
 	}
@@ -252,6 +254,79 @@ func (s *Server) handleRunSummary(w http.ResponseWriter, r *http.Request) {
 	}
 
 	jsonResponse(w, res)
+}
+
+// handleRunSummaryStream SSE 流式分析端点
+func (s *Server) handleRunSummaryStream(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodPost {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	var req SummarizeRequest
+	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		return
+	}
+
+	// 设置 SSE 响应头
+	w.Header().Set("Content-Type", "text/event-stream")
+	w.Header().Set("Cache-Control", "no-cache")
+	w.Header().Set("Connection", "keep-alive")
+	w.Header().Set("Access-Control-Allow-Origin", "*")
+
+	flusher, ok := w.(http.Flusher)
+	if !ok {
+		http.Error(w, "Streaming not supported", http.StatusInternalServerError)
+		return
+	}
+
+	// 辅助函数：发送 SSE 事件
+	sendEvent := func(eventType string, data any) {
+		jsonData, _ := json.Marshal(data)
+		w.Write([]byte("event: " + eventType + "\n"))
+		w.Write([]byte("data: " + string(jsonData) + "\n\n"))
+		flusher.Flush()
+	}
+
+	log.Println("🔍 [SSE] 开始流式分析...")
+
+	maxTokens := req.MaxTokens
+	if maxTokens == 0 {
+		maxTokens = 80000
+	}
+
+	// 使用流式分析
+	result, err := s.pipeline.AnalyzeChatStream(
+		req.StartDate, req.EndDate, req.Sessions, maxTokens, "",
+		func(event pipeline.StreamEvent) {
+			sendEvent(event.Type, map[string]any{
+				"content": event.Content,
+				"step":    event.Step,
+				"total":   event.Total,
+			})
+		},
+	)
+
+	if err != nil {
+		log.Printf("❌ [SSE] 流式分析失败: %v", err)
+		sendEvent("error", map[string]string{"message": err.Error()})
+		return
+	}
+
+	// 发送最终结果
+	sendEvent("result", map[string]any{
+		"status":         "success",
+		"mode":           "merged",
+		"content":        result.FinalSummary,
+		"output_path":    result.OutputFile,
+		"total_messages": result.TotalMessages,
+		"total_sessions": result.TotalSessions,
+		"chunk_count":    result.ChunkCount,
+	})
+
+	log.Printf("✅ [SSE] 流式分析完成: %d 条消息, %d 个会话",
+		result.TotalMessages, result.TotalSessions)
 }
 
 func jsonResponse(w http.ResponseWriter, data any) {

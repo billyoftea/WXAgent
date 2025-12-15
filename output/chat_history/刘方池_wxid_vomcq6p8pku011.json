@@ -1,0 +1,248 @@
+{
+  "session_id": "wxid_vomcq6p8pku011",
+  "session_name": "刘方池",
+  "messages": [
+    {
+      "create_time": 1699273814,
+      "formatted_time": "2023-11-06 20:30:14",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "刘方池"
+    },
+    {
+      "create_time": 1699274190,
+      "formatted_time": "2023-11-06 20:36:30",
+      "type": "文本消息",
+      "str_content": "你好！",
+      "is_send": 0,
+      "sender_name": "刘方池"
+    },
+    {
+      "create_time": 1699274398,
+      "formatted_time": "2023-11-06 20:39:58",
+      "type": "文本消息",
+      "str_content": "刘老师好！听了您的课我感觉受益匪浅，感觉确实是一节课顶一学期的课，忍不住加了您的微信，以后有不懂的问题可能要向您多多请教~！[愉快][玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1699274432,
+      "formatted_time": "2023-11-06 20:40:32",
+      "type": "文本消息",
+      "str_content": "多多交流！",
+      "is_send": 0,
+      "sender_name": "刘方池"
+    },
+    {
+      "create_time": 1699274452,
+      "formatted_time": "2023-11-06 20:40:52",
+      "type": "文本消息",
+      "str_content": "我非常乐意",
+      "is_send": 0,
+      "sender_name": "刘方池"
+    },
+    {
+      "create_time": 1699274714,
+      "formatted_time": "2023-11-06 20:45:14",
+      "type": "文本消息",
+      "str_content": "嗯嗯，老师课讲的实在是太好了！解答了好多我之前的疑惑！[可怜][玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702993262,
+      "formatted_time": "2023-12-19 21:41:02",
+      "type": "文本消息",
+      "str_content": "刘老师好！想请教下您，在研究公司业绩变脸时，我想要找到预告业绩和真实业绩之间的差异是由哪些会计科目导致的，但我根据公开数据只找到了上市公司业绩预告中估计的净利润，每股收入等，而业绩预告修正公告中也只提到了预告修正的大体原因，并不会给出具体科目以及对应的金额，那我们课堂上的这个图片是怎么统计的呀~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702993274,
+      "formatted_time": "2023-12-19 21:41:14",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702993529,
+      "formatted_time": "2023-12-19 21:45:29",
+      "type": "文本消息",
+      "str_content": "修正公告里应该有其解释",
+      "is_send": 0,
+      "sender_name": "刘方池"
+    },
+    {
+      "create_time": 1702993578,
+      "formatted_time": "2023-12-19 21:46:18",
+      "type": "文本消息",
+      "str_content": "多找几份看看",
+      "is_send": 0,
+      "sender_name": "刘方池"
+    },
+    {
+      "create_time": 1702993751,
+      "formatted_time": "2023-12-19 21:49:11",
+      "type": "文本消息",
+      "str_content": "嗯嗯，刘老师，修正公告里有一个简单的原因说明，但这里的数字很模糊甚至根本没有数字[撇嘴]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702993769,
+      "formatted_time": "2023-12-19 21:49:29",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702993769,
+      "formatted_time": "2023-12-19 21:49:29",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702993797,
+      "formatted_time": "2023-12-19 21:49:57",
+      "type": "文本消息",
+      "str_content": "这是海默科技和泰禾集团披露的业绩修正原因",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702995110,
+      "formatted_time": "2023-12-19 22:11:50",
+      "type": "文本消息",
+      "str_content": "选一部分",
+      "is_send": 0,
+      "sender_name": "刘方池"
+    },
+    {
+      "create_time": 1702995327,
+      "formatted_time": "2023-12-19 22:15:27",
+      "type": "引用消息",
+      "str_content": "嗯嗯，刘老师，我是看这个上面对着找想找到数据来源来着，不过好像修正公告里没有具体的描述，那我这次就在修正公告里选一些描述的比较具体的公司嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702995334,
+      "formatted_time": "2023-12-19 22:15:34",
+      "type": "文本消息",
+      "str_content": "真不好意思这么晚还打扰您！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702995415,
+      "formatted_time": "2023-12-19 22:16:55",
+      "type": "文本消息",
+      "str_content": "好的，辛苦你了！",
+      "is_send": 0,
+      "sender_name": "刘方池"
+    },
+    {
+      "create_time": 1702995488,
+      "formatted_time": "2023-12-19 22:18:08",
+      "type": "文本消息",
+      "str_content": "谢谢刘老师的指导！！我主要是怕最后得到的数据不准确，想找您确认下这个方法哈哈哈[捂脸]找数据的过程感觉也很锻炼人！收获了很多！！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702995493,
+      "formatted_time": "2023-12-19 22:18:13",
+      "type": "文本消息",
+      "str_content": "刘老师早点休息！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702997013,
+      "formatted_time": "2023-12-19 22:43:33",
+      "type": "引用消息",
+      "str_content": "比看教科书收获大多了",
+      "is_send": 0,
+      "sender_name": "刘方池"
+    },
+    {
+      "create_time": 1702997133,
+      "formatted_time": "2023-12-19 22:45:33",
+      "type": "文本消息",
+      "str_content": "嗯嗯是的，也锻炼了我们使用各种数据库的能力[呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1703683369,
+      "formatted_time": "2023-12-27 21:22:49",
+      "type": "文本消息",
+      "str_content": "刘老师，想再来请教下您，有一个作业题中您提到中国华融2020年巨额计提减值损失是财务洗澡，不过我找到中国华融那几年的财务数据，2021年中国华融好像依然在计提很多减值损失，而且最终业绩也不是很好看，这是不是说明中国华融实际上没有在财务洗澡呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1703683376,
+      "formatted_time": "2023-12-27 21:22:56",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1703683384,
+      "formatted_time": "2023-12-27 21:23:04",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1703683414,
+      "formatted_time": "2023-12-27 21:23:34",
+      "type": "文本消息",
+      "str_content": "是的啊。2021年盈利。后面又是亏损",
+      "is_send": 0,
+      "sender_name": "刘方池"
+    },
+    {
+      "create_time": 1703683482,
+      "formatted_time": "2023-12-27 21:24:42",
+      "type": "文本消息",
+      "str_content": "所以可以理解成2021年本来是要亏得更多更多，这还是靠20年的计提洗澡拉过的数据吗[天啊]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1703683485,
+      "formatted_time": "2023-12-27 21:24:45",
+      "type": "文本消息",
+      "str_content": "上海电气也是如此，2021大额计提，2022还在计提",
+      "is_send": 0,
+      "sender_name": "刘方池"
+    },
+    {
+      "create_time": 1703683505,
+      "formatted_time": "2023-12-27 21:25:05",
+      "type": "引用消息",
+      "str_content": "完全是这样的",
+      "is_send": 0,
+      "sender_name": "刘方池"
+    },
+    {
+      "create_time": 1703683537,
+      "formatted_time": "2023-12-27 21:25:37",
+      "type": "文本消息",
+      "str_content": "原来是这样子，我的想象力被限制了[捂脸]谢谢刘老师的指导",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:34+08:00",
+  "message_count": 30
+}

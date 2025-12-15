@@ -1,0 +1,272 @@
+{
+  "session_id": "wxid_piha2vonysyg22",
+  "session_name": "康凯",
+  "messages": [
+    {
+      "create_time": 1755841572,
+      "formatted_time": "2025-08-22 13:46:12",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1755841576,
+      "formatted_time": "2025-08-22 13:46:16",
+      "type": "文本消息",
+      "str_content": "哈喽哈喽",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1755841591,
+      "formatted_time": "2025-08-22 13:46:31",
+      "type": "文本消息",
+      "str_content": "hihi",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755841595,
+      "formatted_time": "2025-08-22 13:46:35",
+      "type": "文本消息",
+      "str_content": "同时加了是吧哈哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755841771,
+      "formatted_time": "2025-08-22 13:49:31",
+      "type": "文本消息",
+      "str_content": "笑死",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1755841773,
+      "formatted_time": "2025-08-22 13:49:33",
+      "type": "文本消息",
+      "str_content": "确实是",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1757499179,
+      "formatted_time": "2025-09-10 18:12:59",
+      "type": "图文消息",
+      "str_content": "邀请你加入群聊",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1763835199,
+      "formatted_time": "2025-11-23 02:13:19",
+      "type": "文本消息",
+      "str_content": "辛苦你确保赵梓涵活着归来",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1763835271,
+      "formatted_time": "2025-11-23 02:14:31",
+      "type": "文本消息",
+      "str_content": "这个徐昂辛苦了",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1763835273,
+      "formatted_time": "2025-11-23 02:14:33",
+      "type": "文本消息",
+      "str_content": "我不行了",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1763835277,
+      "formatted_time": "2025-11-23 02:14:37",
+      "type": "文本消息",
+      "str_content": "赵梓涵这个精神状态",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1763835298,
+      "formatted_time": "2025-11-23 02:14:58",
+      "type": "文本消息",
+      "str_content": "太夸张了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763835304,
+      "formatted_time": "2025-11-23 02:15:04",
+      "type": "文本消息",
+      "str_content": "我真没想到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763835317,
+      "formatted_time": "2025-11-23 02:15:17",
+      "type": "文本消息",
+      "str_content": "我送他回宿舍",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763835327,
+      "formatted_time": "2025-11-23 02:15:27",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1763835333,
+      "formatted_time": "2025-11-23 02:15:33",
+      "type": "文本消息",
+      "str_content": "他可能很早就开始蹦了",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1763835335,
+      "formatted_time": "2025-11-23 02:15:35",
+      "type": "文本消息",
+      "str_content": "喝大了",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1763835338,
+      "formatted_time": "2025-11-23 02:15:38",
+      "type": "文本消息",
+      "str_content": "辛苦你",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1763835395,
+      "formatted_time": "2025-11-23 02:16:35",
+      "type": "文本消息",
+      "str_content": "好，他在我对面",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763835486,
+      "formatted_time": "2025-11-23 02:18:06",
+      "type": "文本消息",
+      "str_content": "好！",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1763837445,
+      "formatted_time": "2025-11-23 02:50:45",
+      "type": "文本消息",
+      "str_content": "送回宿舍了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763837453,
+      "formatted_time": "2025-11-23 02:50:53",
+      "type": "文本消息",
+      "str_content": "我的天。。",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763859403,
+      "formatted_time": "2025-11-23 08:56:43",
+      "type": "文本消息",
+      "str_content": "辛苦你",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1763889499,
+      "formatted_time": "2025-11-23 17:18:19",
+      "type": "文本消息",
+      "str_content": "xuang你等会来团建吗哈哈哈我们在给大家点奶茶",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1763889726,
+      "formatted_time": "2025-11-23 17:22:06",
+      "type": "文本消息",
+      "str_content": "我会去的！但可能没法玩全程~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763889753,
+      "formatted_time": "2025-11-23 17:22:33",
+      "type": "文本消息",
+      "str_content": "好！",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1763894311,
+      "formatted_time": "2025-11-23 18:38:31",
+      "type": "文本消息",
+      "str_content": "kk我大概七点半左右到~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763894897,
+      "formatted_time": "2025-11-23 18:48:17",
+      "type": "文本消息",
+      "str_content": "好喔好喔",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1764815750,
+      "formatted_time": "2025-12-04 10:35:50",
+      "type": "文本消息",
+      "str_content": "kk",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764815755,
+      "formatted_time": "2025-12-04 10:35:55",
+      "type": "文本消息",
+      "str_content": "好像有group discussion",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764815762,
+      "formatted_time": "2025-12-04 10:36:02",
+      "type": "文本消息",
+      "str_content": "不知道不在会不会有影响",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764815896,
+      "formatted_time": "2025-12-04 10:38:16",
+      "type": "文本消息",
+      "str_content": "我们来了！",
+      "is_send": 0,
+      "sender_name": "康凯"
+    },
+    {
+      "create_time": 1764815898,
+      "formatted_time": "2025-12-04 10:38:18",
+      "type": "文本消息",
+      "str_content": "感谢",
+      "is_send": 0,
+      "sender_name": "康凯"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:22+08:00",
+  "message_count": 33
+}

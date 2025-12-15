@@ -1,0 +1,64 @@
+{
+  "session_id": "wxid_gshon8b0xsea22",
+  "session_name": "叶昊然",
+  "messages": [
+    {
+      "create_time": 1695400737,
+      "formatted_time": "2023-09-23 00:38:57",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "叶昊然"
+    },
+    {
+      "create_time": 1695401622,
+      "formatted_time": "2023-09-23 00:53:42",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695562185,
+      "formatted_time": "2023-09-24 21:29:45",
+      "type": "文本消息",
+      "str_content": "学长 问一下咱面试结果出了吗[可怜]",
+      "is_send": 0,
+      "sender_name": "叶昊然"
+    },
+    {
+      "create_time": 1695562186,
+      "formatted_time": "2023-09-24 21:29:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "叶昊然"
+    },
+    {
+      "create_time": 1695562218,
+      "formatted_time": "2023-09-24 21:30:18",
+      "type": "文本消息",
+      "str_content": "这个应该是下星期出",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695562232,
+      "formatted_time": "2023-09-24 21:30:32",
+      "type": "文本消息",
+      "str_content": "可能老师们还得再讨论讨论啥的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695562242,
+      "formatted_time": "2023-09-24 21:30:42",
+      "type": "文本消息",
+      "str_content": "好滴～[旺柴]",
+      "is_send": 0,
+      "sender_name": "叶昊然"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 7
+}

@@ -1,0 +1,656 @@
+{
+  "session_id": "gh_886eca9dc11b",
+  "session_name": "微助教服务号",
+  "messages": [
+    {
+      "create_time": 1679464496,
+      "formatted_time": "2023-03-22 13:54:56",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1679465041,
+      "formatted_time": "2023-03-22 14:04:01",
+      "type": "图文消息",
+      "str_content": "发布学习任务通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1681279015,
+      "formatted_time": "2023-04-12 13:56:55",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1682122144,
+      "formatted_time": "2023-04-22 08:09:04",
+      "type": "文本消息",
+      "str_content": "<a href=\"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa153455f3ef1d9f9&redirect_uri=https://www.teachermate.com.cn/api/v1/wechat/r?isTeacher%3D0%26m%3Ds_qr_join%26extra%3Dcourseid%253D1298601%2526type%253Djoinclass%2526reference%253D%25252Fstudent%25252Fjoin%25252Fclassroom%25252Fsuccess&response_type=code&scope=snsapi_userinfo&state=#wechat_redirect\">点击此处加入【健康教育课】课堂</a>",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1682122155,
+      "formatted_time": "2023-04-22 08:09:15",
+      "type": "文本消息",
+      "str_content": "<a href=\"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa153455f3ef1d9f9&redirect_uri=https://www.teachermate.com.cn/api/v1/wechat/r?isTeacher%3D0%26m%3Ds_qr_join%26extra%3Dcourseid%253D1298601%2526type%253Djoinclass%2526reference%253D%25252Fstudent%25252Fjoin%25252Fclassroom%25252Fsuccess&response_type=code&scope=snsapi_userinfo&state=#wechat_redirect\">点击此处加入【健康教育课】课堂</a>",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1682122168,
+      "formatted_time": "2023-04-22 08:09:28",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1682122237,
+      "formatted_time": "2023-04-22 08:10:37",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1682129899,
+      "formatted_time": "2023-04-22 10:18:19",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1682490901,
+      "formatted_time": "2023-04-26 14:35:01",
+      "type": "图文消息",
+      "str_content": "发布学习任务通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1684307776,
+      "formatted_time": "2023-05-17 15:16:16",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1685586805,
+      "formatted_time": "2023-06-01 10:33:25",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1686119442,
+      "formatted_time": "2023-06-07 14:30:42",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1688450348,
+      "formatted_time": "2023-07-04 13:59:08",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1693205618,
+      "formatted_time": "2023-08-28 14:53:38",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1694307720,
+      "formatted_time": "2023-09-10 09:02:00",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1698735835,
+      "formatted_time": "2023-10-31 15:03:55",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1704069217,
+      "formatted_time": "2024-01-01 08:33:37",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1707012908,
+      "formatted_time": "2024-02-04 10:15:08",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1707484857,
+      "formatted_time": "2024-02-09 21:20:57",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1707523387,
+      "formatted_time": "2024-02-10 08:03:07",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1714518134,
+      "formatted_time": "2024-05-01 07:02:14",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1714796679,
+      "formatted_time": "2024-05-04 12:24:39",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1717066904,
+      "formatted_time": "2024-05-30 19:01:44",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1717982891,
+      "formatted_time": "2024-06-10 09:28:11",
+      "type": "图文消息",
+      "str_content": "端午安康，“粽”享佳节",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1725329724,
+      "formatted_time": "2024-09-03 10:15:24",
+      "type": "文本消息",
+      "str_content": "<a href=\"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa153455f3ef1d9f9&redirect_uri=https://www.teachermate.com.cn/api/v1/wechat/r?isTeacher%3D0%26m%3Ds_qr_join%26extra%3Dcourseid%253D1367230%2526type%253Djoinclass%2526reference%253D%25252Fstudent%25252Fjoin%25252Fclassroom%25252Fsuccess&response_type=code&scope=snsapi_userinfo&state=#wechat_redirect\">点击此处加入【高级计量经济学】课堂</a>",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1725421858,
+      "formatted_time": "2024-09-04 11:50:58",
+      "type": "文本消息",
+      "str_content": "<a href=\"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa153455f3ef1d9f9&redirect_uri=https://www.teachermate.com.cn/api/v1/wechat/r?isTeacher%3D0%26m%3Ds_qr_join%26extra%3Dcourseid%253D1365569%2526type%253Djoinclass%2526reference%253D%25252Fstudent%25252Fjoin%25252Fclassroom%25252Fsuccess&response_type=code&scope=snsapi_userinfo&state=#wechat_redirect\">点击此处加入【数据挖掘与机器学习（国贸21国商21）】课堂</a>",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1725892278,
+      "formatted_time": "2024-09-09 22:31:18",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1725892302,
+      "formatted_time": "2024-09-09 22:31:42",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1725936264,
+      "formatted_time": "2024-09-10 10:44:24",
+      "type": "图文消息",
+      "str_content": "教师节 | 旭行千里 不忘师恩",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1725936314,
+      "formatted_time": "2024-09-10 10:45:14",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1726990386,
+      "formatted_time": "2024-09-22 15:33:06",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1726990708,
+      "formatted_time": "2024-09-22 15:38:28",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1727062439,
+      "formatted_time": "2024-09-23 11:33:59",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1727092217,
+      "formatted_time": "2024-09-23 19:50:17",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1727092274,
+      "formatted_time": "2024-09-23 19:51:14",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1727092492,
+      "formatted_time": "2024-09-23 19:54:52",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1727249878,
+      "formatted_time": "2024-09-25 15:37:58",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1727282418,
+      "formatted_time": "2024-09-26 00:40:18",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1727360377,
+      "formatted_time": "2024-09-26 22:19:37",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1727662825,
+      "formatted_time": "2024-09-30 10:20:25",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1727663061,
+      "formatted_time": "2024-09-30 10:24:21",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1727663061,
+      "formatted_time": "2024-09-30 10:24:21",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1727742408,
+      "formatted_time": "2024-10-01 08:26:48",
+      "type": "图文消息",
+      "str_content": "国庆节 | 礼赞盛世 九州同庆",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1727783336,
+      "formatted_time": "2024-10-01 19:48:56",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1728303310,
+      "formatted_time": "2024-10-07 20:15:10",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1728303991,
+      "formatted_time": "2024-10-07 20:26:31",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1728316582,
+      "formatted_time": "2024-10-07 23:56:22",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1728459795,
+      "formatted_time": "2024-10-09 15:43:15",
+      "type": "图文消息",
+      "str_content": "发布学习任务通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1728557988,
+      "formatted_time": "2024-10-10 18:59:48",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1728558008,
+      "formatted_time": "2024-10-10 19:00:08",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1728561842,
+      "formatted_time": "2024-10-10 20:04:02",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1728561861,
+      "formatted_time": "2024-10-10 20:04:21",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1728561934,
+      "formatted_time": "2024-10-10 20:05:34",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1728565561,
+      "formatted_time": "2024-10-10 21:06:01",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1728565582,
+      "formatted_time": "2024-10-10 21:06:22",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1728571511,
+      "formatted_time": "2024-10-10 22:45:11",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1728715541,
+      "formatted_time": "2024-10-12 14:45:41",
+      "type": "图文消息",
+      "str_content": "中国心理学会网络心理专业委员会2024年学术年会暨第十一届网络时代的心理与行为研究前沿研讨会第二轮通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1728952747,
+      "formatted_time": "2024-10-15 08:39:07",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1729163402,
+      "formatted_time": "2024-10-17 19:10:02",
+      "type": "文本消息",
+      "str_content": "<a href=\"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa153455f3ef1d9f9&redirect_uri=https://www.teachermate.com.cn/api/v1/wechat/r?isTeacher%3D0%26m%3Ds_qr_join%26extra%3Dcourseid%253D1384160%2526type%253Djoinclass%2526reference%253D%25252Fstudent%25252Fjoin%25252Fclassroom%25252Fsuccess&response_type=code&scope=snsapi_userinfo&state=#wechat_redirect\">点击此处加入【课程设计】课堂</a>",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1729163581,
+      "formatted_time": "2024-10-17 19:13:01",
+      "type": "文本消息",
+      "str_content": "<a href=\"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa153455f3ef1d9f9&redirect_uri=https://www.teachermate.com.cn/api/v1/wechat/r?isTeacher%3D0%26m%3Ds_qr_join%26extra%3Dcourseid%253D1384160%2526type%253Djoinclass%2526reference%253D%25252Fstudent%25252Fjoin%25252Fclassroom%25252Fsuccess&response_type=code&scope=snsapi_userinfo&state=#wechat_redirect\">点击此处加入【课程设计】课堂</a>",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1729163682,
+      "formatted_time": "2024-10-17 19:14:42",
+      "type": "文本消息",
+      "str_content": "<a href=\"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa153455f3ef1d9f9&redirect_uri=https://www.teachermate.com.cn/api/v1/wechat/r?isTeacher%3D0%26m%3Ds_qr_join%26extra%3Dcourseid%253D1384160%2526type%253Djoinclass%2526reference%253D%25252Fstudent%25252Fjoin%25252Fclassroom%25252Fsuccess&response_type=code&scope=snsapi_userinfo&state=#wechat_redirect\">点击此处加入【课程设计】课堂</a>",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1729163764,
+      "formatted_time": "2024-10-17 19:16:04",
+      "type": "文本消息",
+      "str_content": "<a href=\"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxa153455f3ef1d9f9&redirect_uri=https://www.teachermate.com.cn/api/v1/wechat/r?isTeacher%3D0%26m%3Ds_qr_join%26extra%3Dcourseid%253D1384160%2526type%253Djoinclass%2526reference%253D%25252Fstudent%25252Fjoin%25252Fclassroom%25252Fsuccess&response_type=code&scope=snsapi_userinfo&state=#wechat_redirect\">点击此处加入【课程设计】课堂</a>",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1729166840,
+      "formatted_time": "2024-10-17 20:07:20",
+      "type": "图文消息",
+      "str_content": "班级通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1729732053,
+      "formatted_time": "2024-10-24 09:07:33",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1730127854,
+      "formatted_time": "2024-10-28 23:04:14",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1730128230,
+      "formatted_time": "2024-10-28 23:10:30",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1733364529,
+      "formatted_time": "2024-12-05 10:08:49",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1733364535,
+      "formatted_time": "2024-12-05 10:08:55",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1733364537,
+      "formatted_time": "2024-12-05 10:08:57",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1733364542,
+      "formatted_time": "2024-12-05 10:09:02",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1734011798,
+      "formatted_time": "2024-12-12 21:56:38",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1734011829,
+      "formatted_time": "2024-12-12 21:57:09",
+      "type": "图文消息",
+      "str_content": "作业消息提醒",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1735693606,
+      "formatted_time": "2025-01-01 09:06:46",
+      "type": "图文消息",
+      "str_content": "庆元旦|新岁序开，与您共启程",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1737687841,
+      "formatted_time": "2025-01-24 11:04:01",
+      "type": "图文消息",
+      "str_content": "2025春节放假通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1738047516,
+      "formatted_time": "2025-01-28 14:58:36",
+      "type": "图文消息",
+      "str_content": "除夕至，团圆时",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1738112854,
+      "formatted_time": "2025-01-29 09:07:34",
+      "type": "图文消息",
+      "str_content": "金蛇献瑞，万象更新",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1739325207,
+      "formatted_time": "2025-02-12 09:53:27",
+      "type": "图文消息",
+      "str_content": "第18期点石创校招新啦——世界上的另一个我",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1741340302,
+      "formatted_time": "2025-03-07 17:38:22",
+      "type": "图文消息",
+      "str_content": "关于推荐首届“新时代好爸爸”的通知",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1744801459,
+      "formatted_time": "2025-04-16 19:04:19",
+      "type": "图文消息",
+      "str_content": "第十届“中国高校计算机大赛-移动应用创新赛”参赛指南",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1748660740,
+      "formatted_time": "2025-05-31 11:05:40",
+      "type": "图文消息",
+      "str_content": "粽情端午| 微助教祝您端午佳节美好接『粽』而至",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    },
+    {
+      "create_time": 1757470628,
+      "formatted_time": "2025-09-10 10:17:08",
+      "type": "图文消息",
+      "str_content": "致谢师恩 | 师者授业，润物无声，祝老师们节日快乐",
+      "is_send": 0,
+      "sender_name": "微助教服务号"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:14+08:00",
+  "message_count": 81
+}

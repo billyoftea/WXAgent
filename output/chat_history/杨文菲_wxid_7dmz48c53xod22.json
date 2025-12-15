@@ -1,0 +1,56 @@
+{
+  "session_id": "wxid_7dmz48c53xod22",
+  "session_name": "杨文菲",
+  "messages": [
+    {
+      "create_time": 1708833317,
+      "formatted_time": "2024-02-25 11:55:17",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "杨文菲"
+    },
+    {
+      "create_time": 1708833325,
+      "formatted_time": "2024-02-25 11:55:25",
+      "type": "文本消息",
+      "str_content": "你好你好",
+      "is_send": 0,
+      "sender_name": "杨文菲"
+    },
+    {
+      "create_time": 1708833333,
+      "formatted_time": "2024-02-25 11:55:33",
+      "type": "文本消息",
+      "str_content": "你好呀~我叫徐昂，请多多指教啦！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708833337,
+      "formatted_time": "2024-02-25 11:55:37",
+      "type": "文本消息",
+      "str_content": "备注山师23级美院公费师范杨文菲✔",
+      "is_send": 0,
+      "sender_name": "杨文菲"
+    },
+    {
+      "create_time": 1708833341,
+      "formatted_time": "2024-02-25 11:55:41",
+      "type": "文本消息",
+      "str_content": "好嘟好嘟～",
+      "is_send": 0,
+      "sender_name": "杨文菲"
+    },
+    {
+      "create_time": 1708833345,
+      "formatted_time": "2024-02-25 11:55:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "杨文菲"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:34+08:00",
+  "message_count": 6
+}

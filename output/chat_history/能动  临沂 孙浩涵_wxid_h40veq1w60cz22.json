@@ -1,0 +1,56 @@
+{
+  "session_id": "wxid_h40veq1w60cz22",
+  "session_name": "能动  临沂 孙浩涵",
+  "messages": [
+    {
+      "create_time": 1677897934,
+      "formatted_time": "2023-03-04 10:45:34",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "能动  临沂 孙浩涵"
+    },
+    {
+      "create_time": 1677897958,
+      "formatted_time": "2023-03-04 10:45:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1677897959,
+      "formatted_time": "2023-03-04 10:45:59",
+      "type": "文本消息",
+      "str_content": "你好你好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1677897966,
+      "formatted_time": "2023-03-04 10:46:06",
+      "type": "文本消息",
+      "str_content": "呀呼",
+      "is_send": 0,
+      "sender_name": "能动  临沂 孙浩涵"
+    },
+    {
+      "create_time": 1677897970,
+      "formatted_time": "2023-03-04 10:46:10",
+      "type": "文本消息",
+      "str_content": "你好你好[旺柴]",
+      "is_send": 0,
+      "sender_name": "能动  临沂 孙浩涵"
+    },
+    {
+      "create_time": 1677897974,
+      "formatted_time": "2023-03-04 10:46:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "能动  临沂 孙浩涵"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 6
+}

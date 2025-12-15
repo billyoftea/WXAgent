@@ -1,0 +1,1608 @@
+{
+  "session_id": "wxid_8pmx6irfokzj12",
+  "session_name": "徐琛",
+  "messages": [
+    {
+      "create_time": 1662606637,
+      "formatted_time": "2022-09-08 11:10:37",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1662606655,
+      "formatted_time": "2022-09-08 11:10:55",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1662606673,
+      "formatted_time": "2022-09-08 11:11:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1662688949,
+      "formatted_time": "2022-09-09 10:02:29",
+      "type": "文本消息",
+      "str_content": "你想刷履历的话",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1662688962,
+      "formatted_time": "2022-09-09 10:02:42",
+      "type": "文本消息",
+      "str_content": "想不想当班委啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1662688965,
+      "formatted_time": "2022-09-09 10:02:45",
+      "type": "文本消息",
+      "str_content": "学委",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1662688974,
+      "formatted_time": "2022-09-09 10:02:54",
+      "type": "文本消息",
+      "str_content": "就收发女生作业",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1662688994,
+      "formatted_time": "2022-09-09 10:03:14",
+      "type": "文本消息",
+      "str_content": "也行",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1662689001,
+      "formatted_time": "2022-09-09 10:03:21",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1662689001,
+      "formatted_time": "2022-09-09 10:03:21",
+      "type": "文本消息",
+      "str_content": "反正女生也就5个",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1662714770,
+      "formatted_time": "2022-09-09 17:12:50",
+      "type": "文本消息",
+      "str_content": "刚刚楚进说",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1662714783,
+      "formatted_time": "2022-09-09 17:13:03",
+      "type": "文本消息",
+      "str_content": "他把助教拉到群里了",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1662714792,
+      "formatted_time": "2022-09-09 17:13:12",
+      "type": "文本消息",
+      "str_content": "然后要是晚交啥的跟助教说",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1666694831,
+      "formatted_time": "2022-10-25 18:47:11",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1666694836,
+      "formatted_time": "2022-10-25 18:47:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1668501689,
+      "formatted_time": "2022-11-15 16:41:29",
+      "type": "文本消息",
+      "str_content": "哈喽",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1668501698,
+      "formatted_time": "2022-11-15 16:41:38",
+      "type": "文本消息",
+      "str_content": "你们组第十周管原作业交了不",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1668502031,
+      "formatted_time": "2022-11-15 16:47:11",
+      "type": "文本消息",
+      "str_content": "emm忘交了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668502036,
+      "formatted_time": "2022-11-15 16:47:16",
+      "type": "文本消息",
+      "str_content": "一会应该会有人发你～",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668502040,
+      "formatted_time": "2022-11-15 16:47:20",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1668502053,
+      "formatted_time": "2022-11-15 16:47:33",
+      "type": "文本消息",
+      "str_content": "麻烦啦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668502062,
+      "formatted_time": "2022-11-15 16:47:42",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1668502066,
+      "formatted_time": "2022-11-15 16:47:46",
+      "type": "文本消息",
+      "str_content": "没事儿",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1670143514,
+      "formatted_time": "2022-12-04 16:45:14",
+      "type": "文本消息",
+      "str_content": "统计学的作业是哪几个呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1670143689,
+      "formatted_time": "2022-12-04 16:48:09",
+      "type": "文本消息",
+      "str_content": "不在手边诶",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1670143699,
+      "formatted_time": "2022-12-04 16:48:19",
+      "type": "文本消息",
+      "str_content": "现在",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1670143711,
+      "formatted_time": "2022-12-04 16:48:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1670143738,
+      "formatted_time": "2022-12-04 16:48:58",
+      "type": "文本消息",
+      "str_content": "那晚上可以发我下嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1670143743,
+      "formatted_time": "2022-12-04 16:49:03",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1670143752,
+      "formatted_time": "2022-12-04 16:49:12",
+      "type": "文本消息",
+      "str_content": "不过好像是下下周才交",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1670143799,
+      "formatted_time": "2022-12-04 16:49:59",
+      "type": "文本消息",
+      "str_content": "好嘞",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1670147340,
+      "formatted_time": "2022-12-04 17:49:00",
+      "type": "文本消息",
+      "str_content": "P183 17 18 19 24 25 26 27",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1670147354,
+      "formatted_time": "2022-12-04 17:49:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1670147360,
+      "formatted_time": "2022-12-04 17:49:20",
+      "type": "文本消息",
+      "str_content": "好嘞 谢谢谢谢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1670601246,
+      "formatted_time": "2022-12-09 23:54:06",
+      "type": "文本消息",
+      "str_content": "你那个查重",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1670601248,
+      "formatted_time": "2022-12-09 23:54:08",
+      "type": "文本消息",
+      "str_content": "是在哪里查的呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1670601277,
+      "formatted_time": "2022-12-09 23:54:37",
+      "type": "文本消息",
+      "str_content": "学习通",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1670601283,
+      "formatted_time": "2022-12-09 23:54:43",
+      "type": "文本消息",
+      "str_content": "大雅论文相似",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1670601296,
+      "formatted_time": "2022-12-09 23:54:56",
+      "type": "文本消息",
+      "str_content": "好捏 谢谢谢谢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1672964007,
+      "formatted_time": "2023-01-06 08:13:27",
+      "type": "文本消息",
+      "str_content": "我们这统计学是怎么给分的呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1672964010,
+      "formatted_time": "2023-01-06 08:13:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1672968729,
+      "formatted_time": "2023-01-06 09:32:09",
+      "type": "文本消息",
+      "str_content": "咋啦",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1672968752,
+      "formatted_time": "2023-01-06 09:32:32",
+      "type": "文本消息",
+      "str_content": "感觉别的班的分数都好高啊我去",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1672968756,
+      "formatted_time": "2023-01-06 09:32:36",
+      "type": "文本消息",
+      "str_content": "好多9697的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1672968768,
+      "formatted_time": "2023-01-06 09:32:48",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1672968786,
+      "formatted_time": "2023-01-06 09:33:06",
+      "type": "文本消息",
+      "str_content": "只发了有这个",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1672968796,
+      "formatted_time": "2023-01-06 09:33:16",
+      "type": "文本消息",
+      "str_content": "是因为助教给分标准不同吗我的天",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1672968804,
+      "formatted_time": "2023-01-06 09:33:24",
+      "type": "文本消息",
+      "str_content": "有可能",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1672968807,
+      "formatted_time": "2023-01-06 09:33:27",
+      "type": "文本消息",
+      "str_content": "你多少呀",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1672968815,
+      "formatted_time": "2023-01-06 09:33:35",
+      "type": "文本消息",
+      "str_content": "90",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1672968829,
+      "formatted_time": "2023-01-06 09:33:49",
+      "type": "文本消息",
+      "str_content": "你呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1672968837,
+      "formatted_time": "2023-01-06 09:33:57",
+      "type": "文本消息",
+      "str_content": "我95哈哈哈",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1672968860,
+      "formatted_time": "2023-01-06 09:34:20",
+      "type": "文本消息",
+      "str_content": "妈耶真的不知道是按啥给分的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1672968884,
+      "formatted_time": "2023-01-06 09:34:44",
+      "type": "文本消息",
+      "str_content": "你之前平时作业咋样",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1672968895,
+      "formatted_time": "2023-01-06 09:34:55",
+      "type": "文本消息",
+      "str_content": "没怎么注意过",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1672968903,
+      "formatted_time": "2023-01-06 09:35:03",
+      "type": "文本消息",
+      "str_content": "好像都是a+还是a吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1672968909,
+      "formatted_time": "2023-01-06 09:35:09",
+      "type": "文本消息",
+      "str_content": "我作业都是直接拍的哈哈",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1672968933,
+      "formatted_time": "2023-01-06 09:35:33",
+      "type": "文本消息",
+      "str_content": "他好像也没说什么平时分占多少",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1672968957,
+      "formatted_time": "2023-01-06 09:35:57",
+      "type": "文本消息",
+      "str_content": "要不我把助教微信推给你",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1672968966,
+      "formatted_time": "2023-01-06 09:36:06",
+      "type": "文本消息",
+      "str_content": "你有啥问题问问她",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1672969011,
+      "formatted_time": "2023-01-06 09:36:51",
+      "type": "文本消息",
+      "str_content": "行..",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1672969029,
+      "formatted_time": "2023-01-06 09:37:09",
+      "type": "名片消息",
+      "str_content": "[名片消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1672969038,
+      "formatted_time": "2023-01-06 09:37:18",
+      "type": "文本消息",
+      "str_content": "叫万晶",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1672969116,
+      "formatted_time": "2023-01-06 09:38:36",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680243247,
+      "formatted_time": "2023-03-31 14:14:07",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680243255,
+      "formatted_time": "2023-03-31 14:14:15",
+      "type": "文本消息",
+      "str_content": "可以再发一下这几份文件嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680243264,
+      "formatted_time": "2023-03-31 14:14:24",
+      "type": "文本消息",
+      "str_content": "我换手机了之前文件都没了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680243264,
+      "formatted_time": "2023-03-31 14:14:24",
+      "type": "文本消息",
+      "str_content": "我看看哈",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243266,
+      "formatted_time": "2023-03-31 14:14:26",
+      "type": "文本消息",
+      "str_content": "[苦涩][苦涩][苦涩]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680243273,
+      "formatted_time": "2023-03-31 14:14:33",
+      "type": "文本消息",
+      "str_content": "可怜",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243347,
+      "formatted_time": "2023-03-31 14:15:47",
+      "type": "文件消息",
+      "str_content": "Chapter3.pdf",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243347,
+      "formatted_time": "2023-03-31 14:15:47",
+      "type": "文件消息",
+      "str_content": "Presentation.pdf",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243347,
+      "formatted_time": "2023-03-31 14:15:47",
+      "type": "文件消息",
+      "str_content": "pre参考 自选主题 第8、10章.pdf",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243347,
+      "formatted_time": "2023-03-31 14:15:47",
+      "type": "文件消息",
+      "str_content": "pre参考 案例21.pdf",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243347,
+      "formatted_time": "2023-03-31 14:15:47",
+      "type": "文件消息",
+      "str_content": "Chapter 1.pdf",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243347,
+      "formatted_time": "2023-03-31 14:15:47",
+      "type": "文件消息",
+      "str_content": "Chapter 2.pdf",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243347,
+      "formatted_time": "2023-03-31 14:15:47",
+      "type": "文件消息",
+      "str_content": "Intro.pdf",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243347,
+      "formatted_time": "2023-03-31 14:15:47",
+      "type": "文件消息",
+      "str_content": "补充教材1 How to Calculate Present Values.pdf",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243347,
+      "formatted_time": "2023-03-31 14:15:47",
+      "type": "文件消息",
+      "str_content": "pre参考 案例1.pdf",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243347,
+      "formatted_time": "2023-03-31 14:15:47",
+      "type": "文件消息",
+      "str_content": "CH4 Slides 1_Basic Financial Mathematics and Valuation.pdf",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243348,
+      "formatted_time": "2023-03-31 14:15:48",
+      "type": "文件消息",
+      "str_content": "补充教材2 Valuing Bonds.pdf",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243348,
+      "formatted_time": "2023-03-31 14:15:48",
+      "type": "文件消息",
+      "str_content": "CH4 Slides 2_Valuing Bonds .pdf",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243357,
+      "formatted_time": "2023-03-31 14:15:57",
+      "type": "文本消息",
+      "str_content": "你看下都能不能收到",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243460,
+      "formatted_time": "2023-03-31 14:17:40",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680243462,
+      "formatted_time": "2023-03-31 14:17:42",
+      "type": "文本消息",
+      "str_content": "谢谢谢谢！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680243465,
+      "formatted_time": "2023-03-31 14:17:45",
+      "type": "文本消息",
+      "str_content": "都收到啦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680243468,
+      "formatted_time": "2023-03-31 14:17:48",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680243493,
+      "formatted_time": "2023-03-31 14:18:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243578,
+      "formatted_time": "2023-03-31 14:19:38",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680243587,
+      "formatted_time": "2023-03-31 14:19:47",
+      "type": "文本消息",
+      "str_content": "所以下次pre是下周五是嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680243600,
+      "formatted_time": "2023-03-31 14:20:00",
+      "type": "文本消息",
+      "str_content": "对的但是下次pre主题是另外的",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1680243619,
+      "formatted_time": "2023-03-31 14:20:19",
+      "type": "文本消息",
+      "str_content": "okok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680243626,
+      "formatted_time": "2023-03-31 14:20:26",
+      "type": "文本消息",
+      "str_content": "问题不大",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680243628,
+      "formatted_time": "2023-03-31 14:20:28",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680243635,
+      "formatted_time": "2023-03-31 14:20:35",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693126431,
+      "formatted_time": "2023-08-27 16:53:51",
+      "type": "文本消息",
+      "str_content": "你什么时候返校呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693129025,
+      "formatted_time": "2023-08-27 17:37:05",
+      "type": "文本消息",
+      "str_content": "我明天",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693129046,
+      "formatted_time": "2023-08-27 17:37:26",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693129056,
+      "formatted_time": "2023-08-27 17:37:36",
+      "type": "文本消息",
+      "str_content": "我跟李导请了假了，我奶奶昨天去世我昨天从学校赶回家了",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693129122,
+      "formatted_time": "2023-08-27 17:38:42",
+      "type": "文本消息",
+      "str_content": "明白，节哀顺变🙏🏻",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693129176,
+      "formatted_time": "2023-08-27 17:39:36",
+      "type": "文本消息",
+      "str_content": "嗯嗯，谢谢关心[玫瑰]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693393609,
+      "formatted_time": "2023-08-30 19:06:49",
+      "type": "文本消息",
+      "str_content": "哈喽哈喽，问一下明天那个迎新会上需不需要放上部门的报名表或者报名群呀，还是之后扫楼再一起整这些东西",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693393622,
+      "formatted_time": "2023-08-30 19:07:02",
+      "type": "文本消息",
+      "str_content": "可以放",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693393664,
+      "formatted_time": "2023-08-30 19:07:44",
+      "type": "文本消息",
+      "str_content": "好嘞",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693452477,
+      "formatted_time": "2023-08-31 11:27:57",
+      "type": "文本消息",
+      "str_content": "咱学院招新有统一的群吗",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693452494,
+      "formatted_time": "2023-08-31 11:28:14",
+      "type": "文本消息",
+      "str_content": "啥是招新统一的群",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693452527,
+      "formatted_time": "2023-08-31 11:28:47",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693452583,
+      "formatted_time": "2023-08-31 11:29:43",
+      "type": "文本消息",
+      "str_content": "喔搞错了",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693452584,
+      "formatted_time": "2023-08-31 11:29:44",
+      "type": "文本消息",
+      "str_content": "没事儿",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693452590,
+      "formatted_time": "2023-08-31 11:29:50",
+      "type": "文本消息",
+      "str_content": "这是问的你们的吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693452596,
+      "formatted_time": "2023-08-31 11:29:56",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693452604,
+      "formatted_time": "2023-08-31 11:30:04",
+      "type": "文本消息",
+      "str_content": "我的问题[凋谢]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693452628,
+      "formatted_time": "2023-08-31 11:30:28",
+      "type": "文本消息",
+      "str_content": "没事没事",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693474931,
+      "formatted_time": "2023-08-31 17:42:11",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693475263,
+      "formatted_time": "2023-08-31 17:47:43",
+      "type": "文件消息",
+      "str_content": "经院新生住宿情况.xlsx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693475269,
+      "formatted_time": "2023-08-31 17:47:49",
+      "type": "文本消息",
+      "str_content": "这个不能外传哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693475276,
+      "formatted_time": "2023-08-31 17:47:56",
+      "type": "文本消息",
+      "str_content": "好滴",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693554986,
+      "formatted_time": "2023-09-01 15:56:26",
+      "type": "文本消息",
+      "str_content": "礼貌问一下你们印的宣传单是自己出的钱还是可以报销呀",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693554995,
+      "formatted_time": "2023-09-01 15:56:35",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693558337,
+      "formatted_time": "2023-09-01 16:52:17",
+      "type": "文本消息",
+      "str_content": "这个是记到学院账上的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693558680,
+      "formatted_time": "2023-09-01 16:58:00",
+      "type": "文本消息",
+      "str_content": "嗯嗯我问到了[玫瑰]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1693558688,
+      "formatted_time": "2023-09-01 16:58:08",
+      "type": "文本消息",
+      "str_content": "刚开始没敢问辅导员",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1696681470,
+      "formatted_time": "2023-10-07 20:24:30",
+      "type": "文本消息",
+      "str_content": "你明天是在现场嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696681480,
+      "formatted_time": "2023-10-07 20:24:40",
+      "type": "文本消息",
+      "str_content": "国奖答辩",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696681850,
+      "formatted_time": "2023-10-07 20:30:50",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1696681929,
+      "formatted_time": "2023-10-07 20:32:09",
+      "type": "文本消息",
+      "str_content": "那你作为一个学生评委可以嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696681940,
+      "formatted_time": "2023-10-07 20:32:20",
+      "type": "文本消息",
+      "str_content": "OK的",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1696681945,
+      "formatted_time": "2023-10-07 20:32:25",
+      "type": "文本消息",
+      "str_content": "好滴好滴",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696681957,
+      "formatted_time": "2023-10-07 20:32:37",
+      "type": "文本消息",
+      "str_content": "我去接龙吗",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1696681984,
+      "formatted_time": "2023-10-07 20:33:04",
+      "type": "文本消息",
+      "str_content": "嗯嗯我帮你接啦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696681992,
+      "formatted_time": "2023-10-07 20:33:12",
+      "type": "文本消息",
+      "str_content": "好嘞",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1696735205,
+      "formatted_time": "2023-10-08 11:20:05",
+      "type": "文本消息",
+      "str_content": "或许你要参加国励的答辩吗",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1696735248,
+      "formatted_time": "2023-10-08 11:20:48",
+      "type": "文本消息",
+      "str_content": "我又不贫困",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696735251,
+      "formatted_time": "2023-10-08 11:20:51",
+      "type": "文本消息",
+      "str_content": "就不参加了吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696735257,
+      "formatted_time": "2023-10-08 11:20:57",
+      "type": "文本消息",
+      "str_content": "那个不都是贫困生参加的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696735265,
+      "formatted_time": "2023-10-08 11:21:05",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1701243430,
+      "formatted_time": "2023-11-29 15:37:10",
+      "type": "文本消息",
+      "str_content": "这玩意儿迟到了能进去吗",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1701243438,
+      "formatted_time": "2023-11-29 15:37:18",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1701243452,
+      "formatted_time": "2023-11-29 15:37:32",
+      "type": "文本消息",
+      "str_content": "不知道，不过感觉最好emm别迟到太多",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1701243458,
+      "formatted_time": "2023-11-29 15:37:38",
+      "type": "文本消息",
+      "str_content": "应该问题不大",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1701243466,
+      "formatted_time": "2023-11-29 15:37:46",
+      "type": "文本消息",
+      "str_content": "那我去吧",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1701243472,
+      "formatted_time": "2023-11-29 15:37:52",
+      "type": "文本消息",
+      "str_content": "我尽量赶在三点半之前过去",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1701243570,
+      "formatted_time": "2023-11-29 15:39:30",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1701243574,
+      "formatted_time": "2023-11-29 15:39:34",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1704537865,
+      "formatted_time": "2024-01-06 18:44:25",
+      "type": "文件消息",
+      "str_content": "徐昂 U202116333 基于宏微观数据的恩格尔系数异质性研究.pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1704537877,
+      "formatted_time": "2024-01-06 18:44:37",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1704537919,
+      "formatted_time": "2024-01-06 18:45:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1709111094,
+      "formatted_time": "2024-02-28 17:04:54",
+      "type": "文本消息",
+      "str_content": "礼貌问一下我们班班主任是谁啊",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1709111101,
+      "formatted_time": "2024-02-28 17:05:01",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1709111102,
+      "formatted_time": "2024-02-28 17:05:02",
+      "type": "文本消息",
+      "str_content": "钱雪松",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1709111108,
+      "formatted_time": "2024-02-28 17:05:08",
+      "type": "文本消息",
+      "str_content": "好滴",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1712652387,
+      "formatted_time": "2024-04-09 16:46:27",
+      "type": "文本消息",
+      "str_content": "琛姐",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712652396,
+      "formatted_time": "2024-04-09 16:46:36",
+      "type": "文本消息",
+      "str_content": "金融风险管理的三张作业",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712652409,
+      "formatted_time": "2024-04-09 16:46:49",
+      "type": "文本消息",
+      "str_content": "是11 13 14吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712653278,
+      "formatted_time": "2024-04-09 17:01:18",
+      "type": "文本消息",
+      "str_content": "是嘟",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1712653291,
+      "formatted_time": "2024-04-09 17:01:31",
+      "type": "文本消息",
+      "str_content": "好嘟",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1714717627,
+      "formatted_time": "2024-05-03 14:27:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1714717633,
+      "formatted_time": "2024-05-03 14:27:13",
+      "type": "文本消息",
+      "str_content": "姐，国民经济核算的练习题是一共有七个嘛？五六七章的练习题是哪几道呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1714717668,
+      "formatted_time": "2024-05-03 14:27:48",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1714717681,
+      "formatted_time": "2024-05-03 14:28:01",
+      "type": "文本消息",
+      "str_content": "夏梓奇给我说的",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1714717701,
+      "formatted_time": "2024-05-03 14:28:21",
+      "type": "文本消息",
+      "str_content": "这里的..五是什么意思呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1714717730,
+      "formatted_time": "2024-05-03 14:28:50",
+      "type": "文本消息",
+      "str_content": "应该是第五章和第八章没有？",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1714717749,
+      "formatted_time": "2024-05-03 14:29:09",
+      "type": "文本消息",
+      "str_content": "我去问问去我还没开始写",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1714717780,
+      "formatted_time": "2024-05-03 14:29:40",
+      "type": "文本消息",
+      "str_content": "多谢多谢～这个感觉布置的好乱（也可能是因为我不上课吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1714717794,
+      "formatted_time": "2024-05-03 14:29:54",
+      "type": "文本消息",
+      "str_content": "（没事我也）",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1714718042,
+      "formatted_time": "2024-05-03 14:34:02",
+      "type": "引用消息",
+      "str_content": "是的",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1714718055,
+      "formatted_time": "2024-05-03 14:34:15",
+      "type": "文本消息",
+      "str_content": "多谢多谢~！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716129898,
+      "formatted_time": "2024-05-19 22:44:58",
+      "type": "文本消息",
+      "str_content": "昂子哥，我们现在有研班吗",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1716129909,
+      "formatted_time": "2024-05-19 22:45:09",
+      "type": "文本消息",
+      "str_content": "分流后没听说过",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716129917,
+      "formatted_time": "2024-05-19 22:45:17",
+      "type": "文本消息",
+      "str_content": "当初的研班应该都毕业了吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716129938,
+      "formatted_time": "2024-05-19 22:45:38",
+      "type": "文本消息",
+      "str_content": "好嘞那应该是分班之后就没有了",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1730355744,
+      "formatted_time": "2024-10-31 14:22:24",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1730355748,
+      "formatted_time": "2024-10-31 14:22:28",
+      "type": "文本消息",
+      "str_content": "我问问他问过你没",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1730355756,
+      "formatted_time": "2024-10-31 14:22:36",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1730355764,
+      "formatted_time": "2024-10-31 14:22:44",
+      "type": "文本消息",
+      "str_content": "啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1730355766,
+      "formatted_time": "2024-10-31 14:22:46",
+      "type": "文本消息",
+      "str_content": "没有的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1730355773,
+      "formatted_time": "2024-10-31 14:22:53",
+      "type": "文本消息",
+      "str_content": "他是走的交换吗",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1730355777,
+      "formatted_time": "2024-10-31 14:22:57",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1730355782,
+      "formatted_time": "2024-10-31 14:23:02",
+      "type": "文本消息",
+      "str_content": "哪个学校啊",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1730355788,
+      "formatted_time": "2024-10-31 14:23:08",
+      "type": "文本消息",
+      "str_content": "我记得好像美国",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1730355789,
+      "formatted_time": "2024-10-31 14:23:09",
+      "type": "文本消息",
+      "str_content": "ucb",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1730355802,
+      "formatted_time": "2024-10-31 14:23:22",
+      "type": "文本消息",
+      "str_content": "是这一学期是吗",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1730355821,
+      "formatted_time": "2024-10-31 14:23:41",
+      "type": "文本消息",
+      "str_content": "应该是，至少这学期应该是回不来的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1730355832,
+      "formatted_time": "2024-10-31 14:23:52",
+      "type": "文本消息",
+      "str_content": "行我下课给他问问",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1730355848,
+      "formatted_time": "2024-10-31 14:24:08",
+      "type": "文本消息",
+      "str_content": "嗯嗯，辛苦啦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748305348,
+      "formatted_time": "2025-05-27 08:22:28",
+      "type": "文本消息",
+      "str_content": "咱们要拍班级照吗",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1748305531,
+      "formatted_time": "2025-05-27 08:25:31",
+      "type": "文本消息",
+      "str_content": "要不大家先私下拍吧~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748305540,
+      "formatted_time": "2025-05-27 08:25:40",
+      "type": "文本消息",
+      "str_content": "我在找导师",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748305645,
+      "formatted_time": "2025-05-27 08:27:25",
+      "type": "文本消息",
+      "str_content": "欧克",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1749530775,
+      "formatted_time": "2025-06-10 12:46:15",
+      "type": "文本消息",
+      "str_content": "dd",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749530783,
+      "formatted_time": "2025-06-10 12:46:23",
+      "type": "文本消息",
+      "str_content": "你是现在还没交那两个材料吗？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749530819,
+      "formatted_time": "2025-06-10 12:46:59",
+      "type": "文本消息",
+      "str_content": "等一会儿，一个小时之内送过来",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1749530833,
+      "formatted_time": "2025-06-10 12:47:13",
+      "type": "文本消息",
+      "str_content": "方便吗",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1749530841,
+      "formatted_time": "2025-06-10 12:47:21",
+      "type": "文本消息",
+      "str_content": "ok，到时候直接放楼下吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749530863,
+      "formatted_time": "2025-06-10 12:47:43",
+      "type": "文本消息",
+      "str_content": "报一丝看错时间了，我以为今天晚上ddl",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1749530898,
+      "formatted_time": "2025-06-10 12:48:18",
+      "type": "文本消息",
+      "str_content": "嗯嗯没事，我下午去送",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749988779,
+      "formatted_time": "2025-06-15 19:59:39",
+      "type": "文本消息",
+      "str_content": "哈喽哥，我问一下毕业活动游园会什么的是你负责不",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1749989020,
+      "formatted_time": "2025-06-15 20:03:40",
+      "type": "文本消息",
+      "str_content": "这个我不清楚诶",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749989091,
+      "formatted_time": "2025-06-15 20:04:51",
+      "type": "文本消息",
+      "str_content": "好滴",
+      "is_send": 0,
+      "sender_name": "徐琛"
+    },
+    {
+      "create_time": 1750235442,
+      "formatted_time": "2025-06-18 16:30:42",
+      "type": "图文消息",
+      "str_content": "邀请你加入群聊",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:43+08:00",
+  "message_count": 200
+}

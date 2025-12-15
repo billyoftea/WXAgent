@@ -1,0 +1,48 @@
+{
+  "session_id": "wxid_k7ur0kixa7ne22",
+  "session_name": "薛浩天",
+  "messages": [
+    {
+      "create_time": 1708833966,
+      "formatted_time": "2024-02-25 12:06:06",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "薛浩天"
+    },
+    {
+      "create_time": 1708833973,
+      "formatted_time": "2024-02-25 12:06:13",
+      "type": "文本消息",
+      "str_content": "你好你好",
+      "is_send": 0,
+      "sender_name": "薛浩天"
+    },
+    {
+      "create_time": 1708833974,
+      "formatted_time": "2024-02-25 12:06:14",
+      "type": "文本消息",
+      "str_content": "薛浩天",
+      "is_send": 0,
+      "sender_name": "薛浩天"
+    },
+    {
+      "create_time": 1708833977,
+      "formatted_time": "2024-02-25 12:06:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "薛浩天"
+    },
+    {
+      "create_time": 1708833990,
+      "formatted_time": "2024-02-25 12:06:30",
+      "type": "文本消息",
+      "str_content": "你好呀~我叫徐昂，请多多指教啦！",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:32+08:00",
+  "message_count": 5
+}

@@ -1,0 +1,1744 @@
+{
+  "session_id": "wxid_bb7sjj1i889x22",
+  "session_name": "刘卓",
+  "messages": [
+    {
+      "create_time": 1680339941,
+      "formatted_time": "2023-04-01 17:05:41",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1687534066,
+      "formatted_time": "2023-06-23 23:27:46",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1687534134,
+      "formatted_time": "2023-06-23 23:28:54",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687786570,
+      "formatted_time": "2023-06-26 21:36:10",
+      "type": "文本消息",
+      "str_content": "你通过一下那个飞书",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1687786578,
+      "formatted_time": "2023-06-26 21:36:18",
+      "type": "文本消息",
+      "str_content": "通过了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687786580,
+      "formatted_time": "2023-06-26 21:36:20",
+      "type": "文本消息",
+      "str_content": "我改下设置",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687786628,
+      "formatted_time": "2023-06-26 21:37:08",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1687786725,
+      "formatted_time": "2023-06-26 21:38:45",
+      "type": "文本消息",
+      "str_content": "这个能导出文档吗",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1687786753,
+      "formatted_time": "2023-06-26 21:39:13",
+      "type": "文本消息",
+      "str_content": "可以",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687786763,
+      "formatted_time": "2023-06-26 21:39:23",
+      "type": "文本消息",
+      "str_content": "右上角有导出",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687786775,
+      "formatted_time": "2023-06-26 21:39:35",
+      "type": "文本消息",
+      "str_content": "但是因为有的地方识别的不清楚，导出可能不准确",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687826661,
+      "formatted_time": "2023-06-27 08:44:21",
+      "type": "文本消息",
+      "str_content": "发了早餐券吗",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1687832718,
+      "formatted_time": "2023-06-27 10:25:18",
+      "type": "文本消息",
+      "str_content": "昨天去前台问说的是给二楼的阿姨了已经好像",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687859818,
+      "formatted_time": "2023-06-27 17:56:58",
+      "type": "文本消息",
+      "str_content": "徐昂，你可以帮我像昨天那样把今天录音转换一下嘛",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1687859839,
+      "formatted_time": "2023-06-27 17:57:19",
+      "type": "文本消息",
+      "str_content": "要不直接在你账号上搞也行",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687859853,
+      "formatted_time": "2023-06-27 17:57:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1687859860,
+      "formatted_time": "2023-06-27 17:57:40",
+      "type": "文本消息",
+      "str_content": "在飞书-工作台-飞书妙记里面",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1687860053,
+      "formatted_time": "2023-06-27 18:00:53",
+      "type": "文本消息",
+      "str_content": "OK",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1687860057,
+      "formatted_time": "2023-06-27 18:00:57",
+      "type": "文本消息",
+      "str_content": "我知道怎么搞了",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1687860072,
+      "formatted_time": "2023-06-27 18:01:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688608071,
+      "formatted_time": "2023-07-06 09:47:51",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1688608072,
+      "formatted_time": "2023-07-06 09:47:52",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1688608073,
+      "formatted_time": "2023-07-06 09:47:53",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1688609176,
+      "formatted_time": "2023-07-06 10:06:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693235066,
+      "formatted_time": "2023-08-28 23:04:26",
+      "type": "文本消息",
+      "str_content": "徐老师，你周四晚上十点要的不",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1693235075,
+      "formatted_time": "2023-08-28 23:04:35",
+      "type": "文本消息",
+      "str_content": "那个时候海底捞有69折",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1693235082,
+      "formatted_time": "2023-08-28 23:04:42",
+      "type": "文本消息",
+      "str_content": "我多晚都ok哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693235127,
+      "formatted_time": "2023-08-28 23:05:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1694441163,
+      "formatted_time": "2023-09-11 22:06:03",
+      "type": "文本消息",
+      "str_content": "明天去不得了",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1694441167,
+      "formatted_time": "2023-09-11 22:06:07",
+      "type": "文本消息",
+      "str_content": "zjj有课",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1694441169,
+      "formatted_time": "2023-09-11 22:06:09",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1694441336,
+      "formatted_time": "2023-09-11 22:08:56",
+      "type": "文本消息",
+      "str_content": "哦哦哦对",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694441351,
+      "formatted_time": "2023-09-11 22:09:11",
+      "type": "文本消息",
+      "str_content": "他们疯狂星期二是吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694441384,
+      "formatted_time": "2023-09-11 22:09:44",
+      "type": "文本消息",
+      "str_content": "嗯那",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1695286806,
+      "formatted_time": "2023-09-21 17:00:06",
+      "type": "文本消息",
+      "str_content": "徐老师",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1695286813,
+      "formatted_time": "2023-09-21 17:00:13",
+      "type": "文本消息",
+      "str_content": "明天晚上去你有时间吗",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1695286819,
+      "formatted_time": "2023-09-21 17:00:19",
+      "type": "文本消息",
+      "str_content": "她们都没得空",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1695300123,
+      "formatted_time": "2023-09-21 20:42:03",
+      "type": "文本消息",
+      "str_content": "明晚应该可以",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695350690,
+      "formatted_time": "2023-09-22 10:44:50",
+      "type": "文本消息",
+      "str_content": "那今天要搞吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695350704,
+      "formatted_time": "2023-09-22 10:45:04",
+      "type": "文本消息",
+      "str_content": "我问下她们",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1695350714,
+      "formatted_time": "2023-09-22 10:45:14",
+      "type": "文本消息",
+      "str_content": "但zjj不来",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1695350717,
+      "formatted_time": "2023-09-22 10:45:17",
+      "type": "文本消息",
+      "str_content": "[流泪][流泪]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1695350744,
+      "formatted_time": "2023-09-22 10:45:44",
+      "type": "文本消息",
+      "str_content": "ljy她们有舞蹈课",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1695350748,
+      "formatted_time": "2023-09-22 10:45:48",
+      "type": "文本消息",
+      "str_content": "估计也没时间",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1695350766,
+      "formatted_time": "2023-09-22 10:46:06",
+      "type": "文本消息",
+      "str_content": "[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695350767,
+      "formatted_time": "2023-09-22 10:46:07",
+      "type": "文本消息",
+      "str_content": "下次再约吧🥲",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696169053,
+      "formatted_time": "2023-10-01 22:04:13",
+      "type": "文本消息",
+      "str_content": "你两个姐姐",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696169078,
+      "formatted_time": "2023-10-01 22:04:38",
+      "type": "文本消息",
+      "str_content": "也在爬四姑娘山吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696170103,
+      "formatted_time": "2023-10-01 22:21:43",
+      "type": "文本消息",
+      "str_content": "嗯呢",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696170135,
+      "formatted_time": "2023-10-01 22:22:15",
+      "type": "文本消息",
+      "str_content": "你现在到哪里了",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696170757,
+      "formatted_time": "2023-10-01 22:32:37",
+      "type": "文本消息",
+      "str_content": "我明天到大本营",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696170762,
+      "formatted_time": "2023-10-01 22:32:42",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696170938,
+      "formatted_time": "2023-10-01 22:35:38",
+      "type": "文本消息",
+      "str_content": "我不知道啊",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696170961,
+      "formatted_time": "2023-10-01 22:36:01",
+      "type": "位置消息",
+      "str_content": "[位置消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696170961,
+      "formatted_time": "2023-10-01 22:36:01",
+      "type": "文本消息",
+      "str_content": "这里",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696171001,
+      "formatted_time": "2023-10-01 22:36:41",
+      "type": "文本消息",
+      "str_content": "这么好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696171016,
+      "formatted_time": "2023-10-01 22:36:56",
+      "type": "文本消息",
+      "str_content": "离得巨近",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696171107,
+      "formatted_time": "2023-10-01 22:38:27",
+      "type": "文本消息",
+      "str_content": "可惜我们全家都是标准的i人",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696171121,
+      "formatted_time": "2023-10-01 22:38:41",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696171128,
+      "formatted_time": "2023-10-01 22:38:48",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696171135,
+      "formatted_time": "2023-10-01 22:38:55",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696171193,
+      "formatted_time": "2023-10-01 22:39:53",
+      "type": "文本消息",
+      "str_content": "你几个人啊",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696171205,
+      "formatted_time": "2023-10-01 22:40:05",
+      "type": "文本消息",
+      "str_content": "4个",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696171255,
+      "formatted_time": "2023-10-01 22:40:55",
+      "type": "文本消息",
+      "str_content": "那她们自己爬算了",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696171261,
+      "formatted_time": "2023-10-01 22:41:01",
+      "type": "文本消息",
+      "str_content": "早知道我们一起去了",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696171265,
+      "formatted_time": "2023-10-01 22:41:05",
+      "type": "文本消息",
+      "str_content": "[破涕为笑][破涕为笑][破涕为笑]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696171369,
+      "formatted_time": "2023-10-01 22:42:49",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696171417,
+      "formatted_time": "2023-10-01 22:43:37",
+      "type": "文本消息",
+      "str_content": "对啊",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696205779,
+      "formatted_time": "2023-10-02 08:16:19",
+      "type": "文本消息",
+      "str_content": "你姐姐有什么",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696205786,
+      "formatted_time": "2023-10-02 08:16:26",
+      "type": "文本消息",
+      "str_content": "外貌特征吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696205792,
+      "formatted_time": "2023-10-02 08:16:32",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696205814,
+      "formatted_time": "2023-10-02 08:16:54",
+      "type": "文本消息",
+      "str_content": "长得像lisa",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696205903,
+      "formatted_time": "2023-10-02 08:18:23",
+      "type": "文本消息",
+      "str_content": "范围再小点",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696205905,
+      "formatted_time": "2023-10-02 08:18:25",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696205949,
+      "formatted_time": "2023-10-02 08:19:09",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696205986,
+      "formatted_time": "2023-10-02 08:19:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322141,
+      "formatted_time": "2023-10-03 16:35:41",
+      "type": "文本消息",
+      "str_content": "你姐姐是运动健将把",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322157,
+      "formatted_time": "2023-10-03 16:35:57",
+      "type": "文本消息",
+      "str_content": "咋嘞",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696322159,
+      "formatted_time": "2023-10-03 16:35:59",
+      "type": "文本消息",
+      "str_content": "这山对于女生来说可真不好爬",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322168,
+      "formatted_time": "2023-10-03 16:36:08",
+      "type": "文本消息",
+      "str_content": "不晓得嘞",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696322177,
+      "formatted_time": "2023-10-03 16:36:17",
+      "type": "文本消息",
+      "str_content": "没有缆车之类的吗",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696322186,
+      "formatted_time": "2023-10-03 16:36:26",
+      "type": "文本消息",
+      "str_content": "还真没有",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322188,
+      "formatted_time": "2023-10-03 16:36:28",
+      "type": "文本消息",
+      "str_content": "这是野山",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322190,
+      "formatted_time": "2023-10-03 16:36:30",
+      "type": "文本消息",
+      "str_content": "只有马",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322201,
+      "formatted_time": "2023-10-03 16:36:41",
+      "type": "文本消息",
+      "str_content": "你姐爬的是大峰还是二峰",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322318,
+      "formatted_time": "2023-10-03 16:38:38",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322318,
+      "formatted_time": "2023-10-03 16:38:38",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322450,
+      "formatted_time": "2023-10-03 16:40:50",
+      "type": "文本消息",
+      "str_content": "估计是二峰",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696322456,
+      "formatted_time": "2023-10-03 16:40:56",
+      "type": "文本消息",
+      "str_content": "她们两个都是残疾人",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696322459,
+      "formatted_time": "2023-10-03 16:40:59",
+      "type": "文本消息",
+      "str_content": "不出门的",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696322484,
+      "formatted_time": "2023-10-03 16:41:24",
+      "type": "文本消息",
+      "str_content": "我那天走了三万步感觉腿废了",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696322490,
+      "formatted_time": "2023-10-03 16:41:30",
+      "type": "文本消息",
+      "str_content": "emm二峰比大峰难\n也有可能她们是来游览景区而非徒步",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322490,
+      "formatted_time": "2023-10-03 16:41:30",
+      "type": "文本消息",
+      "str_content": "你怎么走了四万步",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696322496,
+      "formatted_time": "2023-10-03 16:41:36",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322502,
+      "formatted_time": "2023-10-03 16:41:42",
+      "type": "文本消息",
+      "str_content": "凌晨两点带着头灯",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322503,
+      "formatted_time": "2023-10-03 16:41:43",
+      "type": "文本消息",
+      "str_content": "？",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696322509,
+      "formatted_time": "2023-10-03 16:41:49",
+      "type": "文本消息",
+      "str_content": "海拔上升一千米",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322511,
+      "formatted_time": "2023-10-03 16:41:51",
+      "type": "文本消息",
+      "str_content": "那估计没爬山",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696322521,
+      "formatted_time": "2023-10-03 16:42:01",
+      "type": "文本消息",
+      "str_content": "我直接高反疯狂呕吐",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322525,
+      "formatted_time": "2023-10-03 16:42:05",
+      "type": "文本消息",
+      "str_content": "走了一天腿断了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322529,
+      "formatted_time": "2023-10-03 16:42:09",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696322574,
+      "formatted_time": "2023-10-03 16:42:54",
+      "type": "文本消息",
+      "str_content": "我第一天走的太累了",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696322584,
+      "formatted_time": "2023-10-03 16:43:04",
+      "type": "文本消息",
+      "str_content": "后面两天都住拐杖",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696322638,
+      "formatted_time": "2023-10-03 16:43:58",
+      "type": "文本消息",
+      "str_content": "你这是去哪玩的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696322882,
+      "formatted_time": "2023-10-03 16:48:02",
+      "type": "文本消息",
+      "str_content": "恩施",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696322888,
+      "formatted_time": "2023-10-03 16:48:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696323763,
+      "formatted_time": "2023-10-03 17:02:43",
+      "type": "文本消息",
+      "str_content": "大峡谷非常美丽",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696323772,
+      "formatted_time": "2023-10-03 17:02:52",
+      "type": "文本消息",
+      "str_content": "是的",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696323775,
+      "formatted_time": "2023-10-03 17:02:55",
+      "type": "文本消息",
+      "str_content": "很漂亮",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696323787,
+      "formatted_time": "2023-10-03 17:03:07",
+      "type": "文本消息",
+      "str_content": "但是太费腿了",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696323794,
+      "formatted_time": "2023-10-03 17:03:14",
+      "type": "文本消息",
+      "str_content": "全程走的",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696330973,
+      "formatted_time": "2023-10-03 19:02:53",
+      "type": "文本消息",
+      "str_content": "我从武汉坐高铁来成都的时候",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696330979,
+      "formatted_time": "2023-10-03 19:02:59",
+      "type": "文本消息",
+      "str_content": "各种穿越恩施大峡谷",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696330985,
+      "formatted_time": "2023-10-03 19:03:05",
+      "type": "文本消息",
+      "str_content": "太美丽了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696331015,
+      "formatted_time": "2023-10-03 19:03:35",
+      "type": "文本消息",
+      "str_content": "嗯那",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696331041,
+      "formatted_time": "2023-10-03 19:04:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696474442,
+      "formatted_time": "2023-10-05 10:54:02",
+      "type": "文本消息",
+      "str_content": "徐老师",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696474450,
+      "formatted_time": "2023-10-05 10:54:10",
+      "type": "文本消息",
+      "str_content": "你腿脚痛不痛",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696474454,
+      "formatted_time": "2023-10-05 10:54:14",
+      "type": "文本消息",
+      "str_content": "我想去按摩",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696474463,
+      "formatted_time": "2023-10-05 10:54:23",
+      "type": "文本消息",
+      "str_content": "剧痛无比",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696474468,
+      "formatted_time": "2023-10-05 10:54:28",
+      "type": "文本消息",
+      "str_content": "但最近还有点忙",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696474474,
+      "formatted_time": "2023-10-05 10:54:34",
+      "type": "文本消息",
+      "str_content": "我想着开了学再去按按",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696474476,
+      "formatted_time": "2023-10-05 10:54:36",
+      "type": "文本消息",
+      "str_content": "[苦涩]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696474523,
+      "formatted_time": "2023-10-05 10:55:23",
+      "type": "文本消息",
+      "str_content": "我有点想今晚就去🫰",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696474528,
+      "formatted_time": "2023-10-05 10:55:28",
+      "type": "文本消息",
+      "str_content": "实在受不了",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696474564,
+      "formatted_time": "2023-10-05 10:56:04",
+      "type": "文本消息",
+      "str_content": "我这两天可能有点抽不开身[苦涩]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696474572,
+      "formatted_time": "2023-10-05 10:56:12",
+      "type": "文本消息",
+      "str_content": "事儿又堆一起了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696474573,
+      "formatted_time": "2023-10-05 10:56:13",
+      "type": "文本消息",
+      "str_content": "[苦涩]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696474581,
+      "formatted_time": "2023-10-05 10:56:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696599366,
+      "formatted_time": "2023-10-06 21:36:06",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696599378,
+      "formatted_time": "2023-10-06 21:36:18",
+      "type": "文本消息",
+      "str_content": "徐老师，我能拉你进那个群吗",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696599387,
+      "formatted_time": "2023-10-06 21:36:27",
+      "type": "文本消息",
+      "str_content": "我怕简历关过不了",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696599392,
+      "formatted_time": "2023-10-06 21:36:32",
+      "type": "文本消息",
+      "str_content": "💦💦",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696599477,
+      "formatted_time": "2023-10-06 21:37:57",
+      "type": "文本消息",
+      "str_content": "okk",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696599482,
+      "formatted_time": "2023-10-06 21:38:02",
+      "type": "文本消息",
+      "str_content": "这hcc招新搞这么大",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696599490,
+      "formatted_time": "2023-10-06 21:38:10",
+      "type": "文本消息",
+      "str_content": "[大哭][大哭]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696599503,
+      "formatted_time": "2023-10-06 21:38:23",
+      "type": "图文消息",
+      "str_content": "邀请你加入群聊",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696599522,
+      "formatted_time": "2023-10-06 21:38:42",
+      "type": "文本消息",
+      "str_content": "他感觉还挺专业的吧",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1696599542,
+      "formatted_time": "2023-10-06 21:39:02",
+      "type": "文本消息",
+      "str_content": "拉人说明招不到人了[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696599551,
+      "formatted_time": "2023-10-06 21:39:11",
+      "type": "文本消息",
+      "str_content": "[晕][晕]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1702449300,
+      "formatted_time": "2023-12-13 14:35:00",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1702449314,
+      "formatted_time": "2023-12-13 14:35:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071537,
+      "formatted_time": "2024-05-30 20:18:57",
+      "type": "文本消息",
+      "str_content": "不在首尔",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071547,
+      "formatted_time": "2024-05-30 20:19:07",
+      "type": "文本消息",
+      "str_content": "在釜山旁边",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071558,
+      "formatted_time": "2024-05-30 20:19:18",
+      "type": "文本消息",
+      "str_content": "到首尔还要2个小时高铁",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071566,
+      "formatted_time": "2024-05-30 20:19:26",
+      "type": "文本消息",
+      "str_content": "都怪ljy报了成均馆",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071567,
+      "formatted_time": "2024-05-30 20:19:27",
+      "type": "文本消息",
+      "str_content": "（",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071581,
+      "formatted_time": "2024-05-30 20:19:41",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071620,
+      "formatted_time": "2024-05-30 20:20:20",
+      "type": "文本消息",
+      "str_content": "你俩这也可以了呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717071626,
+      "formatted_time": "2024-05-30 20:20:26",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717071633,
+      "formatted_time": "2024-05-30 20:20:33",
+      "type": "文本消息",
+      "str_content": "一个首尔一个釜山",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717071636,
+      "formatted_time": "2024-05-30 20:20:36",
+      "type": "文本消息",
+      "str_content": "是的",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071643,
+      "formatted_time": "2024-05-30 20:20:43",
+      "type": "文本消息",
+      "str_content": "这韩国top2的城市了啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717071651,
+      "formatted_time": "2024-05-30 20:20:51",
+      "type": "文本消息",
+      "str_content": "直接连着玩了可以",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717071653,
+      "formatted_time": "2024-05-30 20:20:53",
+      "type": "文本消息",
+      "str_content": "可以把小韩🥣完了",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071656,
+      "formatted_time": "2024-05-30 20:20:56",
+      "type": "文本消息",
+      "str_content": "玩",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071670,
+      "formatted_time": "2024-05-30 20:21:10",
+      "type": "文本消息",
+      "str_content": "你就一个人去吗",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071683,
+      "formatted_time": "2024-05-30 20:21:23",
+      "type": "引用消息",
+      "str_content": "不远不远，俩小时也就湖北省内的距离吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717071688,
+      "formatted_time": "2024-05-30 20:21:28",
+      "type": "文本消息",
+      "str_content": "华科还有一个去ucla的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717071693,
+      "formatted_time": "2024-05-30 20:21:33",
+      "type": "文本消息",
+      "str_content": "还有一个去ucb的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717071698,
+      "formatted_time": "2024-05-30 20:21:38",
+      "type": "文本消息",
+      "str_content": "武汉到长沙吧",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071703,
+      "formatted_time": "2024-05-30 20:21:43",
+      "type": "文本消息",
+      "str_content": "他们在小红书上捞了大概十几个人了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717071703,
+      "formatted_time": "2024-05-30 20:21:43",
+      "type": "文本消息",
+      "str_content": "你认得吗",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071711,
+      "formatted_time": "2024-05-30 20:21:51",
+      "type": "文本消息",
+      "str_content": "聊聊就认识了[呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717071712,
+      "formatted_time": "2024-05-30 20:21:52",
+      "type": "文本消息",
+      "str_content": "hhhhxs",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071724,
+      "formatted_time": "2024-05-30 20:22:04",
+      "type": "文本消息",
+      "str_content": "xhs是第一社交软件",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717071734,
+      "formatted_time": "2024-05-30 20:22:14",
+      "type": "文本消息",
+      "str_content": "确实",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717071738,
+      "formatted_time": "2024-05-30 20:22:18",
+      "type": "文本消息",
+      "str_content": "精准推送",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717828188,
+      "formatted_time": "2024-06-08 14:29:48",
+      "type": "文本消息",
+      "str_content": "徐老师你也报了国科大",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828191,
+      "formatted_time": "2024-06-08 14:29:51",
+      "type": "文本消息",
+      "str_content": "你去不去",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828428,
+      "formatted_time": "2024-06-08 14:33:48",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717828444,
+      "formatted_time": "2024-06-08 14:34:04",
+      "type": "文本消息",
+      "str_content": "还可以",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828451,
+      "formatted_time": "2024-06-08 14:34:11",
+      "type": "文本消息",
+      "str_content": "那咱们可以一块",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828457,
+      "formatted_time": "2024-06-08 14:34:17",
+      "type": "文本消息",
+      "str_content": "我好像没有撞的",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828464,
+      "formatted_time": "2024-06-08 14:34:24",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717828468,
+      "formatted_time": "2024-06-08 14:34:28",
+      "type": "文本消息",
+      "str_content": "你报的什么呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717828476,
+      "formatted_time": "2024-06-08 14:34:36",
+      "type": "文本消息",
+      "str_content": "数量经济学直博",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828480,
+      "formatted_time": "2024-06-08 14:34:40",
+      "type": "文本消息",
+      "str_content": "你报的哪个",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828486,
+      "formatted_time": "2024-06-08 14:34:46",
+      "type": "文本消息",
+      "str_content": "但是关系不大好像",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828492,
+      "formatted_time": "2024-06-08 14:34:52",
+      "type": "文本消息",
+      "str_content": "数量经济学学硕",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717828492,
+      "formatted_time": "2024-06-08 14:34:52",
+      "type": "文本消息",
+      "str_content": "专业是任选的",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828503,
+      "formatted_time": "2024-06-08 14:35:03",
+      "type": "文本消息",
+      "str_content": "国科大特有的专业任选",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717828530,
+      "formatted_time": "2024-06-08 14:35:30",
+      "type": "文本消息",
+      "str_content": "去年才招了5个直博",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828547,
+      "formatted_time": "2024-06-08 14:35:47",
+      "type": "文本消息",
+      "str_content": "任选感觉不太好",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828848,
+      "formatted_time": "2024-06-08 14:40:48",
+      "type": "文本消息",
+      "str_content": "你还想读博嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717828865,
+      "formatted_time": "2024-06-08 14:41:05",
+      "type": "文本消息",
+      "str_content": "国科大的可以",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828889,
+      "formatted_time": "2024-06-08 14:41:29",
+      "type": "文本消息",
+      "str_content": "硕士的话感觉要比港中深强才好",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828902,
+      "formatted_time": "2024-06-08 14:41:42",
+      "type": "文本消息",
+      "str_content": "博士看老师分配到谁吧",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828906,
+      "formatted_time": "2024-06-08 14:41:46",
+      "type": "文本消息",
+      "str_content": "[大哭]",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828968,
+      "formatted_time": "2024-06-08 14:42:48",
+      "type": "文本消息",
+      "str_content": "洪永淼汪寿阳这俩院士确实牛逼",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717828980,
+      "formatted_time": "2024-06-08 14:43:00",
+      "type": "文本消息",
+      "str_content": "港中深和国科大感觉是不同的发展方向",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717828985,
+      "formatted_time": "2024-06-08 14:43:05",
+      "type": "文本消息",
+      "str_content": "是的",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717828993,
+      "formatted_time": "2024-06-08 14:43:13",
+      "type": "引用消息",
+      "str_content": "学硕和专硕",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717829007,
+      "formatted_time": "2024-06-08 14:43:27",
+      "type": "文本消息",
+      "str_content": "学硕不想搞",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717829016,
+      "formatted_time": "2024-06-08 14:43:36",
+      "type": "文本消息",
+      "str_content": "就申了个中山的",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717829037,
+      "formatted_time": "2024-06-08 14:43:57",
+      "type": "文本消息",
+      "str_content": "学硕也是硕博连读的好一点",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717829052,
+      "formatted_time": "2024-06-08 14:44:12",
+      "type": "文本消息",
+      "str_content": "并且直博就招个位数的人",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717829065,
+      "formatted_time": "2024-06-08 14:44:25",
+      "type": "文本消息",
+      "str_content": "应该能分到好导师吧",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717829170,
+      "formatted_time": "2024-06-08 14:46:10",
+      "type": "文本消息",
+      "str_content": "不知道数量经济是不是可以转码",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717829185,
+      "formatted_time": "2024-06-08 14:46:25",
+      "type": "文本消息",
+      "str_content": "不知道诶",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1717829189,
+      "formatted_time": "2024-06-08 14:46:29",
+      "type": "文本消息",
+      "str_content": "感觉很简单吧",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1724583125,
+      "formatted_time": "2024-08-25 18:52:05",
+      "type": "文本消息",
+      "str_content": "徐老师",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1724583133,
+      "formatted_time": "2024-08-25 18:52:13",
+      "type": "文本消息",
+      "str_content": "你明天下午有时间吗",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1724583136,
+      "formatted_time": "2024-08-25 18:52:16",
+      "type": "文本消息",
+      "str_content": "去唱歌不",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1724583152,
+      "formatted_time": "2024-08-25 18:52:32",
+      "type": "文本消息",
+      "str_content": "明天下午应该还在高铁上",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1724583159,
+      "formatted_time": "2024-08-25 18:52:39",
+      "type": "文本消息",
+      "str_content": "我和睿子哥这两天在西安打比赛呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1724583168,
+      "formatted_time": "2024-08-25 18:52:48",
+      "type": "文本消息",
+      "str_content": "你和xyr不一块来吗",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1724583173,
+      "formatted_time": "2024-08-25 18:52:53",
+      "type": "文本消息",
+      "str_content": "她说12点",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1724583180,
+      "formatted_time": "2024-08-25 18:53:00",
+      "type": "文本消息",
+      "str_content": "哦哦我以为是12点出发",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1724583188,
+      "formatted_time": "2024-08-25 18:53:08",
+      "type": "文本消息",
+      "str_content": "那要开多久才能到啊",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1724583199,
+      "formatted_time": "2024-08-25 18:53:19",
+      "type": "文本消息",
+      "str_content": "诶下午好像还行",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1724583204,
+      "formatted_time": "2024-08-25 18:53:24",
+      "type": "文本消息",
+      "str_content": "我看了下是下午一点到武汉",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1724583208,
+      "formatted_time": "2024-08-25 18:53:28",
+      "type": "文本消息",
+      "str_content": "那可能得下午晚点",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1724583228,
+      "formatted_time": "2024-08-25 18:53:48",
+      "type": "文本消息",
+      "str_content": "好滴也不一定一定下午",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1724583237,
+      "formatted_time": "2024-08-25 18:53:57",
+      "type": "文本消息",
+      "str_content": "晚上问下大家有没有时间",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1724583244,
+      "formatted_time": "2024-08-25 18:54:04",
+      "type": "文本消息",
+      "str_content": "我把你拉到那个群",
+      "is_send": 0,
+      "sender_name": "刘卓"
+    },
+    {
+      "create_time": 1724583256,
+      "formatted_time": "2024-08-25 18:54:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:42+08:00",
+  "message_count": 217
+}

@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_rspv8rch3idb22",
+  "session_name": "北大鲲鹏协会",
+  "messages": [
+    {
+      "create_time": 1757397448,
+      "formatted_time": "2025-09-09 13:57:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "北大鲲鹏协会"
+    },
+    {
+      "create_time": 1757397449,
+      "formatted_time": "2025-09-09 13:57:29",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "北大鲲鹏协会"
+    },
+    {
+      "create_time": 1757397504,
+      "formatted_time": "2025-09-09 13:58:24",
+      "type": "图文消息",
+      "str_content": "邀请你加入群聊",
+      "is_send": 0,
+      "sender_name": "北大鲲鹏协会"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:26+08:00",
+  "message_count": 3
+}

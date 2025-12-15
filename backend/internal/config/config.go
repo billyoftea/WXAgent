@@ -321,7 +321,8 @@ func parseLLM(cfg *Config) LLMConfig {
 		"deepseek-v3-1-terminus",
 	)
 	temp := floatOrDefault(cfg.data["llm_temperature"], floatOrDefault(nested["temperature"], 0.7))
-	timeoutSeconds := floatOrDefault(cfg.data["llm_timeout"], floatOrDefault(nested["timeout"], 60))
+	// 默认超时设为 300 秒（5分钟），大文本 AI 总结需要较长时间
+	timeoutSeconds := floatOrDefault(cfg.data["llm_timeout"], floatOrDefault(nested["timeout"], 300))
 
 	return LLMConfig{
 		BaseURL:     strings.TrimSpace(baseURL),

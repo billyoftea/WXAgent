@@ -1,0 +1,914 @@
+{
+  "session_id": "21144239202@chatroom",
+  "session_name": "2023 PwC 华科 Leaper咨询群",
+  "messages": [
+    {
+      "create_time": 1680525287,
+      "formatted_time": "2023-04-03 20:34:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1680778956,
+      "formatted_time": "2023-04-06 19:02:36",
+      "type": "视频号直播卡片",
+      "str_content": "[视频号直播]",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1681396499,
+      "formatted_time": "2023-04-13 22:34:59",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681396535,
+      "formatted_time": "2023-04-13 22:35:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681396664,
+      "formatted_time": "2023-04-13 22:37:44",
+      "type": "文本消息",
+      "str_content": "4.30日网申截止，请同学们记得尽快在系统上进行网申哈",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1681396670,
+      "formatted_time": "2023-04-13 22:37:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1681396728,
+      "formatted_time": "2023-04-13 22:38:48",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681396971,
+      "formatted_time": "2023-04-13 22:42:51",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Haven",
+      "sender_wxid": "wxid_3satr4mgjhsy22"
+    },
+    {
+      "create_time": 1681397344,
+      "formatted_time": "2023-04-13 22:49:04",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681397415,
+      "formatted_time": "2023-04-13 22:50:15",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681397655,
+      "formatted_time": "2023-04-13 22:54:15",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681397837,
+      "formatted_time": "2023-04-13 22:57:17",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681398137,
+      "formatted_time": "2023-04-13 23:02:17",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681399002,
+      "formatted_time": "2023-04-13 23:16:42",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681399309,
+      "formatted_time": "2023-04-13 23:21:49",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681445633,
+      "formatted_time": "2023-04-14 12:13:53",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681471005,
+      "formatted_time": "2023-04-14 19:16:45",
+      "type": "文本消息",
+      "str_content": "📣理工生挑战营专场直播蓄势待播\n📖解码理工生专属岗位资讯\n🧩揭秘未来型人才需求画像\n🎁限量PwC周边礼品随机掉落\n🔒4月20日 19:00🔒\n‼️一定记得提前报名锁定席位哦：https://pwctalentportal.avature.cn/zh_CN/events/FolderDetail?folderId=11747",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1681471006,
+      "formatted_time": "2023-04-14 19:16:46",
+      "type": "图文消息",
+      "str_content": "直播预告 | 2023普华永道理工生挑战营专场直播上线",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1681481681,
+      "formatted_time": "2023-04-14 22:14:41",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681484751,
+      "formatted_time": "2023-04-14 23:05:51",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681487569,
+      "formatted_time": "2023-04-14 23:52:49",
+      "type": "文本消息",
+      "str_content": "请进群的同学记得看一下群公告，修改群备注+网申指路",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1681525653,
+      "formatted_time": "2023-04-15 10:27:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681822506,
+      "formatted_time": "2023-04-18 20:55:06",
+      "type": "文本消息",
+      "str_content": "[庆祝][庆祝]PwC理工生挑战营专场直播即将在4月20日晚上7点上线啦！\n\n我们为大家带来了一大波福利！欢迎在朋友圈按照以下规则转发相关内容，点赞50➕以上的3位同学有机会获得我们PwC的专属无线充电宝[红包][红包]\n\n活动规则：请各位在朋友圈转发分享：\n1）转发文字：\n🛠普华永道理工生挑战营专场直播蓄势待发\n📖解码理工生专属岗位咨询\n🧩揭秘未来型人才需求画像\n⏰锁定4月20日周四晚19:00\n🔍扫描二维码即刻报名\n🎁更有普华限量版周边礼品随机掉落\n2）自己对这次直播的一些小期待和任何你想说的话~\n3）以下图片\n\n兑奖规则：转发朋友圈集赞满50后请将截图发给“普华永道校园”公众号，在4月20日直播结束后，我们将通过公众号随机挑选3位同学，与同学核验朋友圈仍留存且满50赞后，会为各位寄出礼物。\n\n活动时间：即刻起-4月19日晚19：00\n\n赶快行动起来吧！希望能听到你的声音~[Heart][Heart]",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1681822550,
+      "formatted_time": "2023-04-18 20:55:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1681822551,
+      "formatted_time": "2023-04-18 20:55:51",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1681822552,
+      "formatted_time": "2023-04-18 20:55:52",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1681828703,
+      "formatted_time": "2023-04-18 22:38:23",
+      "type": "图文消息",
+      "str_content": "翻开LEAPer回忆录: 加入LEAP是一种怎样的体验？",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1681829738,
+      "formatted_time": "2023-04-18 22:55:38",
+      "type": "文本消息",
+      "str_content": "普华永道x 华科LEAP招新活动福利大发放～🐛\n\n🌟Coffee talk 直通卡，限量发放，先到先得！邀请本校3人参与LEAP网申并提供姓名➕网申成功截图页🉑️跳过简历筛选直通coffee talk。\n\n🌟内推：\n完成3人以上的邀请之后，请将以下信息发送\n至邮箱📮：\nhust_leaper@163.com\n1⃣️姓名\n2⃣️学校/年级/专业\n3⃣️申请人电话\n4⃣️申请人邮箱\n5⃣️200字内自我推荐称述\n6⃣️4人（含本人）网申成功截图 (pdf形式）\n7⃣️个人简历\n⚠️其中 1-5 填写在邮件正文，6-7 需要以附件形式提供。以上信息缺一不可，请认真填写\n🔥其它同学通过提供1-5和简历可以增大进入coffee talk的机会，欢迎大家投递，增进校园大使和HR对你的了解！\n‼️内推截止日期：4.28",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1681829813,
+      "formatted_time": "2023-04-18 22:56:53",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1681829848,
+      "formatted_time": "2023-04-18 22:57:28",
+      "type": "文本消息",
+      "str_content": "@ all people",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1681910615,
+      "formatted_time": "2023-04-19 21:23:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681911903,
+      "formatted_time": "2023-04-19 21:45:03",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681988764,
+      "formatted_time": "2023-04-20 19:06:04",
+      "type": "视频号直播卡片",
+      "str_content": "[视频号直播]",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1681989247,
+      "formatted_time": "2023-04-20 19:14:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1681989247,
+      "formatted_time": "2023-04-20 19:14:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1682047977,
+      "formatted_time": "2023-04-21 11:32:57",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1682091681,
+      "formatted_time": "2023-04-21 23:41:21",
+      "type": "文本消息",
+      "str_content": "Leaper的招新已经进入倒计时，⚠️⚠️⚠️请注意，一定要通过官网投递简历，才能进入面试筛选环节，请各位同学近期抓紧完成系统网申",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682091695,
+      "formatted_time": "2023-04-21 23:41:35",
+      "type": "文本消息",
+      "str_content": "期待在coffee talk中见到大家",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682091705,
+      "formatted_time": "2023-04-21 23:41:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682091708,
+      "formatted_time": "2023-04-21 23:41:48",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682091748,
+      "formatted_time": "2023-04-21 23:42:28",
+      "type": "文本消息",
+      "str_content": "也期待邮箱的小红点",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682091848,
+      "formatted_time": "2023-04-21 23:44:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Haven",
+      "sender_wxid": "wxid_3satr4mgjhsy22"
+    },
+    {
+      "create_time": 1682091886,
+      "formatted_time": "2023-04-21 23:44:46",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1682320844,
+      "formatted_time": "2023-04-24 15:20:44",
+      "type": "文本消息",
+      "str_content": "⚠️⚠️Leaper的招新已经进入倒计时第七天，还未在官网在投递的同学记得抓紧时间投递哈，同时我们的内推截止日期是4.28，请大家在截止日之前将相关材料发送到hust_leaper@163.com",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682320856,
+      "formatted_time": "2023-04-24 15:20:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682320884,
+      "formatted_time": "2023-04-24 15:21:24",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Haven",
+      "sender_wxid": "wxid_3satr4mgjhsy22"
+    },
+    {
+      "create_time": 1682558717,
+      "formatted_time": "2023-04-27 09:25:17",
+      "type": "文本消息",
+      "str_content": "⚠️⚠️Leaper的招新已经进入倒计时第三天，还未在官网在投递的同学记得抓紧时间投递哈，同时我们的内推截止日期是4.28（明天），请大家在截止日之前将相关材料发送到hust_leaper@163.com",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682558722,
+      "formatted_time": "2023-04-27 09:25:22",
+      "type": "文本消息",
+      "str_content": "@ all people",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682559390,
+      "formatted_time": "2023-04-27 09:36:30",
+      "type": "图文消息",
+      "str_content": "2023 普华永道LEAP校园俱乐部招新 / 2023 PwC LEAP Recruitment - - 11566",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1682559402,
+      "formatted_time": "2023-04-27 09:36:42",
+      "type": "文本消息",
+      "str_content": "我们预计五月中旬就会进到校园跟大家面对面展开Coffee Talk（也就是第一轮面试啦），还没投递的同学抓紧时间啦，记得赶紧戳链接投递哦，期待在校园里见到大家！！[嘿哈][嘿哈][嘿哈]",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1682559451,
+      "formatted_time": "2023-04-27 09:37:31",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1682559451,
+      "formatted_time": "2023-04-27 09:37:31",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1682559942,
+      "formatted_time": "2023-04-27 09:45:42",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682559984,
+      "formatted_time": "2023-04-27 09:46:24",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1682559984,
+      "formatted_time": "2023-04-27 09:46:24",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1682560038,
+      "formatted_time": "2023-04-27 09:47:18",
+      "type": "文本消息",
+      "str_content": "这是寒假去pwc深圳所在京基100大厦拍的照片，成为leaper能快人一步得到实习机会，一段pwc的实习经历也能够成为后续大家实习和工作求职的优质背书",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682560144,
+      "formatted_time": "2023-04-27 09:49:04",
+      "type": "文本消息",
+      "str_content": "作为实习生在实习的时候还和正式职工一起领到了过年礼品和开工红包",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682560212,
+      "formatted_time": "2023-04-27 09:50:12",
+      "type": "文本消息",
+      "str_content": "今年是华科leaper的第一届纳新，大家一定要记得投递嗷",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682560268,
+      "formatted_time": "2023-04-27 09:51:08",
+      "type": "文本消息",
+      "str_content": "coffee talk内推也马上要截止了，有意向的同学抓紧把材料投递到专属邮箱中哈",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682560316,
+      "formatted_time": "2023-04-27 09:51:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1682560317,
+      "formatted_time": "2023-04-27 09:51:57",
+      "type": "文本消息",
+      "str_content": "也欢迎大家邀请感兴趣的同学进群 一起投递 一起成为华科第一届LEAPer！[奸笑]",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1682560344,
+      "formatted_time": "2023-04-27 09:52:24",
+      "type": "文本消息",
+      "str_content": "普华永道x 华科LEAP招新活动福利大发放～🐛\n\n🌟Coffee talk 直通卡，限量发放，先到先得！邀请本校3人参与LEAP网申并提供姓名➕网申成功截图页🉑️跳过简历筛选直通coffee talk。\n\n🌟内推：\n完成3人以上的邀请之后，请将以下信息发送\n至邮箱📮：\nhust_leaper@163.com\n1⃣️姓名\n2⃣️学校/年级/专业\n3⃣️申请人电话\n4⃣️申请人邮箱\n5⃣️200字内自我推荐称述\n6⃣️4人（含本人）网申成功截图 (pdf形式）\n7⃣️个人简历\n⚠️其中 1-5 填写在邮件正文，6-7 需要以附件形式提供。以上信息缺一不可，请认真填写\n🔥其它同学通过提供1-5和简历可以增大进入coffee talk的机会，欢迎大家投递，增进校园大使和HR对你的了解！\n‼️内推截止日期：4.28",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682560395,
+      "formatted_time": "2023-04-27 09:53:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Haven",
+      "sender_wxid": "wxid_3satr4mgjhsy22"
+    },
+    {
+      "create_time": 1682560511,
+      "formatted_time": "2023-04-27 09:55:11",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682560525,
+      "formatted_time": "2023-04-27 09:55:25",
+      "type": "文本消息",
+      "str_content": "新年礼物 be like",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682560601,
+      "formatted_time": "2023-04-27 09:56:41",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682560645,
+      "formatted_time": "2023-04-27 09:57:25",
+      "type": "文本消息",
+      "str_content": "尖尖的那栋建筑就是京基100大厦，深圳所的视野超好",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682560903,
+      "formatted_time": "2023-04-27 10:01:43",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1682561329,
+      "formatted_time": "2023-04-27 10:08:49",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1682649257,
+      "formatted_time": "2023-04-28 10:34:17",
+      "type": "文本消息",
+      "str_content": "今天是leaper内推的最后一天，请想要内推的同学在今天记得提交相关材料到指定邮箱哈（见群公告）",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682649263,
+      "formatted_time": "2023-04-28 10:34:23",
+      "type": "文本消息",
+      "str_content": "@ all people",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682650808,
+      "formatted_time": "2023-04-28 11:00:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Haven",
+      "sender_wxid": "wxid_3satr4mgjhsy22"
+    },
+    {
+      "create_time": 1682813191,
+      "formatted_time": "2023-04-30 08:06:31",
+      "type": "文本消息",
+      "str_content": "⚠️⚠️⚠️⚠️今天是leaper网申的最后一天，请还没在官网网申的同学记得网申哈，只有网申过后才能进入下一轮面试环节",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682813198,
+      "formatted_time": "2023-04-30 08:06:38",
+      "type": "文本消息",
+      "str_content": "@ all people",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1682813364,
+      "formatted_time": "2023-04-30 08:09:24",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1682820510,
+      "formatted_time": "2023-04-30 10:08:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Haven",
+      "sender_wxid": "wxid_3satr4mgjhsy22"
+    },
+    {
+      "create_time": 1683013492,
+      "formatted_time": "2023-05-02 15:44:52",
+      "type": "文本消息",
+      "str_content": "我想请问一下，这个leap和暑期实习算是重复申请吗",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1683013497,
+      "formatted_time": "2023-05-02 15:44:57",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1683013954,
+      "formatted_time": "2023-05-02 15:52:34",
+      "type": "文本消息",
+      "str_content": "不冲突哈",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1683013962,
+      "formatted_time": "2023-05-02 15:52:42",
+      "type": "文本消息",
+      "str_content": "好的，谢谢！！",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1683176159,
+      "formatted_time": "2023-05-04 12:55:59",
+      "type": "文本消息",
+      "str_content": "请已经报名LEAPer的同学填写我们线下coffee talk 的预调查问卷，https://www.wjx.cn/vm/wYaEXmv.aspx#",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1683176192,
+      "formatted_time": "2023-05-04 12:56:32",
+      "type": "文本消息",
+      "str_content": "现在的网申通道还没关闭，想报名的同学还可以再冲一波",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1683176208,
+      "formatted_time": "2023-05-04 12:56:48",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1683176297,
+      "formatted_time": "2023-05-04 12:58:17",
+      "type": "文本消息",
+      "str_content": "期待在学校见到大家哦",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1683176308,
+      "formatted_time": "2023-05-04 12:58:28",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1683177370,
+      "formatted_time": "2023-05-04 13:16:10",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Haven",
+      "sender_wxid": "wxid_3satr4mgjhsy22"
+    },
+    {
+      "create_time": 1683178211,
+      "formatted_time": "2023-05-04 13:30:11",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2023 PwC 华科 Leaper咨询群",
+      "sender_wxid": "21144239202@chatroom"
+    },
+    {
+      "create_time": 1683616266,
+      "formatted_time": "2023-05-09 15:11:06",
+      "type": "文本消息",
+      "str_content": "LEAP网申的结果已经产生，请各位同学及时查看一下自己的邮箱。通过网申的同学将会收到邮件告知，请及时回复邮件并扫码加入下一轮面试群。",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1683616354,
+      "formatted_time": "2023-05-09 15:12:34",
+      "type": "文本消息",
+      "str_content": "这次收到了很多优秀的简历，感谢大家对普华永道的关注，也欢迎大家继续关注和参加普华永道的其它校招活动",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1683616370,
+      "formatted_time": "2023-05-09 15:12:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1683616376,
+      "formatted_time": "2023-05-09 15:12:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1683616397,
+      "formatted_time": "2023-05-09 15:13:17",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1683638384,
+      "formatted_time": "2023-05-09 21:19:44",
+      "type": "文本消息",
+      "str_content": "开放了一些新的coffee talk名额给大家，请最新收到邮件的同学在明天中午12：00之前回复邮件，并扫码入群哈",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1683638414,
+      "formatted_time": "2023-05-09 21:20:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "pwc hr Anna",
+      "sender_wxid": "wxid_hi4xk68e4ycr11"
+    },
+    {
+      "create_time": 1683641637,
+      "formatted_time": "2023-05-09 22:13:57",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1683641668,
+      "formatted_time": "2023-05-09 22:14:28",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Haven",
+      "sender_wxid": "wxid_3satr4mgjhsy22"
+    },
+    {
+      "create_time": 1683689912,
+      "formatted_time": "2023-05-10 11:38:32",
+      "type": "文本消息",
+      "str_content": "@ all people",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1683689934,
+      "formatted_time": "2023-05-10 11:38:54",
+      "type": "文本消息",
+      "str_content": "请没有收到邮件的同学检查一下自己的垃圾邮箱哈",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1683689995,
+      "formatted_time": "2023-05-10 11:39:55",
+      "type": "文本消息",
+      "str_content": "昨天晚上新开放的名额的邮件可能在垃圾邮箱中",
+      "is_send": 0,
+      "sender_name": "Oliver",
+      "sender_wxid": "wxid_twmdm9tyhey022"
+    },
+    {
+      "create_time": 1712505502,
+      "formatted_time": "2024-04-07 23:58:22",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "向笑兮",
+      "sender_wxid": "wxid_8ppuscyzsxvs22"
+    },
+    {
+      "create_time": 1712505518,
+      "formatted_time": "2024-04-07 23:58:38",
+      "type": "文本消息",
+      "str_content": "新一轮leaper开始招新啦",
+      "is_send": 0,
+      "sender_name": "向笑兮",
+      "sender_wxid": "wxid_8ppuscyzsxvs22"
+    },
+    {
+      "create_time": 1712505526,
+      "formatted_time": "2024-04-07 23:58:46",
+      "type": "文本消息",
+      "str_content": "有意向的uu们可以报名哦！",
+      "is_send": 0,
+      "sender_name": "向笑兮",
+      "sender_wxid": "wxid_8ppuscyzsxvs22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 102
+}

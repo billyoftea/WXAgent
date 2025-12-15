@@ -1,0 +1,2536 @@
+{
+  "session_id": "wxid_b5pplhuc69od22",
+  "session_name": "经济2201锁芷晴",
+  "messages": [
+    {
+      "create_time": 1668845104,
+      "formatted_time": "2022-11-19 16:05:04",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1668845295,
+      "formatted_time": "2022-11-19 16:08:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1668845376,
+      "formatted_time": "2022-11-19 16:09:36",
+      "type": "文本消息",
+      "str_content": "哈喽哈喽",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668845439,
+      "formatted_time": "2022-11-19 16:10:39",
+      "type": "文本消息",
+      "str_content": "学长，刚刚干训展示的PPT可以发一下吗，我想看看各种类型的PPT是什么样的[旺柴]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1668846088,
+      "formatted_time": "2022-11-19 16:21:28",
+      "type": "文件消息",
+      "str_content": "答辩干训(1).pptx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668846091,
+      "formatted_time": "2022-11-19 16:21:31",
+      "type": "文件消息",
+      "str_content": "党员发展公开汇报.pptx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668846093,
+      "formatted_time": "2022-11-19 16:21:33",
+      "type": "文件消息",
+      "str_content": "主席团答辩--徐昂.pptx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668846129,
+      "formatted_time": "2022-11-19 16:22:09",
+      "type": "文件消息",
+      "str_content": "pre.pptx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668846186,
+      "formatted_time": "2022-11-19 16:23:06",
+      "type": "文件消息",
+      "str_content": "国奖答辩 徐昂.pptx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668847193,
+      "formatted_time": "2022-11-19 16:39:53",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1668847271,
+      "formatted_time": "2022-11-19 16:41:11",
+      "type": "文本消息",
+      "str_content": "刚刚都在说政经，那经原是很简单吗[可怜]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1668847724,
+      "formatted_time": "2022-11-19 16:48:44",
+      "type": "文本消息",
+      "str_content": "emm经原主要就是理解理解概念做做课后题",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668847727,
+      "formatted_time": "2022-11-19 16:48:47",
+      "type": "文本消息",
+      "str_content": "这样就够了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668847736,
+      "formatted_time": "2022-11-19 16:48:56",
+      "type": "文本消息",
+      "str_content": "经原可能比政经好理解一点吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668847821,
+      "formatted_time": "2022-11-19 16:50:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060121,
+      "formatted_time": "2023-07-11 15:22:01",
+      "type": "文本消息",
+      "str_content": "学长，你当时为什么选经统呢",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060159,
+      "formatted_time": "2023-07-11 15:22:39",
+      "type": "文本消息",
+      "str_content": "我的评价是这几个专业以后学的方向差不多",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060162,
+      "formatted_time": "2023-07-11 15:22:42",
+      "type": "文本消息",
+      "str_content": "选能保研的吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060187,
+      "formatted_time": "2023-07-11 15:23:07",
+      "type": "文本消息",
+      "str_content": "所以选经统保研也可以选择金融方面的吗",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060198,
+      "formatted_time": "2023-07-11 15:23:18",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060206,
+      "formatted_time": "2023-07-11 15:23:26",
+      "type": "文本消息",
+      "str_content": "甚至统计学背景还有点优势",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060216,
+      "formatted_time": "2023-07-11 15:23:36",
+      "type": "文本消息",
+      "str_content": "人家觉得你数理背景好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060223,
+      "formatted_time": "2023-07-11 15:23:43",
+      "type": "文本消息",
+      "str_content": "我主要是感觉我们学校的金融和金工没区别[皱眉]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060230,
+      "formatted_time": "2023-07-11 15:23:50",
+      "type": "文本消息",
+      "str_content": "虽然学的统计啥的都和其他几个专业都差不多",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060234,
+      "formatted_time": "2023-07-11 15:23:54",
+      "type": "文本消息",
+      "str_content": "其实都差不多",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060240,
+      "formatted_time": "2023-07-11 15:24:00",
+      "type": "文本消息",
+      "str_content": "选排名高能保研的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060243,
+      "formatted_time": "2023-07-11 15:24:03",
+      "type": "文本消息",
+      "str_content": "大三的课不一样吧🤔",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060253,
+      "formatted_time": "2023-07-11 15:24:13",
+      "type": "文本消息",
+      "str_content": "我也想知道排名[裂开]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060258,
+      "formatted_time": "2023-07-11 15:24:18",
+      "type": "文本消息",
+      "str_content": "基本都差不多的[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060261,
+      "formatted_time": "2023-07-11 15:24:21",
+      "type": "文本消息",
+      "str_content": "你问问李鸿鹏去",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060282,
+      "formatted_time": "2023-07-11 15:24:42",
+      "type": "文本消息",
+      "str_content": "李鸿鹏说发给班长和团支书，现在还没发",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060290,
+      "formatted_time": "2023-07-11 15:24:50",
+      "type": "文本消息",
+      "str_content": "那就别着急",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060301,
+      "formatted_time": "2023-07-11 15:25:01",
+      "type": "文本消息",
+      "str_content": "你们啥时候分流",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060321,
+      "formatted_time": "2023-07-11 15:25:21",
+      "type": "文本消息",
+      "str_content": "现在已经开始了，周五截止[皱眉]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060340,
+      "formatted_time": "2023-07-11 15:25:40",
+      "type": "文本消息",
+      "str_content": "不对，周六",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060380,
+      "formatted_time": "2023-07-11 15:26:20",
+      "type": "文本消息",
+      "str_content": "保研应该是没问题，有点担心排名靠前的都冲一个专业去了[恐惧]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060400,
+      "formatted_time": "2023-07-11 15:26:40",
+      "type": "文本消息",
+      "str_content": "我感觉就是根据排名来吧，国贸的保研可能有点不太好保顶级学校的好项目，但保研名额和排名更好拿",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060436,
+      "formatted_time": "2023-07-11 15:27:16",
+      "type": "文本消息",
+      "str_content": "昂，听说了，大一排名不高的进去都成加权第一了[旺柴]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060442,
+      "formatted_time": "2023-07-11 15:27:22",
+      "type": "文本消息",
+      "str_content": "别的学校不知道这么多道道，他们基本只关注你的专业是啥和你的排名如何",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060474,
+      "formatted_time": "2023-07-11 15:27:54",
+      "type": "文本消息",
+      "str_content": "以后要是进金融行业主要是卡你的学校，专业卡的不怎么狠",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060478,
+      "formatted_time": "2023-07-11 15:27:58",
+      "type": "文本消息",
+      "str_content": "能懂我意思吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060484,
+      "formatted_time": "2023-07-11 15:28:04",
+      "type": "文本消息",
+      "str_content": "哦哦哦",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060506,
+      "formatted_time": "2023-07-11 15:28:26",
+      "type": "文本消息",
+      "str_content": "soga，他们也不会知道我们学校这几个专业学的差不多",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060518,
+      "formatted_time": "2023-07-11 15:28:38",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060528,
+      "formatted_time": "2023-07-11 15:28:48",
+      "type": "文本消息",
+      "str_content": "但是感觉华科保外校的人数还是有限呢",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060547,
+      "formatted_time": "2023-07-11 15:29:07",
+      "type": "文本消息",
+      "str_content": "所以可能人家还会觉得你数理背景好，更喜欢你；还有经统保研没那么卷；",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060554,
+      "formatted_time": "2023-07-11 15:29:14",
+      "type": "文本消息",
+      "str_content": "这就是为啥我选的经统",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060566,
+      "formatted_time": "2023-07-11 15:29:26",
+      "type": "文本消息",
+      "str_content": "经统不卷吗？！",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060566,
+      "formatted_time": "2023-07-11 15:29:26",
+      "type": "文本消息",
+      "str_content": "所以至少得冲个专业第一第二咯",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060568,
+      "formatted_time": "2023-07-11 15:29:28",
+      "type": "文本消息",
+      "str_content": "第一最好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060577,
+      "formatted_time": "2023-07-11 15:29:37",
+      "type": "文本消息",
+      "str_content": "我们这届还好，头部竞争大",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060585,
+      "formatted_time": "2023-07-11 15:29:45",
+      "type": "文本消息",
+      "str_content": "之前有人跟我说有的夏令营是要求了专业5％什么的，那就只有专业第一了啊[恐惧]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060591,
+      "formatted_time": "2023-07-11 15:29:51",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060592,
+      "formatted_time": "2023-07-11 15:29:52",
+      "type": "引用消息",
+      "str_content": "在哪个专业啊",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060623,
+      "formatted_time": "2023-07-11 15:30:23",
+      "type": "文本消息",
+      "str_content": "专业第一啊[裂开]，那要是年级前几全进相同的专业就完了啊",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060644,
+      "formatted_time": "2023-07-11 15:30:44",
+      "type": "文本消息",
+      "str_content": "我们这届几个加权高的建了个群",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060651,
+      "formatted_time": "2023-07-11 15:30:51",
+      "type": "文本消息",
+      "str_content": "就分流的挺平均的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060656,
+      "formatted_time": "2023-07-11 15:30:56",
+      "type": "文本消息",
+      "str_content": "哦哦",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060659,
+      "formatted_time": "2023-07-11 15:30:59",
+      "type": "文本消息",
+      "str_content": "每个专业都是头部卷",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060682,
+      "formatted_time": "2023-07-11 15:31:22",
+      "type": "文本消息",
+      "str_content": "李导啊啊啊，她保密措施做的可好了，我到现在都不知道上学期排名前几的有哪些[裂开]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060687,
+      "formatted_time": "2023-07-11 15:31:27",
+      "type": "文本消息",
+      "str_content": "他",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060694,
+      "formatted_time": "2023-07-11 15:31:34",
+      "type": "文本消息",
+      "str_content": "我都不知道能找谁商量",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060703,
+      "formatted_time": "2023-07-11 15:31:43",
+      "type": "文本消息",
+      "str_content": "你去问问你们班班长？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060706,
+      "formatted_time": "2023-07-11 15:31:46",
+      "type": "文本消息",
+      "str_content": "他那边可能有",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060716,
+      "formatted_time": "2023-07-11 15:31:56",
+      "type": "文本消息",
+      "str_content": "反正我们导员是直接发在班长群里的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060756,
+      "formatted_time": "2023-07-11 15:32:36",
+      "type": "文本消息",
+      "str_content": "希望李导也能这样，要是他私发给每个班级自己的，那我还是没法了[皱眉]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060791,
+      "formatted_time": "2023-07-11 15:33:11",
+      "type": "文本消息",
+      "str_content": "本科专业不是很重要",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060800,
+      "formatted_time": "2023-07-11 15:33:20",
+      "type": "文本消息",
+      "str_content": "硕士的学校和项目比较重要",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060812,
+      "formatted_time": "2023-07-11 15:33:32",
+      "type": "文本消息",
+      "str_content": "你现在是想好了研究生方向了吗",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060833,
+      "formatted_time": "2023-07-11 15:33:53",
+      "type": "文本消息",
+      "str_content": "研究生就那几个学校的几个项目咯",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060864,
+      "formatted_time": "2023-07-11 15:34:24",
+      "type": "文本消息",
+      "str_content": "清北复交[旺柴]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060894,
+      "formatted_time": "2023-07-11 15:34:54",
+      "type": "文本消息",
+      "str_content": "大二才是艰苦的一年呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060916,
+      "formatted_time": "2023-07-11 15:35:16",
+      "type": "文本消息",
+      "str_content": "你们分流就尽量按照大一的成绩选个保研相对有利的学校吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060928,
+      "formatted_time": "2023-07-11 15:35:28",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689060930,
+      "formatted_time": "2023-07-11 15:35:30",
+      "type": "文本消息",
+      "str_content": "反正我是觉得经统还挺好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060936,
+      "formatted_time": "2023-07-11 15:35:36",
+      "type": "文本消息",
+      "str_content": "多少还和统计学叫查了下",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060938,
+      "formatted_time": "2023-07-11 15:35:38",
+      "type": "文本消息",
+      "str_content": "交叉",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689060996,
+      "formatted_time": "2023-07-11 15:36:36",
+      "type": "文本消息",
+      "str_content": "我也对这个挺感兴趣的，现在就是经统和金工有点纠结吧，到时候找其他排名靠前的问一下[嘿哈]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689061041,
+      "formatted_time": "2023-07-11 15:37:21",
+      "type": "文本消息",
+      "str_content": "如果以后想从金工走量化的话",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689061061,
+      "formatted_time": "2023-07-11 15:37:41",
+      "type": "文本消息",
+      "str_content": "对硕士学校要求挺高",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689061074,
+      "formatted_time": "2023-07-11 15:37:54",
+      "type": "文本消息",
+      "str_content": "听说量化更偏爱数理，计算机专业呢[皱眉]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689061136,
+      "formatted_time": "2023-07-11 15:38:56",
+      "type": "文本消息",
+      "str_content": "金融工程相对统计",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689061146,
+      "formatted_time": "2023-07-11 15:39:06",
+      "type": "文本消息",
+      "str_content": "更偏量化分析",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689061210,
+      "formatted_time": "2023-07-11 15:40:10",
+      "type": "文本消息",
+      "str_content": "不过华科学啥都肯定是去不了那种量化啥的岗位的，肯定要提提学历",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689061243,
+      "formatted_time": "2023-07-11 15:40:43",
+      "type": "文本消息",
+      "str_content": "😭",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689061265,
+      "formatted_time": "2023-07-11 15:41:05",
+      "type": "文本消息",
+      "str_content": "我也没能力去国外镀金了",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689061310,
+      "formatted_time": "2023-07-11 15:41:50",
+      "type": "文本消息",
+      "str_content": "金融行业基本都卡清北复交人，也prefer国外顶级大学",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689061427,
+      "formatted_time": "2023-07-11 15:43:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689061565,
+      "formatted_time": "2023-07-11 15:46:05",
+      "type": "文本消息",
+      "str_content": "不过说来，昨天还看到学长朋友圈发的在中信实习了，超级强啊",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689061567,
+      "formatted_time": "2023-07-11 15:46:07",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689081917,
+      "formatted_time": "2023-07-11 21:25:17",
+      "type": "文本消息",
+      "str_content": "也不是走人事的实习[捂脸]正好家里有人认识",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689083125,
+      "formatted_time": "2023-07-11 21:45:25",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689842971,
+      "formatted_time": "2023-07-20 16:49:31",
+      "type": "文本消息",
+      "str_content": "学长学长，分流结果出来了，我也来经统了[旺柴]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689843026,
+      "formatted_time": "2023-07-20 16:50:26",
+      "type": "文本消息",
+      "str_content": "感觉这个分流博弈是挺恐怖的，我看到金工专业前十占了一半[裂开]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689843148,
+      "formatted_time": "2023-07-20 16:52:28",
+      "type": "文本消息",
+      "str_content": "那就好好学经统哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689843271,
+      "formatted_time": "2023-07-20 16:54:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689843293,
+      "formatted_time": "2023-07-20 16:54:53",
+      "type": "引用消息",
+      "str_content": "我觉得你们这没有达到资源最优配置啊hhh",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1689843312,
+      "formatted_time": "2023-07-20 16:55:12",
+      "type": "文本消息",
+      "str_content": "我也觉得[旺柴]，可能是因为没人拉群",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1689843366,
+      "formatted_time": "2023-07-20 16:56:06",
+      "type": "文本消息",
+      "str_content": "我当时只找前几问了下，其他人都没联系，也不知道他们之间有没有互相问过，看这结果，估计是没有问过了[皱眉]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1692061699,
+      "formatted_time": "2023-08-15 09:08:19",
+      "type": "文本消息",
+      "str_content": "学长，你评国奖的时候材料评分是多少啊",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1692061747,
+      "formatted_time": "2023-08-15 09:09:07",
+      "type": "文本消息",
+      "str_content": "emm这个我也记不太清了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692061816,
+      "formatted_time": "2023-08-15 09:10:16",
+      "type": "文本消息",
+      "str_content": "[叹气]想去评，但感觉我好像不是很够格的样子",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1692061847,
+      "formatted_time": "2023-08-15 09:10:47",
+      "type": "文本消息",
+      "str_content": "这是每个年级都有固定名额吗",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1692061852,
+      "formatted_time": "2023-08-15 09:10:52",
+      "type": "文本消息",
+      "str_content": "国奖应该是先得在班里评上校三好之后再参评",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692061861,
+      "formatted_time": "2023-08-15 09:11:01",
+      "type": "文本消息",
+      "str_content": "在校三好里面出候选人",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692061865,
+      "formatted_time": "2023-08-15 09:11:05",
+      "type": "文本消息",
+      "str_content": "哦哦",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1692061892,
+      "formatted_time": "2023-08-15 09:11:32",
+      "type": "文本消息",
+      "str_content": "校三好是什么时候评的，开学吗",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1692061907,
+      "formatted_time": "2023-08-15 09:11:47",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692061921,
+      "formatted_time": "2023-08-15 09:12:01",
+      "type": "文本消息",
+      "str_content": "校三好应该是每班一个名额",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692061925,
+      "formatted_time": "2023-08-15 09:12:05",
+      "type": "文本消息",
+      "str_content": "按分流前的班级",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692061925,
+      "formatted_time": "2023-08-15 09:12:05",
+      "type": "文本消息",
+      "str_content": "救",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1692061945,
+      "formatted_time": "2023-08-15 09:12:25",
+      "type": "文本消息",
+      "str_content": "班内答辩那样啊",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1692061961,
+      "formatted_time": "2023-08-15 09:12:41",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692061970,
+      "formatted_time": "2023-08-15 09:12:50",
+      "type": "文本消息",
+      "str_content": "之后再申国奖",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692061982,
+      "formatted_time": "2023-08-15 09:13:02",
+      "type": "文本消息",
+      "str_content": "分流前，救救救，年纪第一也在我们班上",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1692062008,
+      "formatted_time": "2023-08-15 09:13:28",
+      "type": "文本消息",
+      "str_content": "那你去和他拼拼人缘啥的呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692062009,
+      "formatted_time": "2023-08-15 09:13:29",
+      "type": "文本消息",
+      "str_content": "[偷笑]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692062013,
+      "formatted_time": "2023-08-15 09:13:33",
+      "type": "文本消息",
+      "str_content": "[破涕为笑]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1692062020,
+      "formatted_time": "2023-08-15 09:13:40",
+      "type": "文本消息",
+      "str_content": "最后是班级成员投票决定",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692062041,
+      "formatted_time": "2023-08-15 09:14:01",
+      "type": "文本消息",
+      "str_content": "那这就是拼人缘了啊[裂开]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1692062052,
+      "formatted_time": "2023-08-15 09:14:12",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692062060,
+      "formatted_time": "2023-08-15 09:14:20",
+      "type": "文本消息",
+      "str_content": "国奖还有现场投票，那个感觉也很拼人缘呢",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1692062066,
+      "formatted_time": "2023-08-15 09:14:26",
+      "type": "文本消息",
+      "str_content": "以后拼人缘的时候多着呢还",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692062072,
+      "formatted_time": "2023-08-15 09:14:32",
+      "type": "文本消息",
+      "str_content": "[叹气]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1692062075,
+      "formatted_time": "2023-08-15 09:14:35",
+      "type": "文本消息",
+      "str_content": "学校评奖都是小打小闹",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692062120,
+      "formatted_time": "2023-08-15 09:15:20",
+      "type": "文本消息",
+      "str_content": "我现在分流到经统，班上都没有认识的人，社交圈如此狭窄[裂开]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1692062148,
+      "formatted_time": "2023-08-15 09:15:48",
+      "type": "文本消息",
+      "str_content": "都得有个慢慢认识的过程[偷笑]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692062210,
+      "formatted_time": "2023-08-15 09:16:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1693299618,
+      "formatted_time": "2023-08-29 17:00:18",
+      "type": "文本消息",
+      "str_content": "学长，请问有大二课程的资料吗[嘿哈]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1693299621,
+      "formatted_time": "2023-08-29 17:00:21",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1693299698,
+      "formatted_time": "2023-08-29 17:01:38",
+      "type": "文本消息",
+      "str_content": "这些课程应该都没有学院祖传资料，就是上课听讲，下课做做题\n你们应该会订购学解，做做那上面的题也ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693299812,
+      "formatted_time": "2023-08-29 17:03:32",
+      "type": "文本消息",
+      "str_content": "好的，谢谢学长！",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1694744865,
+      "formatted_time": "2023-09-15 10:27:45",
+      "type": "文本消息",
+      "str_content": "学长，六级报不报口语鸭",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1694752400,
+      "formatted_time": "2023-09-15 12:33:20",
+      "type": "文本消息",
+      "str_content": "都可以的，没多大用，但考考也可以",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694752705,
+      "formatted_time": "2023-09-15 12:38:25",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1696896482,
+      "formatted_time": "2023-10-10 08:08:02",
+      "type": "文本消息",
+      "str_content": "学长，你们评国奖的时候出现过这种情况吗。就是我们经济统计学原本20个人，现在转走了一个。然后交国奖材料，我们辅导员他就不承认我是专业前5％，他觉得1/19＞5％，你就是5％到10％，他也不看经济大类的排名，我经济大类排第二，然后国奖材料分一定要扣我五分(*꒦ິ⌓꒦ີ)",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1696902109,
+      "formatted_time": "2023-10-10 09:41:49",
+      "type": "文本消息",
+      "str_content": "emm我印象中大二评不应该是按分流前的吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696902339,
+      "formatted_time": "2023-10-10 09:45:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1696902352,
+      "formatted_time": "2023-10-10 09:45:52",
+      "type": "文本消息",
+      "str_content": "我真不知道我们辅导员怎么想的",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1696902446,
+      "formatted_time": "2023-10-10 09:47:26",
+      "type": "文本消息",
+      "str_content": "看样子他也不会回心转意，感觉我已经无望国奖了[流泪]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1696902490,
+      "formatted_time": "2023-10-10 09:48:10",
+      "type": "文本消息",
+      "str_content": "这个我确实不太好评..我们去年是按照分流前的东西递交的材料",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696902537,
+      "formatted_time": "2023-10-10 09:48:57",
+      "type": "文本消息",
+      "str_content": "[裂开]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710934381,
+      "formatted_time": "2024-03-20 19:33:01",
+      "type": "文本消息",
+      "str_content": "学长，想请教一下科研方面的问题，上周开了年级大会，有一个大四很牛的学姐分享，是大一下就开始接触了，我现在觉得我真的荒废了好久，学长现在应该已经开始科研了吧，我想问问是怎么开始的，或者有没有什么导师愿意教教本科生科研的[可怜][可怜][可怜]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710934435,
+      "formatted_time": "2024-03-20 19:33:55",
+      "type": "文本消息",
+      "str_content": "我听说这个了，就是和你们做分享的，应该是飘茵学姐吧，就是没必要和她比，她的一些机遇，或者说他的一些规划是肯定是和我们不一样的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710934465,
+      "formatted_time": "2024-03-20 19:34:25",
+      "type": "文本消息",
+      "str_content": "然后你现在也不用焦虑，你们现在大二下肯定是在学计量经济学的嘛，然后你就先把计量经济学学好，可以在网上多看一些相关的论文",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710934483,
+      "formatted_time": "2024-03-20 19:34:43",
+      "type": "文本消息",
+      "str_content": "导师，这方面的话，你如果有科研的想法的话，起码也是需要等到把计量经济学学完之后，然后去主动联系老师去问一些，看能不能进组",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710934516,
+      "formatted_time": "2024-03-20 19:35:16",
+      "type": "文本消息",
+      "str_content": "是不是没学完计量老师都不想搭理[敲打]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710934520,
+      "formatted_time": "2024-03-20 19:35:20",
+      "type": "引用消息",
+      "str_content": "[衰]飘茵学姐真的强的有点夸张了，我觉得另一个王点学姐的分享经历可能更有参考价值",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710934549,
+      "formatted_time": "2024-03-20 19:35:49",
+      "type": "文本消息",
+      "str_content": "因为确实你现在搞科研的话。你没有科研能力",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710934562,
+      "formatted_time": "2024-03-20 19:36:02",
+      "type": "文本消息",
+      "str_content": "[皱眉]一针见血的",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710934599,
+      "formatted_time": "2024-03-20 19:36:39",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710934686,
+      "formatted_time": "2024-03-20 19:38:06",
+      "type": "文本消息",
+      "str_content": "哦哦好的，高级那本感觉要啃很久呢，页数都比初级翻倍了",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710934716,
+      "formatted_time": "2024-03-20 19:38:36",
+      "type": "文本消息",
+      "str_content": "有选择的看 配合论文当工具书看",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710934760,
+      "formatted_time": "2024-03-20 19:39:20",
+      "type": "文本消息",
+      "str_content": "哦哦，干中学那样是吧_(:з」∠)_",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710934804,
+      "formatted_time": "2024-03-20 19:40:04",
+      "type": "文本消息",
+      "str_content": "嗯嗯对",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710934894,
+      "formatted_time": "2024-03-20 19:41:34",
+      "type": "文本消息",
+      "str_content": "论文从哪里开始学长有什么推荐吗？或者其他方面的能力，比如说软件使用。因为我现在有个大二的同学已经联系上一个导师了，他导师是让他先把Python学好，后面接触深度学习方面，真是不胜惶惶[衰]就是大家都知道我们专业要学好Python，但是具体要学什么，学到什么程度还没个底[皱眉]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710934964,
+      "formatted_time": "2024-03-20 19:42:44",
+      "type": "文本消息",
+      "str_content": "他导师这话显然也是觉得他现在没有这个能力接触科研，然后让他先去积累一些软件操作上的经验",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710934992,
+      "formatted_time": "2024-03-20 19:43:12",
+      "type": "文本消息",
+      "str_content": "软件上的话，其实大家都是在干中学的，你先入过门之后再复现论文，或者说做project，不断的去精进自己对于某一方向的理解",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710934993,
+      "formatted_time": "2024-03-20 19:43:13",
+      "type": "文本消息",
+      "str_content": "[破涕为笑]学长这样一说我感觉一下压力就小了",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710935015,
+      "formatted_time": "2024-03-20 19:43:35",
+      "type": "文本消息",
+      "str_content": "你要是对机器学习有兴趣的话，你可以上网上搜一下那个西瓜书，好像评价是挺不错的，虽然我一直没看",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710935050,
+      "formatted_time": "2024-03-20 19:44:10",
+      "type": "文本消息",
+      "str_content": "因为说实话，本科生很少有真正具有科研能力的，大家都是被带着做一些project",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710935096,
+      "formatted_time": "2024-03-20 19:44:56",
+      "type": "文本消息",
+      "str_content": "就算你大二去联系老师，你真正去写论文，去产出论文，肯定也是在大三。我基本上在华科好像也就只听说过飘茵一个人。在大一大二的时候就开始写论文",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710935109,
+      "formatted_time": "2024-03-20 19:45:09",
+      "type": "文本消息",
+      "str_content": "他的话是属于。怎么说呢，对自己的未来定位的特别清晰，而且是有这方面资源的人",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710935228,
+      "formatted_time": "2024-03-20 19:47:08",
+      "type": "文本消息",
+      "str_content": "确实很早就想清楚一些事情了。而且她分享经验的时候说考托福GRE刷分，出国不提money的时候，我觉得起码家庭条件就不是一个level[敲打]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710935260,
+      "formatted_time": "2024-03-20 19:47:40",
+      "type": "文本消息",
+      "str_content": "她是北京人[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710935267,
+      "formatted_time": "2024-03-20 19:47:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710935411,
+      "formatted_time": "2024-03-20 19:50:11",
+      "type": "文本消息",
+      "str_content": "那这样看大二下这学期也就是在软件方面和看论文方面努力了🤔我之前就想着寒假要不要看看论文，但是一是准备比赛，而是不知道怎么开始，然后一想到读全英论文就很烦[敲打]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710935449,
+      "formatted_time": "2024-03-20 19:50:49",
+      "type": "文本消息",
+      "str_content": "其实都是这么过来的，而且说实话。竞赛什么的也不是那么的重要",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710935491,
+      "formatted_time": "2024-03-20 19:51:31",
+      "type": "文本消息",
+      "str_content": "这寒假连计量经济学都没学的话，论文儿的一些深层次的机制你是看不明白的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710935498,
+      "formatted_time": "2024-03-20 19:51:38",
+      "type": "文本消息",
+      "str_content": "只能说看个字面意思",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710935523,
+      "formatted_time": "2024-03-20 19:52:03",
+      "type": "文本消息",
+      "str_content": "我上学期去加了个挑战杯的队伍，花了很多时间 结果那个项目后面被腰斩了，当时还跟一些考试冲突了，加权还掉了，我感觉当时就是有点拎不清[流泪]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710935559,
+      "formatted_time": "2024-03-20 19:52:39",
+      "type": "引用消息",
+      "str_content": "[皱眉]懂了，还是先学好这些论文基础",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710935567,
+      "formatted_time": "2024-03-20 19:52:47",
+      "type": "文本消息",
+      "str_content": "竞赛是有余力参加的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710935671,
+      "formatted_time": "2024-03-20 19:54:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710935684,
+      "formatted_time": "2024-03-20 19:54:44",
+      "type": "文本消息",
+      "str_content": "现在已经认识到这个了，经院果然还是加权更重要",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710935708,
+      "formatted_time": "2024-03-20 19:55:08",
+      "type": "文本消息",
+      "str_content": "虽然学年排名还没掉，上学期的学期成绩变成专业第二，就是中宏和管理学考太烂了，我后面跟第一聊了下，他说他们还有中宏的近两年的卷子，我当时只能在打印店那里买好久以前的卷子，完全没有参考性[裂开]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710935863,
+      "formatted_time": "2024-03-20 19:57:43",
+      "type": "文本消息",
+      "str_content": "一时的得失其实都无所谓\n找准方向努力就好了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710935887,
+      "formatted_time": "2024-03-20 19:58:07",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710935929,
+      "formatted_time": "2024-03-20 19:58:49",
+      "type": "文本消息",
+      "str_content": "谢谢学长！现在大概知道这段时间该干什么了੭ ᐕ)੭*⁾⁾",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1710935997,
+      "formatted_time": "2024-03-20 19:59:57",
+      "type": "文本消息",
+      "str_content": "恩恩没事",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720274097,
+      "formatted_time": "2024-07-06 21:54:57",
+      "type": "文本消息",
+      "str_content": "学长学长，最近老看到说今年夏令营很难申，好多人都夏0营了，真这么夸张吗[发抖][发抖][发抖]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720323443,
+      "formatted_time": "2024-07-07 11:37:23",
+      "type": "文本消息",
+      "str_content": "这种东西说不准的，而且也没啥参考价值",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720323459,
+      "formatted_time": "2024-07-07 11:37:39",
+      "type": "文本消息",
+      "str_content": "按照自己的节奏慢慢提升自己的软硬背景就好了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720323480,
+      "formatted_time": "2024-07-07 11:38:00",
+      "type": "文本消息",
+      "str_content": "就算卡本科那也没法改变了不是[偷笑][偷笑]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720324213,
+      "formatted_time": "2024-07-07 11:50:13",
+      "type": "文本消息",
+      "str_content": "主要是看到不少人在说跟往年学长学姐差不多bg，今年都拿不到夏令营名额，感觉有点太夸张了，就想问一下_(:з」∠)_",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720324237,
+      "formatted_time": "2024-07-07 11:50:37",
+      "type": "引用消息",
+      "str_content": "确实[加油]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720324265,
+      "formatted_time": "2024-07-07 11:51:05",
+      "type": "引用消息",
+      "str_content": "在国内升学华科还会被卡吗[发抖]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720327401,
+      "formatted_time": "2024-07-07 12:43:21",
+      "type": "文本消息",
+      "str_content": "[捂脸]中等985和两财一贸其实是入门门槛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720327417,
+      "formatted_time": "2024-07-07 12:43:37",
+      "type": "文本消息",
+      "str_content": "你会在夏令营中碰到茫茫多的清北复交人的学生和你同台竞技",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720328769,
+      "formatted_time": "2024-07-07 13:06:09",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720328852,
+      "formatted_time": "2024-07-07 13:07:32",
+      "type": "文本消息",
+      "str_content": "学长是参加了哪些学校的夏令营啊",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720328899,
+      "formatted_time": "2024-07-07 13:08:19",
+      "type": "文本消息",
+      "str_content": "我清北复人都入了，应该算是21级入营比较多的，有些同学确实入营会比较少",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720328944,
+      "formatted_time": "2024-07-07 13:09:04",
+      "type": "文本消息",
+      "str_content": "😯今年这个环境，学长好强[666]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720329101,
+      "formatted_time": "2024-07-07 13:11:41",
+      "type": "文本消息",
+      "str_content": "那等学长过了保研这段时间，能看看学长bg大概是什么样吗？或者只列几条，今年这情况，有点不太清楚要做到什么程度[可怜]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720329136,
+      "formatted_time": "2024-07-07 13:12:16",
+      "type": "文本消息",
+      "str_content": "嗯嗯ok，你如果有条件和机会的话，这个暑假最好做一些实习或者助研的工作",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720329295,
+      "formatted_time": "2024-07-07 13:14:55",
+      "type": "文本消息",
+      "str_content": "好的，谢谢学长！之前本来打算找实习，但我发现自己找也只能找到一些券商的小黑工那样[敲打]然后就打算这个暑假科研方面多努努力看",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720329310,
+      "formatted_time": "2024-07-07 13:15:10",
+      "type": "文本消息",
+      "str_content": "券商小黑工其实也可以干，都是从这个阶段开始的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720329515,
+      "formatted_time": "2024-07-07 13:18:35",
+      "type": "文本消息",
+      "str_content": "[苦涩]确实，现在没啥其他能做的。之前是社会实践找老师，然后那个老师也在说暑假开始搞科研方面的东西，说我们现在找不到什么好的实习，当时就打退堂鼓了[敲打]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720329565,
+      "formatted_time": "2024-07-07 13:19:25",
+      "type": "文本消息",
+      "str_content": "没谁能在一开始就找到好的实习，最重要的是明白什么是“金融行业”，如果你打算申金融相关的东西的话",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720329596,
+      "formatted_time": "2024-07-07 13:19:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720329627,
+      "formatted_time": "2024-07-07 13:20:27",
+      "type": "文本消息",
+      "str_content": "就感觉现在学的跟实际行业里面脱节很严重，还是有机会实习才能体验到[打脸]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720329642,
+      "formatted_time": "2024-07-07 13:20:42",
+      "type": "文本消息",
+      "str_content": "平时可以留意一些券商远程的日常实习jd",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720329706,
+      "formatted_time": "2024-07-07 13:21:46",
+      "type": "文本消息",
+      "str_content": "我们大三的课程看起来好像不多，然后我没有辅修，那时候有时间做远程吗",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720329748,
+      "formatted_time": "2024-07-07 13:22:28",
+      "type": "文本消息",
+      "str_content": "最好找至少一个实习，title越大越好，不然大三下可能会比较被动",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720329779,
+      "formatted_time": "2024-07-07 13:22:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720329813,
+      "formatted_time": "2024-07-07 13:23:33",
+      "type": "文本消息",
+      "str_content": "话说学长你有辅修计算机吗",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720329934,
+      "formatted_time": "2024-07-07 13:25:34",
+      "type": "文本消息",
+      "str_content": "没有，其实辅修算是有了算加分，没有也没问题\n大三有几门数学课，好好学好好考，根据自己未来职业方向进行科研",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720330101,
+      "formatted_time": "2024-07-07 13:28:21",
+      "type": "文本消息",
+      "str_content": "明白了，之前就是发现好几个其他专业包括我们自己专业靠前的都去辅修了，有点慌。想东想西感觉还是踏实提升自己实在[敲打]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720330124,
+      "formatted_time": "2024-07-07 13:28:44",
+      "type": "文本消息",
+      "str_content": "谢谢学长，祝学长收获众多offer！[哇]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720330404,
+      "formatted_time": "2024-07-07 13:33:24",
+      "type": "文本消息",
+      "str_content": "辅修算是一个signal，但这种signal通过solid的数学/编程科研是可以弥补的\n而且这种算是沉没成本了，不用焦虑",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720330424,
+      "formatted_time": "2024-07-07 13:33:44",
+      "type": "文本消息",
+      "str_content": "其实就是排名 英语 科研这三块是最重要的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720330434,
+      "formatted_time": "2024-07-07 13:33:54",
+      "type": "文本消息",
+      "str_content": "某些竞赛都可有可无",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720330447,
+      "formatted_time": "2024-07-07 13:34:07",
+      "type": "文本消息",
+      "str_content": "申专硕要有基本的实习经验",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720330635,
+      "formatted_time": "2024-07-07 13:37:15",
+      "type": "文本消息",
+      "str_content": "那英语是要到什么程度啊",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720331723,
+      "formatted_time": "2024-07-07 13:55:23",
+      "type": "文本消息",
+      "str_content": "六级600分以上吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720331860,
+      "formatted_time": "2024-07-07 13:57:40",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1720331963,
+      "formatted_time": "2024-07-07 13:59:23",
+      "type": "文本消息",
+      "str_content": "谢谢学长～",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736853480,
+      "formatted_time": "2025-01-14 19:18:00",
+      "type": "文本消息",
+      "str_content": "学长，想请问下春令营和夏令营之前需要套磁吗，翻了以前发的学长学姐说系列，没有学长学姐提到这个[敲打]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736853520,
+      "formatted_time": "2025-01-14 19:18:40",
+      "type": "文本消息",
+      "str_content": "学术项目可以联系，专硕没必要",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736853575,
+      "formatted_time": "2025-01-14 19:19:35",
+      "type": "文本消息",
+      "str_content": "哦哦，好的，那学长当时报的项目是主攻了一个方向吗，还是两边都有涉及啊[可怜]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736853623,
+      "formatted_time": "2025-01-14 19:20:23",
+      "type": "文本消息",
+      "str_content": "我当时是海投的，基本都有涉及",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736853656,
+      "formatted_time": "2025-01-14 19:20:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736853744,
+      "formatted_time": "2025-01-14 19:22:24",
+      "type": "文本消息",
+      "str_content": "但是我最近翻那个系列的分享，才发现经院成绩证明好像有限制？就是某段时间我们都只能报几个项目，没有结果都不能再投，这样不是很容易错过投其他项目的时间吗[发抖]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736853773,
+      "formatted_time": "2025-01-14 19:22:53",
+      "type": "文本消息",
+      "str_content": "理论上有限制，你可以问下你们导员，建议是尽量海投",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736853905,
+      "formatted_time": "2025-01-14 19:25:05",
+      "type": "文本消息",
+      "str_content": "哦哦，那我到时候去问问，不过总觉得华科原则上不允许的一般暗示可以打破[吃瓜]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736853927,
+      "formatted_time": "2025-01-14 19:25:27",
+      "type": "文本消息",
+      "str_content": "这个不太好说，利益面前可能会被人举报",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736853936,
+      "formatted_time": "2025-01-14 19:25:36",
+      "type": "文本消息",
+      "str_content": "[恐惧][恐惧][恐惧]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736853966,
+      "formatted_time": "2025-01-14 19:26:06",
+      "type": "文本消息",
+      "str_content": "这么吓人吗，我以前xhs上刷到过公示期间经常有各种举报，没听到经院有还以为氛围很好",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736854028,
+      "formatted_time": "2025-01-14 19:27:08",
+      "type": "文本消息",
+      "str_content": "每年都有，只不过这种东西没人往网上发而已",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736854042,
+      "formatted_time": "2025-01-14 19:27:22",
+      "type": "文本消息",
+      "str_content": "不乏有撕破脸皮的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736854072,
+      "formatted_time": "2025-01-14 19:27:52",
+      "type": "文本消息",
+      "str_content": "[发抖]我天，原来真是哪里都有，那还是老老实实的搞了",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736854129,
+      "formatted_time": "2025-01-14 19:28:49",
+      "type": "文本消息",
+      "str_content": "谢谢学长提醒！",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736854137,
+      "formatted_time": "2025-01-14 19:28:57",
+      "type": "文本消息",
+      "str_content": "这东西毕竟是个零和博弈，利益面前[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736854154,
+      "formatted_time": "2025-01-14 19:29:14",
+      "type": "文本消息",
+      "str_content": "海投肯定会损害一部分人的利益的[吃瓜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736854165,
+      "formatted_time": "2025-01-14 19:29:25",
+      "type": "文本消息",
+      "str_content": "哦哦哦哦，突然顿悟了",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736854201,
+      "formatted_time": "2025-01-14 19:30:01",
+      "type": "文本消息",
+      "str_content": "刚刚还在想会是跟谁起冲突",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736854289,
+      "formatted_time": "2025-01-14 19:31:29",
+      "type": "文本消息",
+      "str_content": "这保研比我想的还复杂啊[凋谢]这几天看到好多没注意的项目都感觉要昏头了，还有这方面要考虑",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736854369,
+      "formatted_time": "2025-01-14 19:32:49",
+      "type": "文本消息",
+      "str_content": "话说学长现在是不是在国外交换，想起来好久之前的一天pyq🤔那不是有时差",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736854438,
+      "formatted_time": "2025-01-14 19:33:58",
+      "type": "文本消息",
+      "str_content": "hh没有，当时是打算去来着，但后面又放弃了 现在在家",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736854473,
+      "formatted_time": "2025-01-14 19:34:33",
+      "type": "文本消息",
+      "str_content": "其实大部分信息很容易导致过拟合[破涕为笑]还是找准主线按部就班的走就可以了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736854526,
+      "formatted_time": "2025-01-14 19:35:26",
+      "type": "文本消息",
+      "str_content": "一针见血[可怜]想起来期末周B站还给我推了个视频，复习多了会不会过拟合",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736854628,
+      "formatted_time": "2025-01-14 19:37:08",
+      "type": "文本消息",
+      "str_content": "谢谢学长啦，感觉每隔段时间都要打扰下，解决了各个时期的疑惑[社会社会]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736854634,
+      "formatted_time": "2025-01-14 19:37:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736854719,
+      "formatted_time": "2025-01-14 19:38:39",
+      "type": "文本消息",
+      "str_content": "hhh没事，一届带一届嘛，都是这样过来的[呲牙]\n现在差不多也是比较关键的时期了，可以再趁寒假做一个项目，3-4月就要开始准备文书和投递了，到时候可能会比较痛苦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736854816,
+      "formatted_time": "2025-01-14 19:40:16",
+      "type": "文本消息",
+      "str_content": "已经开始痛苦了，寒假发愁论文，之前拖拖沓沓的，希望不要太难产[凋谢]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736854906,
+      "formatted_time": "2025-01-14 19:41:46",
+      "type": "文本消息",
+      "str_content": "你现在手上有论文了吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736854989,
+      "formatted_time": "2025-01-14 19:43:09",
+      "type": "文本消息",
+      "str_content": "没有，之前也没找到队友弄大创，感觉科研这块还挺欠缺的[敲打]现在发现有些同学都拿大创的论文修修改改去投稿了，感觉落后好多",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736855003,
+      "formatted_time": "2025-01-14 19:43:23",
+      "type": "文本消息",
+      "str_content": "现在就定了选题",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736855372,
+      "formatted_time": "2025-01-14 19:49:32",
+      "type": "文本消息",
+      "str_content": "投稿[破涕为笑]其实老师不太care这个，因为本科做的所谓科研基本都挺烂的\n在我看来可能参营论文要做的一是规范，二是有趣 甚至可以说不拘泥于经济实证 直接做理工方面的金融应用",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736856086,
+      "formatted_time": "2025-01-14 20:01:26",
+      "type": "文本消息",
+      "str_content": "我记得去年经院发过统计建模比赛的新闻，我当时看学长队伍那个选题就在想学长发展路径很全面了🥺选题是怎么往那方面想的呢，感觉是需要cs基础的[让我看看]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736856201,
+      "formatted_time": "2025-01-14 20:03:21",
+      "type": "文本消息",
+      "str_content": "当时是和理工科的朋友一起做的，其实机器学习，深度学习这种东西，技术上也不复杂，学学就会了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736856305,
+      "formatted_time": "2025-01-14 20:05:05",
+      "type": "文本消息",
+      "str_content": "我这次选题就想用机器学习的方法来着[转圈]不过中文文献没查到太多具体到选题相关的论文，感觉有点挑战",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736859229,
+      "formatted_time": "2025-01-14 20:53:49",
+      "type": "文本消息",
+      "str_content": "你是想做什么方向的呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736859241,
+      "formatted_time": "2025-01-14 20:54:01",
+      "type": "文本消息",
+      "str_content": "经济方向的话，其实不太建议用ml dl",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736859249,
+      "formatted_time": "2025-01-14 20:54:09",
+      "type": "文本消息",
+      "str_content": "因为经济方向更关注causal effect",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736859260,
+      "formatted_time": "2025-01-14 20:54:20",
+      "type": "文本消息",
+      "str_content": "机器学习是缺少可解释性的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736859470,
+      "formatted_time": "2025-01-14 20:57:50",
+      "type": "文本消息",
+      "str_content": "是之前彭老师发了篇劳动经济学里运用ML讨论最低工资的论文给我，最开始只是让学习学习，后面我提的其他选题都被毙掉了，就又回到那篇文章来了[敲打]不过这样说好像也不是一定要用ML",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736859621,
+      "formatted_time": "2025-01-14 21:00:21",
+      "type": "文本消息",
+      "str_content": "而且确实感觉看到的参营论文都走的比较传统路线，也不知道到底该不该用",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736859703,
+      "formatted_time": "2025-01-14 21:01:43",
+      "type": "文本消息",
+      "str_content": "既然已经选好题了那就不要纠结了，idea最重要",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736859787,
+      "formatted_time": "2025-01-14 21:03:07",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736859818,
+      "formatted_time": "2025-01-14 21:03:38",
+      "type": "文本消息",
+      "str_content": "话说学长，这个参营论文要写多少字啊，参考工业经济的格式可以吗",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1736859843,
+      "formatted_time": "2025-01-14 21:04:03",
+      "type": "文本消息",
+      "str_content": "没啥字数要求，参考顶刊格式就行，中国工业经济也是顶刊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1736859863,
+      "formatted_time": "2025-01-14 21:04:23",
+      "type": "文本消息",
+      "str_content": "okk",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748415219,
+      "formatted_time": "2025-05-28 14:53:39",
+      "type": "文本消息",
+      "str_content": "学长，请问你了解汇丰今年专业偏好吗，汇丰数量金融和金融科技合并了，原本金科是只让理工科的报，现在合并了，虽然我们也能报，但是是不是很没有优势了啊，感觉会被计算机的挤下去🥺",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748415933,
+      "formatted_time": "2025-05-28 15:05:33",
+      "type": "文本消息",
+      "str_content": "专业偏好这个我也不是很确定诶，只能说去年的背景是 数金入营的大多是数学、统计、 数理金融这些专业，金科入营的大多数计算机、电子信息这些专业。经济统计学专业其实本来也是万金油，经双和金融的几个方向都可以报。\n我觉得相比纠结不确定性比较大的和外校的竞争，可以多在校内院内投递策略上大家互相通个气，避免无效。",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748415960,
+      "formatted_time": "2025-05-28 15:06:00",
+      "type": "文本消息",
+      "str_content": "对了，前段时间我小红书还收到个华科数院统计的私信，好像也要报数金",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748416079,
+      "formatted_time": "2025-05-28 15:07:59",
+      "type": "文本消息",
+      "str_content": "[恐惧][恐惧][恐惧]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416121,
+      "formatted_time": "2025-05-28 15:08:41",
+      "type": "文本消息",
+      "str_content": "救命啊，汇丰一个学校会招很多个吗",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416150,
+      "formatted_time": "2025-05-28 15:09:10",
+      "type": "文本消息",
+      "str_content": "我看旦经那边招了几个，国贸第一金融第二什么的都直接就拒了",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416174,
+      "formatted_time": "2025-05-28 15:09:34",
+      "type": "文本消息",
+      "str_content": "汇丰夏令营去年是入了两个",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748416184,
+      "formatted_time": "2025-05-28 15:09:44",
+      "type": "引用消息",
+      "str_content": "正常，去年旦经也就只入了三个第一",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748416270,
+      "formatted_time": "2025-05-28 15:11:10",
+      "type": "文本消息",
+      "str_content": "[破涕为笑]大家都是扎堆去旦经啊",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416290,
+      "formatted_time": "2025-05-28 15:11:30",
+      "type": "引用消息",
+      "str_content": "[恐惧]我们年级要报的都不止两个了吧，现在还有数院那边的",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416394,
+      "formatted_time": "2025-05-28 15:13:14",
+      "type": "文本消息",
+      "str_content": "我得去问问其他人报什么专业了[敲打]感觉我们年级割裂成三块，金融那边跟我们这边消息不通",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416466,
+      "formatted_time": "2025-05-28 15:14:26",
+      "type": "文本消息",
+      "str_content": "清北复交人的其实都是所有人都会报的，但最终入营的人数肯定就那几个[破涕为笑]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748416503,
+      "formatted_time": "2025-05-28 15:15:03",
+      "type": "文本消息",
+      "str_content": "旦经 汇丰 经院这种  基本都是每个专业前2都会投递，这样一算起码也十几个了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748416516,
+      "formatted_time": "2025-05-28 15:15:16",
+      "type": "文本消息",
+      "str_content": "[破涕为笑]好像也是，还是拼硬实力了",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416602,
+      "formatted_time": "2025-05-28 15:16:42",
+      "type": "文本消息",
+      "str_content": "入营也是玄学[捂脸]尽量根据自己的经历和投递的方向讲一个story吧~，可能有点用",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748416635,
+      "formatted_time": "2025-05-28 15:17:15",
+      "type": "文本消息",
+      "str_content": "我就是觉得今年清华搞事之后，入营更说不准了",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416652,
+      "formatted_time": "2025-05-28 15:17:32",
+      "type": "文本消息",
+      "str_content": "最近才听到说金融第一投了旦管和安泰都没入",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416654,
+      "formatted_time": "2025-05-28 15:17:34",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416680,
+      "formatted_time": "2025-05-28 15:18:00",
+      "type": "文本消息",
+      "str_content": "我以为华科第一还是不至于入都入不了的，失去自信了",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416703,
+      "formatted_time": "2025-05-28 15:18:23",
+      "type": "文本消息",
+      "str_content": "确实会增加一些不确定性，不过最后的offer数量是不变的，说不定还有各种捡漏的情况呢hh",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748416752,
+      "formatted_time": "2025-05-28 15:19:12",
+      "type": "文本消息",
+      "str_content": "[吃瓜]那也有可能",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416775,
+      "formatted_time": "2025-05-28 15:19:35",
+      "type": "文本消息",
+      "str_content": "华科第一不入营的情况还是蛮多的[破涕为笑]项目有不同的offeree画像",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748416814,
+      "formatted_time": "2025-05-28 15:20:14",
+      "type": "文本消息",
+      "str_content": "噢噢，果然第一不是万金油",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416836,
+      "formatted_time": "2025-05-28 15:20:36",
+      "type": "文本消息",
+      "str_content": "今年夏令营的bar肯定会相对高一点，但说不定清华开了之后鸽子飞走了，预推免再补招",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748416862,
+      "formatted_time": "2025-05-28 15:21:02",
+      "type": "文本消息",
+      "str_content": "我也觉得会这样[吃瓜]到时候鸽子满天飞，我觉得今年9月应该会相当热闹",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416929,
+      "formatted_time": "2025-05-28 15:22:09",
+      "type": "文本消息",
+      "str_content": "学长的论文是都是自己写的吗，还是有老师后面指导修改了[可怜]我论文给彭老师都发了一个半月了，中途还催了一次，他一直不理我",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748416933,
+      "formatted_time": "2025-05-28 15:22:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748417018,
+      "formatted_time": "2025-05-28 15:23:38",
+      "type": "文本消息",
+      "str_content": "彭老师是这样的，一直都比较忙。论文我主要是自己写的，之后找之前认识的学院老师帮着简单看了看改了改。不过论文本身其实要求也不会很高，本科生做的东西都挺boring的，规范性在就可以了。",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748417110,
+      "formatted_time": "2025-05-28 15:25:10",
+      "type": "文本消息",
+      "str_content": "[破涕为笑]好的好的，就是想着汇丰主要就是看论文，有点担心，那我之后再捣鼓下",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748417191,
+      "formatted_time": "2025-05-28 15:26:31",
+      "type": "文本消息",
+      "str_content": "说起来，今天好像在一个学姐的pyq看到学长了，才知道我们学院也在搞毕业仪式了，学长毕业快乐鸭(◦˙▽˙◦)",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1748417643,
+      "formatted_time": "2025-05-28 15:34:03",
+      "type": "文本消息",
+      "str_content": "哈哈哈昨天刚拍了毕业照，这个书也是读到这里了~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748417658,
+      "formatted_time": "2025-05-28 15:34:18",
+      "type": "文本消息",
+      "str_content": "谢谢你~也祝你保研顺利~有什么问题随时联系我就好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748417966,
+      "formatted_time": "2025-05-28 15:39:26",
+      "type": "文本消息",
+      "str_content": "(⋟﹏⋞)真的很谢谢学长，祝学长以后越来越好[转圈]在正式开始保研之前没想过压力会这么大，得了一种看到祝福就想掉眼泪的病了[大哭]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1758208192,
+      "formatted_time": "2025-09-18 23:09:52",
+      "type": "文本消息",
+      "str_content": "学长，想问一下，学校最近集中在校医院体检，但是我现在不在学校。是填国家预推免系统的时候必须要提交体检报告，还是看接收的学校要不要啊，我现在也拿的汇丰数量的offer，汇丰会要求提交这个吗🥺",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1758208472,
+      "formatted_time": "2025-09-18 23:14:32",
+      "type": "文本消息",
+      "str_content": "其实那个没啥用",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758208476,
+      "formatted_time": "2025-09-18 23:14:36",
+      "type": "文本消息",
+      "str_content": "当时我是没用到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758208483,
+      "formatted_time": "2025-09-18 23:14:43",
+      "type": "文本消息",
+      "str_content": "是保本校的要用",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758208747,
+      "formatted_time": "2025-09-18 23:19:07",
+      "type": "文本消息",
+      "str_content": "[旺柴]那我就不做了，我看北京体检好贵[凋谢]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1758271497,
+      "formatted_time": "2025-09-19 16:44:57",
+      "type": "文本消息",
+      "str_content": "哈哈哈好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758271505,
+      "formatted_time": "2025-09-19 16:45:05",
+      "type": "文本消息",
+      "str_content": "学妹是在参哪个营",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758271857,
+      "formatted_time": "2025-09-19 16:50:57",
+      "type": "文本消息",
+      "str_content": "没有参营啦，现在是在北京实习。拿了汇丰之后就处于半躺平状态，之后就只投了下清华经管，但是没入[敲打]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1758271903,
+      "formatted_time": "2025-09-19 16:51:43",
+      "type": "文本消息",
+      "str_content": "噢~可以的可以的很棒，我入学一个月体验下来汇丰还是不错的，尤其是数金科这个研究方向和培养方案还蛮合理的~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758271971,
+      "formatted_time": "2025-09-19 16:52:51",
+      "type": "文本消息",
+      "str_content": "我参营的时候那个学生大使还在说数量的课程是最多最难的，还被吓到了下[凋谢]",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1758271998,
+      "formatted_time": "2025-09-19 16:53:18",
+      "type": "文本消息",
+      "str_content": "数量和金科合并了现在[捂脸]我们这届基本按照金科的培养方案来",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758272008,
+      "formatted_time": "2025-09-19 16:53:28",
+      "type": "文本消息",
+      "str_content": "哦哦哦，你们这一届就已经合并了是吗",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1758272011,
+      "formatted_time": "2025-09-19 16:53:31",
+      "type": "文本消息",
+      "str_content": "那很爽了",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1758272080,
+      "formatted_time": "2025-09-19 16:54:40",
+      "type": "文本消息",
+      "str_content": "我就希望往金科靠一点，更符合预期了是",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1758272103,
+      "formatted_time": "2025-09-19 16:55:03",
+      "type": "文本消息",
+      "str_content": "那学长，你研一还打算实习吗？因为之前看汇丰都是扫脸上课，感觉没什么机会啊",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1758272125,
+      "formatted_time": "2025-09-19 16:55:25",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758272134,
+      "formatted_time": "2025-09-19 16:55:34",
+      "type": "文本消息",
+      "str_content": "理论上是不能实习的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758272411,
+      "formatted_time": "2025-09-19 17:00:11",
+      "type": "文本消息",
+      "str_content": "但其实也有很多机会",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758272484,
+      "formatted_time": "2025-09-19 17:01:24",
+      "type": "引用消息",
+      "str_content": "培养计划看着很不错诶",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    },
+    {
+      "create_time": 1758272496,
+      "formatted_time": "2025-09-19 17:01:36",
+      "type": "引用消息",
+      "str_content": "果然还是办法比困难多吗",
+      "is_send": 0,
+      "sender_name": "经济2201锁芷晴"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 316
+}

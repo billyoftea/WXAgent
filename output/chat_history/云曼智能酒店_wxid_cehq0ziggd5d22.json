@@ -1,0 +1,216 @@
+{
+  "session_id": "wxid_cehq0ziggd5d22",
+  "session_name": "云曼智能酒店",
+  "messages": [
+    {
+      "create_time": 1693660418,
+      "formatted_time": "2023-09-02 21:13:38",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "云曼智能酒店"
+    },
+    {
+      "create_time": 1693660617,
+      "formatted_time": "2023-09-02 21:16:57",
+      "type": "文本消息",
+      "str_content": "尊敬的顾客您好：欢迎你选择入住云曼智能酒店（华中科技大学店），希望您在这里度过美好的时光，入住期间如有需要为您服务的，请第一时间微信，或者电话联系我们前台13343442021！房间WIFI 密码 88888888，云曼全体员工真诚为您服务！",
+      "is_send": 0,
+      "sender_name": "云曼智能酒店"
+    },
+    {
+      "create_time": 1693701169,
+      "formatted_time": "2023-09-03 08:32:49",
+      "type": "文本消息",
+      "str_content": "你们酒店大早上装修？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693701182,
+      "formatted_time": "2023-09-03 08:33:02",
+      "type": "文本消息",
+      "str_content": "八点多就全是电钻声？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693701460,
+      "formatted_time": "2023-09-03 08:37:40",
+      "type": "文本消息",
+      "str_content": "您好，我们酒店没有在装修，可能是楼上在装修，您稍等一下哈，我们过去看一下，不好意思哈，打扰您休息了",
+      "is_send": 0,
+      "sender_name": "云曼智能酒店"
+    },
+    {
+      "create_time": 1741933513,
+      "formatted_time": "2025-03-14 14:25:13",
+      "type": "文本消息",
+      "str_content": "电竞酒店不能接自己带的电脑嘛？把你们这儿的电脑当做显示屏来用",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1741933639,
+      "formatted_time": "2025-03-14 14:27:19",
+      "type": "文本消息",
+      "str_content": "不可以的哦不好意思",
+      "is_send": 0,
+      "sender_name": "云曼智能酒店"
+    },
+    {
+      "create_time": 1741973676,
+      "formatted_time": "2025-03-15 01:34:36",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1741973682,
+      "formatted_time": "2025-03-15 01:34:42",
+      "type": "文本消息",
+      "str_content": "这个灯和耳机的灯怎么关啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1741973684,
+      "formatted_time": "2025-03-15 01:34:44",
+      "type": "文本消息",
+      "str_content": "要睡觉了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1741973689,
+      "formatted_time": "2025-03-15 01:34:49",
+      "type": "文本消息",
+      "str_content": "还在亮",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1741973721,
+      "formatted_time": "2025-03-15 01:35:21",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "云曼智能酒店"
+    },
+    {
+      "create_time": 1741973739,
+      "formatted_time": "2025-03-15 01:35:39",
+      "type": "文本消息",
+      "str_content": "按这个按钮调节",
+      "is_send": 0,
+      "sender_name": "云曼智能酒店"
+    },
+    {
+      "create_time": 1741973751,
+      "formatted_time": "2025-03-15 01:35:51",
+      "type": "文本消息",
+      "str_content": "耳机的灯呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1741973763,
+      "formatted_time": "2025-03-15 01:36:03",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1741973775,
+      "formatted_time": "2025-03-15 01:36:15",
+      "type": "引用消息",
+      "str_content": "耳机没灯哇",
+      "is_send": 0,
+      "sender_name": "云曼智能酒店"
+    },
+    {
+      "create_time": 1741973786,
+      "formatted_time": "2025-03-15 01:36:26",
+      "type": "文本消息",
+      "str_content": "关机不就好了",
+      "is_send": 0,
+      "sender_name": "云曼智能酒店"
+    },
+    {
+      "create_time": 1741973793,
+      "formatted_time": "2025-03-15 01:36:33",
+      "type": "文本消息",
+      "str_content": "电脑关机哈",
+      "is_send": 0,
+      "sender_name": "云曼智能酒店"
+    },
+    {
+      "create_time": 1741973796,
+      "formatted_time": "2025-03-15 01:36:36",
+      "type": "文本消息",
+      "str_content": "已经关机了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1741973800,
+      "formatted_time": "2025-03-15 01:36:40",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1741973848,
+      "formatted_time": "2025-03-15 01:37:28",
+      "type": "文本消息",
+      "str_content": "啊天",
+      "is_send": 0,
+      "sender_name": "云曼智能酒店"
+    },
+    {
+      "create_time": 1741973863,
+      "formatted_time": "2025-03-15 01:37:43",
+      "type": "文本消息",
+      "str_content": "如果这个亮度影响睡觉的话，就把电脑桌搬开，后面有个电源线，把电源线拔了",
+      "is_send": 0,
+      "sender_name": "云曼智能酒店"
+    },
+    {
+      "create_time": 1741973869,
+      "formatted_time": "2025-03-15 01:37:49",
+      "type": "文本消息",
+      "str_content": "明天要玩儿的话就插上",
+      "is_send": 0,
+      "sender_name": "云曼智能酒店"
+    },
+    {
+      "create_time": 1741973875,
+      "formatted_time": "2025-03-15 01:37:55",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1742019998,
+      "formatted_time": "2025-03-15 14:26:38",
+      "type": "文本消息",
+      "str_content": "您好，咱们这边没有消费，押金就原路返回啦，如果咱们住的还可以，可以动动发财的小手点个好评嘛，非常感谢您^O^",
+      "is_send": 0,
+      "sender_name": "云曼智能酒店"
+    },
+    {
+      "create_time": 1742021449,
+      "formatted_time": "2025-03-15 14:50:49",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:37+08:00",
+  "message_count": 26
+}

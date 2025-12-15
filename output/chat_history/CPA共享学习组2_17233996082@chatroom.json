@@ -1,0 +1,1885 @@
+{
+  "session_id": "17233996082@chatroom",
+  "session_name": "CPA共享学习组2",
+  "messages": [
+    {
+      "create_time": 1642472621,
+      "formatted_time": "2022-01-18 10:23:41",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1642494913,
+      "formatted_time": "2022-01-18 16:35:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1642576953,
+      "formatted_time": "2022-01-19 15:22:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1642577835,
+      "formatted_time": "2022-01-19 15:37:15",
+      "type": "文本消息",
+      "str_content": "群主，百度云盘的群人数已满加不进去了",
+      "is_send": 0,
+      "sender_name": "wxid_vhgjaafnp5nb22",
+      "sender_wxid": "wxid_vhgjaafnp5nb22"
+    },
+    {
+      "create_time": 1642577893,
+      "formatted_time": "2022-01-19 15:38:13",
+      "type": "文本消息",
+      "str_content": "@CPA资料分享员",
+      "is_send": 0,
+      "sender_name": "wxid_vhgjaafnp5nb22",
+      "sender_wxid": "wxid_vhgjaafnp5nb22"
+    },
+    {
+      "create_time": 1642581527,
+      "formatted_time": "2022-01-19 16:38:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1642752452,
+      "formatted_time": "2022-01-21 16:07:32",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1642752452,
+      "formatted_time": "2022-01-21 16:07:32",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1642752551,
+      "formatted_time": "2022-01-21 16:09:11",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1642752551,
+      "formatted_time": "2022-01-21 16:09:11",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1642828986,
+      "formatted_time": "2022-01-22 13:23:06",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1642828986,
+      "formatted_time": "2022-01-22 13:23:06",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1642829139,
+      "formatted_time": "2022-01-22 13:25:39",
+      "type": "文本消息",
+      "str_content": "22年课程已开始更新，百度云群号5414396080（能搜到、能加上、有文件），百度云群请不要重复加，否则一律拉黑！",
+      "is_send": 0,
+      "sender_name": "顺心㏑",
+      "sender_wxid": "wxid_ikexk5pmcfvf12"
+    },
+    {
+      "create_time": 1642917837,
+      "formatted_time": "2022-01-23 14:03:57",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1642917837,
+      "formatted_time": "2022-01-23 14:03:57",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1650619059,
+      "formatted_time": "2022-04-22 17:17:39",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1650624985,
+      "formatted_time": "2022-04-22 18:56:25",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1650946235,
+      "formatted_time": "2022-04-26 12:10:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1650946235,
+      "formatted_time": "2022-04-26 12:10:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1650946236,
+      "formatted_time": "2022-04-26 12:10:36",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1650957912,
+      "formatted_time": "2022-04-26 15:25:12",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1651034750,
+      "formatted_time": "2022-04-27 12:45:50",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1651034750,
+      "formatted_time": "2022-04-27 12:45:50",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1651808375,
+      "formatted_time": "2022-05-06 11:39:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1651808441,
+      "formatted_time": "2022-05-06 11:40:41",
+      "type": "文本消息",
+      "str_content": "新进群的看群公告～",
+      "is_send": 0,
+      "sender_name": "Alisa🍉",
+      "sender_wxid": "wxid_2962449625122"
+    },
+    {
+      "create_time": 1651841253,
+      "formatted_time": "2022-05-06 20:47:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1651841253,
+      "formatted_time": "2022-05-06 20:47:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1653539762,
+      "formatted_time": "2022-05-26 12:36:02",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1653539875,
+      "formatted_time": "2022-05-26 12:37:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1653539875,
+      "formatted_time": "2022-05-26 12:37:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1653540830,
+      "formatted_time": "2022-05-26 12:53:50",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1653540830,
+      "formatted_time": "2022-05-26 12:53:50",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1653544770,
+      "formatted_time": "2022-05-26 13:59:30",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1653544770,
+      "formatted_time": "2022-05-26 13:59:30",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1653843396,
+      "formatted_time": "2022-05-30 00:56:36",
+      "type": "文本消息",
+      "str_content": "想问一下群里有没有人能帮我解答一个问题，我一个朋友二月份离职，然后三月份入职的另一家公司，但是呢，这两家公司都给他申报了三月份的个税，我想问一下这种情况会对我朋友造成什么影响，该怎么处理呢？（第三个月领的是上一家公司的5000元，没有达到起征点，第一家公司按5000的额度申报，第二家公司按在第二家公司工资应得申报了纳税，这种情况会不会导致起征额度变高？）",
+      "is_send": 0,
+      "sender_name": "林",
+      "sender_wxid": "wxid_7drou657e26t22"
+    },
+    {
+      "create_time": 1653866001,
+      "formatted_time": "2022-05-30 07:13:21",
+      "type": "文本消息",
+      "str_content": "shouji1324540888:\n明年汇算清缴的时候多退少补",
+      "is_send": 0
+    },
+    {
+      "create_time": 1653911225,
+      "formatted_time": "2022-05-30 19:47:05",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1655194444,
+      "formatted_time": "2022-06-14 16:14:04",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1655360447,
+      "formatted_time": "2022-06-16 14:20:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1655360447,
+      "formatted_time": "2022-06-16 14:20:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1657460083,
+      "formatted_time": "2022-07-10 21:34:43",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1657460083,
+      "formatted_time": "2022-07-10 21:34:43",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1657511593,
+      "formatted_time": "2022-07-11 11:53:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1657511593,
+      "formatted_time": "2022-07-11 11:53:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1658644916,
+      "formatted_time": "2022-07-24 14:41:56",
+      "type": "文本消息",
+      "str_content": "ztt_012:\n谁有郑晓博2021年财管的灵狐版讲义可以分享一下嘛～谢谢",
+      "is_send": 0
+    },
+    {
+      "create_time": 1661097348,
+      "formatted_time": "2022-08-21 23:55:48",
+      "type": "文本消息",
+      "str_content": "请问有哪位伙伴有轻四的电子版分享下吗[抱拳]",
+      "is_send": 0,
+      "sender_name": "-2aoO",
+      "sender_wxid": "wxid_cggqu1wj7i5g22"
+    },
+    {
+      "create_time": 1661416304,
+      "formatted_time": "2022-08-25 16:31:44",
+      "type": "文本消息",
+      "str_content": "大家税法和经济法都听哪位老师的课啊",
+      "is_send": 0,
+      "sender_name": "Crush😳",
+      "sender_wxid": "wxid_1xqnu8na475n22"
+    },
+    {
+      "create_time": 1661416308,
+      "formatted_time": "2022-08-25 16:31:48",
+      "type": "文本消息",
+      "str_content": "👀",
+      "is_send": 0,
+      "sender_name": "Crush😳",
+      "sender_wxid": "wxid_1xqnu8na475n22"
+    },
+    {
+      "create_time": 1661416327,
+      "formatted_time": "2022-08-25 16:32:07",
+      "type": "文本消息",
+      "str_content": "要考试了才开始看吗",
+      "is_send": 0,
+      "sender_name": "WANG",
+      "sender_wxid": "wxid_1451994518512"
+    },
+    {
+      "create_time": 1661416352,
+      "formatted_time": "2022-08-25 16:32:32",
+      "type": "文本消息",
+      "str_content": "准备明年的😄",
+      "is_send": 0,
+      "sender_name": "Crush😳",
+      "sender_wxid": "wxid_1xqnu8na475n22"
+    },
+    {
+      "create_time": 1661416363,
+      "formatted_time": "2022-08-25 16:32:43",
+      "type": "文本消息",
+      "str_content": "今年考会计",
+      "is_send": 0,
+      "sender_name": "Crush😳",
+      "sender_wxid": "wxid_1xqnu8na475n22"
+    },
+    {
+      "create_time": 1661474542,
+      "formatted_time": "2022-08-26 08:42:22",
+      "type": "文本消息",
+      "str_content": "税法马兆瑞",
+      "is_send": 0,
+      "sender_name": "八方来财好运连连的小靳",
+      "sender_wxid": "wxid_8wiurngawp9q21"
+    },
+    {
+      "create_time": 1661998950,
+      "formatted_time": "2022-09-01 10:22:30",
+      "type": "文本消息",
+      "str_content": "求斯尔刘忠老师的会计课程🙏🏻",
+      "is_send": 0,
+      "sender_name": "超",
+      "sender_wxid": "wxid_j9uzagn15qq222"
+    },
+    {
+      "create_time": 1662274355,
+      "formatted_time": "2022-09-04 14:52:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662274355,
+      "formatted_time": "2022-09-04 14:52:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662274368,
+      "formatted_time": "2022-09-04 14:52:48",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662274368,
+      "formatted_time": "2022-09-04 14:52:48",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662630912,
+      "formatted_time": "2022-09-08 17:55:12",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662630912,
+      "formatted_time": "2022-09-08 17:55:12",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662888532,
+      "formatted_time": "2022-09-11 17:28:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1663581712,
+      "formatted_time": "2022-09-19 18:01:52",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "东方恒平",
+      "sender_wxid": "wxid_73ip14q7l3q222"
+    },
+    {
+      "create_time": 1663591493,
+      "formatted_time": "2022-09-19 20:44:53",
+      "type": "图文消息",
+      "str_content": "【仅需1人】1元拼团即可领税务师40天冲刺学习包",
+      "is_send": 0,
+      "sender_name": "wxid_io0ikq1fmutd22",
+      "sender_wxid": "wxid_io0ikq1fmutd22"
+    },
+    {
+      "create_time": 1663636287,
+      "formatted_time": "2022-09-20 09:11:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1663636287,
+      "formatted_time": "2022-09-20 09:11:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1663752382,
+      "formatted_time": "2022-09-21 17:26:22",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1663752382,
+      "formatted_time": "2022-09-21 17:26:22",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1664273908,
+      "formatted_time": "2022-09-27 18:18:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1664273908,
+      "formatted_time": "2022-09-27 18:18:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1665287812,
+      "formatted_time": "2022-10-09 11:56:52",
+      "type": "文本消息",
+      "str_content": "求斯尔的资源",
+      "is_send": 0,
+      "sender_name": "超",
+      "sender_wxid": "wxid_j9uzagn15qq222"
+    },
+    {
+      "create_time": 1665579848,
+      "formatted_time": "2022-10-12 21:04:08",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1665994690,
+      "formatted_time": "2022-10-17 16:18:10",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1665994690,
+      "formatted_time": "2022-10-17 16:18:10",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1666793301,
+      "formatted_time": "2022-10-26 22:08:21",
+      "type": "图文消息",
+      "str_content": "CPA考生错过后悔！BT七周年感恩回馈！",
+      "is_send": 0,
+      "sender_name": "🙃Bo",
+      "sender_wxid": "wxid_svjw9gbhyfry21"
+    },
+    {
+      "create_time": 1669625719,
+      "formatted_time": "2022-11-28 16:55:19",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1669625719,
+      "formatted_time": "2022-11-28 16:55:19",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1669625761,
+      "formatted_time": "2022-11-28 16:56:01",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1675317474,
+      "formatted_time": "2023-02-02 13:57:54",
+      "type": "文本消息",
+      "str_content": "【工作机会】\n海外税专家岗位职责：\n1、研究并梳理海外税政策，包括但不限于基本税制及税务判定；\n2、负责海外税合规遵从相关工作，包括海外税务登记、纳税申报流程、代扣代缴等；\n3、针对海外公司设立、变更、注销等环节，提供专业税务支持；\n4、熟悉转让定价规则，协助设计交易模式、定价策略等；\n5、负责与外部税务中介沟通，协助对接专项税务工作；\n6、领导交办的其他事项。\n任职要求：\n1、本科及以上学历，税务/财务相关专业；\n2、持有CPA/CTA证书优先；\n3、五年以上海外税工作经验，熟悉中国香港、东南亚、欧洲等国家地区税法规定优先；\n4、四大国际税背景或具备大型互联网企业国际税工作经验优先；\n5、英语可作为工作语言；\n6、具备良好的沟通能力，工作主动性强，能够承受一定工作压力。\n联系人：麻女士 minjie.ma@dmall.com",
+      "is_send": 0,
+      "sender_name": "山药",
+      "sender_wxid": "wxid_kjcqqa16zien21"
+    },
+    {
+      "create_time": 1677224646,
+      "formatted_time": "2023-02-24 15:44:06",
+      "type": "文本消息",
+      "str_content": "有好心人可以分享下23年cpa的课程么",
+      "is_send": 0,
+      "sender_name": "与你",
+      "sender_wxid": "wxid_u0xxp8dhs9u322"
+    },
+    {
+      "create_time": 1677295708,
+      "formatted_time": "2023-02-25 11:28:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1677295708,
+      "formatted_time": "2023-02-25 11:28:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1677296602,
+      "formatted_time": "2023-02-25 11:43:22",
+      "type": "文本消息",
+      "str_content": "群人满了",
+      "is_send": 0,
+      "sender_name": "媛",
+      "sender_wxid": "wxid_q4sospvn5z7v22"
+    },
+    {
+      "create_time": 1677297575,
+      "formatted_time": "2023-02-25 11:59:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1677297575,
+      "formatted_time": "2023-02-25 11:59:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1677408446,
+      "formatted_time": "2023-02-26 18:47:26",
+      "type": "文本消息",
+      "str_content": "百度网盘群会更新23课程吗",
+      "is_send": 0,
+      "sender_name": "果粒多",
+      "sender_wxid": "wxid_6cmyad67d1v622"
+    },
+    {
+      "create_time": 1677409073,
+      "formatted_time": "2023-02-26 18:57:53",
+      "type": "文本消息",
+      "str_content": "同问",
+      "is_send": 0,
+      "sender_name": "超",
+      "sender_wxid": "wxid_j9uzagn15qq222"
+    },
+    {
+      "create_time": 1677414188,
+      "formatted_time": "2023-02-26 20:23:08",
+      "type": "文本消息",
+      "str_content": "哪里有百度网盘群，求拉",
+      "is_send": 0,
+      "sender_name": "LePing",
+      "sender_wxid": "wxid_4srbl74bkuj021"
+    },
+    {
+      "create_time": 1677414817,
+      "formatted_time": "2023-02-26 20:33:37",
+      "type": "文本消息",
+      "str_content": "同求",
+      "is_send": 0,
+      "sender_name": "我来自布列斯特",
+      "sender_wxid": "wxid_2909799097212"
+    },
+    {
+      "create_time": 1677418589,
+      "formatted_time": "2023-02-26 21:36:29",
+      "type": "文本消息",
+      "str_content": "复制群口令#SGMwxJrcQC#，打开百度网盘APP加入群聊~",
+      "is_send": 0,
+      "sender_name": "果粒多",
+      "sender_wxid": "wxid_6cmyad67d1v622"
+    },
+    {
+      "create_time": 1677418688,
+      "formatted_time": "2023-02-26 21:38:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "LePing",
+      "sender_wxid": "wxid_4srbl74bkuj021"
+    },
+    {
+      "create_time": 1677418796,
+      "formatted_time": "2023-02-26 21:39:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Lethe",
+      "sender_wxid": "wxid_s6iq2rkvm45d22"
+    },
+    {
+      "create_time": 1677418997,
+      "formatted_time": "2023-02-26 21:43:17",
+      "type": "文本消息",
+      "str_content": "大家有没有23的",
+      "is_send": 0,
+      "sender_name": "果粒多",
+      "sender_wxid": "wxid_6cmyad67d1v622"
+    },
+    {
+      "create_time": 1677419100,
+      "formatted_time": "2023-02-26 21:45:00",
+      "type": "文本消息",
+      "str_content": "没有，差不多吧，改不了多少",
+      "is_send": 0,
+      "sender_name": "LePing",
+      "sender_wxid": "wxid_4srbl74bkuj021"
+    },
+    {
+      "create_time": 1677419116,
+      "formatted_time": "2023-02-26 21:45:16",
+      "type": "卡片式链接",
+      "str_content": "2022年注册会计师《会计》考点精讲",
+      "is_send": 0,
+      "sender_name": "LePing",
+      "sender_wxid": "wxid_4srbl74bkuj021"
+    },
+    {
+      "create_time": 1677419136,
+      "formatted_time": "2023-02-26 21:45:36",
+      "type": "文本消息",
+      "str_content": "我觉得这个不错",
+      "is_send": 0,
+      "sender_name": "LePing",
+      "sender_wxid": "wxid_4srbl74bkuj021"
+    },
+    {
+      "create_time": 1677481102,
+      "formatted_time": "2023-02-27 14:58:22",
+      "type": "文本消息",
+      "str_content": "我有23的全套[让我看看]",
+      "is_send": 0,
+      "sender_name": "鲤鱼柚",
+      "sender_wxid": "wxid_rahhngqohrhv22"
+    },
+    {
+      "create_time": 1677812168,
+      "formatted_time": "2023-03-03 10:56:08",
+      "type": "文本消息",
+      "str_content": "会计大家听的谁的课啊",
+      "is_send": 0,
+      "sender_name": "Amy&YANG",
+      "sender_wxid": "wxid_tm9a3xkorn3b22"
+    },
+    {
+      "create_time": 1677812878,
+      "formatted_time": "2023-03-03 11:07:58",
+      "type": "文本消息",
+      "str_content": "happe-123:\n23的课谁有吗？",
+      "is_send": 0
+    },
+    {
+      "create_time": 1677813095,
+      "formatted_time": "2023-03-03 11:11:35",
+      "type": "文本消息",
+      "str_content": "我有",
+      "is_send": 0,
+      "sender_name": "鲤鱼柚",
+      "sender_wxid": "wxid_rahhngqohrhv22"
+    },
+    {
+      "create_time": 1677814254,
+      "formatted_time": "2023-03-03 11:30:54",
+      "type": "文本消息",
+      "str_content": "happe-123:\n可以分享一下不[捂脸]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1677814292,
+      "formatted_time": "2023-03-03 11:31:32",
+      "type": "文本消息",
+      "str_content": "可以加我微信哦",
+      "is_send": 0,
+      "sender_name": "鲤鱼柚",
+      "sender_wxid": "wxid_rahhngqohrhv22"
+    },
+    {
+      "create_time": 1677815505,
+      "formatted_time": "2023-03-03 11:51:45",
+      "type": "文本消息",
+      "str_content": "可以分享吗",
+      "is_send": 0,
+      "sender_name": "WANG",
+      "sender_wxid": "wxid_1451994518512"
+    },
+    {
+      "create_time": 1677816628,
+      "formatted_time": "2023-03-03 12:10:28",
+      "type": "文本消息",
+      "str_content": "可以的",
+      "is_send": 0,
+      "sender_name": "鲤鱼柚",
+      "sender_wxid": "wxid_rahhngqohrhv22"
+    },
+    {
+      "create_time": 1680071851,
+      "formatted_time": "2023-03-29 14:37:31",
+      "type": "文本消息",
+      "str_content": "盆友们，我大概4月中旬会开始更新23年的网课哦",
+      "is_send": 0,
+      "sender_name": "顺心㏑",
+      "sender_wxid": "wxid_ikexk5pmcfvf12"
+    },
+    {
+      "create_time": 1680071910,
+      "formatted_time": "2023-03-29 14:38:30",
+      "type": "文本消息",
+      "str_content": "是在百度云网盘吗",
+      "is_send": 0,
+      "sender_name": "可可爱爱",
+      "sender_wxid": "wxid_ggpn9kzf2mpw22"
+    },
+    {
+      "create_time": 1680072245,
+      "formatted_time": "2023-03-29 14:44:05",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1680072275,
+      "formatted_time": "2023-03-29 14:44:35",
+      "type": "文本消息",
+      "str_content": "[爱心][爱心][爱心]",
+      "is_send": 0,
+      "sender_name": "WANG",
+      "sender_wxid": "wxid_1451994518512"
+    },
+    {
+      "create_time": 1680072302,
+      "formatted_time": "2023-03-29 14:45:02",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "泽火革",
+      "sender_wxid": "wxid_q0br7t2mamug41"
+    },
+    {
+      "create_time": 1680082940,
+      "formatted_time": "2023-03-29 17:42:20",
+      "type": "引用消息",
+      "str_content": "更的时候会在群里通知，会新建百度云群的",
+      "is_send": 0,
+      "sender_name": "顺心㏑",
+      "sender_wxid": "wxid_ikexk5pmcfvf12"
+    },
+    {
+      "create_time": 1680268141,
+      "formatted_time": "2023-03-31 21:09:01",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1680268141,
+      "formatted_time": "2023-03-31 21:09:01",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CPA共享学习组2",
+      "sender_wxid": "17233996082@chatroom"
+    },
+    {
+      "create_time": 1680279123,
+      "formatted_time": "2023-04-01 00:12:03",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CPA共享学习组2",
+      "sender_wxid": "17233996082@chatroom"
+    },
+    {
+      "create_time": 1680617407,
+      "formatted_time": "2023-04-04 22:10:07",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "顺心㏑",
+      "sender_wxid": "wxid_ikexk5pmcfvf12"
+    },
+    {
+      "create_time": 1680617479,
+      "formatted_time": "2023-04-04 22:11:19",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "顺心㏑",
+      "sender_wxid": "wxid_ikexk5pmcfvf12"
+    },
+    {
+      "create_time": 1680617512,
+      "formatted_time": "2023-04-04 22:11:52",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1680617564,
+      "formatted_time": "2023-04-04 22:12:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1680617564,
+      "formatted_time": "2023-04-04 22:12:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CPA共享学习组2",
+      "sender_wxid": "17233996082@chatroom"
+    },
+    {
+      "create_time": 1680617862,
+      "formatted_time": "2023-04-04 22:17:42",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1680617862,
+      "formatted_time": "2023-04-04 22:17:42",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CPA共享学习组2",
+      "sender_wxid": "17233996082@chatroom"
+    },
+    {
+      "create_time": 1680617938,
+      "formatted_time": "2023-04-04 22:18:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "泽火革",
+      "sender_wxid": "wxid_q0br7t2mamug41"
+    },
+    {
+      "create_time": 1680618311,
+      "formatted_time": "2023-04-04 22:25:11",
+      "type": "文本消息",
+      "str_content": "@CPA资料分享员 请问是哪个群里更新啊？",
+      "is_send": 0,
+      "sender_name": "Amy&YANG",
+      "sender_wxid": "wxid_tm9a3xkorn3b22"
+    },
+    {
+      "create_time": 1680618729,
+      "formatted_time": "2023-04-04 22:32:09",
+      "type": "文本消息",
+      "str_content": "去年的每个群都更了",
+      "is_send": 0,
+      "sender_name": "顺心㏑",
+      "sender_wxid": "wxid_ikexk5pmcfvf12"
+    },
+    {
+      "create_time": 1680620234,
+      "formatted_time": "2023-04-04 22:57:14",
+      "type": "文本消息",
+      "str_content": "请问转存以后文件夹里的课是会自动更新嘛？",
+      "is_send": 0,
+      "sender_name": "超",
+      "sender_wxid": "wxid_j9uzagn15qq222"
+    },
+    {
+      "create_time": 1680654355,
+      "formatted_time": "2023-04-05 08:25:55",
+      "type": "文本消息",
+      "str_content": "没在百度群，",
+      "is_send": 0,
+      "sender_name": "克林索尔的夏天",
+      "sender_wxid": "wxid_ev84xlds06xo22"
+    },
+    {
+      "create_time": 1681287950,
+      "formatted_time": "2023-04-12 16:25:50",
+      "type": "文本消息",
+      "str_content": "可以拉下网盘群么，谢谢",
+      "is_send": 0,
+      "sender_name": "WANG",
+      "sender_wxid": "wxid_1451994518512"
+    },
+    {
+      "create_time": 1681658500,
+      "formatted_time": "2023-04-16 23:21:40",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CPA共享学习组2",
+      "sender_wxid": "17233996082@chatroom"
+    },
+    {
+      "create_time": 1681971060,
+      "formatted_time": "2023-04-20 14:11:00",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CPA共享学习组2",
+      "sender_wxid": "17233996082@chatroom"
+    },
+    {
+      "create_time": 1681971060,
+      "formatted_time": "2023-04-20 14:11:00",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1681981967,
+      "formatted_time": "2023-04-20 17:12:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CPA共享学习组2",
+      "sender_wxid": "17233996082@chatroom"
+    },
+    {
+      "create_time": 1681981967,
+      "formatted_time": "2023-04-20 17:12:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1684309920,
+      "formatted_time": "2023-05-17 15:52:00",
+      "type": "文本消息",
+      "str_content": "22年的东奥税法有朋友可以分享下嘛~",
+      "is_send": 0,
+      "sender_name": "与你",
+      "sender_wxid": "wxid_u0xxp8dhs9u322"
+    },
+    {
+      "create_time": 1685283442,
+      "formatted_time": "2023-05-28 22:17:22",
+      "type": "文本消息",
+      "str_content": "pc_afoundo:\n大家有非正的购买链接吗？",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685284472,
+      "formatted_time": "2023-05-28 22:34:32",
+      "type": "文本消息",
+      "str_content": "链接:https://pan.baidu.com/s/13BeyezFFlAGwP8ic8FbxOw?pwd=2kv6 提取码:2kv6\n导图链接:https://pan.baidu.com/s/1v0ttKEWBgnS9oiFbdQ89gQ \n提取码:tn2r",
+      "is_send": 0,
+      "sender_name": "燃烧弹",
+      "sender_wxid": "wxid_6adh970ddpy022"
+    },
+    {
+      "create_time": 1685316423,
+      "formatted_time": "2023-05-29 07:27:03",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "🌙",
+      "sender_wxid": "wxid_wu0uegghksk322"
+    },
+    {
+      "create_time": 1685319297,
+      "formatted_time": "2023-05-29 08:14:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "芃麦",
+      "sender_wxid": "wxid_4jfvdumo1c3l22"
+    },
+    {
+      "create_time": 1686034423,
+      "formatted_time": "2023-06-06 14:53:43",
+      "type": "文本消息",
+      "str_content": "谁有2022年注会真题及答案啊",
+      "is_send": 0,
+      "sender_name": "冥筱慢",
+      "sender_wxid": "wxid_7816998170923"
+    },
+    {
+      "create_time": 1687186944,
+      "formatted_time": "2023-06-19 23:02:24",
+      "type": "文本消息",
+      "str_content": "谁有cpa张敬富基础班，有偿",
+      "is_send": 0,
+      "sender_name": "wxid_y633nacf8e9a21",
+      "sender_wxid": "wxid_y633nacf8e9a21"
+    },
+    {
+      "create_time": 1687318112,
+      "formatted_time": "2023-06-21 11:28:32",
+      "type": "文本消息",
+      "str_content": "@好运常伴 有",
+      "is_send": 0,
+      "sender_name": "毛毯",
+      "sender_wxid": "wxid_yjnx8gm3uf3b22"
+    },
+    {
+      "create_time": 1687318132,
+      "formatted_time": "2023-06-21 11:28:52",
+      "type": "文本消息",
+      "str_content": "私我",
+      "is_send": 0,
+      "sender_name": "wxid_y633nacf8e9a21",
+      "sender_wxid": "wxid_y633nacf8e9a21"
+    },
+    {
+      "create_time": 1687318568,
+      "formatted_time": "2023-06-21 11:36:08",
+      "type": "文本消息",
+      "str_content": "cpa张敬富基础班超过135讲的，有偿[叹气]",
+      "is_send": 0,
+      "sender_name": "wxid_y633nacf8e9a21",
+      "sender_wxid": "wxid_y633nacf8e9a21"
+    },
+    {
+      "create_time": 1687323388,
+      "formatted_time": "2023-06-21 12:56:28",
+      "type": "文本消息",
+      "str_content": "我有",
+      "is_send": 0,
+      "sender_name": "又是一颗西兰花",
+      "sender_wxid": "wxid_gagg0uarf9qc41"
+    },
+    {
+      "create_time": 1687323396,
+      "formatted_time": "2023-06-21 12:56:36",
+      "type": "文本消息",
+      "str_content": "私我",
+      "is_send": 0,
+      "sender_name": "又是一颗西兰花",
+      "sender_wxid": "wxid_gagg0uarf9qc41"
+    },
+    {
+      "create_time": 1687340124,
+      "formatted_time": "2023-06-21 17:35:24",
+      "type": "文本消息",
+      "str_content": "税法 强化班马兆瑞的课有更新么",
+      "is_send": 0,
+      "sender_name": "与你",
+      "sender_wxid": "wxid_u0xxp8dhs9u322"
+    },
+    {
+      "create_time": 1687740702,
+      "formatted_time": "2023-06-26 08:51:42",
+      "type": "文本消息",
+      "str_content": "你们都机考模拟了吗",
+      "is_send": 0,
+      "sender_name": "克林索尔的夏天",
+      "sender_wxid": "wxid_ev84xlds06xo22"
+    },
+    {
+      "create_time": 1687746690,
+      "formatted_time": "2023-06-26 10:31:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "克林索尔的夏天",
+      "sender_wxid": "wxid_ev84xlds06xo22"
+    },
+    {
+      "create_time": 1687753459,
+      "formatted_time": "2023-06-26 12:24:19",
+      "type": "文本消息",
+      "str_content": "想求一份王颖税法70题的电子版",
+      "is_send": 0,
+      "sender_name": "与你",
+      "sender_wxid": "wxid_u0xxp8dhs9u322"
+    },
+    {
+      "create_time": 1687769352,
+      "formatted_time": "2023-06-26 16:49:12",
+      "type": "文本消息",
+      "str_content": "你们啥机考模拟啊",
+      "is_send": 0,
+      "sender_name": "克林索尔的夏天",
+      "sender_wxid": "wxid_ev84xlds06xo22"
+    },
+    {
+      "create_time": 1687776834,
+      "formatted_time": "2023-06-26 18:53:54",
+      "type": "文本消息",
+      "str_content": "ztt_012:\n可以求黄洁洵老师经济法的讲义吗？",
+      "is_send": 0
+    },
+    {
+      "create_time": 1687778526,
+      "formatted_time": "2023-06-26 19:22:06",
+      "type": "文本消息",
+      "str_content": "你们啥机考模拟啊，有没有前辈分享一下经验",
+      "is_send": 0,
+      "sender_name": "克林索尔的夏天",
+      "sender_wxid": "wxid_ev84xlds06xo22"
+    },
+    {
+      "create_time": 1687778528,
+      "formatted_time": "2023-06-26 19:22:08",
+      "type": "文本消息",
+      "str_content": "[苦涩]",
+      "is_send": 0,
+      "sender_name": "克林索尔的夏天",
+      "sender_wxid": "wxid_ev84xlds06xo22"
+    },
+    {
+      "create_time": 1687998799,
+      "formatted_time": "2023-06-29 08:33:19",
+      "type": "文本消息",
+      "str_content": "各位备考怎么样了呀",
+      "is_send": 0,
+      "sender_name": "克林索尔的夏天",
+      "sender_wxid": "wxid_ev84xlds06xo22"
+    },
+    {
+      "create_time": 1687998804,
+      "formatted_time": "2023-06-29 08:33:24",
+      "type": "文本消息",
+      "str_content": "缴费成功了吗",
+      "is_send": 0,
+      "sender_name": "克林索尔的夏天",
+      "sender_wxid": "wxid_ev84xlds06xo22"
+    },
+    {
+      "create_time": 1688213213,
+      "formatted_time": "2023-07-01 20:06:53",
+      "type": "文本消息",
+      "str_content": "chenzhengfen003:\n求问个人独资的诊所自用房产，房土两税是免税还是不免",
+      "is_send": 0
+    },
+    {
+      "create_time": 1688525097,
+      "formatted_time": "2023-07-05 10:44:57",
+      "type": "文本消息",
+      "str_content": "有小伙伴有23年的东奥黄洁洵的经济法基础班课可以分享下么[捂脸]刚发现网盘群上黄洁洵的课更没了",
+      "is_send": 0,
+      "sender_name": "可爱的秋田犬",
+      "sender_wxid": "wxid_pwm84c103ifj22"
+    },
+    {
+      "create_time": 1688525700,
+      "formatted_time": "2023-07-05 10:55:00",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CPA共享学习组2",
+      "sender_wxid": "17233996082@chatroom"
+    },
+    {
+      "create_time": 1688525700,
+      "formatted_time": "2023-07-05 10:55:00",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1688526791,
+      "formatted_time": "2023-07-05 11:13:11",
+      "type": "引用消息",
+      "str_content": "我有讲义，需要吗",
+      "is_send": 0
+    },
+    {
+      "create_time": 1688527781,
+      "formatted_time": "2023-07-05 11:29:41",
+      "type": "文本消息",
+      "str_content": "@T＊T.张   不用啦谢谢，我重新刷了下，课程又都更新完了[捂脸]",
+      "is_send": 0,
+      "sender_name": "可爱的秋田犬",
+      "sender_wxid": "wxid_pwm84c103ifj22"
+    },
+    {
+      "create_time": 1688527892,
+      "formatted_time": "2023-07-05 11:31:32",
+      "type": "文本消息",
+      "str_content": "因为我刚才正在清理网盘，太满了，存不进去[破涕为笑]",
+      "is_send": 0,
+      "sender_name": "顺心㏑",
+      "sender_wxid": "wxid_ikexk5pmcfvf12"
+    },
+    {
+      "create_time": 1688527897,
+      "formatted_time": "2023-07-05 11:31:37",
+      "type": "文本消息",
+      "str_content": "ztt_012:\n好滴",
+      "is_send": 0
+    },
+    {
+      "create_time": 1688527992,
+      "formatted_time": "2023-07-05 11:33:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "可爱的秋田犬",
+      "sender_wxid": "wxid_pwm84c103ifj22"
+    },
+    {
+      "create_time": 1688540450,
+      "formatted_time": "2023-07-05 15:00:50",
+      "type": "文本消息",
+      "str_content": "请问群里s尔的课是删了吗？我之前还保存了郭劲男的财管，刚刚想去更新一下发现没了",
+      "is_send": 0,
+      "sender_name": "未闻",
+      "sender_wxid": "wxid_0dn41aebfb5d22"
+    },
+    {
+      "create_time": 1688541886,
+      "formatted_time": "2023-07-05 15:24:46",
+      "type": "文本消息",
+      "str_content": "删除了，我网盘满了，不删的话东奥中华那些课程存不下了",
+      "is_send": 0,
+      "sender_name": "Alisa🍉",
+      "sender_wxid": "wxid_2962449625122"
+    },
+    {
+      "create_time": 1688546361,
+      "formatted_time": "2023-07-05 16:39:21",
+      "type": "文本消息",
+      "str_content": "谁有税务师电子版教材[惊讶]",
+      "is_send": 0,
+      "sender_name": "赫敏",
+      "sender_wxid": "wxid_mbma2m2c8dpq22"
+    },
+    {
+      "create_time": 1688547835,
+      "formatted_time": "2023-07-05 17:03:55",
+      "type": "文本消息",
+      "str_content": "请问下群里有小伙伴有东奥会计陆斐老师53讲之后的课程吗？现在实际上应该已经更新完了，但网盘上停留在53讲，可以付费，谢谢。",
+      "is_send": 0,
+      "sender_name": "J",
+      "sender_wxid": "wxid_9746787467712"
+    },
+    {
+      "create_time": 1688629963,
+      "formatted_time": "2023-07-06 15:52:43",
+      "type": "文本消息",
+      "str_content": "张敬富基础班的课网盘没有了",
+      "is_send": 0,
+      "sender_name": "WANG",
+      "sender_wxid": "wxid_1451994518512"
+    },
+    {
+      "create_time": 1688629969,
+      "formatted_time": "2023-07-06 15:52:49",
+      "type": "文本消息",
+      "str_content": "有没有朋友分享一下",
+      "is_send": 0,
+      "sender_name": "WANG",
+      "sender_wxid": "wxid_1451994518512"
+    },
+    {
+      "create_time": 1689407253,
+      "formatted_time": "2023-07-15 15:47:33",
+      "type": "文本消息",
+      "str_content": "请问大家，东奥财管闫华红的最新课程，谁有吗？有偿，谢谢。",
+      "is_send": 0,
+      "sender_name": "芃麦",
+      "sender_wxid": "wxid_4jfvdumo1c3l22"
+    },
+    {
+      "create_time": 1689407352,
+      "formatted_time": "2023-07-15 15:49:12",
+      "type": "小程序分享",
+      "str_content": "03-基础班-闫华红(112讲全）",
+      "is_send": 0,
+      "sender_name": "燃烧弹",
+      "sender_wxid": "wxid_6adh970ddpy022"
+    },
+    {
+      "create_time": 1689407544,
+      "formatted_time": "2023-07-15 15:52:24",
+      "type": "文本消息",
+      "str_content": "谢谢，基础班我有，主要想要后续更新的习题班和冲刺",
+      "is_send": 0,
+      "sender_name": "芃麦",
+      "sender_wxid": "wxid_4jfvdumo1c3l22"
+    },
+    {
+      "create_time": 1689582722,
+      "formatted_time": "2023-07-17 16:32:02",
+      "type": "图文消息",
+      "str_content": "周末漫展志愿！IDO动漫游戏嘉年华志愿者招募，200人，有时长证书！",
+      "is_send": 0,
+      "sender_name": "wxid_vnohn0ydbeqm22",
+      "sender_wxid": "wxid_vnohn0ydbeqm22"
+    },
+    {
+      "create_time": 1689755920,
+      "formatted_time": "2023-07-19 16:38:40",
+      "type": "文本消息",
+      "str_content": "求一个马兆瑞老师的串讲班",
+      "is_send": 0,
+      "sender_name": "与你",
+      "sender_wxid": "wxid_u0xxp8dhs9u322"
+    },
+    {
+      "create_time": 1689755924,
+      "formatted_time": "2023-07-19 16:38:44",
+      "type": "文本消息",
+      "str_content": "税法",
+      "is_send": 0,
+      "sender_name": "与你",
+      "sender_wxid": "wxid_u0xxp8dhs9u322"
+    },
+    {
+      "create_time": 1689828363,
+      "formatted_time": "2023-07-20 12:46:03",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CPA共享学习组2",
+      "sender_wxid": "17233996082@chatroom"
+    },
+    {
+      "create_time": 1690265994,
+      "formatted_time": "2023-07-25 14:19:54",
+      "type": "文本消息",
+      "str_content": "有朋友有闫华红基础班100讲以后的讲义吗，群里只有到101讲的",
+      "is_send": 0,
+      "sender_name": "serena j",
+      "sender_wxid": "wxid_sjc44r8yn79o21"
+    },
+    {
+      "create_time": 1690267298,
+      "formatted_time": "2023-07-25 14:41:38",
+      "type": "小程序分享",
+      "str_content": "讲义",
+      "is_send": 0,
+      "sender_name": "燃烧弹",
+      "sender_wxid": "wxid_6adh970ddpy022"
+    },
+    {
+      "create_time": 1690267835,
+      "formatted_time": "2023-07-25 14:50:35",
+      "type": "文本消息",
+      "str_content": "这个好像也只到101，还是谢谢你啦～",
+      "is_send": 0,
+      "sender_name": "serena j",
+      "sender_wxid": "wxid_sjc44r8yn79o21"
+    },
+    {
+      "create_time": 1690276336,
+      "formatted_time": "2023-07-25 17:12:16",
+      "type": "小程序分享",
+      "str_content": "群分享03-基础班-闫华红(112讲全）",
+      "is_send": 0,
+      "sender_name": "芃麦",
+      "sender_wxid": "wxid_4jfvdumo1c3l22"
+    },
+    {
+      "create_time": 1690537496,
+      "formatted_time": "2023-07-28 17:44:56",
+      "type": "文本消息",
+      "str_content": "求一个税法500题",
+      "is_send": 0,
+      "sender_name": "与你",
+      "sender_wxid": "wxid_u0xxp8dhs9u322"
+    },
+    {
+      "create_time": 1690864574,
+      "formatted_time": "2023-08-01 12:36:14",
+      "type": "文本消息",
+      "str_content": "ztt_012:\n有没有张敬富的习题班可以分享？谢谢",
+      "is_send": 0
+    },
+    {
+      "create_time": 1690871786,
+      "formatted_time": "2023-08-01 14:36:26",
+      "type": "文本消息",
+      "str_content": "麻烦大家想问一下问题",
+      "is_send": 0,
+      "sender_name": "木本马",
+      "sender_wxid": "wxid_4n3py4yjb1zd22"
+    },
+    {
+      "create_time": 1690871897,
+      "formatted_time": "2023-08-01 14:38:17",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1690871923,
+      "formatted_time": "2023-08-01 14:38:43",
+      "type": "文本消息",
+      "str_content": "现在有A/B/C三家公司，A和B是关联公司，现在C和A公司有业务往来，A公司打了一笔款项给C公司，然后C公司因为某种原因把钱退到了B公司账户张",
+      "is_send": 0,
+      "sender_name": "木本马",
+      "sender_wxid": "wxid_4n3py4yjb1zd22"
+    },
+    {
+      "create_time": 1690871934,
+      "formatted_time": "2023-08-01 14:38:54",
+      "type": "文本消息",
+      "str_content": "现在A公司和B公司怎么做账",
+      "is_send": 0,
+      "sender_name": "木本马",
+      "sender_wxid": "wxid_4n3py4yjb1zd22"
+    },
+    {
+      "create_time": 1690872819,
+      "formatted_time": "2023-08-01 14:53:39",
+      "type": "文本消息",
+      "str_content": "前面正常做，后面加一个其他应付其他应收吧",
+      "is_send": 0,
+      "sender_name": "未闻",
+      "sender_wxid": "wxid_0dn41aebfb5d22"
+    },
+    {
+      "create_time": 1691387095,
+      "formatted_time": "2023-08-07 13:44:55",
+      "type": "文本消息",
+      "str_content": "张敬富提高班和习题班有没有",
+      "is_send": 0,
+      "sender_name": "WANG",
+      "sender_wxid": "wxid_1451994518512"
+    },
+    {
+      "create_time": 1691387102,
+      "formatted_time": "2023-08-07 13:45:02",
+      "type": "文本消息",
+      "str_content": "广大的群友们",
+      "is_send": 0,
+      "sender_name": "WANG",
+      "sender_wxid": "wxid_1451994518512"
+    },
+    {
+      "create_time": 1691460850,
+      "formatted_time": "2023-08-08 10:14:10",
+      "type": "文本消息",
+      "str_content": "同求",
+      "is_send": 0,
+      "sender_name": "🌙",
+      "sender_wxid": "wxid_wu0uegghksk322"
+    },
+    {
+      "create_time": 1691553461,
+      "formatted_time": "2023-08-09 11:57:41",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "毛毯",
+      "sender_wxid": "wxid_yjnx8gm3uf3b22"
+    },
+    {
+      "create_time": 1691553464,
+      "formatted_time": "2023-08-09 11:57:44",
+      "type": "文本消息",
+      "str_content": "想找会计、审计兼职零活工作的，可以扫码进群，每天会有大量的财务、审计兼职零活发布。",
+      "is_send": 0,
+      "sender_name": "毛毯",
+      "sender_wxid": "wxid_yjnx8gm3uf3b22"
+    },
+    {
+      "create_time": 1691722751,
+      "formatted_time": "2023-08-11 10:59:11",
+      "type": "文本消息",
+      "str_content": "a32286049:\n群主，考前还会不会有更新呀",
+      "is_send": 0
+    },
+    {
+      "create_time": 1691722896,
+      "formatted_time": "2023-08-11 11:01:36",
+      "type": "文本消息",
+      "str_content": "a32286049:\n想求经济法 黄洁洵 完整的习题班和她的串讲班🙏",
+      "is_send": 0
+    },
+    {
+      "create_time": 1691725352,
+      "formatted_time": "2023-08-11 11:42:32",
+      "type": "文本消息",
+      "str_content": "税法轻四谁有电子版呀可小偿",
+      "is_send": 0,
+      "sender_name": "与你",
+      "sender_wxid": "wxid_u0xxp8dhs9u322"
+    },
+    {
+      "create_time": 1691726215,
+      "formatted_time": "2023-08-11 11:56:55",
+      "type": "小程序分享",
+      "str_content": "2023注会 轻四 税法（最后六套题）.pdf",
+      "is_send": 0,
+      "sender_name": "燃烧弹",
+      "sender_wxid": "wxid_6adh970ddpy022"
+    },
+    {
+      "create_time": 1691727027,
+      "formatted_time": "2023-08-11 12:10:27",
+      "type": "文本消息",
+      "str_content": "感恩",
+      "is_send": 0,
+      "sender_name": "与你",
+      "sender_wxid": "wxid_u0xxp8dhs9u322"
+    },
+    {
+      "create_time": 1691908993,
+      "formatted_time": "2023-08-13 14:43:13",
+      "type": "文本消息",
+      "str_content": "请问有王颖的习题班网课分享嘛",
+      "is_send": 0,
+      "sender_name": "-2aoO",
+      "sender_wxid": "wxid_cggqu1wj7i5g22"
+    },
+    {
+      "create_time": 1692493056,
+      "formatted_time": "2023-08-20 08:57:36",
+      "type": "文本消息",
+      "str_content": "有人可以分享一下2022年的真题不[可怜]",
+      "is_send": 0,
+      "sender_name": "^O^",
+      "sender_wxid": "wxid_loyvtc5slqlf22"
+    },
+    {
+      "create_time": 1692581053,
+      "formatted_time": "2023-08-21 09:24:13",
+      "type": "文本消息",
+      "str_content": "请问大家谁有闫华红财管临考点押班的讲义吗？",
+      "is_send": 0,
+      "sender_name": "芃麦",
+      "sender_wxid": "wxid_4jfvdumo1c3l22"
+    },
+    {
+      "create_time": 1693277839,
+      "formatted_time": "2023-08-29 10:57:19",
+      "type": "文本消息",
+      "str_content": "谁有税务师 涉税实务的课 可以分享下吗",
+      "is_send": 0,
+      "sender_name": "与你",
+      "sender_wxid": "wxid_u0xxp8dhs9u322"
+    },
+    {
+      "create_time": 1695300253,
+      "formatted_time": "2023-09-21 20:44:13",
+      "type": "文本消息",
+      "str_content": "有没有小伙伴有金鑫松老师2023年的审计课程呀",
+      "is_send": 0,
+      "sender_name": "蒋蒋",
+      "sender_wxid": "wxid_xsy2mrwaisls22"
+    },
+    {
+      "create_time": 1704762567,
+      "formatted_time": "2024-01-09 09:09:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CPA共享学习组2",
+      "sender_wxid": "17233996082@chatroom"
+    },
+    {
+      "create_time": 1704762567,
+      "formatted_time": "2024-01-09 09:09:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1708942810,
+      "formatted_time": "2024-02-26 18:20:10",
+      "type": "文本消息",
+      "str_content": "注会东奥的课现在还有吗",
+      "is_send": 0,
+      "sender_name": "与你",
+      "sender_wxid": "wxid_u0xxp8dhs9u322"
+    },
+    {
+      "create_time": 1714377249,
+      "formatted_time": "2024-04-29 15:54:09",
+      "type": "文本消息",
+      "str_content": "之前的几个百度云群号606409637，218849933，563653435，6744228931，5414396080。绝大部分人都在群里了，不用重复添加",
+      "is_send": 0,
+      "sender_name": "顺心㏑",
+      "sender_wxid": "wxid_ikexk5pmcfvf12"
+    },
+    {
+      "create_time": 1714377249,
+      "formatted_time": "2024-04-29 15:54:09",
+      "type": "文本消息",
+      "str_content": "今年CPA课程我买了，但是买的那个不太好，更新很慢，所以一直没给大家分享，我一会发到百度云群里，大家有需要的可以去看看",
+      "is_send": 0,
+      "sender_name": "顺心㏑",
+      "sender_wxid": "wxid_ikexk5pmcfvf12"
+    },
+    {
+      "create_time": 1714379802,
+      "formatted_time": "2024-04-29 16:36:42",
+      "type": "文本消息",
+      "str_content": "谢谢",
+      "is_send": 0,
+      "sender_name": "Z.r",
+      "sender_wxid": "wxid_chpiiks36rxr21"
+    },
+    {
+      "create_time": 1714380542,
+      "formatted_time": "2024-04-29 16:49:02",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "🌸  柔嘉💓",
+      "sender_wxid": "wxid_a2giv8vg2fbz21"
+    },
+    {
+      "create_time": 1715147515,
+      "formatted_time": "2024-05-08 13:51:55",
+      "type": "文本消息",
+      "str_content": "有宝宝分享23年的注会资料吗，谢谢啦[可怜]",
+      "is_send": 0,
+      "sender_name": "^O^",
+      "sender_wxid": "wxid_loyvtc5slqlf22"
+    },
+    {
+      "create_time": 1721386623,
+      "formatted_time": "2024-07-19 18:57:03",
+      "type": "图文消息",
+      "str_content": "2024年CPA六科必考《重难点》.pdf",
+      "is_send": 0,
+      "sender_name": "X.张可新",
+      "sender_wxid": "wxid_4urc22waapz921"
+    },
+    {
+      "create_time": 1721386633,
+      "formatted_time": "2024-07-19 18:57:13",
+      "type": "文本消息",
+      "str_content": "我正在免费领CPA六科考前《重难点》，60页覆盖了99%高频考点，推荐给大家~",
+      "is_send": 0,
+      "sender_name": "X.张可新",
+      "sender_wxid": "wxid_4urc22waapz921"
+    },
+    {
+      "create_time": 1721529392,
+      "formatted_time": "2024-07-21 10:36:32",
+      "type": "图文消息",
+      "str_content": "2024年CPA六科必考《重难点》.pdf",
+      "is_send": 0,
+      "sender_name": "兔老板",
+      "sender_wxid": "wxid_7u2eveqv5o2522"
+    },
+    {
+      "create_time": 1721529392,
+      "formatted_time": "2024-07-21 10:36:32",
+      "type": "文本消息",
+      "str_content": "我正在免费领CPA六科考前《重难点》，60页覆盖了99%高频考点，推荐给大家~",
+      "is_send": 0,
+      "sender_name": "兔老板",
+      "sender_wxid": "wxid_7u2eveqv5o2522"
+    },
+    {
+      "create_time": 1722329068,
+      "formatted_time": "2024-07-30 16:44:28",
+      "type": "文本消息",
+      "str_content": "有哪位宝子可以分享一下24马兆瑞老师的经济法串讲吗[可怜]",
+      "is_send": 0,
+      "sender_name": "^O^",
+      "sender_wxid": "wxid_loyvtc5slqlf22"
+    },
+    {
+      "create_time": 1722773380,
+      "formatted_time": "2024-08-04 20:09:40",
+      "type": "文本消息",
+      "str_content": "有朋友有张敬富会计152—162的网课吗",
+      "is_send": 0,
+      "sender_name": "我来自布列斯特",
+      "sender_wxid": "wxid_2909799097212"
+    },
+    {
+      "create_time": 1723081716,
+      "formatted_time": "2024-08-08 09:48:36",
+      "type": "文本消息",
+      "str_content": "请问有中级会计实务斯尔刘忠老师的网课吗？求分享🙏🏻",
+      "is_send": 0,
+      "sender_name": "超",
+      "sender_wxid": "wxid_j9uzagn15qq222"
+    },
+    {
+      "create_time": 1723203514,
+      "formatted_time": "2024-08-09 19:38:34",
+      "type": "文本消息",
+      "str_content": "我正在免费领取《CPA押题卷》，考前必做3套卷，推荐给大家，今年CPA必过~~",
+      "is_send": 0,
+      "sender_name": "果粒多",
+      "sender_wxid": "wxid_6cmyad67d1v622"
+    },
+    {
+      "create_time": 1723203520,
+      "formatted_time": "2024-08-09 19:38:40",
+      "type": "图文消息",
+      "str_content": "2024年CPA《押题密卷》6科18套.pdf",
+      "is_send": 0,
+      "sender_name": "果粒多",
+      "sender_wxid": "wxid_6cmyad67d1v622"
+    },
+    {
+      "create_time": 1723609596,
+      "formatted_time": "2024-08-14 12:26:36",
+      "type": "图文消息",
+      "str_content": "最后10天，CPA这样背最快！6科《考前必背手册》+《考前必查清单》送你们~",
+      "is_send": 0,
+      "sender_name": "果粒多",
+      "sender_wxid": "wxid_6cmyad67d1v622"
+    },
+    {
+      "create_time": 1723610697,
+      "formatted_time": "2024-08-14 12:44:57",
+      "type": "文本消息",
+      "str_content": "我正在免费领取24年CPA《必背手册+必查清单》6科电子资料，复习非常好用，推荐给大家，今年CPA必过~",
+      "is_send": 0,
+      "sender_name": "果粒多",
+      "sender_wxid": "wxid_6cmyad67d1v622"
+    },
+    {
+      "create_time": 1723610705,
+      "formatted_time": "2024-08-14 12:45:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "果粒多",
+      "sender_wxid": "wxid_6cmyad67d1v622"
+    },
+    {
+      "create_time": 1723681558,
+      "formatted_time": "2024-08-15 08:25:58",
+      "type": "文本消息",
+      "str_content": "有哪位宝子可以分享一下24进凌紫琦老师的审计习题班吗[可怜]",
+      "is_send": 0,
+      "sender_name": "^O^",
+      "sender_wxid": "wxid_loyvtc5slqlf22"
+    },
+    {
+      "create_time": 1754395133,
+      "formatted_time": "2025-08-05 19:58:53",
+      "type": "文本消息",
+      "str_content": "25年的视频有么",
+      "is_send": 0,
+      "sender_name": "🌸  柔嘉💓",
+      "sender_wxid": "wxid_a2giv8vg2fbz21"
+    },
+    {
+      "create_time": 1754395137,
+      "formatted_time": "2025-08-05 19:58:57",
+      "type": "文本消息",
+      "str_content": "亲们",
+      "is_send": 0,
+      "sender_name": "🌸  柔嘉💓",
+      "sender_wxid": "wxid_a2giv8vg2fbz21"
+    },
+    {
+      "create_time": 1754639618,
+      "formatted_time": "2025-08-08 15:53:38",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "李志鹏",
+      "sender_wxid": "wxid_5009460095622"
+    },
+    {
+      "create_time": 1754639619,
+      "formatted_time": "2025-08-08 15:53:39",
+      "type": "文本消息",
+      "str_content": "支付宝放水了，扫码领碰一碰🧧\n\n人人基本3➕以上🧧，礼拜五翻倍\n楼下小卖部 水果店 零食店\n付款的时候 碰一下手机即可\n打开手机NFC 不用的时候关闭",
+      "is_send": 0,
+      "sender_name": "李志鹏",
+      "sender_wxid": "wxid_5009460095622"
+    },
+    {
+      "create_time": 1754639619,
+      "formatted_time": "2025-08-08 15:53:39",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "李志鹏",
+      "sender_wxid": "wxid_5009460095622"
+    },
+    {
+      "create_time": 1755343045,
+      "formatted_time": "2025-08-16 19:17:25",
+      "type": "图文消息",
+      "str_content": "25年CPA冲刺精华资料合集（含重难点+押题卷），直接下载>>>",
+      "is_send": 0,
+      "sender_name": "我来自布列斯特",
+      "sender_wxid": "wxid_2909799097212"
+    },
+    {
+      "create_time": 1765629401,
+      "formatted_time": "2025-12-13 20:36:41",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "ᑋᵉᑊᑊᵒ",
+      "sender_wxid": "wxid_wlr9cmvxcfju22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:44+08:00",
+  "message_count": 227
+}

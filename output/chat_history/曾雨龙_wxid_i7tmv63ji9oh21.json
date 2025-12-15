@@ -1,0 +1,64 @@
+{
+  "session_id": "wxid_i7tmv63ji9oh21",
+  "session_name": "曾雨龙",
+  "messages": [
+    {
+      "create_time": 1750160969,
+      "formatted_time": "2025-06-17 19:49:29",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "曾雨龙"
+    },
+    {
+      "create_time": 1750161409,
+      "formatted_time": "2025-06-17 19:56:49",
+      "type": "文本消息",
+      "str_content": "五月天 倔强",
+      "is_send": 0,
+      "sender_name": "曾雨龙"
+    },
+    {
+      "create_time": 1750162230,
+      "formatted_time": "2025-06-17 20:10:30",
+      "type": "卡片式链接",
+      "str_content": "歌词排版 |《倔强》第一次尝试歌词排版",
+      "is_send": 0,
+      "sender_name": "曾雨龙"
+    },
+    {
+      "create_time": 1755771094,
+      "formatted_time": "2025-08-21 18:11:34",
+      "type": "文本消息",
+      "str_content": "徐昂 你是不是经济统计学2101班的班长呀",
+      "is_send": 0,
+      "sender_name": "曾雨龙"
+    },
+    {
+      "create_time": 1755792371,
+      "formatted_time": "2025-08-22 00:06:11",
+      "type": "文本消息",
+      "str_content": "嗯嗯对的曾导",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755841157,
+      "formatted_time": "2025-08-22 13:39:17",
+      "type": "文本消息",
+      "str_content": "你们班是胡继伟班吗？",
+      "is_send": 0,
+      "sender_name": "曾雨龙"
+    },
+    {
+      "create_time": 1755841323,
+      "formatted_time": "2025-08-22 13:42:03",
+      "type": "文本消息",
+      "str_content": "不是的，我们这一届是经创是胡吉伟班",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:25+08:00",
+  "message_count": 7
+}

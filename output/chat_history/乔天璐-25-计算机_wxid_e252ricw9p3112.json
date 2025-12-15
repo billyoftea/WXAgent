@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_e252ricw9p3112",
+  "session_name": "乔天璐-25-计算机",
+  "messages": [
+    {
+      "create_time": 1757758789,
+      "formatted_time": "2025-09-13 18:19:49",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "乔天璐-25-计算机"
+    },
+    {
+      "create_time": 1757758790,
+      "formatted_time": "2025-09-13 18:19:50",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "乔天璐-25-计算机"
+    },
+    {
+      "create_time": 1757758804,
+      "formatted_time": "2025-09-13 18:20:04",
+      "type": "文本消息",
+      "str_content": "25信工乔天璐",
+      "is_send": 0,
+      "sender_name": "乔天璐-25-计算机"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:22+08:00",
+  "message_count": 3
+}

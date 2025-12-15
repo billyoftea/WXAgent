@@ -1,0 +1,72 @@
+{
+  "session_id": "ljq135201314",
+  "session_name": "刘家琪 Jocky",
+  "messages": [
+    {
+      "create_time": 1760168574,
+      "formatted_time": "2025-10-11 15:42:54",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "刘家琪 Jocky"
+    },
+    {
+      "create_time": 1760168574,
+      "formatted_time": "2025-10-11 15:42:54",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "刘家琪 Jocky"
+    },
+    {
+      "create_time": 1760168841,
+      "formatted_time": "2025-10-11 15:47:21",
+      "type": "文本消息",
+      "str_content": "师兄好！！我是汇丰25级数量与金融科技专业的徐昂，刚在cap通讯录里看到了师兄丰富的过往经历，非常希望可以和师兄进一步交流学习~！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1760170300,
+      "formatted_time": "2025-10-11 16:11:40",
+      "type": "文本消息",
+      "str_content": "哈喽徐师弟你好~我是24MBA的刘家琪，很高兴认识你啊，以后多多交流，有空约饭[机智]",
+      "is_send": 0,
+      "sender_name": "刘家琪 Jocky"
+    },
+    {
+      "create_time": 1760170445,
+      "formatted_time": "2025-10-11 16:14:05",
+      "type": "文本消息",
+      "str_content": "嘿嘿好耶好耶！感觉师兄羽毛球好厉害，我最近也在努力入门羽毛球[呲牙]向师兄学习！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1760171522,
+      "formatted_time": "2025-10-11 16:32:02",
+      "type": "文本消息",
+      "str_content": "哈哈 我也是从菜鸟练过来的[吃瓜]",
+      "is_send": 0,
+      "sender_name": "刘家琪 Jocky"
+    },
+    {
+      "create_time": 1760171524,
+      "formatted_time": "2025-10-11 16:32:04",
+      "type": "文本消息",
+      "str_content": "一起进步",
+      "is_send": 0,
+      "sender_name": "刘家琪 Jocky"
+    },
+    {
+      "create_time": 1760171955,
+      "formatted_time": "2025-10-11 16:39:15",
+      "type": "文本消息",
+      "str_content": "嗯嗯！[加油]",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:25+08:00",
+  "message_count": 8
+}

@@ -122,9 +122,17 @@ type SessionStat struct {
 }
 
 func (b *Builder) Build(startDate, endDate string, incremental bool, allowedSessions []string) (*BuildResult, error) {
-	files, err := filepath.Glob(filepath.Join(b.exportDir, "*.json"))
+	// 优先查找 exportDir/chat_history/*.json，向后兼容地回退到 exportDir/*.json
+	files, err := filepath.Glob(filepath.Join(b.exportDir, "chat_history", "*.json"))
 	if err != nil {
-		return nil, fmt.Errorf("glob export dir: %w", err)
+		return nil, fmt.Errorf("glob export dir (chat_history): %w", err)
+	}
+	if len(files) == 0 {
+		rootFiles, err2 := filepath.Glob(filepath.Join(b.exportDir, "*.json"))
+		if err2 != nil {
+			return nil, fmt.Errorf("glob export dir: %w", err2)
+		}
+		files = rootFiles
 	}
 
 	startTs, endTs := parseDateRange(startDate, endDate)
@@ -320,9 +328,17 @@ func formatMessage(msg Message) string {
 
 // ListSessionsMetadata returns basic info about all exported sessions
 func (b *Builder) ListSessionsMetadata() ([]map[string]any, error) {
-	files, err := filepath.Glob(filepath.Join(b.exportDir, "*.json"))
+	// 优先查找 exportDir/chat_history/*.json，向后兼容地回退到 exportDir/*.json
+	files, err := filepath.Glob(filepath.Join(b.exportDir, "chat_history", "*.json"))
 	if err != nil {
 		return nil, err
+	}
+	if len(files) == 0 {
+		rootFiles, err2 := filepath.Glob(filepath.Join(b.exportDir, "*.json"))
+		if err2 != nil {
+			return nil, err2
+		}
+		files = rootFiles
 	}
 
 	results := []map[string]any{}

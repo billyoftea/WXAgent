@@ -1,0 +1,88 @@
+{
+  "session_id": "wxid_2uzzr0lwrmxe22",
+  "session_name": "伊克浩",
+  "messages": [
+    {
+      "create_time": 1692948826,
+      "formatted_time": "2023-08-25 15:33:46",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "伊克浩"
+    },
+    {
+      "create_time": 1694948115,
+      "formatted_time": "2023-09-17 18:55:15",
+      "type": "文本消息",
+      "str_content": "哈喽，可以看看你们学生会的简介嘛，就是包含规章制度的那种[嘿哈][嘿哈]",
+      "is_send": 0,
+      "sender_name": "伊克浩"
+    },
+    {
+      "create_time": 1694948132,
+      "formatted_time": "2023-09-17 18:55:32",
+      "type": "文本消息",
+      "str_content": "因为生涯规划刚成立，还没有这种东西[捂脸]",
+      "is_send": 0,
+      "sender_name": "伊克浩"
+    },
+    {
+      "create_time": 1694960687,
+      "formatted_time": "2023-09-17 22:24:47",
+      "type": "文本消息",
+      "str_content": "emm包含规章制度的我这边也没有的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694960694,
+      "formatted_time": "2023-09-17 22:24:54",
+      "type": "文本消息",
+      "str_content": "我再看看",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694960733,
+      "formatted_time": "2023-09-17 22:25:33",
+      "type": "文件消息",
+      "str_content": "团委学生会介绍.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694960738,
+      "formatted_time": "2023-09-17 22:25:38",
+      "type": "文本消息",
+      "str_content": "我只有这种",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694960764,
+      "formatted_time": "2023-09-17 22:26:04",
+      "type": "文本消息",
+      "str_content": "或许你可以问下李鸿鹏 他是院团书记",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694964753,
+      "formatted_time": "2023-09-17 23:32:33",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞～",
+      "is_send": 0,
+      "sender_name": "伊克浩"
+    },
+    {
+      "create_time": 1694964763,
+      "formatted_time": "2023-09-17 23:32:43",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "伊克浩"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:36+08:00",
+  "message_count": 10
+}

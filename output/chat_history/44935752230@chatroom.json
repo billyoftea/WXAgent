@@ -1,0 +1,78 @@
+{
+  "session_id": "44935752230@chatroom",
+  "session_name": "44935752230@chatroom",
+  "messages": [
+    {
+      "create_time": 1765622085,
+      "formatted_time": "2025-12-13 18:34:45",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765622085,
+      "formatted_time": "2025-12-13 18:34:45",
+      "type": "文本消息",
+      "str_content": "分钱[呲牙]",
+      "is_send": 0,
+      "sender_name": "25经济赵婧彤",
+      "sender_wxid": "wxid_2pq2bqo5ffil12"
+    },
+    {
+      "create_time": 1765633738,
+      "formatted_time": "2025-12-13 21:48:58",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "高紫涵-西南财经大学-数量与金科",
+      "sender_wxid": "wxid_50j4nax39ft711"
+    },
+    {
+      "create_time": 1765633742,
+      "formatted_time": "2025-12-13 21:49:02",
+      "type": "文本消息",
+      "str_content": "回来的",
+      "is_send": 0,
+      "sender_name": "高紫涵-西南财经大学-数量与金科",
+      "sender_wxid": "wxid_50j4nax39ft711"
+    },
+    {
+      "create_time": 1765633769,
+      "formatted_time": "2025-12-13 21:49:29",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "is_send": 0,
+      "sender_name": "高紫涵-西南财经大学-数量与金科",
+      "sender_wxid": "wxid_50j4nax39ft711"
+    },
+    {
+      "create_time": 1765633924,
+      "formatted_time": "2025-12-13 21:52:04",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "田唯佑",
+      "sender_wxid": "wxid_4yxr3pemzv7i22"
+    },
+    {
+      "create_time": 1765633930,
+      "formatted_time": "2025-12-13 21:52:10",
+      "type": "文本消息",
+      "str_content": "我这边是22.5",
+      "is_send": 0,
+      "sender_name": "田唯佑",
+      "sender_wxid": "wxid_4yxr3pemzv7i22"
+    },
+    {
+      "create_time": 1765633954,
+      "formatted_time": "2025-12-13 21:52:34",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "is_send": 0,
+      "sender_name": "田唯佑",
+      "sender_wxid": "wxid_4yxr3pemzv7i22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:18+08:00",
+  "message_count": 8
+}

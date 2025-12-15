@@ -1,0 +1,726 @@
+{
+  "session_id": "47431924529@chatroom",
+  "session_name": "CAP-AI赛道知识手册",
+  "messages": [
+    {
+      "create_time": 1760920153,
+      "formatted_time": "2025-10-20 08:29:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP-AI赛道知识手册",
+      "sender_wxid": "47431924529@chatroom"
+    },
+    {
+      "create_time": 1760920153,
+      "formatted_time": "2025-10-20 08:29:13",
+      "type": "文本消息",
+      "str_content": "jrm 先建个AI行业知识库的小组群哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1760920204,
+      "formatted_time": "2025-10-20 08:30:04",
+      "type": "文本消息",
+      "str_content": "昨天楚楚姐说大概咱们内培啥的可以差不多开始 so我想着要不找个大家有空的时间聊聊撰写大纲和分工啥的",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1760920221,
+      "formatted_time": "2025-10-20 08:30:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1760920496,
+      "formatted_time": "2025-10-20 08:34:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP-AI赛道知识手册",
+      "sender_wxid": "47431924529@chatroom"
+    },
+    {
+      "create_time": 1760922443,
+      "formatted_time": "2025-10-20 09:07:23",
+      "type": "文本消息",
+      "str_content": "可以可以，我今天晚上之后可以",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1760922455,
+      "formatted_time": "2025-10-20 09:07:35",
+      "type": "文本消息",
+      "str_content": "这个 ai 赛道是我们从零开始写吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1760922464,
+      "formatted_time": "2025-10-20 09:07:44",
+      "type": "文本消息",
+      "str_content": "我也都可以",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1760922468,
+      "formatted_time": "2025-10-20 09:07:48",
+      "type": "文本消息",
+      "str_content": "我想问我们有参考吗",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1760922472,
+      "formatted_time": "2025-10-20 09:07:52",
+      "type": "文本消息",
+      "str_content": "比如去年的知识手册",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1760922473,
+      "formatted_time": "2025-10-20 09:07:53",
+      "type": "文本消息",
+      "str_content": "（貌似没有",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1760922475,
+      "formatted_time": "2025-10-20 09:07:55",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1760922484,
+      "formatted_time": "2025-10-20 09:08:04",
+      "type": "文本消息",
+      "str_content": "在管咨的公众号找不到",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1760922486,
+      "formatted_time": "2025-10-20 09:08:06",
+      "type": "文本消息",
+      "str_content": "好好好",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1760922527,
+      "formatted_time": "2025-10-20 09:08:47",
+      "type": "文本消息",
+      "str_content": "我五点之后下课都可以！",
+      "is_send": 0,
+      "sender_name": "25-财新-张婉玉",
+      "sender_wxid": "wxid_qu2ysg6qp7do22"
+    },
+    {
+      "create_time": 1760922545,
+      "formatted_time": "2025-10-20 09:09:05",
+      "type": "文本消息",
+      "str_content": "我看当时楚楚姐发的那个选各种内培类型的飞书里面",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1760922556,
+      "formatted_time": "2025-10-20 09:09:16",
+      "type": "文本消息",
+      "str_content": "只有那些mkt sizing这种",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1760922560,
+      "formatted_time": "2025-10-20 09:09:20",
+      "type": "文本消息",
+      "str_content": "有往年的参考",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1760922599,
+      "formatted_time": "2025-10-20 09:09:59",
+      "type": "文本消息",
+      "str_content": "我晚上可能不太行诶哈哈哈哈哈哈 大家周三到周五的晚上目前有约嘛",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1760922607,
+      "formatted_time": "2025-10-20 09:10:07",
+      "type": "文本消息",
+      "str_content": "目前没有",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1760922638,
+      "formatted_time": "2025-10-20 09:10:38",
+      "type": "文本消息",
+      "str_content": "我也目前没有",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1760922665,
+      "formatted_time": "2025-10-20 09:11:05",
+      "type": "文本消息",
+      "str_content": "我周三有深港的内培，其他🈚️",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1760922680,
+      "formatted_time": "2025-10-20 09:11:20",
+      "type": "文本消息",
+      "str_content": "我目前也没有",
+      "is_send": 0,
+      "sender_name": "25-财新-张婉玉",
+      "sender_wxid": "wxid_qu2ysg6qp7do22"
+    },
+    {
+      "create_time": 1760922695,
+      "formatted_time": "2025-10-20 09:11:35",
+      "type": "文本消息",
+      "str_content": "okk 那我们先约一个周四晚上？",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1760922735,
+      "formatted_time": "2025-10-20 09:12:15",
+      "type": "文本消息",
+      "str_content": "就在汇丰讨论区随便找个座位哈哈哈",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1760922752,
+      "formatted_time": "2025-10-20 09:12:32",
+      "type": "文本消息",
+      "str_content": "好滴",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1760922758,
+      "formatted_time": "2025-10-20 09:12:38",
+      "type": "文本消息",
+      "str_content": "嗯嗯！",
+      "is_send": 0,
+      "sender_name": "25-财新-张婉玉",
+      "sender_wxid": "wxid_qu2ysg6qp7do22"
+    },
+    {
+      "create_time": 1760922810,
+      "formatted_time": "2025-10-20 09:13:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1760922824,
+      "formatted_time": "2025-10-20 09:13:44",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1761182846,
+      "formatted_time": "2025-10-23 09:27:26",
+      "type": "文本消息",
+      "str_content": "jrm晚上七点ok嘛 在汇丰",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761182856,
+      "formatted_time": "2025-10-23 09:27:36",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1761182869,
+      "formatted_time": "2025-10-23 09:27:49",
+      "type": "文本消息",
+      "str_content": "ok没问题",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1761186753,
+      "formatted_time": "2025-10-23 10:32:33",
+      "type": "引用消息",
+      "str_content": "诶我突然想起来今天晚上我有网球公选，可以延后半小时嘛，七点半碰一下？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1761186760,
+      "formatted_time": "2025-10-23 10:32:40",
+      "type": "文本消息",
+      "str_content": "可以可以",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761198785,
+      "formatted_time": "2025-10-23 13:53:05",
+      "type": "文本消息",
+      "str_content": "https://jkhbjkhb.feishu.cn/wiki/W5D7wuDcbiPXDLkaRLQcAJpOn8f?fromScene=spaceOverview",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761198803,
+      "formatted_time": "2025-10-23 13:53:23",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761198808,
+      "formatted_time": "2025-10-23 13:53:28",
+      "type": "文本消息",
+      "str_content": "有一些报告方便我们copy哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761198857,
+      "formatted_time": "2025-10-23 13:54:17",
+      "type": "文件消息",
+      "str_content": "2025中国AIGC应用全景图谱报告【量子位智库】.pdf",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761198925,
+      "formatted_time": "2025-10-23 13:55:25",
+      "type": "文本消息",
+      "str_content": "like this",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761205217,
+      "formatted_time": "2025-10-23 15:40:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25-财新-张婉玉",
+      "sender_wxid": "wxid_qu2ysg6qp7do22"
+    },
+    {
+      "create_time": 1761216619,
+      "formatted_time": "2025-10-23 18:50:19",
+      "type": "文本消息",
+      "str_content": "家人们我在校外现在赶回去 感觉时间有点长 可能迟到十分钟七点四十可以嘛 你们先开始！",
+      "is_send": 0,
+      "sender_name": "25-财新-张婉玉",
+      "sender_wxid": "wxid_qu2ysg6qp7do22"
+    },
+    {
+      "create_time": 1761216627,
+      "formatted_time": "2025-10-23 18:50:27",
+      "type": "文本消息",
+      "str_content": "嗯嗯可以可以",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761217272,
+      "formatted_time": "2025-10-23 19:01:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25-财新-张婉玉",
+      "sender_wxid": "wxid_qu2ysg6qp7do22"
+    },
+    {
+      "create_time": 1761218596,
+      "formatted_time": "2025-10-23 19:23:16",
+      "type": "文本消息",
+      "str_content": "老师们我在马车轮后面的这个桌子这",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761218602,
+      "formatted_time": "2025-10-23 19:23:22",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761219086,
+      "formatted_time": "2025-10-23 19:31:26",
+      "type": "文本消息",
+      "str_content": "https://ccnzckmi7me4.feishu.cn/wiki/P6yhw2UkKiPYROkKEafcAYWsnQg",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761220138,
+      "formatted_time": "2025-10-23 19:48:58",
+      "type": "文件消息",
+      "str_content": "2025上半年AI核心成果及趋势报告.pdf",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761220157,
+      "formatted_time": "2025-10-23 19:49:17",
+      "type": "文件消息",
+      "str_content": "AI Coding玩家图谱【量子位智库】.pdf",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761220508,
+      "formatted_time": "2025-10-23 19:55:08",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP-AI赛道知识手册",
+      "sender_wxid": "47431924529@chatroom"
+    },
+    {
+      "create_time": 1761221067,
+      "formatted_time": "2025-10-23 20:04:27",
+      "type": "文本消息",
+      "str_content": "在这里[坏笑]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761221075,
+      "formatted_time": "2025-10-23 20:04:35",
+      "type": "文本消息",
+      "str_content": "[色][色][色]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1761221081,
+      "formatted_time": "2025-10-23 20:04:41",
+      "type": "文本消息",
+      "str_content": "新人进群发红包",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1761221114,
+      "formatted_time": "2025-10-23 20:05:14",
+      "type": "文本消息",
+      "str_content": "？",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1761221125,
+      "formatted_time": "2025-10-23 20:05:25",
+      "type": "文本消息",
+      "str_content": "🧧",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1761221129,
+      "formatted_time": "2025-10-23 20:05:29",
+      "type": "文本消息",
+      "str_content": "大家抢红包吧",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1761880112,
+      "formatted_time": "2025-10-31 11:08:32",
+      "type": "文本消息",
+      "str_content": "老师们别忘了写我们的知识册哇",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761880126,
+      "formatted_time": "2025-10-31 11:08:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761881318,
+      "formatted_time": "2025-10-31 11:28:38",
+      "type": "文本消息",
+      "str_content": "好的好的不会忘的！下周一有一门课要提交三个大作业最近在赶ddl所以有一点点忙，周末就写知识册",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1761881325,
+      "formatted_time": "2025-10-31 11:28:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1761881344,
+      "formatted_time": "2025-10-31 11:29:04",
+      "type": "文本消息",
+      "str_content": "感同身受",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1761881349,
+      "formatted_time": "2025-10-31 11:29:09",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1761881386,
+      "formatted_time": "2025-10-31 11:29:46",
+      "type": "文本消息",
+      "str_content": "辛苦大家啦哈哈哈哈哈哈哈哈哈决战期末周",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761881412,
+      "formatted_time": "2025-10-31 11:30:12",
+      "type": "文本消息",
+      "str_content": "和期末周拼了",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1761881434,
+      "formatted_time": "2025-10-31 11:30:34",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1761881484,
+      "formatted_time": "2025-10-31 11:31:24",
+      "type": "文本消息",
+      "str_content": "辛苦了米娜桑[流泪]咱们这个知识册的时间在下周任一时间发出就可以！下周末发可以的！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1761881603,
+      "formatted_time": "2025-10-31 11:33:23",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1761881848,
+      "formatted_time": "2025-10-31 11:37:28",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25-财新-张婉玉",
+      "sender_wxid": "wxid_qu2ysg6qp7do22"
+    },
+    {
+      "create_time": 1761883422,
+      "formatted_time": "2025-10-31 12:03:42",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1761883526,
+      "formatted_time": "2025-10-31 12:05:26",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1762348047,
+      "formatted_time": "2025-11-05 21:07:27",
+      "type": "文本消息",
+      "str_content": "老师们 这个部分标题格式好像是H2和H4 换成H3呗！！",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1762348047,
+      "formatted_time": "2025-11-05 21:07:27",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1762348052,
+      "formatted_time": "2025-11-05 21:07:32",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1762348116,
+      "formatted_time": "2025-11-05 21:08:36",
+      "type": "文本消息",
+      "str_content": "好滴",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1762348144,
+      "formatted_time": "2025-11-05 21:09:04",
+      "type": "文本消息",
+      "str_content": "好~sry没注意hhh",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1762348298,
+      "formatted_time": "2025-11-05 21:11:38",
+      "type": "文本消息",
+      "str_content": "没事没事大家写的好快哈哈哈",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1762348305,
+      "formatted_time": "2025-11-05 21:11:45",
+      "type": "文本消息",
+      "str_content": "又快又详细",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1762348351,
+      "formatted_time": "2025-11-05 21:12:31",
+      "type": "文本消息",
+      "str_content": "其实有些东西也是现查现搬的",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1762348355,
+      "formatted_time": "2025-11-05 21:12:35",
+      "type": "文本消息",
+      "str_content": "学到了学到了",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1762348360,
+      "formatted_time": "2025-11-05 21:12:40",
+      "type": "文本消息",
+      "str_content": "不白做不白做",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1762348363,
+      "formatted_time": "2025-11-05 21:12:43",
+      "type": "文本消息",
+      "str_content": "学到了学到了",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1762348377,
+      "formatted_time": "2025-11-05 21:12:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:22+08:00",
+  "message_count": 81
+}

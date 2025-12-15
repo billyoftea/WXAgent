@@ -1,0 +1,64 @@
+{
+  "session_id": "wxid_keloidcmi0a022",
+  "session_name": "胡世满",
+  "messages": [
+    {
+      "create_time": 1654249246,
+      "formatted_time": "2022-06-03 17:40:46",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "胡世满"
+    },
+    {
+      "create_time": 1654249286,
+      "formatted_time": "2022-06-03 17:41:26",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1654249292,
+      "formatted_time": "2022-06-03 17:41:32",
+      "type": "文本消息",
+      "str_content": "徐昂",
+      "is_send": 0,
+      "sender_name": "胡世满"
+    },
+    {
+      "create_time": 1654249293,
+      "formatted_time": "2022-06-03 17:41:33",
+      "type": "文本消息",
+      "str_content": "？",
+      "is_send": 0,
+      "sender_name": "胡世满"
+    },
+    {
+      "create_time": 1654249298,
+      "formatted_time": "2022-06-03 17:41:38",
+      "type": "文本消息",
+      "str_content": "yep",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1654249306,
+      "formatted_time": "2022-06-03 17:41:46",
+      "type": "文本消息",
+      "str_content": "okk",
+      "is_send": 0,
+      "sender_name": "胡世满"
+    },
+    {
+      "create_time": 1654249307,
+      "formatted_time": "2022-06-03 17:41:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "胡世满"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:43+08:00",
+  "message_count": 7
+}

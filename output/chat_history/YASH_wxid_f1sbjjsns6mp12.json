@@ -1,0 +1,24 @@
+{
+  "session_id": "wxid_f1sbjjsns6mp12",
+  "session_name": "YASH",
+  "messages": [
+    {
+      "create_time": 1763834157,
+      "formatted_time": "2025-11-23 01:55:57",
+      "type": "文本消息",
+      "str_content": "I'm YASH",
+      "is_send": 0,
+      "sender_name": "YASH"
+    },
+    {
+      "create_time": 1763834957,
+      "formatted_time": "2025-11-23 02:09:17",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "YASH"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:18+08:00",
+  "message_count": 2
+}

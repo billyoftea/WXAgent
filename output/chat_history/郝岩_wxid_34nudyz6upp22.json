@@ -1,0 +1,24 @@
+{
+  "session_id": "wxid_34nudyz6upp22",
+  "session_name": "郝岩",
+  "messages": [
+    {
+      "create_time": 1758028263,
+      "formatted_time": "2025-09-16 21:11:03",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郝岩"
+    },
+    {
+      "create_time": 1758028263,
+      "formatted_time": "2025-09-16 21:11:03",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "郝岩"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:25+08:00",
+  "message_count": 2
+}

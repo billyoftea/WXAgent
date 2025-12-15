@@ -1,0 +1,24 @@
+{
+  "session_id": "wxid_zfmxrqttnncl22",
+  "session_name": "狄桓炜",
+  "messages": [
+    {
+      "create_time": 1674790431,
+      "formatted_time": "2023-01-27 11:33:51",
+      "type": "文本消息",
+      "str_content": "我是狄桓炜",
+      "is_send": 0,
+      "sender_name": "狄桓炜"
+    },
+    {
+      "create_time": 1674790465,
+      "formatted_time": "2023-01-27 11:34:25",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "狄桓炜"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 2
+}

@@ -1,0 +1,765 @@
+{
+  "session_id": "44880983650@chatroom",
+  "session_name": "大创",
+  "messages": [
+    {
+      "create_time": 1672916906,
+      "formatted_time": "2023-01-05 19:08:26",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1672916956,
+      "formatted_time": "2023-01-05 19:09:16",
+      "type": "文本消息",
+      "str_content": "人应该都齐了",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1672917008,
+      "formatted_time": "2023-01-05 19:10:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1672917010,
+      "formatted_time": "2023-01-05 19:10:10",
+      "type": "文本消息",
+      "str_content": "老师好",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1672917042,
+      "formatted_time": "2023-01-05 19:10:42",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王兴骋",
+      "sender_wxid": "wxid_brm4y2ajdqyt22"
+    },
+    {
+      "create_time": 1672917216,
+      "formatted_time": "2023-01-05 19:13:36",
+      "type": "文本消息",
+      "str_content": "老师，我们原本的题目是研究城市房价对生育率的影响，研究范围是全国。我们在想如果把人群聚焦到具体人群，会不会导致数据寻找困难@漂流",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1672917223,
+      "formatted_time": "2023-01-05 19:13:43",
+      "type": "文本消息",
+      "str_content": "比如说流动人口",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1672918083,
+      "formatted_time": "2023-01-05 19:28:03",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n大家好！围绕生育率的研究还是比较有趣也很有意义。界定特定人群的话，流动人口的数据可以通过特定调查问卷获取，比如文献使用比较多的，针对流动人口的CMDS问卷。结合文献，使用问卷中关于实际生育情况或者生育意愿的数据。研究流动人口的话，选题重要的前提是题目要有意义。要好好思考，住房方面什么因素最能影响流动人口生育情况？住房拥有、租金价格这些也都是影响流动人口住房方面的重要因素。要考虑究竟使用哪个因素作为你们研究的X。",
+      "is_send": 0
+    },
+    {
+      "create_time": 1672918146,
+      "formatted_time": "2023-01-05 19:29:06",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1672918217,
+      "formatted_time": "2023-01-05 19:30:17",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n当然，流动人口的数据也可以通过一般微观家庭问卷数据获得，比如西财大的CHFS数据，以下再举一个使用该数据库做研究的文章",
+      "is_send": 0
+    },
+    {
+      "create_time": 1672918223,
+      "formatted_time": "2023-01-05 19:30:23",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1672918352,
+      "formatted_time": "2023-01-05 19:32:32",
+      "type": "引用消息",
+      "str_content": "😯😯那这个问题就没有了",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1672918423,
+      "formatted_time": "2023-01-05 19:33:43",
+      "type": "文件消息",
+      "str_content": "2018年全国流动人口卫生计生动态监测调查技术文件.pdf",
+      "is_send": 0
+    },
+    {
+      "create_time": 1672918450,
+      "formatted_time": "2023-01-05 19:34:10",
+      "type": "文本消息",
+      "str_content": "哇塞，谢谢老师！",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1672918451,
+      "formatted_time": "2023-01-05 19:34:11",
+      "type": "文本消息",
+      "str_content": "duankun554817:\nCMDS数据是公开的，申请后即可获取。数据源可以通过文献获得",
+      "is_send": 0
+    },
+    {
+      "create_time": 1672918504,
+      "formatted_time": "2023-01-05 19:35:04",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1672918523,
+      "formatted_time": "2023-01-05 19:35:23",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n住房与生育方面的研究视角比较丰富，最近学术界关注的文章也不少。要好好阅读文献，选择一个视角切入研究。",
+      "is_send": 0
+    },
+    {
+      "create_time": 1672918557,
+      "formatted_time": "2023-01-05 19:35:57",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n以下举另外一个例子，使用双重差分研究二孩政策颁布对家庭子女数量影响的研究",
+      "is_send": 0
+    },
+    {
+      "create_time": 1672918565,
+      "formatted_time": "2023-01-05 19:36:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1672918748,
+      "formatted_time": "2023-01-05 19:39:08",
+      "type": "文本消息",
+      "str_content": "哦哦这是个微观家庭角度的",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1672918793,
+      "formatted_time": "2023-01-05 19:39:53",
+      "type": "文本消息",
+      "str_content": "角度好多啊我天",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1672919069,
+      "formatted_time": "2023-01-05 19:44:29",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n可以坚持想法，研究特定人群，聚焦房价。不过要搞清楚几个问题，1. 为什么研究这个题目，特定人群？2. 相较于已有文章，研究的创新在哪里？",
+      "is_send": 0
+    },
+    {
+      "create_time": 1672919244,
+      "formatted_time": "2023-01-05 19:47:24",
+      "type": "文本消息",
+      "str_content": "收到，那我们再去想一想",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1672919333,
+      "formatted_time": "2023-01-05 19:48:53",
+      "type": "文本消息",
+      "str_content": "收到🫡",
+      "is_send": 0,
+      "sender_name": "罗嘉韵",
+      "sender_wxid": "wxid_r6kh8o34v2h922"
+    },
+    {
+      "create_time": 1672919611,
+      "formatted_time": "2023-01-05 19:53:31",
+      "type": "文本消息",
+      "str_content": "好嘞",
+      "is_send": 0,
+      "sender_name": "王兴骋",
+      "sender_wxid": "wxid_brm4y2ajdqyt22"
+    },
+    {
+      "create_time": 1672919622,
+      "formatted_time": "2023-01-05 19:53:42",
+      "type": "文本消息",
+      "str_content": "好滴",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1676173135,
+      "formatted_time": "2023-02-12 11:38:55",
+      "type": "文件消息",
+      "str_content": "项目申报模板(2).docx",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1676173228,
+      "formatted_time": "2023-02-12 11:40:28",
+      "type": "文本消息",
+      "str_content": "@漂流 老师，我们的申报书写好了，如果没有什么问题的话，就麻烦写一下你的信息",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1676173281,
+      "formatted_time": "2023-02-12 11:41:21",
+      "type": "文本消息",
+      "str_content": "还有第十一条需要电子签名哦段老师[呲牙]",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1676173414,
+      "formatted_time": "2023-02-12 11:43:34",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1676173421,
+      "formatted_time": "2023-02-12 11:43:41",
+      "type": "文本消息",
+      "str_content": "就是像这样的",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1676173539,
+      "formatted_time": "2023-02-12 11:45:39",
+      "type": "文本消息",
+      "str_content": "duankun554817:\nOK, and thanks",
+      "is_send": 0
+    },
+    {
+      "create_time": 1676173547,
+      "formatted_time": "2023-02-12 11:45:47",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n申报书需要什么时候交？",
+      "is_send": 0
+    },
+    {
+      "create_time": 1676173557,
+      "formatted_time": "2023-02-12 11:45:57",
+      "type": "文本消息",
+      "str_content": "2.20日之前哦",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1676173591,
+      "formatted_time": "2023-02-12 11:46:31",
+      "type": "文本消息",
+      "str_content": "不过在2月20号之前，我们还得去找其他领导签字",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1676173606,
+      "formatted_time": "2023-02-12 11:46:46",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n好，我尽快反馈+签名",
+      "is_send": 0
+    },
+    {
+      "create_time": 1676173625,
+      "formatted_time": "2023-02-12 11:47:05",
+      "type": "文本消息",
+      "str_content": "谢谢老师",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1676174116,
+      "formatted_time": "2023-02-12 11:55:16",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n[OK]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1676241000,
+      "formatted_time": "2023-02-13 06:30:00",
+      "type": "文件消息",
+      "str_content": "项目申报模板-2023.02.12.docx",
+      "is_send": 0
+    },
+    {
+      "create_time": 1676241172,
+      "formatted_time": "2023-02-13 06:32:52",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n我加了一些点评。项目题目、通篇格式、以及研究内容部分，建议在提交申请书前再修改。一些其他建议，可根据时间酌情考虑、尽量修改或在后面研究中注意。另外，目前版本没有看到第十一部分，你们最后版本中加上我的签名即可。",
+      "is_send": 0
+    },
+    {
+      "create_time": 1676241179,
+      "formatted_time": "2023-02-13 06:32:59",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1676250503,
+      "formatted_time": "2023-02-13 09:08:23",
+      "type": "文本消息",
+      "str_content": "收到，谢谢老师",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1677227113,
+      "formatted_time": "2023-02-24 16:25:13",
+      "type": "文件消息",
+      "str_content": "大创申报书F.docx",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1677227130,
+      "formatted_time": "2023-02-24 16:25:30",
+      "type": "文本消息",
+      "str_content": "@漂流 段老师我们的最终版写好了",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1677227137,
+      "formatted_time": "2023-02-24 16:25:37",
+      "type": "文本消息",
+      "str_content": "您看看有没有什么大的纰漏",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1677227172,
+      "formatted_time": "2023-02-24 16:26:12",
+      "type": "文本消息",
+      "str_content": "我们在ddl前改好",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1677229365,
+      "formatted_time": "2023-02-24 17:02:45",
+      "type": "文件消息",
+      "str_content": "大创申报书 2023.02.24(1).docx",
+      "is_send": 0
+    },
+    {
+      "create_time": 1677229395,
+      "formatted_time": "2023-02-24 17:03:15",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n内容基本可以。题目建议修改，以及一些格式问题。参见上面文件里的批注",
+      "is_send": 0
+    },
+    {
+      "create_time": 1677229406,
+      "formatted_time": "2023-02-24 17:03:26",
+      "type": "文本消息",
+      "str_content": "收到，谢谢老师",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1677241619,
+      "formatted_time": "2023-02-24 20:26:59",
+      "type": "文本消息",
+      "str_content": "@漂流 我们在系统上准备提交了，我们确认了一下，那个reference list是没有的",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1677241642,
+      "formatted_time": "2023-02-24 20:27:22",
+      "type": "文本消息",
+      "str_content": "然后并按照批注修改了一下",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1677242427,
+      "formatted_time": "2023-02-24 20:40:27",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n好的，那就没问题",
+      "is_send": 0
+    },
+    {
+      "create_time": 1681000128,
+      "formatted_time": "2023-04-09 08:28:48",
+      "type": "图文消息",
+      "str_content": "【香樟推文2798】住房财富和生育率：来自中国的证据",
+      "is_send": 0
+    },
+    {
+      "create_time": 1681000315,
+      "formatted_time": "2023-04-09 08:31:55",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1685348247,
+      "formatted_time": "2023-05-29 16:17:27",
+      "type": "文本消息",
+      "str_content": "@漂流 老师，我们大创在准备升级，改了一下申报书想要老师你来看一下",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1685349136,
+      "formatted_time": "2023-05-29 16:32:16",
+      "type": "文件消息",
+      "str_content": "大创申报书F.pdf",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1685349154,
+      "formatted_time": "2023-05-29 16:32:34",
+      "type": "文本消息",
+      "str_content": "@漂流 老师，我们大创在准备升级，改了一下申报书想要老师你来看一下",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1685349186,
+      "formatted_time": "2023-05-29 16:33:06",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1685349227,
+      "formatted_time": "2023-05-29 16:33:47",
+      "type": "引用消息",
+      "str_content": "然后这个a4 是从别的文献上截出来的 但是看起来这里像an-1",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1685349246,
+      "formatted_time": "2023-05-29 16:34:06",
+      "type": "文本消息",
+      "str_content": "能不能帮我们判断一下[可怜]",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1685354372,
+      "formatted_time": "2023-05-29 17:59:32",
+      "type": "引用消息",
+      "str_content": "你说的是对的",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685354383,
+      "formatted_time": "2023-05-29 17:59:43",
+      "type": "引用消息",
+      "str_content": "好",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685354405,
+      "formatted_time": "2023-05-29 18:00:05",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685354448,
+      "formatted_time": "2023-05-29 18:00:48",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n是个方程系统，因此n-1",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685354522,
+      "formatted_time": "2023-05-29 18:02:02",
+      "type": "文本消息",
+      "str_content": "好的 谢谢老师🫡",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1685497830,
+      "formatted_time": "2023-05-31 09:50:30",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685497850,
+      "formatted_time": "2023-05-31 09:50:50",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n引用时仅写作者的Last name",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685497864,
+      "formatted_time": "2023-05-31 09:51:04",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685497899,
+      "formatted_time": "2023-05-31 09:51:39",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n三人及以上的作者，一般写成A，B和C",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685497905,
+      "formatted_time": "2023-05-31 09:51:45",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n两人是A和B",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685497926,
+      "formatted_time": "2023-05-31 09:52:06",
+      "type": "文本消息",
+      "str_content": "duankun554817:\nreference list是否需要加上",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685497980,
+      "formatted_time": "2023-05-31 09:53:00",
+      "type": "引用消息",
+      "str_content": "要求里没有硬性要求",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1685497983,
+      "formatted_time": "2023-05-31 09:53:03",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1685498017,
+      "formatted_time": "2023-05-31 09:53:37",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n好，自己把握",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685498028,
+      "formatted_time": "2023-05-31 09:53:48",
+      "type": "文本消息",
+      "str_content": "收到 谢谢老师",
+      "is_send": 0,
+      "sender_name": "李佳辉",
+      "sender_wxid": "wxid_ajfkznx7c6r522"
+    },
+    {
+      "create_time": 1694087634,
+      "formatted_time": "2023-09-07 19:53:54",
+      "type": "文本消息",
+      "str_content": "段老师，我们几个首先整理了下CMDS和CGSS的数据，但发现每年问卷问的问题都不太一样，如果整理成面板数据数据可能会比较麻烦，所以现在我们目前在纠结是使用面板数据还是截面数据，想问下您的意见~",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1694166817,
+      "formatted_time": "2023-09-08 17:53:37",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n徐同学，大家好。这几天事情比较多，刚看到消息。关于不同数据库的整合，建议使用【截面分析】，并在分析中控制时间固定效应即可。不同年份、不同数据库的个体样本很难进行面板分析。",
+      "is_send": 0
+    },
+    {
+      "create_time": 1694166841,
+      "formatted_time": "2023-09-08 17:54:01",
+      "type": "文件消息",
+      "str_content": "房价升值预期、财富幻觉与家...费——基于《国六条》的证据_王岳龙.pdf",
+      "is_send": 0
+    },
+    {
+      "create_time": 1694166851,
+      "formatted_time": "2023-09-08 17:54:11",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n发一篇相关文章，供参考",
+      "is_send": 0
+    },
+    {
+      "create_time": 1694166877,
+      "formatted_time": "2023-09-08 17:54:37",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1712666931,
+      "formatted_time": "2024-04-09 20:48:51",
+      "type": "文本消息",
+      "str_content": "段老师，我们最近尝试在控制其他变量的情况下，将城市房价的对数值和流动人口生育意愿进行回归，加入工具变量后回归发现核心解释变量系数显著为正，也就是房价上涨会促进流动人口的生育意愿。我们在一些文献中有看到类似的结论，但还是想向您确认一下，这个结果是合理的吗？",
+      "is_send": 0,
+      "sender_name": "罗嘉韵",
+      "sender_wxid": "wxid_r6kh8o34v2h922"
+    },
+    {
+      "create_time": 1712666968,
+      "formatted_time": "2024-04-09 20:49:28",
+      "type": "文件消息",
+      "str_content": "侯俊军 等 - 2023 - 房价与流动人口再生育意愿：一个社会融入的视角.pdf",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1712666968,
+      "formatted_time": "2024-04-09 20:49:28",
+      "type": "文本消息",
+      "str_content": "是这一篇文章的结果~",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1712666980,
+      "formatted_time": "2024-04-09 20:49:40",
+      "type": "文本消息",
+      "str_content": "而且我们也尝试借鉴其他文献更换了几种工具变量，但系数都是显著为正的",
+      "is_send": 0,
+      "sender_name": "罗嘉韵",
+      "sender_wxid": "wxid_r6kh8o34v2h922"
+    },
+    {
+      "create_time": 1712673015,
+      "formatted_time": "2024-04-09 22:30:15",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n我觉得正向也不是不可以。是正是负，言之有理即可",
+      "is_send": 0
+    },
+    {
+      "create_time": 1712673163,
+      "formatted_time": "2024-04-09 22:32:43",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n可以在你们的文章中的文献综述或者假设讨论的地方，结合文献开展讨论并说明：房价对生育意愿的影响或正或负。在后面报告实证结果的部分，更重要的是对结果的解释，也就是影响机制的讨论。即为了回答，为什么为正？",
+      "is_send": 0
+    },
+    {
+      "create_time": 1712673213,
+      "formatted_time": "2024-04-09 22:33:33",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n根据是否购房划分样本，看看房价对生育意愿的影响是否存在样本差异，是比较有必要的事情",
+      "is_send": 0
+    },
+    {
+      "create_time": 1712675970,
+      "formatted_time": "2024-04-09 23:19:30",
+      "type": "文本消息",
+      "str_content": "明白了！谢谢老师",
+      "is_send": 0,
+      "sender_name": "罗嘉韵",
+      "sender_wxid": "wxid_r6kh8o34v2h922"
+    },
+    {
+      "create_time": 1713497358,
+      "formatted_time": "2024-04-19 11:29:18",
+      "type": "文本消息",
+      "str_content": "请大家注意时间节点：\n 1.4月19日前，学生提交结题验收表及材料。\n\n        2.4月25日前，指导教师审核结题材料。\n\n        3.4月30日前，院（系）提交结题验收结果。",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1713497379,
+      "formatted_time": "2024-04-19 11:29:39",
+      "type": "文本消息",
+      "str_content": "@漂流 老师，我们需要老师在25前审核我们的材料",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1713497394,
+      "formatted_time": "2024-04-19 11:29:54",
+      "type": "文本消息",
+      "str_content": "我们的论文已经提交在大创系统里面了",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    },
+    {
+      "create_time": 1713513239,
+      "formatted_time": "2024-04-19 15:53:59",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n好的，我今天晚些审核",
+      "is_send": 0
+    },
+    {
+      "create_time": 1713532062,
+      "formatted_time": "2024-04-19 21:07:42",
+      "type": "文本消息",
+      "str_content": "duankun554817:\n已审核",
+      "is_send": 0
+    },
+    {
+      "create_time": 1713534911,
+      "formatted_time": "2024-04-19 21:55:11",
+      "type": "文本消息",
+      "str_content": "辛苦老师！",
+      "is_send": 0,
+      "sender_name": "陈新晨",
+      "sender_wxid": "wxid_31vp1flg2aun12"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 94
+}

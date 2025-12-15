@@ -1,0 +1,96 @@
+{
+  "session_id": "wxid_q3sotj2xb3tu12",
+  "session_name": "25 清华 李璇",
+  "messages": [
+    {
+      "create_time": 1765104683,
+      "formatted_time": "2025-12-07 18:51:23",
+      "type": "文本消息",
+      "str_content": "我是群聊\"【CRS】冬日品酒会\"的Lynsie",
+      "is_send": 0,
+      "sender_name": "25 清华 李璇"
+    },
+    {
+      "create_time": 1765105213,
+      "formatted_time": "2025-12-07 19:00:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "25 清华 李璇"
+    },
+    {
+      "create_time": 1765105703,
+      "formatted_time": "2025-12-07 19:08:23",
+      "type": "文本消息",
+      "str_content": "hi，我是汇丰25 数金徐昂",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765105858,
+      "formatted_time": "2025-12-07 19:10:58",
+      "type": "文本消息",
+      "str_content": "hi我是25 清华 李璇",
+      "is_send": 0,
+      "sender_name": "25 清华 李璇"
+    },
+    {
+      "create_time": 1765105869,
+      "formatted_time": "2025-12-07 19:11:09",
+      "type": "文本消息",
+      "str_content": "可以问一下，就是我们今天有其他活动去不了的话，是可以下一次直接去咩",
+      "is_send": 0,
+      "sender_name": "25 清华 李璇"
+    },
+    {
+      "create_time": 1765106003,
+      "formatted_time": "2025-12-07 19:13:23",
+      "type": "文本消息",
+      "str_content": "嗯嗯可以的！你可以关注一下我们社团（北京大学商业关系协会，CRS）的后续活动！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765106151,
+      "formatted_time": "2025-12-07 19:15:51",
+      "type": "文本消息",
+      "str_content": "这个吗～",
+      "is_send": 0,
+      "sender_name": "25 清华 李璇"
+    },
+    {
+      "create_time": 1765106151,
+      "formatted_time": "2025-12-07 19:15:51",
+      "type": "图文消息",
+      "str_content": "【CRS | 招新】北京大学商业关系协会招新开始",
+      "is_send": 0,
+      "sender_name": "25 清华 李璇"
+    },
+    {
+      "create_time": 1765106236,
+      "formatted_time": "2025-12-07 19:17:16",
+      "type": "名片消息",
+      "str_content": "[名片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765106251,
+      "formatted_time": "2025-12-07 19:17:31",
+      "type": "文本消息",
+      "str_content": "对的~可以关注下我发给你的这个公众号~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765106335,
+      "formatted_time": "2025-12-07 19:18:55",
+      "type": "文本消息",
+      "str_content": "好的～",
+      "is_send": 0,
+      "sender_name": "25 清华 李璇"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:18+08:00",
+  "message_count": 11
+}

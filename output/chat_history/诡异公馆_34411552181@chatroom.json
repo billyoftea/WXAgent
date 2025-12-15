@@ -1,0 +1,828 @@
+{
+  "session_id": "34411552181@chatroom",
+  "session_name": "诡异公馆",
+  "messages": [
+    {
+      "create_time": 1662087471,
+      "formatted_time": "2022-09-02 10:57:51",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵琪琪",
+      "sender_wxid": "wxid_hi3onmkntqgs22"
+    },
+    {
+      "create_time": 1662087471,
+      "formatted_time": "2022-09-02 10:57:51",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662087514,
+      "formatted_time": "2022-09-02 10:58:34",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662087637,
+      "formatted_time": "2022-09-02 11:00:37",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662087655,
+      "formatted_time": "2022-09-02 11:00:55",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662103722,
+      "formatted_time": "2022-09-02 15:28:42",
+      "type": "文本消息",
+      "str_content": "您的预约已生效，请核对场次：2022年9月3日诡异公馆主题下午13:50场次8位，缴纳订金200元，临时取消预订或更改场次不退订金。请准时到场。\n\n温馨提示：请仔细阅读\n1：开场时间是准时计算的，请提前10-15分钟到店准备入场手续，若有拼团玩家可选择是否先行进入游戏，迟到20分钟及20分钟以上就不能入场了哦   且不予退还订金，本店有权取消或转售本场场次\n2：预定确认后不能临时修改预定主题，如有更换主题、  取消预定、   人数变化等情况，需提前至少4小时告知，如果预定的是下午3点前场次，需要在前一天晚上21:30告知，晚上21:30后不予修改，如果未按照规定时间提前通知工作人员，不予退还订金\n3 ：到店人数如果与其预订人数浮动2位及2位以上预定人数，则不予退还订金\n4 ：如果您这边后面还需要加人的话，需要尽快通知工作人员哦，如果您预定的主题没有达到人数上限会自动拼场的呢，如若你们预定的主题已经达到了最佳上限人数的话，那么您这边就无法再加人了哦！\n5：如果包场后到店没有达到包场人数会收取包场人数的门票     \n6 ：开场前如果有其他玩家想加入这个场次，在该主题没有达到人数上限之前，是会自动拼进去的哈\n7：您来玩的时候一定要记得带上门票，我们是需要凭票入场的，没有票是无法进入游戏场的\n8：为了您的人身安全，避免发生危险，喝酒 孕妇  有突发性疾病等此类情况的禁止进行游戏，如有隐瞒此类情况进入游戏，危及自身安全，需有本人承担责任。\n   PS：如果该主题没有达到起开人数则无法开场哦，您可以等待拼团成功，若到了开场时间还是没到达到起开人数，则为拼团失败，场次会自动取消哈...您可以在出发之前问下您的拼场情况哦\n9：这边要跟您说一声哦 到店我们会核实票务信息和付款截图的 您可以先准备好购票的付款截图 避免到店浪费入场时间哦\n   PS：如果票面出现损毁是直接使用不了 作废的哦~",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1662104793,
+      "formatted_time": "2022-09-02 15:46:33",
+      "type": "文本消息",
+      "str_content": "在哪里哇",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662104795,
+      "formatted_time": "2022-09-02 15:46:35",
+      "type": "文本消息",
+      "str_content": "光谷吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662105246,
+      "formatted_time": "2022-09-02 15:54:06",
+      "type": "文本消息",
+      "str_content": "耶斯",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1662106251,
+      "formatted_time": "2022-09-02 16:10:51",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662179327,
+      "formatted_time": "2022-09-03 12:28:47",
+      "type": "文本消息",
+      "str_content": "问下咱几点去在哪集合捏",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662179351,
+      "formatted_time": "2022-09-03 12:29:11",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "赵琪琪",
+      "sender_wxid": "wxid_hi3onmkntqgs22"
+    },
+    {
+      "create_time": 1662179361,
+      "formatted_time": "2022-09-03 12:29:21",
+      "type": "文本消息",
+      "str_content": "一点三四十",
+      "is_send": 0,
+      "sender_name": "曾思齐",
+      "sender_wxid": "wxid_y5cy0jfvg0v912"
+    },
+    {
+      "create_time": 1662179364,
+      "formatted_time": "2022-09-03 12:29:24",
+      "type": "文本消息",
+      "str_content": "定的是一点五十的",
+      "is_send": 0,
+      "sender_name": "赵琪琪",
+      "sender_wxid": "wxid_hi3onmkntqgs22"
+    },
+    {
+      "create_time": 1662179366,
+      "formatted_time": "2022-09-03 12:29:26",
+      "type": "文本消息",
+      "str_content": "密室",
+      "is_send": 0,
+      "sender_name": "曾思齐",
+      "sender_wxid": "wxid_y5cy0jfvg0v912"
+    },
+    {
+      "create_time": 1662179369,
+      "formatted_time": "2022-09-03 12:29:29",
+      "type": "文本消息",
+      "str_content": "但是要提前到",
+      "is_send": 0,
+      "sender_name": "赵琪琪",
+      "sender_wxid": "wxid_hi3onmkntqgs22"
+    },
+    {
+      "create_time": 1662179374,
+      "formatted_time": "2022-09-03 12:29:34",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662179541,
+      "formatted_time": "2022-09-03 12:32:21",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662179546,
+      "formatted_time": "2022-09-03 12:32:26",
+      "type": "文本消息",
+      "str_content": "直接分别去那里吗是",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662179551,
+      "formatted_time": "2022-09-03 12:32:31",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n1",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662179872,
+      "formatted_time": "2022-09-03 12:37:52",
+      "type": "文本消息",
+      "str_content": "还是一起去？",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1662179879,
+      "formatted_time": "2022-09-03 12:37:59",
+      "type": "文本消息",
+      "str_content": "在南三集合还是？",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1662179923,
+      "formatted_time": "2022-09-03 12:38:43",
+      "type": "文本消息",
+      "str_content": "要不就一点二十南三集合",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662179931,
+      "formatted_time": "2022-09-03 12:38:51",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n也可",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662180214,
+      "formatted_time": "2022-09-03 12:43:34",
+      "type": "文本消息",
+      "str_content": "来得及不",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1662180241,
+      "formatted_time": "2022-09-03 12:44:01",
+      "type": "文本消息",
+      "str_content": "嘶还得提前这么久啊",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662180373,
+      "formatted_time": "2022-09-03 12:46:13",
+      "type": "文本消息",
+      "str_content": "说的也对",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662180383,
+      "formatted_time": "2022-09-03 12:46:23",
+      "type": "文本消息",
+      "str_content": "我得在那里迷路起码五分钟",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662180388,
+      "formatted_time": "2022-09-03 12:46:28",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n哈哈哈哈哈哈哈",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662180392,
+      "formatted_time": "2022-09-03 12:46:32",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n不愧是你徐少",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662180511,
+      "formatted_time": "2022-09-03 12:48:31",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n就在风情街那个十字路口那好像",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662181369,
+      "formatted_time": "2022-09-03 13:02:49",
+      "type": "文本消息",
+      "str_content": "我们现在出发",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1662181376,
+      "formatted_time": "2022-09-03 13:02:56",
+      "type": "文本消息",
+      "str_content": "是在密室集合？",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1662181379,
+      "formatted_time": "2022-09-03 13:02:59",
+      "type": "文本消息",
+      "str_content": "还是咋的",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1662181388,
+      "formatted_time": "2022-09-03 13:03:08",
+      "type": "文本消息",
+      "str_content": "我准备先去南三",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662181391,
+      "formatted_time": "2022-09-03 13:03:11",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n不是说校门吗",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662181391,
+      "formatted_time": "2022-09-03 13:03:11",
+      "type": "文本消息",
+      "str_content": "咱俩一块吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662181394,
+      "formatted_time": "2022-09-03 13:03:14",
+      "type": "文本消息",
+      "str_content": "我肯定会迷路",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662181403,
+      "formatted_time": "2022-09-03 13:03:23",
+      "type": "文本消息",
+      "str_content": "来来来",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1662181406,
+      "formatted_time": "2022-09-03 13:03:26",
+      "type": "文本消息",
+      "str_content": "我们也去南三",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1662182254,
+      "formatted_time": "2022-09-03 13:17:34",
+      "type": "文本消息",
+      "str_content": "我们已经到了",
+      "is_send": 0,
+      "sender_name": "韩淇",
+      "sender_wxid": "wxid_ur7b44mf7nw822"
+    },
+    {
+      "create_time": 1662182257,
+      "formatted_time": "2022-09-03 13:17:37",
+      "type": "文本消息",
+      "str_content": "你们慢慢来",
+      "is_send": 0,
+      "sender_name": "韩淇",
+      "sender_wxid": "wxid_ur7b44mf7nw822"
+    },
+    {
+      "create_time": 1662182413,
+      "formatted_time": "2022-09-03 13:20:13",
+      "type": "文本消息",
+      "str_content": "好嘞",
+      "is_send": 0,
+      "sender_name": "祁祖玥",
+      "sender_wxid": "wxid_c983i4yorcoa22"
+    },
+    {
+      "create_time": 1662182418,
+      "formatted_time": "2022-09-03 13:20:18",
+      "type": "文本消息",
+      "str_content": "我们刚出校门",
+      "is_send": 0,
+      "sender_name": "祁祖玥",
+      "sender_wxid": "wxid_c983i4yorcoa22"
+    },
+    {
+      "create_time": 1662182487,
+      "formatted_time": "2022-09-03 13:21:27",
+      "type": "文本消息",
+      "str_content": "我们出来了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662182607,
+      "formatted_time": "2022-09-03 13:23:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662183219,
+      "formatted_time": "2022-09-03 13:33:39",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n我们到了",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662183227,
+      "formatted_time": "2022-09-03 13:33:47",
+      "type": "文本消息",
+      "str_content": "我们到了",
+      "is_send": 0,
+      "sender_name": "曾思齐",
+      "sender_wxid": "wxid_y5cy0jfvg0v912"
+    },
+    {
+      "create_time": 1662183332,
+      "formatted_time": "2022-09-03 13:35:32",
+      "type": "文本消息",
+      "str_content": "我们也快了哈",
+      "is_send": 0,
+      "sender_name": "祁祖玥",
+      "sender_wxid": "wxid_c983i4yorcoa22"
+    },
+    {
+      "create_time": 1662188187,
+      "formatted_time": "2022-09-03 14:56:27",
+      "type": "文本消息",
+      "str_content": "对不起各位 扫大家兴了",
+      "is_send": 0,
+      "sender_name": "曾思齐",
+      "sender_wxid": "wxid_y5cy0jfvg0v912"
+    },
+    {
+      "create_time": 1662188275,
+      "formatted_time": "2022-09-03 14:57:55",
+      "type": "文本消息",
+      "str_content": "我们在周围买点喝的",
+      "is_send": 0,
+      "sender_name": "曾思齐",
+      "sender_wxid": "wxid_y5cy0jfvg0v912"
+    },
+    {
+      "create_time": 1662188280,
+      "formatted_time": "2022-09-03 14:58:00",
+      "type": "文本消息",
+      "str_content": "你们完事发个消息",
+      "is_send": 0,
+      "sender_name": "曾思齐",
+      "sender_wxid": "wxid_y5cy0jfvg0v912"
+    },
+    {
+      "create_time": 1662188588,
+      "formatted_time": "2022-09-03 15:03:08",
+      "type": "文本消息",
+      "str_content": "是在抱歉哈 真是有点害怕",
+      "is_send": 0,
+      "sender_name": "韩淇",
+      "sender_wxid": "wxid_ur7b44mf7nw822"
+    },
+    {
+      "create_time": 1662188592,
+      "formatted_time": "2022-09-03 15:03:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "韩淇",
+      "sender_wxid": "wxid_ur7b44mf7nw822"
+    },
+    {
+      "create_time": 1662191696,
+      "formatted_time": "2022-09-03 15:54:56",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈没事没事",
+      "is_send": 0,
+      "sender_name": "祁祖玥",
+      "sender_wxid": "wxid_c983i4yorcoa22"
+    },
+    {
+      "create_time": 1662191967,
+      "formatted_time": "2022-09-03 15:59:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1662191976,
+      "formatted_time": "2022-09-03 15:59:36",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n[敲打]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662191985,
+      "formatted_time": "2022-09-03 15:59:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662191989,
+      "formatted_time": "2022-09-03 15:59:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662191992,
+      "formatted_time": "2022-09-03 15:59:52",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662191993,
+      "formatted_time": "2022-09-03 15:59:53",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662192100,
+      "formatted_time": "2022-09-03 16:01:40",
+      "type": "视频消息",
+      "str_content": "[视频消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662192112,
+      "formatted_time": "2022-09-03 16:01:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662212152,
+      "formatted_time": "2022-09-03 21:35:52",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吴江铭",
+      "sender_wxid": "wxid_dwtrgn70axxu32"
+    },
+    {
+      "create_time": 1662212152,
+      "formatted_time": "2022-09-03 21:35:52",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吴江铭",
+      "sender_wxid": "wxid_dwtrgn70axxu32"
+    },
+    {
+      "create_time": 1662212156,
+      "formatted_time": "2022-09-03 21:35:56",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吴江铭",
+      "sender_wxid": "wxid_dwtrgn70axxu32"
+    },
+    {
+      "create_time": 1662212160,
+      "formatted_time": "2022-09-03 21:36:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吴江铭",
+      "sender_wxid": "wxid_dwtrgn70axxu32"
+    },
+    {
+      "create_time": 1662212164,
+      "formatted_time": "2022-09-03 21:36:04",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吴江铭",
+      "sender_wxid": "wxid_dwtrgn70axxu32"
+    },
+    {
+      "create_time": 1662212186,
+      "formatted_time": "2022-09-03 21:36:26",
+      "type": "文本消息",
+      "str_content": "所有的原图都在这里咧",
+      "is_send": 0,
+      "sender_name": "吴江铭",
+      "sender_wxid": "wxid_dwtrgn70axxu32"
+    },
+    {
+      "create_time": 1662212187,
+      "formatted_time": "2022-09-03 21:36:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吴江铭",
+      "sender_wxid": "wxid_dwtrgn70axxu32"
+    },
+    {
+      "create_time": 1662212277,
+      "formatted_time": "2022-09-03 21:37:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662212312,
+      "formatted_time": "2022-09-03 21:38:32",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "祁祖玥",
+      "sender_wxid": "wxid_c983i4yorcoa22"
+    },
+    {
+      "create_time": 1662212329,
+      "formatted_time": "2022-09-03 21:38:49",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n有没有好心人做一个直接能发的版本",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662212331,
+      "formatted_time": "2022-09-03 21:38:51",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n[旺柴]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662212397,
+      "formatted_time": "2022-09-03 21:39:57",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吴江铭",
+      "sender_wxid": "wxid_dwtrgn70axxu32"
+    },
+    {
+      "create_time": 1662212398,
+      "formatted_time": "2022-09-03 21:39:58",
+      "type": "文本消息",
+      "str_content": "发去吧",
+      "is_send": 0,
+      "sender_name": "吴江铭",
+      "sender_wxid": "wxid_dwtrgn70axxu32"
+    },
+    {
+      "create_time": 1662212400,
+      "formatted_time": "2022-09-03 21:40:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吴江铭",
+      "sender_wxid": "wxid_dwtrgn70axxu32"
+    },
+    {
+      "create_time": 1662212401,
+      "formatted_time": "2022-09-03 21:40:01",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吴江铭",
+      "sender_wxid": "wxid_dwtrgn70axxu32"
+    },
+    {
+      "create_time": 1662212410,
+      "formatted_time": "2022-09-03 21:40:10",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n？？",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662212462,
+      "formatted_time": "2022-09-03 21:41:02",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n阴间拍立得有无[旺柴]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662213629,
+      "formatted_time": "2022-09-03 22:00:29",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662213629,
+      "formatted_time": "2022-09-03 22:00:29",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662213645,
+      "formatted_time": "2022-09-03 22:00:45",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\nNPC应聘",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662213655,
+      "formatted_time": "2022-09-03 22:00:55",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n扫完楼啦？",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662213664,
+      "formatted_time": "2022-09-03 22:01:04",
+      "type": "文本消息",
+      "str_content": "刚扫完",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662216557,
+      "formatted_time": "2022-09-03 22:49:17",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662216578,
+      "formatted_time": "2022-09-03 22:49:38",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662216606,
+      "formatted_time": "2022-09-03 22:50:06",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662216611,
+      "formatted_time": "2022-09-03 22:50:11",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n？？？",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662216751,
+      "formatted_time": "2022-09-03 22:52:31",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662216756,
+      "formatted_time": "2022-09-03 22:52:36",
+      "type": "文本消息",
+      "str_content": "我的账单就是这样刷出来的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662216768,
+      "formatted_time": "2022-09-03 22:52:48",
+      "type": "文本消息",
+      "str_content": "clzh12312313580:\n徐老师大气[旺柴]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662216780,
+      "formatted_time": "2022-09-03 22:53:00",
+      "type": "文本消息",
+      "str_content": "其实花的都是别人的钱",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662216785,
+      "formatted_time": "2022-09-03 22:53:05",
+      "type": "文本消息",
+      "str_content": "我没有钱",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662216786,
+      "formatted_time": "2022-09-03 22:53:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662217026,
+      "formatted_time": "2022-09-03 22:57:06",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662217052,
+      "formatted_time": "2022-09-03 22:57:32",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662217069,
+      "formatted_time": "2022-09-03 22:57:49",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662234811,
+      "formatted_time": "2022-09-04 03:53:31",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662234824,
+      "formatted_time": "2022-09-04 03:53:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662256487,
+      "formatted_time": "2022-09-04 09:54:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662256501,
+      "formatted_time": "2022-09-04 09:55:01",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    }
+  ],
+  "export_time": "2025-12-15T00:08:43+08:00",
+  "message_count": 102
+}

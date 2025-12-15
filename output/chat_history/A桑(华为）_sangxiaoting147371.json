@@ -1,0 +1,48 @@
+{
+  "session_id": "sangxiaoting147371",
+  "session_name": "A桑(华为）",
+  "messages": [
+    {
+      "create_time": 1726055025,
+      "formatted_time": "2024-09-11 19:43:45",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "A桑(华为）"
+    },
+    {
+      "create_time": 1726055030,
+      "formatted_time": "2024-09-11 19:43:50",
+      "type": "文本消息",
+      "str_content": "17865716165",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1726055035,
+      "formatted_time": "2024-09-11 19:43:55",
+      "type": "文本消息",
+      "str_content": "徐昂",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1726055106,
+      "formatted_time": "2024-09-11 19:45:06",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "A桑(华为）"
+    },
+    {
+      "create_time": 1726055117,
+      "formatted_time": "2024-09-11 19:45:17",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "A桑(华为）"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:31+08:00",
+  "message_count": 5
+}

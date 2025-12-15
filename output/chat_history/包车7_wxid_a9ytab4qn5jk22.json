@@ -1,0 +1,608 @@
+{
+  "session_id": "wxid_a9ytab4qn5jk22",
+  "session_name": "包车7",
+  "messages": [
+    {
+      "create_time": 1749483091,
+      "formatted_time": "2025-06-09 23:31:31",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483098,
+      "formatted_time": "2025-06-09 23:31:38",
+      "type": "文本消息",
+      "str_content": "你好",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483111,
+      "formatted_time": "2025-06-09 23:31:51",
+      "type": "文本消息",
+      "str_content": "你们攻略做了么？",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483146,
+      "formatted_time": "2025-06-09 23:32:26",
+      "type": "文本消息",
+      "str_content": "暂时还在确定中，这是比较简单的版本的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749483157,
+      "formatted_time": "2025-06-09 23:32:37",
+      "type": "文件消息",
+      "str_content": "0ae0486c-5f51-4ed2-a234-8fc80dd0550b_伊犁环线旅游攻略.pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749483226,
+      "formatted_time": "2025-06-09 23:33:46",
+      "type": "文本消息",
+      "str_content": "方便看下车的图片吗？七座的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749483243,
+      "formatted_time": "2025-06-09 23:34:03",
+      "type": "文本消息",
+      "str_content": "你们这攻略做的好专业啊[强]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483254,
+      "formatted_time": "2025-06-09 23:34:14",
+      "type": "文本消息",
+      "str_content": "稍等",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483301,
+      "formatted_time": "2025-06-09 23:35:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483445,
+      "formatted_time": "2025-06-09 23:37:25",
+      "type": "文本消息",
+      "str_content": "内饰图片我一会儿给你发",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483459,
+      "formatted_time": "2025-06-09 23:37:39",
+      "type": "文本消息",
+      "str_content": "你们机票买好了吗",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483471,
+      "formatted_time": "2025-06-09 23:37:51",
+      "type": "文本消息",
+      "str_content": "说明:费用1500一天，连人带车， 包含用车费、司机住 宿费，车辆油费、过路费、停车费、免费提供矿泉水) \n注.释:此费用不包含游客住宿和吃饭，以及景区自费游玩项目， \n门票的话自驾门票需要你这边承担一下目前两个景点一个赛里木湖一个那拉提\n这个七座也是这样的是吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749483484,
+      "formatted_time": "2025-06-09 23:38:04",
+      "type": "文本消息",
+      "str_content": "去的已经买好了，回的还没定",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749483620,
+      "formatted_time": "2025-06-09 23:40:20",
+      "type": "文本消息",
+      "str_content": "是的  主要是自驾景区 你们要想进去的话就要承担一下",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483637,
+      "formatted_time": "2025-06-09 23:40:37",
+      "type": "文本消息",
+      "str_content": "一般重点景区  赛里木湖  那拉提",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483675,
+      "formatted_time": "2025-06-09 23:41:15",
+      "type": "文本消息",
+      "str_content": "几号几点落地",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483704,
+      "formatted_time": "2025-06-09 23:41:44",
+      "type": "文本消息",
+      "str_content": "27晚落地，28开始",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749483777,
+      "formatted_time": "2025-06-09 23:42:57",
+      "type": "文本消息",
+      "str_content": "可以",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483785,
+      "formatted_time": "2025-06-09 23:43:05",
+      "type": "文本消息",
+      "str_content": "价格能接受么？",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483798,
+      "formatted_time": "2025-06-09 23:43:18",
+      "type": "文本消息",
+      "str_content": "我们还在商量~明天给您一个回复",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749483813,
+      "formatted_time": "2025-06-09 23:43:33",
+      "type": "文本消息",
+      "str_content": "可以的",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483836,
+      "formatted_time": "2025-06-09 23:43:56",
+      "type": "文本消息",
+      "str_content": "都是按市场价给你的  绝对没喊高",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483850,
+      "formatted_time": "2025-06-09 23:44:10",
+      "type": "文本消息",
+      "str_content": "我是一位98年 湖北武汉人",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483860,
+      "formatted_time": "2025-06-09 23:44:20",
+      "type": "文本消息",
+      "str_content": "我看你小红书ip是湖北的",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483874,
+      "formatted_time": "2025-06-09 23:44:34",
+      "type": "文本消息",
+      "str_content": "你是湖北人么？",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483885,
+      "formatted_time": "2025-06-09 23:44:45",
+      "type": "文本消息",
+      "str_content": "不是湖北人，现在在华科上学[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749483907,
+      "formatted_time": "2025-06-09 23:45:07",
+      "type": "文本消息",
+      "str_content": "可以可以",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483947,
+      "formatted_time": "2025-06-09 23:45:47",
+      "type": "文本消息",
+      "str_content": "反正怎么说呢   大家都年轻 都很好相处  而且我性格也是很开朗的那种",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749483978,
+      "formatted_time": "2025-06-09 23:46:18",
+      "type": "文本消息",
+      "str_content": "我目前在带团 北疆大环线 12天",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749484026,
+      "formatted_time": "2025-06-09 23:47:06",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749484051,
+      "formatted_time": "2025-06-09 23:47:31",
+      "type": "文本消息",
+      "str_content": "我也差不多20号左右回去  如果确定了  你们的话我可以亲自带队",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749484093,
+      "formatted_time": "2025-06-09 23:48:13",
+      "type": "文本消息",
+      "str_content": "哈哈好的明白~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749484141,
+      "formatted_time": "2025-06-09 23:49:01",
+      "type": "文本消息",
+      "str_content": "毕竟都在一个地方呆过  肯定会有共同话题  不会那么尴尬[捂脸]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749536164,
+      "formatted_time": "2025-06-10 14:16:04",
+      "type": "文本消息",
+      "str_content": "我最近比较忙，我拉个群。让朋友也和你商量下哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749536183,
+      "formatted_time": "2025-06-10 14:16:23",
+      "type": "文本消息",
+      "str_content": "可以",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749643238,
+      "formatted_time": "2025-06-11 20:00:38",
+      "type": "文本消息",
+      "str_content": "你好",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749643258,
+      "formatted_time": "2025-06-11 20:00:58",
+      "type": "文本消息",
+      "str_content": "你们这边是没商量好吗？还是说存在一些关于包车的问题",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749643330,
+      "formatted_time": "2025-06-11 20:02:10",
+      "type": "文本消息",
+      "str_content": "因为目前车辆是比较紧张，你这边不包的话，没什么不好意思的，你就说出来，我就安排下一个行程了",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749643531,
+      "formatted_time": "2025-06-11 20:05:31",
+      "type": "文本消息",
+      "str_content": "因为我这几天比较忙，可能主要还是朋友去决定，目前应该还是在比价，肯定还是希望找到性价比比较高的嘛，现在还是在考虑中，您这边的基本情况我们还是挺满意的~就是这个价格还能不能再优惠下呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749643583,
+      "formatted_time": "2025-06-11 20:06:23",
+      "type": "文本消息",
+      "str_content": "你方便接电话么",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749643586,
+      "formatted_time": "2025-06-11 20:06:26",
+      "type": "文本消息",
+      "str_content": "嗯嗯好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749643636,
+      "formatted_time": "2025-06-11 20:07:16",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749643823,
+      "formatted_time": "2025-06-11 20:10:23",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749643825,
+      "formatted_time": "2025-06-11 20:10:25",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749643826,
+      "formatted_time": "2025-06-11 20:10:26",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749643828,
+      "formatted_time": "2025-06-11 20:10:28",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749643829,
+      "formatted_time": "2025-06-11 20:10:29",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749643831,
+      "formatted_time": "2025-06-11 20:10:31",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749644351,
+      "formatted_time": "2025-06-11 20:19:11",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749644353,
+      "formatted_time": "2025-06-11 20:19:13",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749644354,
+      "formatted_time": "2025-06-11 20:19:14",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749644355,
+      "formatted_time": "2025-06-11 20:19:15",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1749644371,
+      "formatted_time": "2025-06-11 20:19:31",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "包车7"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751188130,
+      "formatted_time": "2025-06-29 17:08:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:25+08:00",
+  "message_count": 75
+}

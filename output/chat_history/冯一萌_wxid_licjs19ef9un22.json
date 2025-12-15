@@ -1,0 +1,40 @@
+{
+  "session_id": "wxid_licjs19ef9un22",
+  "session_name": "冯一萌",
+  "messages": [
+    {
+      "create_time": 1765379826,
+      "formatted_time": "2025-12-10 23:17:06",
+      "type": "文本消息",
+      "str_content": "我是群聊\"SHEF一家亲2️⃣群\"的Ember冯一萌",
+      "is_send": 0,
+      "sender_name": "冯一萌"
+    },
+    {
+      "create_time": 1765431200,
+      "formatted_time": "2025-12-11 13:33:20",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "冯一萌"
+    },
+    {
+      "create_time": 1765434439,
+      "formatted_time": "2025-12-11 14:27:19",
+      "type": "文本消息",
+      "str_content": "师姐好！我是汇丰25数量与金融科技专业的徐昂~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765434468,
+      "formatted_time": "2025-12-11 14:27:48",
+      "type": "文本消息",
+      "str_content": "hii 23财新 冯一萌 tiktok shop pm",
+      "is_send": 0,
+      "sender_name": "冯一萌"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:18+08:00",
+  "message_count": 4
+}

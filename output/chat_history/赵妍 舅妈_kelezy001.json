@@ -1,0 +1,1208 @@
+{
+  "session_id": "kelezy001",
+  "session_name": "赵妍 舅妈",
+  "messages": [
+    {
+      "create_time": 1686359013,
+      "formatted_time": "2023-06-10 09:03:33",
+      "type": "文本消息",
+      "str_content": "徐昂，你计划什么时候来北京实习呀？和人家约好了吗？",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1686359248,
+      "formatted_time": "2023-06-10 09:07:28",
+      "type": "文本消息",
+      "str_content": "舅妈我预计是七月初到北京，已经和那边约好了~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686359757,
+      "formatted_time": "2023-06-10 09:15:57",
+      "type": "文本消息",
+      "str_content": "好的，大概7月几号呀？",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1686359767,
+      "formatted_time": "2023-06-10 09:16:07",
+      "type": "文本消息",
+      "str_content": "对方说要实习多久了吗",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1686359902,
+      "formatted_time": "2023-06-10 09:18:22",
+      "type": "文本消息",
+      "str_content": "我现在就有在远程做一些文件了，应该就实习到暑假结束\n不过时间上可能还不太确定[捂脸]我6月23号考完试之后要先和朋友们去福建搞一个实践调研活动，持续大概五天左右，之后回家待三四天后就打算去北京~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686360734,
+      "formatted_time": "2023-06-10 09:32:14",
+      "type": "文本消息",
+      "str_content": "好的，你知道上班的地方在哪吗？",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1686360771,
+      "formatted_time": "2023-06-10 09:32:51",
+      "type": "文本消息",
+      "str_content": "嗯嗯，是在凯恒中心这边",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1686360774,
+      "formatted_time": "2023-06-10 09:32:54",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688860954,
+      "formatted_time": "2023-07-09 08:02:34",
+      "type": "文本消息",
+      "str_content": "昂昂，你要有啥找不着的发微信问我就可以，我买了点速食，你看看挑喜欢的吃呀～欢迎来北京[庆祝]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1688861018,
+      "formatted_time": "2023-07-09 08:03:38",
+      "type": "文本消息",
+      "str_content": "嗯嗯！太谢谢舅妈和舅舅的照顾了😭，也祝舅妈一路顺风，玩得开心！！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688861126,
+      "formatted_time": "2023-07-09 08:05:26",
+      "type": "文本消息",
+      "str_content": "别客气～随便吃，当自己家住[奸笑]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1688861190,
+      "formatted_time": "2023-07-09 08:06:30",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈好嘞！[呲牙][玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688880961,
+      "formatted_time": "2023-07-09 13:36:01",
+      "type": "文本消息",
+      "str_content": "舅妈我这儿寄好了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688880962,
+      "formatted_time": "2023-07-09 13:36:02",
+      "type": "文本消息",
+      "str_content": "[呲牙][呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688881080,
+      "formatted_time": "2023-07-09 13:38:00",
+      "type": "文本消息",
+      "str_content": "快递员说之后在小程序下单就可以了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1688883270,
+      "formatted_time": "2023-07-09 14:14:30",
+      "type": "文本消息",
+      "str_content": "好的，我是在小程序下单的",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1690294909,
+      "formatted_time": "2023-07-25 22:21:49",
+      "type": "文本消息",
+      "str_content": "舅妈，明天我要早点去公司，就不在家吃早饭了，直接在小区门口解决啦[呲牙][玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690294952,
+      "formatted_time": "2023-07-25 22:22:32",
+      "type": "文本消息",
+      "str_content": "好的，明天我们去游泳也得早走[偷笑]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1690295050,
+      "formatted_time": "2023-07-25 22:24:10",
+      "type": "文本消息",
+      "str_content": "暑假生活太丰富啦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690295056,
+      "formatted_time": "2023-07-25 22:24:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690295111,
+      "formatted_time": "2023-07-25 22:25:11",
+      "type": "文本消息",
+      "str_content": "[苦涩]累，我7点去给她买麦当劳早餐你要吃吗？",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1690295267,
+      "formatted_time": "2023-07-25 22:27:47",
+      "type": "文本消息",
+      "str_content": "啊那也可以  谢谢舅妈~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690295295,
+      "formatted_time": "2023-07-25 22:28:15",
+      "type": "文本消息",
+      "str_content": "随便买吗？还是指定的套餐[呲牙]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1690295334,
+      "formatted_time": "2023-07-25 22:28:54",
+      "type": "文本消息",
+      "str_content": "随便买就可以！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690295335,
+      "formatted_time": "2023-07-25 22:28:55",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690383060,
+      "formatted_time": "2023-07-26 22:51:00",
+      "type": "文本消息",
+      "str_content": "昂昂你明天早上几点走？吃鸡蛋灌饼吗",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1690383094,
+      "formatted_time": "2023-07-26 22:51:34",
+      "type": "文本消息",
+      "str_content": "我明天正常时间~八点起床八点四十左右出门",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690383116,
+      "formatted_time": "2023-07-26 22:51:56",
+      "type": "文本消息",
+      "str_content": "真还蛮想吃鸡蛋灌饼的[哇]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690383581,
+      "formatted_time": "2023-07-26 22:59:41",
+      "type": "文本消息",
+      "str_content": "👌",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1690467004,
+      "formatted_time": "2023-07-27 22:10:04",
+      "type": "文本消息",
+      "str_content": "昂昂到家了吗？",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1690467040,
+      "formatted_time": "2023-07-27 22:10:40",
+      "type": "文本消息",
+      "str_content": "嗯嗯，已经下火车了，大概还有十分钟就到家啦~舅妈放心吧~[嘿哈]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690467065,
+      "formatted_time": "2023-07-27 22:11:05",
+      "type": "文本消息",
+      "str_content": "好的～",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1690724969,
+      "formatted_time": "2023-07-30 21:49:29",
+      "type": "文本消息",
+      "str_content": "昂昂，明天大暴雨回来注意安全",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1690725039,
+      "formatted_time": "2023-07-30 21:50:39",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我一路上应该淋不了雨，可以从火车站直接坐地铁到公司~舅妈放心呀~[呲牙][玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690725611,
+      "formatted_time": "2023-07-30 22:00:11",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1690939750,
+      "formatted_time": "2023-08-02 09:29:10",
+      "type": "文本消息",
+      "str_content": "昂昂，你的睡袋到了",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1690939814,
+      "formatted_time": "2023-08-02 09:30:14",
+      "type": "文本消息",
+      "str_content": "嗯嗯，好像是我朋友写错地址了[捂脸]，我昨天又打电话问了下~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691059252,
+      "formatted_time": "2023-08-03 18:40:52",
+      "type": "文本消息",
+      "str_content": "舅妈，黄豆想吃蛋挞嘛，我在外面肯德基疯狂星期四呢，可以顺道带一盒[嘿哈]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691062106,
+      "formatted_time": "2023-08-03 19:28:26",
+      "type": "文本消息",
+      "str_content": "她不吃，她得减肥[呲牙]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1691062116,
+      "formatted_time": "2023-08-03 19:28:36",
+      "type": "文本消息",
+      "str_content": "谢谢昂昂了，你好好聚餐",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1691062271,
+      "formatted_time": "2023-08-03 19:31:11",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞~没想到她还减肥呢哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691062297,
+      "formatted_time": "2023-08-03 19:31:37",
+      "type": "文本消息",
+      "str_content": "一周能长4斤的人[尴尬]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1691289279,
+      "formatted_time": "2023-08-06 10:34:39",
+      "type": "文本消息",
+      "str_content": "舅妈，我今天出去打球，中午和晚上就不在家里吃了~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691289296,
+      "formatted_time": "2023-08-06 10:34:56",
+      "type": "文本消息",
+      "str_content": "我们回来了",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1691538830,
+      "formatted_time": "2023-08-09 07:53:50",
+      "type": "文本消息",
+      "str_content": "昂昂，桌子上的麦早餐是你的，记得吃～",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1691539945,
+      "formatted_time": "2023-08-09 08:12:25",
+      "type": "文本消息",
+      "str_content": "嗯嗯！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691627332,
+      "formatted_time": "2023-08-10 08:28:52",
+      "type": "文本消息",
+      "str_content": "舅妈，那个快递已经被取走了~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691627369,
+      "formatted_time": "2023-08-10 08:29:29",
+      "type": "文本消息",
+      "str_content": "好的，辛苦了～",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1691627418,
+      "formatted_time": "2023-08-10 08:30:18",
+      "type": "文本消息",
+      "str_content": "小事儿，舅妈一路玩得开心呀~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691627623,
+      "formatted_time": "2023-08-10 08:33:43",
+      "type": "文本消息",
+      "str_content": "好的[愉快]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1691662392,
+      "formatted_time": "2023-08-10 18:13:12",
+      "type": "文本消息",
+      "str_content": "舅妈，我把那个粉丝扇贝放冰箱了，除此之外今天快递还到了辣椒、花椒、书和书立",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691662532,
+      "formatted_time": "2023-08-10 18:15:32",
+      "type": "文本消息",
+      "str_content": "好的[偷笑]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1691853670,
+      "formatted_time": "2023-08-12 23:21:10",
+      "type": "文本消息",
+      "str_content": "昂昂你今晚还回来吗？",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1691853731,
+      "formatted_time": "2023-08-12 23:22:11",
+      "type": "文本消息",
+      "str_content": "嗯嗯，马上到~今晚和朋友出去看电影了来着",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691853734,
+      "formatted_time": "2023-08-12 23:22:14",
+      "type": "文本消息",
+      "str_content": "[呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1691853746,
+      "formatted_time": "2023-08-12 23:22:26",
+      "type": "文本消息",
+      "str_content": "好的～",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1692256138,
+      "formatted_time": "2023-08-17 15:08:58",
+      "type": "文本消息",
+      "str_content": "昂昂今晚有安排吗？",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1692256187,
+      "formatted_time": "2023-08-17 15:09:47",
+      "type": "文本消息",
+      "str_content": "舅妈，我今晚可能得在公司加个班，有个会要开[苦涩]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692256209,
+      "formatted_time": "2023-08-17 15:10:09",
+      "type": "文本消息",
+      "str_content": "大概八点多到家",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692256321,
+      "formatted_time": "2023-08-17 15:12:01",
+      "type": "文本消息",
+      "str_content": "好的，没啥事～",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1692256399,
+      "formatted_time": "2023-08-17 15:13:19",
+      "type": "文本消息",
+      "str_content": "哈哈好嘞~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692340613,
+      "formatted_time": "2023-08-18 14:36:53",
+      "type": "文本消息",
+      "str_content": "昂昂今晚下班回来吃吧，咱们去吃个新疆烧烤",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1692340643,
+      "formatted_time": "2023-08-18 14:37:23",
+      "type": "文本消息",
+      "str_content": "[哇]好耶",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692457890,
+      "formatted_time": "2023-08-19 23:11:30",
+      "type": "文本消息",
+      "str_content": "昂昂今晚还回来吗？",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1692457921,
+      "formatted_time": "2023-08-19 23:12:01",
+      "type": "文本消息",
+      "str_content": "嗯嗯，刚进小区哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692458069,
+      "formatted_time": "2023-08-19 23:14:29",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1692494850,
+      "formatted_time": "2023-08-20 09:27:30",
+      "type": "文本消息",
+      "str_content": "舅妈，我现在出门和他们一起喝豆汁儿去啦哈哈，午饭和晚饭都不在家里吃了~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1692500823,
+      "formatted_time": "2023-08-20 11:07:03",
+      "type": "文本消息",
+      "str_content": "好的刚看到信息",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1712827474,
+      "formatted_time": "2024-04-11 17:24:34",
+      "type": "文本消息",
+      "str_content": "昂昂，你研究生定了推素哪个学校了嘛？",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1712827544,
+      "formatted_time": "2024-04-11 17:25:44",
+      "type": "文本消息",
+      "str_content": "舅妈，还没有呢~预计是七月份左右出结果。目前估计是复旦 中科大 人大 上交 北大这几个学校吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712827551,
+      "formatted_time": "2024-04-11 17:25:51",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712827561,
+      "formatted_time": "2024-04-11 17:26:01",
+      "type": "文本消息",
+      "str_content": "今天刚收到复旦的笔面试邀请[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712827629,
+      "formatted_time": "2024-04-11 17:27:09",
+      "type": "文本消息",
+      "str_content": "加油加油争取来北大，等你来了我们去北大食堂吃饭[偷笑]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1712827856,
+      "formatted_time": "2024-04-11 17:30:56",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈我也很想去北大！我还是得继续努力！去哪个学校暂时还是说不准啦~如果暑假去北京参营一定去拜访舅舅舅妈[嘿哈]\n我觉得黄豆这么优秀，以后上个北大肯定没问题的！！[加油][加油]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712827940,
+      "formatted_time": "2024-04-11 17:32:20",
+      "type": "文本消息",
+      "str_content": "她没戏了[捂脸]我们没北京户口没办法在北京高考的！你加油这几个学校都很不错，去哪个都很好，别有压力，等你好消息～",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1712828798,
+      "formatted_time": "2024-04-11 17:46:38",
+      "type": "文本消息",
+      "str_content": "现在这个阶段相当于冲刺阶段了嘛，我现在就是给自己适当的压力+偶尔忙里偷闲一下，争取有好的结果吧~[笑脸]\n我觉得以黄豆的潜力和舅舅舅妈对黄豆前瞻的培养，她以后的发展不可能差的！！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712828889,
+      "formatted_time": "2024-04-11 17:48:09",
+      "type": "文本消息",
+      "str_content": "见识了你们这些牛娃们我觉得她还差远了，希望能考上个不错的大学吧，没有更高要求了[捂脸]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1712828983,
+      "formatted_time": "2024-04-11 17:49:43",
+      "type": "文本消息",
+      "str_content": "她学习是不拒绝不主动还轴[旺柴]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1712829275,
+      "formatted_time": "2024-04-11 17:54:35",
+      "type": "文本消息",
+      "str_content": "我觉得是因为毕竟黄豆才上初中嘛，一方面是学的东西也不难，所以不拒绝不主动，另一方面就是确实没有意识到成绩对未来的影响，应该上高中就好了！\n暑假接触的时候感觉黄豆确实被舅舅舅妈培养的很优秀啦，我初中的时候和她根本没法比！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712829418,
+      "formatted_time": "2024-04-11 17:56:58",
+      "type": "文本消息",
+      "str_content": "环境不一样嘛，他们10后就更卷了，你就已经很优秀了[奸笑]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1712829454,
+      "formatted_time": "2024-04-11 17:57:34",
+      "type": "文本消息",
+      "str_content": "对了，武汉有啥必打卡的地方吗，纠结暑假去哪玩玩",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1712829539,
+      "formatted_time": "2024-04-11 17:58:59",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈国家的发展需要的人才就是这样卷出来的\n武汉的话我觉得其实没有什么特别好玩的地方[破涕为笑][破涕为笑]主要就是一些和其他地方大同小异的步行街啥的，一定要找出来点打卡地的话可能就是长江大桥 黄鹤楼那些[捂脸][捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712829634,
+      "formatted_time": "2024-04-11 18:00:34",
+      "type": "文本消息",
+      "str_content": "我这两年暑期实践都是去的川西的藏族自治区，感觉风景确实是很漂亮的~也很凉快，适合避暑哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712829653,
+      "formatted_time": "2024-04-11 18:00:53",
+      "type": "文本消息",
+      "str_content": "武汉暑期实在是太热了[捂脸][捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712829681,
+      "formatted_time": "2024-04-11 18:01:21",
+      "type": "文本消息",
+      "str_content": "怕高反",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1712829702,
+      "formatted_time": "2024-04-11 18:01:42",
+      "type": "文本消息",
+      "str_content": "会很严重吗",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1712829858,
+      "formatted_time": "2024-04-11 18:04:18",
+      "type": "文本消息",
+      "str_content": "我觉得高反其实还好，当时我们是慢慢爬升的海拔，有一段时间的适应期，十几个人都没出现啥高反的感觉，也几乎没用氧气瓶\n不过要是去爬四姑娘山或者稻城亚丁那样的雪山，就一定要备好氧气瓶了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712830265,
+      "formatted_time": "2024-04-11 18:11:05",
+      "type": "文本消息",
+      "str_content": "你们年轻，中老年人有点害怕[偷笑]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1712830407,
+      "formatted_time": "2024-04-11 18:13:27",
+      "type": "文本消息",
+      "str_content": "舅妈当然也是年轻人！\n其实我觉得也可以出国玩玩[嘿哈]不过确实不推荐暑期来武汉hhh，太热而且没太有玩的[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712830835,
+      "formatted_time": "2024-04-11 18:20:35",
+      "type": "文本消息",
+      "str_content": "好的，我们再纠结纠结去哪",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1712830853,
+      "formatted_time": "2024-04-11 18:20:53",
+      "type": "文本消息",
+      "str_content": "还想去看看最美校园武大呢",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1712830915,
+      "formatted_time": "2024-04-11 18:21:55",
+      "type": "文本消息",
+      "str_content": "武大最漂亮的时候是三月左右~那时候樱花🌸开了，确实很美！哈哈哈我和同学在上个月经常组团去打卡呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712830999,
+      "formatted_time": "2024-04-11 18:23:19",
+      "type": "文本消息",
+      "str_content": "你们两个大学是挨着嘛",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1712831086,
+      "formatted_time": "2024-04-11 18:24:46",
+      "type": "文本消息",
+      "str_content": "离得比较近，而且兄弟院校嘛，平常的学术交流和学生联谊活动都挺多的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720776654,
+      "formatted_time": "2024-07-12 17:30:54",
+      "type": "文本消息",
+      "str_content": "舅妈，向您报个喜\n我保研去北大啦~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720776734,
+      "formatted_time": "2024-07-12 17:32:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720776745,
+      "formatted_time": "2024-07-12 17:32:25",
+      "type": "文本消息",
+      "str_content": "恭喜恭喜啦",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720776756,
+      "formatted_time": "2024-07-12 17:32:36",
+      "type": "文本消息",
+      "str_content": "是明年入学吗？",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720776772,
+      "formatted_time": "2024-07-12 17:32:52",
+      "type": "文本消息",
+      "str_content": "对的，2025年秋季，不过不是在北京，是在深圳研究生院~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720776789,
+      "formatted_time": "2024-07-12 17:33:09",
+      "type": "文本消息",
+      "str_content": "但如果您想进北大本部我应该也可以帮忙约哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720776867,
+      "formatted_time": "2024-07-12 17:34:27",
+      "type": "文本消息",
+      "str_content": "啊，咋去深圳了还说去吃吃北大食堂哈哈",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720776895,
+      "formatted_time": "2024-07-12 17:34:55",
+      "type": "文本消息",
+      "str_content": "清华和北大有一半多的研究生在深圳哈哈哈哈[捂脸]，本部放不下就去深圳了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720776911,
+      "formatted_time": "2024-07-12 17:35:11",
+      "type": "文本消息",
+      "str_content": "没事，等我们回头去深圳玩找你[偷笑]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720776937,
+      "formatted_time": "2024-07-12 17:35:37",
+      "type": "文本消息",
+      "str_content": "好耶！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720777174,
+      "formatted_time": "2024-07-12 17:39:34",
+      "type": "文本消息",
+      "str_content": "才看到你来北京了呀[呲牙]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720777189,
+      "formatted_time": "2024-07-12 17:39:49",
+      "type": "文本消息",
+      "str_content": "对，舅妈，我前两天在清华那儿，然后今天在人大",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720777222,
+      "formatted_time": "2024-07-12 17:40:22",
+      "type": "文本消息",
+      "str_content": "不过我也不准备继续在人大面试了，毕竟已经拿到北大录取了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720777224,
+      "formatted_time": "2024-07-12 17:40:24",
+      "type": "文本消息",
+      "str_content": "[呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720777261,
+      "formatted_time": "2024-07-12 17:41:01",
+      "type": "文本消息",
+      "str_content": "就是的，你定啥时候回去了吗，一起来吃个饭呀",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720777277,
+      "formatted_time": "2024-07-12 17:41:17",
+      "type": "文本消息",
+      "str_content": "我听你舅舅说你要去美国呢，和研究生冲突吗",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720777306,
+      "formatted_time": "2024-07-12 17:41:46",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720777314,
+      "formatted_time": "2024-07-12 17:41:54",
+      "type": "文本消息",
+      "str_content": "这两个不冲突，去美国那一个是学期交换，但是现在还没有确定",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720777330,
+      "formatted_time": "2024-07-12 17:42:10",
+      "type": "文本消息",
+      "str_content": "最近一直在忙保研的事儿，就还没有管出国，准备回家之后再和家里商量商量",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720777349,
+      "formatted_time": "2024-07-12 17:42:29",
+      "type": "文本消息",
+      "str_content": "好呀好呀，舅妈，我正好也打算在北京再玩儿几天",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720777396,
+      "formatted_time": "2024-07-12 17:43:16",
+      "type": "文本消息",
+      "str_content": "嗯嗯，商量看看，一学期有点少啊[偷笑]你啥时候过来提前告诉我们",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720777415,
+      "formatted_time": "2024-07-12 17:43:35",
+      "type": "文本消息",
+      "str_content": "我们下周可能也回山东了还没确定具体时间[捂脸]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720778756,
+      "formatted_time": "2024-07-12 18:05:56",
+      "type": "文本消息",
+      "str_content": "这样呀，那要不就明天或者后天[笑脸]，看您什么时候方便",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720778773,
+      "formatted_time": "2024-07-12 18:06:13",
+      "type": "文本消息",
+      "str_content": "我上岸啦哈哈哈终于可以闲下来休息一下啦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720793702,
+      "formatted_time": "2024-07-12 22:15:02",
+      "type": "文本消息",
+      "str_content": "你住哪呀昂昂",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720793721,
+      "formatted_time": "2024-07-12 22:15:21",
+      "type": "文本消息",
+      "str_content": "晚上一带黄豆上课忘记问你了",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720793860,
+      "formatted_time": "2024-07-12 22:17:40",
+      "type": "文本消息",
+      "str_content": "我现在在人大这边住呢舅妈[呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720794616,
+      "formatted_time": "2024-07-12 22:30:16",
+      "type": "文本消息",
+      "str_content": "那咱们合生汇去吃点好啦[坏笑]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720794637,
+      "formatted_time": "2024-07-12 22:30:37",
+      "type": "文本消息",
+      "str_content": "地铁站方便点",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720794657,
+      "formatted_time": "2024-07-12 22:30:57",
+      "type": "文本消息",
+      "str_content": "好呀好呀~明天晚上或者后天一天我都是可以滴~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720794796,
+      "formatted_time": "2024-07-12 22:33:16",
+      "type": "文本消息",
+      "str_content": "中午有约了呀[坏笑]晚上小黄豆有课不能去太远了，晚上的话要不要去吃新疆烧烤，你舅的最爱[捂脸]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720794849,
+      "formatted_time": "2024-07-12 22:34:09",
+      "type": "文本消息",
+      "str_content": "哈哈哈可以的！！[呲牙]我也记得上次吃的新疆烧烤可好吃了！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720794939,
+      "formatted_time": "2024-07-12 22:35:39",
+      "type": "文本消息",
+      "str_content": "行，那你下午没事了早点过来[阴险]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720794948,
+      "formatted_time": "2024-07-12 22:35:48",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞！没问题！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720795046,
+      "formatted_time": "2024-07-12 22:37:26",
+      "type": "文本消息",
+      "str_content": "别买东西啊，啥都不要！！！人来就行了！！[呲牙]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720795069,
+      "formatted_time": "2024-07-12 22:37:49",
+      "type": "文本消息",
+      "str_content": "也不用给黄豆买！",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720795242,
+      "formatted_time": "2024-07-12 22:40:42",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈好嘞好嘞 肯定不乱花钱[呲牙][呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720796547,
+      "formatted_time": "2024-07-12 23:02:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720853289,
+      "formatted_time": "2024-07-13 14:48:09",
+      "type": "文本消息",
+      "str_content": "舅妈，您这边什么时候方便呀，五点左右可以吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720853350,
+      "formatted_time": "2024-07-13 14:49:10",
+      "type": "文本消息",
+      "str_content": "可以的，你舅在家我和黄豆5点多也回去了",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720853587,
+      "formatted_time": "2024-07-13 14:53:07",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720853590,
+      "formatted_time": "2024-07-13 14:53:10",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720860586,
+      "formatted_time": "2024-07-13 16:49:46",
+      "type": "文本消息",
+      "str_content": "舅妈，我大概半小时后到[笑脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720861508,
+      "formatted_time": "2024-07-13 17:05:08",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720861536,
+      "formatted_time": "2024-07-13 17:05:36",
+      "type": "文本消息",
+      "str_content": "你还记得位置吗",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720861742,
+      "formatted_time": "2024-07-13 17:09:02",
+      "type": "文本消息",
+      "str_content": "记得的[呲牙]毕竟去年这时候在北京待了这么长时间！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720862306,
+      "formatted_time": "2024-07-13 17:18:26",
+      "type": "文本消息",
+      "str_content": "舅妈，可能还要过一会[捂脸]大概五点四十左右到，地铁比我想象中慢一些[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720862474,
+      "formatted_time": "2024-07-13 17:21:14",
+      "type": "文本消息",
+      "str_content": "好的不急",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720864346,
+      "formatted_time": "2024-07-13 17:52:26",
+      "type": "文本消息",
+      "str_content": "是这家疆烤铺子嘛舅妈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720864349,
+      "formatted_time": "2024-07-13 17:52:29",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720864379,
+      "formatted_time": "2024-07-13 17:52:59",
+      "type": "文本消息",
+      "str_content": "对的",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720864402,
+      "formatted_time": "2024-07-13 17:53:22",
+      "type": "文本消息",
+      "str_content": "那你直接去店里吧我们这就下去了[阴险]",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720864416,
+      "formatted_time": "2024-07-13 17:53:36",
+      "type": "文本消息",
+      "str_content": "好滴好滴",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720874144,
+      "formatted_time": "2024-07-13 20:35:44",
+      "type": "文本消息",
+      "str_content": "舅妈我到酒店啦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720874876,
+      "formatted_time": "2024-07-13 20:47:56",
+      "type": "文本消息",
+      "str_content": "好的，早点休息呀～",
+      "is_send": 0,
+      "sender_name": "赵妍 舅妈"
+    },
+    {
+      "create_time": 1720874934,
+      "formatted_time": "2024-07-13 20:48:54",
+      "type": "文本消息",
+      "str_content": "嗯嗯！好嘞！",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:42+08:00",
+  "message_count": 150
+}

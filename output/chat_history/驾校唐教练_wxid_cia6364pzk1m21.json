@@ -1,0 +1,56 @@
+{
+  "session_id": "wxid_cia6364pzk1m21",
+  "session_name": "驾校唐教练",
+  "messages": [
+    {
+      "create_time": 1727424224,
+      "formatted_time": "2024-09-27 16:03:44",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "驾校唐教练"
+    },
+    {
+      "create_time": 1741829376,
+      "formatted_time": "2025-03-13 09:29:36",
+      "type": "文本消息",
+      "str_content": "教练，3.25啥时候约考呀，我扫码进那个q群麻烦您通过下？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1741829395,
+      "formatted_time": "2025-03-13 09:29:55",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1741829400,
+      "formatted_time": "2025-03-13 09:30:00",
+      "type": "文本消息",
+      "str_content": "我看这里已经可以约了？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1741829571,
+      "formatted_time": "2025-03-13 09:32:51",
+      "type": "文本消息",
+      "str_content": "约3.25  光谷科目二考场第二场或者第三场",
+      "is_send": 0,
+      "sender_name": "驾校唐教练"
+    },
+    {
+      "create_time": 1741829703,
+      "formatted_time": "2025-03-13 09:35:03",
+      "type": "文本消息",
+      "str_content": "嗯嗯好嘞",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:30+08:00",
+  "message_count": 6
+}

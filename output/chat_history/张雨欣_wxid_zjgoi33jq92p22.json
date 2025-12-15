@@ -1,0 +1,112 @@
+{
+  "session_id": "wxid_zjgoi33jq92p22",
+  "session_name": "张雨欣",
+  "messages": [
+    {
+      "create_time": 1694184511,
+      "formatted_time": "2023-09-08 22:48:31",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "张雨欣"
+    },
+    {
+      "create_time": 1694184534,
+      "formatted_time": "2023-09-08 22:48:54",
+      "type": "文本消息",
+      "str_content": "他加你了哈[捂脸]本来我想推给他的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694184540,
+      "formatted_time": "2023-09-08 22:49:00",
+      "type": "文本消息",
+      "str_content": "[尴尬]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694184547,
+      "formatted_time": "2023-09-08 22:49:07",
+      "type": "文本消息",
+      "str_content": "感谢你满足我好大儿的一桩心愿",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694184549,
+      "formatted_time": "2023-09-08 22:49:09",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694184711,
+      "formatted_time": "2023-09-08 22:51:51",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "张雨欣"
+    },
+    {
+      "create_time": 1695571805,
+      "formatted_time": "2023-09-25 00:10:05",
+      "type": "文本消息",
+      "str_content": "对了，可以甩个备注吗[疑问]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695598606,
+      "formatted_time": "2023-09-25 07:36:46",
+      "type": "文本消息",
+      "str_content": "小张",
+      "is_send": 0,
+      "sender_name": "张雨欣"
+    },
+    {
+      "create_time": 1695606000,
+      "formatted_time": "2023-09-25 09:40:00",
+      "type": "文本消息",
+      "str_content": "你这备注给的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695606003,
+      "formatted_time": "2023-09-25 09:40:03",
+      "type": "文本消息",
+      "str_content": "倒是",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695606005,
+      "formatted_time": "2023-09-25 09:40:05",
+      "type": "文本消息",
+      "str_content": "蛮克制的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695606027,
+      "formatted_time": "2023-09-25 09:40:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张雨欣"
+    },
+    {
+      "create_time": 1695606050,
+      "formatted_time": "2023-09-25 09:40:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:36+08:00",
+  "message_count": 13
+}

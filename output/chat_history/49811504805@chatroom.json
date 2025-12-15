@@ -1,0 +1,613 @@
+{
+  "session_id": "49811504805@chatroom",
+  "session_name": "49811504805@chatroom",
+  "messages": [
+    {
+      "create_time": 1759134896,
+      "formatted_time": "2025-09-29 16:34:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "49811504805@chatroom",
+      "sender_wxid": "49811504805@chatroom"
+    },
+    {
+      "create_time": 1759134896,
+      "formatted_time": "2025-09-29 16:34:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759134931,
+      "formatted_time": "2025-09-29 16:35:31",
+      "type": "文本消息",
+      "str_content": "家人们如果对地点没有要求的话我知道可以去一个地方",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759134963,
+      "formatted_time": "2025-09-29 16:36:03",
+      "type": "文本消息",
+      "str_content": "福田那边 如果远的话我们就在学校里面吃8️⃣",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759135004,
+      "formatted_time": "2025-09-29 16:36:44",
+      "type": "文本消息",
+      "str_content": "我都🉑🉑",
+      "is_send": 0,
+      "sender_name": "李婧怡 24",
+      "sender_wxid": "wxid_57czzpdmynod22"
+    },
+    {
+      "create_time": 1759135010,
+      "formatted_time": "2025-09-29 16:36:50",
+      "type": "引用消息",
+      "str_content": "是啥吃的呀！",
+      "is_send": 0,
+      "sender_name": "李婧怡 24",
+      "sender_wxid": "wxid_57czzpdmynod22"
+    },
+    {
+      "create_time": 1759135030,
+      "formatted_time": "2025-09-29 16:37:10",
+      "type": "文本消息",
+      "str_content": "广东改良版湘菜",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759135041,
+      "formatted_time": "2025-09-29 16:37:21",
+      "type": "文本消息",
+      "str_content": "或者我们可以去清华食堂二楼的川菜",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759135045,
+      "formatted_time": "2025-09-29 16:37:25",
+      "type": "文本消息",
+      "str_content": "或者麦当劳",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759135052,
+      "formatted_time": "2025-09-29 16:37:32",
+      "type": "文本消息",
+      "str_content": "你们觉得捏",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759135057,
+      "formatted_time": "2025-09-29 16:37:37",
+      "type": "引用消息",
+      "str_content": "这个可以 要不要先预定一下",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759135063,
+      "formatted_time": "2025-09-29 16:37:43",
+      "type": "引用消息",
+      "str_content": "好诶",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1759135073,
+      "formatted_time": "2025-09-29 16:37:53",
+      "type": "文本消息",
+      "str_content": "一直都听说很好吃",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1759135086,
+      "formatted_time": "2025-09-29 16:38:06",
+      "type": "文本消息",
+      "str_content": "好啊哈哈哈",
+      "is_send": 0,
+      "sender_name": "李婧怡 24",
+      "sender_wxid": "wxid_57czzpdmynod22"
+    },
+    {
+      "create_time": 1759135087,
+      "formatted_time": "2025-09-29 16:38:07",
+      "type": "文本消息",
+      "str_content": "走走走 这个应该不用预定 直接过去 我去过一次",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759135101,
+      "formatted_time": "2025-09-29 16:38:21",
+      "type": "文本消息",
+      "str_content": "那可能得早点 笑死 我之前去有时候",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759135103,
+      "formatted_time": "2025-09-29 16:38:23",
+      "type": "文本消息",
+      "str_content": "会被订满",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759135137,
+      "formatted_time": "2025-09-29 16:38:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李婧怡 24",
+      "sender_wxid": "wxid_57czzpdmynod22"
+    },
+    {
+      "create_time": 1759135147,
+      "formatted_time": "2025-09-29 16:39:07",
+      "type": "文本消息",
+      "str_content": "有预定电话吗",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759135149,
+      "formatted_time": "2025-09-29 16:39:09",
+      "type": "文本消息",
+      "str_content": "我去打",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759135150,
+      "formatted_time": "2025-09-29 16:39:10",
+      "type": "文本消息",
+      "str_content": "这么火热 应该很好吃了",
+      "is_send": 0,
+      "sender_name": "李婧怡 24",
+      "sender_wxid": "wxid_57czzpdmynod22"
+    },
+    {
+      "create_time": 1759135156,
+      "formatted_time": "2025-09-29 16:39:16",
+      "type": "文本消息",
+      "str_content": "我刚刚搜了下大众点评 没有电话",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759135160,
+      "formatted_time": "2025-09-29 16:39:20",
+      "type": "文本消息",
+      "str_content": "妈的我问问",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759135298,
+      "formatted_time": "2025-09-29 16:41:38",
+      "type": "文本消息",
+      "str_content": "你们有没有什么想喝的",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759135302,
+      "formatted_time": "2025-09-29 16:41:42",
+      "type": "文本消息",
+      "str_content": "我可以提前买好",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759135310,
+      "formatted_time": "2025-09-29 16:41:50",
+      "type": "文本消息",
+      "str_content": "🙋‍",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759135430,
+      "formatted_time": "2025-09-29 16:43:50",
+      "type": "文本消息",
+      "str_content": "我没啥诶",
+      "is_send": 0,
+      "sender_name": "李婧怡 24",
+      "sender_wxid": "wxid_57czzpdmynod22"
+    },
+    {
+      "create_time": 1759135435,
+      "formatted_time": "2025-09-29 16:43:55",
+      "type": "文本消息",
+      "str_content": "我们几点见呀",
+      "is_send": 0,
+      "sender_name": "李婧怡 24",
+      "sender_wxid": "wxid_57czzpdmynod22"
+    },
+    {
+      "create_time": 1759135442,
+      "formatted_time": "2025-09-29 16:44:02",
+      "type": "文本消息",
+      "str_content": "我刚加了清华那边的微信",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759135448,
+      "formatted_time": "2025-09-29 16:44:08",
+      "type": "文本消息",
+      "str_content": "我问问还有没有位置",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759135518,
+      "formatted_time": "2025-09-29 16:45:18",
+      "type": "文本消息",
+      "str_content": "我也去问问",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759135654,
+      "formatted_time": "2025-09-29 16:47:34",
+      "type": "引用消息",
+      "str_content": "我五点半到八点都可以的[呲牙]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1759136357,
+      "formatted_time": "2025-09-29 16:59:17",
+      "type": "文本消息",
+      "str_content": "清华那边没回我",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759136364,
+      "formatted_time": "2025-09-29 16:59:24",
+      "type": "文本消息",
+      "str_content": "那我们直接去",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759136366,
+      "formatted_time": "2025-09-29 16:59:26",
+      "type": "文本消息",
+      "str_content": "要不直接去看看",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759136366,
+      "formatted_time": "2025-09-29 16:59:26",
+      "type": "文本消息",
+      "str_content": "不管它",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759136368,
+      "formatted_time": "2025-09-29 16:59:28",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759136370,
+      "formatted_time": "2025-09-29 16:59:30",
+      "type": "文本消息",
+      "str_content": "麻烦学长了",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759136375,
+      "formatted_time": "2025-09-29 16:59:35",
+      "type": "引用消息",
+      "str_content": "我也这个时间",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759136378,
+      "formatted_time": "2025-09-29 16:59:38",
+      "type": "文本消息",
+      "str_content": "我这边还没人告诉我联系方式",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759136396,
+      "formatted_time": "2025-09-29 16:59:56",
+      "type": "文本消息",
+      "str_content": "那我们五点半楼下见",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759136406,
+      "formatted_time": "2025-09-29 17:00:06",
+      "type": "引用消息",
+      "str_content": "好呀",
+      "is_send": 0,
+      "sender_name": "李婧怡 24",
+      "sender_wxid": "wxid_57czzpdmynod22"
+    },
+    {
+      "create_time": 1759136409,
+      "formatted_time": "2025-09-29 17:00:09",
+      "type": "文本消息",
+      "str_content": "资瓷",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1759136412,
+      "formatted_time": "2025-09-29 17:00:12",
+      "type": "文本消息",
+      "str_content": "好 哪个楼下",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759136415,
+      "formatted_time": "2025-09-29 17:00:15",
+      "type": "文本消息",
+      "str_content": "汇丰楼下还是",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759136416,
+      "formatted_time": "2025-09-29 17:00:16",
+      "type": "文本消息",
+      "str_content": "笑死",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759136421,
+      "formatted_time": "2025-09-29 17:00:21",
+      "type": "文本消息",
+      "str_content": "笑死",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759136426,
+      "formatted_time": "2025-09-29 17:00:26",
+      "type": "文本消息",
+      "str_content": "全家福超市？",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759136427,
+      "formatted_time": "2025-09-29 17:00:27",
+      "type": "文本消息",
+      "str_content": "怎么样",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759136435,
+      "formatted_time": "2025-09-29 17:00:35",
+      "type": "文本消息",
+      "str_content": "嗯嗯大家都骑车吗",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759136435,
+      "formatted_time": "2025-09-29 17:00:35",
+      "type": "文本消息",
+      "str_content": "宿舍那个嘛",
+      "is_send": 0,
+      "sender_name": "李婧怡 24",
+      "sender_wxid": "wxid_57czzpdmynod22"
+    },
+    {
+      "create_time": 1759136443,
+      "formatted_time": "2025-09-29 17:00:43",
+      "type": "文本消息",
+      "str_content": "我骑车 也可以带人",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759136446,
+      "formatted_time": "2025-09-29 17:00:46",
+      "type": "引用消息",
+      "str_content": "嗯嗯",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759136451,
+      "formatted_time": "2025-09-29 17:00:51",
+      "type": "文本消息",
+      "str_content": "我也骑",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759136463,
+      "formatted_time": "2025-09-29 17:01:03",
+      "type": "文本消息",
+      "str_content": "我也",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1759136509,
+      "formatted_time": "2025-09-29 17:01:49",
+      "type": "文本消息",
+      "str_content": "学姐你不在宿舍的话我可以接你",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759136541,
+      "formatted_time": "2025-09-29 17:02:21",
+      "type": "文本消息",
+      "str_content": "我在宿舍的哈哈",
+      "is_send": 0,
+      "sender_name": "李婧怡 24",
+      "sender_wxid": "wxid_57czzpdmynod22"
+    },
+    {
+      "create_time": 1759136565,
+      "formatted_time": "2025-09-29 17:02:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李婧怡 24",
+      "sender_wxid": "wxid_57czzpdmynod22"
+    },
+    {
+      "create_time": 1759136576,
+      "formatted_time": "2025-09-29 17:02:56",
+      "type": "文本消息",
+      "str_content": "好哦",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1759137884,
+      "formatted_time": "2025-09-29 17:24:44",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759137898,
+      "formatted_time": "2025-09-29 17:24:58",
+      "type": "文本消息",
+      "str_content": "太强了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1759137995,
+      "formatted_time": "2025-09-29 17:26:35",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李婧怡 24",
+      "sender_wxid": "wxid_57czzpdmynod22"
+    },
+    {
+      "create_time": 1759138002,
+      "formatted_time": "2025-09-29 17:26:42",
+      "type": "文本消息",
+      "str_content": "我在超市门口惹",
+      "is_send": 0,
+      "sender_name": "李婧怡 24",
+      "sender_wxid": "wxid_57czzpdmynod22"
+    },
+    {
+      "create_time": 1759138087,
+      "formatted_time": "2025-09-29 17:28:07",
+      "type": "文本消息",
+      "str_content": "我马上来",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759138105,
+      "formatted_time": "2025-09-29 17:28:25",
+      "type": "文本消息",
+      "str_content": "我车停在五号楼充电",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759138110,
+      "formatted_time": "2025-09-29 17:28:30",
+      "type": "文本消息",
+      "str_content": "现在从stl走过来",
+      "is_send": 0,
+      "sender_name": "宋捷",
+      "sender_wxid": "wxid_aaz5ajmxw6hv11"
+    },
+    {
+      "create_time": 1759138225,
+      "formatted_time": "2025-09-29 17:30:25",
+      "type": "文本消息",
+      "str_content": "okk，我们在彩虹桥那边~",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1759140961,
+      "formatted_time": "2025-09-29 18:16:01",
+      "type": "图文消息",
+      "str_content": "别人家的爱情 | 这对学霸情侣的爱情哲理，学到了！",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:25+08:00",
+  "message_count": 68
+}

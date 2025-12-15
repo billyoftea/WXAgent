@@ -1,4 +1,4 @@
-package wxdb
+﻿package wxdb
 
 import (
 	"bytes"
@@ -11,6 +11,7 @@ import (
 	"io/fs"
 	"os"
 	"path/filepath"
+	"sort"
 	"strings"
 	"sync"
 	"time"
@@ -40,6 +41,7 @@ type Message struct {
 	FormattedTime string  `json:"formatted_time"` // 可读时间格式
 	Type          string  `json:"type"`           // readable type label
 	StrContent    string  `json:"str_content"`
+	IsSend        int     `json:"is_send"`               // 1=自己发送, 0=接收
 	Sender        *string `json:"sender,omitempty"`      // "自己" 或 "对方"，群聊中对方发送的消息不输出此字段
 	SenderName    string  `json:"sender_name,omitempty"` // 发送者名称（群聊中使用）
 	SenderWxid    string  `json:"sender_wxid,omitempty"` // 发送者wxid（群聊中使用）
@@ -130,9 +132,10 @@ func (e *Exporter) Export() error {
 			continue
 		}
 		name := entry.Name()
-		// 匹配 message_0.db, message_1.db, biz_message_0.db 等
+		// 匹配 message_0.db, message_1.db, biz_message_0.db, media_0.db 等
 		// 排除 fts（全文搜索）和 resource（资源）数据库
-		isMessageDB := (strings.HasPrefix(name, "message_") || strings.HasPrefix(name, "biz_message_")) &&
+		// media_*.db 也包含 Msg_ 表，必须扫描
+		isMessageDB := (strings.HasPrefix(name, "message_") || strings.HasPrefix(name, "biz_message_") || strings.HasPrefix(name, "media_")) &&
 			strings.HasSuffix(name, ".db") &&
 			!strings.Contains(name, "fts") &&
 			!strings.Contains(name, "resource")
@@ -217,12 +220,9 @@ func (e *Exporter) Export() error {
 
 		fmt.Printf("  Found %d sessions\n", len(sessions))
 
-		// 瀵煎嚭浼氳瘽
+		// 导出会话 - 注意：同一会话的消息可能分布在多个数据库文件中
+		// 不再跳过已见过的会话，而是合并来自不同数据库的消息
 		for _, sessionID := range sessions {
-			if allSessions[sessionID] {
-				continue // 宸茬粡瀵煎嚭杩囪繖涓細璇濅簡
-			}
-
 			if err := e.exportSession(db, sessionID, wxidCache, contactNames, selfWxid); err != nil {
 				fmt.Printf("  [!] Failed to export %s: %v\n", sessionID, err)
 				continue
@@ -397,6 +397,7 @@ func (e *Exporter) exportSession(db *sql.DB, tableName string, wxidMap map[strin
 				// 只有自己发的消息才设置 sender 字段
 				if selfWxid != "" && senderWxid == selfWxid {
 					msg.Sender = stringPtr("自己")
+					msg.IsSend = 1
 				}
 				// 对方发送的消息不设置 sender 字段（保持为 nil）
 			}
@@ -422,6 +423,7 @@ func (e *Exporter) exportSession(db *sql.DB, tableName string, wxidMap map[strin
 			if realSenderID.Valid && myRowid >= 0 {
 				if realSenderID.Int64 == myRowid {
 					// 自己发的消息
+					msg.IsSend = 1
 					if !isGroupChat {
 						// 私聊中自己的消息：sender_name = "自己"
 						msg.SenderName = "自己"
@@ -442,6 +444,7 @@ func (e *Exporter) exportSession(db *sql.DB, tableName string, wxidMap map[strin
 				// 在群聊中，NULL 表示系统消息或特殊消息
 				if !isGroupChat {
 					msg.SenderName = "自己"
+					msg.IsSend = 1
 				}
 				// 群聊中 NULL 的情况不设置 sender
 			}
@@ -474,22 +477,44 @@ func (e *Exporter) exportSession(db *sql.DB, tableName string, wxidMap map[strin
 		return nil
 	}
 
-	// 增量模式：需要合并已有的消息
-	if e.config.Incremental && lastTimestamp > 0 {
-		// 读取已有的JSON文件
-		fileName := sanitizeFilename(sessionName)
-		if fileName == "" {
-			fileName = sessionID
-		} else if fileName != sessionID && sessionID != "" {
-			fileName = fmt.Sprintf("%s_%s", fileName, sessionID)
-		}
-		outputPath := filepath.Join(e.config.OutputDir, fileName+".json")
+	// 合并来自不同数据库的消息
+	// 注意：同一会话的消息可能分布在多个数据库文件中（如 message_0.db, message_1.db 等）
+	// 因此需要检查输出文件是否已存在，如果存在则合并消息
+	fileName := sanitizeFilename(sessionName)
+	if fileName == "" {
+		fileName = sessionID
+	} else if fileName != sessionID && sessionID != "" {
+		fileName = fmt.Sprintf("%s_%s", fileName, sessionID)
+	}
+	// 保存到导出目录下的 chat_history 子目录，便于前端统一读取历史记录
+	outputPath := filepath.Join(e.config.OutputDir, "chat_history", fileName+".json")
 
-		existingSession, err := e.loadExistingSession(outputPath)
-		if err == nil && existingSession != nil {
-			// 合并消息
-			messages = append(existingSession.Messages, messages...)
+	existingSession, err := e.loadExistingSession(outputPath)
+	if err == nil && existingSession != nil && len(existingSession.Messages) > 0 {
+		// 合并消息：使用 map 去重（按 create_time 去重）
+		existingMsgMap := make(map[int64]bool)
+		for _, msg := range existingSession.Messages {
+			existingMsgMap[msg.CreateTime] = true
 		}
+
+		// 只添加新消息（不在已有消息中的）
+		newMessages := make([]Message, 0)
+		for _, msg := range messages {
+			if !existingMsgMap[msg.CreateTime] {
+				newMessages = append(newMessages, msg)
+			}
+		}
+
+		// 合并并按时间排序
+		allMessages := append(existingSession.Messages, newMessages...)
+		// 按 create_time 排序
+		sort.Slice(allMessages, func(i, j int) bool {
+			return allMessages[i].CreateTime < allMessages[j].CreateTime
+		})
+		messages = allMessages
+
+		fmt.Printf("  [MERGE] %s: %d existing + %d new = %d total\n",
+			sessionID, len(existingSession.Messages), len(newMessages), len(messages))
 	}
 
 	// Build JSON output
@@ -501,14 +526,7 @@ func (e *Exporter) exportSession(db *sql.DB, tableName string, wxidMap map[strin
 		MessageCount: len(messages),
 	}
 
-	// Prefer readable session name for file naming, append sessionID to avoid collisions
-	fileName := sanitizeFilename(sessionName)
-	if fileName == "" {
-		fileName = sessionID
-	} else if fileName != sessionID && sessionID != "" {
-		fileName = fmt.Sprintf("%s_%s", fileName, sessionID)
-	}
-	outputPath := filepath.Join(e.config.OutputDir, fileName+".json")
+	// 保存到文件（outputPath 已在上面定义）
 	if err := e.saveSession(session, outputPath); err != nil {
 		return err
 	}

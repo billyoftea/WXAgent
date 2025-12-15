@@ -1,0 +1,80 @@
+{
+  "session_id": "wxid_tf79t3bl5i7l22",
+  "session_name": "陈佳鹏",
+  "messages": [
+    {
+      "create_time": 1654443794,
+      "formatted_time": "2022-06-05 23:43:14",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "陈佳鹏"
+    },
+    {
+      "create_time": 1654476635,
+      "formatted_time": "2022-06-06 08:50:35",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1654476644,
+      "formatted_time": "2022-06-06 08:50:44",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "陈佳鹏"
+    },
+    {
+      "create_time": 1685235081,
+      "formatted_time": "2023-05-28 08:51:21",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "陈佳鹏"
+    },
+    {
+      "create_time": 1685235103,
+      "formatted_time": "2023-05-28 08:51:43",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "陈佳鹏"
+    },
+    {
+      "create_time": 1685235105,
+      "formatted_time": "2023-05-28 08:51:45",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "陈佳鹏"
+    },
+    {
+      "create_time": 1707529360,
+      "formatted_time": "2024-02-10 09:42:40",
+      "type": "文本消息",
+      "str_content": "陈哥新年快乐，万事胜意！龙年行大运，龙行龘龘，前程朤朤！！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707537725,
+      "formatted_time": "2024-02-10 12:02:05",
+      "type": "文本消息",
+      "str_content": "新年快乐鸭～",
+      "is_send": 0,
+      "sender_name": "陈佳鹏"
+    },
+    {
+      "create_time": 1707537738,
+      "formatted_time": "2024-02-10 12:02:18",
+      "type": "文本消息",
+      "str_content": "新的一年学业顺利，万事顺意！",
+      "is_send": 0,
+      "sender_name": "陈佳鹏"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:43+08:00",
+  "message_count": 9
+}

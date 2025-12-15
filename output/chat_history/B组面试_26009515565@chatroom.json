@@ -1,0 +1,801 @@
+{
+  "session_id": "26009515565@chatroom",
+  "session_name": "B组面试",
+  "messages": [
+    {
+      "create_time": 1760105032,
+      "formatted_time": "2025-10-10 22:03:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760105282,
+      "formatted_time": "2025-10-10 22:08:02",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "B组面试",
+      "sender_wxid": "26009515565@chatroom"
+    },
+    {
+      "create_time": 1760105383,
+      "formatted_time": "2025-10-10 22:09:43",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "B组面试",
+      "sender_wxid": "26009515565@chatroom"
+    },
+    {
+      "create_time": 1760105595,
+      "formatted_time": "2025-10-10 22:13:15",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "B组面试",
+      "sender_wxid": "26009515565@chatroom"
+    },
+    {
+      "create_time": 1760105750,
+      "formatted_time": "2025-10-10 22:15:50",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "B组面试",
+      "sender_wxid": "26009515565@chatroom"
+    },
+    {
+      "create_time": 1760107406,
+      "formatted_time": "2025-10-10 22:43:26",
+      "type": "文本消息",
+      "str_content": "部长们好，我想周日晚上换到周日下午可以吗🥰",
+      "is_send": 0,
+      "sender_name": "文耀瑾-湖南大学-数量和金融科技",
+      "sender_wxid": "wxid_40a6a3gn9c9a22"
+    },
+    {
+      "create_time": 1760107538,
+      "formatted_time": "2025-10-10 22:45:38",
+      "type": "文本消息",
+      "str_content": "周日下午和晚上时间有点抽不开，可以换到周日上午吗[骷髅]",
+      "is_send": 0,
+      "sender_name": "Elonwong",
+      "sender_wxid": "wxid_eoewa0yum0zg22"
+    },
+    {
+      "create_time": 1760107722,
+      "formatted_time": "2025-10-10 22:48:42",
+      "type": "文本消息",
+      "str_content": "部长们好，我周日上午要法考，下午晚上连着上专业课上到晚上9点[流泪]请问或许可以把我调到周日晚上吗？",
+      "is_send": 0,
+      "sender_name": "高雅菲 Bragi",
+      "sender_wxid": "wxid_ga0bjgzwf5f012"
+    },
+    {
+      "create_time": 1760108528,
+      "formatted_time": "2025-10-10 23:02:08",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760108606,
+      "formatted_time": "2025-10-10 23:03:26",
+      "type": "文本消息",
+      "str_content": "@文耀瑾 @Bragi 好的",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760108643,
+      "formatted_time": "2025-10-10 23:04:03",
+      "type": "文本消息",
+      "str_content": "@Bragi 说一下姓名",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760108715,
+      "formatted_time": "2025-10-10 23:05:15",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760108724,
+      "formatted_time": "2025-10-10 23:05:24",
+      "type": "文本消息",
+      "str_content": "我是高雅菲，我改一下备注～",
+      "is_send": 0,
+      "sender_name": "高雅菲 Bragi",
+      "sender_wxid": "wxid_ga0bjgzwf5f012"
+    },
+    {
+      "create_time": 1760108725,
+      "formatted_time": "2025-10-10 23:05:25",
+      "type": "文本消息",
+      "str_content": "大家入群后修改群备注啊 姓名+院系 有劳各位了！",
+      "is_send": 0,
+      "sender_name": "CH",
+      "sender_wxid": "wxid_blevlarsc3n122"
+    },
+    {
+      "create_time": 1760108730,
+      "formatted_time": "2025-10-10 23:05:30",
+      "type": "文本消息",
+      "str_content": "学长好！我也想申请从周日晚上换到周日下午~",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1760108739,
+      "formatted_time": "2025-10-10 23:05:39",
+      "type": "引用消息",
+      "str_content": "没关系，我们会额外安排一个时间段，到时候通知你",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760108786,
+      "formatted_time": "2025-10-10 23:06:26",
+      "type": "引用消息",
+      "str_content": "好滴！感谢！",
+      "is_send": 0,
+      "sender_name": "Elonwong",
+      "sender_wxid": "wxid_eoewa0yum0zg22"
+    },
+    {
+      "create_time": 1760108981,
+      "formatted_time": "2025-10-10 23:09:41",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760108997,
+      "formatted_time": "2025-10-10 23:09:57",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "B组面试",
+      "sender_wxid": "26009515565@chatroom"
+    },
+    {
+      "create_time": 1760109267,
+      "formatted_time": "2025-10-10 23:14:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "文耀瑾-湖南大学-数量和金融科技",
+      "sender_wxid": "wxid_40a6a3gn9c9a22"
+    },
+    {
+      "create_time": 1760110764,
+      "formatted_time": "2025-10-10 23:39:24",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "B组面试",
+      "sender_wxid": "26009515565@chatroom"
+    },
+    {
+      "create_time": 1760146619,
+      "formatted_time": "2025-10-11 09:36:59",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "B组面试",
+      "sender_wxid": "26009515565@chatroom"
+    },
+    {
+      "create_time": 1760149577,
+      "formatted_time": "2025-10-11 10:26:17",
+      "type": "文本消息",
+      "str_content": "魏雨轩面试时间周日2-5pm调整至7-10pm[太阳]",
+      "is_send": 0,
+      "sender_name": "Isi",
+      "sender_wxid": "wxid_cgelhymbew3u12"
+    },
+    {
+      "create_time": 1760149654,
+      "formatted_time": "2025-10-11 10:27:34",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760154964,
+      "formatted_time": "2025-10-11 11:56:04",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "B组面试",
+      "sender_wxid": "26009515565@chatroom"
+    },
+    {
+      "create_time": 1760187534,
+      "formatted_time": "2025-10-11 20:58:54",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "B组面试",
+      "sender_wxid": "26009515565@chatroom"
+    },
+    {
+      "create_time": 1760188577,
+      "formatted_time": "2025-10-11 21:16:17",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760188828,
+      "formatted_time": "2025-10-11 21:20:28",
+      "type": "文本消息",
+      "str_content": "大家好，这是明天的面试顺序，每个人预计 10 分钟左右。我们会在群里实时更新面试进度，同时提醒下一位同学。面试使用线上腾讯会议进行，#腾讯会议：226-011-927。大家改一下备注。",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760189226,
+      "formatted_time": "2025-10-11 21:27:06",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760189227,
+      "formatted_time": "2025-10-11 21:27:07",
+      "type": "文本消息",
+      "str_content": "最新版",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760189691,
+      "formatted_time": "2025-10-11 21:34:51",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760189694,
+      "formatted_time": "2025-10-11 21:34:54",
+      "type": "文本消息",
+      "str_content": "更新",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760189728,
+      "formatted_time": "2025-10-11 21:35:28",
+      "type": "文本消息",
+      "str_content": "好的，麻烦问一下我是多久的[捂脸]",
+      "is_send": 0,
+      "sender_name": "Elonwong",
+      "sender_wxid": "wxid_eoewa0yum0zg22"
+    },
+    {
+      "create_time": 1760189730,
+      "formatted_time": "2025-10-11 21:35:30",
+      "type": "文本消息",
+      "str_content": "感谢！",
+      "is_send": 0,
+      "sender_name": "Elonwong",
+      "sender_wxid": "wxid_eoewa0yum0zg22"
+    },
+    {
+      "create_time": 1760189817,
+      "formatted_time": "2025-10-11 21:36:57",
+      "type": "引用消息",
+      "str_content": "后面我会单独提前联系你",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760189969,
+      "formatted_time": "2025-10-11 21:39:29",
+      "type": "文本消息",
+      "str_content": "好滴感谢",
+      "is_send": 0,
+      "sender_name": "Elonwong",
+      "sender_wxid": "wxid_eoewa0yum0zg22"
+    },
+    {
+      "create_time": 1760194052,
+      "formatted_time": "2025-10-11 22:47:32",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "B组面试",
+      "sender_wxid": "26009515565@chatroom"
+    },
+    {
+      "create_time": 1760248868,
+      "formatted_time": "2025-10-12 14:01:08",
+      "type": "文本消息",
+      "str_content": "现在是黄喆，下一位同学是谷田丰",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760248896,
+      "formatted_time": "2025-10-12 14:01:36",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760249492,
+      "formatted_time": "2025-10-12 14:11:32",
+      "type": "文本消息",
+      "str_content": "谷田丰同学可以进来了",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760249508,
+      "formatted_time": "2025-10-12 14:11:48",
+      "type": "文本消息",
+      "str_content": "下一位同学是陈俊杰",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760250083,
+      "formatted_time": "2025-10-12 14:21:23",
+      "type": "文本消息",
+      "str_content": "陈俊杰同学可以进来了",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760250100,
+      "formatted_time": "2025-10-12 14:21:40",
+      "type": "文本消息",
+      "str_content": "下一位是宋笑飞",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760250100,
+      "formatted_time": "2025-10-12 14:21:40",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 0,
+      "sender_name": "飞鱼",
+      "sender_wxid": "wxid_1n1g1iru09pd22"
+    },
+    {
+      "create_time": 1760250828,
+      "formatted_time": "2025-10-12 14:33:48",
+      "type": "文本消息",
+      "str_content": "宋笑飞同学可以进来了",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760250844,
+      "formatted_time": "2025-10-12 14:34:04",
+      "type": "文本消息",
+      "str_content": "下一位是郭钰",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760251717,
+      "formatted_time": "2025-10-12 14:48:37",
+      "type": "文本消息",
+      "str_content": "郭钰同学可以进来了",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760251728,
+      "formatted_time": "2025-10-12 14:48:48",
+      "type": "文本消息",
+      "str_content": "下一个同学是卢懿",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760252885,
+      "formatted_time": "2025-10-12 15:08:05",
+      "type": "文本消息",
+      "str_content": "卢懿同学可以进来了，下一位同学是赵定洲",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760252917,
+      "formatted_time": "2025-10-12 15:08:37",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "B组面试",
+      "sender_wxid": "26009515565@chatroom"
+    },
+    {
+      "create_time": 1760253051,
+      "formatted_time": "2025-10-12 15:10:51",
+      "type": "文本消息",
+      "str_content": "赵定洲同学先来吧，他可能不在群里",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760253148,
+      "formatted_time": "2025-10-12 15:12:28",
+      "type": "文本消息",
+      "str_content": "夏一飞同学先来吧",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760253155,
+      "formatted_time": "2025-10-12 15:12:35",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 0,
+      "sender_name": "VariantConst",
+      "sender_wxid": "wxid_lgt3lw9hs24122"
+    },
+    {
+      "create_time": 1760253155,
+      "formatted_time": "2025-10-12 15:12:35",
+      "type": "文本消息",
+      "str_content": "@夏一飞-计算机学院",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760253213,
+      "formatted_time": "2025-10-12 15:13:33",
+      "type": "文本消息",
+      "str_content": "下一位同学是张可欣",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760253387,
+      "formatted_time": "2025-10-12 15:16:27",
+      "type": "文本消息",
+      "str_content": "想问问晚上面试顺序是按顺序吗[Shocked] 我八点半有会要开想问问能不能调一下[捂脸]",
+      "is_send": 0,
+      "sender_name": "坦途",
+      "sender_wxid": "wxid_xlre7q51ozaj12"
+    },
+    {
+      "create_time": 1760253450,
+      "formatted_time": "2025-10-12 15:17:30",
+      "type": "引用消息",
+      "str_content": "对，可以延后",
+      "is_send": 0,
+      "sender_name": "Cecilia 21-研究部-龚韦西",
+      "sender_wxid": "wxid_0e5yrdbdk4si11"
+    },
+    {
+      "create_time": 1760253599,
+      "formatted_time": "2025-10-12 15:19:59",
+      "type": "文本消息",
+      "str_content": "那把我调到最后吧，十点前差不多能开完（或者下午我也可以",
+      "is_send": 0,
+      "sender_name": "坦途",
+      "sender_wxid": "wxid_xlre7q51ozaj12"
+    },
+    {
+      "create_time": 1760253605,
+      "formatted_time": "2025-10-12 15:20:05",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "坦途",
+      "sender_wxid": "wxid_xlre7q51ozaj12"
+    },
+    {
+      "create_time": 1760254165,
+      "formatted_time": "2025-10-12 15:29:25",
+      "type": "文本消息",
+      "str_content": "张可欣同学可以进来了，下一位是文耀瑾",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760254186,
+      "formatted_time": "2025-10-12 15:29:46",
+      "type": "文本消息",
+      "str_content": "@刘兵 数院 你下午这会有时间吗？",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760254249,
+      "formatted_time": "2025-10-12 15:30:49",
+      "type": "文本消息",
+      "str_content": "我去找个地方就行 大概五分钟",
+      "is_send": 0,
+      "sender_name": "坦途",
+      "sender_wxid": "wxid_xlre7q51ozaj12"
+    },
+    {
+      "create_time": 1760254301,
+      "formatted_time": "2025-10-12 15:31:41",
+      "type": "引用消息",
+      "str_content": "最后三位同学结束后你来，不着急",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760254332,
+      "formatted_time": "2025-10-12 15:32:12",
+      "type": "文本消息",
+      "str_content": "好的👌",
+      "is_send": 0,
+      "sender_name": "坦途",
+      "sender_wxid": "wxid_xlre7q51ozaj12"
+    },
+    {
+      "create_time": 1760255108,
+      "formatted_time": "2025-10-12 15:45:08",
+      "type": "文本消息",
+      "str_content": "文耀瑾同学可以进来了，下一位是徐昂",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760255114,
+      "formatted_time": "2025-10-12 15:45:14",
+      "type": "文本消息",
+      "str_content": "@文耀瑾 汇丰",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760256093,
+      "formatted_time": "2025-10-12 16:01:33",
+      "type": "文本消息",
+      "str_content": "徐昂同学可以进来了，下一个是刘兵",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760256144,
+      "formatted_time": "2025-10-12 16:02:24",
+      "type": "文本消息",
+      "str_content": "想问一下会议号，我进来的晚[Whimper]谢谢[Whimper]",
+      "is_send": 0,
+      "sender_name": "坦途",
+      "sender_wxid": "wxid_xlre7q51ozaj12"
+    },
+    {
+      "create_time": 1760256180,
+      "formatted_time": "2025-10-12 16:03:00",
+      "type": "文本消息",
+      "str_content": "#腾讯会议：226-011-927",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760257345,
+      "formatted_time": "2025-10-12 16:22:25",
+      "type": "文本消息",
+      "str_content": "@刘兵 数院 可以进来了",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760258189,
+      "formatted_time": "2025-10-12 16:36:29",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "B组面试",
+      "sender_wxid": "26009515565@chatroom"
+    },
+    {
+      "create_time": 1760258435,
+      "formatted_time": "2025-10-12 16:40:35",
+      "type": "文本消息",
+      "str_content": "@通透",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760258438,
+      "formatted_time": "2025-10-12 16:40:38",
+      "type": "文本消息",
+      "str_content": "#腾讯会议：226-011-927",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760259438,
+      "formatted_time": "2025-10-12 16:57:18",
+      "type": "文本消息",
+      "str_content": "下午的面试已经结束，晚上的面试顺序有更新",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760259439,
+      "formatted_time": "2025-10-12 16:57:19",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760267289,
+      "formatted_time": "2025-10-12 19:08:09",
+      "type": "文本消息",
+      "str_content": "王佳明同学可以进来了，下一个是谷金忠",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760267887,
+      "formatted_time": "2025-10-12 19:18:07",
+      "type": "文本消息",
+      "str_content": "谷金忠请进，下一个是莫孜晗",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760268766,
+      "formatted_time": "2025-10-12 19:32:46",
+      "type": "文本消息",
+      "str_content": "莫孜晗同学请进，下一个是李泽朋",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760269625,
+      "formatted_time": "2025-10-12 19:47:05",
+      "type": "文本消息",
+      "str_content": "李泽朋同学请进，下一个是卢博文",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760270385,
+      "formatted_time": "2025-10-12 19:59:45",
+      "type": "文本消息",
+      "str_content": "卢博文同学请进，下一个是杨正钰",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760271734,
+      "formatted_time": "2025-10-12 20:22:14",
+      "type": "文本消息",
+      "str_content": "杨正钰同学请进，下一个是刘雨薇",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760273018,
+      "formatted_time": "2025-10-12 20:43:38",
+      "type": "文本消息",
+      "str_content": "刘雨薇同学请进，下一个是高雅菲",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760273227,
+      "formatted_time": "2025-10-12 20:47:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760274399,
+      "formatted_time": "2025-10-12 21:06:39",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760274520,
+      "formatted_time": "2025-10-12 21:08:40",
+      "type": "文本消息",
+      "str_content": "高雅菲同学在会议中，下一个是魏雨轩",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760275170,
+      "formatted_time": "2025-10-12 21:19:30",
+      "type": "文本消息",
+      "str_content": "魏雨轩同学请进，下一个是刘婧怡",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760276504,
+      "formatted_time": "2025-10-12 21:41:44",
+      "type": "文本消息",
+      "str_content": "刘婧怡同学请进",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760277059,
+      "formatted_time": "2025-10-12 21:50:59",
+      "type": "文本消息",
+      "str_content": "@所有人 还有在面试名单里但还没面试的吗，除了黄振同学",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1760277713,
+      "formatted_time": "2025-10-12 22:01:53",
+      "type": "文本消息",
+      "str_content": "B 组面试已结束，面试结果后续通知，感谢大家的时间 [玫瑰][玫瑰][玫瑰]",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1762411267,
+      "formatted_time": "2025-11-06 14:41:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    }
+  ],
+  "export_time": "2025-12-15T00:08:25+08:00",
+  "message_count": 90
+}

@@ -1,0 +1,49 @@
+{
+  "session_id": "44854150330@chatroom",
+  "session_name": "Fintenet 签到组",
+  "messages": [
+    {
+      "create_time": 1762213655,
+      "formatted_time": "2025-11-04 07:47:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1762213655,
+      "formatted_time": "2025-11-04 07:47:35",
+      "type": "文本消息",
+      "str_content": "@@go on",
+      "is_send": 0,
+      "sender_name": "周强",
+      "sender_wxid": "wxid_e86lerslobci22"
+    },
+    {
+      "create_time": 1762214036,
+      "formatted_time": "2025-11-04 07:53:56",
+      "type": "文本消息",
+      "str_content": "Hii",
+      "is_send": 0,
+      "sender_name": "Hannah",
+      "sender_wxid": "wxid_ganexhjhjcka22"
+    },
+    {
+      "create_time": 1762214044,
+      "formatted_time": "2025-11-04 07:54:04",
+      "type": "文本消息",
+      "str_content": "大家都到签到区来吧",
+      "is_send": 0,
+      "sender_name": "Hannah",
+      "sender_wxid": "wxid_ganexhjhjcka22"
+    },
+    {
+      "create_time": 1762214533,
+      "formatted_time": "2025-11-04 08:02:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    }
+  ],
+  "export_time": "2025-12-15T00:08:19+08:00",
+  "message_count": 5
+}

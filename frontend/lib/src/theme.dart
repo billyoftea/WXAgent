@@ -14,19 +14,17 @@ class WxAgentColors {
 }
 
 ThemeData buildWxAgentTheme() {
+  // 使用系统默认字体，让 Flutter 自动处理 fallback
+  // 这样可以避免不同字体之间的粗细不一致问题
+  const String? fontFamily = null; // 使用系统默认字体
+  
   final base = ThemeData(
     colorScheme: ColorScheme.fromSeed(
       seedColor: WxAgentColors.primary,
       background: WxAgentColors.background,
     ),
     useMaterial3: true,
-    fontFamily: 'Microsoft YaHei UI',
-    fontFamilyFallback: const [
-      'Microsoft YaHei',
-      'PingFang SC',
-      'Noto Sans CJK SC',
-      'Heiti SC',
-    ],
+    fontFamily: fontFamily,
   );
 
   return base.copyWith(

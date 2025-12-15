@@ -1,0 +1,24 @@
+{
+  "session_id": "wxid_tcr9hyygedqt22",
+  "session_name": "菏泽 北大 - 董明洁",
+  "messages": [
+    {
+      "create_time": 1758025569,
+      "formatted_time": "2025-09-16 20:26:09",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "菏泽 北大 - 董明洁"
+    },
+    {
+      "create_time": 1758025569,
+      "formatted_time": "2025-09-16 20:26:09",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "菏泽 北大 - 董明洁"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:26+08:00",
+  "message_count": 2
+}

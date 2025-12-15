@@ -1,0 +1,64 @@
+{
+  "session_id": "wxid_oqau687mjksb22",
+  "session_name": "Sunny 张晴",
+  "messages": [
+    {
+      "create_time": 1762212098,
+      "formatted_time": "2025-11-04 07:21:38",
+      "type": "文本消息",
+      "str_content": "我是张晴Sunny",
+      "is_send": 0,
+      "sender_name": "Sunny 张晴"
+    },
+    {
+      "create_time": 1762212108,
+      "formatted_time": "2025-11-04 07:21:48",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "Sunny 张晴"
+    },
+    {
+      "create_time": 1762249792,
+      "formatted_time": "2025-11-04 17:49:52",
+      "type": "文本消息",
+      "str_content": "hello，北大汇丰研一 fintech 徐昂",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1762264526,
+      "formatted_time": "2025-11-04 21:55:26",
+      "type": "文本消息",
+      "str_content": "哈喽哈喽！港大商学院Master张晴Sunny，很高兴认识！",
+      "is_send": 0,
+      "sender_name": "Sunny 张晴"
+    },
+    {
+      "create_time": 1762264538,
+      "formatted_time": "2025-11-04 21:55:38",
+      "type": "文本消息",
+      "str_content": "sorry我回去就累趴了哈哈哈",
+      "is_send": 0,
+      "sender_name": "Sunny 张晴"
+    },
+    {
+      "create_time": 1762265349,
+      "formatted_time": "2025-11-04 22:09:09",
+      "type": "文本消息",
+      "str_content": "haha我也是",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1762265351,
+      "formatted_time": "2025-11-04 22:09:11",
+      "type": "文本消息",
+      "str_content": "大家都辛苦了！",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:18+08:00",
+  "message_count": 7
+}

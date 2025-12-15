@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_56lunrpgrgoh22",
+  "session_name": "庞昀懿",
+  "messages": [
+    {
+      "create_time": 1658916153,
+      "formatted_time": "2022-07-27 18:02:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "庞昀懿"
+    },
+    {
+      "create_time": 1658916162,
+      "formatted_time": "2022-07-27 18:02:42",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1658916257,
+      "formatted_time": "2022-07-27 18:04:17",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "庞昀懿"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:43+08:00",
+  "message_count": 3
+}

@@ -1,0 +1,296 @@
+{
+  "session_id": "wxid_b0v4x3qnsn0q22",
+  "session_name": "小邬瑞媛",
+  "messages": [
+    {
+      "create_time": 1712590942,
+      "formatted_time": "2024-04-08 23:42:22",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1712590963,
+      "formatted_time": "2024-04-08 23:42:43",
+      "type": "文本消息",
+      "str_content": "你好",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1712591043,
+      "formatted_time": "2024-04-08 23:44:03",
+      "type": "文件消息",
+      "str_content": "20240408_212151.mp3",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712591048,
+      "formatted_time": "2024-04-08 23:44:08",
+      "type": "文本消息",
+      "str_content": "同学我自己录了一份，可以参考哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1712591104,
+      "formatted_time": "2024-04-08 23:45:04",
+      "type": "文本消息",
+      "str_content": "哥你是神",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1712591107,
+      "formatted_time": "2024-04-08 23:45:07",
+      "type": "文本消息",
+      "str_content": "跪谢",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1712591129,
+      "formatted_time": "2024-04-08 23:45:29",
+      "type": "文本消息",
+      "str_content": "小事小事",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723626527,
+      "formatted_time": "2024-08-14 17:08:47",
+      "type": "文本消息",
+      "str_content": "哈喽哈喽bro，俺阔以咨询下uu 汇丰面试单面的情况嘛[哇]（俺不会外传嘟，孩子打算准备下预推免的面试）~听说单面会有抽题的形式，是那种专业课的tech问题咩~",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1723626653,
+      "formatted_time": "2024-08-14 17:10:53",
+      "type": "文件消息",
+      "str_content": "【23】北京大学+汇丰商学院+夏令营@BYS.pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723626661,
+      "formatted_time": "2024-08-14 17:11:01",
+      "type": "引用消息",
+      "str_content": "！",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1723626668,
+      "formatted_time": "2024-08-14 17:11:08",
+      "type": "文本消息",
+      "str_content": "今年的夏令营面试情况和去年差不多的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723626681,
+      "formatted_time": "2024-08-14 17:11:21",
+      "type": "文本消息",
+      "str_content": "保研声的免费资料这是",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723626795,
+      "formatted_time": "2024-08-14 17:13:15",
+      "type": "文本消息",
+      "str_content": "好诶！谢谢你的分享[加油]~对啦uu，我听一两位学长姐说，去年有的抽题很奇怪，俺有点担心，抽题会是tech类题目or一些很开放的脑洞题嘛",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1723626865,
+      "formatted_time": "2024-08-14 17:14:25",
+      "type": "文本消息",
+      "str_content": "抽两道题，第一道偏日常，第二道的范围还是很大的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723626903,
+      "formatted_time": "2024-08-14 17:15:03",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723626909,
+      "formatted_time": "2024-08-14 17:15:09",
+      "type": "文本消息",
+      "str_content": "不会直接考tech类题目，但如果能在抽题中用自己学过的知识加以解释那肯定是一个加分点",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723627076,
+      "formatted_time": "2024-08-14 17:17:56",
+      "type": "引用消息",
+      "str_content": "范围大指的是那种时事热点的题嘛，uu方便透露下抽题的题目嘛，俺想最近看看相关领域的外刊准备下，如果能入的话ww[大哭]（uu可以发了撤回嘟，俺一定不会外传给第三个人滴，万分感谢[合十]）",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1723627090,
+      "formatted_time": "2024-08-14 17:18:10",
+      "type": "引用消息",
+      "str_content": "嗯嗯！！",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1723627118,
+      "formatted_time": "2024-08-14 17:18:38",
+      "type": "文本消息",
+      "str_content": "其实很难看外刊进行准备的[捂脸]范围太大了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723627138,
+      "formatted_time": "2024-08-14 17:18:58",
+      "type": "文本消息",
+      "str_content": "有很简单的行为面，比如你是不是愿意扶老奶奶过马路",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723627154,
+      "formatted_time": "2024-08-14 17:19:14",
+      "type": "文本消息",
+      "str_content": "哇是这样的题，出乎意料",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1723627169,
+      "formatted_time": "2024-08-14 17:19:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1723627173,
+      "formatted_time": "2024-08-14 17:19:33",
+      "type": "文本消息",
+      "str_content": "也有稍微solid一点的，比如设计一个实验，对市场上的性别歧视进行检验",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723627203,
+      "formatted_time": "2024-08-14 17:20:03",
+      "type": "文本消息",
+      "str_content": "也有的就像雅思口语，比如介绍一个你去过的博物馆",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723627221,
+      "formatted_time": "2024-08-14 17:20:21",
+      "type": "文本消息",
+      "str_content": "哇博物馆是老题目",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1723627242,
+      "formatted_time": "2024-08-14 17:20:42",
+      "type": "文本消息",
+      "str_content": "很难进行针对突击性的准备，很大程度上依赖长久的积累和临场状态[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723627255,
+      "formatted_time": "2024-08-14 17:20:55",
+      "type": "引用消息",
+      "str_content": "嗯嗯！！原来如此",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1723627257,
+      "formatted_time": "2024-08-14 17:20:57",
+      "type": "文本消息",
+      "str_content": "对的，博物馆这个应该很多人都抽到了其实",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723627326,
+      "formatted_time": "2024-08-14 17:22:06",
+      "type": "文本消息",
+      "str_content": "所以我最近是不是阔以多看看公众号，对各方面都涉猎一点，尝试用英文结构化的说一说",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1723627374,
+      "formatted_time": "2024-08-14 17:22:54",
+      "type": "文本消息",
+      "str_content": "嗯嗯，其实感觉最重要的是梳理一下自己的简历，再有针对性的复习一下自己的专业课这样",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723627483,
+      "formatted_time": "2024-08-14 17:24:43",
+      "type": "文本消息",
+      "str_content": "嗯嗯！我明白啦~",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1723627529,
+      "formatted_time": "2024-08-14 17:25:29",
+      "type": "文本消息",
+      "str_content": "谢谢bro耐心的解答呀，希望有机会能成为同学嘿嘿，后续如果有好消息俺给你报喜[加油]",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1723627533,
+      "formatted_time": "2024-08-14 17:25:33",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1723627555,
+      "formatted_time": "2024-08-14 17:25:55",
+      "type": "文本消息",
+      "str_content": "嗯嗯没事滴，加油加油",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723627566,
+      "formatted_time": "2024-08-14 17:26:06",
+      "type": "文本消息",
+      "str_content": "好诶，假期愉快呀~",
+      "is_send": 0,
+      "sender_name": "小邬瑞媛"
+    },
+    {
+      "create_time": 1723627576,
+      "formatted_time": "2024-08-14 17:26:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:32+08:00",
+  "message_count": 36
+}

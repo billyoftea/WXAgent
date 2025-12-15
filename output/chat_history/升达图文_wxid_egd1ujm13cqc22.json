@@ -1,0 +1,40 @@
+{
+  "session_id": "wxid_egd1ujm13cqc22",
+  "session_name": "升达图文",
+  "messages": [
+    {
+      "create_time": 1679989763,
+      "formatted_time": "2023-03-28 15:49:23",
+      "type": "文件消息",
+      "str_content": "申请.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1713759703,
+      "formatted_time": "2024-04-22 12:21:43",
+      "type": "文件消息",
+      "str_content": "LLM在股票预测多模态GNN中的应用——以ChatGPT为例 (1).pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1726124504,
+      "formatted_time": "2024-09-12 15:01:44",
+      "type": "文件消息",
+      "str_content": "宋老师推荐信_revised(1).pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1726124511,
+      "formatted_time": "2024-09-12 15:01:51",
+      "type": "文件消息",
+      "str_content": "徐昂-北京大学（华中科技大学）-可实习半年（一周五天）.pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:40+08:00",
+  "message_count": 4
+}

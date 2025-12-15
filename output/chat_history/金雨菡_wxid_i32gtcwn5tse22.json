@@ -1,0 +1,1160 @@
+{
+  "session_id": "wxid_i32gtcwn5tse22",
+  "session_name": "金雨菡",
+  "messages": [
+    {
+      "create_time": 1663427274,
+      "formatted_time": "2022-09-17 23:07:54",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1663427324,
+      "formatted_time": "2022-09-17 23:08:44",
+      "type": "文本消息",
+      "str_content": "请问你是？",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1663427326,
+      "formatted_time": "2022-09-17 23:08:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1663427328,
+      "formatted_time": "2022-09-17 23:08:48",
+      "type": "文本消息",
+      "str_content": "徐昂",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1663427329,
+      "formatted_time": "2022-09-17 23:08:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1663427342,
+      "formatted_time": "2022-09-17 23:09:02",
+      "type": "文本消息",
+      "str_content": "啊哈哈哈哈哈哈哈哈学长好",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1663427365,
+      "formatted_time": "2022-09-17 23:09:25",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈你好哇",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1663427414,
+      "formatted_time": "2022-09-17 23:10:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1663599683,
+      "formatted_time": "2022-09-19 23:01:23",
+      "type": "文件消息",
+      "str_content": "迎新晚会暖场方案（金雨菡）.docx",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1663599721,
+      "formatted_time": "2022-09-19 23:02:01",
+      "type": "文本消息",
+      "str_content": "好滴~辛苦啦！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1663599731,
+      "formatted_time": "2022-09-19 23:02:11",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1663599738,
+      "formatted_time": "2022-09-19 23:02:18",
+      "type": "文本消息",
+      "str_content": "好棒",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1663599742,
+      "formatted_time": "2022-09-19 23:02:22",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1663599754,
+      "formatted_time": "2022-09-19 23:02:34",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈哈哈哈哈好的",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1663599762,
+      "formatted_time": "2022-09-19 23:02:42",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666855254,
+      "formatted_time": "2022-10-27 15:20:54",
+      "type": "文本消息",
+      "str_content": "你周六晚上有时间是嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666855259,
+      "formatted_time": "2022-10-27 15:20:59",
+      "type": "文本消息",
+      "str_content": "晚上七点钟开学代会",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856505,
+      "formatted_time": "2022-10-27 15:41:45",
+      "type": "文本消息",
+      "str_content": "[可怜][可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856506,
+      "formatted_time": "2022-10-27 15:41:46",
+      "type": "文本消息",
+      "str_content": "[可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856507,
+      "formatted_time": "2022-10-27 15:41:47",
+      "type": "文本消息",
+      "str_content": "[可怜][可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856508,
+      "formatted_time": "2022-10-27 15:41:48",
+      "type": "文本消息",
+      "str_content": "[可怜][可怜][可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856540,
+      "formatted_time": "2022-10-27 15:42:20",
+      "type": "文本消息",
+      "str_content": "啊俺在，又又忘记回消息了",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856541,
+      "formatted_time": "2022-10-27 15:42:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856551,
+      "formatted_time": "2022-10-27 15:42:31",
+      "type": "文本消息",
+      "str_content": "好的好的OK",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856554,
+      "formatted_time": "2022-10-27 15:42:34",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856558,
+      "formatted_time": "2022-10-27 15:42:38",
+      "type": "文本消息",
+      "str_content": "辛苦辛苦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856561,
+      "formatted_time": "2022-10-27 15:42:41",
+      "type": "文本消息",
+      "str_content": "开完会请你吃饭",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856564,
+      "formatted_time": "2022-10-27 15:42:44",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856585,
+      "formatted_time": "2022-10-27 15:43:05",
+      "type": "文本消息",
+      "str_content": "学长你不会是在画大饼吧",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856586,
+      "formatted_time": "2022-10-27 15:43:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856596,
+      "formatted_time": "2022-10-27 15:43:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856609,
+      "formatted_time": "2022-10-27 15:43:29",
+      "type": "文本消息",
+      "str_content": "这活只有你一个人愿意干",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856612,
+      "formatted_time": "2022-10-27 15:43:32",
+      "type": "文本消息",
+      "str_content": "太感动了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856613,
+      "formatted_time": "2022-10-27 15:43:33",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856618,
+      "formatted_time": "2022-10-27 15:43:38",
+      "type": "文本消息",
+      "str_content": "什么",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856619,
+      "formatted_time": "2022-10-27 15:43:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856623,
+      "formatted_time": "2022-10-27 15:43:43",
+      "type": "文本消息",
+      "str_content": "礼仪",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856657,
+      "formatted_time": "2022-10-27 15:44:17",
+      "type": "文本消息",
+      "str_content": "只有我一个人",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856658,
+      "formatted_time": "2022-10-27 15:44:18",
+      "type": "文本消息",
+      "str_content": "吗",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856661,
+      "formatted_time": "2022-10-27 15:44:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856669,
+      "formatted_time": "2022-10-27 15:44:29",
+      "type": "文本消息",
+      "str_content": "能力越大责任越大",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856672,
+      "formatted_time": "2022-10-27 15:44:32",
+      "type": "文本消息",
+      "str_content": "经济学院报告厅",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856677,
+      "formatted_time": "2022-10-27 15:44:37",
+      "type": "文本消息",
+      "str_content": "将是你广阔的舞台",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856678,
+      "formatted_time": "2022-10-27 15:44:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856690,
+      "formatted_time": "2022-10-27 15:44:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856698,
+      "formatted_time": "2022-10-27 15:44:58",
+      "type": "文本消息",
+      "str_content": "我怎么",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856701,
+      "formatted_time": "2022-10-27 15:45:01",
+      "type": "文本消息",
+      "str_content": "那么不信",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856705,
+      "formatted_time": "2022-10-27 15:45:05",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666856896,
+      "formatted_time": "2022-10-27 15:48:16",
+      "type": "文本消息",
+      "str_content": "你可有本领",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666856899,
+      "formatted_time": "2022-10-27 15:48:19",
+      "type": "文本消息",
+      "str_content": "金雨菡你要自信",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666857033,
+      "formatted_time": "2022-10-27 15:50:33",
+      "type": "文本消息",
+      "str_content": "。",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666857039,
+      "formatted_time": "2022-10-27 15:50:39",
+      "type": "文本消息",
+      "str_content": "谢谢您学长",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666857063,
+      "formatted_time": "2022-10-27 15:51:03",
+      "type": "文本消息",
+      "str_content": "这没有什么要求吧，随便穿就行吧",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666857068,
+      "formatted_time": "2022-10-27 15:51:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666857134,
+      "formatted_time": "2022-10-27 15:52:14",
+      "type": "文本消息",
+      "str_content": "这方面要求不会太高，毕竟不是晚会主持啥的\n可以的话尽量穿的正式一点",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666857212,
+      "formatted_time": "2022-10-27 15:53:32",
+      "type": "文本消息",
+      "str_content": "怎么样算正式一点",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666857214,
+      "formatted_time": "2022-10-27 15:53:34",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666857235,
+      "formatted_time": "2022-10-27 15:53:55",
+      "type": "文本消息",
+      "str_content": "不穿拖鞋正常一点这样吗",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666857287,
+      "formatted_time": "2022-10-27 15:54:47",
+      "type": "文本消息",
+      "str_content": "emm你有格裙啥的吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666857325,
+      "formatted_time": "2022-10-27 15:55:25",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666857325,
+      "formatted_time": "2022-10-27 15:55:25",
+      "type": "文本消息",
+      "str_content": "这种的有嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666857337,
+      "formatted_time": "2022-10-27 15:55:37",
+      "type": "文本消息",
+      "str_content": "没有",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666857338,
+      "formatted_time": "2022-10-27 15:55:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666857348,
+      "formatted_time": "2022-10-27 15:55:48",
+      "type": "文本消息",
+      "str_content": "那就随便穿穿吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666857352,
+      "formatted_time": "2022-10-27 15:55:52",
+      "type": "文本消息",
+      "str_content": "也不要太随便",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666857361,
+      "formatted_time": "2022-10-27 15:56:01",
+      "type": "文本消息",
+      "str_content": "就是不随便中有着一点随便",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666857372,
+      "formatted_time": "2022-10-27 15:56:12",
+      "type": "文本消息",
+      "str_content": "OK我会正常一点的",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666857377,
+      "formatted_time": "2022-10-27 15:56:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666857387,
+      "formatted_time": "2022-10-27 15:56:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666857388,
+      "formatted_time": "2022-10-27 15:56:28",
+      "type": "文本消息",
+      "str_content": "好嘞",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666857476,
+      "formatted_time": "2022-10-27 15:57:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666949003,
+      "formatted_time": "2022-10-28 17:23:23",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666949010,
+      "formatted_time": "2022-10-28 17:23:30",
+      "type": "文本消息",
+      "str_content": "辛苦一下",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666949011,
+      "formatted_time": "2022-10-28 17:23:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666949013,
+      "formatted_time": "2022-10-28 17:23:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666949198,
+      "formatted_time": "2022-10-28 17:26:38",
+      "type": "文本消息",
+      "str_content": "这，这么早[苦涩]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666949232,
+      "formatted_time": "2022-10-28 17:27:12",
+      "type": "文本消息",
+      "str_content": "要要干嘛[苦涩]不是就递一下聘书吗",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666949255,
+      "formatted_time": "2022-10-28 17:27:35",
+      "type": "文本消息",
+      "str_content": "应该就是彩排过一下流程",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666949318,
+      "formatted_time": "2022-10-28 17:28:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666954759,
+      "formatted_time": "2022-10-28 18:59:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666954766,
+      "formatted_time": "2022-10-28 18:59:26",
+      "type": "文本消息",
+      "str_content": "辛苦下",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666954776,
+      "formatted_time": "2022-10-28 18:59:36",
+      "type": "文本消息",
+      "str_content": "明天晚饭我包了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666955122,
+      "formatted_time": "2022-10-28 19:05:22",
+      "type": "文本消息",
+      "str_content": "是要一直待在那里吗[晕]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666955136,
+      "formatted_time": "2022-10-28 19:05:36",
+      "type": "文本消息",
+      "str_content": "应该不用",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666955144,
+      "formatted_time": "2022-10-28 19:05:44",
+      "type": "文本消息",
+      "str_content": "看现场情况",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666955151,
+      "formatted_time": "2022-10-28 19:05:51",
+      "type": "文本消息",
+      "str_content": "你可以带点作业",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666955152,
+      "formatted_time": "2022-10-28 19:05:52",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666955159,
+      "formatted_time": "2022-10-28 19:05:59",
+      "type": "文本消息",
+      "str_content": "OK OK[苦涩]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666955167,
+      "formatted_time": "2022-10-28 19:06:07",
+      "type": "引用消息",
+      "str_content": "画大饼[玫瑰]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666955181,
+      "formatted_time": "2022-10-28 19:06:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666955193,
+      "formatted_time": "2022-10-28 19:06:33",
+      "type": "文本消息",
+      "str_content": "说请就请捏",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666955226,
+      "formatted_time": "2022-10-28 19:07:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1666955231,
+      "formatted_time": "2022-10-28 19:07:11",
+      "type": "文本消息",
+      "str_content": "[玫瑰][玫瑰][玫瑰]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1667011453,
+      "formatted_time": "2022-10-29 10:44:13",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1667011455,
+      "formatted_time": "2022-10-29 10:44:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1667016600,
+      "formatted_time": "2022-10-29 12:10:00",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1667016603,
+      "formatted_time": "2022-10-29 12:10:03",
+      "type": "文本消息",
+      "str_content": "good",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1667016607,
+      "formatted_time": "2022-10-29 12:10:07",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1667016679,
+      "formatted_time": "2022-10-29 12:11:19",
+      "type": "文本消息",
+      "str_content": "这下哥们真画大饼了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1667016686,
+      "formatted_time": "2022-10-29 12:11:26",
+      "type": "文本消息",
+      "str_content": "[偷笑]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1667017685,
+      "formatted_time": "2022-10-29 12:28:05",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1667017698,
+      "formatted_time": "2022-10-29 12:28:18",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1667017770,
+      "formatted_time": "2022-10-29 12:29:30",
+      "type": "文本消息",
+      "str_content": "不过现在也不让堂食了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1667017771,
+      "formatted_time": "2022-10-29 12:29:31",
+      "type": "文本消息",
+      "str_content": "基本都",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1667017775,
+      "formatted_time": "2022-10-29 12:29:35",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1667018567,
+      "formatted_time": "2022-10-29 12:42:47",
+      "type": "文本消息",
+      "str_content": "是的[心碎]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1667018596,
+      "formatted_time": "2022-10-29 12:43:16",
+      "type": "文本消息",
+      "str_content": "虽然韵酒很拉[尴尬]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1667018600,
+      "formatted_time": "2022-10-29 12:43:20",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1667018822,
+      "formatted_time": "2022-10-29 12:47:02",
+      "type": "文本消息",
+      "str_content": "[叹气]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1667734302,
+      "formatted_time": "2022-11-06 19:31:42",
+      "type": "文本消息",
+      "str_content": "学长，我可能迟一会来，我回去加件衣服好冷[尴尬]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1667734401,
+      "formatted_time": "2022-11-06 19:33:21",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668160018,
+      "formatted_time": "2022-11-11 17:46:58",
+      "type": "文本消息",
+      "str_content": "学长",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1668160027,
+      "formatted_time": "2022-11-11 17:47:07",
+      "type": "文本消息",
+      "str_content": "学代会我七点到就行了吗",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1668160031,
+      "formatted_time": "2022-11-11 17:47:11",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1668160052,
+      "formatted_time": "2022-11-11 17:47:32",
+      "type": "文本消息",
+      "str_content": "emm今天不麻烦你啦，我找了礼仪队的一个学姐",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668160057,
+      "formatted_time": "2022-11-11 17:47:37",
+      "type": "文本消息",
+      "str_content": "她今晚有时间～",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668160065,
+      "formatted_time": "2022-11-11 17:47:45",
+      "type": "文本消息",
+      "str_content": "！真的吗",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1668160071,
+      "formatted_time": "2022-11-11 17:47:51",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668160082,
+      "formatted_time": "2022-11-11 17:48:02",
+      "type": "文本消息",
+      "str_content": "[衰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668160085,
+      "formatted_time": "2022-11-11 17:48:05",
+      "type": "文本消息",
+      "str_content": "太好了[流泪]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1668160097,
+      "formatted_time": "2022-11-11 17:48:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680760963,
+      "formatted_time": "2023-04-06 14:02:43",
+      "type": "文本消息",
+      "str_content": "就是和外院合办的配音大赛的初赛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680760963,
+      "formatted_time": "2023-04-06 14:02:43",
+      "type": "文本消息",
+      "str_content": "你周六下午有没有空主持一个活动呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680765818,
+      "formatted_time": "2023-04-06 15:23:38",
+      "type": "文本消息",
+      "str_content": "啊我周六下午要去主持自强标兵答辩",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1680765820,
+      "formatted_time": "2023-04-06 15:23:40",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1680767199,
+      "formatted_time": "2023-04-06 15:46:39",
+      "type": "文本消息",
+      "str_content": "[流泪]好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1680767291,
+      "formatted_time": "2023-04-06 15:48:11",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1682495715,
+      "formatted_time": "2023-04-26 15:55:15",
+      "type": "文本消息",
+      "str_content": "明天晚上有空嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682495743,
+      "formatted_time": "2023-04-26 15:55:43",
+      "type": "文本消息",
+      "str_content": "我们和外院合办的外语配音大赛现场可能需要人手~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682496819,
+      "formatted_time": "2023-04-26 16:13:39",
+      "type": "文本消息",
+      "str_content": "有的有的",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1682496830,
+      "formatted_time": "2023-04-26 16:13:50",
+      "type": "文本消息",
+      "str_content": "明天晚上几点啊",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1682496847,
+      "formatted_time": "2023-04-26 16:14:07",
+      "type": "文本消息",
+      "str_content": "六点半到八点半",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682496853,
+      "formatted_time": "2023-04-26 16:14:13",
+      "type": "文本消息",
+      "str_content": "在东九",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682496862,
+      "formatted_time": "2023-04-26 16:14:22",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1682496939,
+      "formatted_time": "2023-04-26 16:15:39",
+      "type": "文本消息",
+      "str_content": "东九b302",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682496941,
+      "formatted_time": "2023-04-26 16:15:41",
+      "type": "文本消息",
+      "str_content": "[玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682497040,
+      "formatted_time": "2023-04-26 16:17:20",
+      "type": "文本消息",
+      "str_content": "OK",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1682497044,
+      "formatted_time": "2023-04-26 16:17:24",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1682497075,
+      "formatted_time": "2023-04-26 16:17:55",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682568445,
+      "formatted_time": "2023-04-27 12:07:25",
+      "type": "文本消息",
+      "str_content": "学长，我可能来不及去帮忙了[捂脸]公选课老师通知今天去搞什么名企行，不知道几点回学校",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1682568446,
+      "formatted_time": "2023-04-27 12:07:26",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    },
+    {
+      "create_time": 1682568525,
+      "formatted_time": "2023-04-27 12:08:45",
+      "type": "文本消息",
+      "str_content": "嘶okok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682568542,
+      "formatted_time": "2023-04-27 12:09:02",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682568570,
+      "formatted_time": "2023-04-27 12:09:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金雨菡"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:43+08:00",
+  "message_count": 144
+}

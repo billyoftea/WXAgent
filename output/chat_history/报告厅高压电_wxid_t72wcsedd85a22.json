@@ -1,0 +1,136 @@
+{
+  "session_id": "wxid_t72wcsedd85a22",
+  "session_name": "报告厅高压电",
+  "messages": [
+    {
+      "create_time": 1664979629,
+      "formatted_time": "2022-10-05 22:20:29",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "报告厅高压电"
+    },
+    {
+      "create_time": 1664980020,
+      "formatted_time": "2022-10-05 22:27:00",
+      "type": "文本消息",
+      "str_content": "您好，我是经济学院学生会的徐昂，下周末打算在经济学院报告厅办迎新晚会，想询问下接高压电的事宜",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1664980308,
+      "formatted_time": "2022-10-05 22:31:48",
+      "type": "文本消息",
+      "str_content": "多大功率？",
+      "is_send": 0,
+      "sender_name": "报告厅高压电"
+    },
+    {
+      "create_time": 1664982538,
+      "formatted_time": "2022-10-05 23:08:58",
+      "type": "文本消息",
+      "str_content": "不好意思好像灯光那边说可以解决  下次再找您吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1674307015,
+      "formatted_time": "2023-01-21 21:16:55",
+      "type": "文本消息",
+      "str_content": "寅虎辞岁去，卯兔踏春来。\n恭祝大家新年快乐、阖家安康、兔年大吉、万事顺遂！[烟花][庆祝][發]",
+      "is_send": 0,
+      "sender_name": "报告厅高压电"
+    },
+    {
+      "create_time": 1683971163,
+      "formatted_time": "2023-05-13 17:46:03",
+      "type": "文本消息",
+      "str_content": "师傅我们经济学院报告厅明天办活动可能要接高压电",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1683971168,
+      "formatted_time": "2023-05-13 17:46:08",
+      "type": "文本消息",
+      "str_content": "您方便过来下吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1683971292,
+      "formatted_time": "2023-05-13 17:48:12",
+      "type": "文本消息",
+      "str_content": "功率十个千万以内",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1683971323,
+      "formatted_time": "2023-05-13 17:48:43",
+      "type": "文本消息",
+      "str_content": "15342200339梅，联系他",
+      "is_send": 0,
+      "sender_name": "报告厅高压电"
+    },
+    {
+      "create_time": 1683972152,
+      "formatted_time": "2023-05-13 18:02:32",
+      "type": "文本消息",
+      "str_content": "好的 谢谢您",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750060057,
+      "formatted_time": "2025-06-16 15:47:37",
+      "type": "文本消息",
+      "str_content": "我有你微信[呲牙]",
+      "is_send": 0,
+      "sender_name": "报告厅高压电"
+    },
+    {
+      "create_time": 1750060080,
+      "formatted_time": "2025-06-16 15:48:00",
+      "type": "文本消息",
+      "str_content": "哈哈，对的，印象中和您之前合作过~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750302949,
+      "formatted_time": "2025-06-19 11:15:49",
+      "type": "文件消息",
+      "str_content": "结算表.pdf",
+      "is_send": 0,
+      "sender_name": "报告厅高压电"
+    },
+    {
+      "create_time": 1750302960,
+      "formatted_time": "2025-06-19 11:16:00",
+      "type": "文件消息",
+      "str_content": "经济学院举办毕业晚会接电源800元-20250619.pdf",
+      "is_send": 0,
+      "sender_name": "报告厅高压电"
+    },
+    {
+      "create_time": 1750303020,
+      "formatted_time": "2025-06-19 11:17:00",
+      "type": "文本消息",
+      "str_content": "徐老师，上次接电源的结算表和发票，麻烦打印出来",
+      "is_send": 0,
+      "sender_name": "报告厅高压电"
+    },
+    {
+      "create_time": 1750309543,
+      "formatted_time": "2025-06-19 13:05:43",
+      "type": "文本消息",
+      "str_content": "嗯嗯好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:43+08:00",
+  "message_count": 16
+}

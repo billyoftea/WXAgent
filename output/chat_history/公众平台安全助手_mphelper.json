@@ -1,0 +1,32 @@
+{
+  "session_id": "mphelper",
+  "session_name": "公众平台安全助手",
+  "messages": [
+    {
+      "create_time": 1761842063,
+      "formatted_time": "2025-10-31 00:34:23",
+      "type": "文本消息",
+      "str_content": "已发表一条【图文】消息，该消息于【00:34】上传。",
+      "is_send": 0,
+      "sender_name": "公众平台安全助手"
+    },
+    {
+      "create_time": 1765711504,
+      "formatted_time": "2025-12-14 19:25:04",
+      "type": "图文消息",
+      "str_content": "公众号运营者微信号绑定邀请",
+      "is_send": 0,
+      "sender_name": "公众平台安全助手"
+    },
+    {
+      "create_time": 1765713054,
+      "formatted_time": "2025-12-14 19:50:54",
+      "type": "文本消息",
+      "str_content": "已群发通知一条【图文】消息，该消息于【19:50】上传。",
+      "is_send": 0,
+      "sender_name": "公众平台安全助手"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:12+08:00",
+  "message_count": 3
+}

@@ -1,0 +1,733 @@
+{
+  "session_id": "57493617643@chatroom",
+  "session_name": "AFT25Kaggle特征重要性组",
+  "messages": [
+    {
+      "create_time": 1762690794,
+      "formatted_time": "2025-11-09 20:19:54",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1762690794,
+      "formatted_time": "2025-11-09 20:19:54",
+      "type": "文本消息",
+      "str_content": "@所有人 大部分同学应该明晚都考完试了，请大家尽可能多的选择有空的时间，主要是线上腾讯会议讨论一下思路和分工～",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762690794,
+      "formatted_time": "2025-11-09 20:19:54",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762691158,
+      "formatted_time": "2025-11-09 20:25:58",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762691190,
+      "formatted_time": "2025-11-09 20:26:30",
+      "type": "文本消息",
+      "str_content": "感谢大家百忙之间的抽出来的时间，咱们暂定在周二晚10点～",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762692832,
+      "formatted_time": "2025-11-09 20:53:52",
+      "type": "文本消息",
+      "str_content": "大家考完试有空可以搜索一下有哪些特征重要性评价方法，可实现性，计算效率怎么样到时候一起讨论下",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762693749,
+      "formatted_time": "2025-11-09 21:09:09",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王一茗-对外经济贸易大学-金融科技",
+      "sender_wxid": "wxid_q2wsq6fxa8o722"
+    },
+    {
+      "create_time": 1762694069,
+      "formatted_time": "2025-11-09 21:14:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762694604,
+      "formatted_time": "2025-11-09 21:23:24",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "许文钧金科",
+      "sender_wxid": "wxid_i79mfxhw7s4h22"
+    },
+    {
+      "create_time": 1762694654,
+      "formatted_time": "2025-11-09 21:24:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1762694687,
+      "formatted_time": "2025-11-09 21:24:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Jerry",
+      "sender_wxid": "wxid_wvw6hzo377gj22"
+    },
+    {
+      "create_time": 1762857934,
+      "formatted_time": "2025-11-11 18:45:34",
+      "type": "文本消息",
+      "str_content": "我们是线上开会吗还是",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1762857958,
+      "formatted_time": "2025-11-11 18:45:58",
+      "type": "文本消息",
+      "str_content": "嗯嗯线上",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762857968,
+      "formatted_time": "2025-11-11 18:46:08",
+      "type": "文本消息",
+      "str_content": "找个能说话地方就行",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762857972,
+      "formatted_time": "2025-11-11 18:46:12",
+      "type": "文本消息",
+      "str_content": "交流分工一下",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762857982,
+      "formatted_time": "2025-11-11 18:46:22",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1762858145,
+      "formatted_time": "2025-11-11 18:49:05",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762869039,
+      "formatted_time": "2025-11-11 21:50:39",
+      "type": "文本消息",
+      "str_content": "叆叇 邀请您参加腾讯会议\n会议主题：叆叇预定的会议\n会议时间：2025/11/11 22:00-22:30 (GMT+08:00) 中国标准时间 - 北京\n\n点击链接入会，或添加至会议列表：\nhttps://meeting.tencent.com/dm/SwqHYmjzrhlf\n\n#腾讯会议：738-117-460\n\n复制该信息，打开手机腾讯会议即可参与",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762869571,
+      "formatted_time": "2025-11-11 21:59:31",
+      "type": "文件消息",
+      "str_content": "feature_importance 202511optiver.ipynb",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762869805,
+      "formatted_time": "2025-11-11 22:03:25",
+      "type": "文本消息",
+      "str_content": "这个好像是去年的特征筛选的部分",
+      "is_send": 0,
+      "sender_name": "王雷 25 数量金融",
+      "sender_wxid": "wxid_mahi5sf4kz5312"
+    },
+    {
+      "create_time": 1762869805,
+      "formatted_time": "2025-11-11 22:03:25",
+      "type": "文件消息",
+      "str_content": "multilinear_and_tree-feature.ipynb",
+      "is_send": 0,
+      "sender_name": "王雷 25 数量金融",
+      "sender_wxid": "wxid_mahi5sf4kz5312"
+    },
+    {
+      "create_time": 1762869861,
+      "formatted_time": "2025-11-11 22:04:21",
+      "type": "文本消息",
+      "str_content": "从github那个项目找的https://github.com/PKUAFT25/Feature_Engineer_Kaggle_2025",
+      "is_send": 0,
+      "sender_name": "王雷 25 数量金融",
+      "sender_wxid": "wxid_mahi5sf4kz5312"
+    },
+    {
+      "create_time": 1762957292,
+      "formatted_time": "2025-11-12 22:21:32",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762957326,
+      "formatted_time": "2025-11-12 22:22:06",
+      "type": "文本消息",
+      "str_content": "大家可以认领一下自己感兴趣的部分@所有人 （如果对别人的感兴趣也可以自行交换[旺柴]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762957366,
+      "formatted_time": "2025-11-12 22:22:46",
+      "type": "文本消息",
+      "str_content": "填到姓名那一栏就可以",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762957389,
+      "formatted_time": "2025-11-12 22:23:09",
+      "type": "文本消息",
+      "str_content": "Ddl 周日中午",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762957416,
+      "formatted_time": "2025-11-12 22:23:36",
+      "type": "文本消息",
+      "str_content": "我有表述不太清楚，或者大家想拓展或修改的细致方向，可以按照自己的想法走",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762957441,
+      "formatted_time": "2025-11-12 22:24:01",
+      "type": "文本消息",
+      "str_content": "晚点我给大家发一个跑通的文件及说数据用哪个",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762957504,
+      "formatted_time": "2025-11-12 22:25:04",
+      "type": "文本消息",
+      "str_content": "推荐面向对象用一些函数附带参数来写代码",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762966461,
+      "formatted_time": "2025-11-13 00:54:21",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1762966467,
+      "formatted_time": "2025-11-13 00:54:27",
+      "type": "文本消息",
+      "str_content": "路径需要大家自己改一下",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762966490,
+      "formatted_time": "2025-11-13 00:54:50",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1762966558,
+      "formatted_time": "2025-11-13 00:55:58",
+      "type": "文本消息",
+      "str_content": "数据我用的是factor的\"cross_section_features.parquet\"前100w条，大家可以先在这上面跑",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1762966571,
+      "formatted_time": "2025-11-13 00:56:11",
+      "type": "文件消息",
+      "str_content": "multilinear_and_tree-feature.ipynb",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763227113,
+      "formatted_time": "2025-11-16 01:18:33",
+      "type": "文件消息",
+      "str_content": "features_importance.py",
+      "is_send": 0,
+      "sender_name": "许文钧金科",
+      "sender_wxid": "wxid_i79mfxhw7s4h22"
+    },
+    {
+      "create_time": 1763227273,
+      "formatted_time": "2025-11-16 01:21:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763228149,
+      "formatted_time": "2025-11-16 01:35:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763257817,
+      "formatted_time": "2025-11-16 09:50:17",
+      "type": "文本消息",
+      "str_content": "大家有做好的部分可以发给我~我整合一下",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763257872,
+      "formatted_time": "2025-11-16 09:51:12",
+      "type": "文本消息",
+      "str_content": "我这里把我们所有部分都整合成一个类了，不过模型参数都是随便设的",
+      "is_send": 0,
+      "sender_name": "许文钧金科",
+      "sender_wxid": "wxid_i79mfxhw7s4h22"
+    },
+    {
+      "create_time": 1763257878,
+      "formatted_time": "2025-11-16 09:51:18",
+      "type": "拍一拍消息",
+      "str_content": "[拍一拍]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763257902,
+      "formatted_time": "2025-11-16 09:51:42",
+      "type": "文本消息",
+      "str_content": "嗯嗯好的[玫瑰]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763263939,
+      "formatted_time": "2025-11-16 11:32:19",
+      "type": "文件消息",
+      "str_content": "feature_selection.ipynb",
+      "is_send": 0,
+      "sender_name": "王雷 25 数量金融",
+      "sender_wxid": "wxid_mahi5sf4kz5312"
+    },
+    {
+      "create_time": 1763265147,
+      "formatted_time": "2025-11-16 11:52:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763277183,
+      "formatted_time": "2025-11-16 15:13:03",
+      "type": "文本消息",
+      "str_content": "再来催催",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763277188,
+      "formatted_time": "2025-11-16 15:13:08",
+      "type": "文本消息",
+      "str_content": "大家好了的发给我",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763277785,
+      "formatted_time": "2025-11-16 15:23:05",
+      "type": "文件消息",
+      "str_content": "noise.ipynb",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1763277792,
+      "formatted_time": "2025-11-16 15:23:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1763277800,
+      "formatted_time": "2025-11-16 15:23:20",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763278916,
+      "formatted_time": "2025-11-16 15:41:56",
+      "type": "文件消息",
+      "str_content": "lgbm_split_and_gain.ipynb",
+      "is_send": 0,
+      "sender_name": "韩星臣15365100642",
+      "sender_wxid": "wxid_l7n7cxmcy6p322"
+    },
+    {
+      "create_time": 1763278961,
+      "formatted_time": "2025-11-16 15:42:41",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763278968,
+      "formatted_time": "2025-11-16 15:42:48",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "韩星臣15365100642",
+      "sender_wxid": "wxid_l7n7cxmcy6p322"
+    },
+    {
+      "create_time": 1763279539,
+      "formatted_time": "2025-11-16 15:52:19",
+      "type": "文件消息",
+      "str_content": "SHAP 原理概述.md",
+      "is_send": 0,
+      "sender_name": "Jerry",
+      "sender_wxid": "wxid_wvw6hzo377gj22"
+    },
+    {
+      "create_time": 1763279540,
+      "formatted_time": "2025-11-16 15:52:20",
+      "type": "文件消息",
+      "str_content": "shap.ipynb",
+      "is_send": 0,
+      "sender_name": "Jerry",
+      "sender_wxid": "wxid_wvw6hzo377gj22"
+    },
+    {
+      "create_time": 1763281724,
+      "formatted_time": "2025-11-16 16:28:44",
+      "type": "文本消息",
+      "str_content": "🫡",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763282975,
+      "formatted_time": "2025-11-16 16:49:35",
+      "type": "文件消息",
+      "str_content": "XGB_importance.ipynb",
+      "is_send": 0,
+      "sender_name": "王一茗-对外经济贸易大学-金融科技",
+      "sender_wxid": "wxid_q2wsq6fxa8o722"
+    },
+    {
+      "create_time": 1763283480,
+      "formatted_time": "2025-11-16 16:58:00",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763283735,
+      "formatted_time": "2025-11-16 17:02:15",
+      "type": "文件消息",
+      "str_content": "Comprehensive Feature Importance Method.ipynb",
+      "is_send": 0,
+      "sender_name": "许文钧金科",
+      "sender_wxid": "wxid_i79mfxhw7s4h22"
+    },
+    {
+      "create_time": 1763284498,
+      "formatted_time": "2025-11-16 17:14:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763307856,
+      "formatted_time": "2025-11-16 23:44:16",
+      "type": "文件消息",
+      "str_content": "25Optiver_Feature_importance.ipynb",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763307878,
+      "formatted_time": "2025-11-16 23:44:38",
+      "type": "文本消息",
+      "str_content": "初步整合，大家可以自己看看，明天应该是对着自己的部分讲",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763308031,
+      "formatted_time": "2025-11-16 23:47:11",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763308052,
+      "formatted_time": "2025-11-16 23:47:32",
+      "type": "文本消息",
+      "str_content": "机器学习gain重排shap在一个类里，可以单独运行一下那个class",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763308133,
+      "formatted_time": "2025-11-16 23:48:53",
+      "type": "文本消息",
+      "str_content": "最后的特征筛选和噪音那里单独的需要思路清晰一点，每一步都在干什么",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763308966,
+      "formatted_time": "2025-11-17 00:02:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "许文钧金科",
+      "sender_wxid": "wxid_i79mfxhw7s4h22"
+    },
+    {
+      "create_time": 1763370212,
+      "formatted_time": "2025-11-17 17:03:32",
+      "type": "文本消息",
+      "str_content": "提醒一下大家，汇报的时候数学推导深入浅出，原理让其他两个组没太做过的也能懂，又不太缩减正确性和专业性，可以加点markdown在自己的部分[玫瑰]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763370340,
+      "formatted_time": "2025-11-17 17:05:40",
+      "type": "文本消息",
+      "str_content": "不用手动数学推导，有公式要放说一下在做什么就行",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763377902,
+      "formatted_time": "2025-11-17 19:11:42",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763377920,
+      "formatted_time": "2025-11-17 19:12:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763377956,
+      "formatted_time": "2025-11-17 19:12:36",
+      "type": "文本消息",
+      "str_content": "大家一会按顺序来吧，可以自己先跑一跑或者用有结果的ipynb",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763447726,
+      "formatted_time": "2025-11-18 14:35:26",
+      "type": "文本消息",
+      "str_content": "@所有人 大家按照昨天的点评完善自己的部分之后记得发给我～，后天前",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763447778,
+      "formatted_time": "2025-11-18 14:36:18",
+      "type": "文本消息",
+      "str_content": "我需要做点啥，懵圈",
+      "is_send": 0,
+      "sender_name": "许文钧金科",
+      "sender_wxid": "wxid_i79mfxhw7s4h22"
+    },
+    {
+      "create_time": 1763447849,
+      "formatted_time": "2025-11-18 14:37:29",
+      "type": "文本消息",
+      "str_content": "如果只用shap作为最终的方案的，那我这部分就直接砍掉了",
+      "is_send": 0,
+      "sender_name": "许文钧金科",
+      "sender_wxid": "wxid_i79mfxhw7s4h22"
+    },
+    {
+      "create_time": 1763447978,
+      "formatted_time": "2025-11-18 14:39:38",
+      "type": "文本消息",
+      "str_content": "感觉那个class可以留着，但是筛选的时候只用shap ，等因子算子好了之后我感觉可以看shap重要性高的因子ic 怎么样，出具一下说明",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763447998,
+      "formatted_time": "2025-11-18 14:39:58",
+      "type": "文本消息",
+      "str_content": "因为要看非线性测度之类的",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763447998,
+      "formatted_time": "2025-11-18 14:39:58",
+      "type": "文本消息",
+      "str_content": "可以可以",
+      "is_send": 0,
+      "sender_name": "许文钧金科",
+      "sender_wxid": "wxid_i79mfxhw7s4h22"
+    },
+    {
+      "create_time": 1763546171,
+      "formatted_time": "2025-11-19 17:56:11",
+      "type": "文件消息",
+      "str_content": "lgbm_split_and_gain.ipynb",
+      "is_send": 0,
+      "sender_name": "韩星臣15365100642",
+      "sender_wxid": "wxid_l7n7cxmcy6p322"
+    },
+    {
+      "create_time": 1763546195,
+      "formatted_time": "2025-11-19 17:56:35",
+      "type": "文本消息",
+      "str_content": "主要添加了和xgboost的对比以及删除了time_id这个特征",
+      "is_send": 0,
+      "sender_name": "韩星臣15365100642",
+      "sender_wxid": "wxid_l7n7cxmcy6p322"
+    },
+    {
+      "create_time": 1763547625,
+      "formatted_time": "2025-11-19 18:20:25",
+      "type": "文本消息",
+      "str_content": "好的[玫瑰]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763566769,
+      "formatted_time": "2025-11-19 23:39:29",
+      "type": "文本消息",
+      "str_content": "雷哥那notebook写的太完整了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1763566795,
+      "formatted_time": "2025-11-19 23:39:55",
+      "type": "文本消息",
+      "str_content": "太强了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1763570734,
+      "formatted_time": "2025-11-20 00:45:34",
+      "type": "文件消息",
+      "str_content": "xa_noise_multlinear_permutation.ipynb",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1763570831,
+      "formatted_time": "2025-11-20 00:47:11",
+      "type": "文本消息",
+      "str_content": "nb",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    },
+    {
+      "create_time": 1763570857,
+      "formatted_time": "2025-11-20 00:47:37",
+      "type": "引用消息",
+      "str_content": "确实很全面了[哇]",
+      "is_send": 0,
+      "sender_name": "郭禹宏",
+      "sender_wxid": "wxid_l647byn36kat21"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:18+08:00",
+  "message_count": 83
+}

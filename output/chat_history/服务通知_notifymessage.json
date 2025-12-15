@@ -1,0 +1,536 @@
+{
+  "session_id": "notifymessage",
+  "session_name": "服务通知",
+  "messages": [
+    {
+      "create_time": 1761586927,
+      "formatted_time": "2025-10-28 01:42:07",
+      "type": "图文消息",
+      "str_content": "充值成功通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1761636076,
+      "formatted_time": "2025-10-28 15:21:16",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1761636192,
+      "formatted_time": "2025-10-28 15:23:12",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1761750092,
+      "formatted_time": "2025-10-29 23:01:32",
+      "type": "图文消息",
+      "str_content": "充电开始通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1761773965,
+      "formatted_time": "2025-10-30 05:39:25",
+      "type": "图文消息",
+      "str_content": "充电结束通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1762137134,
+      "formatted_time": "2025-11-03 10:32:14",
+      "type": "图文消息",
+      "str_content": "充电开始通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1762150912,
+      "formatted_time": "2025-11-03 14:21:52",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1762151239,
+      "formatted_time": "2025-11-03 14:27:19",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1762157942,
+      "formatted_time": "2025-11-03 16:19:02",
+      "type": "图文消息",
+      "str_content": "充电结束通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1762399292,
+      "formatted_time": "2025-11-06 11:21:32",
+      "type": "图文消息",
+      "str_content": "用餐评价提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1762582693,
+      "formatted_time": "2025-11-08 14:18:13",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1762583039,
+      "formatted_time": "2025-11-08 14:23:59",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1762671455,
+      "formatted_time": "2025-11-09 14:57:35",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1762671706,
+      "formatted_time": "2025-11-09 15:01:46",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1762738846,
+      "formatted_time": "2025-11-10 09:40:46",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1762738923,
+      "formatted_time": "2025-11-10 09:42:03",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1762760429,
+      "formatted_time": "2025-11-10 15:40:29",
+      "type": "图文消息",
+      "str_content": "充电开始通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1762781364,
+      "formatted_time": "2025-11-10 21:29:24",
+      "type": "图文消息",
+      "str_content": "充电结束通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763035529,
+      "formatted_time": "2025-11-13 20:05:29",
+      "type": "图文消息",
+      "str_content": "用餐评价提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763086463,
+      "formatted_time": "2025-11-14 10:14:23",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763086768,
+      "formatted_time": "2025-11-14 10:19:28",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763181133,
+      "formatted_time": "2025-11-15 12:32:13",
+      "type": "图文消息",
+      "str_content": "用餐评价提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763265918,
+      "formatted_time": "2025-11-16 12:05:18",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763266226,
+      "formatted_time": "2025-11-16 12:10:26",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763305967,
+      "formatted_time": "2025-11-16 23:12:47",
+      "type": "图文消息",
+      "str_content": "充电开始通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763365507,
+      "formatted_time": "2025-11-17 15:45:07",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763365740,
+      "formatted_time": "2025-11-17 15:49:00",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763447031,
+      "formatted_time": "2025-11-18 14:23:51",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763447448,
+      "formatted_time": "2025-11-18 14:30:48",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763623465,
+      "formatted_time": "2025-11-20 15:24:25",
+      "type": "图文消息",
+      "str_content": "新品开售提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763785163,
+      "formatted_time": "2025-11-22 12:19:23",
+      "type": "图文消息",
+      "str_content": "充电开始通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763791582,
+      "formatted_time": "2025-11-22 14:06:22",
+      "type": "图文消息",
+      "str_content": "充电结束通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1763976042,
+      "formatted_time": "2025-11-24 17:20:42",
+      "type": "图文消息",
+      "str_content": "充电结束通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764047817,
+      "formatted_time": "2025-11-25 13:16:57",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764047951,
+      "formatted_time": "2025-11-25 13:19:11",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764115847,
+      "formatted_time": "2025-11-26 08:10:47",
+      "type": "图文消息",
+      "str_content": "用餐评价提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764125044,
+      "formatted_time": "2025-11-26 10:44:04",
+      "type": "图文消息",
+      "str_content": "保全进度提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764137806,
+      "formatted_time": "2025-11-26 14:16:46",
+      "type": "图文消息",
+      "str_content": "用餐评价提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764279622,
+      "formatted_time": "2025-11-28 05:40:22",
+      "type": "图文消息",
+      "str_content": "充电结束通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764306934,
+      "formatted_time": "2025-11-28 13:15:34",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764307954,
+      "formatted_time": "2025-11-28 13:32:34",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764677528,
+      "formatted_time": "2025-12-02 20:12:08",
+      "type": "图文消息",
+      "str_content": "充电开始通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764700533,
+      "formatted_time": "2025-12-03 02:35:33",
+      "type": "图文消息",
+      "str_content": "充电结束通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764720284,
+      "formatted_time": "2025-12-03 08:04:44",
+      "type": "图文消息",
+      "str_content": "用餐评价提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764749849,
+      "formatted_time": "2025-12-03 16:17:29",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764749972,
+      "formatted_time": "2025-12-03 16:19:32",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764833175,
+      "formatted_time": "2025-12-04 15:26:15",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764833393,
+      "formatted_time": "2025-12-04 15:29:53",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764915739,
+      "formatted_time": "2025-12-05 14:22:19",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1764915905,
+      "formatted_time": "2025-12-05 14:25:05",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765007662,
+      "formatted_time": "2025-12-06 15:54:22",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765007802,
+      "formatted_time": "2025-12-06 15:56:42",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765088081,
+      "formatted_time": "2025-12-07 14:14:41",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765088161,
+      "formatted_time": "2025-12-07 14:16:01",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765245834,
+      "formatted_time": "2025-12-09 10:03:54",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765246428,
+      "formatted_time": "2025-12-09 10:13:48",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765297016,
+      "formatted_time": "2025-12-10 00:16:56",
+      "type": "图文消息",
+      "str_content": "充电开始通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765321842,
+      "formatted_time": "2025-12-10 07:10:42",
+      "type": "图文消息",
+      "str_content": "充电结束通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765325547,
+      "formatted_time": "2025-12-10 08:12:27",
+      "type": "图文消息",
+      "str_content": "用餐评价提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765447808,
+      "formatted_time": "2025-12-11 18:10:08",
+      "type": "图文消息",
+      "str_content": "下单成功通知",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765507162,
+      "formatted_time": "2025-12-12 10:39:22",
+      "type": "图文消息",
+      "str_content": "活动开始提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765534598,
+      "formatted_time": "2025-12-12 18:16:38",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765592832,
+      "formatted_time": "2025-12-13 10:27:12",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765592950,
+      "formatted_time": "2025-12-13 10:29:10",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765699557,
+      "formatted_time": "2025-12-14 16:05:57",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765699728,
+      "formatted_time": "2025-12-14 16:08:48",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:12+08:00",
+  "message_count": 66
+}

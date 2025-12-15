@@ -1,0 +1,40 @@
+{
+  "session_id": "wxid_f2zv3jwq1l5g22",
+  "session_name": "地大 水文 万清杨",
+  "messages": [
+    {
+      "create_time": 1742567891,
+      "formatted_time": "2025-03-21 22:38:11",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "地大 水文 万清杨"
+    },
+    {
+      "create_time": 1742702450,
+      "formatted_time": "2025-03-23 12:00:50",
+      "type": "文本消息",
+      "str_content": "兄弟来个备注？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1742708316,
+      "formatted_time": "2025-03-23 13:38:36",
+      "type": "文本消息",
+      "str_content": "地大 水文 万清杨",
+      "is_send": 0,
+      "sender_name": "地大 水文 万清杨"
+    },
+    {
+      "create_time": 1742717411,
+      "formatted_time": "2025-03-23 16:10:11",
+      "type": "文本消息",
+      "str_content": "[OK]",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:22+08:00",
+  "message_count": 4
+}

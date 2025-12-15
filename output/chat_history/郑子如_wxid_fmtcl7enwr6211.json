@@ -1,0 +1,64 @@
+{
+  "session_id": "wxid_fmtcl7enwr6211",
+  "session_name": "郑子如",
+  "messages": [
+    {
+      "create_time": 1765620599,
+      "formatted_time": "2025-12-13 18:09:59",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郑子如"
+    },
+    {
+      "create_time": 1765620599,
+      "formatted_time": "2025-12-13 18:09:59",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "郑子如"
+    },
+    {
+      "create_time": 1765620777,
+      "formatted_time": "2025-12-13 18:12:57",
+      "type": "文本消息",
+      "str_content": "哈喽哈喽 郑子如 港理工工商管理博士",
+      "is_send": 0,
+      "sender_name": "郑子如"
+    },
+    {
+      "create_time": 1765620906,
+      "formatted_time": "2025-12-13 18:15:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765620948,
+      "formatted_time": "2025-12-13 18:15:48",
+      "type": "文本消息",
+      "str_content": "师姐居然是博士！真是才貌双全啊[社会社会][社会社会]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765621590,
+      "formatted_time": "2025-12-13 18:26:30",
+      "type": "文本消息",
+      "str_content": "嘿嘿 当时就是楼老师建议我去读",
+      "is_send": 0,
+      "sender_name": "郑子如"
+    },
+    {
+      "create_time": 1765630402,
+      "formatted_time": "2025-12-13 20:53:22",
+      "type": "文本消息",
+      "str_content": "嗯嗯！楼老师真的在很认真真诚地在为我们后辈做分享！我也在今天的讲座和饭局中学到了很多[呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:18+08:00",
+  "message_count": 7
+}

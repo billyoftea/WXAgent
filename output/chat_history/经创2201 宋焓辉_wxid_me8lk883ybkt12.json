@@ -1,0 +1,448 @@
+{
+  "session_id": "wxid_me8lk883ybkt12",
+  "session_name": "经创2201 宋焓辉",
+  "messages": [
+    {
+      "create_time": 1668845096,
+      "formatted_time": "2022-11-19 16:04:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1668845355,
+      "formatted_time": "2022-11-19 16:09:15",
+      "type": "文本消息",
+      "str_content": "hi",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1668845357,
+      "formatted_time": "2022-11-19 16:09:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1668845374,
+      "formatted_time": "2022-11-19 16:09:34",
+      "type": "文本消息",
+      "str_content": "哈喽哈喽",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696147596,
+      "formatted_time": "2023-10-01 16:06:36",
+      "type": "文本消息",
+      "str_content": "哈喽学长",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1696147603,
+      "formatted_time": "2023-10-01 16:06:43",
+      "type": "文本消息",
+      "str_content": "我想问一下，评国奖的同学综测分一般都是多少呐？多少分有希望拿奖[可怜]",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1696147609,
+      "formatted_time": "2023-10-01 16:06:49",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1696147612,
+      "formatted_time": "2023-10-01 16:06:52",
+      "type": "文本消息",
+      "str_content": "就是这个",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1696147623,
+      "formatted_time": "2023-10-01 16:07:03",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1696162505,
+      "formatted_time": "2023-10-01 20:15:05",
+      "type": "文本消息",
+      "str_content": "我还在外面",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696162514,
+      "formatted_time": "2023-10-01 20:15:14",
+      "type": "文本消息",
+      "str_content": "过几天我回去找下文件哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696162539,
+      "formatted_time": "2023-10-01 20:15:39",
+      "type": "文本消息",
+      "str_content": "好滴[玫瑰]麻烦了",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1696524556,
+      "formatted_time": "2023-10-06 00:49:16",
+      "type": "文本消息",
+      "str_content": "我看了下我去年的分是94",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696524593,
+      "formatted_time": "2023-10-06 00:49:53",
+      "type": "文本消息",
+      "str_content": "好高呀[流泪]",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1696524597,
+      "formatted_time": "2023-10-06 00:49:57",
+      "type": "文本消息",
+      "str_content": "我只有73",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1696524617,
+      "formatted_time": "2023-10-06 00:50:17",
+      "type": "文本消息",
+      "str_content": "本来还想冲一把的👉👈",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1696524652,
+      "formatted_time": "2023-10-06 00:50:52",
+      "type": "文本消息",
+      "str_content": "这个可以努努力试着扒扒各种材料的哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696524658,
+      "formatted_time": "2023-10-06 00:50:58",
+      "type": "文本消息",
+      "str_content": "这个肯定是要努力冲高分的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696524705,
+      "formatted_time": "2023-10-06 00:51:45",
+      "type": "文本消息",
+      "str_content": "主要是加权只有专业前24%",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1696524719,
+      "formatted_time": "2023-10-06 00:51:59",
+      "type": "文本消息",
+      "str_content": "明年争取吧[偷笑]",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1696524750,
+      "formatted_time": "2023-10-06 00:52:30",
+      "type": "文本消息",
+      "str_content": "谢谢学长了",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1696524764,
+      "formatted_time": "2023-10-06 00:52:44",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1696524780,
+      "formatted_time": "2023-10-06 00:53:00",
+      "type": "文本消息",
+      "str_content": "没事没事，未来还长嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696524810,
+      "formatted_time": "2023-10-06 00:53:30",
+      "type": "文本消息",
+      "str_content": "嗯嗯 向你学习[拥抱]",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1696524962,
+      "formatted_time": "2023-10-06 00:56:02",
+      "type": "文本消息",
+      "str_content": "华科大神很多的~可以多多认识下，破破圈扩扩圈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696524979,
+      "formatted_time": "2023-10-06 00:56:19",
+      "type": "文本消息",
+      "str_content": "早点休息哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696524989,
+      "formatted_time": "2023-10-06 00:56:29",
+      "type": "文本消息",
+      "str_content": "好滴",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1698805080,
+      "formatted_time": "2023-11-01 10:18:00",
+      "type": "文本消息",
+      "str_content": "还有一个事儿~明天下午两点半我们学院有个中央金融工作会议学生代表学习座谈会，学生会这边要出一个人，但我们主席团的人明天下午都有课，鸿鹏导让我问问你方便去嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698805085,
+      "formatted_time": "2023-11-01 10:18:05",
+      "type": "文本消息",
+      "str_content": "在学院310教室",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698805171,
+      "formatted_time": "2023-11-01 10:19:31",
+      "type": "文本消息",
+      "str_content": "我应该可以",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1698805183,
+      "formatted_time": "2023-11-01 10:19:43",
+      "type": "文本消息",
+      "str_content": "这个可以拉朋友陪我去吗（）",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1698805199,
+      "formatted_time": "2023-11-01 10:19:59",
+      "type": "文本消息",
+      "str_content": "还是只有我一个人的位置",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1698805248,
+      "formatted_time": "2023-11-01 10:20:48",
+      "type": "文本消息",
+      "str_content": "可以拉朋友的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698805253,
+      "formatted_time": "2023-11-01 10:20:53",
+      "type": "文本消息",
+      "str_content": "只要是我们学校的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698805265,
+      "formatted_time": "2023-11-01 10:21:05",
+      "type": "文本消息",
+      "str_content": "好滴👌",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1698805311,
+      "formatted_time": "2023-11-01 10:21:51",
+      "type": "文本消息",
+      "str_content": "之后李导让你先学习下 最好今天出个学习感想",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698805312,
+      "formatted_time": "2023-11-01 10:21:52",
+      "type": "图文消息",
+      "str_content": "中央金融工作会议在北京举行",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698805312,
+      "formatted_time": "2023-11-01 10:21:52",
+      "type": "图文消息",
+      "str_content": "中央金融工作会议十大看点",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698805330,
+      "formatted_time": "2023-11-01 10:22:10",
+      "type": "文本消息",
+      "str_content": "感想200字左右，发新闻稿",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698805336,
+      "formatted_time": "2023-11-01 10:22:16",
+      "type": "文本消息",
+      "str_content": "啊",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1698805338,
+      "formatted_time": "2023-11-01 10:22:18",
+      "type": "文本消息",
+      "str_content": "今天吗",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1698805344,
+      "formatted_time": "2023-11-01 10:22:24",
+      "type": "文本消息",
+      "str_content": "今天不是还没开会嘛",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1698805349,
+      "formatted_time": "2023-11-01 10:22:29",
+      "type": "文本消息",
+      "str_content": "然后在会议上也得发个言 我估计也是谈感想",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698805359,
+      "formatted_time": "2023-11-01 10:22:39",
+      "type": "文本消息",
+      "str_content": "金融工作会议已经开了~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698805363,
+      "formatted_time": "2023-11-01 10:22:43",
+      "type": "文本消息",
+      "str_content": "我们是开的学习会",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698805384,
+      "formatted_time": "2023-11-01 10:23:04",
+      "type": "文本消息",
+      "str_content": "哦哦好",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1698805393,
+      "formatted_time": "2023-11-01 10:23:13",
+      "type": "文本消息",
+      "str_content": "辛苦辛苦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698805393,
+      "formatted_time": "2023-11-01 10:23:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1698805399,
+      "formatted_time": "2023-11-01 10:23:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698805409,
+      "formatted_time": "2023-11-01 10:23:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1698810672,
+      "formatted_time": "2023-11-01 11:51:12",
+      "type": "文本消息",
+      "str_content": "学长 感想发给谁呀",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1698810677,
+      "formatted_time": "2023-11-01 11:51:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    },
+    {
+      "create_time": 1698810737,
+      "formatted_time": "2023-11-01 11:52:17",
+      "type": "文本消息",
+      "str_content": "李鸿鹏",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698810738,
+      "formatted_time": "2023-11-01 11:52:18",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698810751,
+      "formatted_time": "2023-11-01 11:52:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经创2201 宋焓辉"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 55
+}

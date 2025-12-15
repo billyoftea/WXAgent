@@ -1,0 +1,890 @@
+{
+  "session_id": "19810824485@chatroom",
+  "session_name": "HUST上海金融群3",
+  "messages": [
+    {
+      "create_time": 1751418775,
+      "formatted_time": "2025-07-02 09:12:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "HUST上海金融群3",
+      "sender_wxid": "19810824485@chatroom"
+    },
+    {
+      "create_time": 1751809220,
+      "formatted_time": "2025-07-06 21:40:20",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "HUST上海金融群3",
+      "sender_wxid": "19810824485@chatroom"
+    },
+    {
+      "create_time": 1752204751,
+      "formatted_time": "2025-07-11 11:32:31",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "HUST上海金融群3",
+      "sender_wxid": "19810824485@chatroom"
+    },
+    {
+      "create_time": 1753242643,
+      "formatted_time": "2025-07-23 11:50:43",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "HUST上海金融群3",
+      "sender_wxid": "19810824485@chatroom"
+    },
+    {
+      "create_time": 1753242731,
+      "formatted_time": "2025-07-23 11:52:11",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n[社会社会]欢迎",
+      "is_send": 0
+    },
+    {
+      "create_time": 1753242829,
+      "formatted_time": "2025-07-23 11:53:49",
+      "type": "文本消息",
+      "str_content": "大家好，我是华中科技大学经济学院金融工程专业20级本科李冉，在香港中文大学（深圳）读研，近期在上海实习，过去经历主要集中在ficc固收交易，欢迎各位前辈找我交流~向大家学习",
+      "is_send": 0,
+      "sender_name": "Felix",
+      "sender_wxid": "wxid_y80t6bet1ff322"
+    },
+    {
+      "create_time": 1753242886,
+      "formatted_time": "2025-07-23 11:54:46",
+      "type": "文本消息",
+      "str_content": "欢迎有做债券投资交易的各位学长学姐找我碰业务[可怜]",
+      "is_send": 0,
+      "sender_name": "Felix",
+      "sender_wxid": "wxid_y80t6bet1ff322"
+    },
+    {
+      "create_time": 1753242905,
+      "formatted_time": "2025-07-23 11:55:05",
+      "type": "文本消息",
+      "str_content": "同固定收益[强]",
+      "is_send": 0,
+      "sender_name": "济宁数院程广圣",
+      "sender_wxid": "wxid_pgqyx9yd4ug922"
+    },
+    {
+      "create_time": 1753242930,
+      "formatted_time": "2025-07-23 11:55:30",
+      "type": "文本消息",
+      "str_content": "[哇]",
+      "is_send": 0,
+      "sender_name": "Felix",
+      "sender_wxid": "wxid_y80t6bet1ff322"
+    },
+    {
+      "create_time": 1753243375,
+      "formatted_time": "2025-07-23 12:02:55",
+      "type": "文本消息",
+      "str_content": "wp775772351:\n欢迎👏🏼👏🏼",
+      "is_send": 0
+    },
+    {
+      "create_time": 1753244199,
+      "formatted_time": "2025-07-23 12:16:39",
+      "type": "文本消息",
+      "str_content": "欢迎欢迎",
+      "is_send": 0,
+      "sender_name": "王一jojojojojoker",
+      "sender_wxid": "wxid_zcglmj5gi34h12"
+    },
+    {
+      "create_time": 1753513700,
+      "formatted_time": "2025-07-26 15:08:20",
+      "type": "文本消息",
+      "str_content": "@金融工程–20本-李冉 加你咯",
+      "is_send": 0,
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1753513784,
+      "formatted_time": "2025-07-26 15:09:44",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1753605316,
+      "formatted_time": "2025-07-27 16:35:16",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "HUST上海金融群3",
+      "sender_wxid": "19810824485@chatroom"
+    },
+    {
+      "create_time": 1754526292,
+      "formatted_time": "2025-08-07 08:24:52",
+      "type": "文本消息",
+      "str_content": "有在中金财富的吗",
+      "is_send": 0,
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1754531998,
+      "formatted_time": "2025-08-07 09:59:58",
+      "type": "文本消息",
+      "str_content": "各位校友好！华潍融资租赁（上海）有限公司今年有资金计划投建分布式光伏项目，哪位校友与他们熟悉？在金风科技的校友想和他们对接一下，谢谢！",
+      "is_send": 0,
+      "sender_name": "顾纯俊",
+      "sender_wxid": "wxid_6554095541512"
+    },
+    {
+      "create_time": 1754966606,
+      "formatted_time": "2025-08-12 10:43:26",
+      "type": "文本消息",
+      "str_content": "【25国金05 代码：243506.SH 场内可质押】\n★债券名称：国金证券股份有限公司2025年面向专业投资者公开发行公司债券（第五期）\n★发行人：国金证券股份有限公司\n★发行规模：不超15亿元\n★发行期限：3年期\n★担保情况：无担保\n★发行人主体信用评级：AAA/AAA\n★询价区间：1.4%-2.4%（小区间1.75-1.95%）\n★主承销商：东吴证券\n★发行场所：上交所\n★发行安排：2025年8月12日簿记，8月14日缴款",
+      "is_send": 0,
+      "sender_name": "Felix",
+      "sender_wxid": "wxid_y80t6bet1ff322"
+    },
+    {
+      "create_time": 1754966619,
+      "formatted_time": "2025-08-12 10:43:39",
+      "type": "文本消息",
+      "str_content": "今日我司簿记本期小公募公司债，老板们感兴趣的话欢迎咨询~",
+      "is_send": 0,
+      "sender_name": "Felix",
+      "sender_wxid": "wxid_y80t6bet1ff322"
+    },
+    {
+      "create_time": 1755053634,
+      "formatted_time": "2025-08-13 10:53:54",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "HUST上海金融群3",
+      "sender_wxid": "19810824485@chatroom"
+    },
+    {
+      "create_time": 1755497518,
+      "formatted_time": "2025-08-18 14:11:58",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "HUST上海金融群3",
+      "sender_wxid": "19810824485@chatroom"
+    },
+    {
+      "create_time": 1755497518,
+      "formatted_time": "2025-08-18 14:11:58",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1755565547,
+      "formatted_time": "2025-08-19 09:05:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "HUST上海金融群3",
+      "sender_wxid": "19810824485@chatroom"
+    },
+    {
+      "create_time": 1755565547,
+      "formatted_time": "2025-08-19 09:05:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1755825438,
+      "formatted_time": "2025-08-22 09:17:18",
+      "type": "文本消息",
+      "str_content": "各位校友好，\n\n目前任职于江苏淮安市产业投资基金，若各位校友及身边伙伴有项目存在资金缺口、土地需求，或是有产能扩张计划等需求，我们不仅可依托基金平台及地方产业扶持政策，提供股权投资、资源对接、落地配套等多维度支持；对于项目也可协助协调各级领导前往实地考察，为项目合作与发展创造更有利的沟通条件，共同推动项目在高效落地、稳健成长。\n\n如有相关需求，欢迎随时沟通交流。",
+      "is_send": 0,
+      "sender_name": "章鱼",
+      "sender_wxid": "wxid_szjp37fxcc6g22"
+    },
+    {
+      "create_time": 1755825535,
+      "formatted_time": "2025-08-22 09:18:55",
+      "type": "图文消息",
+      "str_content": "第十三期优质产业招商项目交流会（综合场）在徐汇区光启城成功举办！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1755825583,
+      "formatted_time": "2025-08-22 09:19:43",
+      "type": "文本消息",
+      "str_content": "chenbiao693774:\n@机械14产设-卢桂富-锡商银行 我们和上海不少驻沪政府项目交流比较紧密，和你们淮安国联集团也经常有合作，后面可以多多交流",
+      "is_send": 0
+    },
+    {
+      "create_time": 1755825727,
+      "formatted_time": "2025-08-22 09:22:07",
+      "type": "文本消息",
+      "str_content": "可以呀，后面有合适项目可以共同推荐，高端制造、生物医药、电子信息是我们的主要的方向",
+      "is_send": 0,
+      "sender_name": "章鱼",
+      "sender_wxid": "wxid_szjp37fxcc6g22"
+    },
+    {
+      "create_time": 1755825889,
+      "formatted_time": "2025-08-22 09:24:49",
+      "type": "文本消息",
+      "str_content": "chenbiao693774:\nok、",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757501846,
+      "formatted_time": "2025-09-10 18:57:26",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "HUST上海金融群3",
+      "sender_wxid": "19810824485@chatroom"
+    },
+    {
+      "create_time": 1758509917,
+      "formatted_time": "2025-09-22 10:58:37",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "HUST上海金融群3",
+      "sender_wxid": "19810824485@chatroom"
+    },
+    {
+      "create_time": 1758509917,
+      "formatted_time": "2025-09-22 10:58:37",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758510076,
+      "formatted_time": "2025-09-22 11:01:16",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758510076,
+      "formatted_time": "2025-09-22 11:01:16",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "HUST上海金融群3",
+      "sender_wxid": "19810824485@chatroom"
+    },
+    {
+      "create_time": 1758511804,
+      "formatted_time": "2025-09-22 11:30:04",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758511804,
+      "formatted_time": "2025-09-22 11:30:04",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "HUST上海金融群3",
+      "sender_wxid": "19810824485@chatroom"
+    },
+    {
+      "create_time": 1759399131,
+      "formatted_time": "2025-10-02 17:58:51",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1759750594,
+      "formatted_time": "2025-10-06 19:36:34",
+      "type": "文本消息",
+      "str_content": "中秋佳节快乐",
+      "is_send": 0,
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1760087847,
+      "formatted_time": "2025-10-10 17:17:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "HUST上海金融群3",
+      "sender_wxid": "19810824485@chatroom"
+    },
+    {
+      "create_time": 1761796188,
+      "formatted_time": "2025-10-30 11:49:48",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1761800560,
+      "formatted_time": "2025-10-30 13:02:40",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1761800560,
+      "formatted_time": "2025-10-30 13:02:40",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1762076932,
+      "formatted_time": "2025-11-02 17:48:52",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1762482782,
+      "formatted_time": "2025-11-07 10:33:02",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "Zhi Yu",
+      "sender_wxid": "wxid_e72c7j1u0sry21"
+    },
+    {
+      "create_time": 1762763682,
+      "formatted_time": "2025-11-10 16:34:42",
+      "type": "文本消息",
+      "str_content": "liudongpianhao:\n朱九思：中国高等教育的\"破冰者\"与\"华工之父\"\n\n一、传奇生平：从革命者到教育家\n\n朱九思(1916-2015)，江苏扬州人，中国著名教育家，华中科技大学(原华中工学院)主要奠基人和改革先驱。他的一生跨越了中国近现代史的重要阶段：\n\n• 求学与革命：1936年考入武汉大学哲学教育系，次年加入中国共产党并奔赴延安，在抗日军政大学执教\n\n• 新闻生涯：抗战胜利后担任《冀热辽日报》《新湖南报》主编，培养了敏锐的观察力和判断力\n\n• 教育征程：1953年受命筹建华中工学院，从此与这所大学结下不解之缘，直至1984年卸任，在领导岗位上工作31年\n\n二、\"两件半事\"：一位教育家的自我定位\n\n朱九思将自己的教育生涯谦逊地概括为\"两件半事\"：\n\n1. 第一件：提出\"走综合化道路\"和\"科研要走在教学前面\"的发展新思路\n\n2. 第二件：采取超常规办法广揽人才\n\n3. 半件事：大规模植树造林，打造\"森林式校园\"\n\n这简洁的总结背后，是他对中国高等教育发展路径的深刻思考与开创性实践。\n\n三、教育理念体系：超越时代的思想光芒\n\n1. \"大学之本在教师\"——师资建设的核心理念\n\n• 教师至上：\"大学的根本任务是为社会主义建设培养又红又专的高级专门人才，而完成这一任务的关键在教师\"\n\n• 梯队培养：\"老教师有办学经验，中年教师是第一线主力，青年教师是未来的希望\"，建立全方位教师发展体系\n\n• 三\"本\"理念：\"教人为本、教学为本、教师为本\"，构建尊师重教的校园文化\n\n2. \"大学之路在综合\"——学科建设的创新思维\n\n• 打破苏联模式：在全国高校奉行专业细分的背景下，率先提出\"理、工、文、管\"相结合的综合性大学理念\n\n• 理工结合：\"理为工之基，工为理之用\"，强调基础理论对应用学科的支撑作用\n\n• 国际化视野：1979年考察美日等国后确认：\"几乎所有著名大学都是综合性的\"，坚定了综合化办学方向\n\n3. \"大学之源在科研\"——学术发展的前瞻眼光\n\n• 科研先导：\"科研是'源'，教学是'流'，没有科研这个'源'，教学这个'流'就难以充实新内容\"\n\n• 教学相长：\"老师要做科研，做出来的成果写进书里，变成教学内容，这才是高质量教学\"\n\n• 学科交叉：鼓励开展激光等前沿领域研究，使学校在多个领域确立国内领先地位\n\n4. \"大学之魂在学术自由\"——治校理政的精神内核\n\n• 思想解放：倡导\"学术自由，追求真理\"，为师生创造宽松的学术环境\n\n• 兼容并蓄：保护不同学术观点，支持\"异见\"学者的研究工作\n\n• 独立思考：不盲从上级指示，坚持按教育规律办学，展现\"不唯上，只求实\"的品格\n\n四、办学实践：开风气之先的改革家\n\n1. 超常规人才战略：\"高筑墙、广积才\"\n\n• \"文革\"逆势：当全国高校\"斗批散\"时，他反其道而行之，从20多个省份的500多个单位引进600多名被批斗的知识分子\n\n• 三顾茅庐：亲自到\"牛棚\"邀请学者，甚至为引进人才安排全家工作和住房，被形容为\"爱才如命\"\n\n• 国际视野：选派450多名教师出国留学，构建高水平师资梯队\n\n• 破格用人：力排众议提拔杨叔子等青年才俊，为他们创造专注学术的环境\n\n2. 学科结构转型：从单一工科到综合性大学\n\n• 理科建设：增设数学、物理、化学等基础学科，打破\"理工分家\"体制障碍\n\n• 文科拓荒：1983年创办新闻学专业(学校首个文科专业)，后陆续设立中文、外语、经济、社会学等系科\n\n• 管理创新：借鉴国外经验成立管理工程系和管理学院，培养复合型人才\n\n到1984年卸任时，华中工学院已从单一工科院校发展为拥有45个本科专业的综合性大学，奠定了今日华中科技大学的学科基础。\n\n3. 科研与教学革新：打造研究型大学雏形\n\n• 科研激励：1976年，华中工学院科研项目达138项，参与教师占比57.2%，远超同期其他高校\n\n• 研究生教育：1977年向中央建议发展研究生教育，1984年获批成立研究生院(全国首批22所)\n\n• 第二课堂：创立\"第二课堂\"制度，鼓励学生开展课外科技创新和人文活动，培养综合素质\n\n• 教材改革：及时将最新科研成果转化为教学内容，保持课程前沿性\n\n4. 环境育人：\"森林大学\"的生态理念\n\n• 绿色校园：带领师生栽种数十万株树木，使华中科大享有\"森林大学\"美誉\n\n• 环保优先：坚持\"树木净化空气、房屋制造污染\"理念，规定\"每砍一棵树需校长签字\"，保护校园生态\n\n• 环境育人：\"学生在森林中读书，心胸自然开阔，思维自然活跃\"，将环境与教育完美结合\n\n五、改革勇气：突破体制束缚的胆识\n\n1. 向传统挑战的魄力\n\n• 越级上书：1977年，华中工学院党委直接向邓小平写信，呼吁大学实行理工结合、办成教学科研中心，发展研究生教育，在当时政治环境下极为罕见\n\n• 顶着压力：教育部反对办文科，他采取\"先办专科招生，再办研究所汇聚教师，最后上报\"的迂回策略，最终获批\n\n• 坚持己见：在全国科学大会上坚持以\"科研要走在教学前面\"为发言主题，尽管教育部持反对意见，最终获得国家科委支持\n\n2. 特殊时期的担当\n\n• \"文革\"坚守：即使在动荡年代，仍保护知识分子、坚持科研，带领学校完成25项填补国内空白的重大科研项目\n\n• 思想解放：1977年组织全校720多名教师开展教育思想大讨论，查阅24000余份文献，形成近60万字报告，为改革奠定思想基础\n\n六、历史贡献：中国高等教育的\"破冰者\"\n\n1. 大学转型的先行者：华中工学院成为\"文革\"后第一所进行全面改革的大学，为中国高等教育改革提供了宝贵经验\n\n2. 综合化教育的探路者：开创了中国理工科大学向综合性研究型大学转型的先河，影响了后来众多高校的发展路径\n\n3. 人才战略的创新者：\"高筑墙、广积才\"的人才理念与实践，为中国高校师资建设提供了成功范例\n\n当代评价：\n\n• 华中科技大学前校长们评价：\"九思先生是当代中国高等教育屈指可数的教育家之一。今日之华科大，除医科外，理科、人文社科发展基础，都是九思时期所奠定的\"\n\n• 李培根院士(前校长)：\"九思先生之特别，在于他的独立精神。不唯上，只求实\"，其\"敢于竞争，善于转化\"的精神已成为华中大的文化基因\n\n七、结语：精神遗产的永续传承\n\n朱九思不仅留下了一所学科完备的大学，更留下了一套教育思想体系和精神遗产：\n\n• 核心理念：\"大学之本在教师、大学之路在综合、大学之源在科研、大学之魂在学术自由\"，已成为华中科技大学的办学指导思想\n\n• 精神气质：\"敢于竞争，善于转化\"的进取精神，激励着一代代华科人在困境中奋进\n\n• 教育传统：重视基础、强调交叉、鼓励创新的学术风气，为学校在新时代的发展提供了强大动力\n\n朱九思曾说：\"我一辈子没有离开，也不愿意离开我心爱的大学，一生沉醉于高等教育的实践探索和理论研究，把爱教育、爱华工融入了自己的血液直至天堂。\"\n\n这位百岁教育家的思想与实践，不仅塑造了华中科技大学的品格，更在中国高等教育改革史上留下了浓墨重彩的一笔，成为中国特色现代大学制度建设的宝贵财富。",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763125224,
+      "formatted_time": "2025-11-14 21:00:24",
+      "type": "视频号直播卡片",
+      "str_content": "[视频号直播]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763889142,
+      "formatted_time": "2025-11-23 17:12:22",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n武大在开大会",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763889143,
+      "formatted_time": "2025-11-23 17:12:23",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763954661,
+      "formatted_time": "2025-11-24 11:24:21",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763954897,
+      "formatted_time": "2025-11-24 11:28:17",
+      "type": "文本消息",
+      "str_content": "各位校友前辈们好~ 我是14级经济学院的曾力知，目前就职于开源证券自营投资部门，从事二级市场投研工作。非常荣幸入群和校友们交流学习！[愉快][愉快]",
+      "is_send": 0,
+      "sender_name": "Lizhi",
+      "sender_wxid": "wxid_skgz5dxky7i822"
+    },
+    {
+      "create_time": 1763954933,
+      "formatted_time": "2025-11-24 11:28:53",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763954977,
+      "formatted_time": "2025-11-24 11:29:37",
+      "type": "引用消息",
+      "str_content": "那就推荐一个十倍股做投名状吧[偷笑]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763955235,
+      "formatted_time": "2025-11-24 11:33:55",
+      "type": "文本消息",
+      "str_content": "哈哈哈，坚定看多大盘指数[呲牙]",
+      "is_send": 0,
+      "sender_name": "Lizhi",
+      "sender_wxid": "wxid_skgz5dxky7i822"
+    },
+    {
+      "create_time": 1763955931,
+      "formatted_time": "2025-11-24 11:45:31",
+      "type": "文本消息",
+      "str_content": "Q2034014:\n欢迎，欢迎[鼓掌][鼓掌][鼓掌][坏笑]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763956135,
+      "formatted_time": "2025-11-24 11:48:55",
+      "type": "文本消息",
+      "str_content": "欢迎欢迎 [鼓掌][鼓掌]\n话说牛市已经结束了吗，新开户的下一茬韭菜是不是不多了啊",
+      "is_send": 0,
+      "sender_name": "王一jojojojojoker",
+      "sender_wxid": "wxid_zcglmj5gi34h12"
+    },
+    {
+      "create_time": 1763956522,
+      "formatted_time": "2025-11-24 11:55:22",
+      "type": "文本消息",
+      "str_content": "liudongpianhao:\n大中华最不缺的就是赌徒",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763956639,
+      "formatted_time": "2025-11-24 11:57:19",
+      "type": "文本消息",
+      "str_content": "Q2034014:\n大中华最不缺的就是韭菜",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763956662,
+      "formatted_time": "2025-11-24 11:57:42",
+      "type": "文本消息",
+      "str_content": "Q2034014:\n而且生长速度奇快无比，一茬又一茬快速生长",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763956672,
+      "formatted_time": "2025-11-24 11:57:52",
+      "type": "文本消息",
+      "str_content": "欢迎，欢迎[鼓掌][鼓掌][鼓掌][坏笑]",
+      "is_send": 0,
+      "sender_name": "AIA陈益军",
+      "sender_wxid": "wxid_26f603edgoi412"
+    },
+    {
+      "create_time": 1763956690,
+      "formatted_time": "2025-11-24 11:58:10",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n00后都躺平了，还有后续韭菜？",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763956698,
+      "formatted_time": "2025-11-24 11:58:18",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n[阴险][阴险][阴险]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763956727,
+      "formatted_time": "2025-11-24 11:58:47",
+      "type": "文本消息",
+      "str_content": "Q2034014:\n有些人赌性很大的",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763956732,
+      "formatted_time": "2025-11-24 11:58:52",
+      "type": "文本消息",
+      "str_content": "Q2034014:\n包括00后",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763956755,
+      "formatted_time": "2025-11-24 11:59:15",
+      "type": "文本消息",
+      "str_content": "Q2034014:\n人口基数大，树林大了，什么鸟都有",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763956787,
+      "formatted_time": "2025-11-24 11:59:47",
+      "type": "文本消息",
+      "str_content": "Q2034014:\n当然可以看看证券公司里的新开户年龄层统计",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763956802,
+      "formatted_time": "2025-11-24 12:00:02",
+      "type": "文本消息",
+      "str_content": "Q2034014:\n以及交易频次统计",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764169034,
+      "formatted_time": "2025-11-26 22:57:14",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1764169066,
+      "formatted_time": "2025-11-26 22:57:46",
+      "type": "文本消息",
+      "str_content": "胜率百分之九十六了",
+      "is_send": 0,
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1764169144,
+      "formatted_time": "2025-11-26 22:59:04",
+      "type": "文本消息",
+      "str_content": "[强][强][强]",
+      "is_send": 0,
+      "sender_name": "丁双",
+      "sender_wxid": "wxid_9ai8b2iyxf3e22"
+    },
+    {
+      "create_time": 1764169153,
+      "formatted_time": "2025-11-26 22:59:13",
+      "type": "文本消息",
+      "str_content": "牛",
+      "is_send": 0,
+      "sender_name": "丁双",
+      "sender_wxid": "wxid_9ai8b2iyxf3e22"
+    },
+    {
+      "create_time": 1764169255,
+      "formatted_time": "2025-11-26 23:00:55",
+      "type": "文本消息",
+      "str_content": "群里都是金融的大咖，起起伏伏的股市肯定赚的盆满钵满，俺们保险产品稳稳的守住大后方，有需要保障和稳健的可以来看看中宏保险的开门红方案[愉快]",
+      "is_send": 0,
+      "sender_name": "丁双",
+      "sender_wxid": "wxid_9ai8b2iyxf3e22"
+    },
+    {
+      "create_time": 1764169469,
+      "formatted_time": "2025-11-26 23:04:29",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "丁双",
+      "sender_wxid": "wxid_9ai8b2iyxf3e22"
+    },
+    {
+      "create_time": 1764169483,
+      "formatted_time": "2025-11-26 23:04:43",
+      "type": "文本消息",
+      "str_content": "有兴趣的，欢迎私聊",
+      "is_send": 0,
+      "sender_name": "丁双",
+      "sender_wxid": "wxid_9ai8b2iyxf3e22"
+    },
+    {
+      "create_time": 1764169969,
+      "formatted_time": "2025-11-26 23:12:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1764170075,
+      "formatted_time": "2025-11-26 23:14:35",
+      "type": "文本消息",
+      "str_content": "@刘军 不比进攻，只谈防守[愉快]",
+      "is_send": 0,
+      "sender_name": "丁双",
+      "sender_wxid": "wxid_9ai8b2iyxf3e22"
+    },
+    {
+      "create_time": 1764170144,
+      "formatted_time": "2025-11-26 23:15:44",
+      "type": "文本消息",
+      "str_content": "各位大佬赚到的钱，可以找我来规划保障和传承[破涕为笑]",
+      "is_send": 0,
+      "sender_name": "丁双",
+      "sender_wxid": "wxid_9ai8b2iyxf3e22"
+    },
+    {
+      "create_time": 1765367722,
+      "formatted_time": "2025-12-10 19:55:22",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765367722,
+      "formatted_time": "2025-12-10 19:55:22",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765368475,
+      "formatted_time": "2025-12-10 20:07:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765369026,
+      "formatted_time": "2025-12-10 20:17:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1765370576,
+      "formatted_time": "2025-12-10 20:42:56",
+      "type": "文本消息",
+      "str_content": "hairuo2008:\n向各位报个到，华科06级软件本，北大10级软件硕。目前在广发证券投行，主要做A股/港股IPO，再融资，并购重组，pre IPO投融资等业务。之前在中信证券投行北京，一直从事投行业务，主要看消费、智能制造、化工新材料方向。各位校友们多互动交流[玫瑰][玫瑰]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765370681,
+      "formatted_time": "2025-12-10 20:44:41",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765370951,
+      "formatted_time": "2025-12-10 20:49:11",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Tiger_虎",
+      "sender_wxid": "wxid_4yeqqdyvbp6c21"
+    },
+    {
+      "create_time": 1765371013,
+      "formatted_time": "2025-12-10 20:50:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765371091,
+      "formatted_time": "2025-12-10 20:51:31",
+      "type": "文本消息",
+      "str_content": "👏👏",
+      "is_send": 0,
+      "sender_name": "0·0",
+      "sender_wxid": "wxid_qzbjzcmhdk4h22"
+    },
+    {
+      "create_time": 1765371308,
+      "formatted_time": "2025-12-10 20:55:08",
+      "type": "文本消息",
+      "str_content": "欢迎👏",
+      "is_send": 0,
+      "sender_name": "黎星LX",
+      "sender_wxid": "wxid_akszy6wfpdft22"
+    },
+    {
+      "create_time": 1765371350,
+      "formatted_time": "2025-12-10 20:55:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1765371361,
+      "formatted_time": "2025-12-10 20:56:01",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1765372183,
+      "formatted_time": "2025-12-10 21:09:43",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "水木年华",
+      "sender_wxid": "wxid_be6bt8bnygne12"
+    },
+    {
+      "create_time": 1765372208,
+      "formatted_time": "2025-12-10 21:10:08",
+      "type": "文本消息",
+      "str_content": "liudongpianhao:\n这后生有前途[强]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765372245,
+      "formatted_time": "2025-12-10 21:10:45",
+      "type": "文本消息",
+      "str_content": "liudongpianhao:\n吃个席吧",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765372245,
+      "formatted_time": "2025-12-10 21:10:45",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765372333,
+      "formatted_time": "2025-12-10 21:12:13",
+      "type": "引用消息",
+      "str_content": "这个厉害，千亿市值的饭局[偷笑]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765372534,
+      "formatted_time": "2025-12-10 21:15:34",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n[烟花]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765372546,
+      "formatted_time": "2025-12-10 21:15:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1765372548,
+      "formatted_time": "2025-12-10 21:15:48",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n罗振宇原来是华科90级新闻系的",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765372548,
+      "formatted_time": "2025-12-10 21:15:48",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765372605,
+      "formatted_time": "2025-12-10 21:16:45",
+      "type": "引用消息",
+      "str_content": "错过几个亿",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765372674,
+      "formatted_time": "2025-12-10 21:17:54",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n高大上的bibg",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765372680,
+      "formatted_time": "2025-12-10 21:18:00",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n并购重组",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765373527,
+      "formatted_time": "2025-12-10 21:32:07",
+      "type": "文本消息",
+      "str_content": "hairuo2008:\n@陈进-96-房地产 陈师兄搞地产的大牛，回头组织交流下业务，聊聊天打打掼蛋[偷笑]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765373631,
+      "formatted_time": "2025-12-10 21:33:51",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n地产行业败落了，等你财大气粗的证券公司组织校友会[憨笑]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765373753,
+      "formatted_time": "2025-12-10 21:35:53",
+      "type": "文本消息",
+      "str_content": "hairuo2008:\n我们最近在筹备软件学院上海校友会，预计春节后成立大会，欢迎各位大佬捧场[握手]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765373832,
+      "formatted_time": "2025-12-10 21:37:12",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n软件学院听起来就牛逼",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765373847,
+      "formatted_time": "2025-12-10 21:37:27",
+      "type": "文本消息",
+      "str_content": "chenjin99817799:\n和信息学院一样",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765374768,
+      "formatted_time": "2025-12-10 21:52:48",
+      "type": "文本消息",
+      "str_content": "@李剑-软件06本-投行 欢迎欢迎👏👏",
+      "is_send": 0,
+      "sender_name": "AIA陈益军",
+      "sender_wxid": "wxid_26f603edgoi412"
+    },
+    {
+      "create_time": 1765529987,
+      "formatted_time": "2025-12-12 16:59:47",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "is_send": 0,
+      "sender_name": "刘军",
+      "sender_wxid": "wxid_1e4hlstfvqih22"
+    },
+    {
+      "create_time": 1765530005,
+      "formatted_time": "2025-12-12 17:00:05",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765530863,
+      "formatted_time": "2025-12-12 17:14:23",
+      "type": "图文消息",
+      "str_content": "致华科软件人：软件定义世界，智能引领未来",
+      "is_send": 0,
+      "sender_name": "Andy🌺",
+      "sender_wxid": "wxid_w0bzogyqlp9k22"
+    },
+    {
+      "create_time": 1765531108,
+      "formatted_time": "2025-12-12 17:18:28",
+      "type": "引用消息",
+      "str_content": "加入软件分会详情如上～",
+      "is_send": 0,
+      "sender_name": "Andy🌺",
+      "sender_wxid": "wxid_w0bzogyqlp9k22"
+    },
+    {
+      "create_time": 1765531659,
+      "formatted_time": "2025-12-12 17:27:39",
+      "type": "文本消息",
+      "str_content": "hairuo2008:\n[呲牙][强][强]",
+      "is_send": 0
+    }
+  ],
+  "export_time": "2025-12-15T00:08:22+08:00",
+  "message_count": 110
+}

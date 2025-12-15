@@ -5,6 +5,7 @@ import 'package:url_launcher/url_launcher.dart';
 
 import '../app.dart';
 import '../models/models.dart';
+import '../services/wx_agent_api.dart';
 import '../widgets/page_container.dart';
 import '../widgets/section_card.dart';
 
@@ -19,6 +20,7 @@ class SummaryPage extends StatefulWidget {
 
 class _SummaryPageState extends State<SummaryPage> {
   final TextEditingController _promptCtrl = TextEditingController();
+  final ScrollController _streamScrollCtrl = ScrollController(); // 流式输出滚动控制器
   bool _useCustomPrompt = false;
   String? _startDate;
   String? _endDate;
@@ -35,6 +37,14 @@ class _SummaryPageState extends State<SummaryPage> {
   int? _totalSessions;
   int? _chunkCount;
   String? _summaryMode;
+  List<String>? _processLogs; // 处理过程日志
+
+  // 流式输出状态
+  String _streamLog = ''; // 流式日志
+  String _streamAiOutput = ''; // AI 流式输出
+  int _currentStep = 0; // 当前步骤
+  int _totalSteps = 6; // 总步骤数
+  bool _userScrolling = false; // 用户是否正在手动滚动
 
   List<SummaryHistoryEntry> _history = const [];
   SummaryHistoryEntry? _selectedHistory;
@@ -50,6 +60,7 @@ class _SummaryPageState extends State<SummaryPage> {
   @override
   void dispose() {
     _promptCtrl.dispose();
+    _streamScrollCtrl.dispose();
     super.dispose();
   }
 
@@ -117,28 +128,80 @@ class _SummaryPageState extends State<SummaryPage> {
     setState(() {
       _running = true;
       _error = null;
-      // 清空旧的统计信息
+      // 清空旧的统计信息和流式输出
       _totalMessages = null;
       _totalSessions = null;
       _chunkCount = null;
       _summaryMode = null;
+      _processLogs = null;
+      _streamLog = '';
+      _streamAiOutput = '';
+      _currentStep = 0;
+      _resultContent = null;
+      _userScrolling = false; // 重置滚动状态
     });
+
     try {
-      final result = await widget.controller.api.runSummary(
+      // 使用流式 API
+      String finalContent = '';
+      String? outputPath;
+
+      await for (final event in widget.controller.api.runSummaryStream(
         startDate: _startDate,
         endDate: _endDate,
         sessions: _selectedSessions.isEmpty ? null : _selectedSessions.toList(),
-        summaryPrompt: _useCustomPrompt ? _promptCtrl.text.trim() : null,
-      );
+      )) {
+        if (!mounted) return;
+
+        switch (event.type) {
+          case 'log':
+            setState(() {
+              _streamLog += '${event.content}\n';
+              _currentStep = event.step ?? _currentStep;
+              _totalSteps = event.total ?? _totalSteps;
+            });
+            // 自动滚动到底部
+            _scrollToBottom();
+            break;
+          case 'ai_chunk':
+            setState(() {
+              _streamAiOutput += event.content;
+              _currentStep = event.step ?? _currentStep;
+            });
+            _scrollToBottom();
+            break;
+          case 'progress':
+            setState(() {
+              _currentStep = event.step ?? _currentStep;
+            });
+            break;
+          case 'done':
+            // 分析完成
+            break;
+          case 'error':
+            setState(() {
+              _error = event.content;
+            });
+            break;
+          case 'result':
+            // 解析最终结果（result 事件的 content 是 JSON 数据）
+            // 但我们在 SSE 中已经逐步发送了 content，这里用于获取统计信息
+            // event.content 可能包含完整结果的 JSON
+            // 由于 SSE result 事件格式，我们需要在服务端已包含这些信息
+            setState(() {
+              // 最终内容通过 ai_chunk 已累积，这里设置结果
+              finalContent = _streamAiOutput;
+            });
+            break;
+        }
+      }
+
+      // 设置最终结果
       setState(() {
-        _resultContent = result.content;
-        _summaryPath = result.outputPath;
-        // 保存后端返回的统计信息
-        _totalMessages = result.messages;
-        _totalSessions = result.sessions;
-        _chunkCount = result.chunkCount;
-        _summaryMode = result.mode;
+        _resultContent = finalContent.isNotEmpty ? finalContent : _streamAiOutput;
+        _summaryMode = 'merged';
       });
+
       await _loadHistory();
       if (!mounted) return;
       ScaffoldMessenger.of(
@@ -153,6 +216,29 @@ class _SummaryPageState extends State<SummaryPage> {
         _running = false;
       });
     }
+  }
+
+  void _scrollToBottom() {
+    // 如果用户正在手动滚动，不自动滚动
+    if (_userScrolling) return;
+    
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (_streamScrollCtrl.hasClients) {
+        _streamScrollCtrl.animateTo(
+          _streamScrollCtrl.position.maxScrollExtent,
+          duration: const Duration(milliseconds: 100),
+          curve: Curves.easeOut,
+        );
+      }
+    });
+  }
+
+  // 检查是否接近底部（用于判断是否恢复自动滚动）
+  bool _isNearBottom() {
+    if (!_streamScrollCtrl.hasClients) return true;
+    final position = _streamScrollCtrl.position;
+    // 距离底部 50 像素以内认为是在底部
+    return position.maxScrollExtent - position.pixels < 50;
   }
 
   Future<void> _selectSessions() async {
@@ -500,6 +586,221 @@ class _SummaryPageState extends State<SummaryPage> {
                         const SizedBox(width: 8),
                         _buildStatChip('模式', _summaryMode == 'merged' ? '合并分析' : '逐会话'),
                       ],
+                    ],
+                  ),
+                ),
+              ],
+              // 显示处理过程日志
+              if (_processLogs != null && _processLogs!.isNotEmpty) ...[
+                const SizedBox(height: 12),
+                ExpansionTile(
+                  title: Row(
+                    children: [
+                      Icon(Icons.terminal, size: 20, color: Colors.green.shade700),
+                      const SizedBox(width: 8),
+                      Text(
+                        '处理日志 (${_processLogs!.length} 条)',
+                        style: TextStyle(
+                          fontWeight: FontWeight.w600,
+                          color: Colors.green.shade800,
+                        ),
+                      ),
+                    ],
+                  ),
+                  tilePadding: const EdgeInsets.symmetric(horizontal: 12),
+                  backgroundColor: Colors.green.shade50,
+                  collapsedBackgroundColor: Colors.green.shade50,
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(8),
+                    side: BorderSide(color: Colors.green.shade200),
+                  ),
+                  collapsedShape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(8),
+                    side: BorderSide(color: Colors.green.shade200),
+                  ),
+                  children: [
+                    Container(
+                      width: double.infinity,
+                      padding: const EdgeInsets.all(12),
+                      constraints: const BoxConstraints(maxHeight: 200),
+                      child: SingleChildScrollView(
+                        child: SelectableText(
+                          _processLogs!.join('\n'),
+                          style: TextStyle(
+                            fontFamily: 'monospace',
+                            fontSize: 12,
+                            color: Colors.green.shade900,
+                          ),
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ],
+              // 流式输出显示区域（运行中或有流式输出时显示）
+              if (_running || _streamLog.isNotEmpty || _streamAiOutput.isNotEmpty) ...[
+                const SizedBox(height: 12),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.grey.shade900,
+                    borderRadius: BorderRadius.circular(8),
+                    border: Border.all(color: Colors.grey.shade700),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      // 标题栏
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                        decoration: BoxDecoration(
+                          color: Colors.grey.shade800,
+                          borderRadius: const BorderRadius.only(
+                            topLeft: Radius.circular(7),
+                            topRight: Radius.circular(7),
+                          ),
+                        ),
+                        child: Row(
+                          children: [
+                            if (_running) ...[
+                              const SizedBox(
+                                width: 12,
+                                height: 12,
+                                child: CircularProgressIndicator(
+                                  strokeWidth: 2,
+                                  color: Colors.green,
+                                ),
+                              ),
+                              const SizedBox(width: 8),
+                            ] else ...[
+                              const Icon(Icons.check_circle, size: 14, color: Colors.green),
+                              const SizedBox(width: 8),
+                            ],
+                            Text(
+                              _running 
+                                  ? '处理中... (步骤 $_currentStep/$_totalSteps)'
+                                  : '处理完成',
+                              style: const TextStyle(
+                                color: Colors.white,
+                                fontWeight: FontWeight.w500,
+                                fontSize: 13,
+                              ),
+                            ),
+                            const Spacer(),
+                            if (!_running && (_streamLog.isNotEmpty || _streamAiOutput.isNotEmpty))
+                              IconButton(
+                                icon: const Icon(Icons.clear, size: 16, color: Colors.grey),
+                                padding: EdgeInsets.zero,
+                                constraints: const BoxConstraints(),
+                                tooltip: '清除输出',
+                                onPressed: () {
+                                  setState(() {
+                                    _streamLog = '';
+                                    _streamAiOutput = '';
+                                  });
+                                },
+                              ),
+                          ],
+                        ),
+                      ),
+                      // 内容区域
+                      Stack(
+                        children: [
+                          Container(
+                            height: 200,
+                            padding: const EdgeInsets.all(12),
+                            child: NotificationListener<ScrollNotification>(
+                              onNotification: (notification) {
+                                if (notification is ScrollStartNotification) {
+                                  // 用户开始滚动
+                                  if (notification.dragDetails != null) {
+                                    setState(() {
+                                      _userScrolling = true;
+                                    });
+                                  }
+                                } else if (notification is ScrollEndNotification) {
+                                  // 滚动结束，检查是否在底部附近
+                                  if (_isNearBottom()) {
+                                setState(() {
+                                  _userScrolling = false;
+                                });
+                              }
+                            }
+                            return false;
+                          },
+                          child: SingleChildScrollView(
+                            controller: _streamScrollCtrl,
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                // 日志输出
+                                if (_streamLog.isNotEmpty)
+                                  SelectableText(
+                                    _streamLog,
+                                    style: TextStyle(
+                                      fontFamily: 'monospace',
+                                      fontSize: 11,
+                                      color: Colors.grey.shade400,
+                                    ),
+                                  ),
+                                // AI 输出
+                                if (_streamAiOutput.isNotEmpty) ...[
+                                  if (_streamLog.isNotEmpty) const SizedBox(height: 8),
+                                  Container(
+                                    padding: const EdgeInsets.all(8),
+                                    decoration: BoxDecoration(
+                                      color: Colors.grey.shade800,
+                                      borderRadius: BorderRadius.circular(4),
+                                    ),
+                                    child: SelectableText(
+                                      _streamAiOutput,
+                                      style: const TextStyle(
+                                        fontFamily: 'monospace',
+                                        fontSize: 12,
+                                        color: Colors.greenAccent,
+                                      ),
+                                    ),
+                                  ),
+                                ],
+                              ],
+                            ),
+                          ),
+                        ),
+                          ),
+                          // 回到底部按钮（用户向上滚动时显示）
+                          if (_userScrolling && _running)
+                            Positioned(
+                              right: 8,
+                              bottom: 8,
+                              child: Material(
+                                color: Colors.blue.shade600,
+                                borderRadius: BorderRadius.circular(20),
+                                child: InkWell(
+                                  borderRadius: BorderRadius.circular(20),
+                                  onTap: () {
+                                    setState(() {
+                                      _userScrolling = false;
+                                    });
+                                    _scrollToBottom();
+                                  },
+                                  child: const Padding(
+                                    padding: EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                                    child: Row(
+                                      mainAxisSize: MainAxisSize.min,
+                                      children: [
+                                        Icon(Icons.arrow_downward, size: 14, color: Colors.white),
+                                        SizedBox(width: 4),
+                                        Text(
+                                          '回到底部',
+                                          style: TextStyle(color: Colors.white, fontSize: 12),
+                                        ),
+                                      ],
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ),
+                        ],
+                      ),
                     ],
                   ),
                 ),

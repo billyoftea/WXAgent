@@ -1,0 +1,48 @@
+{
+  "session_id": "wxid_34nn95cmsuea22",
+  "session_name": "朱明谦",
+  "messages": [
+    {
+      "create_time": 1752777092,
+      "formatted_time": "2025-07-18 02:31:32",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "朱明谦"
+    },
+    {
+      "create_time": 1752777111,
+      "formatted_time": "2025-07-18 02:31:51",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "朱明谦"
+    },
+    {
+      "create_time": 1752802578,
+      "formatted_time": "2025-07-18 09:36:18",
+      "type": "文本消息",
+      "str_content": "昨天跟hqz他们玩了玩",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1752802590,
+      "formatted_time": "2025-07-18 09:36:30",
+      "type": "文本消息",
+      "str_content": "突然想起来还没你的微信[抱拳][抱拳]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1752802987,
+      "formatted_time": "2025-07-18 09:43:07",
+      "type": "文本消息",
+      "str_content": "okok",
+      "is_send": 0,
+      "sender_name": "朱明谦"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:26+08:00",
+  "message_count": 5
+}

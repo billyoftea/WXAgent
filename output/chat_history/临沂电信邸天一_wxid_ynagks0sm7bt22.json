@@ -1,0 +1,64 @@
+{
+  "session_id": "wxid_ynagks0sm7bt22",
+  "session_name": "临沂电信邸天一",
+  "messages": [
+    {
+      "create_time": 1669810126,
+      "formatted_time": "2022-11-30 20:08:46",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "临沂电信邸天一"
+    },
+    {
+      "create_time": 1669810163,
+      "formatted_time": "2022-11-30 20:09:23",
+      "type": "文本消息",
+      "str_content": "脚本是吧[旺柴]",
+      "is_send": 0,
+      "sender_name": "临沂电信邸天一"
+    },
+    {
+      "create_time": 1669810174,
+      "formatted_time": "2022-11-30 20:09:34",
+      "type": "文本消息",
+      "str_content": "hhh不是",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1669810176,
+      "formatted_time": "2022-11-30 20:09:36",
+      "type": "文本消息",
+      "str_content": "我有内个",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1669810183,
+      "formatted_time": "2022-11-30 20:09:43",
+      "type": "文本消息",
+      "str_content": "就是惊讶于咱俩还没好友",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1669810185,
+      "formatted_time": "2022-11-30 20:09:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1669810230,
+      "formatted_time": "2022-11-30 20:10:30",
+      "type": "文本消息",
+      "str_content": "这样吗[破涕为笑]",
+      "is_send": 0,
+      "sender_name": "临沂电信邸天一"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:37+08:00",
+  "message_count": 7
+}

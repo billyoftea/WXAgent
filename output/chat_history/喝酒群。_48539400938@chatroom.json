@@ -1,0 +1,996 @@
+{
+  "session_id": "48539400938@chatroom",
+  "session_name": "喝酒群。",
+  "messages": [
+    {
+      "create_time": 1750173134,
+      "formatted_time": "2025-06-17 23:12:14",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "喝酒群。",
+      "sender_wxid": "48539400938@chatroom"
+    },
+    {
+      "create_time": 1750173134,
+      "formatted_time": "2025-06-17 23:12:14",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750174487,
+      "formatted_time": "2025-06-17 23:34:47",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1750174487,
+      "formatted_time": "2025-06-17 23:34:47",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1750174487,
+      "formatted_time": "2025-06-17 23:34:47",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1750174487,
+      "formatted_time": "2025-06-17 23:34:47",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1750174488,
+      "formatted_time": "2025-06-17 23:34:48",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1750175004,
+      "formatted_time": "2025-06-17 23:43:24",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750175007,
+      "formatted_time": "2025-06-17 23:43:27",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750175415,
+      "formatted_time": "2025-06-17 23:50:15",
+      "type": "文本消息",
+      "str_content": "好好好",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750175420,
+      "formatted_time": "2025-06-17 23:50:20",
+      "type": "文本消息",
+      "str_content": "毕业快乐",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750175428,
+      "formatted_time": "2025-06-17 23:50:28",
+      "type": "文本消息",
+      "str_content": "大家早睡",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750175446,
+      "formatted_time": "2025-06-17 23:50:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750175590,
+      "formatted_time": "2025-06-17 23:53:10",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1750176544,
+      "formatted_time": "2025-06-18 00:09:04",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750176884,
+      "formatted_time": "2025-06-18 00:14:44",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "章嘉骏",
+      "sender_wxid": "wxid_opgmvu20dx2522"
+    },
+    {
+      "create_time": 1750177418,
+      "formatted_time": "2025-06-18 00:23:38",
+      "type": "文本消息",
+      "str_content": "好耶！",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750177427,
+      "formatted_time": "2025-06-18 00:23:47",
+      "type": "文本消息",
+      "str_content": "辟谣：12.之后没热水",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750177429,
+      "formatted_time": "2025-06-18 00:23:49",
+      "type": "文本消息",
+      "str_content": "其实有",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750177431,
+      "formatted_time": "2025-06-18 00:23:51",
+      "type": "文本消息",
+      "str_content": "我洗了",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750177460,
+      "formatted_time": "2025-06-18 00:24:20",
+      "type": "文本消息",
+      "str_content": "四十度的天很难没热水",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750177466,
+      "formatted_time": "2025-06-18 00:24:26",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750177500,
+      "formatted_time": "2025-06-18 00:25:00",
+      "type": "文本消息",
+      "str_content": "支持！",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750177512,
+      "formatted_time": "2025-06-18 00:25:12",
+      "type": "文本消息",
+      "str_content": "12.之后还有几分钟有",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750177521,
+      "formatted_time": "2025-06-18 00:25:21",
+      "type": "文本消息",
+      "str_content": "我洗到一半水压变小了",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750177532,
+      "formatted_time": "2025-06-18 00:25:32",
+      "type": "文本消息",
+      "str_content": "韵苑一直都这样，我经常踩点洗",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750177539,
+      "formatted_time": "2025-06-18 00:25:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750178623,
+      "formatted_time": "2025-06-18 00:43:43",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750178631,
+      "formatted_time": "2025-06-18 00:43:51",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750178784,
+      "formatted_time": "2025-06-18 00:46:24",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750178788,
+      "formatted_time": "2025-06-18 00:46:28",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750178790,
+      "formatted_time": "2025-06-18 00:46:30",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750178811,
+      "formatted_time": "2025-06-18 00:46:51",
+      "type": "文本消息",
+      "str_content": "大家都很微醺的样子。",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750178840,
+      "formatted_time": "2025-06-18 00:47:20",
+      "type": "文本消息",
+      "str_content": "找不出一张大家都表情良好的",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750178869,
+      "formatted_time": "2025-06-18 00:47:49",
+      "type": "视频消息",
+      "str_content": "[视频消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1750178913,
+      "formatted_time": "2025-06-18 00:48:33",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "刘卓",
+      "sender_wxid": "wxid_bb7sjj1i889x22"
+    },
+    {
+      "create_time": 1750179027,
+      "formatted_time": "2025-06-18 00:50:27",
+      "type": "文本消息",
+      "str_content": "都还可以啦",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750179028,
+      "formatted_time": "2025-06-18 00:50:28",
+      "type": "文本消息",
+      "str_content": "哈哈哈",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750179035,
+      "formatted_time": "2025-06-18 00:50:35",
+      "type": "文本消息",
+      "str_content": "大家怎么拍都好看",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750179038,
+      "formatted_time": "2025-06-18 00:50:38",
+      "type": "文本消息",
+      "str_content": "[呲牙][呲牙][呲牙]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750180554,
+      "formatted_time": "2025-06-18 01:15:54",
+      "type": "文本消息",
+      "str_content": "睡不着啊睡不着",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750180557,
+      "formatted_time": "2025-06-18 01:15:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750203341,
+      "formatted_time": "2025-06-18 07:35:41",
+      "type": "文本消息",
+      "str_content": "太嗨了",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750203402,
+      "formatted_time": "2025-06-18 07:36:42",
+      "type": "文本消息",
+      "str_content": "酒精不是催眠的吗",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750209570,
+      "formatted_time": "2025-06-18 09:19:30",
+      "type": "文本消息",
+      "str_content": "手误了[恐惧]",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750210942,
+      "formatted_time": "2025-06-18 09:42:22",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750210955,
+      "formatted_time": "2025-06-18 09:42:35",
+      "type": "文本消息",
+      "str_content": "小事一桩",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750211886,
+      "formatted_time": "2025-06-18 09:58:06",
+      "type": "文本消息",
+      "str_content": "夏总起这么早[恐惧]",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750211894,
+      "formatted_time": "2025-06-18 09:58:14",
+      "type": "文本消息",
+      "str_content": "你把睡眠进化掉了吗",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750211899,
+      "formatted_time": "2025-06-18 09:58:19",
+      "type": "文本消息",
+      "str_content": "被早起哥弄醒的",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750211901,
+      "formatted_time": "2025-06-18 09:58:21",
+      "type": "文本消息",
+      "str_content": "[憨笑]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750211907,
+      "formatted_time": "2025-06-18 09:58:27",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈！",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750211908,
+      "formatted_time": "2025-06-18 09:58:28",
+      "type": "文本消息",
+      "str_content": "懂了",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750211908,
+      "formatted_time": "2025-06-18 09:58:28",
+      "type": "文本消息",
+      "str_content": "睡不着了",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750211940,
+      "formatted_time": "2025-06-18 09:59:00",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750215292,
+      "formatted_time": "2025-06-18 10:54:52",
+      "type": "文本消息",
+      "str_content": "@Xuang 徐老师，发个群收款吧[呲牙]我点的那杯鸡尾酒单独给你",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750215318,
+      "formatted_time": "2025-06-18 10:55:18",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750215340,
+      "formatted_time": "2025-06-18 10:55:40",
+      "type": "文本消息",
+      "str_content": "是45？我没记错吧，要是搞错了我重发",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750217432,
+      "formatted_time": "2025-06-18 11:30:32",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1750217450,
+      "formatted_time": "2025-06-18 11:30:50",
+      "type": "文本消息",
+      "str_content": "没事，剩下的咱玩的开心就行 算我的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1750218123,
+      "formatted_time": "2025-06-18 11:42:03",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750218919,
+      "formatted_time": "2025-06-18 11:55:19",
+      "type": "文本消息",
+      "str_content": "太破费了徐老师",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750218950,
+      "formatted_time": "2025-06-18 11:55:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750290109,
+      "formatted_time": "2025-06-19 07:41:49",
+      "type": "文本消息",
+      "str_content": "xyr偷偷坐内场去了",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750290131,
+      "formatted_time": "2025-06-19 07:42:11",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750290279,
+      "formatted_time": "2025-06-19 07:44:39",
+      "type": "文本消息",
+      "str_content": "演员罢了",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750290308,
+      "formatted_time": "2025-06-19 07:45:08",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750290611,
+      "formatted_time": "2025-06-19 07:50:11",
+      "type": "文本消息",
+      "str_content": "拍成马赛克了",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750290636,
+      "formatted_time": "2025-06-19 07:50:36",
+      "type": "文本消息",
+      "str_content": "没拿相机",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750290637,
+      "formatted_time": "2025-06-19 07:50:37",
+      "type": "文本消息",
+      "str_content": "不然就很清楚",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750290638,
+      "formatted_time": "2025-06-19 07:50:38",
+      "type": "文本消息",
+      "str_content": "不让带",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750290688,
+      "formatted_time": "2025-06-19 07:51:28",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750290737,
+      "formatted_time": "2025-06-19 07:52:17",
+      "type": "文本消息",
+      "str_content": "偷偷带了",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750290787,
+      "formatted_time": "2025-06-19 07:53:07",
+      "type": "文本消息",
+      "str_content": "窝趣",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750290792,
+      "formatted_time": "2025-06-19 07:53:12",
+      "type": "文本消息",
+      "str_content": "早知道我也带一个",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750290809,
+      "formatted_time": "2025-06-19 07:53:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750290905,
+      "formatted_time": "2025-06-19 07:55:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750291126,
+      "formatted_time": "2025-06-19 07:58:46",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750291189,
+      "formatted_time": "2025-06-19 07:59:49",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750291222,
+      "formatted_time": "2025-06-19 08:00:22",
+      "type": "文本消息",
+      "str_content": "好有辨识度的鼻梁",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1750291272,
+      "formatted_time": "2025-06-19 08:01:12",
+      "type": "文本消息",
+      "str_content": "湖成这样了",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750291321,
+      "formatted_time": "2025-06-19 08:02:01",
+      "type": "文本消息",
+      "str_content": "还是很有辨识度",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750291331,
+      "formatted_time": "2025-06-19 08:02:11",
+      "type": "文本消息",
+      "str_content": "美的太突出了",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750291399,
+      "formatted_time": "2025-06-19 08:03:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750291508,
+      "formatted_time": "2025-06-19 08:05:08",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "喝酒群。",
+      "sender_wxid": "48539400938@chatroom"
+    },
+    {
+      "create_time": 1750291530,
+      "formatted_time": "2025-06-19 08:05:30",
+      "type": "文本消息",
+      "str_content": "笑死了，昨天zjj说李导是不是打错了歌名，应该是青春纪念手册",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750291586,
+      "formatted_time": "2025-06-19 08:06:26",
+      "type": "文本消息",
+      "str_content": "确实没听过啊（）",
+      "is_send": 0,
+      "sender_name": "章嘉骏",
+      "sender_wxid": "wxid_opgmvu20dx2522"
+    },
+    {
+      "create_time": 1750291604,
+      "formatted_time": "2025-06-19 08:06:44",
+      "type": "文本消息",
+      "str_content": "哈哈",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750291606,
+      "formatted_time": "2025-06-19 08:06:46",
+      "type": "文本消息",
+      "str_content": "只听过青春修炼手册左手右手慢动作",
+      "is_send": 0,
+      "sender_name": "章嘉骏",
+      "sender_wxid": "wxid_opgmvu20dx2522"
+    },
+    {
+      "create_time": 1750291613,
+      "formatted_time": "2025-06-19 08:06:53",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "章嘉骏",
+      "sender_wxid": "wxid_opgmvu20dx2522"
+    },
+    {
+      "create_time": 1750291642,
+      "formatted_time": "2025-06-19 08:07:22",
+      "type": "文本消息",
+      "str_content": "这个歌好老了",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750291651,
+      "formatted_time": "2025-06-19 08:07:31",
+      "type": "文本消息",
+      "str_content": "没听过正常",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750291674,
+      "formatted_time": "2025-06-19 08:07:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750293728,
+      "formatted_time": "2025-06-19 08:42:08",
+      "type": "文本消息",
+      "str_content": "偏偏把我们文科放后面",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750293740,
+      "formatted_time": "2025-06-19 08:42:20",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750293799,
+      "formatted_time": "2025-06-19 08:43:19",
+      "type": "视频号直播卡片",
+      "str_content": "[视频号直播]",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1750293852,
+      "formatted_time": "2025-06-19 08:44:12",
+      "type": "文本消息",
+      "str_content": "网好卡",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750294029,
+      "formatted_time": "2025-06-19 08:47:09",
+      "type": "文本消息",
+      "str_content": "看不了",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750296598,
+      "formatted_time": "2025-06-19 09:29:58",
+      "type": "文本消息",
+      "str_content": "多层次广角度的xyr",
+      "is_send": 0,
+      "sender_name": "刘卓",
+      "sender_wxid": "wxid_bb7sjj1i889x22"
+    },
+    {
+      "create_time": 1750296599,
+      "formatted_time": "2025-06-19 09:29:59",
+      "type": "图文消息",
+      "str_content": "原来本科毕业已经是3年前的事情了",
+      "is_send": 0,
+      "sender_name": "刘卓",
+      "sender_wxid": "wxid_bb7sjj1i889x22"
+    },
+    {
+      "create_time": 1750297623,
+      "formatted_time": "2025-06-19 09:47:03",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750298233,
+      "formatted_time": "2025-06-19 09:57:13",
+      "type": "文本消息",
+      "str_content": "我嘞个",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750298240,
+      "formatted_time": "2025-06-19 09:57:20",
+      "type": "文本消息",
+      "str_content": "牛",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750298242,
+      "formatted_time": "2025-06-19 09:57:22",
+      "type": "文本消息",
+      "str_content": "这都能刷到",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750307676,
+      "formatted_time": "2025-06-19 12:34:36",
+      "type": "文本消息",
+      "str_content": "还有人在经院的位置上门",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750307678,
+      "formatted_time": "2025-06-19 12:34:38",
+      "type": "文本消息",
+      "str_content": "吗",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750307681,
+      "formatted_time": "2025-06-19 12:34:41",
+      "type": "文本消息",
+      "str_content": "我的帽子[恐惧]",
+      "is_send": 0,
+      "sender_name": "王心妍",
+      "sender_wxid": "wxid_jenuoxqvrxe022"
+    },
+    {
+      "create_time": 1750308400,
+      "formatted_time": "2025-06-19 12:46:40",
+      "type": "文本消息",
+      "str_content": "我以为我们经院人的",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750308414,
+      "formatted_time": "2025-06-19 12:46:54",
+      "type": "文本消息",
+      "str_content": "我发个图给经院大群了",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750308422,
+      "formatted_time": "2025-06-19 12:47:02",
+      "type": "文本消息",
+      "str_content": "我们刚到食堂",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1750308428,
+      "formatted_time": "2025-06-19 12:47:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:22+08:00",
+  "message_count": 111
+}

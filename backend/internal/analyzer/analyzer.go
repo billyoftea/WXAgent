@@ -69,19 +69,46 @@ type AnalyzeResult struct {
 	Summaries     []string `json:"summaries"`
 	FinalSummary  string   `json:"final_summary"`
 	OutputFile    string   `json:"output_file"`
+	Logs          []string `json:"logs"` // 处理过程日志
+}
+
+// StreamEvent SSE 事件类型
+type StreamEvent struct {
+	Type    string `json:"type"`    // "log", "ai_chunk", "progress", "done", "error"
+	Content string `json:"content"` // 内容
+	Step    int    `json:"step"`    // 当前步骤 (1-6)
+	Total   int    `json:"total"`   // 总步骤数
+}
+
+// StreamCallback 流式事件回调
+type StreamCallback func(event StreamEvent)
+
+// logBuffer 用于收集日志
+type logBuffer struct {
+	logs []string
+}
+
+func (lb *logBuffer) Log(format string, args ...interface{}) {
+	msg := fmt.Sprintf(format, args...)
+	lb.logs = append(lb.logs, msg)
+	fmt.Println(msg) // 同时输出到控制台
 }
 
 // Analyze 执行分析
 func (a *Analyzer) Analyze(ctx context.Context, opts AnalyzeOptions) (*AnalyzeResult, error) {
+	lb := &logBuffer{}
+
 	// 设置默认值
 	if opts.MaxTokens == 0 {
 		opts.MaxTokens = 80000 // DeepSeek支持128K，设置80K留余量
 	}
 	if opts.OutputFile == "" {
-		opts.OutputFile = filepath.Join(a.exportDir, "chat_analysis.md")
+		// 添加时间戳防止覆盖，并保存到 exportDir/analysis 目录中（analysis 在 export_dir 下）
+		timestamp := time.Now().Format("20060102_150405")
+		opts.OutputFile = filepath.Join(a.exportDir, "analysis", fmt.Sprintf("chat_analysis_%s.md", timestamp))
 	}
 
-	fmt.Println("🔍 Step 1: 加载并合并所有JSON消息...")
+	lb.Log("🔍 Step 1: 加载并合并所有JSON消息...")
 	sessionMessagesList, err := a.loadAndMergeMessagesBySession(opts)
 	if err != nil {
 		return nil, fmt.Errorf("load messages: %w", err)
@@ -108,60 +135,61 @@ func (a *Analyzer) Analyze(ctx context.Context, opts AnalyzeOptions) (*AnalyzeRe
 		firstTime, _ := time.Parse("2006-01-02 15:04:05", firstMsg.FormattedTime)
 		lastTime, _ := time.Parse("2006-01-02 15:04:05", lastMsg.FormattedTime)
 
-		fmt.Printf("  [DEBUG] 实际消息时间范围: %s 至 %s\n",
+		lb.Log("  [DEBUG] 实际消息时间范围: %s 至 %s",
 			firstTime.Format("2006-01-02 15:04:05"),
 			lastTime.Format("2006-01-02 15:04:05"))
 	}
 
-	fmt.Printf("✓ 已加载 %d 条消息来自 %d 个会话\n", totalMessages, len(sessionNames))
+	lb.Log("✓ 已加载 %d 条消息来自 %d 个会话", totalMessages, len(sessionNames))
 
-	fmt.Println("\n📅 Step 2: 按会话格式化消息...")
+	lb.Log("\n📅 Step 2: 按会话格式化消息...")
 	formattedContent := a.formatMessagesBySession(sessionMessagesList)
-	fmt.Printf("✓ 格式化完成，总字符数: %d\n", len(formattedContent))
-	fmt.Printf("  [统计] 平均每条消息: %.1f 字符\n", float64(len(formattedContent))/float64(totalMessages))
+	lb.Log("✓ 格式化完成，总字符数: %d", len(formattedContent))
+	lb.Log("  [统计] 平均每条消息: %.1f 字符", float64(len(formattedContent))/float64(totalMessages))
 
-	fmt.Println("\n✂️  Step 3: 分段处理（考虑token限制）...")
+	lb.Log("\n✂️  Step 3: 分段处理（考虑token限制）...")
 	chunks := a.splitIntoChunks(formattedContent, opts.MaxTokens)
-	fmt.Printf("✓ 分为 %d 段\n", len(chunks))
-	fmt.Printf("  [统计] MaxTokens设置: %d, 每段最大字符数: %d\n", opts.MaxTokens, int(float64(opts.MaxTokens)/0.8))
+	lb.Log("✓ 分为 %d 段", len(chunks))
+	lb.Log("  [统计] MaxTokens设置: %d, 每段最大字符数: %d", opts.MaxTokens, int(float64(opts.MaxTokens)/0.8))
 	if len(chunks) > 1 {
 		for i, chunk := range chunks {
-			fmt.Printf("  [统计] 第 %d 段: %d 字符 (~%.0f tokens)\n", i+1, len(chunk), float64(len(chunk))*0.8)
+			lb.Log("  [统计] 第 %d 段: %d 字符 (~%.0f tokens)", i+1, len(chunk), float64(len(chunk))*0.8)
 		}
 	}
 
-	// 保存切片内容到txt文件
-	chunksFile := filepath.Join(a.exportDir, "chunks_preview.txt")
+	// 保存切片内容到txt文件（放在 export_dir/analysis 下，和分析报告放一起）
+	chunksFile := filepath.Join(a.exportDir, "analysis", "chunks_preview.txt")
 	if err := a.saveChunksToFile(chunksFile, chunks); err != nil {
-		fmt.Printf("⚠️  保存切片预览失败: %v\n", err)
+		lb.Log("⚠️  保存切片预览失败: %v", err)
 	} else {
-		fmt.Printf("  [调试] 切片内容已保存到: %s\n", chunksFile)
+		lb.Log("  [调试] 切片内容已保存到: %s", chunksFile)
 	}
 
-	fmt.Println("\n🤖 Step 4: 逐段调用DeepSeek进行总结...")
+	lb.Log("\n🤖 Step 4: 逐段调用DeepSeek进行总结...")
 	var chunkSummaries []string
 	for i, chunk := range chunks {
-		fmt.Printf("  处理第 %d/%d 段...\n", i+1, len(chunks))
+		lb.Log("  处理第 %d/%d 段...", i+1, len(chunks))
 		summary, err := a.summarizeChunk(ctx, chunk, i+1, len(chunks))
 		if err != nil {
 			return nil, fmt.Errorf("summarize chunk %d: %w", i+1, err)
 		}
 		chunkSummaries = append(chunkSummaries, summary)
-		fmt.Printf("  ✓ 完成第 %d 段\n", i+1)
+		lb.Log("  ✓ 完成第 %d 段 (输出 %d 字符)", i+1, len(summary))
 	}
 
-	fmt.Println("\n🔄 Step 5: 合并所有总结生成最终报告...")
+	lb.Log("\n🔄 Step 5: 合并所有总结生成最终报告...")
 	finalSummary, err := a.mergeSummaries(ctx, chunkSummaries)
 	if err != nil {
 		return nil, fmt.Errorf("merge summaries: %w", err)
 	}
+	lb.Log("✓ 合并完成 (输出 %d 字符)", len(finalSummary))
 
-	fmt.Println("\n💾 Step 6: 保存分析报告...")
+	lb.Log("\n💾 Step 6: 保存分析报告...")
 	if err := a.saveReport(opts.OutputFile, sessionNames, totalMessages, opts.StartDate, opts.EndDate, chunkSummaries, finalSummary); err != nil {
 		return nil, fmt.Errorf("save report: %w", err)
 	}
 
-	fmt.Printf("✓ 报告已保存到: %s\n", opts.OutputFile)
+	lb.Log("✓ 报告已保存到: %s", opts.OutputFile)
 
 	return &AnalyzeResult{
 		TotalMessages: totalMessages,
@@ -170,14 +198,152 @@ func (a *Analyzer) Analyze(ctx context.Context, opts AnalyzeOptions) (*AnalyzeRe
 		Summaries:     chunkSummaries,
 		FinalSummary:  finalSummary,
 		OutputFile:    opts.OutputFile,
+		Logs:          lb.logs,
+	}, nil
+}
+
+// AnalyzeStream 执行分析并通过回调发送流式事件
+func (a *Analyzer) AnalyzeStream(ctx context.Context, opts AnalyzeOptions, callback StreamCallback) (*AnalyzeResult, error) {
+	// 辅助函数：发送日志事件
+	sendLog := func(step int, format string, args ...interface{}) {
+		msg := fmt.Sprintf(format, args...)
+		fmt.Println(msg) // 控制台输出
+		if callback != nil {
+			callback(StreamEvent{Type: "log", Content: msg, Step: step, Total: 6})
+		}
+	}
+
+	// 辅助函数：发送 AI 输出事件
+	sendAIChunk := func(step int, content string) {
+		if callback != nil {
+			callback(StreamEvent{Type: "ai_chunk", Content: content, Step: step, Total: 6})
+		}
+	}
+
+	// 辅助函数：发送进度事件
+	sendProgress := func(step int, current, total int) {
+		if callback != nil {
+			callback(StreamEvent{
+				Type:    "progress",
+				Content: fmt.Sprintf("%d/%d", current, total),
+				Step:    step,
+				Total:   6,
+			})
+		}
+	}
+
+	var logs []string
+	logAndSend := func(step int, format string, args ...interface{}) {
+		msg := fmt.Sprintf(format, args...)
+		logs = append(logs, msg)
+		sendLog(step, msg)
+	}
+
+	// 设置默认值
+	if opts.MaxTokens == 0 {
+		opts.MaxTokens = 80000
+	}
+	if opts.OutputFile == "" {
+		// 添加时间戳防止覆盖，并保存到 exportDir/analysis 目录中（analysis 在 export_dir 下）
+		timestamp := time.Now().Format("20060102_150405")
+		opts.OutputFile = filepath.Join(a.exportDir, "analysis", fmt.Sprintf("chat_analysis_%s.md", timestamp))
+	}
+
+	// Step 1: 加载消息
+	logAndSend(1, "🔍 Step 1: 加载并合并所有JSON消息...")
+	sessionMessagesList, err := a.loadAndMergeMessagesBySession(opts)
+	if err != nil {
+		return nil, fmt.Errorf("load messages: %w", err)
+	}
+
+	if len(sessionMessagesList) == 0 {
+		return nil, fmt.Errorf("no messages found in the specified date range")
+	}
+
+	totalMessages := 0
+	var sessionNames []string
+	for _, sm := range sessionMessagesList {
+		totalMessages += len(sm.Messages)
+		sessionNames = append(sessionNames, sm.SessionName)
+	}
+
+	logAndSend(1, "✓ 已加载 %d 条消息来自 %d 个会话", totalMessages, len(sessionNames))
+
+	// Step 2: 格式化消息
+	logAndSend(2, "\n📅 Step 2: 按会话格式化消息...")
+	formattedContent := a.formatMessagesBySession(sessionMessagesList)
+	logAndSend(2, "✓ 格式化完成，总字符数: %d", len(formattedContent))
+
+	// Step 3: 分段
+	logAndSend(3, "\n✂️  Step 3: 分段处理（考虑token限制）...")
+	chunks := a.splitIntoChunks(formattedContent, opts.MaxTokens)
+	logAndSend(3, "✓ 分为 %d 段", len(chunks))
+
+	// Step 4: 逐段总结
+	logAndSend(4, "\n🤖 Step 4: 逐段调用DeepSeek进行总结...")
+	var chunkSummaries []string
+	for i, chunk := range chunks {
+		logAndSend(4, "  处理第 %d/%d 段...", i+1, len(chunks))
+		sendProgress(4, i+1, len(chunks))
+
+		// 使用流式 API
+		summary, err := a.summarizeChunkStream(ctx, chunk, i+1, len(chunks), func(content string) {
+			sendAIChunk(4, content)
+		})
+		if err != nil {
+			return nil, fmt.Errorf("summarize chunk %d: %w", i+1, err)
+		}
+		chunkSummaries = append(chunkSummaries, summary)
+		logAndSend(4, "  ✓ 完成第 %d 段 (输出 %d 字符)", i+1, len(summary))
+	}
+
+	// Step 5: 合并总结
+	logAndSend(5, "\n🔄 Step 5: 合并所有总结生成最终报告...")
+	finalSummary, err := a.mergeSummariesStream(ctx, chunkSummaries, func(content string) {
+		sendAIChunk(5, content)
+	})
+	if err != nil {
+		return nil, fmt.Errorf("merge summaries: %w", err)
+	}
+	logAndSend(5, "✓ 合并完成 (输出 %d 字符)", len(finalSummary))
+
+	// Step 6: 保存报告
+	logAndSend(6, "\n💾 Step 6: 保存分析报告...")
+	if err := a.saveReport(opts.OutputFile, sessionNames, totalMessages, opts.StartDate, opts.EndDate, chunkSummaries, finalSummary); err != nil {
+		return nil, fmt.Errorf("save report: %w", err)
+	}
+	logAndSend(6, "✓ 报告已保存到: %s", opts.OutputFile)
+
+	// 发送完成事件
+	if callback != nil {
+		callback(StreamEvent{Type: "done", Content: "分析完成", Step: 6, Total: 6})
+	}
+
+	return &AnalyzeResult{
+		TotalMessages: totalMessages,
+		TotalSessions: len(sessionNames),
+		ChunkCount:    len(chunks),
+		Summaries:     chunkSummaries,
+		FinalSummary:  finalSummary,
+		OutputFile:    opts.OutputFile,
+		Logs:          logs,
 	}, nil
 }
 
 // loadAndMergeMessages 加载并合并所有消息
 func (a *Analyzer) loadAndMergeMessages(opts AnalyzeOptions) ([]Message, []string, error) {
-	files, err := filepath.Glob(filepath.Join(a.exportDir, "*.json"))
+	// 优先查找 exportDir/chat_history/*.json；为兼容旧版也同时检查 exportDir/*.json
+	files, err := filepath.Glob(filepath.Join(a.exportDir, "chat_history", "*.json"))
 	if err != nil {
-		return nil, nil, fmt.Errorf("glob export dir: %w", err)
+		return nil, nil, fmt.Errorf("glob export dir (chat_history): %w", err)
+	}
+	// 如果没有找到任何文件，也尝试根目录下的 json（向后兼容）
+	if len(files) == 0 {
+		rootFiles, err2 := filepath.Glob(filepath.Join(a.exportDir, "*.json"))
+		if err2 != nil {
+			return nil, nil, fmt.Errorf("glob export dir: %w", err2)
+		}
+		files = rootFiles
 	}
 
 	allowedSessions := make(map[string]bool)
@@ -260,9 +426,17 @@ func (a *Analyzer) loadAndMergeMessages(opts AnalyzeOptions) ([]Message, []strin
 
 // loadAndMergeMessagesBySession 按会话加载并合并消息
 func (a *Analyzer) loadAndMergeMessagesBySession(opts AnalyzeOptions) ([]SessionMessages, error) {
-	files, err := filepath.Glob(filepath.Join(a.exportDir, "*.json"))
+	// 优先查找 exportDir/chat_history/*.json；为兼容旧版也同时检查 exportDir/*.json
+	files, err := filepath.Glob(filepath.Join(a.exportDir, "chat_history", "*.json"))
 	if err != nil {
-		return nil, fmt.Errorf("glob export dir: %w", err)
+		return nil, fmt.Errorf("glob export dir (chat_history): %w", err)
+	}
+	if len(files) == 0 {
+		rootFiles, err2 := filepath.Glob(filepath.Join(a.exportDir, "*.json"))
+		if err2 != nil {
+			return nil, fmt.Errorf("glob export dir: %w", err2)
+		}
+		files = rootFiles
 	}
 
 	allowedSessions := make(map[string]bool)
@@ -485,22 +659,26 @@ func (a *Analyzer) splitIntoChunks(content string, maxTokens int) []string {
 	return chunks
 }
 
-// summarizeChunk 总结单个分段
+// summarizeChunk 总结单个分段 (Map 阶段)
 func (a *Analyzer) summarizeChunk(ctx context.Context, chunk string, chunkNum, totalChunks int) (string, error) {
-	prompt := fmt.Sprintf(`请总结以下微信群聊天记录的主要内容和讨论话题（这是第 %d/%d 段）：
+	prompt := fmt.Sprintf(`请分别总结以下微信群聊天记录的主要内容和讨论话题。
+注意：以下文本可能包含来自不同群聊的消息，每个群聊用【群聊：群名】的格式标记，请按群聊分别总结。
+（这是第 %d/%d 段）
 
 %s
 
 要求：
 1. 用中文总结
-2. 总结出主要话题和讨论内容
-3. 提取出重要信息（如招聘信息、活动信息等）
-4. 概括参与者的主要观点或反应`, chunkNum, totalChunks, chunk)
+2. 分聊天对象进行总结，同一个群聊或者同一个聊天记录放在一起总结
+3. 总结出主要话题和讨论内容（用编号列出，并附上时间和讨论人（如果必要））
+4. 提取出重要信息（如招聘信息、活动信息等），并注意引用原文！
+5. 概括参与者的主要观点或反应
+6. 标出最活跃的话题和讨论热度`, chunkNum, totalChunks, chunk)
 
 	messages := []llm.ChatMessage{
 		{
 			Role:    "system",
-			Content: "你是一个专业的微信群聊天内容分析助手，能够快速准确地总结和分析群聊内容。",
+			Content: "你是一个专业的微信群聊天内容分析助手，能够快速准确地总结和分析群聊内容。你需要处理多个不同的群聊，请按群聊分别进行总结分析。",
 		},
 		{
 			Role:    "user",
@@ -511,30 +689,70 @@ func (a *Analyzer) summarizeChunk(ctx context.Context, chunk string, chunkNum, t
 	return a.llmClient.ChatCompletion(ctx, messages)
 }
 
-// mergeSummaries 合并所有总结
-func (a *Analyzer) mergeSummaries(ctx context.Context, summaries []string) (string, error) {
-	if len(summaries) == 1 {
-		return summaries[0], nil
+// summarizeChunkStream 流式版本的总结单个分段 (Map 阶段)
+func (a *Analyzer) summarizeChunkStream(ctx context.Context, chunk string, chunkNum, totalChunks int, callback func(string)) (string, error) {
+	prompt := fmt.Sprintf(`请分别总结以下微信群聊天记录的主要内容和讨论话题。
+注意：以下文本可能包含来自不同群聊的消息，每个群聊用【群聊：群名】的格式标记，请按群聊分别总结。
+（这是第 %d/%d 段）
+
+%s
+
+要求：
+1. 用中文总结
+2. 分聊天对象进行总结，同一个群聊或者同一个聊天记录放在一起总结
+3. 总结出主要话题和讨论内容（用编号列出，并附上时间和讨论人（如果必要））
+4. 提取出重要信息（如招聘信息、活动信息等），并注意引用原文！
+5. 概括参与者的主要观点或反应
+6. 标出最活跃的话题和讨论热度`, chunkNum, totalChunks, chunk)
+
+	messages := []llm.ChatMessage{
+		{
+			Role:    "system",
+			Content: "你是一个专业的微信群聊天内容分析助手，能够快速准确地总结和分析群聊内容。你需要处理多个不同的群聊，请按群聊分别进行总结分析。",
+		},
+		{
+			Role:    "user",
+			Content: prompt,
+		},
 	}
 
-	combinedSummaries := strings.Join(summaries, "\n\n---\n\n")
+	return a.llmClient.ChatCompletionWithCallback(ctx, messages, callback)
+}
 
-	prompt := fmt.Sprintf(`以下是对微信群聊天记录的多段总结，请将它们合并为一份完整、连贯的总结报告：
+// mergeSummaries 合并所有总结 (Reduce 阶段)
+// 即使只有一段，也调用 AI 生成结构化报告
+func (a *Analyzer) mergeSummaries(ctx context.Context, summaries []string) (string, error) {
+	// 格式化分片总结，添加批次标记
+	var formattedSummaries []string
+	for idx, summary := range summaries {
+		formattedSummaries = append(formattedSummaries, fmt.Sprintf("【批次 %d】\n%s", idx+1, strings.TrimSpace(summary)))
+	}
+	combinedSummaries := strings.Join(formattedSummaries, "\n\n---\n\n")
 
+	// 根据段数调整 prompt
+	var introText string
+	if len(summaries) == 1 {
+		introText = "下面是对微信群聊天记录的总结，请将其整理为一份结构化的最终报告："
+	} else {
+		introText = "下面提供了若干分片的局部总结，请你：\n1. 按群聊/话题重新组织内容，去掉重复叙述，但要保留所有关键细节、时间、人物与数量\n2. 识别跨批次连续的讨论并合并，补全上下文\n3. 输出 Markdown，包含：概览、按群聊的详细总结、关键行动项/待办/风险\n\n分片总结如下："
+	}
+
+	prompt := fmt.Sprintf(`%s
 %s
 
 要求：
 1. 用中文撰写
 2. 整合所有段落的关键信息，避免重复
-3. 按主题或时间线组织内容
-4. 突出重要信息（招聘、活动、通知等）
-5. 使用Markdown格式，结构清晰
-6. 如果有讨论的发展或决策过程，请体现出来`, combinedSummaries)
+3. 按群聊或主题组织内容，结构清晰
+4. 突出重要信息（招聘、活动、通知等），并引用原文关键内容
+5. 使用Markdown格式，层次分明
+6. 如果有讨论的发展或决策过程，请体现出来
+7. 在末尾添加"关键行动项/待办事项"小节（如有）`, introText, combinedSummaries)
 
 	messages := []llm.ChatMessage{
 		{
 			Role:    "system",
-			Content: "你是一个专业的报告撰写助手，擅长整合和组织信息。",
+			Content: "你是一个严谨的会议/群聊纪要整理助手，会将多份局部总结整合成结构化的最终报告。",
 		},
 		{
 			Role:    "user",
@@ -543,6 +761,47 @@ func (a *Analyzer) mergeSummaries(ctx context.Context, summaries []string) (stri
 	}
 
 	return a.llmClient.ChatCompletion(ctx, messages)
+}
+
+// mergeSummariesStream 流式版本的合并总结 (Reduce 阶段)
+func (a *Analyzer) mergeSummariesStream(ctx context.Context, summaries []string, callback func(string)) (string, error) {
+	var formattedSummaries []string
+	for idx, summary := range summaries {
+		formattedSummaries = append(formattedSummaries, fmt.Sprintf("【批次 %d】\n%s", idx+1, strings.TrimSpace(summary)))
+	}
+	combinedSummaries := strings.Join(formattedSummaries, "\n\n---\n\n")
+
+	var introText string
+	if len(summaries) == 1 {
+		introText = "下面是对微信群聊天记录的总结，请将其整理为一份结构化的最终报告："
+	} else {
+		introText = "下面提供了若干分片的局部总结，请你：\n1. 按群聊/话题重新组织内容，去掉重复叙述，但要保留所有关键细节、时间、人物与数量\n2. 识别跨批次连续的讨论并合并，补全上下文\n3. 输出 Markdown，包含：概览、按群聊的详细总结、关键行动项/待办/风险\n\n分片总结如下："
+	}
+
+	prompt := fmt.Sprintf(`%s
+%s
+
+要求：
+1. 用中文撰写
+2. 整合所有段落的关键信息，避免重复
+3. 按群聊或主题组织内容，结构清晰
+4. 突出重要信息（招聘、活动、通知等），并引用原文关键内容
+5. 使用Markdown格式，层次分明
+6. 如果有讨论的发展或决策过程，请体现出来
+7. 在末尾添加"关键行动项/待办事项"小节（如有）`, introText, combinedSummaries)
+
+	messages := []llm.ChatMessage{
+		{
+			Role:    "system",
+			Content: "你是一个严谨的会议/群聊纪要整理助手，会将多份局部总结整合成结构化的最终报告。",
+		},
+		{
+			Role:    "user",
+			Content: prompt,
+		},
+	}
+
+	return a.llmClient.ChatCompletionWithCallback(ctx, messages, callback)
 }
 
 // saveReport 保存报告
@@ -579,16 +838,23 @@ func (a *Analyzer) saveReport(outputFile string, sessionNames []string, totalMes
 	sb.WriteString(finalSummary)
 	sb.WriteString("\n\n---\n\n")
 
-	// 分段总结（可选，作为附录）
-	if len(chunkSummaries) > 1 {
-		sb.WriteString("## 附录：分段总结\n\n")
-		for i, summary := range chunkSummaries {
-			sb.WriteString(fmt.Sprintf("### 第 %d/%d 段\n\n", i+1, len(chunkSummaries)))
-			sb.WriteString(summary)
-			sb.WriteString("\n\n")
+	// 分段总结详情
+	sb.WriteString("## 附录：分段总结详情\n\n")
+	sb.WriteString(fmt.Sprintf("> 本次分析共分为 **%d** 个段落进行处理\n\n", len(chunkSummaries)))
+
+	for i, summary := range chunkSummaries {
+		sb.WriteString(fmt.Sprintf("### 分段总结 %d/%d\n\n", i+1, len(chunkSummaries)))
+		sb.WriteString(summary)
+		sb.WriteString("\n\n")
+		if i < len(chunkSummaries)-1 {
+			sb.WriteString("---\n\n")
 		}
 	}
 
+	// 确保目录存在（将保存到 exportDir/analysis/...）
+	if err := os.MkdirAll(filepath.Dir(outputFile), 0755); err != nil {
+		return err
+	}
 	return os.WriteFile(outputFile, []byte(sb.String()), 0644)
 }
 
@@ -611,6 +877,10 @@ func (a *Analyzer) saveChunksToFile(outputFile string, chunks []string) error {
 		sb.WriteString(strings.Repeat("=", 80) + "\n\n")
 	}
 
+	// 确保目录存在（放在 export_dir/analysis）
+	if err := os.MkdirAll(filepath.Dir(outputFile), 0755); err != nil {
+		return err
+	}
 	return os.WriteFile(outputFile, []byte(sb.String()), 0644)
 }
 

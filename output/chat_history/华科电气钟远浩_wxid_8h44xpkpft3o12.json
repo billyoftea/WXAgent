@@ -1,0 +1,72 @@
+{
+  "session_id": "wxid_8h44xpkpft3o12",
+  "session_name": "华科电气钟远浩",
+  "messages": [
+    {
+      "create_time": 1741358401,
+      "formatted_time": "2025-03-07 22:40:01",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "华科电气钟远浩"
+    },
+    {
+      "create_time": 1741358409,
+      "formatted_time": "2025-03-07 22:40:09",
+      "type": "文本消息",
+      "str_content": "华科电气钟远浩",
+      "is_send": 0,
+      "sender_name": "华科电气钟远浩"
+    },
+    {
+      "create_time": 1742572163,
+      "formatted_time": "2025-03-21 23:49:23",
+      "type": "文本消息",
+      "str_content": "回宿舍了哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1742572165,
+      "formatted_time": "2025-03-21 23:49:25",
+      "type": "文本消息",
+      "str_content": "睡觉睡觉",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1742572309,
+      "formatted_time": "2025-03-21 23:51:49",
+      "type": "文本消息",
+      "str_content": "好勒好勒",
+      "is_send": 0,
+      "sender_name": "华科电气钟远浩"
+    },
+    {
+      "create_time": 1742572314,
+      "formatted_time": "2025-03-21 23:51:54",
+      "type": "文本消息",
+      "str_content": "晚安哈",
+      "is_send": 0,
+      "sender_name": "华科电气钟远浩"
+    },
+    {
+      "create_time": 1742572318,
+      "formatted_time": "2025-03-21 23:51:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "华科电气钟远浩"
+    },
+    {
+      "create_time": 1742572339,
+      "formatted_time": "2025-03-21 23:52:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:27+08:00",
+  "message_count": 8
+}

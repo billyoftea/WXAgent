@@ -1,0 +1,823 @@
+{
+  "session_id": "34885952472@chatroom",
+  "session_name": "34885952472@chatroom",
+  "messages": [
+    {
+      "create_time": 1662948786,
+      "formatted_time": "2022-09-12 10:13:06",
+      "type": "文本消息",
+      "str_content": "第一志愿八个人都已经发短信了",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1662948786,
+      "formatted_time": "2022-09-12 10:13:06",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662948792,
+      "formatted_time": "2022-09-12 10:13:12",
+      "type": "文本消息",
+      "str_content": "调剂的安排目前还没出来",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1662948806,
+      "formatted_time": "2022-09-12 10:13:26",
+      "type": "文本消息",
+      "str_content": "你们可以考虑部门的人数",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1662948858,
+      "formatted_time": "2022-09-12 10:14:18",
+      "type": "文本消息",
+      "str_content": "人数不多就只有一面，也就是简单的问一些问题",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1662948891,
+      "formatted_time": "2022-09-12 10:14:51",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1662948901,
+      "formatted_time": "2022-09-12 10:15:01",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662948927,
+      "formatted_time": "2022-09-12 10:15:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1662948931,
+      "formatted_time": "2022-09-12 10:15:31",
+      "type": "文本消息",
+      "str_content": "情头",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1662948942,
+      "formatted_time": "2022-09-12 10:15:42",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1662948955,
+      "formatted_time": "2022-09-12 10:15:55",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1662948955,
+      "formatted_time": "2022-09-12 10:15:55",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1662948983,
+      "formatted_time": "2022-09-12 10:16:23",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1662956264,
+      "formatted_time": "2022-09-12 12:17:44",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1662956635,
+      "formatted_time": "2022-09-12 12:23:55",
+      "type": "文本消息",
+      "str_content": "噗，不用管",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1662961383,
+      "formatted_time": "2022-09-12 13:43:03",
+      "type": "文本消息",
+      "str_content": "我这里四个短信就回了一个",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1662964207,
+      "formatted_time": "2022-09-12 14:30:07",
+      "type": "文本消息",
+      "str_content": "我这回了仨",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663067493,
+      "formatted_time": "2022-09-13 19:11:33",
+      "type": "文本消息",
+      "str_content": "你们俩打算招几个",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663067506,
+      "formatted_time": "2022-09-13 19:11:46",
+      "type": "文本消息",
+      "str_content": "目前还在调剂人数到工作室",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663067514,
+      "formatted_time": "2022-09-13 19:11:54",
+      "type": "文本消息",
+      "str_content": "让我有个预期报上去",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663067522,
+      "formatted_time": "2022-09-13 19:12:02",
+      "type": "文本消息",
+      "str_content": "xa睡着了",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663067532,
+      "formatted_time": "2022-09-13 19:12:12",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1663067532,
+      "formatted_time": "2022-09-13 19:12:12",
+      "type": "文本消息",
+      "str_content": "等醒了商量商量",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663067535,
+      "formatted_time": "2022-09-13 19:12:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1663067537,
+      "formatted_time": "2022-09-13 19:12:17",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663067539,
+      "formatted_time": "2022-09-13 19:12:19",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663067544,
+      "formatted_time": "2022-09-13 19:12:24",
+      "type": "文本消息",
+      "str_content": "你俩一个寝室？",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663067550,
+      "formatted_time": "2022-09-13 19:12:30",
+      "type": "文本消息",
+      "str_content": "yep",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663067554,
+      "formatted_time": "2022-09-13 19:12:34",
+      "type": "文本消息",
+      "str_content": "秒醒",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663067569,
+      "formatted_time": "2022-09-13 19:12:49",
+      "type": "文本消息",
+      "str_content": "你那边四个都回了吗",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663067572,
+      "formatted_time": "2022-09-13 19:12:52",
+      "type": "文本消息",
+      "str_content": "牛蛙，今年才换的寝么",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663067574,
+      "formatted_time": "2022-09-13 19:12:54",
+      "type": "文本消息",
+      "str_content": "一共有几个来面试的哇",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1663067576,
+      "formatted_time": "2022-09-13 19:12:56",
+      "type": "文本消息",
+      "str_content": "对的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1663067588,
+      "formatted_time": "2022-09-13 19:13:08",
+      "type": "文本消息",
+      "str_content": "7到8个一面的",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663067593,
+      "formatted_time": "2022-09-13 19:13:13",
+      "type": "文本消息",
+      "str_content": "就是第一志愿",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663067602,
+      "formatted_time": "2022-09-13 19:13:22",
+      "type": "文本消息",
+      "str_content": "我这有个不来的",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663067604,
+      "formatted_time": "2022-09-13 19:13:24",
+      "type": "文本消息",
+      "str_content": "那就七个吧",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663067627,
+      "formatted_time": "2022-09-13 19:13:47",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663067634,
+      "formatted_time": "2022-09-13 19:13:54",
+      "type": "文本消息",
+      "str_content": "六七个",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663067634,
+      "formatted_time": "2022-09-13 19:13:54",
+      "type": "文本消息",
+      "str_content": "那就是6-7个",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663067639,
+      "formatted_time": "2022-09-13 19:13:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663067640,
+      "formatted_time": "2022-09-13 19:14:00",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663067649,
+      "formatted_time": "2022-09-13 19:14:09",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1663067655,
+      "formatted_time": "2022-09-13 19:14:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663067755,
+      "formatted_time": "2022-09-13 19:15:55",
+      "type": "文本消息",
+      "str_content": "招七个一天一个核酸",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663067786,
+      "formatted_time": "2022-09-13 19:16:26",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663140053,
+      "formatted_time": "2022-09-14 15:20:53",
+      "type": "文本消息",
+      "str_content": "晚上准备问啥",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663141004,
+      "formatted_time": "2022-09-14 15:36:44",
+      "type": "文本消息",
+      "str_content": "这可是挑你们俩喜欢的",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663141020,
+      "formatted_time": "2022-09-14 15:37:00",
+      "type": "文本消息",
+      "str_content": "xa还在做梦",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663141025,
+      "formatted_time": "2022-09-14 15:37:05",
+      "type": "文本消息",
+      "str_content": "问一问对摄影的理解？",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663141031,
+      "formatted_time": "2022-09-14 15:37:11",
+      "type": "文本消息",
+      "str_content": "我来上课了行不",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1663141031,
+      "formatted_time": "2022-09-14 15:37:11",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1663141033,
+      "formatted_time": "2022-09-14 15:37:13",
+      "type": "文本消息",
+      "str_content": "噗你俩怎么gay里",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663141035,
+      "formatted_time": "2022-09-14 15:37:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1663141036,
+      "formatted_time": "2022-09-14 15:37:16",
+      "type": "文本消息",
+      "str_content": "gay",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663141039,
+      "formatted_time": "2022-09-14 15:37:19",
+      "type": "文本消息",
+      "str_content": "气的",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663141039,
+      "formatted_time": "2022-09-14 15:37:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663141048,
+      "formatted_time": "2022-09-14 15:37:28",
+      "type": "文本消息",
+      "str_content": "震惊，部门竟然有",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663141051,
+      "formatted_time": "2022-09-14 15:37:31",
+      "type": "文本消息",
+      "str_content": "参考去年李天尧问我们的",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663141066,
+      "formatted_time": "2022-09-14 15:37:46",
+      "type": "文本消息",
+      "str_content": "要一张自认为最满意的照片",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663141068,
+      "formatted_time": "2022-09-14 15:37:48",
+      "type": "文本消息",
+      "str_content": "器材 审美 技术",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1663141072,
+      "formatted_time": "2022-09-14 15:37:52",
+      "type": "文本消息",
+      "str_content": "这三者的关系",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1663141075,
+      "formatted_time": "2022-09-14 15:37:55",
+      "type": "引用消息",
+      "str_content": "这个也有",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663141085,
+      "formatted_time": "2022-09-14 15:38:05",
+      "type": "文本消息",
+      "str_content": "审美最重要",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663141088,
+      "formatted_time": "2022-09-14 15:38:08",
+      "type": "文本消息",
+      "str_content": "还有为什么想加",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663141092,
+      "formatted_time": "2022-09-14 15:38:12",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1663141109,
+      "formatted_time": "2022-09-14 15:38:29",
+      "type": "文本消息",
+      "str_content": "我晚上9点才下课",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663141110,
+      "formatted_time": "2022-09-14 15:38:30",
+      "type": "文本消息",
+      "str_content": "然后问问会不会转专业",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663141117,
+      "formatted_time": "2022-09-14 15:38:37",
+      "type": "文本消息",
+      "str_content": "我们也差不多",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663141120,
+      "formatted_time": "2022-09-14 15:38:40",
+      "type": "文本消息",
+      "str_content": "嗯可以",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663141122,
+      "formatted_time": "2022-09-14 15:38:42",
+      "type": "文本消息",
+      "str_content": "8.35下课",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663141309,
+      "formatted_time": "2022-09-14 15:41:49",
+      "type": "文本消息",
+      "str_content": "我当年在资委面试搞得贼正式，开始以为部长是个冰系学姐，后来深度逗逼二次元",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663141324,
+      "formatted_time": "2022-09-14 15:42:04",
+      "type": "文本消息",
+      "str_content": "要装一下的",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1663141327,
+      "formatted_time": "2022-09-14 15:42:07",
+      "type": "文本消息",
+      "str_content": "不过资委是面试人多，搞了一大堆",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1663141342,
+      "formatted_time": "2022-09-14 15:42:22",
+      "type": "文本消息",
+      "str_content": "哈哈哈是要震慑住新生",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1665214437,
+      "formatted_time": "2022-10-08 15:33:57",
+      "type": "文本消息",
+      "str_content": "关于华中科技大学经济学院团委各部门负责人公开选拔的通知http://eco.hust.edu.cn/info/1154/13544.htm",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1665214444,
+      "formatted_time": "2022-10-08 15:34:04",
+      "type": "文本消息",
+      "str_content": "http://eco.hust.edu.cn/info/1154/13545.htm 关于华中科技大学经济学院学生会各部门负责人、工作人员公开选拔的通知",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1665214460,
+      "formatted_time": "2022-10-08 15:34:20",
+      "type": "文本消息",
+      "str_content": "@Clifford 记得提交报名表",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1665214481,
+      "formatted_time": "2022-10-08 15:34:41",
+      "type": "文本消息",
+      "str_content": "@Billy O' Tea 你不需要提交，只要后续收集一下信息即可",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1665214806,
+      "formatted_time": "2022-10-08 15:40:06",
+      "type": "文本消息",
+      "str_content": "交了",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1665550331,
+      "formatted_time": "2022-10-12 12:52:11",
+      "type": "文本消息",
+      "str_content": "换届答辩明天下午3点在经院101",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1665550347,
+      "formatted_time": "2022-10-12 12:52:27",
+      "type": "文本消息",
+      "str_content": "别忘记了",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1665550353,
+      "formatted_time": "2022-10-12 12:52:33",
+      "type": "文本消息",
+      "str_content": "@Clifford @Billy O' Tea",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1665550359,
+      "formatted_time": "2022-10-12 12:52:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1665550405,
+      "formatted_time": "2022-10-12 12:53:25",
+      "type": "文本消息",
+      "str_content": "我还用答辩嘛",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1665550413,
+      "formatted_time": "2022-10-12 12:53:33",
+      "type": "文本消息",
+      "str_content": "你不用吧",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1665550427,
+      "formatted_time": "2022-10-12 12:53:47",
+      "type": "文本消息",
+      "str_content": "但是要到场",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1665550432,
+      "formatted_time": "2022-10-12 12:53:52",
+      "type": "文本消息",
+      "str_content": "okok",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1665725112,
+      "formatted_time": "2022-10-14 13:25:12",
+      "type": "文本消息",
+      "str_content": "团学骨干需集中收看二十大的开幕直播，主席团成员、团委副书记和部门负责人（新上任）都要参加，地点为8栋102，时间推测为上午9点（如有变动后续通知），主席团成员和团委副书记每人都要写感想。",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1665725120,
+      "formatted_time": "2022-10-14 13:25:20",
+      "type": "文本消息",
+      "str_content": "@Clifford @Billy O' Tea",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    },
+    {
+      "create_time": 1665725138,
+      "formatted_time": "2022-10-14 13:25:38",
+      "type": "文本消息",
+      "str_content": "啥时候",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1665725139,
+      "formatted_time": "2022-10-14 13:25:39",
+      "type": "文本消息",
+      "str_content": "明天上午？",
+      "is_send": 0,
+      "sender_name": "洪晨昱",
+      "sender_wxid": "wxid_np8das2wf6t111"
+    },
+    {
+      "create_time": 1665725166,
+      "formatted_time": "2022-10-14 13:26:06",
+      "type": "文本消息",
+      "str_content": "10月16日吧",
+      "is_send": 0,
+      "sender_name": "谭金盔",
+      "sender_wxid": "wxid_a3j8u14z5o6w22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:43+08:00",
+  "message_count": 93
+}

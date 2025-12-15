@@ -1,0 +1,896 @@
+{
+  "session_id": "wxid_qtsb5p82u7jh22",
+  "session_name": "赵泽勇",
+  "messages": [
+    {
+      "create_time": 1642671709,
+      "formatted_time": "2022-01-20 17:41:49",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1642671714,
+      "formatted_time": "2022-01-20 17:41:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1642673156,
+      "formatted_time": "2022-01-20 18:05:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1642920858,
+      "formatted_time": "2022-01-23 14:54:18",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1642920864,
+      "formatted_time": "2022-01-23 14:54:24",
+      "type": "文本消息",
+      "str_content": "怎么会蠢到班级都说错啊",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1642920880,
+      "formatted_time": "2022-01-23 14:54:40",
+      "type": "文本消息",
+      "str_content": "可能是因为..我没转专业之前一直是2101班",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1642920895,
+      "formatted_time": "2022-01-23 14:54:55",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1642920916,
+      "formatted_time": "2022-01-23 14:55:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1665410725,
+      "formatted_time": "2022-10-10 22:05:25",
+      "type": "文本消息",
+      "str_content": "就是说 市场调研大赛[可怜]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1665410733,
+      "formatted_time": "2022-10-10 22:05:33",
+      "type": "文本消息",
+      "str_content": "你组队了吗",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1665410737,
+      "formatted_time": "2022-10-10 22:05:37",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1665410757,
+      "formatted_time": "2022-10-10 22:05:57",
+      "type": "文本消息",
+      "str_content": "啊哪个比赛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1665410764,
+      "formatted_time": "2022-10-10 22:06:04",
+      "type": "文本消息",
+      "str_content": "还没有捏",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1665410773,
+      "formatted_time": "2022-10-10 22:06:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1665410792,
+      "formatted_time": "2022-10-10 22:06:32",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1665410800,
+      "formatted_time": "2022-10-10 22:06:40",
+      "type": "文本消息",
+      "str_content": "李导之前好像也发过",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1665410806,
+      "formatted_time": "2022-10-10 22:06:46",
+      "type": "文本消息",
+      "str_content": "当时是什么开幕式",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1665410826,
+      "formatted_time": "2022-10-10 22:07:06",
+      "type": "文本消息",
+      "str_content": "啊你说的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1665410830,
+      "formatted_time": "2022-10-10 22:07:10",
+      "type": "文本消息",
+      "str_content": "正大杯嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1665410835,
+      "formatted_time": "2022-10-10 22:07:15",
+      "type": "文本消息",
+      "str_content": "这个我组好了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1665410837,
+      "formatted_time": "2022-10-10 22:07:17",
+      "type": "文本消息",
+      "str_content": "[可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1665410853,
+      "formatted_time": "2022-10-10 22:07:33",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1665410855,
+      "formatted_time": "2022-10-10 22:07:35",
+      "type": "文本消息",
+      "str_content": "啊 好像是的",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1665410945,
+      "formatted_time": "2022-10-10 22:09:05",
+      "type": "文本消息",
+      "str_content": "[衰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1665410997,
+      "formatted_time": "2022-10-10 22:09:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1665411362,
+      "formatted_time": "2022-10-10 22:16:02",
+      "type": "引用消息",
+      "str_content": "那你们组…缺人吗",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1665411374,
+      "formatted_time": "2022-10-10 22:16:14",
+      "type": "文本消息",
+      "str_content": "[苦涩]应该是不缺了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1665411381,
+      "formatted_time": "2022-10-10 22:16:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1665411387,
+      "formatted_time": "2022-10-10 22:16:27",
+      "type": "文本消息",
+      "str_content": "咳咳…好的吧",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1668585190,
+      "formatted_time": "2022-11-16 15:53:10",
+      "type": "文本消息",
+      "str_content": "你那有什么管原的资料吗[苦涩][苦涩]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668585193,
+      "formatted_time": "2022-11-16 15:53:13",
+      "type": "文本消息",
+      "str_content": "苯人要慌死了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668585195,
+      "formatted_time": "2022-11-16 15:53:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668585469,
+      "formatted_time": "2022-11-16 15:57:49",
+      "type": "文件消息",
+      "str_content": "管原考试(1).docx",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1668585469,
+      "formatted_time": "2022-11-16 15:57:49",
+      "type": "文件消息",
+      "str_content": "富士康事件.doc",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1668585478,
+      "formatted_time": "2022-11-16 15:57:58",
+      "type": "文本消息",
+      "str_content": "不知道能不能帮到你哦",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1668585483,
+      "formatted_time": "2022-11-16 15:58:03",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668585490,
+      "formatted_time": "2022-11-16 15:58:10",
+      "type": "文本消息",
+      "str_content": "谢谢泽勇",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668585492,
+      "formatted_time": "2022-11-16 15:58:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668585527,
+      "formatted_time": "2022-11-16 15:58:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1669454198,
+      "formatted_time": "2022-11-26 17:16:38",
+      "type": "文本消息",
+      "str_content": "[大哭]昂昂子救命",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1669454203,
+      "formatted_time": "2022-11-26 17:16:43",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1669454207,
+      "formatted_time": "2022-11-26 17:16:47",
+      "type": "文本消息",
+      "str_content": "红色划线那里怎么算啊",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1669454211,
+      "formatted_time": "2022-11-26 17:16:51",
+      "type": "文本消息",
+      "str_content": "[流泪][流泪]我学了个寂寞",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1669454943,
+      "formatted_time": "2022-11-26 17:29:03",
+      "type": "文本消息",
+      "str_content": "真不会",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1669454944,
+      "formatted_time": "2022-11-26 17:29:04",
+      "type": "文本消息",
+      "str_content": "[凋谢]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1669454948,
+      "formatted_time": "2022-11-26 17:29:08",
+      "type": "文本消息",
+      "str_content": "我是数学废物",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1669454988,
+      "formatted_time": "2022-11-26 17:29:48",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1669455005,
+      "formatted_time": "2022-11-26 17:30:05",
+      "type": "文本消息",
+      "str_content": "好的吧 还是谢谢了[大哭][凋谢]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1669455031,
+      "formatted_time": "2022-11-26 17:30:31",
+      "type": "文本消息",
+      "str_content": "[流泪]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1681006096,
+      "formatted_time": "2023-04-09 10:08:16",
+      "type": "文本消息",
+      "str_content": "来了嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1681006098,
+      "formatted_time": "2023-04-09 10:08:18",
+      "type": "文本消息",
+      "str_content": "十大歌手",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1681006101,
+      "formatted_time": "2023-04-09 10:08:21",
+      "type": "文本消息",
+      "str_content": "八栋102",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1681006109,
+      "formatted_time": "2023-04-09 10:08:29",
+      "type": "文本消息",
+      "str_content": "我正在路上",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1681006120,
+      "formatted_time": "2023-04-09 10:08:40",
+      "type": "文本消息",
+      "str_content": "卡点狂魔hhh",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1684392847,
+      "formatted_time": "2023-05-18 14:54:07",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1684392868,
+      "formatted_time": "2023-05-18 14:54:28",
+      "type": "文本消息",
+      "str_content": "昂昂子！我先提前来问问 这个暑假你还打算搞社会实践吗",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1684392937,
+      "formatted_time": "2023-05-18 14:55:37",
+      "type": "文本消息",
+      "str_content": "hhh我可能大概率不会搞了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684392945,
+      "formatted_time": "2023-05-18 14:55:45",
+      "type": "文本消息",
+      "str_content": "今天下午也没去听那个会hh",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684392959,
+      "formatted_time": "2023-05-18 14:55:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1684392961,
+      "formatted_time": "2023-05-18 14:56:01",
+      "type": "文本消息",
+      "str_content": "啊 这样啊",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1684392966,
+      "formatted_time": "2023-05-18 14:56:06",
+      "type": "文本消息",
+      "str_content": "那太可惜了",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1684392999,
+      "formatted_time": "2023-05-18 14:56:39",
+      "type": "文本消息",
+      "str_content": "因为感觉实践经历已经差不多了hhh",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684393033,
+      "formatted_time": "2023-05-18 14:57:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1684393037,
+      "formatted_time": "2023-05-18 14:57:17",
+      "type": "文本消息",
+      "str_content": "真的太强啦～！",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1684393047,
+      "formatted_time": "2023-05-18 14:57:27",
+      "type": "文本消息",
+      "str_content": "我要是当初也能跟你一样就好了ww",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1684393096,
+      "formatted_time": "2023-05-18 14:58:16",
+      "type": "文本消息",
+      "str_content": "hhh当时也是误打误撞偶然积累下的经历",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1684393263,
+      "formatted_time": "2023-05-18 15:01:03",
+      "type": "文本消息",
+      "str_content": "真好[苦涩][苦涩]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1685502307,
+      "formatted_time": "2023-05-31 11:05:07",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1685502325,
+      "formatted_time": "2023-05-31 11:05:25",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈哈哈哈哈啊哈哈哈哈我们计量老师课间放你们b站的视频",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1685502334,
+      "formatted_time": "2023-05-31 11:05:34",
+      "type": "文本消息",
+      "str_content": "我笑死了",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1685502341,
+      "formatted_time": "2023-05-31 11:05:41",
+      "type": "文本消息",
+      "str_content": "现大眼了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685502342,
+      "formatted_time": "2023-05-31 11:05:42",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685502350,
+      "formatted_time": "2023-05-31 11:05:50",
+      "type": "文本消息",
+      "str_content": "你们是魏杰吗",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1685502353,
+      "formatted_time": "2023-05-31 11:05:53",
+      "type": "视频消息",
+      "str_content": "[视频消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1685502360,
+      "formatted_time": "2023-05-31 11:06:00",
+      "type": "文本消息",
+      "str_content": "我真的笑的要死了",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1685502368,
+      "formatted_time": "2023-05-31 11:06:08",
+      "type": "文本消息",
+      "str_content": "泰裤辣[色]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1685502421,
+      "formatted_time": "2023-05-31 11:07:01",
+      "type": "文本消息",
+      "str_content": "本来很困 现在笑得很清醒",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1685502424,
+      "formatted_time": "2023-05-31 11:07:04",
+      "type": "文本消息",
+      "str_content": "谢谢你昂昂子",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1685502433,
+      "formatted_time": "2023-05-31 11:07:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751030067,
+      "formatted_time": "2025-06-27 21:14:27",
+      "type": "文本消息",
+      "str_content": "Apple U",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751030080,
+      "formatted_time": "2025-06-27 21:14:40",
+      "type": "文本消息",
+      "str_content": "乌鲁木齐有什么必吃的东西嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751030085,
+      "formatted_time": "2025-06-27 21:14:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751030096,
+      "formatted_time": "2025-06-27 21:14:56",
+      "type": "文本消息",
+      "str_content": "还一小时到站了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751030099,
+      "formatted_time": "2025-06-27 21:14:59",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751030101,
+      "formatted_time": "2025-06-27 21:15:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751030108,
+      "formatted_time": "2025-06-27 21:15:08",
+      "type": "文本消息",
+      "str_content": "玛雅 跑这么远来啦",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751030113,
+      "formatted_time": "2025-06-27 21:15:13",
+      "type": "文本消息",
+      "str_content": "这照片",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751030115,
+      "formatted_time": "2025-06-27 21:15:15",
+      "type": "文本消息",
+      "str_content": "有备而来啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751030126,
+      "formatted_time": "2025-06-27 21:15:26",
+      "type": "文本消息",
+      "str_content": "我笑死了hhh 前几天路过就拍了",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751030126,
+      "formatted_time": "2025-06-27 21:15:26",
+      "type": "文本消息",
+      "str_content": "刚跑完青甘大环线，连着来新疆玩一趟",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751030869,
+      "formatted_time": "2025-06-27 21:27:49",
+      "type": "文本消息",
+      "str_content": "玛雅 准备玩两个环线吗",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751030900,
+      "formatted_time": "2025-06-27 21:28:20",
+      "type": "文本消息",
+      "str_content": "青甘应该一圈下来至少五六个打卡点吧 你怎么只发了一个盐湖~",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751030925,
+      "formatted_time": "2025-06-27 21:28:45",
+      "type": "文本消息",
+      "str_content": "大美新疆欢迎你",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751030932,
+      "formatted_time": "2025-06-27 21:28:52",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈感觉和景拍个照没啥意思[捂脸]掉进盐湖比较有意思",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751030952,
+      "formatted_time": "2025-06-27 21:29:12",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751030972,
+      "formatted_time": "2025-06-27 21:29:32",
+      "type": "文本消息",
+      "str_content": "好啊好啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751030975,
+      "formatted_time": "2025-06-27 21:29:35",
+      "type": "引用消息",
+      "str_content": "bur 你掉进去了啊hhh",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751030980,
+      "formatted_time": "2025-06-27 21:29:40",
+      "type": "文本消息",
+      "str_content": "只看文案没猜到",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751030984,
+      "formatted_time": "2025-06-27 21:29:44",
+      "type": "文本消息",
+      "str_content": "我最近在学习馕言文",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751030992,
+      "formatted_time": "2025-06-27 21:29:52",
+      "type": "文本消息",
+      "str_content": "我以为你搁那画个圈圈诅咒别人",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751030998,
+      "formatted_time": "2025-06-27 21:29:58",
+      "type": "文本消息",
+      "str_content": "搞了那么大一个圈圈",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751031025,
+      "formatted_time": "2025-06-27 21:30:25",
+      "type": "文本消息",
+      "str_content": "[捂脸]踩了一脚直接塌陷了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751031085,
+      "formatted_time": "2025-06-27 21:31:25",
+      "type": "文本消息",
+      "str_content": "是很有趣但也要注意安全o",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751031089,
+      "formatted_time": "2025-06-27 21:31:29",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751031099,
+      "formatted_time": "2025-06-27 21:31:39",
+      "type": "文本消息",
+      "str_content": "现拍个赛里木湖旁边的山给你看",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751031148,
+      "formatted_time": "2025-06-27 21:32:28",
+      "type": "文本消息",
+      "str_content": "[强][强][强]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751031158,
+      "formatted_time": "2025-06-27 21:32:38",
+      "type": "文本消息",
+      "str_content": "这阴天也很有感觉啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751031179,
+      "formatted_time": "2025-06-27 21:32:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751031183,
+      "formatted_time": "2025-06-27 21:33:03",
+      "type": "文本消息",
+      "str_content": "确实",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751076184,
+      "formatted_time": "2025-06-28 10:03:04",
+      "type": "引用消息",
+      "str_content": "我个人比较喜欢吃新疆炒/拌米粉（卓记or玲玲米粉） ，过油肉拌面，浇汁加沙",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    },
+    {
+      "create_time": 1751076192,
+      "formatted_time": "2025-06-28 10:03:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵泽勇"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:43+08:00",
+  "message_count": 111
+}

@@ -1,0 +1,165 @@
+{
+  "session_id": "57653393226@chatroom",
+  "session_name": "57653393226@chatroom",
+  "messages": [
+    {
+      "create_time": 1726802747,
+      "formatted_time": "2024-09-20 11:25:47",
+      "type": "文本消息",
+      "str_content": "dd",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1726802759,
+      "formatted_time": "2024-09-20 11:25:59",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1726802768,
+      "formatted_time": "2024-09-20 11:26:08",
+      "type": "文本消息",
+      "str_content": "这个东西在下午两点前填好发我哈",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1726802777,
+      "formatted_time": "2024-09-20 11:26:17",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1726802810,
+      "formatted_time": "2024-09-20 11:26:50",
+      "type": "文本消息",
+      "str_content": "我自己打印了去学院签字",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1726802816,
+      "formatted_time": "2024-09-20 11:26:56",
+      "type": "文本消息",
+      "str_content": "然后扫描发给你们",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1726802818,
+      "formatted_time": "2024-09-20 11:26:58",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1726802824,
+      "formatted_time": "2024-09-20 11:27:04",
+      "type": "文本消息",
+      "str_content": "收到回复哈",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1726802874,
+      "formatted_time": "2024-09-20 11:27:54",
+      "type": "文本消息",
+      "str_content": "诶不对这里有自己写字啥的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1726802879,
+      "formatted_time": "2024-09-20 11:27:59",
+      "type": "文本消息",
+      "str_content": "嗯",
+      "is_send": 0,
+      "sender_name": "韩一鸣",
+      "sender_wxid": "wxid_xo8aoeyxi75a22"
+    },
+    {
+      "create_time": 1726802883,
+      "formatted_time": "2024-09-20 11:28:03",
+      "type": "文本消息",
+      "str_content": "要手写",
+      "is_send": 0,
+      "sender_name": "韩一鸣",
+      "sender_wxid": "wxid_xo8aoeyxi75a22"
+    },
+    {
+      "create_time": 1726802887,
+      "formatted_time": "2024-09-20 11:28:07",
+      "type": "文本消息",
+      "str_content": "那如果不在学校的话就扫描发我扫描版",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1726802903,
+      "formatted_time": "2024-09-20 11:28:23",
+      "type": "文本消息",
+      "str_content": "在学校的下午两点前把纸质版放我宿舍",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1726802904,
+      "formatted_time": "2024-09-20 11:28:24",
+      "type": "文本消息",
+      "str_content": "319",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1726802917,
+      "formatted_time": "2024-09-20 11:28:37",
+      "type": "文本消息",
+      "str_content": "okok",
+      "is_send": 0,
+      "sender_name": "汤何敏",
+      "sender_wxid": "wxid_w7au3xgwekcv22"
+    },
+    {
+      "create_time": 1726802948,
+      "formatted_time": "2024-09-20 11:29:08",
+      "type": "文本消息",
+      "str_content": "我下午也得去趟学院[捂脸]",
+      "is_send": 0,
+      "sender_name": "王琪",
+      "sender_wxid": "wxid_rvvhpqa0ogod22"
+    },
+    {
+      "create_time": 1726802975,
+      "formatted_time": "2024-09-20 11:29:35",
+      "type": "文本消息",
+      "str_content": "那要不你自己去？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1726802980,
+      "formatted_time": "2024-09-20 11:29:40",
+      "type": "文本消息",
+      "str_content": "我自己去交吧",
+      "is_send": 0,
+      "sender_name": "王琪",
+      "sender_wxid": "wxid_rvvhpqa0ogod22"
+    },
+    {
+      "create_time": 1726802982,
+      "formatted_time": "2024-09-20 11:29:42",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王琪",
+      "sender_wxid": "wxid_rvvhpqa0ogod22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:31+08:00",
+  "message_count": 19
+}

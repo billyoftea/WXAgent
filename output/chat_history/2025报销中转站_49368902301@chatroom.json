@@ -1,0 +1,360 @@
+{
+  "session_id": "49368902301@chatroom",
+  "session_name": "2025报销中转站",
+  "messages": [
+    {
+      "create_time": 1760003193,
+      "formatted_time": "2025-10-09 17:46:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2025报销中转站",
+      "sender_wxid": "49368902301@chatroom"
+    },
+    {
+      "create_time": 1760003241,
+      "formatted_time": "2025-10-09 17:47:21",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2025报销中转站",
+      "sender_wxid": "49368902301@chatroom"
+    },
+    {
+      "create_time": 1760003276,
+      "formatted_time": "2025-10-09 17:47:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "2025报销中转站",
+      "sender_wxid": "49368902301@chatroom"
+    },
+    {
+      "create_time": 1760003303,
+      "formatted_time": "2025-10-09 17:48:23",
+      "type": "文本消息",
+      "str_content": "大家好，本群用于本届学生会活动等报销。学生会每次报销的费用是以劳务的形式发放到报销中转站成员的银行卡上，每人每月最多800。负责报销的同学会在报销费用下来之后发起群收款，收到报销费用的同学支付，负责报销的同学再转给垫付的同学。并非每位同学都会收到报销费用，具体应支付情况会显示在劳务费表格里。\n\n之后的每次报销我们都会提前知会一下大家，如果有可能被扣税的话（比如在深研院有其他劳务收入，深研院超过800会扣税），请大家提前说一下，感恩各位配合",
+      "is_send": 0,
+      "sender_name": "管双24 黄越",
+      "sender_wxid": "wxid_coc7ns4a0eoh22"
+    },
+    {
+      "create_time": 1760003381,
+      "formatted_time": "2025-10-09 17:49:41",
+      "type": "文本消息",
+      "str_content": "不小心扣税的话可以第二年3月份申请退税~",
+      "is_send": 0,
+      "sender_name": "王祥宇",
+      "sender_wxid": "wxid_fphoief9ltbs22"
+    },
+    {
+      "create_time": 1764585190,
+      "formatted_time": "2025-12-01 18:33:10",
+      "type": "文本消息",
+      "str_content": "大家好，目前我们准备进行12月报销，请大家注意一下12月份有没有预计打款的劳务费[玫瑰]\n麻烦大家按“姓名+学号+12月有无预计打款劳务费(若有，请写上预计金额)”接龙一下!",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1764585220,
+      "formatted_time": "2025-12-01 18:33:40",
+      "type": "文本消息",
+      "str_content": "#接龙\n例 姓名+学号+12月有无预计打款劳务费+预计金额\n\n1. xx+2401xxxxzz+有+375.78",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1764585321,
+      "formatted_time": "2025-12-01 18:35:21",
+      "type": "文本消息",
+      "str_content": "#接龙\n例 姓名+学号+12月有无预计打款劳务费+预计金额\n\n1. xx+2401xxxxzz+有+375.78\n2. 徐昂+2501212449+无",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1764585322,
+      "formatted_time": "2025-12-01 18:35:22",
+      "type": "文本消息",
+      "str_content": "#接龙\n例 姓名+学号+12月有无预计打款劳务费+预计金额\n\n1. xx+2401xxxxzz+有+375.78\n2. 匡浩鑫+2501212290+无",
+      "is_send": 0,
+      "sender_name": "匡浩鑫-25-经济",
+      "sender_wxid": "wxid_vlj601697ps122"
+    },
+    {
+      "create_time": 1764585387,
+      "formatted_time": "2025-12-01 18:36:27",
+      "type": "文本消息",
+      "str_content": "#接龙\n例 姓名+学号+12月有无预计打款劳务费+预计金额\n\n1. xx+2401xxxxzz+有+375.78\n2. 徐昂+2501212449+无\n3. 匡浩鑫+2501212290+无\n4. 李昱铭＋2501212294+无",
+      "is_send": 0,
+      "sender_name": "李昱铭 25经济",
+      "sender_wxid": "wxid_wt39r44ph7yu22"
+    },
+    {
+      "create_time": 1764643088,
+      "formatted_time": "2025-12-02 10:38:08",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764645673,
+      "formatted_time": "2025-12-02 11:21:13",
+      "type": "引用消息",
+      "str_content": "@所有人 12月的报销比较多～ 请大家帮忙一起接龙收款呀[玫瑰][玫瑰]",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1764649174,
+      "formatted_time": "2025-12-02 12:19:34",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764649247,
+      "formatted_time": "2025-12-02 12:20:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764649336,
+      "formatted_time": "2025-12-02 12:22:16",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764649379,
+      "formatted_time": "2025-12-02 12:22:59",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764649435,
+      "formatted_time": "2025-12-02 12:23:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764649493,
+      "formatted_time": "2025-12-02 12:24:53",
+      "type": "文本消息",
+      "str_content": "家人们，把你们拉进群支持一下假面舞会和迎新杯等活动的报销工作～需要很多人这次[玫瑰][爱心]",
+      "is_send": 0,
+      "sender_name": "24经济吉沛华",
+      "sender_wxid": "wxid_6bdtnq71e4bt12"
+    },
+    {
+      "create_time": 1764649541,
+      "formatted_time": "2025-12-02 12:25:41",
+      "type": "文本消息",
+      "str_content": "思妤跟大家说一下具体的方式和还差多少人～@25管双金思妤",
+      "is_send": 0,
+      "sender_name": "24经济吉沛华",
+      "sender_wxid": "wxid_6bdtnq71e4bt12"
+    },
+    {
+      "create_time": 1764649594,
+      "formatted_time": "2025-12-02 12:26:34",
+      "type": "文本消息",
+      "str_content": "好滴好滴！",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1764649636,
+      "formatted_time": "2025-12-02 12:27:16",
+      "type": "文本消息",
+      "str_content": "大家好，本群用于本届学生会活动等报销。学生会每次报销的费用是以劳务的形式发放到报销中转站成员的银行卡上，每人每月最多800。负责报销的同学会在报销费用下来之后发起群收款，收到报销费用的同学支付，负责报销的同学再转给垫付的同学。并非每位同学都会收到报销费用，具体应支付情况会显示在劳务费表格里。\n\n之后的每次报销我们都会提前知会一下大家，如果有可能被扣税的话（比如在深研院有其他劳务收入，深研院超过800会扣税），请大家提前说一下，感恩各位配合\n\n（不小心扣税的话可以第二年3月份申请退税~）",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1764649678,
+      "formatted_time": "2025-12-02 12:27:58",
+      "type": "文本消息",
+      "str_content": "目前我们正在进行迎新杯的报销，需要11位同学来帮忙收款\n请大家注意一下12月份有没有预计打款的劳务费[玫瑰]\n麻烦大家按“姓名+学号+12月有无预计打款劳务费(若有，请写上预计金额)”接龙一下!",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1764649692,
+      "formatted_time": "2025-12-02 12:28:12",
+      "type": "文本消息",
+      "str_content": "#接龙\n例 姓名+学号+12月有无预计打款劳务费+预计金额\n\n1. xx+2401xxxxzz+有+375.78\n2. 徐昂+2501212449+无\n3. 匡浩鑫+2501212290+无\n4. 李昱铭＋2501212294+无",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1764649791,
+      "formatted_time": "2025-12-02 12:29:51",
+      "type": "文本消息",
+      "str_content": "#接龙\n例 姓名+学号+12月有无预计打款劳务费+预计金额\n\n1. xx+2401xxxxzz+有+375.78\n2. 徐昂+2501212449+无\n3. 匡浩鑫+2501212290+无\n4. 李昱铭＋2501212294+无\n5. 彭芊韵+2501212669+无",
+      "is_send": 0,
+      "sender_name": "彭芊韵 25 财新",
+      "sender_wxid": "wxid_em6dwlaut2rc12"
+    },
+    {
+      "create_time": 1764651660,
+      "formatted_time": "2025-12-02 13:01:00",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764651666,
+      "formatted_time": "2025-12-02 13:01:06",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764656798,
+      "formatted_time": "2025-12-02 14:26:38",
+      "type": "引用消息",
+      "str_content": "@所有人 大家没有劳务费的都抓紧接龙一下，这个很简单的，打到学号里再交上来就行，大家早点凑齐早点报销，辛苦啦～",
+      "is_send": 0,
+      "sender_name": "24经济吉沛华",
+      "sender_wxid": "wxid_6bdtnq71e4bt12"
+    },
+    {
+      "create_time": 1764656813,
+      "formatted_time": "2025-12-02 14:26:53",
+      "type": "文本消息",
+      "str_content": "#接龙\n例 姓名+学号+12月有无预计打款劳务费+预计金额\n\n1. xx+2401xxxxzz+有+375.78\n2. 徐昂+2501212449+无\n3. 匡浩鑫+2501212290+无\n4. 李昱铭＋2501212294+无\n5. 彭芊韵+2501212669+无\n6. 李奕+2501212962+无",
+      "is_send": 0,
+      "sender_name": "25 企业管理 李奕",
+      "sender_wxid": "wxid_kh1hytc0cwwi22"
+    },
+    {
+      "create_time": 1764656840,
+      "formatted_time": "2025-12-02 14:27:20",
+      "type": "文本消息",
+      "str_content": "#接龙\n例 姓名+学号+12月有无预计打款劳务费+预计金额\n\n1. xx+2401xxxxzz+有+375.78\n2. 徐昂+2501212449+无\n3. 匡浩鑫+2501212290+无\n4. 李昱铭＋2501212294+无\n5. 彭芊韵+2501212669+无\n6. 李奕+2501212962+无\n7. 南贤辰+2501212405+无",
+      "is_send": 0,
+      "sender_name": "社团管理部-南贤辰",
+      "sender_wxid": "wxid_uv2e0v8tuuls22"
+    },
+    {
+      "create_time": 1764656864,
+      "formatted_time": "2025-12-02 14:27:44",
+      "type": "文本消息",
+      "str_content": "#接龙\n例 姓名+学号+12月有无预计打款劳务费+预计金额\n\n1. xx+2401xxxxzz+有+375.78\n2. 徐昂+2501212449+无\n3. 匡浩鑫+2501212290+无\n4. 李昱铭＋2501212294+无\n5. 彭芊韵+2501212669+无\n6. 李奕+2501212962+无\n7. 南贤辰+2501212405+无\n8. 谢晓雪+2501212447+无",
+      "is_send": 0,
+      "sender_name": "谢晓雪",
+      "sender_wxid": "wxid_y2mn3o5lodm512"
+    },
+    {
+      "create_time": 1764656915,
+      "formatted_time": "2025-12-02 14:28:35",
+      "type": "文本消息",
+      "str_content": "#接龙\n例 姓名+学号+12月有无预计打款劳务费+预计金额\n\n1. xx+2401xxxxzz+有+375.78\n2. 徐昂+2501212449+无\n3. 匡浩鑫+2501212290+无\n4. 李昱铭＋2501212294+无\n5. 彭芊韵+2501212669+无\n6. 李奕+2501212962+无\n7. 南贤辰+2501212405+无\n8. 谢晓雪+2501212447+无\n9. 莫孜晗+2501212404+无",
+      "is_send": 0,
+      "sender_name": "莫孜晗",
+      "sender_wxid": "wxid_951jqdhhbgbm22"
+    },
+    {
+      "create_time": 1764657890,
+      "formatted_time": "2025-12-02 14:44:50",
+      "type": "文本消息",
+      "str_content": "#接龙\n例 姓名+学号+12月有无预计打款劳务费+预计金额\n\n1. xx+2401xxxxzz+有+375.78\n2. 徐昂+2501212449+无\n3. 匡浩鑫+2501212290+无\n4. 李昱铭＋2501212294+无\n5. 彭芊韵+2501212669+无\n6. 李奕+2501212962+无\n7. 南贤辰+2501212405+无\n8. 谢晓雪+2501212447+无\n9. 莫孜晗+2501212404+无\n10. 吴俊杰+2501212493+无",
+      "is_send": 0,
+      "sender_name": "吴俊杰",
+      "sender_wxid": "wxid_jv24v6cnkgaq12"
+    },
+    {
+      "create_time": 1764657952,
+      "formatted_time": "2025-12-02 14:45:52",
+      "type": "文本消息",
+      "str_content": "#接龙\n例 姓名+学号+12月有无预计打款劳务费+预计金额\n\n1. xx+2401xxxxzz+有+375.78\n2. 徐昂+2501212449+无\n3. 匡浩鑫+2501212290+无\n4. 李昱铭＋2501212294+无\n5. 彭芊韵+2501212669+无\n6. 李奕+2501212962+无\n7. 南贤辰+2501212405+无\n8. 谢晓雪+2501212447+无\n9. 莫孜晗+2501212404+无\n10. 吴俊杰+2501212493+无\n11. 何奕霏+2501212287+无",
+      "is_send": 0,
+      "sender_name": "何奕霏 25经济",
+      "sender_wxid": "wxid_8ojvcbh07ptd22"
+    },
+    {
+      "create_time": 1764658673,
+      "formatted_time": "2025-12-02 14:57:53",
+      "type": "文本消息",
+      "str_content": "#接龙\n例 姓名+学号+12月有无预计打款劳务费+预计金额\n\n1. xx+2401xxxxzz+有+375.78\n2. 徐昂+2501212449+无\n3. 匡浩鑫+2501212290+无\n4. 李昱铭＋2501212294+无\n5. 彭芊韵+2501212669+无\n6. 李奕+2501212962+无\n7. 南贤辰+2501212405+无\n8. 谢晓雪+2501212447+无\n9. 莫孜晗+2501212404+无\n10. 吴俊杰+2501212493+无\n11. 何奕霏+2501212287+无\n12. 高紫涵+2501212376+无",
+      "is_send": 0,
+      "sender_name": "高紫涵-西南财经大学-数量与金科",
+      "sender_wxid": "wxid_50j4nax39ft711"
+    },
+    {
+      "create_time": 1764658876,
+      "formatted_time": "2025-12-02 15:01:16",
+      "type": "文本消息",
+      "str_content": "够啦～谢谢大家[转圈][转圈][转圈]",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1764659019,
+      "formatted_time": "2025-12-02 15:03:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "24经济吉沛华",
+      "sender_wxid": "wxid_6bdtnq71e4bt12"
+    },
+    {
+      "create_time": 1764831463,
+      "formatted_time": "2025-12-04 14:57:43",
+      "type": "文本消息",
+      "str_content": "想请问下迎新杯的保险报销，在小程序上导出的时候系统自动把发票的抬头认定为投保人，这个各位领队还可以报销吗[可怜]",
+      "is_send": 0,
+      "sender_name": "南京大学王子垚",
+      "sender_wxid": "wxid_owakf1ai15vf22"
+    },
+    {
+      "create_time": 1764831989,
+      "formatted_time": "2025-12-04 15:06:29",
+      "type": "文本消息",
+      "str_content": "抬头开错了就不能报销啦，可以联系商家修改，如果能改过来就可以～",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1764832436,
+      "formatted_time": "2025-12-04 15:13:56",
+      "type": "文本消息",
+      "str_content": "好滴好滴",
+      "is_send": 0,
+      "sender_name": "南京大学王子垚",
+      "sender_wxid": "wxid_owakf1ai15vf22"
+    },
+    {
+      "create_time": 1764832478,
+      "formatted_time": "2025-12-04 15:14:38",
+      "type": "文本消息",
+      "str_content": "刚刚问过了商家，他说反洗钱法规定发票抬头只能写投保人，一开始购买保险的时候投保人写的是个人就改不了了[流泪]",
+      "is_send": 0,
+      "sender_name": "南京大学王子垚",
+      "sender_wxid": "wxid_owakf1ai15vf22"
+    },
+    {
+      "create_time": 1764832494,
+      "formatted_time": "2025-12-04 15:14:54",
+      "type": "文本消息",
+      "str_content": "其他领队朋友们有没有其他方法呀",
+      "is_send": 0,
+      "sender_name": "南京大学王子垚",
+      "sender_wxid": "wxid_owakf1ai15vf22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:25+08:00",
+  "message_count": 41
+}

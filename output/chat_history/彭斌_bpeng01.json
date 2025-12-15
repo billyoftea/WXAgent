@@ -1,0 +1,1016 @@
+{
+  "session_id": "bpeng01",
+  "session_name": "彭斌",
+  "messages": [
+    {
+      "create_time": 1702125238,
+      "formatted_time": "2023-12-09 20:33:58",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1702125688,
+      "formatted_time": "2023-12-09 20:41:28",
+      "type": "文本消息",
+      "str_content": "彭老师好！我最近阅读了一些新闻和文章，目前对地方债务问题和机器学习领域比较感兴趣，想要进行一些研究，想要问下您有什么建议嘛？另外您下周有没有空呢，我想向您当面请教下[玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702126018,
+      "formatted_time": "2023-12-09 20:46:58",
+      "type": "文本消息",
+      "str_content": "这个需要先查文献，不能够光凭兴趣和判断",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1702126021,
+      "formatted_time": "2023-12-09 20:47:01",
+      "type": "文本消息",
+      "str_content": "要有文献支撑",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1702126269,
+      "formatted_time": "2023-12-09 20:51:09",
+      "type": "文本消息",
+      "str_content": "嗯嗯，彭老师，我们如果查文献的话一般是聚焦于哪些核心点呢，我现在的想法是关于地方债务问题，我先阅读文献综述，之后看一下X/Y以及研究方法，这样可以嘛\n之后机器学习这方面我的知识储备还不太够，想请教下彭老师，经济学院本科生做机器学习相关的论文一般产出的成果是什么样的呢，难度大吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702126285,
+      "formatted_time": "2023-12-09 20:51:25",
+      "type": "文本消息",
+      "str_content": "我这也是第一次正式的科研写论文，谢谢老师的指导[流泪]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702126316,
+      "formatted_time": "2023-12-09 20:51:56",
+      "type": "文本消息",
+      "str_content": "先看下知网 把相关论文都找出来",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1702126329,
+      "formatted_time": "2023-12-09 20:52:09",
+      "type": "文本消息",
+      "str_content": "然后查找顶尖英文期刊论文",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1702126357,
+      "formatted_time": "2023-12-09 20:52:37",
+      "type": "文本消息",
+      "str_content": "我记得有篇Journal of Development Economics上面有关于这个的研究",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1702126744,
+      "formatted_time": "2023-12-09 20:59:04",
+      "type": "文本消息",
+      "str_content": "了解，那我最近先阅读论文，之后心里有个大概后，带着问题去找您交流请教可以嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702126797,
+      "formatted_time": "2023-12-09 20:59:57",
+      "type": "文本消息",
+      "str_content": "最好是这样，否则老师没有那么多时间和精力。",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1702126889,
+      "formatted_time": "2023-12-09 21:01:29",
+      "type": "文本消息",
+      "str_content": "嗯嗯，明白！谢谢彭老师的指导！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707022983,
+      "formatted_time": "2024-02-04 13:03:03",
+      "type": "文本消息",
+      "str_content": "彭老师，我最近在和同学一起推进一个大创项目的立项，目前初步想法是用 PSM-DID 分析参与医保对返贫/脱贫的影响，想要请教下您觉得这个选题可行嘛（目前是计划使用 cfps 数据库，清洗后变成面板数据）",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707022990,
+      "formatted_time": "2024-02-04 13:03:10",
+      "type": "文件消息",
+      "str_content": "想法.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707023221,
+      "formatted_time": "2024-02-04 13:07:01",
+      "type": "文本消息",
+      "str_content": "可是可以 但是这个题目也可能做过很多次了",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1707023940,
+      "formatted_time": "2024-02-04 13:19:00",
+      "type": "文本消息",
+      "str_content": "嗯嗯，彭老师，我倒是查到了一些类似的选题，但采用的大多是对截面数据进行 logit/probit，很少有对这个选题进行 did 的文章\n用 psm-did 的文章有一个是直接把健康水平和贫困脆弱性当作了 y，回归两次，我们选题是把贫困脆弱性当作了 y，并用中介变量探究其作用路径\n彭老师，这种程度的“创新性”是可以接受的嘛[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707024159,
+      "formatted_time": "2024-02-04 13:22:39",
+      "type": "文本消息",
+      "str_content": "也行吧",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1707024166,
+      "formatted_time": "2024-02-04 13:22:46",
+      "type": "文本消息",
+      "str_content": "主要是要做扎实",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1707024207,
+      "formatted_time": "2024-02-04 13:23:27",
+      "type": "文本消息",
+      "str_content": "嗯嗯，您的意思是主要是严谨规范是嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707024294,
+      "formatted_time": "2024-02-04 13:24:54",
+      "type": "文本消息",
+      "str_content": "我的意思是有理有据",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1707024316,
+      "formatted_time": "2024-02-04 13:25:16",
+      "type": "文本消息",
+      "str_content": "贫困脆弱性能否有好的度量",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1707024321,
+      "formatted_time": "2024-02-04 13:25:21",
+      "type": "文本消息",
+      "str_content": "尤其是个体",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1707024647,
+      "formatted_time": "2024-02-04 13:30:47",
+      "type": "文本消息",
+      "str_content": "那这种扎实，是要通过阅读以往领域和相关方法的高质量文献，归纳总结得到的嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707024990,
+      "formatted_time": "2024-02-04 13:36:30",
+      "type": "文本消息",
+      "str_content": "彭老师，还有一个小问题，我看用 did 的文献大多是衡量外生的政策冲击对 y 的影响，但我们这里的 x(是否参与医保)是相对内生的，那我用 psm-did 的方法克服内生性，这样够扎实嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707025105,
+      "formatted_time": "2024-02-04 13:38:25",
+      "type": "文本消息",
+      "str_content": "医保政策对于个人而言 也是外生的",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1707025127,
+      "formatted_time": "2024-02-04 13:38:47",
+      "type": "文本消息",
+      "str_content": "psm 不解决内生性",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1707025139,
+      "formatted_time": "2024-02-04 13:38:59",
+      "type": "文本消息",
+      "str_content": "我们的 x 是个人选择的是否参与医保",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707025166,
+      "formatted_time": "2024-02-04 13:39:26",
+      "type": "文本消息",
+      "str_content": "你可以用heckman两步法",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1707026637,
+      "formatted_time": "2024-02-04 14:03:57",
+      "type": "文本消息",
+      "str_content": "彭老师，我刚查了查 heckman 相关的知识，想请教您下这样理解是否正确：\nheckman 主要针对截面数据的自选择问题，did 主要针对面板数据的内生性，psm不 能代替 heckman 和 iv 等方法解决自选择和遗漏变量等问题，所以我们现在有两个思路：\n针对面板数据，可以直接 did 后用 psm-did 做稳健性检验\n针对截面数据，用 heckman 方法",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707027809,
+      "formatted_time": "2024-02-04 14:23:29",
+      "type": "文本消息",
+      "str_content": "psm只是解决样本不匹配造成的估计偏误，heckman解决样本自选择问题",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1707033846,
+      "formatted_time": "2024-02-04 16:04:06",
+      "type": "文本消息",
+      "str_content": "彭老师，所以这里我们用psm匹配后，再用did，是否可以解决内生性呀；是不是可以理解为psm主要为did起到匹配购买医保概率差不多样本的作用，真正解决内生性的是did；\n同时，如果如果我们考虑使用截面数据，可以用heckman进行估计，从而消除其内生性",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707033931,
+      "formatted_time": "2024-02-04 16:05:31",
+      "type": "引用消息",
+      "str_content": "你可以先看看文献是如何解决的，有很多中英文文献都有类似的研究",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1707034835,
+      "formatted_time": "2024-02-04 16:20:35",
+      "type": "文本消息",
+      "str_content": "嗯嗯明白，谢谢彭老师的指导！！[玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707105962,
+      "formatted_time": "2024-02-05 12:06:02",
+      "type": "文本消息",
+      "str_content": "彭老师，想再请教下您，我查到的heckman二阶段模型都是针对样本自选择问题发生的，可我们目前选题的x（是否购买医保） y（是否返贫），每一x都有对应的y，样本也都能代表总体，那这里heckman的意义在哪里呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707280433,
+      "formatted_time": "2024-02-07 12:33:53",
+      "type": "文本消息",
+      "str_content": "彭老师在嘛[可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707281177,
+      "formatted_time": "2024-02-07 12:46:17",
+      "type": "文本消息",
+      "str_content": "你看看经济研究上的论文 有类似的医保的文章",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1707285570,
+      "formatted_time": "2024-02-07 13:59:30",
+      "type": "文本消息",
+      "str_content": "嗯嗯，找到您说的那篇文章了，谢谢彭老师！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708434921,
+      "formatted_time": "2024-02-20 21:15:21",
+      "type": "引用消息",
+      "str_content": "彭老师好！冒昧打扰您，想向您请教下目前学界对于中介效应的态度是怎么样的呢？如果我这个选题想要加入一些机制分析（如医保通过降低医疗支出影响脱贫，通过影响身体健康程度影响脱贫...），那这种中介效应是规范的吗？会不会被challenge呢？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708434941,
+      "formatted_time": "2024-02-20 21:15:41",
+      "type": "文本消息",
+      "str_content": "不要什么中介",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708434962,
+      "formatted_time": "2024-02-20 21:16:02",
+      "type": "文本消息",
+      "str_content": "就是通过什么机制",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708434970,
+      "formatted_time": "2024-02-20 21:16:10",
+      "type": "文本消息",
+      "str_content": "中介是心理学用的",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708434984,
+      "formatted_time": "2024-02-20 21:16:24",
+      "type": "文本消息",
+      "str_content": "经济学老师比较反感 中介",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708435110,
+      "formatted_time": "2024-02-20 21:18:30",
+      "type": "文本消息",
+      "str_content": "噢噢噢噢这样吗，彭老师，那现在我们做机制检验还是用那种三步法嘛  我看了一篇文章好像说是三步法挺不严谨的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708435111,
+      "formatted_time": "2024-02-20 21:18:31",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708435281,
+      "formatted_time": "2024-02-20 21:21:21",
+      "type": "文本消息",
+      "str_content": "是这一篇文章",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708435281,
+      "formatted_time": "2024-02-20 21:21:21",
+      "type": "文件消息",
+      "str_content": "江艇 - 2022 - 因果推断经验研究中的中介效应与调节效应.pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708435721,
+      "formatted_time": "2024-02-20 21:28:41",
+      "type": "文本消息",
+      "str_content": "你可以参考这篇",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708436419,
+      "formatted_time": "2024-02-20 21:40:19",
+      "type": "文本消息",
+      "str_content": "嗯嗯，彭老师，我对这篇文章的理解是(2)实际上是有偏差的，所以只做这个模型的(1)(3)步，同时进行这种机制检验也无法确定各个机制对核心解释变量间接影响的程度，是这样子嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708436421,
+      "formatted_time": "2024-02-20 21:40:21",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708436462,
+      "formatted_time": "2024-02-20 21:41:02",
+      "type": "文本消息",
+      "str_content": "主要是能够在经济理论方面能够解释清楚，计量上无法这么严谨",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708437717,
+      "formatted_time": "2024-02-20 22:01:57",
+      "type": "文本消息",
+      "str_content": "噢噢噢噢，所以回归到我的那个选题的话，其实可以找一些前人有过的对因病致贫、因病返贫这些研究确定存在的机制，并且验证参与医保对这个中间的机制存在了作用，就可以说明了参与医保通过各个机制的影响返贫是嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708437738,
+      "formatted_time": "2024-02-20 22:02:18",
+      "type": "文本消息",
+      "str_content": "就是从经济理论上有这个可能就行",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708437757,
+      "formatted_time": "2024-02-20 22:02:37",
+      "type": "文本消息",
+      "str_content": "然后配合一些计量的佐证",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708437789,
+      "formatted_time": "2024-02-20 22:03:09",
+      "type": "文本消息",
+      "str_content": "明白了明白了，豁然开朗，谢谢彭老师！[玫瑰][玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708437924,
+      "formatted_time": "2024-02-20 22:05:24",
+      "type": "文本消息",
+      "str_content": "不可能有完全严密的证明",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708438011,
+      "formatted_time": "2024-02-20 22:06:51",
+      "type": "文本消息",
+      "str_content": "嗯嗯，明白了！谢谢老师！我现在也是在准备保研了嘛，确实还是希望自己的论文可以尽可能做的严密一些，贴合当下理论一些，不然听学长学姐说面试的时候可能会被challenge[流泪]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708438143,
+      "formatted_time": "2024-02-20 22:09:03",
+      "type": "文本消息",
+      "str_content": "本科生有些研究就很好了",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708438297,
+      "formatted_time": "2024-02-20 22:11:37",
+      "type": "文本消息",
+      "str_content": "嗯嗯，彭老师，是这样子的，我应该是被港大的一个课题组带着发了篇三作JDE，问了下学长姐，感觉自己的比较优势可能更利于我申请硕博或者直博项目，所以想要尽量写一篇比较高质量的参营论文冲击一些top学术项目",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708438341,
+      "formatted_time": "2024-02-20 22:12:21",
+      "type": "文本消息",
+      "str_content": "那你也可以直接申请香港学校的直博项目",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708438433,
+      "formatted_time": "2024-02-20 22:13:53",
+      "type": "文本消息",
+      "str_content": "我16级带的学生去了港中文",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708438582,
+      "formatted_time": "2024-02-20 22:16:22",
+      "type": "文本消息",
+      "str_content": "嗯嗯，彭老师，说实话我其实对硕博项目最终的就业路径还不是很了解，相比于进学校当老师，我可能更想体制内就业，因此觉得国内升学相比国外升学可能会有一些优势，您有什么建议嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708438609,
+      "formatted_time": "2024-02-20 22:16:49",
+      "type": "引用消息",
+      "str_content": "啊不是国外，香港应该叫..境外）",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708438653,
+      "formatted_time": "2024-02-20 22:17:33",
+      "type": "文本消息",
+      "str_content": "进高校 去港校或者北美更好点",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708438665,
+      "formatted_time": "2024-02-20 22:17:45",
+      "type": "文本消息",
+      "str_content": "进体制内国内好学校比较好",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708438874,
+      "formatted_time": "2024-02-20 22:21:14",
+      "type": "文本消息",
+      "str_content": "是这样的，所以现在我想赶紧搞一篇比较严谨的参营论文[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708438943,
+      "formatted_time": "2024-02-20 22:22:23",
+      "type": "文本消息",
+      "str_content": "清北可能首先看中专业排名，当然有论文肯定加分",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708439071,
+      "formatted_time": "2024-02-20 22:24:31",
+      "type": "文本消息",
+      "str_content": "嗯嗯，彭老师，我现在的专业排名是2/20，要是您方便的话可以帮我评估下我的简历嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708439106,
+      "formatted_time": "2024-02-20 22:25:06",
+      "type": "文本消息",
+      "str_content": "尽可能是专业第一，这样就更稳妥点",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708439114,
+      "formatted_time": "2024-02-20 22:25:14",
+      "type": "文本消息",
+      "str_content": "北大汇丰这个希望还是很大",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708439139,
+      "formatted_time": "2024-02-20 22:25:39",
+      "type": "文本消息",
+      "str_content": "清华经管有一定难度，社科什么有很大希望",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708439157,
+      "formatted_time": "2024-02-20 22:25:57",
+      "type": "文本消息",
+      "str_content": "复旦上交应该没问题，总有一个地方会给你",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708439171,
+      "formatted_time": "2024-02-20 22:26:11",
+      "type": "文本消息",
+      "str_content": "我很多届的学生都拿到了安泰的 复旦的",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708439175,
+      "formatted_time": "2024-02-20 22:26:15",
+      "type": "引用消息",
+      "str_content": "我也希望[捂脸]不过感觉这个时间段可能已经很难提高自己的专排了..可能只有提高论文这些软实力了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708439192,
+      "formatted_time": "2024-02-20 22:26:32",
+      "type": "文本消息",
+      "str_content": "这个也不绝对",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708439201,
+      "formatted_time": "2024-02-20 22:26:41",
+      "type": "文本消息",
+      "str_content": "你有论文发表这个优势很大",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708439918,
+      "formatted_time": "2024-02-20 22:38:38",
+      "type": "文本消息",
+      "str_content": "嗯嗯，所以就想着可能走一些学术项目嘛，当然如果有好的专业项目要我我也是愿意去的（不过学院好像最多只能给三张成绩证明，其实也限制了我们投递的项目[捂脸]）",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708442067,
+      "formatted_time": "2024-02-20 23:14:27",
+      "type": "文本消息",
+      "str_content": "也不需要有那么多 也要给别人一些机会",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708442142,
+      "formatted_time": "2024-02-20 23:15:42",
+      "type": "文本消息",
+      "str_content": "哈哈哈也是，谢谢彭老师的指导，给了我很多的启发~时间也不早了，您早点休息！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708442677,
+      "formatted_time": "2024-02-20 23:24:37",
+      "type": "文本消息",
+      "str_content": "谢谢 晚安",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1708442689,
+      "formatted_time": "2024-02-20 23:24:49",
+      "type": "文本消息",
+      "str_content": "老师晚安！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710330042,
+      "formatted_time": "2024-03-13 19:40:42",
+      "type": "文本消息",
+      "str_content": "彭老师，我的论文快写完了，您最近方不方便面批下我的论文，给我一些指导呢  如果可以的话，方便告诉我您的office hour嘛[玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710335009,
+      "formatted_time": "2024-03-13 21:03:29",
+      "type": "文本消息",
+      "str_content": "我估计要20号之后才有时间。最近事情太多了。学院好多报告需要我赶，毕业生论文也要提交",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1710335592,
+      "formatted_time": "2024-03-13 21:13:12",
+      "type": "文本消息",
+      "str_content": "好的好的，那彭老师您先忙！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710767573,
+      "formatted_time": "2024-03-18 21:12:53",
+      "type": "文本消息",
+      "str_content": "彭老师，这周您有空帮我看下论文嘛[可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1710769414,
+      "formatted_time": "2024-03-18 21:43:34",
+      "type": "文本消息",
+      "str_content": "你先把论文发我邮箱",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1710769472,
+      "formatted_time": "2024-03-18 21:44:32",
+      "type": "文本消息",
+      "str_content": "好的！太谢谢彭老师的时间了！因为后续想投递一些学术论坛但感觉还得好好打磨打磨，所以还希望您可以多多指点指点[可怜][玫瑰][玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711173774,
+      "formatted_time": "2024-03-23 14:02:54",
+      "type": "文本消息",
+      "str_content": "彭老师，我又改了下这篇文章，想请您再批改下~另外我和两个朋友想要研究一个chatgpt在金融预测中的使用（考虑使用chatgpt评估新闻对各种公司的影响，从而评估公司之间的相关性，并把这种相关性作为用GNN建模，加入到LSTM模型中），想要向您请教一下，您下周什么时候有时间嘛[可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711173774,
+      "formatted_time": "2024-03-23 14:02:54",
+      "type": "文件消息",
+      "str_content": "医疗保险的减贫效应探究及其机制分析——基于劳动者收入的视角 3-23.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711284373,
+      "formatted_time": "2024-03-24 20:46:13",
+      "type": "文本消息",
+      "str_content": "彭老师在嘛[可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711374373,
+      "formatted_time": "2024-03-25 21:46:13",
+      "type": "文本消息",
+      "str_content": "彭老师在嘛[可怜]真的很不好意思这样打扰您，因为我想投的一个北大的论坛这两天就要截止了，我还想请教下您，尽量打磨一下文章这样[凋谢]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711375503,
+      "formatted_time": "2024-03-25 22:05:03",
+      "type": "文本消息",
+      "str_content": "这几天研究生论文都要提交修改，他们需要毕业。而且论文也不是一下就能看好",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1711375510,
+      "formatted_time": "2024-03-25 22:05:10",
+      "type": "文本消息",
+      "str_content": "你先提交吧",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1711375523,
+      "formatted_time": "2024-03-25 22:05:23",
+      "type": "文本消息",
+      "str_content": "我只能抽空看",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1711375793,
+      "formatted_time": "2024-03-25 22:09:53",
+      "type": "文本消息",
+      "str_content": "明白了，谢谢彭老师！那等您方便了我再去拜访您！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711378238,
+      "formatted_time": "2024-03-25 22:50:38",
+      "type": "文本消息",
+      "str_content": "后续会给你一些修改意见的",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1711378342,
+      "formatted_time": "2024-03-25 22:52:22",
+      "type": "文本消息",
+      "str_content": "嗯嗯，太感谢彭老师了，您早点休息！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711378379,
+      "formatted_time": "2024-03-25 22:52:59",
+      "type": "文本消息",
+      "str_content": "今年三月实在是太忙了。我每天就睡几个小时。事情也干不完",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1711378617,
+      "formatted_time": "2024-03-25 22:56:57",
+      "type": "引用消息",
+      "str_content": "嗯嗯，感觉我这赶的确实挺不巧的，之前我也请教了下杜立老师这个选题，杜老师也是建议我来请教您，说您对这个话题更了解一些[凋谢]\n那我就先不打扰您了，彭老师，您先忙！祝老师早日睡个好觉~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711381387,
+      "formatted_time": "2024-03-25 23:43:07",
+      "type": "文本消息",
+      "str_content": "你的论文标题一定要修改下 目前不是很学术性",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1711381440,
+      "formatted_time": "2024-03-25 23:44:00",
+      "type": "文本消息",
+      "str_content": "就是医疗保险的减贫效应-基于xxx",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1711410431,
+      "formatted_time": "2024-03-26 07:47:11",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我修改下，谢谢彭老师！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711411174,
+      "formatted_time": "2024-03-26 07:59:34",
+      "type": "文本消息",
+      "str_content": "或者效应后面加个研究，期刊格式的话不加也行",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1711411242,
+      "formatted_time": "2024-03-26 08:00:42",
+      "type": "文本消息",
+      "str_content": "嗯嗯，这个标题我确实不太会起，那我改成效应研究！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720862053,
+      "formatted_time": "2024-07-13 17:14:13",
+      "type": "文本消息",
+      "str_content": "彭老师，向您汇报下，我保研到北大汇丰修读数量金融专业啦~真的很感谢这一路上您的帮助！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720863190,
+      "formatted_time": "2024-07-13 17:33:10",
+      "type": "文本消息",
+      "str_content": "[强][强][强]",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1720863763,
+      "formatted_time": "2024-07-13 17:42:43",
+      "type": "文本消息",
+      "str_content": "恭喜你，希望你能在新的征途上实现更大的梦想",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1720863950,
+      "formatted_time": "2024-07-13 17:45:50",
+      "type": "文本消息",
+      "str_content": "嗯嗯，其实现在有种轻舟已过万重山，万重山外还有山的感觉~还是得继续努力！\n谢谢彭老师这一路的指导！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720864089,
+      "formatted_time": "2024-07-13 17:48:09",
+      "type": "文本消息",
+      "str_content": "你如果将来有读博士的打算，后续有时间在大四还可以跟我做点研究",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1720864102,
+      "formatted_time": "2024-07-13 17:48:22",
+      "type": "文本消息",
+      "str_content": "汇丰计量方向的陈亮老师也是我的本科同学",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1720864228,
+      "formatted_time": "2024-07-13 17:50:28",
+      "type": "文本消息",
+      "str_content": "哇陈亮老师是您的本科同学呀！当时我看到陈亮老师教育背景的时候还很惊讶~\n彭老师是这样子的，我现在还没有想好要不要攻读博士学位，大四的目标可能还是想要逐渐接触一些量化金融方面的知识，这方面您有什么建议嘛[可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720864624,
+      "formatted_time": "2024-07-13 17:57:04",
+      "type": "文本消息",
+      "str_content": "那你要多学习下资产定价方面的内容",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1720864638,
+      "formatted_time": "2024-07-13 17:57:18",
+      "type": "文本消息",
+      "str_content": "有关于资产定价以及机器学习等方面的",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1720917541,
+      "formatted_time": "2024-07-14 08:39:01",
+      "type": "文本消息",
+      "str_content": "对的，我也准备多学习下这方面的内容，关于机器学习方面，彭老师您有什么推荐的方法吗？我最近是准备看一下吴恩达的教学视频和啃一下机器学习那本西瓜书，不确定这样的学习路径是不是适合我[可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720917897,
+      "formatted_time": "2024-07-14 08:44:57",
+      "type": "文本消息",
+      "str_content": "那你先试下，但是也要多学习金融理论",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1720917964,
+      "formatted_time": "2024-07-14 08:46:04",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我先学习下！！其实感觉经统班学的金融知识还是比较少的[苦涩]准备趁大四好好补习一下相关的理论知识[加油]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723083495,
+      "formatted_time": "2024-08-08 10:18:15",
+      "type": "文本消息",
+      "str_content": "彭老师好！我看之前通知上您是我们班（经统2101班）的实习带队老师，关于今年暑假的专业实习，教务老师说要实习带队老师确定实习报告和实习日志的撰写格式，想向您请教下这两个材料的撰写要求是什么呢？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723083739,
+      "formatted_time": "2024-08-08 10:22:19",
+      "type": "文本消息",
+      "str_content": "你们看往届是什么格式，参照就行",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1723090451,
+      "formatted_time": "2024-08-08 12:14:11",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我问了一下张云飞学长，好像往届也没有严格的格式要求[破涕为笑]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1723090487,
+      "formatted_time": "2024-08-08 12:14:47",
+      "type": "文本消息",
+      "str_content": "那就大家大致写一下即可",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1723090507,
+      "formatted_time": "2024-08-08 12:15:07",
+      "type": "文本消息",
+      "str_content": "明白了，谢谢彭老师！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1724472586,
+      "formatted_time": "2024-08-24 12:09:46",
+      "type": "文本消息",
+      "str_content": "彭老师，我们的实习日志和报告可以打印吗？好像其他专业的带队老师口径不太一样",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1724477511,
+      "formatted_time": "2024-08-24 13:31:51",
+      "type": "文本消息",
+      "str_content": "好像最好手写",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1724477517,
+      "formatted_time": "2024-08-24 13:31:57",
+      "type": "文本消息",
+      "str_content": "刚去问了下",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    },
+    {
+      "create_time": 1724600766,
+      "formatted_time": "2024-08-25 23:46:06",
+      "type": "文本消息",
+      "str_content": "好滴好滴，我转告下同学们，谢谢老师！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1738111067,
+      "formatted_time": "2025-01-29 08:37:47",
+      "type": "文本消息",
+      "str_content": "彭老师新年快乐！\n感谢老师的教导与帮助，祝您在新的一年身体健康，事业进步，阖家幸福！[福][福][福]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1738111168,
+      "formatted_time": "2025-01-29 08:39:28",
+      "type": "文本消息",
+      "str_content": "谢谢 也祝你新年学业进步，走向更广阔的舞台",
+      "is_send": 0,
+      "sender_name": "彭斌"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:31+08:00",
+  "message_count": 126
+}

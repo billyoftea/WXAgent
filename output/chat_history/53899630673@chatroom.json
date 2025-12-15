@@ -1,0 +1,6332 @@
+{
+  "session_id": "53899630673@chatroom",
+  "session_name": "53899630673@chatroom",
+  "messages": [
+    {
+      "create_time": 1744629558,
+      "formatted_time": "2025-04-14 19:19:18",
+      "type": "文本消息",
+      "str_content": "1",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744629562,
+      "formatted_time": "2025-04-14 19:19:22",
+      "type": "文本消息",
+      "str_content": "啥时候合适",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744629691,
+      "formatted_time": "2025-04-14 19:21:31",
+      "type": "文本消息",
+      "str_content": "我俩随时有时间",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744629701,
+      "formatted_time": "2025-04-14 19:21:41",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744629724,
+      "formatted_time": "2025-04-14 19:22:04",
+      "type": "文本消息",
+      "str_content": "那要不就4.30到成都？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744629896,
+      "formatted_time": "2025-04-14 19:24:56",
+      "type": "文本消息",
+      "str_content": "还能提前两天吗 我怕到时候玩完回来直接开学去学校慌慌张张的",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744629967,
+      "formatted_time": "2025-04-14 19:26:07",
+      "type": "文本消息",
+      "str_content": "那要不就27 28的？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744629970,
+      "formatted_time": "2025-04-14 19:26:10",
+      "type": "文本消息",
+      "str_content": "你啥时候开学",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630078,
+      "formatted_time": "2025-04-14 19:27:58",
+      "type": "文本消息",
+      "str_content": "我爸27来武汉，可能2728不太行",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1744630104,
+      "formatted_time": "2025-04-14 19:28:24",
+      "type": "文本消息",
+      "str_content": "那折中",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744630108,
+      "formatted_time": "2025-04-14 19:28:28",
+      "type": "文本消息",
+      "str_content": "29号呢",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744630160,
+      "formatted_time": "2025-04-14 19:29:20",
+      "type": "文本消息",
+      "str_content": "29到成都么",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1744630175,
+      "formatted_time": "2025-04-14 19:29:35",
+      "type": "文本消息",
+      "str_content": "我们到的话得晚上了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744630248,
+      "formatted_time": "2025-04-14 19:30:48",
+      "type": "文本消息",
+      "str_content": "没事，也不一定一起到",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630255,
+      "formatted_time": "2025-04-14 19:30:55",
+      "type": "文本消息",
+      "str_content": "你们先到玩两天也ok",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630258,
+      "formatted_time": "2025-04-14 19:30:58",
+      "type": "文本消息",
+      "str_content": "你们怎么过去",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630296,
+      "formatted_time": "2025-04-14 19:31:36",
+      "type": "文本消息",
+      "str_content": "大概率是坐车 我看了看开车太远了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744630298,
+      "formatted_time": "2025-04-14 19:31:38",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744630315,
+      "formatted_time": "2025-04-14 19:31:55",
+      "type": "文本消息",
+      "str_content": "太牛了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630333,
+      "formatted_time": "2025-04-14 19:32:13",
+      "type": "文本消息",
+      "str_content": "我现在还没有把开车作为一种出行方式",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630344,
+      "formatted_time": "2025-04-14 19:32:24",
+      "type": "文本消息",
+      "str_content": "你要是不行就看看飞机",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630356,
+      "formatted_time": "2025-04-14 19:32:36",
+      "type": "文本消息",
+      "str_content": "四川这边山多 其实高铁挺久的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630360,
+      "formatted_time": "2025-04-14 19:32:40",
+      "type": "文本消息",
+      "str_content": "武汉过去都七个小时",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630488,
+      "formatted_time": "2025-04-14 19:34:48",
+      "type": "文本消息",
+      "str_content": "我感觉我的技术可以自驾了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744630497,
+      "formatted_time": "2025-04-14 19:34:57",
+      "type": "文本消息",
+      "str_content": "我看看飞机哈",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744630506,
+      "formatted_time": "2025-04-14 19:35:06",
+      "type": "文本消息",
+      "str_content": "你们一起过去嘛",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744630526,
+      "formatted_time": "2025-04-14 19:35:26",
+      "type": "文本消息",
+      "str_content": "我俩一块吧，看看是高铁还是绿皮还是飞机",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630655,
+      "formatted_time": "2025-04-14 19:37:35",
+      "type": "文本消息",
+      "str_content": "机票468",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744630668,
+      "formatted_time": "2025-04-14 19:37:48",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744630670,
+      "formatted_time": "2025-04-14 19:37:50",
+      "type": "文本消息",
+      "str_content": "就比绿皮硬卧贵一百",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744630685,
+      "formatted_time": "2025-04-14 19:38:05",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630692,
+      "formatted_time": "2025-04-14 19:38:12",
+      "type": "文本消息",
+      "str_content": "长距离还是飞吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630701,
+      "formatted_time": "2025-04-14 19:38:21",
+      "type": "文本消息",
+      "str_content": "这都比你油钱便宜了ba",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630701,
+      "formatted_time": "2025-04-14 19:38:21",
+      "type": "文本消息",
+      "str_content": "可以",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744630725,
+      "formatted_time": "2025-04-14 19:38:45",
+      "type": "文本消息",
+      "str_content": "已经比油钱便宜了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744630744,
+      "formatted_time": "2025-04-14 19:39:04",
+      "type": "文本消息",
+      "str_content": "那你们确定了吗啥时候到",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744630780,
+      "formatted_time": "2025-04-14 19:39:40",
+      "type": "文本消息",
+      "str_content": "那就29晚上？@A1theeeee",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630835,
+      "formatted_time": "2025-04-14 19:40:35",
+      "type": "文本消息",
+      "str_content": "我们交通工具选啥",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1744630985,
+      "formatted_time": "2025-04-14 19:43:05",
+      "type": "文本消息",
+      "str_content": "高铁吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630988,
+      "formatted_time": "2025-04-14 19:43:08",
+      "type": "文本消息",
+      "str_content": "明天订票",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744630999,
+      "formatted_time": "2025-04-14 19:43:19",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744631041,
+      "formatted_time": "2025-04-14 19:44:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744631045,
+      "formatted_time": "2025-04-14 19:44:05",
+      "type": "文本消息",
+      "str_content": "大概这仨",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744631187,
+      "formatted_time": "2025-04-14 19:46:27",
+      "type": "文本消息",
+      "str_content": "那我们也这两天的买票",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744631206,
+      "formatted_time": "2025-04-14 19:46:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744701469,
+      "formatted_time": "2025-04-15 15:17:49",
+      "type": "文本消息",
+      "str_content": "我俩这边ok",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744701469,
+      "formatted_time": "2025-04-15 15:17:49",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744702264,
+      "formatted_time": "2025-04-15 15:31:04",
+      "type": "文本消息",
+      "str_content": "OK我们俩也买完了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1744702283,
+      "formatted_time": "2025-04-15 15:31:23",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1744702293,
+      "formatted_time": "2025-04-15 15:31:33",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744702298,
+      "formatted_time": "2025-04-15 15:31:38",
+      "type": "文本消息",
+      "str_content": "你们是怎么过去",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744702403,
+      "formatted_time": "2025-04-15 15:33:23",
+      "type": "文本消息",
+      "str_content": "绿皮",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702408,
+      "formatted_time": "2025-04-15 15:33:28",
+      "type": "文本消息",
+      "str_content": "飞机太贵了760",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702425,
+      "formatted_time": "2025-04-15 15:33:45",
+      "type": "文本消息",
+      "str_content": "高铁也700",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702454,
+      "formatted_time": "2025-04-15 15:34:14",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702460,
+      "formatted_time": "2025-04-15 15:34:20",
+      "type": "文本消息",
+      "str_content": "不如硬卧",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702473,
+      "formatted_time": "2025-04-15 15:34:33",
+      "type": "文本消息",
+      "str_content": "我们比你们早到一天",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702485,
+      "formatted_time": "2025-04-15 15:34:45",
+      "type": "文本消息",
+      "str_content": "[OK]那可得备好耳塞啥的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744702528,
+      "formatted_time": "2025-04-15 15:35:28",
+      "type": "文本消息",
+      "str_content": "必须的",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702562,
+      "formatted_time": "2025-04-15 15:36:02",
+      "type": "文本消息",
+      "str_content": "咱们还去不去川西",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702622,
+      "formatted_time": "2025-04-15 15:37:02",
+      "type": "文本消息",
+      "str_content": "我觉得可以去九寨沟逛一下",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744702632,
+      "formatted_time": "2025-04-15 15:37:12",
+      "type": "文本消息",
+      "str_content": "再往西，你们想徒步吗？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744702649,
+      "formatted_time": "2025-04-15 15:37:29",
+      "type": "文本消息",
+      "str_content": "我觉得可以去一下[得意]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702652,
+      "formatted_time": "2025-04-15 15:37:32",
+      "type": "文本消息",
+      "str_content": "毕竟来都来了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702677,
+      "formatted_time": "2025-04-15 15:37:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744702683,
+      "formatted_time": "2025-04-15 15:38:03",
+      "type": "文本消息",
+      "str_content": "我周末做个ppt，简单计划下",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744702687,
+      "formatted_time": "2025-04-15 15:38:07",
+      "type": "文本消息",
+      "str_content": "如果大家体力充沛的话",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702689,
+      "formatted_time": "2025-04-15 15:38:09",
+      "type": "文本消息",
+      "str_content": "到时候一起讨论一下",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744702690,
+      "formatted_time": "2025-04-15 15:38:10",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈行",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702711,
+      "formatted_time": "2025-04-15 15:38:31",
+      "type": "文本消息",
+      "str_content": "[好的]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702726,
+      "formatted_time": "2025-04-15 15:38:46",
+      "type": "文本消息",
+      "str_content": "啥时候回",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702736,
+      "formatted_time": "2025-04-15 15:38:56",
+      "type": "文本消息",
+      "str_content": "过两天就该抢票了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744702739,
+      "formatted_time": "2025-04-15 15:38:59",
+      "type": "文本消息",
+      "str_content": "也是",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744702782,
+      "formatted_time": "2025-04-15 15:39:42",
+      "type": "文本消息",
+      "str_content": "我俩可能就5.5吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744704038,
+      "formatted_time": "2025-04-15 16:00:38",
+      "type": "文本消息",
+      "str_content": "OK",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744704046,
+      "formatted_time": "2025-04-15 16:00:46",
+      "type": "文本消息",
+      "str_content": "那我等等学校通知",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744880180,
+      "formatted_time": "2025-04-17 16:56:20",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744880198,
+      "formatted_time": "2025-04-17 16:56:38",
+      "type": "文本消息",
+      "str_content": "看你们时间要是比较紧，可以考虑成都市区一天",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744880236,
+      "formatted_time": "2025-04-17 16:57:16",
+      "type": "文本消息",
+      "str_content": "哎你们还不如提前来武汉玩两天呢[偷笑]然后一起过去",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744880758,
+      "formatted_time": "2025-04-17 17:05:58",
+      "type": "文本消息",
+      "str_content": "感觉这样有点太赶了，川西要玩感觉得五六天",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744881549,
+      "formatted_time": "2025-04-17 17:19:09",
+      "type": "文本消息",
+      "str_content": "是有点赶 先这样计划吧 有其他问题咱们再商量",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744882047,
+      "formatted_time": "2025-04-17 17:27:27",
+      "type": "引用消息",
+      "str_content": "没想到这个方案[发呆] 没事 主要是我们这边距离成都比较远 所以提前两天出发 正好和你们差不多时间到",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1744983328,
+      "formatted_time": "2025-04-18 21:35:28",
+      "type": "文本消息",
+      "str_content": "九寨沟和川西咱要不报小团吧？因为以成都为起点的话，过去其实也有点麻烦，如果报小团整体上会方便一些",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744983347,
+      "formatted_time": "2025-04-18 21:35:47",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744983347,
+      "formatted_time": "2025-04-18 21:35:47",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744983351,
+      "formatted_time": "2025-04-18 21:35:51",
+      "type": "文本消息",
+      "str_content": "类似这种的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744983359,
+      "formatted_time": "2025-04-18 21:35:59",
+      "type": "文本消息",
+      "str_content": "然后酒店啥的感觉也要快点定了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744983366,
+      "formatted_time": "2025-04-18 21:36:06",
+      "type": "文本消息",
+      "str_content": "你们是计划几号返程？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744983430,
+      "formatted_time": "2025-04-18 21:37:10",
+      "type": "引用消息",
+      "str_content": "哇徐老师好有规划",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1744983461,
+      "formatted_time": "2025-04-18 21:37:41",
+      "type": "文本消息",
+      "str_content": "日常生活学习培养出来的习惯罢了，不值一提不值一提",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744983472,
+      "formatted_time": "2025-04-18 21:37:52",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744983508,
+      "formatted_time": "2025-04-18 21:38:28",
+      "type": "文本消息",
+      "str_content": "你真不谦虚",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1744983579,
+      "formatted_time": "2025-04-18 21:39:39",
+      "type": "引用消息",
+      "str_content": "因为如果是去川西，那回成都大概率是在5月5日晚上八九点，所以这个还比较重要",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744983666,
+      "formatted_time": "2025-04-18 21:41:06",
+      "type": "文本消息",
+      "str_content": "你们什么时候有时间呀，咱可以电话简单聊下确定下这些",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744984495,
+      "formatted_time": "2025-04-18 21:54:55",
+      "type": "文本消息",
+      "str_content": "嗯嗯行",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1744984498,
+      "formatted_time": "2025-04-18 21:54:58",
+      "type": "文本消息",
+      "str_content": "但是得等一会吧",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1744984503,
+      "formatted_time": "2025-04-18 21:55:03",
+      "type": "文本消息",
+      "str_content": "我不知道徐傲在干啥呢",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1744984516,
+      "formatted_time": "2025-04-18 21:55:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1744985463,
+      "formatted_time": "2025-04-18 22:11:03",
+      "type": "文本消息",
+      "str_content": "也可以先在成都玩一天，之后川西+九寨沟四天，留一天在成都修整",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744985493,
+      "formatted_time": "2025-04-18 22:11:33",
+      "type": "文本消息",
+      "str_content": "在时间上更可控一些",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744986402,
+      "formatted_time": "2025-04-18 22:26:42",
+      "type": "文本消息",
+      "str_content": "还有一种方案，就是直接自驾川西",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744986427,
+      "formatted_time": "2025-04-18 22:27:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1744986440,
+      "formatted_time": "2025-04-18 22:27:20",
+      "type": "文本消息",
+      "str_content": "汪奕彤还有个朋友，在成都上学，加上他和他女朋友六个人租一辆车，你俩可以换着开，",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744986515,
+      "formatted_time": "2025-04-18 22:28:35",
+      "type": "文本消息",
+      "str_content": "是的，并且他去年就是自驾去的川西",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1744987260,
+      "formatted_time": "2025-04-18 22:41:00",
+      "type": "引用消息",
+      "str_content": "我觉得可以诶",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1744988042,
+      "formatted_time": "2025-04-18 22:54:02",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1744988211,
+      "formatted_time": "2025-04-18 22:56:51",
+      "type": "文本消息",
+      "str_content": "他有车 我们也能坐下",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745022375,
+      "formatted_time": "2025-04-19 08:26:15",
+      "type": "文本消息",
+      "str_content": "昨天有事呢哥",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745022393,
+      "formatted_time": "2025-04-19 08:26:33",
+      "type": "文本消息",
+      "str_content": "那我们还是自驾吧",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745022438,
+      "formatted_time": "2025-04-19 08:27:18",
+      "type": "文本消息",
+      "str_content": "我们还有行李啥的 有辆车方便很多",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745022959,
+      "formatted_time": "2025-04-19 08:35:59",
+      "type": "文本消息",
+      "str_content": "我看了看租车的价格还比较合理 咱们自己租车也可以 我觉得这样更方便 用别人的车也行",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745033554,
+      "formatted_time": "2025-04-19 11:32:34",
+      "type": "文本消息",
+      "str_content": "也可以和他们一起去自驾，这哥们前段时间来武汉之后我和他们吃了顿饭，之后就一直邀请着说去成都啦四川啦，一路上也能带着逛逛",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745033566,
+      "formatted_time": "2025-04-19 11:32:46",
+      "type": "文本消息",
+      "str_content": "可以可以",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745033634,
+      "formatted_time": "2025-04-19 11:33:54",
+      "type": "文本消息",
+      "str_content": "自驾川西需要几天啊",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745033707,
+      "formatted_time": "2025-04-19 11:35:07",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745033723,
+      "formatted_time": "2025-04-19 11:35:23",
+      "type": "文本消息",
+      "str_content": "他去年五一也是这么走的",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745033729,
+      "formatted_time": "2025-04-19 11:35:29",
+      "type": "文本消息",
+      "str_content": "大概两天差不多",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745033762,
+      "formatted_time": "2025-04-19 11:36:02",
+      "type": "文本消息",
+      "str_content": "川西要是真自驾玩透彻感觉得一个月",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745033772,
+      "formatted_time": "2025-04-19 11:36:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745033781,
+      "formatted_time": "2025-04-19 11:36:21",
+      "type": "引用消息",
+      "str_content": "在这个基础上，走走停停，遇到好看就下车拍个照吃吃喝喝这样吧，",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745033786,
+      "formatted_time": "2025-04-19 11:36:26",
+      "type": "文本消息",
+      "str_content": "其实我觉得四点出门太晚了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745033810,
+      "formatted_time": "2025-04-19 11:36:50",
+      "type": "文本消息",
+      "str_content": "我以为得三四天呢",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745033900,
+      "formatted_time": "2025-04-19 11:38:20",
+      "type": "文本消息",
+      "str_content": "他们要先去都江堰，然后再专门回成都接我们一趟",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745033909,
+      "formatted_time": "2025-04-19 11:38:29",
+      "type": "文本消息",
+      "str_content": "出门时间也可以再跟他们商量",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745033941,
+      "formatted_time": "2025-04-19 11:39:01",
+      "type": "文本消息",
+      "str_content": "这几天事多 旅游的事我都还没点头绪呢",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745033976,
+      "formatted_time": "2025-04-19 11:39:36",
+      "type": "文本消息",
+      "str_content": "没事 不行的话咱们就两辆车出行也可以 两天的时间花不了多少钱",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745034019,
+      "formatted_time": "2025-04-19 11:40:19",
+      "type": "文本消息",
+      "str_content": "咱们29号就都到了 到时候再计划呗 看看什么时候跟他们汇合一下",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745034172,
+      "formatted_time": "2025-04-19 11:42:52",
+      "type": "文本消息",
+      "str_content": "四川可旅游的地方比较多，一次玩不完，我这也是第三四次去了[偷笑]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745034198,
+      "formatted_time": "2025-04-19 11:43:18",
+      "type": "文本消息",
+      "str_content": "还是要尽快确定一个大纲，订酒店什么的，过几天酒店价格应该要爆炸式增长了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745034211,
+      "formatted_time": "2025-04-19 11:43:31",
+      "type": "文本消息",
+      "str_content": "酒店应该要开始订了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745034798,
+      "formatted_time": "2025-04-19 11:53:18",
+      "type": "文本消息",
+      "str_content": "你们来到那天咱们肯定是在成都 30号可以租个车去成都周围的景点看看 然后1号一起去康定",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745034941,
+      "formatted_time": "2025-04-19 11:55:41",
+      "type": "文本消息",
+      "str_content": "OK",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745034954,
+      "formatted_time": "2025-04-19 11:55:54",
+      "type": "文本消息",
+      "str_content": "你们晚上有时间吗？打个电话对一下？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745034989,
+      "formatted_time": "2025-04-19 11:56:29",
+      "type": "文本消息",
+      "str_content": "应该是有时间",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745035001,
+      "formatted_time": "2025-04-19 11:56:41",
+      "type": "文本消息",
+      "str_content": "就怕晚上临时有事",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745035016,
+      "formatted_time": "2025-04-19 11:56:56",
+      "type": "文本消息",
+      "str_content": "晚上没事的话我在群里发信息",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745035129,
+      "formatted_time": "2025-04-19 11:58:49",
+      "type": "文本消息",
+      "str_content": "OK",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745062870,
+      "formatted_time": "2025-04-19 19:41:10",
+      "type": "文本消息",
+      "str_content": "你们今天晚上有时间么 咱们可以打电话对一下，把住宿相关的事情先确定一下",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745063125,
+      "formatted_time": "2025-04-19 19:45:25",
+      "type": "文本消息",
+      "str_content": "嗯好",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745063131,
+      "formatted_time": "2025-04-19 19:45:31",
+      "type": "文本消息",
+      "str_content": "但是徐傲没空",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745063133,
+      "formatted_time": "2025-04-19 19:45:33",
+      "type": "文本消息",
+      "str_content": "只有我",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745063137,
+      "formatted_time": "2025-04-19 19:45:37",
+      "type": "文本消息",
+      "str_content": "我忘记说了 我今晚有事呢 你们打电话商量一下吧 我这边让宋文奇决定就行 你们决定呗",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745063179,
+      "formatted_time": "2025-04-19 19:46:19",
+      "type": "文本消息",
+      "str_content": "什么时候打电话呀",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745063184,
+      "formatted_time": "2025-04-19 19:46:24",
+      "type": "文本消息",
+      "str_content": "@奇怪 你做主吧 我听你安排",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745063185,
+      "formatted_time": "2025-04-19 19:46:25",
+      "type": "文本消息",
+      "str_content": "我都有时间",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745063187,
+      "formatted_time": "2025-04-19 19:46:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745063206,
+      "formatted_time": "2025-04-19 19:46:46",
+      "type": "文本消息",
+      "str_content": "那要不八点？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745063208,
+      "formatted_time": "2025-04-19 19:46:48",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745063211,
+      "formatted_time": "2025-04-19 19:46:51",
+      "type": "文本消息",
+      "str_content": "OK",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745065142,
+      "formatted_time": "2025-04-19 20:19:02",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1745065283,
+      "formatted_time": "2025-04-19 20:21:23",
+      "type": "文本消息",
+      "str_content": "4月19日晚meeting：\n1.30号开始共同行动，30日在成都  大熊猫基地+三星堆，景区之间有旅游车，不租车\n2.5月1日-5月2日，和汪奕彤朋友一起自驾（考虑到各种因素，先选择一辆车自驾）。预计目的地：康定 鱼子西 九顶山，5月1日晚上在康定住宿，5月2日晚上返程住成都\n3.5月3-4日，我们四个租一辆车，去九寨沟，3日晚景区内住宿，4日晚返程回成都\n4.5月5日：自由安排 收拾 返程等",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745065306,
+      "formatted_time": "2025-04-19 20:21:46",
+      "type": "文本消息",
+      "str_content": "@Xaooo 领导审核过目下",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745065379,
+      "formatted_time": "2025-04-19 20:22:59",
+      "type": "文本消息",
+      "str_content": "收到领导",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745065384,
+      "formatted_time": "2025-04-19 20:23:04",
+      "type": "文本消息",
+      "str_content": "我绝对的服从安排",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745065387,
+      "formatted_time": "2025-04-19 20:23:07",
+      "type": "文本消息",
+      "str_content": "🫡",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745065459,
+      "formatted_time": "2025-04-19 20:24:19",
+      "type": "文本消息",
+      "str_content": "我今天晚上看一下酒店，咱们酒店还是尽早订，性价比要高一点",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745065991,
+      "formatted_time": "2025-04-19 20:33:11",
+      "type": "文本消息",
+      "str_content": "嗯嗯好",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745066029,
+      "formatted_time": "2025-04-19 20:33:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745067901,
+      "formatted_time": "2025-04-19 21:05:01",
+      "type": "文本消息",
+      "str_content": "我刚刚跟我的朋友确定了一下，我们大概是1号他来成都接我们，然后我们一起去康定。然后在康定我们待一个晚上，第二天去往九顶山那儿跑一跑，然后在九顶山那儿大概待一个下午，晚上再返回成都",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745067983,
+      "formatted_time": "2025-04-19 21:06:23",
+      "type": "文本消息",
+      "str_content": "如果没有问题的话，我们就大概可以确定下来这个行程，我也好跟他讲一下",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745068019,
+      "formatted_time": "2025-04-19 21:06:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745068180,
+      "formatted_time": "2025-04-19 21:09:40",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745068181,
+      "formatted_time": "2025-04-19 21:09:41",
+      "type": "文本消息",
+      "str_content": "没问题",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745070409,
+      "formatted_time": "2025-04-19 21:46:49",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745070413,
+      "formatted_time": "2025-04-19 21:46:53",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745070504,
+      "formatted_time": "2025-04-19 21:48:24",
+      "type": "文本消息",
+      "str_content": "[强][强][强][强][强]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745071479,
+      "formatted_time": "2025-04-19 22:04:39",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745071479,
+      "formatted_time": "2025-04-19 22:04:39",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1745071510,
+      "formatted_time": "2025-04-19 22:05:10",
+      "type": "文本消息",
+      "str_content": "成都市酒店我们就这家吧？比较新，而且价格也还好",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745071513,
+      "formatted_time": "2025-04-19 22:05:13",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745071524,
+      "formatted_time": "2025-04-19 22:05:24",
+      "type": "文本消息",
+      "str_content": "我看了下最黄金地段的那几个设施都太旧了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745071581,
+      "formatted_time": "2025-04-19 22:06:21",
+      "type": "文本消息",
+      "str_content": "ok的话我这边就先定了，因为确实房源现在还是挺紧张的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745071583,
+      "formatted_time": "2025-04-19 22:06:23",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745071640,
+      "formatted_time": "2025-04-19 22:07:20",
+      "type": "文本消息",
+      "str_content": "可以的徐老师",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745071690,
+      "formatted_time": "2025-04-19 22:08:10",
+      "type": "文本消息",
+      "str_content": "OK",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745072021,
+      "formatted_time": "2025-04-19 22:13:41",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745072063,
+      "formatted_time": "2025-04-19 22:14:23",
+      "type": "文本消息",
+      "str_content": "收到🫡",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745072433,
+      "formatted_time": "2025-04-19 22:20:33",
+      "type": "文本消息",
+      "str_content": "刚刚开车呢哥",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745072449,
+      "formatted_time": "2025-04-19 22:20:49",
+      "type": "文本消息",
+      "str_content": "酒店你自己都订了啊",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745072480,
+      "formatted_time": "2025-04-19 22:21:20",
+      "type": "文本消息",
+      "str_content": "没事儿，今天我还给我妈打电话来着，请示了下",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745072492,
+      "formatted_time": "2025-04-19 22:21:32",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1745072501,
+      "formatted_time": "2025-04-19 22:21:41",
+      "type": "文本消息",
+      "str_content": "到时候你先到，直接报你名字就ok",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745072511,
+      "formatted_time": "2025-04-19 22:21:51",
+      "type": "文本消息",
+      "str_content": "我用15623516722手机号定的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745072553,
+      "formatted_time": "2025-04-19 22:22:33",
+      "type": "文本消息",
+      "str_content": "到时候其他开销我来吧 我爸也给我批款了[得意]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745072606,
+      "formatted_time": "2025-04-19 22:23:26",
+      "type": "文本消息",
+      "str_content": "哈哈哈ok",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745072696,
+      "formatted_time": "2025-04-19 22:24:56",
+      "type": "文本消息",
+      "str_content": "康定和九寨沟的两个景区住宿让汪奕彤定了吧，一会她把那些发群里",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745072718,
+      "formatted_time": "2025-04-19 22:25:18",
+      "type": "文本消息",
+      "str_content": "还有一个问题 我看了下课表 可能五号有两节课 你先把我们的那个4号到5号的酒店退一下 如果到时候通知开学的话 我能请两天假的话 咱们就多玩两天 不能的话 我们就得三号回来",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745072721,
+      "formatted_time": "2025-04-19 22:25:21",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745072748,
+      "formatted_time": "2025-04-19 22:25:48",
+      "type": "引用消息",
+      "str_content": "你们好了 发给我吧 这两天的我来订",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745072756,
+      "formatted_time": "2025-04-19 22:25:56",
+      "type": "文本消息",
+      "str_content": "没事，他那边应该选好了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745072803,
+      "formatted_time": "2025-04-19 22:26:43",
+      "type": "文本消息",
+      "str_content": "我先不取消了，他这些是入住当天晚上六点前可以免费取消",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745072816,
+      "formatted_time": "2025-04-19 22:26:56",
+      "type": "文本消息",
+      "str_content": "所以再观望一下再做决定吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745072833,
+      "formatted_time": "2025-04-19 22:27:13",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745072841,
+      "formatted_time": "2025-04-19 22:27:21",
+      "type": "文本消息",
+      "str_content": "你们这怎么假期还有课[捂脸]这个课表是不是不太准？5号按理说应该不上课的呀",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745072858,
+      "formatted_time": "2025-04-19 22:27:38",
+      "type": "文本消息",
+      "str_content": "我也挺纳闷的 主要是还没通知呢",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745072882,
+      "formatted_time": "2025-04-19 22:28:02",
+      "type": "文本消息",
+      "str_content": "通知的时候再说呗 应该是不准",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745072885,
+      "formatted_time": "2025-04-19 22:28:05",
+      "type": "文本消息",
+      "str_content": "我估计5号应该上不了课，先不说学生，老师肯定都不会上课",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745072898,
+      "formatted_time": "2025-04-19 22:28:18",
+      "type": "文本消息",
+      "str_content": "是不是法定节假日",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745072904,
+      "formatted_time": "2025-04-19 22:28:24",
+      "type": "文本消息",
+      "str_content": "是的",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745072904,
+      "formatted_time": "2025-04-19 22:28:24",
+      "type": "文本消息",
+      "str_content": "6号才上班啊",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745072909,
+      "formatted_time": "2025-04-19 22:28:29",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745072923,
+      "formatted_time": "2025-04-19 22:28:43",
+      "type": "文本消息",
+      "str_content": "那应该就是课表还没调",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745072937,
+      "formatted_time": "2025-04-19 22:28:57",
+      "type": "文本消息",
+      "str_content": "那就5号回来",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745072957,
+      "formatted_time": "2025-04-19 22:29:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745073065,
+      "formatted_time": "2025-04-19 22:31:05",
+      "type": "文本消息",
+      "str_content": "这段时间确实事比较多 一直也没计划  不好意思哈各位",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745073068,
+      "formatted_time": "2025-04-19 22:31:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745073081,
+      "formatted_time": "2025-04-19 22:31:21",
+      "type": "文本消息",
+      "str_content": "你这忙啥呢",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745073160,
+      "formatted_time": "2025-04-19 22:32:40",
+      "type": "文本消息",
+      "str_content": "就浙江那边船厂的事 还有我爸他们研究去非洲的事情 然后还有家里这个公司过户给我了还得开户还得办劳务派遣许可证啥的",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745073171,
+      "formatted_time": "2025-04-19 22:32:51",
+      "type": "文本消息",
+      "str_content": "反正就乱七八糟的很多事 都赶一起了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745073199,
+      "formatted_time": "2025-04-19 22:33:19",
+      "type": "文本消息",
+      "str_content": "[强][强]忙着发财呢啊",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745073250,
+      "formatted_time": "2025-04-19 22:34:10",
+      "type": "文本消息",
+      "str_content": "为了咱们以后的幸福生活",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745073252,
+      "formatted_time": "2025-04-19 22:34:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745073356,
+      "formatted_time": "2025-04-19 22:35:56",
+      "type": "文本消息",
+      "str_content": "这一比显得我光顾着玩了[偷笑]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745073432,
+      "formatted_time": "2025-04-19 22:37:12",
+      "type": "文本消息",
+      "str_content": "别闹了哥 我再努力几年也追不上你啊",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745073450,
+      "formatted_time": "2025-04-19 22:37:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745073495,
+      "formatted_time": "2025-04-19 22:38:15",
+      "type": "文本消息",
+      "str_content": "真没闹  我这都是小打小闹，做生意才是快意恩仇来",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745073510,
+      "formatted_time": "2025-04-19 22:38:30",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745073519,
+      "formatted_time": "2025-04-19 22:38:39",
+      "type": "文本消息",
+      "str_content": "以后有的是机会",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745073526,
+      "formatted_time": "2025-04-19 22:38:46",
+      "type": "文本消息",
+      "str_content": "合作愉快[握手][握手][握手]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745073534,
+      "formatted_time": "2025-04-19 22:38:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745073819,
+      "formatted_time": "2025-04-19 22:43:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745074929,
+      "formatted_time": "2025-04-19 23:02:09",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745075007,
+      "formatted_time": "2025-04-19 23:03:27",
+      "type": "文本消息",
+      "str_content": "康定那边的酒店也是比较老的，然后我找的这个还算比较新，但是因为我们可能预定的比较晚，所以到时候住的话可能会存在房间内没有窗户的现象。然后这个地方离我们要去玩的地方其实很近，步行10多分钟就到了，挺方便的 你们看可以不",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745075026,
+      "formatted_time": "2025-04-19 23:03:46",
+      "type": "文本消息",
+      "str_content": "收到🫡",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745075357,
+      "formatted_time": "2025-04-19 23:09:17",
+      "type": "引用消息",
+      "str_content": "这个酒店从我这边看只要二百多诶",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075361,
+      "formatted_time": "2025-04-19 23:09:21",
+      "type": "文本消息",
+      "str_content": "要不你退了吧",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075371,
+      "formatted_time": "2025-04-19 23:09:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075389,
+      "formatted_time": "2025-04-19 23:09:49",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075393,
+      "formatted_time": "2025-04-19 23:09:53",
+      "type": "文本消息",
+      "str_content": "是这个嘛",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075542,
+      "formatted_time": "2025-04-19 23:12:22",
+      "type": "文本消息",
+      "str_content": "小宝你可以先跟酒店那边确认一下还有没有大床房。因为我朋友他们在订的时候，那个平台上就已经显示大床房已经被订完了。如果说就是还有大床房的话，然后我在这边再取消也不迟",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745075545,
+      "formatted_time": "2025-04-19 23:12:25",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745075666,
+      "formatted_time": "2025-04-19 23:14:26",
+      "type": "文本消息",
+      "str_content": "因为我这边酒店那方显示还未确认，所以说退起来也比较方便。我们可以先确定一下，他大床房到底还有没有",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745075720,
+      "formatted_time": "2025-04-19 23:15:20",
+      "type": "文本消息",
+      "str_content": "这个你们两位女同志商量着来吧，我这边也有点事",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745075730,
+      "formatted_time": "2025-04-19 23:15:30",
+      "type": "文本消息",
+      "str_content": "可以的徐老师",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745075789,
+      "formatted_time": "2025-04-19 23:16:29",
+      "type": "文本消息",
+      "str_content": "来了来了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075799,
+      "formatted_time": "2025-04-19 23:16:39",
+      "type": "文本消息",
+      "str_content": "我这里显示预定成功了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075808,
+      "formatted_time": "2025-04-19 23:16:48",
+      "type": "文本消息",
+      "str_content": "刚刚我给那个酒店打电话来着",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075819,
+      "formatted_time": "2025-04-19 23:16:59",
+      "type": "文本消息",
+      "str_content": "他说预订成功就会给我们留房",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075851,
+      "formatted_time": "2025-04-19 23:17:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075866,
+      "formatted_time": "2025-04-19 23:17:46",
+      "type": "文本消息",
+      "str_content": "哦哦好那我这边取消啦",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745075869,
+      "formatted_time": "2025-04-19 23:17:49",
+      "type": "文本消息",
+      "str_content": "省下来的钱又能吃一些好吃的了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075875,
+      "formatted_time": "2025-04-19 23:17:55",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈我支持",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745075876,
+      "formatted_time": "2025-04-19 23:17:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745075894,
+      "formatted_time": "2025-04-19 23:18:14",
+      "type": "文本消息",
+      "str_content": "哈哈那你取消吧",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075900,
+      "formatted_time": "2025-04-19 23:18:20",
+      "type": "文本消息",
+      "str_content": "是5.1-5.2吧",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075902,
+      "formatted_time": "2025-04-19 23:18:22",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745075907,
+      "formatted_time": "2025-04-19 23:18:27",
+      "type": "文本消息",
+      "str_content": "OK OK",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075930,
+      "formatted_time": "2025-04-19 23:18:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745075943,
+      "formatted_time": "2025-04-19 23:19:03",
+      "type": "文本消息",
+      "str_content": "那我订一下九寨沟滴[坏笑]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745076053,
+      "formatted_time": "2025-04-19 23:20:53",
+      "type": "文本消息",
+      "str_content": "哈哈好",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745076062,
+      "formatted_time": "2025-04-19 23:21:02",
+      "type": "文本消息",
+      "str_content": "但素我刚刚看了一下",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745076074,
+      "formatted_time": "2025-04-19 23:21:14",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745076077,
+      "formatted_time": "2025-04-19 23:21:17",
+      "type": "文本消息",
+      "str_content": "他们酒店的价格也高的有点离谱了吧",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745076080,
+      "formatted_time": "2025-04-19 23:21:20",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745076090,
+      "formatted_time": "2025-04-19 23:21:30",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745076105,
+      "formatted_time": "2025-04-19 23:21:45",
+      "type": "文本消息",
+      "str_content": "好迅速！",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745076106,
+      "formatted_time": "2025-04-19 23:21:46",
+      "type": "文本消息",
+      "str_content": "我已经订完了，然后我选择了一个离九寨沟景区最近的，并且我刚刚订完，他们就涨了200块钱",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745076129,
+      "formatted_time": "2025-04-19 23:22:09",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈可以可以",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745076137,
+      "formatted_time": "2025-04-19 23:22:17",
+      "type": "文本消息",
+      "str_content": "[坏笑][坏笑]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745076222,
+      "formatted_time": "2025-04-19 23:23:42",
+      "type": "文本消息",
+      "str_content": "这个酒店好像是21年建的，可能稍微有一点点老，但是我看了一下他的住宿环境比较干净，并且离九寨沟景区是最近的了。然后我们去那儿步行的话只要十多分钟也比较方便",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745076479,
+      "formatted_time": "2025-04-19 23:27:59",
+      "type": "文本消息",
+      "str_content": "嗯嗯可以的 我觉得这个就挺合适滴",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745076501,
+      "formatted_time": "2025-04-19 23:28:21",
+      "type": "文本消息",
+      "str_content": "现在咱们应该没有啥再弄的了吧",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745076611,
+      "formatted_time": "2025-04-19 23:30:11",
+      "type": "文本消息",
+      "str_content": "应该没啥了。就有一些景点的门票可能需要我们提前去预定一下",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745076689,
+      "formatted_time": "2025-04-19 23:31:29",
+      "type": "文本消息",
+      "str_content": "那景点门票我们来预约吧",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745076698,
+      "formatted_time": "2025-04-19 23:31:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745076737,
+      "formatted_time": "2025-04-19 23:32:17",
+      "type": "文本消息",
+      "str_content": "你们酒店都已经花了很多钱了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745076746,
+      "formatted_time": "2025-04-19 23:32:26",
+      "type": "文本消息",
+      "str_content": "咱们都要去那些景点呀",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745076769,
+      "formatted_time": "2025-04-19 23:32:49",
+      "type": "文本消息",
+      "str_content": "没事的，景点门票我们可以一起预定，因为它可能节假日相对来说门票比较难订，然后它的预定时间也有点阴间，大家一起定概率就大好多",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745076821,
+      "formatted_time": "2025-04-19 23:33:41",
+      "type": "文本消息",
+      "str_content": "像三星堆和成都大熊猫基地可能需要提前7天订票",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745076832,
+      "formatted_time": "2025-04-19 23:33:52",
+      "type": "文本消息",
+      "str_content": "如果说我们在成都市区有其他玩的打算的话，也可以提前看一下门票之类的",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745077376,
+      "formatted_time": "2025-04-19 23:42:56",
+      "type": "文本消息",
+      "str_content": "嗯嗯好 那咱们留意下时间 订票的时候咱们打一下电话",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745077392,
+      "formatted_time": "2025-04-19 23:43:12",
+      "type": "文本消息",
+      "str_content": "咱们回来还是用一个手机预约",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745077421,
+      "formatted_time": "2025-04-19 23:43:41",
+      "type": "文本消息",
+      "str_content": "把你们的身份证号发一下[可怜]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745077520,
+      "formatted_time": "2025-04-19 23:45:20",
+      "type": "文本消息",
+      "str_content": "370826200307194610",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745077546,
+      "formatted_time": "2025-04-19 23:45:46",
+      "type": "文本消息",
+      "str_content": "370826200309154612",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745077598,
+      "formatted_time": "2025-04-19 23:46:38",
+      "type": "文本消息",
+      "str_content": "370802200402014824",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745077613,
+      "formatted_time": "2025-04-19 23:46:53",
+      "type": "引用消息",
+      "str_content": "可以滴可以滴",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745077628,
+      "formatted_time": "2025-04-19 23:47:08",
+      "type": "引用消息",
+      "str_content": "比我大两个月 为啥显的比我年轻这么多",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745077827,
+      "formatted_time": "2025-04-19 23:50:27",
+      "type": "文本消息",
+      "str_content": "因为他很聪明的 知道给自己烫了个羊毛卷显小",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745078002,
+      "formatted_time": "2025-04-19 23:53:22",
+      "type": "文本消息",
+      "str_content": "原来如此",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745078320,
+      "formatted_time": "2025-04-19 23:58:40",
+      "type": "引用消息",
+      "str_content": "嫉妒使你面目全非",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745078669,
+      "formatted_time": "2025-04-20 00:04:29",
+      "type": "文本消息",
+      "str_content": "你应该知道吧，在这方面我不需要嫉妒你呀",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745078672,
+      "formatted_time": "2025-04-20 00:04:32",
+      "type": "文本消息",
+      "str_content": "[可怜][可怜]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745157236,
+      "formatted_time": "2025-04-20 21:53:56",
+      "type": "文本消息",
+      "str_content": "@奇怪  你的身份证号多少呀 我想现在就把九寨沟的门票定了🫰🫰",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745157740,
+      "formatted_time": "2025-04-20 22:02:20",
+      "type": "文本消息",
+      "str_content": "我来我来哈哈刚刚没带手机 我也想着今天晚上定呢  咱们是定5.3号的是吧",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745158255,
+      "formatted_time": "2025-04-20 22:10:55",
+      "type": "文本消息",
+      "str_content": "嗯嗯是滴",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745158289,
+      "formatted_time": "2025-04-20 22:11:29",
+      "type": "文本消息",
+      "str_content": "可以看一下有没有学生票，能优惠一点儿是一点儿",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745158327,
+      "formatted_time": "2025-04-20 22:12:07",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745158343,
+      "formatted_time": "2025-04-20 22:12:23",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745158348,
+      "formatted_time": "2025-04-20 22:12:28",
+      "type": "文本消息",
+      "str_content": "是这个没错吧",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745158354,
+      "formatted_time": "2025-04-20 22:12:34",
+      "type": "文本消息",
+      "str_content": "你们三个都是学生票",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745158358,
+      "formatted_time": "2025-04-20 22:12:38",
+      "type": "文本消息",
+      "str_content": "只有我一个人不是",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745158362,
+      "formatted_time": "2025-04-20 22:12:42",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745158395,
+      "formatted_time": "2025-04-20 22:13:15",
+      "type": "文本消息",
+      "str_content": "嗯嗯九寨沟",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745158434,
+      "formatted_time": "2025-04-20 22:13:54",
+      "type": "文本消息",
+      "str_content": "然后咱们除了三星堆和大熊猫",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745158462,
+      "formatted_time": "2025-04-20 22:14:22",
+      "type": "文本消息",
+      "str_content": "是不是还需要再预定一个鱼子西的门票呀",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745161504,
+      "formatted_time": "2025-04-20 23:05:04",
+      "type": "文本消息",
+      "str_content": "@A1theeeee 这个你找swx对一下？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745162057,
+      "formatted_time": "2025-04-20 23:14:17",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1745162069,
+      "formatted_time": "2025-04-20 23:14:29",
+      "type": "引用消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745163363,
+      "formatted_time": "2025-04-20 23:36:03",
+      "type": "文本消息",
+      "str_content": "我去问了一下swx 因为我们后面还有行程所以鱼子西和九顶山只能二选一，大家可以看看想去哪个",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745163597,
+      "formatted_time": "2025-04-20 23:39:57",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745163659,
+      "formatted_time": "2025-04-20 23:40:59",
+      "type": "文本消息",
+      "str_content": "如果我们去鱼子西的话可能会耽误后面的行程，还挺远的从鱼子西回来，路况可能也不是很好",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745163856,
+      "formatted_time": "2025-04-20 23:44:16",
+      "type": "文本消息",
+      "str_content": "那咱们就去九顶山吧",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745163859,
+      "formatted_time": "2025-04-20 23:44:19",
+      "type": "文本消息",
+      "str_content": "还需要预约吗",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745164406,
+      "formatted_time": "2025-04-20 23:53:26",
+      "type": "文本消息",
+      "str_content": "应该在门口买票就好",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745164431,
+      "formatted_time": "2025-04-20 23:53:51",
+      "type": "文本消息",
+      "str_content": "那行 咱们就去九顶山",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745164443,
+      "formatted_time": "2025-04-20 23:54:03",
+      "type": "文本消息",
+      "str_content": "行 我跟他说声",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745164517,
+      "formatted_time": "2025-04-20 23:55:17",
+      "type": "文本消息",
+      "str_content": "[好的]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745578143,
+      "formatted_time": "2025-04-25 18:49:03",
+      "type": "文本消息",
+      "str_content": "大家我们应该去不成九寨沟了诶，因为徐傲5.6号就开始上课，我们4号早上就要回去，3号我们就在成都附近逛一逛吧就没办法和你们一起去九寨沟啦",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745578737,
+      "formatted_time": "2025-04-25 18:58:57",
+      "type": "文本消息",
+      "str_content": "怎么还这么重视上课[破涕为笑]要不五号你们飞回去呢  六号的课四号就走吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745578946,
+      "formatted_time": "2025-04-25 19:02:26",
+      "type": "文本消息",
+      "str_content": "他五号就得回学校了[捂脸]半年没学校了他要收拾一下要不然就不走这么急了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745579096,
+      "formatted_time": "2025-04-25 19:04:56",
+      "type": "文本消息",
+      "str_content": "这是学校有什么急事吗，你们这大老远跑一趟就玩这么三天也太不值了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745579100,
+      "formatted_time": "2025-04-25 19:05:00",
+      "type": "文本消息",
+      "str_content": "不行就请个假吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745579420,
+      "formatted_time": "2025-04-25 19:10:20",
+      "type": "文本消息",
+      "str_content": "嗯嗯确实也比较远想多玩几天",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745579440,
+      "formatted_time": "2025-04-25 19:10:40",
+      "type": "文本消息",
+      "str_content": "但是有一个事情比他开学还要难搞",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745579450,
+      "formatted_time": "2025-04-25 19:10:50",
+      "type": "文本消息",
+      "str_content": "我好像没办法出去这么多天…",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745579453,
+      "formatted_time": "2025-04-25 19:10:53",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745579836,
+      "formatted_time": "2025-04-25 19:17:16",
+      "type": "文本消息",
+      "str_content": "真素有点不好意思，本来计划好的行程因为我的原因现在可能需要变化，但是我这边情况有点特殊[苦涩]真素不好意思",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745579900,
+      "formatted_time": "2025-04-25 19:18:20",
+      "type": "文本消息",
+      "str_content": "没事没事[破涕为笑]那你们是打算怎么回去，坐火车吗还是",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745580267,
+      "formatted_time": "2025-04-25 19:24:27",
+      "type": "文本消息",
+      "str_content": "你们计划四号什么时候走呀",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745580376,
+      "formatted_time": "2025-04-25 19:26:16",
+      "type": "文本消息",
+      "str_content": "主要是我们27号就出来了 到回来的时候差不多也一周了 时间差不多 回来以后宋文奇还要再努努力最后冲刺一下考试哈哈哈",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745580384,
+      "formatted_time": "2025-04-25 19:26:24",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745580389,
+      "formatted_time": "2025-04-25 19:26:29",
+      "type": "文本消息",
+      "str_content": "我们四号早上的高铁",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745580433,
+      "formatted_time": "2025-04-25 19:27:13",
+      "type": "文本消息",
+      "str_content": "这么早啊[破涕为笑]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745580547,
+      "formatted_time": "2025-04-25 19:29:07",
+      "type": "文本消息",
+      "str_content": "对的",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745580570,
+      "formatted_time": "2025-04-25 19:29:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745580575,
+      "formatted_time": "2025-04-25 19:29:35",
+      "type": "文本消息",
+      "str_content": "是没合适的飞机吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745580579,
+      "formatted_time": "2025-04-25 19:29:39",
+      "type": "文本消息",
+      "str_content": "你这车票也太贵了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745580586,
+      "formatted_time": "2025-04-25 19:29:46",
+      "type": "文本消息",
+      "str_content": "九百块的动车",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745581120,
+      "formatted_time": "2025-04-25 19:38:40",
+      "type": "文本消息",
+      "str_content": "飞机的价格也飞了[破涕为笑]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745581167,
+      "formatted_time": "2025-04-25 19:39:27",
+      "type": "文本消息",
+      "str_content": "可能因为假期快结束了吧 比前几天贵挺多的",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745581401,
+      "formatted_time": "2025-04-25 19:43:21",
+      "type": "文本消息",
+      "str_content": "okok 那我们改成3号在成都玩一玩吃吃喝喝 为你们践行[偷笑][偷笑]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745581815,
+      "formatted_time": "2025-04-25 19:50:15",
+      "type": "文本消息",
+      "str_content": "那你们不去九寨沟了啊哥",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745582026,
+      "formatted_time": "2025-04-25 19:53:46",
+      "type": "文本消息",
+      "str_content": "我先研究研究",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745582060,
+      "formatted_time": "2025-04-25 19:54:20",
+      "type": "文本消息",
+      "str_content": "行 没事还好几天呢",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745582102,
+      "formatted_time": "2025-04-25 19:55:02",
+      "type": "文本消息",
+      "str_content": "那如果整体往前推呢",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745582108,
+      "formatted_time": "2025-04-25 19:55:08",
+      "type": "文本消息",
+      "str_content": "你们如果后头没时间",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745582112,
+      "formatted_time": "2025-04-25 19:55:12",
+      "type": "文本消息",
+      "str_content": "正好汪奕彤爸不来了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745582129,
+      "formatted_time": "2025-04-25 19:55:29",
+      "type": "文本消息",
+      "str_content": "那我们也得研究研究了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745582132,
+      "formatted_time": "2025-04-25 19:55:32",
+      "type": "引用消息",
+      "str_content": "好搞笑这句话",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745582136,
+      "formatted_time": "2025-04-25 19:55:36",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745582146,
+      "formatted_time": "2025-04-25 19:55:46",
+      "type": "文本消息",
+      "str_content": "不来的正好",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745582165,
+      "formatted_time": "2025-04-25 19:56:05",
+      "type": "文本消息",
+      "str_content": "？",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745582171,
+      "formatted_time": "2025-04-25 19:56:11",
+      "type": "文本消息",
+      "str_content": "你完了我要告诉我爸爸",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745582666,
+      "formatted_time": "2025-04-25 20:04:26",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1745582676,
+      "formatted_time": "2025-04-25 20:04:36",
+      "type": "文本消息",
+      "str_content": "我俩应该可以后天出发，正好你们也是后天出发，如果是从大后天（29号）开始，咱周一周二正好补上两天3号和4号两天",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745582782,
+      "formatted_time": "2025-04-25 20:06:22",
+      "type": "文本消息",
+      "str_content": "咱们是不是可以先去九寨沟 然后从康定回来咱们再从成都玩",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745582791,
+      "formatted_time": "2025-04-25 20:06:31",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745582795,
+      "formatted_time": "2025-04-25 20:06:35",
+      "type": "文本消息",
+      "str_content": "这样呢",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745582821,
+      "formatted_time": "2025-04-25 20:07:01",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1745582856,
+      "formatted_time": "2025-04-25 20:07:36",
+      "type": "文本消息",
+      "str_content": "对，然后我想的是，你们看下27号合适的飞机票，因为坐火车确实太久了，而且现在这个时间点订票应该也不贵",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745582913,
+      "formatted_time": "2025-04-25 20:08:33",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745582963,
+      "formatted_time": "2025-04-25 20:09:23",
+      "type": "文本消息",
+      "str_content": "OK那我们看一下票",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745582978,
+      "formatted_time": "2025-04-25 20:09:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745583263,
+      "formatted_time": "2025-04-25 20:14:23",
+      "type": "文本消息",
+      "str_content": "你们27号到嘛",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745583290,
+      "formatted_time": "2025-04-25 20:14:50",
+      "type": "文本消息",
+      "str_content": "我们可以27到",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745583564,
+      "formatted_time": "2025-04-25 20:19:24",
+      "type": "文本消息",
+      "str_content": "要不就这样吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745583570,
+      "formatted_time": "2025-04-25 20:19:30",
+      "type": "文本消息",
+      "str_content": "我俩提前一天到",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745583573,
+      "formatted_time": "2025-04-25 20:19:33",
+      "type": "文本消息",
+      "str_content": "你们不用变",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745583576,
+      "formatted_time": "2025-04-25 20:19:36",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745583581,
+      "formatted_time": "2025-04-25 20:19:41",
+      "type": "文本消息",
+      "str_content": "先去九寨沟？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745583605,
+      "formatted_time": "2025-04-25 20:20:05",
+      "type": "文本消息",
+      "str_content": "也可以其实",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745583611,
+      "formatted_time": "2025-04-25 20:20:11",
+      "type": "引用消息",
+      "str_content": "纯抄袭",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745583619,
+      "formatted_time": "2025-04-25 20:20:19",
+      "type": "文本消息",
+      "str_content": "可以哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745583624,
+      "formatted_time": "2025-04-25 20:20:24",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745583632,
+      "formatted_time": "2025-04-25 20:20:32",
+      "type": "文本消息",
+      "str_content": "正好咱们可以自驾两天",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745583637,
+      "formatted_time": "2025-04-25 20:20:37",
+      "type": "文本消息",
+      "str_content": "行",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745583646,
+      "formatted_time": "2025-04-25 20:20:46",
+      "type": "文本消息",
+      "str_content": "1号下午才去川西呢",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745583647,
+      "formatted_time": "2025-04-25 20:20:47",
+      "type": "文本消息",
+      "str_content": "那我现在把酒店入住改一下",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745583650,
+      "formatted_time": "2025-04-25 20:20:50",
+      "type": "文本消息",
+      "str_content": "时间还足够",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745583654,
+      "formatted_time": "2025-04-25 20:20:54",
+      "type": "文本消息",
+      "str_content": "嗯嗯行",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745583656,
+      "formatted_time": "2025-04-25 20:20:56",
+      "type": "文本消息",
+      "str_content": "可以可以",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745583662,
+      "formatted_time": "2025-04-25 20:21:02",
+      "type": "文本消息",
+      "str_content": "~",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745583671,
+      "formatted_time": "2025-04-25 20:21:11",
+      "type": "文本消息",
+      "str_content": "@奇怪 那你把门票也要改一改",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745583722,
+      "formatted_time": "2025-04-25 20:22:02",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745583878,
+      "formatted_time": "2025-04-25 20:24:38",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745583881,
+      "formatted_time": "2025-04-25 20:24:41",
+      "type": "文本消息",
+      "str_content": "改了改了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745583936,
+      "formatted_time": "2025-04-25 20:25:36",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745584225,
+      "formatted_time": "2025-04-25 20:30:25",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745584233,
+      "formatted_time": "2025-04-25 20:30:33",
+      "type": "文本消息",
+      "str_content": "九寨沟的酒店也改了一下",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745584379,
+      "formatted_time": "2025-04-25 20:32:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745584385,
+      "formatted_time": "2025-04-25 20:33:05",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745584390,
+      "formatted_time": "2025-04-25 20:33:10",
+      "type": "文本消息",
+      "str_content": "还有那个门票记得退一下嗷",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745584398,
+      "formatted_time": "2025-04-25 20:33:18",
+      "type": "文本消息",
+      "str_content": "好滴",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745584846,
+      "formatted_time": "2025-04-25 20:40:46",
+      "type": "文本消息",
+      "str_content": "给各位添麻烦了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745584847,
+      "formatted_time": "2025-04-25 20:40:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745584872,
+      "formatted_time": "2025-04-25 20:41:12",
+      "type": "文本消息",
+      "str_content": "没事滴",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745584957,
+      "formatted_time": "2025-04-25 20:42:37",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745585086,
+      "formatted_time": "2025-04-25 20:44:46",
+      "type": "文本消息",
+      "str_content": "你俩飞速研究出了新方案厉害得很[机智]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745585109,
+      "formatted_time": "2025-04-25 20:45:09",
+      "type": "文本消息",
+      "str_content": "就是你俩还得改签又得提前来",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745585112,
+      "formatted_time": "2025-04-25 20:45:12",
+      "type": "文本消息",
+      "str_content": "嘿嘿徐昂也是纯抄袭我的智慧[坏笑][坏笑][坏笑]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745585120,
+      "formatted_time": "2025-04-25 20:45:20",
+      "type": "文本消息",
+      "str_content": "哈哈哈辛苦你俩了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745585124,
+      "formatted_time": "2025-04-25 20:45:24",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745585125,
+      "formatted_time": "2025-04-25 20:45:25",
+      "type": "文本消息",
+      "str_content": "没事滴正好我爸也改时间过来了",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745585127,
+      "formatted_time": "2025-04-25 20:45:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745585144,
+      "formatted_time": "2025-04-25 20:45:44",
+      "type": "文本消息",
+      "str_content": "你凭自己下辈子都想不到可以提前来吧~[偷笑]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745585159,
+      "formatted_time": "2025-04-25 20:45:59",
+      "type": "文本消息",
+      "str_content": "hhh没事，正好给了我一个不上班的理由",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745585166,
+      "formatted_time": "2025-04-25 20:46:06",
+      "type": "文本消息",
+      "str_content": "那你别抄袭我的方案啊[捂脸][捂脸][捂脸]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745585179,
+      "formatted_time": "2025-04-25 20:46:19",
+      "type": "文本消息",
+      "str_content": "你这顶多算是战术",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745585181,
+      "formatted_time": "2025-04-25 20:46:21",
+      "type": "文本消息",
+      "str_content": "我这是战略",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745585232,
+      "formatted_time": "2025-04-25 20:47:12",
+      "type": "文本消息",
+      "str_content": "我再说一遍，别管战术战略，能想出来的能够被实践的点子就是好点子",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745585241,
+      "formatted_time": "2025-04-25 20:47:21",
+      "type": "文本消息",
+      "str_content": "你少抄作业了脑子生锈了都",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745585354,
+      "formatted_time": "2025-04-25 20:49:14",
+      "type": "引用消息",
+      "str_content": "哈哈哈哈我同意投你一票🙋",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745585362,
+      "formatted_time": "2025-04-25 20:49:22",
+      "type": "文本消息",
+      "str_content": "[呲牙][呲牙][呲牙]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745721475,
+      "formatted_time": "2025-04-27 10:37:55",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745721492,
+      "formatted_time": "2025-04-27 10:38:12",
+      "type": "文本消息",
+      "str_content": "来的时候记得带点保暖的衣服，这时候高原晚上应该挺冷",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745721535,
+      "formatted_time": "2025-04-27 10:38:55",
+      "type": "文本消息",
+      "str_content": "这么冷吗[发呆]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745721774,
+      "formatted_time": "2025-04-27 10:42:54",
+      "type": "文本消息",
+      "str_content": "上次我去的时候，七月份，晚上要电热毯的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745721786,
+      "formatted_time": "2025-04-27 10:43:06",
+      "type": "文本消息",
+      "str_content": "不过这次可能不去海拔这么高的地方？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745722371,
+      "formatted_time": "2025-04-27 10:52:51",
+      "type": "文本消息",
+      "str_content": "那我得带上我的秋裤了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745751491,
+      "formatted_time": "2025-04-27 18:58:11",
+      "type": "视频消息",
+      "str_content": "[视频消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1745751502,
+      "formatted_time": "2025-04-27 18:58:22",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1745751510,
+      "formatted_time": "2025-04-27 18:58:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745752070,
+      "formatted_time": "2025-04-27 19:07:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745753955,
+      "formatted_time": "2025-04-27 19:39:15",
+      "type": "文本消息",
+      "str_content": "明天见[强][强]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745753985,
+      "formatted_time": "2025-04-27 19:39:45",
+      "type": "文本消息",
+      "str_content": "我们是后天要用车的话，这个租车是什么时候准备呀，你这边有经验吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745753999,
+      "formatted_time": "2025-04-27 19:39:59",
+      "type": "文本消息",
+      "str_content": "我来吧",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745754782,
+      "formatted_time": "2025-04-27 19:53:02",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745754786,
+      "formatted_time": "2025-04-27 19:53:06",
+      "type": "文本消息",
+      "str_content": "我有心无力",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745810949,
+      "formatted_time": "2025-04-28 11:29:09",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745810972,
+      "formatted_time": "2025-04-28 11:29:32",
+      "type": "文本消息",
+      "str_content": "我们好像预计到达时间是一样的，到时候可以先去放行李，然后一块去吃个饭",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745812058,
+      "formatted_time": "2025-04-28 11:47:38",
+      "type": "文本消息",
+      "str_content": "我们也20:28到",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745812135,
+      "formatted_time": "2025-04-28 11:48:55",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745812841,
+      "formatted_time": "2025-04-28 12:00:41",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745813159,
+      "formatted_time": "2025-04-28 12:05:59",
+      "type": "文本消息",
+      "str_content": "咱们是不是明天去九寨沟",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745813176,
+      "formatted_time": "2025-04-28 12:06:16",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745813176,
+      "formatted_time": "2025-04-28 12:06:16",
+      "type": "文本消息",
+      "str_content": "后天是回成都吗",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745813182,
+      "formatted_time": "2025-04-28 12:06:22",
+      "type": "文本消息",
+      "str_content": "把人拍的很白哈",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745813186,
+      "formatted_time": "2025-04-28 12:06:26",
+      "type": "引用消息",
+      "str_content": "对的",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745813359,
+      "formatted_time": "2025-04-28 12:09:19",
+      "type": "文本消息",
+      "str_content": "你们想坐啥车",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745813585,
+      "formatted_time": "2025-04-28 12:13:05",
+      "type": "文本消息",
+      "str_content": "你看着来，俺也不懂[破涕为笑]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745814429,
+      "formatted_time": "2025-04-28 12:27:09",
+      "type": "文本消息",
+      "str_content": "你们支付宝芝麻信用多少分呀",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745814483,
+      "formatted_time": "2025-04-28 12:28:03",
+      "type": "文本消息",
+      "str_content": "604",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745814491,
+      "formatted_time": "2025-04-28 12:28:11",
+      "type": "文本消息",
+      "str_content": "602",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745814512,
+      "formatted_time": "2025-04-28 12:28:32",
+      "type": "文本消息",
+      "str_content": "好吧",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745817449,
+      "formatted_time": "2025-04-28 13:17:29",
+      "type": "文本消息",
+      "str_content": "咱们九寨沟定的哪个酒店呀",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745817774,
+      "formatted_time": "2025-04-28 13:22:54",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745817776,
+      "formatted_time": "2025-04-28 13:22:56",
+      "type": "文本消息",
+      "str_content": "这个这个",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745817785,
+      "formatted_time": "2025-04-28 13:23:05",
+      "type": "文本消息",
+      "str_content": "多少钱订的啊",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745818399,
+      "formatted_time": "2025-04-28 13:33:19",
+      "type": "文本消息",
+      "str_content": "两间九百差不多",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745818415,
+      "formatted_time": "2025-04-28 13:33:35",
+      "type": "文本消息",
+      "str_content": "嗷嗷",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745818442,
+      "formatted_time": "2025-04-28 13:34:02",
+      "type": "文本消息",
+      "str_content": "我联系租车的了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745818452,
+      "formatted_time": "2025-04-28 13:34:12",
+      "type": "文本消息",
+      "str_content": "今晚把车送来吧",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745818474,
+      "formatted_time": "2025-04-28 13:34:34",
+      "type": "文本消息",
+      "str_content": "因为咱们从成都到九寨沟要开六个小时呢",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745818557,
+      "formatted_time": "2025-04-28 13:35:57",
+      "type": "文本消息",
+      "str_content": "我去",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745818599,
+      "formatted_time": "2025-04-28 13:36:39",
+      "type": "文本消息",
+      "str_content": "这么夸张",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745818606,
+      "formatted_time": "2025-04-28 13:36:46",
+      "type": "文本消息",
+      "str_content": "那也别出发太早，反正玩两天",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745818610,
+      "formatted_time": "2025-04-28 13:36:50",
+      "type": "文本消息",
+      "str_content": "边走边看",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745818612,
+      "formatted_time": "2025-04-28 13:36:52",
+      "type": "文本消息",
+      "str_content": "没必要太赶",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745818623,
+      "formatted_time": "2025-04-28 13:37:03",
+      "type": "文本消息",
+      "str_content": "明天六七点的？",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745818635,
+      "formatted_time": "2025-04-28 13:37:15",
+      "type": "文本消息",
+      "str_content": "还是再议",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745818700,
+      "formatted_time": "2025-04-28 13:38:20",
+      "type": "文本消息",
+      "str_content": "今天把车送到酒店？",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745818734,
+      "formatted_time": "2025-04-28 13:38:54",
+      "type": "文本消息",
+      "str_content": "这时间也太长了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745818740,
+      "formatted_time": "2025-04-28 13:39:00",
+      "type": "文本消息",
+      "str_content": "你觉得是开车好还是高铁",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745818774,
+      "formatted_time": "2025-04-28 13:39:34",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745818780,
+      "formatted_time": "2025-04-28 13:39:40",
+      "type": "文本消息",
+      "str_content": "高铁才俩小时[捂脸]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745818888,
+      "formatted_time": "2025-04-28 13:41:28",
+      "type": "文本消息",
+      "str_content": "高铁+接驳车",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745819271,
+      "formatted_time": "2025-04-28 13:47:51",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1745819281,
+      "formatted_time": "2025-04-28 13:48:01",
+      "type": "文本消息",
+      "str_content": "景区14点停止入园",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745819296,
+      "formatted_time": "2025-04-28 13:48:16",
+      "type": "文本消息",
+      "str_content": "我看一下",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745819551,
+      "formatted_time": "2025-04-28 13:52:31",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745819552,
+      "formatted_time": "2025-04-28 13:52:32",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745819553,
+      "formatted_time": "2025-04-28 13:52:33",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745819557,
+      "formatted_time": "2025-04-28 13:52:37",
+      "type": "文本消息",
+      "str_content": "我看只有这三个合适",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745819699,
+      "formatted_time": "2025-04-28 13:54:59",
+      "type": "引用消息",
+      "str_content": "第二个貌似最后不是去九寨沟",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745819716,
+      "formatted_time": "2025-04-28 13:55:16",
+      "type": "文本消息",
+      "str_content": "13 感觉1好一点",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745819724,
+      "formatted_time": "2025-04-28 13:55:24",
+      "type": "文本消息",
+      "str_content": "主要还是看你？毕竟你是司机[捂脸]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745819776,
+      "formatted_time": "2025-04-28 13:56:16",
+      "type": "文本消息",
+      "str_content": "去看一下攻略",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745819990,
+      "formatted_time": "2025-04-28 13:59:50",
+      "type": "文本消息",
+      "str_content": "我觉得第一天可能来不及",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745820036,
+      "formatted_time": "2025-04-28 14:00:36",
+      "type": "文本消息",
+      "str_content": "车上信号不好",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745820043,
+      "formatted_time": "2025-04-28 14:00:43",
+      "type": "文本消息",
+      "str_content": "15265727175",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745820045,
+      "formatted_time": "2025-04-28 14:00:45",
+      "type": "文本消息",
+      "str_content": "打电话",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745820258,
+      "formatted_time": "2025-04-28 14:04:18",
+      "type": "文本消息",
+      "str_content": "那就把车送到酒店？",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745820270,
+      "formatted_time": "2025-04-28 14:04:30",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745820359,
+      "formatted_time": "2025-04-28 14:05:59",
+      "type": "文本消息",
+      "str_content": "[OK]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745820412,
+      "formatted_time": "2025-04-28 14:06:52",
+      "type": "文本消息",
+      "str_content": "应该有票可改吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745820423,
+      "formatted_time": "2025-04-28 14:07:03",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745820435,
+      "formatted_time": "2025-04-28 14:07:15",
+      "type": "文本消息",
+      "str_content": "这个时间可以吧",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745820442,
+      "formatted_time": "2025-04-28 14:07:22",
+      "type": "文本消息",
+      "str_content": "可以可以",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745820444,
+      "formatted_time": "2025-04-28 14:07:24",
+      "type": "文本消息",
+      "str_content": "辛苦啦",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745820449,
+      "formatted_time": "2025-04-28 14:07:29",
+      "type": "文本消息",
+      "str_content": "没想到花七个小时。。",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745820474,
+      "formatted_time": "2025-04-28 14:07:54",
+      "type": "文本消息",
+      "str_content": "[OK]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745820553,
+      "formatted_time": "2025-04-28 14:09:13",
+      "type": "文本消息",
+      "str_content": "一路走一路看呗",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745820557,
+      "formatted_time": "2025-04-28 14:09:17",
+      "type": "文本消息",
+      "str_content": "路上的风景也不错",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745820573,
+      "formatted_time": "2025-04-28 14:09:33",
+      "type": "文本消息",
+      "str_content": "蜀道难~",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745820753,
+      "formatted_time": "2025-04-28 14:12:33",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745829330,
+      "formatted_time": "2025-04-28 16:35:30",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745829332,
+      "formatted_time": "2025-04-28 16:35:32",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745829357,
+      "formatted_time": "2025-04-28 16:35:57",
+      "type": "文本消息",
+      "str_content": "我们被拦住了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745829362,
+      "formatted_time": "2025-04-28 16:36:02",
+      "type": "文本消息",
+      "str_content": "我去",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745829378,
+      "formatted_time": "2025-04-28 16:36:18",
+      "type": "文本消息",
+      "str_content": "我天",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745829378,
+      "formatted_time": "2025-04-28 16:36:18",
+      "type": "文本消息",
+      "str_content": "耽误了两个小时了已经",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745830813,
+      "formatted_time": "2025-04-28 17:00:13",
+      "type": "文本消息",
+      "str_content": "现在开了没？有啥消息不",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745830856,
+      "formatted_time": "2025-04-28 17:00:56",
+      "type": "文本消息",
+      "str_content": "晚点两个小时",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745830857,
+      "formatted_time": "2025-04-28 17:00:57",
+      "type": "文本消息",
+      "str_content": "应该没事了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745830860,
+      "formatted_time": "2025-04-28 17:01:00",
+      "type": "文本消息",
+      "str_content": "你俩来接我们吧开车",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745830862,
+      "formatted_time": "2025-04-28 17:01:02",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745830876,
+      "formatted_time": "2025-04-28 17:01:16",
+      "type": "文本消息",
+      "str_content": "两个人凑不出一本驾照🪪",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745830879,
+      "formatted_time": "2025-04-28 17:01:19",
+      "type": "文本消息",
+      "str_content": "没问题",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745830879,
+      "formatted_time": "2025-04-28 17:01:19",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745830897,
+      "formatted_time": "2025-04-28 17:01:37",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745834767,
+      "formatted_time": "2025-04-28 18:06:07",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745834775,
+      "formatted_time": "2025-04-28 18:06:15",
+      "type": "文本消息",
+      "str_content": "咱们要不要换酒店",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745834853,
+      "formatted_time": "2025-04-28 18:07:33",
+      "type": "文本消息",
+      "str_content": "没事，我感觉应该都差不多，定都定了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745834994,
+      "formatted_time": "2025-04-28 18:09:54",
+      "type": "文本消息",
+      "str_content": "行",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745842868,
+      "formatted_time": "2025-04-28 20:21:08",
+      "type": "文本消息",
+      "str_content": "你们晚上吃饭了么",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745843220,
+      "formatted_time": "2025-04-28 20:27:00",
+      "type": "文本消息",
+      "str_content": "没吃呢",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745843233,
+      "formatted_time": "2025-04-28 20:27:13",
+      "type": "文本消息",
+      "str_content": "我们得晚点到",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745843239,
+      "formatted_time": "2025-04-28 20:27:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745843242,
+      "formatted_time": "2025-04-28 20:27:22",
+      "type": "文本消息",
+      "str_content": "你们是计划啥时候到",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745843305,
+      "formatted_time": "2025-04-28 20:28:25",
+      "type": "文本消息",
+      "str_content": "我们计划不了啊[流泪]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745843313,
+      "formatted_time": "2025-04-28 20:28:33",
+      "type": "文本消息",
+      "str_content": "晚点了三小时四十分钟",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745843372,
+      "formatted_time": "2025-04-28 20:29:32",
+      "type": "文本消息",
+      "str_content": "那等你们到成都一起去吃个火锅啥的？",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745843400,
+      "formatted_time": "2025-04-28 20:30:00",
+      "type": "文本消息",
+      "str_content": "你们先吃也可以 我觉得我们吃不了了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745843415,
+      "formatted_time": "2025-04-28 20:30:15",
+      "type": "文本消息",
+      "str_content": "得接近12点才能到吧",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745843415,
+      "formatted_time": "2025-04-28 20:30:15",
+      "type": "文本消息",
+      "str_content": "哦哦好",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745843416,
+      "formatted_time": "2025-04-28 20:30:16",
+      "type": "文本消息",
+      "str_content": "我们很可能得十二点多",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745843443,
+      "formatted_time": "2025-04-28 20:30:43",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745843486,
+      "formatted_time": "2025-04-28 20:31:26",
+      "type": "文本消息",
+      "str_content": "哦哦行",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745843487,
+      "formatted_time": "2025-04-28 20:31:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745845860,
+      "formatted_time": "2025-04-28 21:11:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745845891,
+      "formatted_time": "2025-04-28 21:11:31",
+      "type": "文本消息",
+      "str_content": "你们现在过德阳了吗",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745845932,
+      "formatted_time": "2025-04-28 21:12:12",
+      "type": "文本消息",
+      "str_content": "我看一下哈",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846076,
+      "formatted_time": "2025-04-28 21:14:36",
+      "type": "文本消息",
+      "str_content": "刚问了乘务员",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846084,
+      "formatted_time": "2025-04-28 21:14:44",
+      "type": "文本消息",
+      "str_content": "12点前到",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846102,
+      "formatted_time": "2025-04-28 21:15:02",
+      "type": "文本消息",
+      "str_content": "我们还没到绵阳呢",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846134,
+      "formatted_time": "2025-04-28 21:15:34",
+      "type": "文本消息",
+      "str_content": "行",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745846144,
+      "formatted_time": "2025-04-28 21:15:44",
+      "type": "文本消息",
+      "str_content": "这12306准确性也一般般",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745846146,
+      "formatted_time": "2025-04-28 21:15:46",
+      "type": "文本消息",
+      "str_content": "估计你们到了之后，地铁都关了，到时候直接打车过来吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745846216,
+      "formatted_time": "2025-04-28 21:16:56",
+      "type": "文本消息",
+      "str_content": "你们有什么想吃的吗？先到时候提前给你们点好外卖，我们俩快到酒店了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745846235,
+      "formatted_time": "2025-04-28 21:17:15",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846239,
+      "formatted_time": "2025-04-28 21:17:19",
+      "type": "文本消息",
+      "str_content": "咱们的车应该是这个颜色的",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846255,
+      "formatted_time": "2025-04-28 21:17:35",
+      "type": "文本消息",
+      "str_content": "我俩直接让他们把车送过来 开车回酒店吧",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846259,
+      "formatted_time": "2025-04-28 21:17:39",
+      "type": "文本消息",
+      "str_content": "你租的坦克吗？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745846261,
+      "formatted_time": "2025-04-28 21:17:41",
+      "type": "文本消息",
+      "str_content": "卧槽",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745846266,
+      "formatted_time": "2025-04-28 21:17:46",
+      "type": "文本消息",
+      "str_content": "地铁肯定关了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846268,
+      "formatted_time": "2025-04-28 21:17:48",
+      "type": "文本消息",
+      "str_content": "坦克啊",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846270,
+      "formatted_time": "2025-04-28 21:17:50",
+      "type": "文本消息",
+      "str_content": "咋了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846281,
+      "formatted_time": "2025-04-28 21:18:01",
+      "type": "文本消息",
+      "str_content": "这日子不过啦？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745846286,
+      "formatted_time": "2025-04-28 21:18:06",
+      "type": "文本消息",
+      "str_content": "不过那个租车公司没500了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846288,
+      "formatted_time": "2025-04-28 21:18:08",
+      "type": "文本消息",
+      "str_content": "只有300",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846295,
+      "formatted_time": "2025-04-28 21:18:15",
+      "type": "文本消息",
+      "str_content": "也没有多贵",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846302,
+      "formatted_time": "2025-04-28 21:18:22",
+      "type": "文本消息",
+      "str_content": "徐昂你个纯学人精…",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745846309,
+      "formatted_time": "2025-04-28 21:18:29",
+      "type": "文本消息",
+      "str_content": "可能就是油耗高一点",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846311,
+      "formatted_time": "2025-04-28 21:18:31",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846438,
+      "formatted_time": "2025-04-28 21:20:38",
+      "type": "文本消息",
+      "str_content": "本来想要黑色的",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846449,
+      "formatted_time": "2025-04-28 21:20:49",
+      "type": "文本消息",
+      "str_content": "但是我忘记跟她说了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846485,
+      "formatted_time": "2025-04-28 21:21:25",
+      "type": "文本消息",
+      "str_content": "工作人员已经把车开回来准备给我送了 就开了个这个颜色",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745846496,
+      "formatted_time": "2025-04-28 21:21:36",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745846550,
+      "formatted_time": "2025-04-28 21:22:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745847830,
+      "formatted_time": "2025-04-28 21:43:50",
+      "type": "文本消息",
+      "str_content": "酒店院子里可以停车",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745847852,
+      "formatted_time": "2025-04-28 21:44:12",
+      "type": "文本消息",
+      "str_content": "[OK]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745847862,
+      "formatted_time": "2025-04-28 21:44:22",
+      "type": "文本消息",
+      "str_content": "你们先休息吧",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745847902,
+      "formatted_time": "2025-04-28 21:45:02",
+      "type": "文本消息",
+      "str_content": "没事，我俩还不太累，准备就近找家火锅吃，你们啥时候到可以提前点个外卖啊",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745847952,
+      "formatted_time": "2025-04-28 21:45:52",
+      "type": "文本消息",
+      "str_content": "预计12点",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745848664,
+      "formatted_time": "2025-04-28 21:57:44",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745848670,
+      "formatted_time": "2025-04-28 21:57:50",
+      "type": "文本消息",
+      "str_content": "在楼下找了家火锅吃",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745848691,
+      "formatted_time": "2025-04-28 21:58:11",
+      "type": "文本消息",
+      "str_content": "[勾引][勾引]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745848697,
+      "formatted_time": "2025-04-28 21:58:17",
+      "type": "文本消息",
+      "str_content": "我敲！",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745848700,
+      "formatted_time": "2025-04-28 21:58:20",
+      "type": "文本消息",
+      "str_content": "这么辣",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745848703,
+      "formatted_time": "2025-04-28 21:58:23",
+      "type": "文本消息",
+      "str_content": "我们掉头回家了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745848704,
+      "formatted_time": "2025-04-28 21:58:24",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745848708,
+      "formatted_time": "2025-04-28 21:58:28",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745848756,
+      "formatted_time": "2025-04-28 21:59:16",
+      "type": "文本消息",
+      "str_content": "我要开个飞机过去了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745848765,
+      "formatted_time": "2025-04-28 21:59:25",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745853909,
+      "formatted_time": "2025-04-28 23:25:09",
+      "type": "文本消息",
+      "str_content": "我们终于下车了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745853921,
+      "formatted_time": "2025-04-28 23:25:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745853936,
+      "formatted_time": "2025-04-28 23:25:36",
+      "type": "文本消息",
+      "str_content": "好好好",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745853938,
+      "formatted_time": "2025-04-28 23:25:38",
+      "type": "文本消息",
+      "str_content": "快打车来",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745853943,
+      "formatted_time": "2025-04-28 23:25:43",
+      "type": "文本消息",
+      "str_content": "我们俩还没吃完",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745853955,
+      "formatted_time": "2025-04-28 23:25:55",
+      "type": "文本消息",
+      "str_content": "要不来简单凑合吃下",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745853962,
+      "formatted_time": "2025-04-28 23:26:02",
+      "type": "文本消息",
+      "str_content": "还没吃完啊",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745853983,
+      "formatted_time": "2025-04-28 23:26:23",
+      "type": "文本消息",
+      "str_content": "吃着喝着呢，反正平时睡得也晚",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745854111,
+      "formatted_time": "2025-04-28 23:28:31",
+      "type": "位置消息",
+      "str_content": "[位置消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745854121,
+      "formatted_time": "2025-04-28 23:28:41",
+      "type": "文本消息",
+      "str_content": "我们现在去开车了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745854129,
+      "formatted_time": "2025-04-28 23:28:49",
+      "type": "文本消息",
+      "str_content": "可能还得半个小时左右吧",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745854250,
+      "formatted_time": "2025-04-28 23:30:50",
+      "type": "文本消息",
+      "str_content": "等你们过来了我重新让他们上个锅底，点点菜和酒",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745854254,
+      "formatted_time": "2025-04-28 23:30:54",
+      "type": "文本消息",
+      "str_content": "解解乏",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745854262,
+      "formatted_time": "2025-04-28 23:31:02",
+      "type": "文本消息",
+      "str_content": "你们这够舟车劳顿的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745854285,
+      "formatted_time": "2025-04-28 23:31:25",
+      "type": "文本消息",
+      "str_content": "我们到的时候人家不会下班吧哈哈",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745854296,
+      "formatted_time": "2025-04-28 23:31:36",
+      "type": "文本消息",
+      "str_content": "不会不会，到凌晨两点呢",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745854486,
+      "formatted_time": "2025-04-28 23:34:46",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745854492,
+      "formatted_time": "2025-04-28 23:34:52",
+      "type": "文本消息",
+      "str_content": "我们出发了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745854563,
+      "formatted_time": "2025-04-28 23:36:03",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745855525,
+      "formatted_time": "2025-04-28 23:52:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745855529,
+      "formatted_time": "2025-04-28 23:52:09",
+      "type": "文本消息",
+      "str_content": "给你们预备好了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745855540,
+      "formatted_time": "2025-04-28 23:52:20",
+      "type": "文本消息",
+      "str_content": "到时候直接开到院子里就来旁边这家吃哈",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745855542,
+      "formatted_time": "2025-04-28 23:52:22",
+      "type": "文本消息",
+      "str_content": "两步路",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745855544,
+      "formatted_time": "2025-04-28 23:52:24",
+      "type": "文本消息",
+      "str_content": "饿坏了吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745855988,
+      "formatted_time": "2025-04-28 23:59:48",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745856011,
+      "formatted_time": "2025-04-29 00:00:11",
+      "type": "文本消息",
+      "str_content": "我们可能还得一会呢",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745856047,
+      "formatted_time": "2025-04-29 00:00:47",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745856050,
+      "formatted_time": "2025-04-29 00:00:50",
+      "type": "文本消息",
+      "str_content": "这个车可大了！",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745856207,
+      "formatted_time": "2025-04-29 00:03:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745862972,
+      "formatted_time": "2025-04-29 01:56:12",
+      "type": "文本消息",
+      "str_content": "那咱明天大概十点多起床大厅见吧？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745862978,
+      "formatted_time": "2025-04-29 01:56:18",
+      "type": "文本消息",
+      "str_content": "到时候看看中午怎么安排",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745862984,
+      "formatted_time": "2025-04-29 01:56:24",
+      "type": "文本消息",
+      "str_content": "OK",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745862987,
+      "formatted_time": "2025-04-29 01:56:27",
+      "type": "文本消息",
+      "str_content": "睡到自然醒",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745891342,
+      "formatted_time": "2025-04-29 09:49:02",
+      "type": "文本消息",
+      "str_content": "我准备出去买咖啡",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745891354,
+      "formatted_time": "2025-04-29 09:49:14",
+      "type": "文本消息",
+      "str_content": "你们有啥想喝的瑞幸不",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745891607,
+      "formatted_time": "2025-04-29 09:53:27",
+      "type": "文本消息",
+      "str_content": "徐傲说他要喝星巴克🤡",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745891620,
+      "formatted_time": "2025-04-29 09:53:40",
+      "type": "文本消息",
+      "str_content": "？？？？？",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745891667,
+      "formatted_time": "2025-04-29 09:54:27",
+      "type": "文本消息",
+      "str_content": "我就怕你们搞这奢侈的，俺买不起的，我还专门限定的瑞幸",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745891693,
+      "formatted_time": "2025-04-29 09:54:53",
+      "type": "文本消息",
+      "str_content": "我就爱喝瑞幸！",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745891779,
+      "formatted_time": "2025-04-29 09:56:19",
+      "type": "文本消息",
+      "str_content": "那整个啥",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745891782,
+      "formatted_time": "2025-04-29 09:56:22",
+      "type": "文本消息",
+      "str_content": "生椰吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745891802,
+      "formatted_time": "2025-04-29 09:56:42",
+      "type": "文本消息",
+      "str_content": "行",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745891869,
+      "formatted_time": "2025-04-29 09:57:49",
+      "type": "文本消息",
+      "str_content": "🙋我喝橙c美式🙋",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745891887,
+      "formatted_time": "2025-04-29 09:58:07",
+      "type": "引用消息",
+      "str_content": "有品[强][强]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745891954,
+      "formatted_time": "2025-04-29 09:59:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745891957,
+      "formatted_time": "2025-04-29 09:59:17",
+      "type": "文本消息",
+      "str_content": "我喝小黄油",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745892266,
+      "formatted_time": "2025-04-29 10:04:26",
+      "type": "文本消息",
+      "str_content": "你们打算啥时候出门",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745892276,
+      "formatted_time": "2025-04-29 10:04:36",
+      "type": "文本消息",
+      "str_content": "啥时候洗漱的差不多",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745892356,
+      "formatted_time": "2025-04-29 10:05:56",
+      "type": "文本消息",
+      "str_content": "头还有点疼呢",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745892356,
+      "formatted_time": "2025-04-29 10:05:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745892363,
+      "formatted_time": "2025-04-29 10:06:03",
+      "type": "文本消息",
+      "str_content": "怎么计划啊今天",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745892378,
+      "formatted_time": "2025-04-29 10:06:18",
+      "type": "文本消息",
+      "str_content": "你们晕车不",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745892408,
+      "formatted_time": "2025-04-29 10:06:48",
+      "type": "引用消息",
+      "str_content": "[发呆]这是没休息好吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745892419,
+      "formatted_time": "2025-04-29 10:06:59",
+      "type": "文本消息",
+      "str_content": "没事",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745892432,
+      "formatted_time": "2025-04-29 10:07:12",
+      "type": "文本消息",
+      "str_content": "我只晕武汉的网约车",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745892435,
+      "formatted_time": "2025-04-29 10:07:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745892659,
+      "formatted_time": "2025-04-29 10:10:59",
+      "type": "文本消息",
+      "str_content": "[OK]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745893895,
+      "formatted_time": "2025-04-29 10:31:35",
+      "type": "文本消息",
+      "str_content": "你俩的房间号是多少呀？也是在大堂对面的那一个楼上吗？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745893947,
+      "formatted_time": "2025-04-29 10:32:27",
+      "type": "文本消息",
+      "str_content": "我俩在205",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745896295,
+      "formatted_time": "2025-04-29 11:11:35",
+      "type": "文本消息",
+      "str_content": "你们那边怎么样了呀",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745897261,
+      "formatted_time": "2025-04-29 11:27:41",
+      "type": "文本消息",
+      "str_content": "带没带刮胡刀",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745897274,
+      "formatted_time": "2025-04-29 11:27:54",
+      "type": "文本消息",
+      "str_content": "🈚",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745897277,
+      "formatted_time": "2025-04-29 11:27:57",
+      "type": "文本消息",
+      "str_content": "我帮你问下汪奕彤",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745897281,
+      "formatted_time": "2025-04-29 11:28:01",
+      "type": "文本消息",
+      "str_content": "她也没带",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745897286,
+      "formatted_time": "2025-04-29 11:28:06",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745897312,
+      "formatted_time": "2025-04-29 11:28:32",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745897348,
+      "formatted_time": "2025-04-29 11:29:08",
+      "type": "文本消息",
+      "str_content": "咱们大厅集合吧",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745900804,
+      "formatted_time": "2025-04-29 12:26:44",
+      "type": "文本消息",
+      "str_content": "名      称：红海船务（枣庄）有限公司\n税      号：91370481MADCT6698Y\n地      址：山东省枣庄市滕州市荆河街道振兴北路689号金园7号楼331号\n电话号码：15265727175",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745926076,
+      "formatted_time": "2025-04-29 19:27:56",
+      "type": "文本消息",
+      "str_content": "吃饭去吧",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745926098,
+      "formatted_time": "2025-04-29 19:28:18",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745939676,
+      "formatted_time": "2025-04-29 23:14:36",
+      "type": "文本消息",
+      "str_content": "徐昂说明天七点二十要去敲你们的门[惊恐]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1745939707,
+      "formatted_time": "2025-04-29 23:15:07",
+      "type": "文本消息",
+      "str_content": "现在下楼要求前台换房间",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745939914,
+      "formatted_time": "2025-04-29 23:18:34",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745939947,
+      "formatted_time": "2025-04-29 23:19:07",
+      "type": "文本消息",
+      "str_content": "左线就看看五花池和长海得了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745939956,
+      "formatted_time": "2025-04-29 23:19:16",
+      "type": "文本消息",
+      "str_content": "主要看右线和下面",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745939973,
+      "formatted_time": "2025-04-29 23:19:33",
+      "type": "文本消息",
+      "str_content": "高原徒步10km怕是得走一天",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745940030,
+      "formatted_time": "2025-04-29 23:20:30",
+      "type": "文本消息",
+      "str_content": "还要徒步？",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745940105,
+      "formatted_time": "2025-04-29 23:21:45",
+      "type": "文本消息",
+      "str_content": "估计多少得走点",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745940171,
+      "formatted_time": "2025-04-29 23:22:51",
+      "type": "文本消息",
+      "str_content": "[OK]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745940212,
+      "formatted_time": "2025-04-29 23:23:32",
+      "type": "文本消息",
+      "str_content": "明天记得吃晕车药",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745940381,
+      "formatted_time": "2025-04-29 23:26:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745940417,
+      "formatted_time": "2025-04-29 23:26:57",
+      "type": "文本消息",
+      "str_content": "观光车应该不能再晕了[苦涩]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745940458,
+      "formatted_time": "2025-04-29 23:27:38",
+      "type": "文本消息",
+      "str_content": "明天一定要出片！",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745940464,
+      "formatted_time": "2025-04-29 23:27:44",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1745969232,
+      "formatted_time": "2025-04-30 07:27:12",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745969486,
+      "formatted_time": "2025-04-30 07:31:26",
+      "type": "文本消息",
+      "str_content": "你们起了吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745971361,
+      "formatted_time": "2025-04-30 08:02:41",
+      "type": "文本消息",
+      "str_content": "起了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1745985676,
+      "formatted_time": "2025-04-30 12:01:16",
+      "type": "文本消息",
+      "str_content": "你们找到了吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745986481,
+      "formatted_time": "2025-04-30 12:14:41",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745986488,
+      "formatted_time": "2025-04-30 12:14:48",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1745987127,
+      "formatted_time": "2025-04-30 12:25:27",
+      "type": "文本消息",
+      "str_content": "我俩逛到熊猫了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745987415,
+      "formatted_time": "2025-04-30 12:30:15",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745987427,
+      "formatted_time": "2025-04-30 12:30:27",
+      "type": "位置消息",
+      "str_content": "[位置消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1745993349,
+      "formatted_time": "2025-04-30 14:09:09",
+      "type": "文本消息",
+      "str_content": "左",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746013020,
+      "formatted_time": "2025-04-30 19:37:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1746013032,
+      "formatted_time": "2025-04-30 19:37:12",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1746013042,
+      "formatted_time": "2025-04-30 19:37:22",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1746013111,
+      "formatted_time": "2025-04-30 19:38:31",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746013116,
+      "formatted_time": "2025-04-30 19:38:36",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746013121,
+      "formatted_time": "2025-04-30 19:38:41",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746013156,
+      "formatted_time": "2025-04-30 19:39:16",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1746021241,
+      "formatted_time": "2025-04-30 21:54:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746021241,
+      "formatted_time": "2025-04-30 21:54:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746021241,
+      "formatted_time": "2025-04-30 21:54:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746021241,
+      "formatted_time": "2025-04-30 21:54:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746021241,
+      "formatted_time": "2025-04-30 21:54:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746021241,
+      "formatted_time": "2025-04-30 21:54:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746021241,
+      "formatted_time": "2025-04-30 21:54:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746021241,
+      "formatted_time": "2025-04-30 21:54:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746021327,
+      "formatted_time": "2025-04-30 21:55:27",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1746031176,
+      "formatted_time": "2025-05-01 00:39:36",
+      "type": "文本消息",
+      "str_content": "今天应该有热水",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746031431,
+      "formatted_time": "2025-05-01 00:43:51",
+      "type": "文本消息",
+      "str_content": "你们这要在车里等吗？还是怎么放一下他们来收车",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746031476,
+      "formatted_time": "2025-05-01 00:44:36",
+      "type": "文本消息",
+      "str_content": "明天十一点二十楼下那个潮汕牛肉火锅集合吧？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746035156,
+      "formatted_time": "2025-05-01 01:45:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1746035163,
+      "formatted_time": "2025-05-01 01:46:03",
+      "type": "文本消息",
+      "str_content": "他都已经睡着了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1746035175,
+      "formatted_time": "2025-05-01 01:46:15",
+      "type": "文本消息",
+      "str_content": "好好歇歇吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746035184,
+      "formatted_time": "2025-05-01 01:46:24",
+      "type": "文本消息",
+      "str_content": "我俩还饿了点了个外卖[捂脸]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746035276,
+      "formatted_time": "2025-05-01 01:47:56",
+      "type": "文本消息",
+      "str_content": "今天还不如昨天哈哈哈哈哈一顿正经饭都没[捂脸]",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1746035308,
+      "formatted_time": "2025-05-01 01:48:28",
+      "type": "文本消息",
+      "str_content": "对 今天一天要么路上要么在车上了",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1746035730,
+      "formatted_time": "2025-05-01 01:55:30",
+      "type": "文本消息",
+      "str_content": "素的！暴走两万步",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1746035742,
+      "formatted_time": "2025-05-01 01:55:42",
+      "type": "文本消息",
+      "str_content": "俺不中了",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1746035757,
+      "formatted_time": "2025-05-01 01:55:57",
+      "type": "文本消息",
+      "str_content": "俺也不中嘞",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1746068886,
+      "formatted_time": "2025-05-01 11:08:06",
+      "type": "文本消息",
+      "str_content": "起床没",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746068892,
+      "formatted_time": "2025-05-01 11:08:12",
+      "type": "文本消息",
+      "str_content": "中不中",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746076996,
+      "formatted_time": "2025-05-01 13:23:16",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746077019,
+      "formatted_time": "2025-05-01 13:23:39",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746077463,
+      "formatted_time": "2025-05-01 13:31:03",
+      "type": "文本消息",
+      "str_content": "就在门口哈，我俩到了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746155908,
+      "formatted_time": "2025-05-02 11:18:28",
+      "type": "文本消息",
+      "str_content": "起来没",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746155954,
+      "formatted_time": "2025-05-02 11:19:14",
+      "type": "文本消息",
+      "str_content": "醒了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746157812,
+      "formatted_time": "2025-05-02 11:50:12",
+      "type": "文本消息",
+      "str_content": "他们那边刚醒",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746157820,
+      "formatted_time": "2025-05-02 11:50:20",
+      "type": "文本消息",
+      "str_content": "咱分开吃饭逛逛吧？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746157823,
+      "formatted_time": "2025-05-02 11:50:23",
+      "type": "文本消息",
+      "str_content": "下午两点出发",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746157865,
+      "formatted_time": "2025-05-02 11:51:05",
+      "type": "文本消息",
+      "str_content": "[OK]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746158610,
+      "formatted_time": "2025-05-02 12:03:30",
+      "type": "文本消息",
+      "str_content": "外面冷不冷啊",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746158685,
+      "formatted_time": "2025-05-02 12:04:45",
+      "type": "文本消息",
+      "str_content": "不热",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746165647,
+      "formatted_time": "2025-05-02 14:00:47",
+      "type": "文本消息",
+      "str_content": "准备走吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746165653,
+      "formatted_time": "2025-05-02 14:00:53",
+      "type": "文本消息",
+      "str_content": "去停车场",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746199697,
+      "formatted_time": "2025-05-02 23:28:17",
+      "type": "文本消息",
+      "str_content": "明早是有早饭的，可以去吃，然后大概九点集合出发吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746199741,
+      "formatted_time": "2025-05-02 23:29:01",
+      "type": "文本消息",
+      "str_content": "可以可以",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746199814,
+      "formatted_time": "2025-05-02 23:30:14",
+      "type": "文本消息",
+      "str_content": "那个油钱回来跟你朋友算一下吧@A1theeeee",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746199821,
+      "formatted_time": "2025-05-02 23:30:21",
+      "type": "文本消息",
+      "str_content": "这两天确实麻烦他了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746199876,
+      "formatted_time": "2025-05-02 23:31:16",
+      "type": "文本消息",
+      "str_content": "嗯嗯行",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    },
+    {
+      "create_time": 1746234476,
+      "formatted_time": "2025-05-03 09:07:56",
+      "type": "文本消息",
+      "str_content": "走吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746234499,
+      "formatted_time": "2025-05-03 09:08:19",
+      "type": "文本消息",
+      "str_content": "咱们不退房吧",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1746234510,
+      "formatted_time": "2025-05-03 09:08:30",
+      "type": "文本消息",
+      "str_content": "不退",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746234601,
+      "formatted_time": "2025-05-03 09:10:01",
+      "type": "文本消息",
+      "str_content": "OK 那走吧",
+      "is_send": 0,
+      "sender_name": "宋文奇",
+      "sender_wxid": "wxid_tx4ut379z5yh22"
+    },
+    {
+      "create_time": 1746258438,
+      "formatted_time": "2025-05-03 15:47:18",
+      "type": "文本消息",
+      "str_content": "在哪呢",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746258479,
+      "formatted_time": "2025-05-03 15:47:59",
+      "type": "文本消息",
+      "str_content": "我俩在文创店",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746258482,
+      "formatted_time": "2025-05-03 15:48:02",
+      "type": "文本消息",
+      "str_content": "咱分着逛吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746258490,
+      "formatted_time": "2025-05-03 15:48:10",
+      "type": "文本消息",
+      "str_content": "OK",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746258493,
+      "formatted_time": "2025-05-03 15:48:13",
+      "type": "文本消息",
+      "str_content": "我们去二楼了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746258502,
+      "formatted_time": "2025-05-03 15:48:22",
+      "type": "文本消息",
+      "str_content": "到时候在还讲解器的地方集合",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746258510,
+      "formatted_time": "2025-05-03 15:48:30",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746261840,
+      "formatted_time": "2025-05-03 16:44:00",
+      "type": "文本消息",
+      "str_content": "你们逛的咋样了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746261868,
+      "formatted_time": "2025-05-03 16:44:28",
+      "type": "文本消息",
+      "str_content": "我们在负一",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746261875,
+      "formatted_time": "2025-05-03 16:44:35",
+      "type": "文本消息",
+      "str_content": "我俩也是",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746261880,
+      "formatted_time": "2025-05-03 16:44:40",
+      "type": "文本消息",
+      "str_content": "刚卡了卡章",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746261895,
+      "formatted_time": "2025-05-03 16:44:55",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746262004,
+      "formatted_time": "2025-05-03 16:46:44",
+      "type": "文本消息",
+      "str_content": "我们在文创店",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746262660,
+      "formatted_time": "2025-05-03 16:57:40",
+      "type": "文本消息",
+      "str_content": "我们上来了，在刚才借讲解器的地方集合吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746263198,
+      "formatted_time": "2025-05-03 17:06:38",
+      "type": "文本消息",
+      "str_content": "来了来了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746271590,
+      "formatted_time": "2025-05-03 19:26:30",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746276084,
+      "formatted_time": "2025-05-03 20:41:24",
+      "type": "位置消息",
+      "str_content": "[位置消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746276088,
+      "formatted_time": "2025-05-03 20:41:28",
+      "type": "文本消息",
+      "str_content": "其实是在这里",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746276090,
+      "formatted_time": "2025-05-03 20:41:30",
+      "type": "文本消息",
+      "str_content": "来这边吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746276094,
+      "formatted_time": "2025-05-03 20:41:34",
+      "type": "文本消息",
+      "str_content": "这附近有五六家",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1746276231,
+      "formatted_time": "2025-05-03 20:43:51",
+      "type": "文本消息",
+      "str_content": "[OK]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746311206,
+      "formatted_time": "2025-05-04 06:26:46",
+      "type": "文本消息",
+      "str_content": "走了走了",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1746311224,
+      "formatted_time": "2025-05-04 06:27:04",
+      "type": "视频消息",
+      "str_content": "[视频消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1746315555,
+      "formatted_time": "2025-05-04 07:39:15",
+      "type": "文本消息",
+      "str_content": "拜拜 一路顺风",
+      "is_send": 0,
+      "sender_name": "汪奕彤",
+      "sender_wxid": "wxid_fuyawo370wfw22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:25+08:00",
+  "message_count": 735
+}

@@ -1,0 +1,24 @@
+{
+  "session_id": "wxid_3os23e5lpkek12",
+  "session_name": "杰克学长留学求职@寒假实习预订中",
+  "messages": [
+    {
+      "create_time": 1684324196,
+      "formatted_time": "2023-05-17 19:49:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "杰克学长留学求职@寒假实习预订中"
+    },
+    {
+      "create_time": 1684324237,
+      "formatted_time": "2023-05-17 19:50:37",
+      "type": "文本消息",
+      "str_content": "您好，请问求职信息是怎么查询呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 2
+}

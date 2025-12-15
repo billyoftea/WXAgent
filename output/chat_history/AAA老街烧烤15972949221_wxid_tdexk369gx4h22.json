@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_tdexk369gx4h22",
+  "session_name": "AAA老街烧烤15972949221",
+  "messages": [
+    {
+      "create_time": 1714294829,
+      "formatted_time": "2024-04-28 17:00:29",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "AAA老街烧烤15972949221"
+    },
+    {
+      "create_time": 1714561543,
+      "formatted_time": "2024-05-01 19:05:43",
+      "type": "文本消息",
+      "str_content": "10串肉筋\n10串瘦肉串\n10串羊肉\n5串鸡皮\n老板帮我烤下哈，十点钟去拿，打包",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1714571381,
+      "formatted_time": "2024-05-01 21:49:41",
+      "type": "文本消息",
+      "str_content": "到店点了[呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:30+08:00",
+  "message_count": 3
+}

@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_aierf3lr4lo712",
+  "session_name": "许茹怡",
+  "messages": [
+    {
+      "create_time": 1662604093,
+      "formatted_time": "2022-09-08 10:28:13",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "许茹怡"
+    },
+    {
+      "create_time": 1662604138,
+      "formatted_time": "2022-09-08 10:28:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1662604178,
+      "formatted_time": "2022-09-08 10:29:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "许茹怡"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:44+08:00",
+  "message_count": 3
+}

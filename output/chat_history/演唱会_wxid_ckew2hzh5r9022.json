@@ -1,0 +1,64 @@
+{
+  "session_id": "wxid_ckew2hzh5r9022",
+  "session_name": "演唱会",
+  "messages": [
+    {
+      "create_time": 1708846328,
+      "formatted_time": "2024-02-25 15:32:08",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "演唱会"
+    },
+    {
+      "create_time": 1708846359,
+      "formatted_time": "2024-02-25 15:32:39",
+      "type": "文本消息",
+      "str_content": "问价 武汉陶喆任意一场 680或者380 两张连号",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708846442,
+      "formatted_time": "2024-02-25 15:34:02",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "演唱会"
+    },
+    {
+      "create_time": 1708846451,
+      "formatted_time": "2024-02-25 15:34:11",
+      "type": "文本消息",
+      "str_content": "售价➕50",
+      "is_send": 0,
+      "sender_name": "演唱会"
+    },
+    {
+      "create_time": 1708947456,
+      "formatted_time": "2024-02-26 19:37:36",
+      "type": "文本消息",
+      "str_content": "3月3 380票面",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708947459,
+      "formatted_time": "2024-02-26 19:37:39",
+      "type": "文本消息",
+      "str_content": "有连号的吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708947480,
+      "formatted_time": "2024-02-26 19:38:00",
+      "type": "文本消息",
+      "str_content": "没了连坐",
+      "is_send": 0,
+      "sender_name": "演唱会"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:34+08:00",
+  "message_count": 7
+}

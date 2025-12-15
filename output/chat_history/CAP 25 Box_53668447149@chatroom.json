@@ -1,0 +1,3582 @@
+{
+  "session_id": "53668447149@chatroom",
+  "session_name": "CAP 25 Box",
+  "messages": [
+    {
+      "create_time": 1757501178,
+      "formatted_time": "2025-09-10 18:46:18",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 25 Box",
+      "sender_wxid": "53668447149@chatroom"
+    },
+    {
+      "create_time": 1757501218,
+      "formatted_time": "2025-09-10 18:46:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "环能徐子洋",
+      "sender_wxid": "wxid_m4dib8jd5go422"
+    },
+    {
+      "create_time": 1757501233,
+      "formatted_time": "2025-09-10 18:47:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 25 Box",
+      "sender_wxid": "53668447149@chatroom"
+    },
+    {
+      "create_time": 1757501250,
+      "formatted_time": "2025-09-10 18:47:30",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 25 Box",
+      "sender_wxid": "53668447149@chatroom"
+    },
+    {
+      "create_time": 1757501253,
+      "formatted_time": "2025-09-10 18:47:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 25 Box",
+      "sender_wxid": "53668447149@chatroom"
+    },
+    {
+      "create_time": 1757501286,
+      "formatted_time": "2025-09-10 18:48:06",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 25 Box",
+      "sender_wxid": "53668447149@chatroom"
+    },
+    {
+      "create_time": 1757501321,
+      "formatted_time": "2025-09-10 18:48:41",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1757501331,
+      "formatted_time": "2025-09-10 18:48:51",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1757501336,
+      "formatted_time": "2025-09-10 18:48:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1757501339,
+      "formatted_time": "2025-09-10 18:48:59",
+      "type": "文本消息",
+      "str_content": "ready for it",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757501341,
+      "formatted_time": "2025-09-10 18:49:01",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王昕妮",
+      "sender_wxid": "wxid_x8fxrw2yu97s22"
+    },
+    {
+      "create_time": 1757501342,
+      "formatted_time": "2025-09-10 18:49:02",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757501349,
+      "formatted_time": "2025-09-10 18:49:09",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1757501352,
+      "formatted_time": "2025-09-10 18:49:12",
+      "type": "文本消息",
+      "str_content": "弟弟妹妹们燥候～～～还有3个群[得意][得意]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757501353,
+      "formatted_time": "2025-09-10 18:49:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "林雅雪",
+      "sender_wxid": "wxid_zpbn4fq0ekgm12"
+    },
+    {
+      "create_time": 1757501358,
+      "formatted_time": "2025-09-10 18:49:18",
+      "type": "文本消息",
+      "str_content": "不要被消息吓到了",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757501358,
+      "formatted_time": "2025-09-10 18:49:18",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25管理 王振轩",
+      "sender_wxid": "wxid_ol3zb6jnx3gj22"
+    },
+    {
+      "create_time": 1757501359,
+      "formatted_time": "2025-09-10 18:49:19",
+      "type": "文本消息",
+      "str_content": "打开全是熟人面孔",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757501360,
+      "formatted_time": "2025-09-10 18:49:20",
+      "type": "文本消息",
+      "str_content": "好热闹呀！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757501361,
+      "formatted_time": "2025-09-10 18:49:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757501367,
+      "formatted_time": "2025-09-10 18:49:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1757501368,
+      "formatted_time": "2025-09-10 18:49:28",
+      "type": "文本消息",
+      "str_content": "这就对了[坏笑]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757501376,
+      "formatted_time": "2025-09-10 18:49:36",
+      "type": "引用消息",
+      "str_content": "还真是",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1757501381,
+      "formatted_time": "2025-09-10 18:49:41",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1757501388,
+      "formatted_time": "2025-09-10 18:49:48",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "环能徐子洋",
+      "sender_wxid": "wxid_m4dib8jd5go422"
+    },
+    {
+      "create_time": 1757501389,
+      "formatted_time": "2025-09-10 18:49:49",
+      "type": "文本消息",
+      "str_content": "笑死我了",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757501396,
+      "formatted_time": "2025-09-10 18:49:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1757501403,
+      "formatted_time": "2025-09-10 18:50:03",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赛林娜-对经贸-数量金融",
+      "sender_wxid": "wxid_bq7rwz31z0ox22"
+    },
+    {
+      "create_time": 1757501406,
+      "formatted_time": "2025-09-10 18:50:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25-财新-张婉玉",
+      "sender_wxid": "wxid_qu2ysg6qp7do22"
+    },
+    {
+      "create_time": 1757501412,
+      "formatted_time": "2025-09-10 18:50:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25管理 姚雨辰",
+      "sender_wxid": "wxid_qo2tnfj27jf322"
+    },
+    {
+      "create_time": 1757501414,
+      "formatted_time": "2025-09-10 18:50:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "许育豪 25 经济",
+      "sender_wxid": "wxid_yfrvwz3bus522"
+    },
+    {
+      "create_time": 1757501422,
+      "formatted_time": "2025-09-10 18:50:22",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济 林千山",
+      "sender_wxid": "wxid_2vi7friyk49u22"
+    },
+    {
+      "create_time": 1757501431,
+      "formatted_time": "2025-09-10 18:50:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王昕妮",
+      "sender_wxid": "wxid_x8fxrw2yu97s22"
+    },
+    {
+      "create_time": 1757501434,
+      "formatted_time": "2025-09-10 18:50:34",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "沈吉杭",
+      "sender_wxid": "wxid_6d0uvyosio8122"
+    },
+    {
+      "create_time": 1757501437,
+      "formatted_time": "2025-09-10 18:50:37",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1757501559,
+      "formatted_time": "2025-09-10 18:52:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757501563,
+      "formatted_time": "2025-09-10 18:52:43",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 25 Box",
+      "sender_wxid": "53668447149@chatroom"
+    },
+    {
+      "create_time": 1757501686,
+      "formatted_time": "2025-09-10 18:54:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1757501878,
+      "formatted_time": "2025-09-10 18:57:58",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 25 Box",
+      "sender_wxid": "53668447149@chatroom"
+    },
+    {
+      "create_time": 1757501994,
+      "formatted_time": "2025-09-10 18:59:54",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 25 Box",
+      "sender_wxid": "53668447149@chatroom"
+    },
+    {
+      "create_time": 1757502259,
+      "formatted_time": "2025-09-10 19:04:19",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 25 Box",
+      "sender_wxid": "53668447149@chatroom"
+    },
+    {
+      "create_time": 1757503019,
+      "formatted_time": "2025-09-10 19:16:59",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 25 Box",
+      "sender_wxid": "53668447149@chatroom"
+    },
+    {
+      "create_time": 1757503583,
+      "formatted_time": "2025-09-10 19:26:23",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "境界",
+      "sender_wxid": "wxid_l6fccthivixo22"
+    },
+    {
+      "create_time": 1757503598,
+      "formatted_time": "2025-09-10 19:26:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吴承楷",
+      "sender_wxid": "wxid_sqlzudtk2mdb22"
+    },
+    {
+      "create_time": 1757504005,
+      "formatted_time": "2025-09-10 19:33:25",
+      "type": "文本消息",
+      "str_content": "家人们！今晚20.30 塘朗纯K 我们一起给国金同学送别🥹现场【玩法多多】 不容错过🥹想要来的朋友们火速接龙【姓名+到达时间】！！",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757504013,
+      "formatted_time": "2025-09-10 19:33:33",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757504052,
+      "formatted_time": "2025-09-10 19:34:12",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757504061,
+      "formatted_time": "2025-09-10 19:34:21",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30\n3. 赵楚楚 20:30",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757504067,
+      "formatted_time": "2025-09-10 19:34:27",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30\n3. 赵楚楚 20:30\n4. 邬瑞媛 20：30",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1757504082,
+      "formatted_time": "2025-09-10 19:34:42",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30\n3. 赵楚楚 20:30\n4. 邬瑞媛 20：30\n5. 周宇翔 20:30",
+      "is_send": 0,
+      "sender_name": "宇宙炮仗",
+      "sender_wxid": "wxid_o45qqi9z40si12"
+    },
+    {
+      "create_time": 1757504085,
+      "formatted_time": "2025-09-10 19:34:45",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30\n3. 赵楚楚 20:30\n4. 邬瑞媛 20：30\n5. 周宇翔 20:30\n6. 赖琳琳 20:30",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1757504088,
+      "formatted_time": "2025-09-10 19:34:48",
+      "type": "文本消息",
+      "str_content": "上完新中特立马来唱歌，我也是高能量人了",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757504090,
+      "formatted_time": "2025-09-10 19:34:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757504095,
+      "formatted_time": "2025-09-10 19:34:55",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30\n3. 赵楚楚 20:30\n4. 邬瑞媛 20：30\n5. 周宇翔 20:30\n6. 赖琳琳 20:30\n7. 连逸凡 20:30",
+      "is_send": 0,
+      "sender_name": "连逸凡-中南财经政法大学-经双",
+      "sender_wxid": "wxid_yq0a5pnpjd3122"
+    },
+    {
+      "create_time": 1757504109,
+      "formatted_time": "2025-09-10 19:35:09",
+      "type": "文本消息",
+      "str_content": "打了一天工 来纯k 现在还在地铁上[流泪][流泪]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757504117,
+      "formatted_time": "2025-09-10 19:35:17",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30\n3. 赵楚楚 20:30\n4. 邬瑞媛 20：30\n5. 周宇翔 20:30\n6. 赖琳琳 20:30\n7. 连逸凡 20:30\n8. 赵梓涵 21:00",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757504120,
+      "formatted_time": "2025-09-10 19:35:20",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30\n3. 赵楚楚 20:30\n4. 邬瑞媛 20：30\n5. 周宇翔 20:30\n6. 赖琳琳 20:30\n7. 连逸凡 20:30\n8. 赵梓涵 21:00\n9. 祝焱炎 21:00",
+      "is_send": 0,
+      "sender_name": "祝焱炎",
+      "sender_wxid": "wxid_wc4v033wkswb11"
+    },
+    {
+      "create_time": 1757504198,
+      "formatted_time": "2025-09-10 19:36:38",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30\n3. 赵楚楚 20:30\n4. 邬瑞媛 20：30\n5. 周宇翔 20:30\n6. 赖琳琳 20:30\n7. 连逸凡 20:30\n8. 赵梓涵 21:00\n9. 祝焱炎 21:00\n10. 沈吉杭 20:30",
+      "is_send": 0,
+      "sender_name": "沈吉杭",
+      "sender_wxid": "wxid_6d0uvyosio8122"
+    },
+    {
+      "create_time": 1757504257,
+      "formatted_time": "2025-09-10 19:37:37",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30\n3. 赵楚楚 20:30\n4. 邬瑞媛 20：30\n5. 周宇翔 20:30\n6. 赖琳琳 20:30\n7. 连逸凡 20:30\n8. 赵梓涵 21:00\n9. 祝焱炎 21:00\n10. 沈吉杭 20:30\n11. 徐昂 21:00",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1757504512,
+      "formatted_time": "2025-09-10 19:41:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757504840,
+      "formatted_time": "2025-09-10 19:47:20",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30\n3. 赵楚楚 20:30\n4. 邬瑞媛 20：30\n5. 周宇翔 20:30\n6. 赖琳琳 20:30\n7. 连逸凡 20:30\n8. 赵梓涵 21:00\n9. 祝焱炎 21:00\n10. 沈吉杭 20:30\n11. 徐昂 21:00\n12. 李心蔚 20：30",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1757504857,
+      "formatted_time": "2025-09-10 19:47:37",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30\n3. 赵楚楚 20:30\n4. 邬瑞媛 20：30\n5. 周宇翔 20:30\n6. 赖琳琳 20:30\n7. 连逸凡 20:30\n8. 赵梓涵 21:00\n9. 祝焱炎 21:00\n10. 沈吉杭 20:30\n11. 徐昂 21:00\n12. 李心蔚 20：30\n13. 王振轩 20:50",
+      "is_send": 0,
+      "sender_name": "25管理 王振轩",
+      "sender_wxid": "wxid_ol3zb6jnx3gj22"
+    },
+    {
+      "create_time": 1757504933,
+      "formatted_time": "2025-09-10 19:48:53",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30\n3. 赵楚楚 20:30\n4. 邬瑞媛 20：30\n5. 周宇翔 20:30\n6. 赖琳琳 20:30\n7. 连逸凡 20:30\n8. 赵梓涵 21:00\n9. 祝焱炎 21:00\n10. 沈吉杭 20:30\n11. 徐昂 21:00\n12. 李心蔚 20：30\n13. 王振轩 20:50\n14. 金思妤  20:50",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1757505310,
+      "formatted_time": "2025-09-10 19:55:10",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30\n3. 赵楚楚 20:30\n4. 邬瑞媛 20：30\n5. 周宇翔 20:30\n6. 赖琳琳 20:30\n7. 连逸凡 20:30\n8. 赵梓涵 21:00\n9. 祝焱炎 21:00\n10. 沈吉杭 20:30\n11. 徐昂 21:00\n12. 李心蔚 20：30\n13. 王振轩 20:50\n14. 金思妤  20:50\n15. 邱思语 20:30",
+      "is_send": 0,
+      "sender_name": "邱思语",
+      "sender_wxid": "wxid_29l0b6exq9cl12"
+    },
+    {
+      "create_time": 1757505681,
+      "formatted_time": "2025-09-10 20:01:21",
+      "type": "文本消息",
+      "str_content": "晚上没在学校附近 遗憾离场呜呜呜🥲🥲🥲",
+      "is_send": 0,
+      "sender_name": "25-财新-张婉玉",
+      "sender_wxid": "wxid_qu2ysg6qp7do22"
+    },
+    {
+      "create_time": 1757505717,
+      "formatted_time": "2025-09-10 20:01:57",
+      "type": "文本消息",
+      "str_content": "没事！之后会有大破冰的！今天就是个预热～",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757505781,
+      "formatted_time": "2025-09-10 20:03:01",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25-财新-张婉玉",
+      "sender_wxid": "wxid_qu2ysg6qp7do22"
+    },
+    {
+      "create_time": 1757506035,
+      "formatted_time": "2025-09-10 20:07:15",
+      "type": "文本消息",
+      "str_content": "@All 家人们从学校走的，我们20:20在东北门外面见怎么样呀？一起打车走[跳跳]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757506055,
+      "formatted_time": "2025-09-10 20:07:35",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1757506062,
+      "formatted_time": "2025-09-10 20:07:42",
+      "type": "文本消息",
+      "str_content": "加入团队",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1757506075,
+      "formatted_time": "2025-09-10 20:07:55",
+      "type": "引用消息",
+      "str_content": "我也是 现在还在离学校比较远的位置",
+      "is_send": 0,
+      "sender_name": "林欣宜 25 财新",
+      "sender_wxid": "wxid_wwvckt2s59kd22"
+    },
+    {
+      "create_time": 1757506214,
+      "formatted_time": "2025-09-10 20:10:14",
+      "type": "文本消息",
+      "str_content": "国金管的朋友们还在紧急收拾行李，也遗憾退场了~期待一年后面基！",
+      "is_send": 0,
+      "sender_name": "25国金管邹瑶",
+      "sender_wxid": "wxid_6erd74trxn1j22"
+    },
+    {
+      "create_time": 1757506215,
+      "formatted_time": "2025-09-10 20:10:15",
+      "type": "引用消息",
+      "str_content": "没事滴～",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757506228,
+      "formatted_time": "2025-09-10 20:10:28",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25国金管邹瑶",
+      "sender_wxid": "wxid_6erd74trxn1j22"
+    },
+    {
+      "create_time": 1757506260,
+      "formatted_time": "2025-09-10 20:11:00",
+      "type": "文本消息",
+      "str_content": "没事的bb们",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757506323,
+      "formatted_time": "2025-09-10 20:12:03",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "林欣宜 25 财新",
+      "sender_wxid": "wxid_wwvckt2s59kd22"
+    },
+    {
+      "create_time": 1757506485,
+      "formatted_time": "2025-09-10 20:14:45",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n\n1. 韩一赫 20:30\n2. 郑沁嘉 20:30\n3. 赵楚楚 20:30\n4. 邬瑞媛 20：30\n5. 周宇翔 20:30\n6. 赖琳琳 20:30\n7. 连逸凡 20:30\n8. 赵梓涵 21:00\n9. 祝焱炎 21:00\n10. 沈吉杭 20:30\n11. 徐昂 21:00\n12. 李心蔚 20：30\n13. 王振轩 20:50\n14. 金思妤  20:50\n15. 邱思语 20:30\n16. 资勤 20:50",
+      "is_send": 0,
+      "sender_name": "资勤",
+      "sender_wxid": "wxid_q8jpfe313irs22"
+    },
+    {
+      "create_time": 1757506997,
+      "formatted_time": "2025-09-10 20:23:17",
+      "type": "文本消息",
+      "str_content": "老师们我和思语一块儿从彩虹桥走[跳跳]俺们不认识东门感觉来不太及过去[裂开]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1757507026,
+      "formatted_time": "2025-09-10 20:23:46",
+      "type": "文本消息",
+      "str_content": "没事！咋走都行",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757507137,
+      "formatted_time": "2025-09-10 20:25:37",
+      "type": "文本消息",
+      "str_content": "还有无人在东北们",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1757507139,
+      "formatted_time": "2025-09-10 20:25:39",
+      "type": "文本消息",
+      "str_content": "门",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1757507158,
+      "formatted_time": "2025-09-10 20:25:58",
+      "type": "文本消息",
+      "str_content": "来了！",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757507194,
+      "formatted_time": "2025-09-10 20:26:34",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757507200,
+      "formatted_time": "2025-09-10 20:26:40",
+      "type": "文本消息",
+      "str_content": "是操场门么",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1757507223,
+      "formatted_time": "2025-09-10 20:27:03",
+      "type": "文本消息",
+      "str_content": "是的",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757507268,
+      "formatted_time": "2025-09-10 20:27:48",
+      "type": "文本消息",
+      "str_content": "门外空无一人哈哈",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1757507293,
+      "formatted_time": "2025-09-10 20:28:13",
+      "type": "文本消息",
+      "str_content": "我火速奔来",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757507323,
+      "formatted_time": "2025-09-10 20:28:43",
+      "type": "文本消息",
+      "str_content": "已经到了",
+      "is_send": 0,
+      "sender_name": "连逸凡-中南财经政法大学-经双",
+      "sender_wxid": "wxid_yq0a5pnpjd3122"
+    },
+    {
+      "create_time": 1757507324,
+      "formatted_time": "2025-09-10 20:28:44",
+      "type": "文本消息",
+      "str_content": "有人吗",
+      "is_send": 0,
+      "sender_name": "连逸凡-中南财经政法大学-经双",
+      "sender_wxid": "wxid_yq0a5pnpjd3122"
+    },
+    {
+      "create_time": 1757507330,
+      "formatted_time": "2025-09-10 20:28:50",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "连逸凡-中南财经政法大学-经双",
+      "sender_wxid": "wxid_yq0a5pnpjd3122"
+    },
+    {
+      "create_time": 1757507355,
+      "formatted_time": "2025-09-10 20:29:15",
+      "type": "文本消息",
+      "str_content": "我靠这速度",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757507362,
+      "formatted_time": "2025-09-10 20:29:22",
+      "type": "文本消息",
+      "str_content": "我们还有10分钟",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757507434,
+      "formatted_time": "2025-09-10 20:30:34",
+      "type": "引用消息",
+      "str_content": "弟弟 0256 姓韩 闪闪厅",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757507477,
+      "formatted_time": "2025-09-10 20:31:17",
+      "type": "文本消息",
+      "str_content": "太快了",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1757507481,
+      "formatted_time": "2025-09-10 20:31:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1757507594,
+      "formatted_time": "2025-09-10 20:33:14",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "连逸凡-中南财经政法大学-经双",
+      "sender_wxid": "wxid_yq0a5pnpjd3122"
+    },
+    {
+      "create_time": 1757507596,
+      "formatted_time": "2025-09-10 20:33:16",
+      "type": "文本消息",
+      "str_content": "我们现在",
+      "is_send": 0,
+      "sender_name": "连逸凡-中南财经政法大学-经双",
+      "sender_wxid": "wxid_yq0a5pnpjd3122"
+    },
+    {
+      "create_time": 1757507597,
+      "formatted_time": "2025-09-10 20:33:17",
+      "type": "文本消息",
+      "str_content": "4个人",
+      "is_send": 0,
+      "sender_name": "连逸凡-中南财经政法大学-经双",
+      "sender_wxid": "wxid_yq0a5pnpjd3122"
+    },
+    {
+      "create_time": 1757507616,
+      "formatted_time": "2025-09-10 20:33:36",
+      "type": "文本消息",
+      "str_content": "@西洲",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757507621,
+      "formatted_time": "2025-09-10 20:33:41",
+      "type": "文本消息",
+      "str_content": "你自扇一巴掌吧",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757507627,
+      "formatted_time": "2025-09-10 20:33:47",
+      "type": "文本消息",
+      "str_content": "我自扇",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757507770,
+      "formatted_time": "2025-09-10 20:36:10",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757507773,
+      "formatted_time": "2025-09-10 20:36:13",
+      "type": "文本消息",
+      "str_content": "老板大气",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757507775,
+      "formatted_time": "2025-09-10 20:36:15",
+      "type": "文本消息",
+      "str_content": "[流泪][流泪]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757507795,
+      "formatted_time": "2025-09-10 20:36:35",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "沈吉杭",
+      "sender_wxid": "wxid_6d0uvyosio8122"
+    },
+    {
+      "create_time": 1757507819,
+      "formatted_time": "2025-09-10 20:36:59",
+      "type": "文本消息",
+      "str_content": "还有氛围感",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757507821,
+      "formatted_time": "2025-09-10 20:37:01",
+      "type": "文本消息",
+      "str_content": "给孩子惊呆了",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757507823,
+      "formatted_time": "2025-09-10 20:37:03",
+      "type": "文本消息",
+      "str_content": "[流泪][流泪]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757507836,
+      "formatted_time": "2025-09-10 20:37:16",
+      "type": "文本消息",
+      "str_content": "老板[合十][合十][合十][合十]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757507902,
+      "formatted_time": "2025-09-10 20:38:22",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "25国金管邹瑶",
+      "sender_wxid": "wxid_6erd74trxn1j22"
+    },
+    {
+      "create_time": 1757507923,
+      "formatted_time": "2025-09-10 20:38:43",
+      "type": "文本消息",
+      "str_content": "这个包还带音响震动",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757507924,
+      "formatted_time": "2025-09-10 20:38:44",
+      "type": "文本消息",
+      "str_content": "妈呀",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757507945,
+      "formatted_time": "2025-09-10 20:39:05",
+      "type": "文本消息",
+      "str_content": "抵达了[旺柴]",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1757507945,
+      "formatted_time": "2025-09-10 20:39:05",
+      "type": "文本消息",
+      "str_content": "谁最会唱歌🎤",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757507949,
+      "formatted_time": "2025-09-10 20:39:09",
+      "type": "文本消息",
+      "str_content": "音效不错",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1757507962,
+      "formatted_time": "2025-09-10 20:39:22",
+      "type": "文本消息",
+      "str_content": "好高级的包厢，上等房",
+      "is_send": 0,
+      "sender_name": "25国金管邹瑶",
+      "sender_wxid": "wxid_6erd74trxn1j22"
+    },
+    {
+      "create_time": 1757507975,
+      "formatted_time": "2025-09-10 20:39:35",
+      "type": "引用消息",
+      "str_content": "别管了，都得来[色][色]",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1757508010,
+      "formatted_time": "2025-09-10 20:40:10",
+      "type": "文本消息",
+      "str_content": "来不了的也想听怎么办🥺",
+      "is_send": 0,
+      "sender_name": "环能徐子洋",
+      "sender_wxid": "wxid_m4dib8jd5go422"
+    },
+    {
+      "create_time": 1757508020,
+      "formatted_time": "2025-09-10 20:40:20",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757508145,
+      "formatted_time": "2025-09-10 20:42:25",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757508164,
+      "formatted_time": "2025-09-10 20:42:44",
+      "type": "引用消息",
+      "str_content": "开一个会议听，哈哈哈哈哈\n朋友：怎么这么晚了还开腾讯会议，工作太敬业了，我也听听；\n实际：苍茫的天涯是我的爱~",
+      "is_send": 0,
+      "sender_name": "25国金管邹瑶",
+      "sender_wxid": "wxid_6erd74trxn1j22"
+    },
+    {
+      "create_time": 1757508195,
+      "formatted_time": "2025-09-10 20:43:15",
+      "type": "文本消息",
+      "str_content": "好堵",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1757508196,
+      "formatted_time": "2025-09-10 20:43:16",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "环能徐子洋",
+      "sender_wxid": "wxid_m4dib8jd5go422"
+    },
+    {
+      "create_time": 1757508197,
+      "formatted_time": "2025-09-10 20:43:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1757508201,
+      "formatted_time": "2025-09-10 20:43:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "环能徐子洋",
+      "sender_wxid": "wxid_m4dib8jd5go422"
+    },
+    {
+      "create_time": 1757508450,
+      "formatted_time": "2025-09-10 20:47:30",
+      "type": "文本消息",
+      "str_content": "谁唱的这么好",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757508452,
+      "formatted_time": "2025-09-10 20:47:32",
+      "type": "视频消息",
+      "str_content": "[视频消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757508490,
+      "formatted_time": "2025-09-10 20:48:10",
+      "type": "文本消息",
+      "str_content": "周杰伦[合十][合十][合十]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757508498,
+      "formatted_time": "2025-09-10 20:48:18",
+      "type": "文本消息",
+      "str_content": "徐正宇地位有威胁了",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757509019,
+      "formatted_time": "2025-09-10 20:56:59",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757518668,
+      "formatted_time": "2025-09-10 23:37:48",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757518684,
+      "formatted_time": "2025-09-10 23:38:04",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757518686,
+      "formatted_time": "2025-09-10 23:38:06",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757518687,
+      "formatted_time": "2025-09-10 23:38:07",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757518697,
+      "formatted_time": "2025-09-10 23:38:17",
+      "type": "引用消息",
+      "str_content": "本人favourite～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757518708,
+      "formatted_time": "2025-09-10 23:38:28",
+      "type": "文本消息",
+      "str_content": "okok",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757518735,
+      "formatted_time": "2025-09-10 23:38:55",
+      "type": "文本消息",
+      "str_content": "玩得太开心了",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757518737,
+      "formatted_time": "2025-09-10 23:38:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757518737,
+      "formatted_time": "2025-09-10 23:38:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757518740,
+      "formatted_time": "2025-09-10 23:39:00",
+      "type": "文本消息",
+      "str_content": "下周继续",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757518746,
+      "formatted_time": "2025-09-10 23:39:06",
+      "type": "文本消息",
+      "str_content": "开始戒断",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1757518752,
+      "formatted_time": "2025-09-10 23:39:12",
+      "type": "文本消息",
+      "str_content": "enfj有被爽到",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757518753,
+      "formatted_time": "2025-09-10 23:39:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757518756,
+      "formatted_time": "2025-09-10 23:39:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757518757,
+      "formatted_time": "2025-09-10 23:39:17",
+      "type": "文本消息",
+      "str_content": "宝宝们",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757518758,
+      "formatted_time": "2025-09-10 23:39:18",
+      "type": "文本消息",
+      "str_content": "期待下次全体破冰团建[跳跳]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757518759,
+      "formatted_time": "2025-09-10 23:39:19",
+      "type": "文本消息",
+      "str_content": "你们太好了",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757518760,
+      "formatted_time": "2025-09-10 23:39:20",
+      "type": "文本消息",
+      "str_content": "slfnglsinh:\n太开寻了",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757518772,
+      "formatted_time": "2025-09-10 23:39:32",
+      "type": "文本消息",
+      "str_content": "slfnglsinh:\ne人轰炸",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757518781,
+      "formatted_time": "2025-09-10 23:39:41",
+      "type": "文本消息",
+      "str_content": "保护我方i人宝宝",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757518786,
+      "formatted_time": "2025-09-10 23:39:46",
+      "type": "文本消息",
+      "str_content": "[囧]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757518786,
+      "formatted_time": "2025-09-10 23:39:46",
+      "type": "文本消息",
+      "str_content": "大家都太e了",
+      "is_send": 0,
+      "sender_name": "连逸凡-中南财经政法大学-经双",
+      "sender_wxid": "wxid_yq0a5pnpjd3122"
+    },
+    {
+      "create_time": 1757518797,
+      "formatted_time": "2025-09-10 23:39:57",
+      "type": "文本消息",
+      "str_content": "e人来吸收i人能量了😈😈",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1757518799,
+      "formatted_time": "2025-09-10 23:39:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757518823,
+      "formatted_time": "2025-09-10 23:40:23",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "祝焱炎",
+      "sender_wxid": "wxid_wc4v033wkswb11"
+    },
+    {
+      "create_time": 1757518824,
+      "formatted_time": "2025-09-10 23:40:24",
+      "type": "引用消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1757518825,
+      "formatted_time": "2025-09-10 23:40:25",
+      "type": "引用消息",
+      "str_content": "哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757518829,
+      "formatted_time": "2025-09-10 23:40:29",
+      "type": "文本消息",
+      "str_content": "xuang坏死了",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757518849,
+      "formatted_time": "2025-09-10 23:40:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1757518905,
+      "formatted_time": "2025-09-10 23:41:45",
+      "type": "文本消息",
+      "str_content": "slfnglsinh:\n要连e人一起吸",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757518913,
+      "formatted_time": "2025-09-10 23:41:53",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757518957,
+      "formatted_time": "2025-09-10 23:42:37",
+      "type": "引用消息",
+      "str_content": "你直接吸全场",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1757518970,
+      "formatted_time": "2025-09-10 23:42:50",
+      "type": "文本消息",
+      "str_content": "研二班味能不能吸一吸",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757519084,
+      "formatted_time": "2025-09-10 23:44:44",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757519089,
+      "formatted_time": "2025-09-10 23:44:49",
+      "type": "引用消息",
+      "str_content": "举报！韩小哥哥要给zzh投毒",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757519099,
+      "formatted_time": "2025-09-10 23:44:59",
+      "type": "文本消息",
+      "str_content": "slfnglsinh:\n哈哈哈哈哈哈",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757519111,
+      "formatted_time": "2025-09-10 23:45:11",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757519753,
+      "formatted_time": "2025-09-10 23:55:53",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 25 Box",
+      "sender_wxid": "53668447149@chatroom"
+    },
+    {
+      "create_time": 1757519769,
+      "formatted_time": "2025-09-10 23:56:09",
+      "type": "文本消息",
+      "str_content": "wjl怎么成25级的了",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757519775,
+      "formatted_time": "2025-09-10 23:56:15",
+      "type": "文本消息",
+      "str_content": "@@wwwjl",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757519879,
+      "formatted_time": "2025-09-10 23:57:59",
+      "type": "文本消息",
+      "str_content": "学长好啊！",
+      "is_send": 0,
+      "sender_name": "24-魏杰伦-管理",
+      "sender_wxid": "wxid_pbnkngtno21g22"
+    },
+    {
+      "create_time": 1757519887,
+      "formatted_time": "2025-09-10 23:58:07",
+      "type": "文本消息",
+      "str_content": "我是25管理wjl",
+      "is_send": 0,
+      "sender_name": "24-魏杰伦-管理",
+      "sender_wxid": "wxid_pbnkngtno21g22"
+    },
+    {
+      "create_time": 1757519902,
+      "formatted_time": "2025-09-10 23:58:22",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n无敌了",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757519911,
+      "formatted_time": "2025-09-10 23:58:31",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n本群有俊杰和杰伦",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757519915,
+      "formatted_time": "2025-09-10 23:58:35",
+      "type": "文本消息",
+      "str_content": "很高兴加入CAP快乐老家，希望大家多多指教呀~",
+      "is_send": 0,
+      "sender_name": "24-魏杰伦-管理",
+      "sender_wxid": "wxid_pbnkngtno21g22"
+    },
+    {
+      "create_time": 1757519920,
+      "formatted_time": "2025-09-10 23:58:40",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n已经集齐华语乐坛半壁江山",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757519923,
+      "formatted_time": "2025-09-10 23:58:43",
+      "type": "文本消息",
+      "str_content": "欢迎学弟",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757519927,
+      "formatted_time": "2025-09-10 23:58:47",
+      "type": "文本消息",
+      "str_content": "[嘴唇]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757519928,
+      "formatted_time": "2025-09-10 23:58:48",
+      "type": "文本消息",
+      "str_content": "新人爆照叭",
+      "is_send": 0,
+      "sender_name": "宇宙炮仗",
+      "sender_wxid": "wxid_o45qqi9z40si12"
+    },
+    {
+      "create_time": 1757519937,
+      "formatted_time": "2025-09-10 23:58:57",
+      "type": "文本消息",
+      "str_content": "新人爆照叭",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757519937,
+      "formatted_time": "2025-09-10 23:58:57",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n爆照叭～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757519962,
+      "formatted_time": "2025-09-10 23:59:22",
+      "type": "文本消息",
+      "str_content": "新人爆照叭～",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1757520041,
+      "formatted_time": "2025-09-11 00:00:41",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "24-魏杰伦-管理",
+      "sender_wxid": "wxid_pbnkngtno21g22"
+    },
+    {
+      "create_time": 1757520049,
+      "formatted_time": "2025-09-11 00:00:49",
+      "type": "引用消息",
+      "str_content": "这是本人",
+      "is_send": 0,
+      "sender_name": "24-魏杰伦-管理",
+      "sender_wxid": "wxid_pbnkngtno21g22"
+    },
+    {
+      "create_time": 1757520057,
+      "formatted_time": "2025-09-11 00:00:57",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n你别说",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757520062,
+      "formatted_time": "2025-09-11 00:01:02",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n还真有点像",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757520063,
+      "formatted_time": "2025-09-11 00:01:03",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n真的",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757520066,
+      "formatted_time": "2025-09-11 00:01:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1757520067,
+      "formatted_time": "2025-09-11 00:01:07",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757520076,
+      "formatted_time": "2025-09-11 00:01:16",
+      "type": "文本消息",
+      "str_content": "looking my eyes",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1757520077,
+      "formatted_time": "2025-09-11 00:01:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757520077,
+      "formatted_time": "2025-09-11 00:01:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757520400,
+      "formatted_time": "2025-09-11 00:06:40",
+      "type": "引用消息",
+      "str_content": "哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "吴俊杰",
+      "sender_wxid": "wxid_jv24v6cnkgaq12"
+    },
+    {
+      "create_time": 1757521086,
+      "formatted_time": "2025-09-11 00:18:06",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 25 Box",
+      "sender_wxid": "53668447149@chatroom"
+    },
+    {
+      "create_time": 1757521618,
+      "formatted_time": "2025-09-11 00:26:58",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 25 Box",
+      "sender_wxid": "53668447149@chatroom"
+    },
+    {
+      "create_time": 1757554951,
+      "formatted_time": "2025-09-11 09:42:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757554965,
+      "formatted_time": "2025-09-11 09:42:45",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757554969,
+      "formatted_time": "2025-09-11 09:42:49",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757554987,
+      "formatted_time": "2025-09-11 09:43:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757554999,
+      "formatted_time": "2025-09-11 09:43:19",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757555001,
+      "formatted_time": "2025-09-11 09:43:21",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757555057,
+      "formatted_time": "2025-09-11 09:44:17",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757555146,
+      "formatted_time": "2025-09-11 09:45:46",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757555479,
+      "formatted_time": "2025-09-11 09:51:19",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757644504,
+      "formatted_time": "2025-09-12 10:35:04",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n@所有人 \n欢迎大家来到CAP快乐老家～\n今明两天我们要把大家介绍给群里给哥哥姐姐们啦！！！\n\n1️⃣今天（9.12晚上10:00）\n请大家在【六世同堂】的群里【做一个自我介绍+加爆照一下】嘿嘿～这样就可以让学长学姐们快快认识大家啦！\n这里的自我介绍风格可以轻松活泼有趣一些，都是非常亲近非常nice的学长姐们！！！\n\n2️⃣明天（9.13晚上10:00）\n请大家在【CAP Box】群里【做一个自我介绍+加爆照一下】～\n这个群里有CAP的全部成员，有很多已经在业界工作的前辈们，所以可能要注意稍微正式一些～\n\n💙自我介绍顺序还请麻烦大家按照以下的表格有序登场哦～～～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757644522,
+      "formatted_time": "2025-09-12 10:35:22",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757644547,
+      "formatted_time": "2025-09-12 10:35:47",
+      "type": "引用消息",
+      "str_content": "（关于2️⃣：【CAP Box】的大群我们会明天邀请大家～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757644554,
+      "formatted_time": "2025-09-12 10:35:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1757644575,
+      "formatted_time": "2025-09-12 10:36:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "邱思语",
+      "sender_wxid": "wxid_29l0b6exq9cl12"
+    },
+    {
+      "create_time": 1757644577,
+      "formatted_time": "2025-09-12 10:36:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1757644594,
+      "formatted_time": "2025-09-12 10:36:34",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "经济 林千山",
+      "sender_wxid": "wxid_2vi7friyk49u22"
+    },
+    {
+      "create_time": 1757644711,
+      "formatted_time": "2025-09-12 10:38:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "许育豪 25 经济",
+      "sender_wxid": "wxid_yfrvwz3bus522"
+    },
+    {
+      "create_time": 1757644714,
+      "formatted_time": "2025-09-12 10:38:34",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "林雅雪",
+      "sender_wxid": "wxid_zpbn4fq0ekgm12"
+    },
+    {
+      "create_time": 1757644718,
+      "formatted_time": "2025-09-12 10:38:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "资勤",
+      "sender_wxid": "wxid_q8jpfe313irs22"
+    },
+    {
+      "create_time": 1757644732,
+      "formatted_time": "2025-09-12 10:38:52",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1757644753,
+      "formatted_time": "2025-09-12 10:39:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1757644778,
+      "formatted_time": "2025-09-12 10:39:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25国金管邹瑶",
+      "sender_wxid": "wxid_6erd74trxn1j22"
+    },
+    {
+      "create_time": 1757644790,
+      "formatted_time": "2025-09-12 10:39:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吴俊杰",
+      "sender_wxid": "wxid_jv24v6cnkgaq12"
+    },
+    {
+      "create_time": 1757644794,
+      "formatted_time": "2025-09-12 10:39:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757644831,
+      "formatted_time": "2025-09-12 10:40:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25管理 姚雨辰",
+      "sender_wxid": "wxid_qo2tnfj27jf322"
+    },
+    {
+      "create_time": 1757644885,
+      "formatted_time": "2025-09-12 10:41:25",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "彭芊韵 25 财新",
+      "sender_wxid": "wxid_em6dwlaut2rc12"
+    },
+    {
+      "create_time": 1757644910,
+      "formatted_time": "2025-09-12 10:41:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25管理 王振轩",
+      "sender_wxid": "wxid_ol3zb6jnx3gj22"
+    },
+    {
+      "create_time": 1757644934,
+      "formatted_time": "2025-09-12 10:42:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赛林娜-对经贸-数量金融",
+      "sender_wxid": "wxid_bq7rwz31z0ox22"
+    },
+    {
+      "create_time": 1757644934,
+      "formatted_time": "2025-09-12 10:42:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "郭思琪 25 管理",
+      "sender_wxid": "wxid_vdihcxa383pg22"
+    },
+    {
+      "create_time": 1757644983,
+      "formatted_time": "2025-09-12 10:43:03",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1757644985,
+      "formatted_time": "2025-09-12 10:43:05",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757674857,
+      "formatted_time": "2025-09-12 19:00:57",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n那么到时候大家就按照顺序自由登台啦～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757674881,
+      "formatted_time": "2025-09-12 19:01:21",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n（我们会在群里当气氛组",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757674883,
+      "formatted_time": "2025-09-12 19:01:23",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n哈哈哈哈哈哈哈哈哈",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757674897,
+      "formatted_time": "2025-09-12 19:01:37",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1757674956,
+      "formatted_time": "2025-09-12 19:02:36",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757685838,
+      "formatted_time": "2025-09-12 22:03:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757685860,
+      "formatted_time": "2025-09-12 22:04:20",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王昕妮",
+      "sender_wxid": "wxid_x8fxrw2yu97s22"
+    },
+    {
+      "create_time": 1757686310,
+      "formatted_time": "2025-09-12 22:11:50",
+      "type": "文本消息",
+      "str_content": "下一位是接着发还是？",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1757686345,
+      "formatted_time": "2025-09-12 22:12:25",
+      "type": "文本消息",
+      "str_content": "素的大家接龙发就好！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757686356,
+      "formatted_time": "2025-09-12 22:12:36",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1757688067,
+      "formatted_time": "2025-09-12 22:41:07",
+      "type": "文本消息",
+      "str_content": "宝宝们下一个吧！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757688136,
+      "formatted_time": "2025-09-12 22:42:16",
+      "type": "文本消息",
+      "str_content": "要不我先发[疑问]",
+      "is_send": 0,
+      "sender_name": "赛林娜-对经贸-数量金融",
+      "sender_wxid": "wxid_bq7rwz31z0ox22"
+    },
+    {
+      "create_time": 1757688150,
+      "formatted_time": "2025-09-12 22:42:30",
+      "type": "文本消息",
+      "str_content": "可以！那林娜先",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757688156,
+      "formatted_time": "2025-09-12 22:42:36",
+      "type": "文本消息",
+      "str_content": "可以可以",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757688206,
+      "formatted_time": "2025-09-12 22:43:26",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赛林娜-对经贸-数量金融",
+      "sender_wxid": "wxid_bq7rwz31z0ox22"
+    },
+    {
+      "create_time": 1757688213,
+      "formatted_time": "2025-09-12 22:43:33",
+      "type": "文本消息",
+      "str_content": "那我跟上～",
+      "is_send": 0,
+      "sender_name": "彭芊韵 25 财新",
+      "sender_wxid": "wxid_em6dwlaut2rc12"
+    },
+    {
+      "create_time": 1757688240,
+      "formatted_time": "2025-09-12 22:44:00",
+      "type": "文本消息",
+      "str_content": "林娜之后沁嘉介绍，然后芊韵吧！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757688246,
+      "formatted_time": "2025-09-12 22:44:06",
+      "type": "文本消息",
+      "str_content": "好！",
+      "is_send": 0,
+      "sender_name": "彭芊韵 25 财新",
+      "sender_wxid": "wxid_em6dwlaut2rc12"
+    },
+    {
+      "create_time": 1757688252,
+      "formatted_time": "2025-09-12 22:44:12",
+      "type": "文本消息",
+      "str_content": "[亲亲][亲亲]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757688278,
+      "formatted_time": "2025-09-12 22:44:38",
+      "type": "文本消息",
+      "str_content": "好滴",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757688280,
+      "formatted_time": "2025-09-12 22:44:40",
+      "type": "文本消息",
+      "str_content": "[旺柴][旺柴]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757688846,
+      "formatted_time": "2025-09-12 22:54:06",
+      "type": "文本消息",
+      "str_content": "@blingbling 宇轩你先吧！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757688855,
+      "formatted_time": "2025-09-12 22:54:15",
+      "type": "文本消息",
+      "str_content": "雅雪估计在飞机上啦哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757688855,
+      "formatted_time": "2025-09-12 22:54:15",
+      "type": "文本消息",
+      "str_content": "好滴🫡",
+      "is_send": 0,
+      "sender_name": "罗宇轩",
+      "sender_wxid": "wxid_abnt9bh3h74x22"
+    },
+    {
+      "create_time": 1757688862,
+      "formatted_time": "2025-09-12 22:54:22",
+      "type": "文本消息",
+      "str_content": "各位学长学姐和同学们大家好！我是汇丰经济专业的罗宇轩，来自江西宜春，本科毕业于南开金融。很高兴能成为CAP大家庭的一员！！！\n\n性格是ISTJ，平常的兴趣爱好主要有日漫、看足球⚽、听古典乐🎹🎻、文学（尤其是日本文学，川端康成、三岛由纪夫、村上春树……）、打游戏（王者、JRPG），也会不定期出去旅游、citywalk和探店。欢迎大家找我多多唠嗑[鼓掌]",
+      "is_send": 0,
+      "sender_name": "罗宇轩",
+      "sender_wxid": "wxid_abnt9bh3h74x22"
+    },
+    {
+      "create_time": 1757688868,
+      "formatted_time": "2025-09-12 22:54:28",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "罗宇轩",
+      "sender_wxid": "wxid_abnt9bh3h74x22"
+    },
+    {
+      "create_time": 1757688868,
+      "formatted_time": "2025-09-12 22:54:28",
+      "type": "文本消息",
+      "str_content": "那个群",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757688869,
+      "formatted_time": "2025-09-12 22:54:29",
+      "type": "文本消息",
+      "str_content": "发错群了bb",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1757688870,
+      "formatted_time": "2025-09-12 22:54:30",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757688873,
+      "formatted_time": "2025-09-12 22:54:33",
+      "type": "文本消息",
+      "str_content": "hahahhahaha",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757688875,
+      "formatted_time": "2025-09-12 22:54:35",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1757688876,
+      "formatted_time": "2025-09-12 22:54:36",
+      "type": "文本消息",
+      "str_content": "我靠",
+      "is_send": 0,
+      "sender_name": "罗宇轩",
+      "sender_wxid": "wxid_abnt9bh3h74x22"
+    },
+    {
+      "create_time": 1757688880,
+      "formatted_time": "2025-09-12 22:54:40",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "吴承楷",
+      "sender_wxid": "wxid_sqlzudtk2mdb22"
+    },
+    {
+      "create_time": 1757688881,
+      "formatted_time": "2025-09-12 22:54:41",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757688883,
+      "formatted_time": "2025-09-12 22:54:43",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1757688900,
+      "formatted_time": "2025-09-12 22:55:00",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "罗宇轩",
+      "sender_wxid": "wxid_abnt9bh3h74x22"
+    },
+    {
+      "create_time": 1757688904,
+      "formatted_time": "2025-09-12 22:55:04",
+      "type": "文本消息",
+      "str_content": "罗哥",
+      "is_send": 0,
+      "sender_name": "许育豪 25 经济",
+      "sender_wxid": "wxid_yfrvwz3bus522"
+    },
+    {
+      "create_time": 1757688914,
+      "formatted_time": "2025-09-12 22:55:14",
+      "type": "文本消息",
+      "str_content": "遗憾离场",
+      "is_send": 0,
+      "sender_name": "罗宇轩",
+      "sender_wxid": "wxid_abnt9bh3h74x22"
+    },
+    {
+      "create_time": 1757688923,
+      "formatted_time": "2025-09-12 22:55:23",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757688924,
+      "formatted_time": "2025-09-12 22:55:24",
+      "type": "文本消息",
+      "str_content": "哈哈哈",
+      "is_send": 0,
+      "sender_name": "环能徐子洋",
+      "sender_wxid": "wxid_m4dib8jd5go422"
+    },
+    {
+      "create_time": 1757688927,
+      "formatted_time": "2025-09-12 22:55:27",
+      "type": "文本消息",
+      "str_content": "发两遍印象更深",
+      "is_send": 0,
+      "sender_name": "罗宇轩",
+      "sender_wxid": "wxid_abnt9bh3h74x22"
+    },
+    {
+      "create_time": 1757688982,
+      "formatted_time": "2025-09-12 22:56:22",
+      "type": "文本消息",
+      "str_content": "小心思",
+      "is_send": 0,
+      "sender_name": "环能徐子洋",
+      "sender_wxid": "wxid_m4dib8jd5go422"
+    },
+    {
+      "create_time": 1757688983,
+      "formatted_time": "2025-09-12 22:56:23",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "环能徐子洋",
+      "sender_wxid": "wxid_m4dib8jd5go422"
+    },
+    {
+      "create_time": 1757688999,
+      "formatted_time": "2025-09-12 22:56:39",
+      "type": "文本消息",
+      "str_content": "小巧思",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1757689317,
+      "formatted_time": "2025-09-12 23:01:57",
+      "type": "文本消息",
+      "str_content": "@wuwu🌸 宝宝你来吧！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757689327,
+      "formatted_time": "2025-09-12 23:02:07",
+      "type": "文本消息",
+      "str_content": "靖杰也是国金管的",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757689328,
+      "formatted_time": "2025-09-12 23:02:08",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757689558,
+      "formatted_time": "2025-09-12 23:05:58",
+      "type": "文本消息",
+      "str_content": "要不我来？",
+      "is_send": 0,
+      "sender_name": "郭思琪 25 管理",
+      "sender_wxid": "wxid_vdihcxa383pg22"
+    },
+    {
+      "create_time": 1757689564,
+      "formatted_time": "2025-09-12 23:06:04",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757689567,
+      "formatted_time": "2025-09-12 23:06:07",
+      "type": "文本消息",
+      "str_content": "没事",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757689573,
+      "formatted_time": "2025-09-12 23:06:13",
+      "type": "文本消息",
+      "str_content": "ruiyuan来啦！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757689579,
+      "formatted_time": "2025-09-12 23:06:19",
+      "type": "文本消息",
+      "str_content": "一会思琪！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757689584,
+      "formatted_time": "2025-09-12 23:06:24",
+      "type": "文本消息",
+      "str_content": "好滴",
+      "is_send": 0,
+      "sender_name": "郭思琪 25 管理",
+      "sender_wxid": "wxid_vdihcxa383pg22"
+    },
+    {
+      "create_time": 1757689589,
+      "formatted_time": "2025-09-12 23:06:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757769020,
+      "formatted_time": "2025-09-13 21:10:20",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n@所有人 朋友们～～～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757769034,
+      "formatted_time": "2025-09-13 21:10:34",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n我们今晚22:00要去大群里见学长学姐哦",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757769052,
+      "formatted_time": "2025-09-13 21:10:52",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n大家要发稍稍正式一些的自我介绍～然后按照顺序直接发下来就好～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757769079,
+      "formatted_time": "2025-09-13 21:11:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1757769087,
+      "formatted_time": "2025-09-13 21:11:27",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n笑拥了啊",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757769097,
+      "formatted_time": "2025-09-13 21:11:37",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n你这个表情包 怎么自带bgm",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757769103,
+      "formatted_time": "2025-09-13 21:11:43",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\ndengdengdegndeng～ dengdengdengdengdeng～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757769104,
+      "formatted_time": "2025-09-13 21:11:44",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n哈哈哈哈哈哈哈哈哈哈",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757769105,
+      "formatted_time": "2025-09-13 21:11:45",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1757769124,
+      "formatted_time": "2025-09-13 21:12:04",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1757771648,
+      "formatted_time": "2025-09-13 21:54:08",
+      "type": "文本消息",
+      "str_content": "slfnglsinh:\n@朔风吹客衣🍂 俊骁，我一会儿有个事，所以想提前到第一个。10点的时候我就第一个发言了哈～[可怜][可怜][可怜]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757771836,
+      "formatted_time": "2025-09-13 21:57:16",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n@所有人 米娜桑！！！还有几个同学可能周末在外面玩得太开心了！还没有来得及进群～我们准备顺延到明天22:00诶！！！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757771893,
+      "formatted_time": "2025-09-13 21:58:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757771898,
+      "formatted_time": "2025-09-13 21:58:18",
+      "type": "文本消息",
+      "str_content": "slfnglsinh:\n好嘟",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757771907,
+      "formatted_time": "2025-09-13 21:58:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1757771921,
+      "formatted_time": "2025-09-13 21:58:41",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n（让大家白白紧张了 私密马赛wwwwwww[流泪][流泪][流泪][流泪][流泪][流泪][流泪]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757771932,
+      "formatted_time": "2025-09-13 21:58:52",
+      "type": "文本消息",
+      "str_content": "嘿嘿",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757771934,
+      "formatted_time": "2025-09-13 21:58:54",
+      "type": "文本消息",
+      "str_content": "明天继续",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757772074,
+      "formatted_time": "2025-09-13 22:01:14",
+      "type": "引用消息",
+      "str_content": "问问这个是哪个群哇 好像没有收到邀请捏",
+      "is_send": 0,
+      "sender_name": "王昕妮",
+      "sender_wxid": "wxid_x8fxrw2yu97s22"
+    },
+    {
+      "create_time": 1757772076,
+      "formatted_time": "2025-09-13 22:01:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王昕妮",
+      "sender_wxid": "wxid_x8fxrw2yu97s22"
+    },
+    {
+      "create_time": 1757772238,
+      "formatted_time": "2025-09-13 22:03:58",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n！！！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757772241,
+      "formatted_time": "2025-09-13 22:04:01",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n速速加我微信",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757772242,
+      "formatted_time": "2025-09-13 22:04:02",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n哈哈哈哈哈哈哈",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757858347,
+      "formatted_time": "2025-09-14 21:59:07",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n@所有人 大家要准备在Cap box里最一个简单的自我介绍啦～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757858356,
+      "formatted_time": "2025-09-14 21:59:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1757858481,
+      "formatted_time": "2025-09-14 22:01:21",
+      "type": "文本消息",
+      "str_content": "i am ready",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757858484,
+      "formatted_time": "2025-09-14 22:01:24",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757858508,
+      "formatted_time": "2025-09-14 22:01:48",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n大家按照那个顺序发就好～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757858529,
+      "formatted_time": "2025-09-14 22:02:09",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n（我们这次会减少水群量，尽量让学长学姐们清晰地认识大家！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757858542,
+      "formatted_time": "2025-09-14 22:02:22",
+      "type": "文本消息",
+      "str_content": "🫡",
+      "is_send": 0,
+      "sender_name": "25国金管邹瑶",
+      "sender_wxid": "wxid_6erd74trxn1j22"
+    },
+    {
+      "create_time": 1757858569,
+      "formatted_time": "2025-09-14 22:02:49",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757858585,
+      "formatted_time": "2025-09-14 22:03:05",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n大家按照这个顺序来就好～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757860024,
+      "formatted_time": "2025-09-14 22:27:04",
+      "type": "文本消息",
+      "str_content": "没人接自我介绍的话我可以先发咩",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1757860032,
+      "formatted_time": "2025-09-14 22:27:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1757860058,
+      "formatted_time": "2025-09-14 22:27:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王昕妮",
+      "sender_wxid": "wxid_x8fxrw2yu97s22"
+    },
+    {
+      "create_time": 1757860064,
+      "formatted_time": "2025-09-14 22:27:44",
+      "type": "文本消息",
+      "str_content": "好诶好诶",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757860064,
+      "formatted_time": "2025-09-14 22:27:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757860105,
+      "formatted_time": "2025-09-14 22:28:25",
+      "type": "文本消息",
+      "str_content": "来了！",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1757860143,
+      "formatted_time": "2025-09-14 22:29:03",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n阔以阔以！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757860339,
+      "formatted_time": "2025-09-14 22:32:19",
+      "type": "文本消息",
+      "str_content": "抱歉抱歉！刚刚忘记看时间了！",
+      "is_send": 0,
+      "sender_name": "戚洋 13316954600",
+      "sender_wxid": "wxid_ufly3z1yjyde11"
+    },
+    {
+      "create_time": 1757860342,
+      "formatted_time": "2025-09-14 22:32:22",
+      "type": "文本消息",
+      "str_content": "可以补一下吗！",
+      "is_send": 0,
+      "sender_name": "戚洋 13316954600",
+      "sender_wxid": "wxid_ufly3z1yjyde11"
+    },
+    {
+      "create_time": 1757860356,
+      "formatted_time": "2025-09-14 22:32:36",
+      "type": "文本消息",
+      "str_content": "当然哈哈哈哈哈 接上就好了",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757861082,
+      "formatted_time": "2025-09-14 22:44:42",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n大家",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757861083,
+      "formatted_time": "2025-09-14 22:44:43",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n是不是",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757861086,
+      "formatted_time": "2025-09-14 22:44:46",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n都介绍好啦",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757861144,
+      "formatted_time": "2025-09-14 22:45:44",
+      "type": "文本消息",
+      "str_content": "我马上！",
+      "is_send": 0,
+      "sender_name": "境界",
+      "sender_wxid": "wxid_l6fccthivixo22"
+    },
+    {
+      "create_time": 1757861154,
+      "formatted_time": "2025-09-14 22:45:54",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n好滴！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757861255,
+      "formatted_time": "2025-09-14 22:47:35",
+      "type": "文本消息",
+      "str_content": "好啦！",
+      "is_send": 0,
+      "sender_name": "境界",
+      "sender_wxid": "wxid_l6fccthivixo22"
+    },
+    {
+      "create_time": 1757918881,
+      "formatted_time": "2025-09-15 14:48:01",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n@所有人 \n今天请大家开始选择自己的意向部门～\n先由会长团为大家介绍我们的【宣传部、联络部、学术部】！\n然后大家就可以在问卷中填写自己的意向：\nhttps://rz5u1axgk9.feishu.cn/share/base/form/shrcnaTlya5QieD3dKjS2MnV5yd",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757918959,
+      "formatted_time": "2025-09-15 14:49:19",
+      "type": "文本消息",
+      "str_content": "联络部，建设CAP专属快乐老家🏠\n我们负责连接 CAP 内部的伙伴们，无论是同级还是跨届，都是我们的家人；同时也牵起 在校与毕业学长姐 的纽带，让 CAP 网络更加紧密。\n\n在这里，联络部不仅是“沟通的桥梁”，更是 CAP 的 “快乐老家”：\n✨ 组织各种创意团建，带来新鲜玩法；\n✨ 策划惊喜生日和暖心活动，让每一位 CAPer 都能被记挂；\n✨ 与学长姐建立联系，分享经验、交流资源，帮助大家成长。\n\n我们是气氛组，也是能量站。💡\n加入联络部，你会发现：快乐不只是参与，而是由我们一起创造！",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757918981,
+      "formatted_time": "2025-09-15 14:49:41",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757918982,
+      "formatted_time": "2025-09-15 14:49:42",
+      "type": "文本消息",
+      "str_content": "宣传部：CAP 的创意引擎\n\n作为 CAP 品牌传播与情感联结的核心推动者，我们始终以创意为桥梁、以视觉为语言，致力于让社团理念被看见、被记住、被热爱。\n\n我们的核心工作围绕三大方向展开：\n\n🎨 视觉体系构建与品牌化表达：负责社团主题视觉及周边设计，以“专业标识 + 趣味IP”双轨策略塑造 CAP 鲜明形象。\n🧩 沉浸式内容与专属体验打造：策划并落地如像素角色定制游戏、藏头诗贺卡、限定红包封面等创新项目，让每一位成员感受到专属的温度与仪式感。\n🤝 情感化社群链接与传播破圈：通过 CAP 小熊、亚克力周边等内容，构建从线上到线下的情感纽带，增强成员归属感与社团影响力。\n\n✨不同于传统宣发，我们更注重小伙伴们创意的落地实现，让灵感落地生花～",
+      "is_send": 0,
+      "sender_name": "宇宙炮仗",
+      "sender_wxid": "wxid_o45qqi9z40si12"
+    },
+    {
+      "create_time": 1757919036,
+      "formatted_time": "2025-09-15 14:50:36",
+      "type": "文本消息",
+      "str_content": "学术部： CAP 的知识宝库\n作为 CAP 学术内培建设的核心牵头部门，我们始终致力于为每一位成员搭建成长平台、营造温暖氛围[机智]\n\n我们的核心工作围绕三大方向展开：\n\n❤牵头组织内培活动：以小组组长身份统筹内培，将内培材料沉淀为知识库。\n❤打造企业招聘讲座：精准对接企业资源，解读招聘趋势、拆解岗位需求。\n❤搭建学长学姐交流通道：联络优秀前辈开展职业发展分享会，分享实战经验。\n\n🥳加入学术部，和我们一起在交流中收获知识，在协作中凝聚力量，共同打造属于 CAP 的学术乐园与成长港湾！",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757919111,
+      "formatted_time": "2025-09-15 14:51:51",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n请大家在今天晚上23:59之前填写部门意向问卷：\nhttps://rz5u1axgk9.feishu.cn/share/base/form/shrcnaTlya5QieD3dKjS2MnV5yd",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757949168,
+      "formatted_time": "2025-09-15 23:12:48",
+      "type": "引用消息",
+      "str_content": "@所有人 大家记得填写问卷哦～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758772465,
+      "formatted_time": "2025-09-25 11:54:25",
+      "type": "文本消息",
+      "str_content": "@All 家人们，明中午11:30在港中深附近会和欧莱雅的hr一起吃个饭，聊聊天之类的～～～有对快消感性趣的弟弟妹妹们，想要参加的，可以私聊我～～",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1758776129,
+      "formatted_time": "2025-09-25 12:55:29",
+      "type": "引用消息",
+      "str_content": "update：时间更改为明晚18:30～",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1759821079,
+      "formatted_time": "2025-10-07 15:11:19",
+      "type": "文本消息",
+      "str_content": "@All 家人们记得去232425cap群里接龙下，记录下大家到的时间～～～如果有特殊情况不能来的，记得私信我[坏笑][坏笑][坏笑]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1760108284,
+      "formatted_time": "2025-10-10 22:58:04",
+      "type": "文本消息",
+      "str_content": "家人们，明天14:00我会在群里发布mentor-mentee的具体匹配内容，在这之前大家不要私自联系24级mentor～～～以及mentor不会给出确定的承诺～～～大家注意群消息！@All",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1760114539,
+      "formatted_time": "2025-10-11 00:42:19",
+      "type": "文件消息",
+      "str_content": "CAP第一次团建（10.10）.zip",
+      "is_send": 0,
+      "sender_name": "资勤",
+      "sender_wxid": "wxid_q8jpfe313irs22"
+    },
+    {
+      "create_time": 1760114557,
+      "formatted_time": "2025-10-11 00:42:37",
+      "type": "文本消息",
+      "str_content": "今天的照片～～！（其实是昨天）",
+      "is_send": 0,
+      "sender_name": "资勤",
+      "sender_wxid": "wxid_q8jpfe313irs22"
+    },
+    {
+      "create_time": 1760114575,
+      "formatted_time": "2025-10-11 00:42:55",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "资勤",
+      "sender_wxid": "wxid_q8jpfe313irs22"
+    },
+    {
+      "create_time": 1760114577,
+      "formatted_time": "2025-10-11 00:42:57",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "资勤",
+      "sender_wxid": "wxid_q8jpfe313irs22"
+    },
+    {
+      "create_time": 1760114578,
+      "formatted_time": "2025-10-11 00:42:58",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "资勤",
+      "sender_wxid": "wxid_q8jpfe313irs22"
+    },
+    {
+      "create_time": 1760114580,
+      "formatted_time": "2025-10-11 00:43:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "资勤",
+      "sender_wxid": "wxid_q8jpfe313irs22"
+    },
+    {
+      "create_time": 1760114668,
+      "formatted_time": "2025-10-11 00:44:28",
+      "type": "文本消息",
+      "str_content": "好高清的画质",
+      "is_send": 0,
+      "sender_name": "潘禹伯",
+      "sender_wxid": "wxid_vm19qo0qrnpg22"
+    },
+    {
+      "create_time": 1760114728,
+      "formatted_time": "2025-10-11 00:45:28",
+      "type": "文本消息",
+      "str_content": "伟大！！",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1760114816,
+      "formatted_time": "2025-10-11 00:46:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "资勤",
+      "sender_wxid": "wxid_q8jpfe313irs22"
+    },
+    {
+      "create_time": 1760114826,
+      "formatted_time": "2025-10-11 00:47:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1760114849,
+      "formatted_time": "2025-10-11 00:47:29",
+      "type": "文本消息",
+      "str_content": "太牛逼了！！！！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1760114863,
+      "formatted_time": "2025-10-11 00:47:43",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1760114864,
+      "formatted_time": "2025-10-11 00:47:44",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1760114885,
+      "formatted_time": "2025-10-11 00:48:05",
+      "type": "文本消息",
+      "str_content": "笑晕！！！",
+      "is_send": 0,
+      "sender_name": "资勤",
+      "sender_wxid": "wxid_q8jpfe313irs22"
+    },
+    {
+      "create_time": 1760114887,
+      "formatted_time": "2025-10-11 00:48:07",
+      "type": "文本消息",
+      "str_content": "wow[色]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1760114899,
+      "formatted_time": "2025-10-11 00:48:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "资勤",
+      "sender_wxid": "wxid_q8jpfe313irs22"
+    },
+    {
+      "create_time": 1760115879,
+      "formatted_time": "2025-10-11 01:04:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "境界",
+      "sender_wxid": "wxid_l6fccthivixo22"
+    },
+    {
+      "create_time": 1760115886,
+      "formatted_time": "2025-10-11 01:04:46",
+      "type": "文本消息",
+      "str_content": "居然还有我们！",
+      "is_send": 0,
+      "sender_name": "境界",
+      "sender_wxid": "wxid_l6fccthivixo22"
+    },
+    {
+      "create_time": 1760115902,
+      "formatted_time": "2025-10-11 01:05:02",
+      "type": "文本消息",
+      "str_content": "回家我们一起玩[色]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1760116030,
+      "formatted_time": "2025-10-11 01:07:10",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "林雅雪",
+      "sender_wxid": "wxid_zpbn4fq0ekgm12"
+    },
+    {
+      "create_time": 1760116044,
+      "formatted_time": "2025-10-11 01:07:24",
+      "type": "引用消息",
+      "str_content": "好！",
+      "is_send": 0,
+      "sender_name": "林雅雪",
+      "sender_wxid": "wxid_zpbn4fq0ekgm12"
+    },
+    {
+      "create_time": 1760116081,
+      "formatted_time": "2025-10-11 01:08:01",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25国金管邹瑶",
+      "sender_wxid": "wxid_6erd74trxn1j22"
+    },
+    {
+      "create_time": 1760116093,
+      "formatted_time": "2025-10-11 01:08:13",
+      "type": "视频消息",
+      "str_content": "[视频消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760116094,
+      "formatted_time": "2025-10-11 01:08:14",
+      "type": "文本消息",
+      "str_content": "有人放炮我不说是谁[旺柴]",
+      "is_send": 0,
+      "sender_name": "潘禹伯",
+      "sender_wxid": "wxid_vm19qo0qrnpg22"
+    },
+    {
+      "create_time": 1760116573,
+      "formatted_time": "2025-10-11 01:16:13",
+      "type": "文本消息",
+      "str_content": "这全景视角",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1760116578,
+      "formatted_time": "2025-10-11 01:16:18",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1760262906,
+      "formatted_time": "2025-10-12 17:55:06",
+      "type": "文本消息",
+      "str_content": "@所有人 25CAPer们！我们的内培将在下下周启动！请大家先填写一下自己每周空余的时间，方便我们确定最终的内培时间[嘿哈]ddl是今晚24点前，辛苦大家及时填写哇！\nhttps://xlimn7eikm.feishu.cn/share/base/form/shrcn1PHBGxOv8h6N3r9JRyB2vb",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1760277813,
+      "formatted_time": "2025-10-12 22:03:33",
+      "type": "引用消息",
+      "str_content": "没有填的bb们记得今晚填写哇@所有人",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1760441407,
+      "formatted_time": "2025-10-14 19:30:07",
+      "type": "文本消息",
+      "str_content": "@所有人 25CAPer们[哇]综合大家的时间和最近的考试安排，我们的内培暂定在【每周四晚19-21点】，并于【10.30】正式启动！下周考完试大家可以好好放松一下[拥抱]\n\n本学期内培包括两部分：综合内培 + 行业赛道知识册沉淀。其中【综合内培需CAP25级全体成员参与】，profitability专题由国金管专业的同学共同完成~\n\n请大家查收本学期CAP内培方案，并根据自己感兴趣的方向选择内培分组，在蓝框处填写姓名。先到先得，ddl是今晚24点哦👉https://xlimn7eikm.feishu.cn/wiki/Lnc5wi52Zi9X49kRtUMcvAL3n5d",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1760441417,
+      "formatted_time": "2025-10-14 19:30:17",
+      "type": "文本消息",
+      "str_content": "祝大家考试顺利！！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1760441479,
+      "formatted_time": "2025-10-14 19:31:19",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n考试顺利！！！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760441493,
+      "formatted_time": "2025-10-14 19:31:33",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1760442195,
+      "formatted_time": "2025-10-14 19:43:15",
+      "type": "文本消息",
+      "str_content": "大家注意【行业赛道知识册】是由学术部的同学负责撰写，其他同学不需要负责~ 大家在有【蓝框】的地方填写自己负责的内培场次即可喔@所有人",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1760454841,
+      "formatted_time": "2025-10-14 23:14:01",
+      "type": "引用消息",
+      "str_content": "@所有人 没有填写的同学记得填喔！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1761199305,
+      "formatted_time": "2025-10-23 14:01:45",
+      "type": "文本消息",
+      "str_content": "家人们，之前收集的照片有点糊！我们再传一下高清照片吧～～即将发推送喽！@All 截止今晚18:00\nhttps://zj54b8jq5a.feishu.cn/share/base/form/shrcnwkiEpFt53wPazgtT9Olexc",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1761224480,
+      "formatted_time": "2025-10-23 21:01:20",
+      "type": "引用消息",
+      "str_content": "@All 传一下照片呀～",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1761224768,
+      "formatted_time": "2025-10-23 21:06:08",
+      "type": "文本消息",
+      "str_content": "就是之前收集的自我介绍的照片～",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1762510842,
+      "formatted_time": "2025-11-07 18:20:42",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n@所有人 大家新学期的选课应该已经如火如荼的火冒三丈啦～我们接下来也会邀请大家进入CAP在校生的实习信息群～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763973145,
+      "formatted_time": "2025-11-24 16:32:25",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n🚀全新机组换届选举通知！\n\n@所有人 \n🔥CAP 发射台的全新机组选举预计于【2025年12月6日 19点-21点】开启啦！\n我们期待着新鲜的 CAPer 们站出来，继续飞往更远的星系！\n\n🌟报名方式：请有意向参加的 CAPer 填写以下问卷报名：https://rz5u1axgk9.feishu.cn/share/base/form/shrcntxb0CtUYvch0hUFIWBKhKh\n🚧报名截止：12月1号早上8:00\n\n💙有关换新的任何问题，欢迎大家联系我们会长团、部长团的任何一个机组成员私戳，我们一定会知无不言，言无不尽！！！\n\n在这里，也和大家分享一些碎碎念～https://rz5u1axgk9.feishu.cn/docx/ZVRedJBqZoViUaxKuZucjUcbnCh?from=from_copylink\n\n欢迎随时找我们私戳哦！！！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763973210,
+      "formatted_time": "2025-11-24 16:33:30",
+      "type": "文本消息",
+      "str_content": "两个月的时间真的过的超快!!! 很开心可以和大家经历cap的一次次团建和内培😭如果有意向换届的宝宝可以随时找我们四个人聊哦",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1763973224,
+      "formatted_time": "2025-11-24 16:33:44",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\nAnyTime！！！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763973236,
+      "formatted_time": "2025-11-24 16:33:56",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n💙💙💙",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763973253,
+      "formatted_time": "2025-11-24 16:34:13",
+      "type": "文本消息",
+      "str_content": "是的，大家也不要有压力[跳跳]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1763974217,
+      "formatted_time": "2025-11-24 16:50:17",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n我们的换届会很有爱很开心滴",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764692746,
+      "formatted_time": "2025-12-03 00:25:46",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764693580,
+      "formatted_time": "2025-12-03 00:39:40",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n@所有人  米娜桑～因为本周六研二有些同学要去挖红薯，我们的换届选举延期到【2025.12.7 19:30】周日哦～请大家记得务必到场哦～～～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764693623,
+      "formatted_time": "2025-12-03 00:40:23",
+      "type": "文本消息",
+      "str_content": "另外本周因为有团建，内培暂停一次！！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1764844051,
+      "formatted_time": "2025-12-04 18:27:31",
+      "type": "文本消息",
+      "str_content": "@所有人 本周没有内培大家不要走空哦，另外本周日是我们的换届选举❗️请大家18:35到场，我们正好顺便拍摄一下年会视频[嘿哈][嘿哈] 不能到场的同学私信我请假喔",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1765078232,
+      "formatted_time": "2025-12-07 11:30:32",
+      "type": "引用消息",
+      "str_content": "@所有人 大家记得今天18:35来汇丰圣诞树，我们一起录制年会视频！另外今晚录制结束后将进行换届选举，请所有同学按时出席，如果有特殊情况记得找我请假，并要完成线上投票哦！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1765102948,
+      "formatted_time": "2025-12-07 18:22:28",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n朋友们，我们刚刚接到学院物业临时通知，本来预约的教室因为学院临时活动被物业征用了\n我们正在跟学院和物业交涉中！\n但是为了给我们的候选人一个良好的竞选体验，以及给大家一个更好交流空间，我们预期推迟本次竞选选举，预期推迟到下周三（12.10）\n真的非常抱歉！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765102969,
+      "formatted_time": "2025-12-07 18:22:49",
+      "type": "文本消息",
+      "str_content": "麻烦大家了[大哭][大哭]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1765102986,
+      "formatted_time": "2025-12-07 18:23:06",
+      "type": "文本消息",
+      "str_content": "但是今晚还请麻烦大家【18:35】来汇丰大楼【圣诞树前】拍摄一下年会视频呀@所有人",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1765102999,
+      "formatted_time": "2025-12-07 18:23:19",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n[流泪][流泪][流泪][流泪][流泪]麻烦大家了",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765103923,
+      "formatted_time": "2025-12-07 18:38:43",
+      "type": "文本消息",
+      "str_content": "May our voices blend in perfect harmony..北京大学管理咨询协会祝大家新年快乐",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1765104060,
+      "formatted_time": "2025-12-07 18:41:00",
+      "type": "文本消息",
+      "str_content": "@所有人 大家快来呀",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1765182866,
+      "formatted_time": "2025-12-08 16:34:26",
+      "type": "文本消息",
+      "str_content": "【换届日程更新提醒】\n\n大家好！CAP的换届大会定于【本周三晚7:30在汇丰大楼231教室】举行，请各位25级的CAPer们按时线下出席，国金管的家人们我们会提供腾讯会议线上接入～ 如果有特殊情况无法到场的同学请在周三下午2点前告知我，最后一次2425级的相聚大家非必要最好不要请假喔！ @所有人",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1765360024,
+      "formatted_time": "2025-12-10 17:47:04",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n@所有人 这是今晚的换届规则～\nhttps://ai.feishu.cn/docx/FKXhdyeaFoDkbJxBB2Qce5L0nsh?from=from_copylink\n我们19:30，不见不散！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765371685,
+      "formatted_time": "2025-12-10 21:01:25",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "25管理 王振轩",
+      "sender_wxid": "wxid_ol3zb6jnx3gj22"
+    },
+    {
+      "create_time": 1765371708,
+      "formatted_time": "2025-12-10 21:01:48",
+      "type": "文本消息",
+      "str_content": "谁的伞落啦",
+      "is_send": 0,
+      "sender_name": "25管理 王振轩",
+      "sender_wxid": "wxid_ol3zb6jnx3gj22"
+    },
+    {
+      "create_time": 1765371925,
+      "formatted_time": "2025-12-10 21:05:25",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1765371928,
+      "formatted_time": "2025-12-10 21:05:28",
+      "type": "文本消息",
+      "str_content": "放这里啦",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1765372148,
+      "formatted_time": "2025-12-10 21:09:08",
+      "type": "文本消息",
+      "str_content": "啊",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765372150,
+      "formatted_time": "2025-12-10 21:09:10",
+      "type": "文本消息",
+      "str_content": "我的",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765372164,
+      "formatted_time": "2025-12-10 21:09:24",
+      "type": "文本消息",
+      "str_content": "门口吗 明天来拿",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765372166,
+      "formatted_time": "2025-12-10 21:09:26",
+      "type": "文本消息",
+      "str_content": "放到门口了！！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1765372172,
+      "formatted_time": "2025-12-10 21:09:32",
+      "type": "文本消息",
+      "str_content": "但是我怕物业可能会拿走哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1765372201,
+      "formatted_time": "2025-12-10 21:10:01",
+      "type": "文本消息",
+      "str_content": "好滴没事",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765372224,
+      "formatted_time": "2025-12-10 21:10:24",
+      "type": "文本消息",
+      "str_content": "看和伞的缘分了",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765372429,
+      "formatted_time": "2025-12-10 21:13:49",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1765376545,
+      "formatted_time": "2025-12-10 22:22:25",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765376551,
+      "formatted_time": "2025-12-10 22:22:31",
+      "type": "文本消息",
+      "str_content": "诶我帮你拿回来要不",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1765376553,
+      "formatted_time": "2025-12-10 22:22:33",
+      "type": "文本消息",
+      "str_content": "@赖琳琳 25 管理",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1765376568,
+      "formatted_time": "2025-12-10 22:22:48",
+      "type": "文本消息",
+      "str_content": "隔壁刚结束我刚路过你的伞哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1765376623,
+      "formatted_time": "2025-12-10 22:23:43",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1765461062,
+      "formatted_time": "2025-12-11 21:51:02",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765461065,
+      "formatted_time": "2025-12-11 21:51:05",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765461067,
+      "formatted_time": "2025-12-11 21:51:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765461073,
+      "formatted_time": "2025-12-11 21:51:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765461307,
+      "formatted_time": "2025-12-11 21:55:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    }
+  ],
+  "export_time": "2025-12-15T00:08:28+08:00",
+  "message_count": 418
+}

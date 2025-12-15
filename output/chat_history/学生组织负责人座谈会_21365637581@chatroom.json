@@ -1,0 +1,346 @@
+{
+  "session_id": "21365637581@chatroom",
+  "session_name": "学生组织负责人座谈会",
+  "messages": [
+    {
+      "create_time": 1684898398,
+      "formatted_time": "2023-05-24 11:19:58",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684898403,
+      "formatted_time": "2023-05-24 11:20:03",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684898407,
+      "formatted_time": "2023-05-24 11:20:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684898410,
+      "formatted_time": "2023-05-24 11:20:10",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684898414,
+      "formatted_time": "2023-05-24 11:20:14",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684898463,
+      "formatted_time": "2023-05-24 11:21:03",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684898470,
+      "formatted_time": "2023-05-24 11:21:10",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684898485,
+      "formatted_time": "2023-05-24 11:21:25",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684899205,
+      "formatted_time": "2023-05-24 11:33:25",
+      "type": "文本消息",
+      "str_content": "各位同学  我们初定本周五下午16：30开个学生组织负责人座谈会，邀请大家按时参加，如有其他安排请尽量协调时间，无法协调的请组织内其他骨干成员出席@所有人",
+      "is_send": 0,
+      "sender_name": "李鸿鹏",
+      "sender_wxid": "wxid_ju8baosf26fn22"
+    },
+    {
+      "create_time": 1684899217,
+      "formatted_time": "2023-05-24 11:33:37",
+      "type": "文件消息",
+      "str_content": "经济学院学生组织负责人座谈提纲.docx",
+      "is_send": 0,
+      "sender_name": "李鸿鹏",
+      "sender_wxid": "wxid_ju8baosf26fn22"
+    },
+    {
+      "create_time": 1684899253,
+      "formatted_time": "2023-05-24 11:34:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684899291,
+      "formatted_time": "2023-05-24 11:34:51",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684899351,
+      "formatted_time": "2023-05-24 11:35:51",
+      "type": "文本消息",
+      "str_content": "各位同学  我们初定本周五下午16：30开个学生组织负责人座谈会，邀请大家按时参加，如有其他安排请尽量协调时间，无法协调的请组织内其他骨干成员出席@所有人",
+      "is_send": 0,
+      "sender_name": "李鸿鹏",
+      "sender_wxid": "wxid_ju8baosf26fn22"
+    },
+    {
+      "create_time": 1684899360,
+      "formatted_time": "2023-05-24 11:36:00",
+      "type": "文件消息",
+      "str_content": "经济学院学生组织负责人座谈提纲(2).docx",
+      "is_send": 0,
+      "sender_name": "李鸿鹏",
+      "sender_wxid": "wxid_ju8baosf26fn22"
+    },
+    {
+      "create_time": 1684899394,
+      "formatted_time": "2023-05-24 11:36:34",
+      "type": "文本消息",
+      "str_content": "请大家提前按照座谈提纲  准备一下发言内容",
+      "is_send": 0,
+      "sender_name": "李鸿鹏",
+      "sender_wxid": "wxid_ju8baosf26fn22"
+    },
+    {
+      "create_time": 1684911398,
+      "formatted_time": "2023-05-24 14:56:38",
+      "type": "引用消息",
+      "str_content": "各位同学   我们开座谈会的时间定在明天晚上19：00怎么样   大家回复一下是否有时间@所有人",
+      "is_send": 0,
+      "sender_name": "李鸿鹏",
+      "sender_wxid": "wxid_ju8baosf26fn22"
+    },
+    {
+      "create_time": 1684911489,
+      "formatted_time": "2023-05-24 14:58:09",
+      "type": "文本消息",
+      "str_content": "有时间",
+      "is_send": 0,
+      "sender_name": "陈俞先",
+      "sender_wxid": "wxid_jna4cpoj038l21"
+    },
+    {
+      "create_time": 1684911505,
+      "formatted_time": "2023-05-24 14:58:25",
+      "type": "文本消息",
+      "str_content": "HoracePong:\n大家改一下备注",
+      "is_send": 0
+    },
+    {
+      "create_time": 1684911515,
+      "formatted_time": "2023-05-24 14:58:35",
+      "type": "文本消息",
+      "str_content": "时间有冲突[可怜]",
+      "is_send": 0,
+      "sender_name": "曾柳淇",
+      "sender_wxid": "wxid_gp9em9jm3n9722"
+    },
+    {
+      "create_time": 1684911547,
+      "formatted_time": "2023-05-24 14:59:07",
+      "type": "文本消息",
+      "str_content": "有时间",
+      "is_send": 0,
+      "sender_name": "Pure.",
+      "sender_wxid": "wxid_9xpptye1ocny22"
+    },
+    {
+      "create_time": 1684911553,
+      "formatted_time": "2023-05-24 14:59:13",
+      "type": "文本消息",
+      "str_content": "有时间",
+      "is_send": 0,
+      "sender_name": "语焉",
+      "sender_wxid": "wxid_u92ew56pgi3r22"
+    },
+    {
+      "create_time": 1684911558,
+      "formatted_time": "2023-05-24 14:59:18",
+      "type": "文本消息",
+      "str_content": "有时间",
+      "is_send": 0,
+      "sender_name": "Y",
+      "sender_wxid": "wxid_ssukmf62qlgs22"
+    },
+    {
+      "create_time": 1684911560,
+      "formatted_time": "2023-05-24 14:59:20",
+      "type": "文本消息",
+      "str_content": "有课[流淚]",
+      "is_send": 0,
+      "sender_name": "ro饼",
+      "sender_wxid": "wxid_30uuhiaslsqz22"
+    },
+    {
+      "create_time": 1684911563,
+      "formatted_time": "2023-05-24 14:59:23",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684914870,
+      "formatted_time": "2023-05-24 15:54:30",
+      "type": "文本消息",
+      "str_content": "时间有冲突",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1684915438,
+      "formatted_time": "2023-05-24 16:03:58",
+      "type": "文本消息",
+      "str_content": "时间有冲突",
+      "is_send": 0,
+      "sender_name": "Vargas Llosa",
+      "sender_wxid": "wxid_argri106yrnh22"
+    },
+    {
+      "create_time": 1684915564,
+      "formatted_time": "2023-05-24 16:06:04",
+      "type": "文本消息",
+      "str_content": "时间有冲突的同学请派一个组织内的其他骨干成员参加一下   谢谢    把他们拉进群里",
+      "is_send": 0,
+      "sender_name": "李鸿鹏",
+      "sender_wxid": "wxid_ju8baosf26fn22"
+    },
+    {
+      "create_time": 1684915747,
+      "formatted_time": "2023-05-24 16:09:07",
+      "type": "文本消息",
+      "str_content": "时间有冲突",
+      "is_send": 0,
+      "sender_name": "EMONEE",
+      "sender_wxid": "wxid_u5pa4wovodeh12"
+    },
+    {
+      "create_time": 1684915769,
+      "formatted_time": "2023-05-24 16:09:29",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684926649,
+      "formatted_time": "2023-05-24 19:10:49",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684935379,
+      "formatted_time": "2023-05-24 21:36:19",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684937338,
+      "formatted_time": "2023-05-24 22:08:58",
+      "type": "文本消息",
+      "str_content": "@李鸿鹏 请问是明天晚上19：00开会吗",
+      "is_send": 0,
+      "sender_name": "含熊量很高",
+      "sender_wxid": "wxid_vsdb9kzm08ye22"
+    },
+    {
+      "create_time": 1684938123,
+      "formatted_time": "2023-05-24 22:22:03",
+      "type": "文本消息",
+      "str_content": "是的",
+      "is_send": 0,
+      "sender_name": "李鸿鹏",
+      "sender_wxid": "wxid_ju8baosf26fn22"
+    },
+    {
+      "create_time": 1684938357,
+      "formatted_time": "2023-05-24 22:25:57",
+      "type": "文本消息",
+      "str_content": "好的 谢谢[玫瑰]",
+      "is_send": 0,
+      "sender_name": "含熊量很高",
+      "sender_wxid": "wxid_vsdb9kzm08ye22"
+    },
+    {
+      "create_time": 1684942506,
+      "formatted_time": "2023-05-24 23:35:06",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "学生组织负责人座谈会",
+      "sender_wxid": "21365637581@chatroom"
+    },
+    {
+      "create_time": 1684998298,
+      "formatted_time": "2023-05-25 15:04:58",
+      "type": "文本消息",
+      "str_content": "大家别忘了今晚的座谈会哈   19：00在经济学院307会议室会议室，请提前按照提纲准备发言内容",
+      "is_send": 0,
+      "sender_name": "李鸿鹏",
+      "sender_wxid": "wxid_ju8baosf26fn22"
+    },
+    {
+      "create_time": 1684998304,
+      "formatted_time": "2023-05-25 15:05:04",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 0,
+      "sender_name": "李鸿鹏",
+      "sender_wxid": "wxid_ju8baosf26fn22"
+    },
+    {
+      "create_time": 1684998321,
+      "formatted_time": "2023-05-25 15:05:21",
+      "type": "文本消息",
+      "str_content": "HoracePong:\n收到",
+      "is_send": 0
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 38
+}

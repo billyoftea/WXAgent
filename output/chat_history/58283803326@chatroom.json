@@ -1,0 +1,619 @@
+{
+  "session_id": "58283803326@chatroom",
+  "session_name": "58283803326@chatroom",
+  "messages": [
+    {
+      "create_time": 1756374083,
+      "formatted_time": "2025-08-28 17:41:23",
+      "type": "文本消息",
+      "str_content": "111",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756374085,
+      "formatted_time": "2025-08-28 17:41:25",
+      "type": "文本消息",
+      "str_content": "大家怎么吃",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756374147,
+      "formatted_time": "2025-08-28 17:42:27",
+      "type": "文本消息",
+      "str_content": "算了各自吃吧[捂脸][捂脸][捂脸]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756374372,
+      "formatted_time": "2025-08-28 17:46:12",
+      "type": "文本消息",
+      "str_content": "合理",
+      "is_send": 0,
+      "sender_name": "南京大学王子垚",
+      "sender_wxid": "wxid_owakf1ai15vf22"
+    },
+    {
+      "create_time": 1756374377,
+      "formatted_time": "2025-08-28 17:46:17",
+      "type": "文本消息",
+      "str_content": "人已经在清华食堂了",
+      "is_send": 0,
+      "sender_name": "南京大学王子垚",
+      "sender_wxid": "wxid_owakf1ai15vf22"
+    },
+    {
+      "create_time": 1756374478,
+      "formatted_time": "2025-08-28 17:47:58",
+      "type": "文本消息",
+      "str_content": "已经吃完麦了",
+      "is_send": 0,
+      "sender_name": "王稼禾",
+      "sender_wxid": "wxid_nht696qwtl9a22"
+    },
+    {
+      "create_time": 1756374555,
+      "formatted_time": "2025-08-28 17:49:15",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756374556,
+      "formatted_time": "2025-08-28 17:49:16",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756374563,
+      "formatted_time": "2025-08-28 17:49:23",
+      "type": "文本消息",
+      "str_content": "我也在清华食堂",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756374642,
+      "formatted_time": "2025-08-28 17:50:42",
+      "type": "位置消息",
+      "str_content": "[位置消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756374670,
+      "formatted_time": "2025-08-28 17:51:10",
+      "type": "文本消息",
+      "str_content": "六点二十到店大家ok吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756374678,
+      "formatted_time": "2025-08-28 17:51:18",
+      "type": "文本消息",
+      "str_content": "还是六点十分",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756374710,
+      "formatted_time": "2025-08-28 17:51:50",
+      "type": "文本消息",
+      "str_content": "我可能得晚一点点",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756374722,
+      "formatted_time": "2025-08-28 17:52:02",
+      "type": "文本消息",
+      "str_content": "没事没事，那大概多久呀",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756374777,
+      "formatted_time": "2025-08-28 17:52:57",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756374790,
+      "formatted_time": "2025-08-28 17:53:10",
+      "type": "文本消息",
+      "str_content": "因为我才到食堂 估计20分钟吃完 然后骑车过来",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756374796,
+      "formatted_time": "2025-08-28 17:53:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756374815,
+      "formatted_time": "2025-08-28 17:53:35",
+      "type": "文本消息",
+      "str_content": "骑车的话我看地图上15分钟 但我不太熟可能要20左右",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756375664,
+      "formatted_time": "2025-08-28 18:07:44",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王稼禾",
+      "sender_wxid": "wxid_nht696qwtl9a22"
+    },
+    {
+      "create_time": 1756375675,
+      "formatted_time": "2025-08-28 18:07:55",
+      "type": "文本消息",
+      "str_content": "这个路线是不是走不了啊？",
+      "is_send": 0,
+      "sender_name": "王稼禾",
+      "sender_wxid": "wxid_nht696qwtl9a22"
+    },
+    {
+      "create_time": 1756375704,
+      "formatted_time": "2025-08-28 18:08:24",
+      "type": "文本消息",
+      "str_content": "我们当时是给施工的说了下是学生，就放行了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756375719,
+      "formatted_time": "2025-08-28 18:08:39",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "王稼禾",
+      "sender_wxid": "wxid_nht696qwtl9a22"
+    },
+    {
+      "create_time": 1756375852,
+      "formatted_time": "2025-08-28 18:10:52",
+      "type": "文本消息",
+      "str_content": "@EricSquare 我带你吧，你在哪",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756376002,
+      "formatted_time": "2025-08-28 18:13:22",
+      "type": "文本消息",
+      "str_content": "还在清华食堂",
+      "is_send": 0,
+      "sender_name": "南京大学王子垚",
+      "sender_wxid": "wxid_owakf1ai15vf22"
+    },
+    {
+      "create_time": 1756376421,
+      "formatted_time": "2025-08-28 18:20:21",
+      "type": "文本消息",
+      "str_content": "我约了六点四十的ok吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756376430,
+      "formatted_time": "2025-08-28 18:20:30",
+      "type": "文本消息",
+      "str_content": "然后我可以带个人过去 有人需要吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756376434,
+      "formatted_time": "2025-08-28 18:20:34",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756376476,
+      "formatted_time": "2025-08-28 18:21:16",
+      "type": "文本消息",
+      "str_content": "我带个女生来",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756376552,
+      "formatted_time": "2025-08-28 18:22:32",
+      "type": "文本消息",
+      "str_content": "对外经贸 金管的",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756376572,
+      "formatted_time": "2025-08-28 18:22:52",
+      "type": "文本消息",
+      "str_content": "我们可能晚点 她还没吃饭",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756376700,
+      "formatted_time": "2025-08-28 18:25:00",
+      "type": "文本消息",
+      "str_content": "OK, OK, 那就差不多7点好了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756376812,
+      "formatted_time": "2025-08-28 18:26:52",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756377833,
+      "formatted_time": "2025-08-28 18:43:53",
+      "type": "文本消息",
+      "str_content": "jrm什么时候到？我等了20分钟了[流泪]",
+      "is_send": 0,
+      "sender_name": "王稼禾",
+      "sender_wxid": "wxid_nht696qwtl9a22"
+    },
+    {
+      "create_time": 1756378115,
+      "formatted_time": "2025-08-28 18:48:35",
+      "type": "文本消息",
+      "str_content": "我来了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756378235,
+      "formatted_time": "2025-08-28 18:50:35",
+      "type": "文本消息",
+      "str_content": "我马上到",
+      "is_send": 0,
+      "sender_name": "南京大学王子垚",
+      "sender_wxid": "wxid_owakf1ai15vf22"
+    },
+    {
+      "create_time": 1756378237,
+      "formatted_time": "2025-08-28 18:50:37",
+      "type": "文本消息",
+      "str_content": "十分钟吧",
+      "is_send": 0,
+      "sender_name": "南京大学王子垚",
+      "sender_wxid": "wxid_owakf1ai15vf22"
+    },
+    {
+      "create_time": 1756378339,
+      "formatted_time": "2025-08-28 18:52:19",
+      "type": "文本消息",
+      "str_content": "991",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756378408,
+      "formatted_time": "2025-08-28 18:53:28",
+      "type": "文本消息",
+      "str_content": "来了 xisnzaicongsushechufa",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756378411,
+      "formatted_time": "2025-08-28 18:53:31",
+      "type": "文本消息",
+      "str_content": "现在从宿舍出发",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756379252,
+      "formatted_time": "2025-08-28 19:07:32",
+      "type": "文本消息",
+      "str_content": "稍等一下啊这路有点奇怪",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756379259,
+      "formatted_time": "2025-08-28 19:07:39",
+      "type": "文本消息",
+      "str_content": "我们导航越骑越久",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756379987,
+      "formatted_time": "2025-08-28 19:19:47",
+      "type": "文本消息",
+      "str_content": "[流泪]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756380001,
+      "formatted_time": "2025-08-28 19:20:01",
+      "type": "位置消息",
+      "str_content": "[位置消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756380009,
+      "formatted_time": "2025-08-28 19:20:09",
+      "type": "文本消息",
+      "str_content": "在这个写字楼的二楼",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756380396,
+      "formatted_time": "2025-08-28 19:26:36",
+      "type": "文本消息",
+      "str_content": "我们绕了一整个大学城",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756380403,
+      "formatted_time": "2025-08-28 19:26:43",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "58283803326@chatroom",
+      "sender_wxid": "58283803326@chatroom"
+    },
+    {
+      "create_time": 1756380403,
+      "formatted_time": "2025-08-28 19:26:43",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756380410,
+      "formatted_time": "2025-08-28 19:26:50",
+      "type": "文本消息",
+      "str_content": "差点开上高速路……",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756380413,
+      "formatted_time": "2025-08-28 19:26:53",
+      "type": "文本消息",
+      "str_content": "南坪快速",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756380414,
+      "formatted_time": "2025-08-28 19:26:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756380418,
+      "formatted_time": "2025-08-28 19:26:58",
+      "type": "文本消息",
+      "str_content": "救命",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756380418,
+      "formatted_time": "2025-08-28 19:26:58",
+      "type": "文本消息",
+      "str_content": "现在到楼下了",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756386686,
+      "formatted_time": "2025-08-28 21:11:26",
+      "type": "文本消息",
+      "str_content": "家人们",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756386700,
+      "formatted_time": "2025-08-28 21:11:40",
+      "type": "文本消息",
+      "str_content": "活动结束后还麻烦发一下群收款",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756386714,
+      "formatted_time": "2025-08-28 21:11:54",
+      "type": "文本消息",
+      "str_content": "[玫瑰][玫瑰]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756386819,
+      "formatted_time": "2025-08-28 21:13:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756392979,
+      "formatted_time": "2025-08-28 22:56:19",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756392984,
+      "formatted_time": "2025-08-28 22:56:24",
+      "type": "文本消息",
+      "str_content": "水上一个亿",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756393017,
+      "formatted_time": "2025-08-28 22:56:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王稼禾",
+      "sender_wxid": "wxid_nht696qwtl9a22"
+    },
+    {
+      "create_time": 1756393040,
+      "formatted_time": "2025-08-28 22:57:20",
+      "type": "文本消息",
+      "str_content": "哥们赚翻了",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1756393053,
+      "formatted_time": "2025-08-28 22:57:33",
+      "type": "文本消息",
+      "str_content": "一家赢三家",
+      "is_send": 0,
+      "sender_name": "南京大学王子垚",
+      "sender_wxid": "wxid_owakf1ai15vf22"
+    },
+    {
+      "create_time": 1756393062,
+      "formatted_time": "2025-08-28 22:57:42",
+      "type": "文本消息",
+      "str_content": "我的200",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1756393064,
+      "formatted_time": "2025-08-28 22:57:44",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1756393086,
+      "formatted_time": "2025-08-28 22:58:06",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756393115,
+      "formatted_time": "2025-08-28 22:58:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756393153,
+      "formatted_time": "2025-08-28 22:59:13",
+      "type": "文本消息",
+      "str_content": "打麻将原来是性价比这么高的团建！",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1756393161,
+      "formatted_time": "2025-08-28 22:59:21",
+      "type": "文本消息",
+      "str_content": "我第一次来棋牌室打诶",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1756393167,
+      "formatted_time": "2025-08-28 22:59:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1756393189,
+      "formatted_time": "2025-08-28 22:59:49",
+      "type": "文本消息",
+      "str_content": "媛总，你欠我的那四千万...",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756393343,
+      "formatted_time": "2025-08-28 23:02:23",
+      "type": "文本消息",
+      "str_content": "笑晕了",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1756393411,
+      "formatted_time": "2025-08-28 23:03:31",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756396247,
+      "formatted_time": "2025-08-28 23:50:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    }
+  ],
+  "export_time": "2025-12-15T00:08:25+08:00",
+  "message_count": 72
+}

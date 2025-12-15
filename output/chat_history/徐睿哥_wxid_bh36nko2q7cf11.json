@@ -1,0 +1,64 @@
+{
+  "session_id": "wxid_bh36nko2q7cf11",
+  "session_name": "徐睿哥",
+  "messages": [
+    {
+      "create_time": 1675512562,
+      "formatted_time": "2023-02-04 20:09:22",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "徐睿哥"
+    },
+    {
+      "create_time": 1738604566,
+      "formatted_time": "2025-02-04 01:42:46",
+      "type": "文本消息",
+      "str_content": "哥你明天晚上有空不",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1738604575,
+      "formatted_time": "2025-02-04 01:42:55",
+      "type": "文本消息",
+      "str_content": "咱哥仨一块吃点喝点去？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1738630532,
+      "formatted_time": "2025-02-04 08:55:32",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "徐睿哥"
+    },
+    {
+      "create_time": 1738664336,
+      "formatted_time": "2025-02-04 18:18:56",
+      "type": "位置消息",
+      "str_content": "[位置消息]",
+      "is_send": 0,
+      "sender_name": "徐睿哥"
+    },
+    {
+      "create_time": 1738681443,
+      "formatted_time": "2025-02-04 23:04:03",
+      "type": "文本消息",
+      "str_content": "到家了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1738681464,
+      "formatted_time": "2025-02-04 23:04:24",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "徐睿哥"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:37+08:00",
+  "message_count": 7
+}

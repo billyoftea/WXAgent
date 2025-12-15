@@ -1,0 +1,920 @@
+{
+  "session_id": "wxid_fqeacdahhs4g1",
+  "session_name": "校会 时豪",
+  "messages": [
+    {
+      "create_time": 1698237181,
+      "formatted_time": "2023-10-25 20:33:01",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1698237794,
+      "formatted_time": "2023-10-25 20:43:14",
+      "type": "文本消息",
+      "str_content": "同学你好，我刚发现明晚经济学院所有主席团年级都有晚课，这种情况可能确实没法到场",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698237801,
+      "formatted_time": "2023-10-25 20:43:21",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698237804,
+      "formatted_time": "2023-10-25 20:43:24",
+      "type": "文本消息",
+      "str_content": "该怎么处理呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698237813,
+      "formatted_time": "2023-10-25 20:43:33",
+      "type": "文本消息",
+      "str_content": "部门负责人可以来吗",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1698237856,
+      "formatted_time": "2023-10-25 20:44:16",
+      "type": "文本消息",
+      "str_content": "比较尴尬的是我们老部门负责人都是这一级的，都有晚课，且新负责人刚好是明天下午换届，估计周末才能出结果",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698237955,
+      "formatted_time": "2023-10-25 20:45:55",
+      "type": "文本消息",
+      "str_content": "emm反正就是说如果主席团成员都无法到场的话 我们经济学院学生会这边要出一个uu传达一下开会的内容就ok",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1698238253,
+      "formatted_time": "2023-10-25 20:50:53",
+      "type": "文本消息",
+      "str_content": "[OK][OK]好滴 了解啦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698238262,
+      "formatted_time": "2023-10-25 20:51:02",
+      "type": "文本消息",
+      "str_content": "感谢！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698238267,
+      "formatted_time": "2023-10-25 20:51:07",
+      "type": "文本消息",
+      "str_content": "嗯呐嗯呐 辛苦辛苦！",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699281514,
+      "formatted_time": "2023-11-06 22:38:34",
+      "type": "文本消息",
+      "str_content": "学长好！不好意思可能要打扰下您，向您确定几个学代会相关的问题：\n1.预备会议、第一阶段全体会议、第二阶段全体会议的关系是什么，开会的时候需要做区分吗？\n2.修订学生会章程那一节该如何理解呢？如果已经有了学生会章程且不打算修改，那这一节应该如何处理呢？\n3.上次开会提到的选举校学代会代表暂时为可选项，具体要等校学代会的通知，那想问下通知什么时候出来呢，因为我们学院计划在11月进行学代会，如果本次大会不选举校学代会代表，那会不会影响校学代会呢？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1699281665,
+      "formatted_time": "2023-11-06 22:41:05",
+      "type": "文本消息",
+      "str_content": "1.这三个是并列&递进关系，开会的时候是要区分的 类似于这种",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699281666,
+      "formatted_time": "2023-11-06 22:41:06",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699281733,
+      "formatted_time": "2023-11-06 22:42:13",
+      "type": "文本消息",
+      "str_content": "2.章程肯定要修改 至少要修改的一项 就是补充最新的学联学生会指导文件《关于巩固高校学生会（研究生会）改革成果的若干措施》中青联发〔2023〕3号",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699281792,
+      "formatted_time": "2023-11-06 22:43:12",
+      "type": "文本消息",
+      "str_content": "3.不影响校学代会的 因为选拔到校学代会参会的院系代表 不一定必须通过学生代表大会 还有其他途径和选举形式 等11月12月工作指引出来之后 我们会跟大家详细交流讨论~",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699281860,
+      "formatted_time": "2023-11-06 22:44:20",
+      "type": "文本消息",
+      "str_content": "٩(•̤̀ᵕ•̤́๑)ᵒᵏᵎᵎᵎᵎ明白啦   谢谢学长！辛苦学长这么晚回复消息🥺🥺/:rose",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1699281875,
+      "formatted_time": "2023-11-06 22:44:35",
+      "type": "文本消息",
+      "str_content": "没事儿~",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699788990,
+      "formatted_time": "2023-11-12 19:36:30",
+      "type": "文本消息",
+      "str_content": "学长，我们学院计划在本月末开学代会，准备直接选好我们校代会的代表了，还有几点想向您请教下：\n1.校学代会代表/常任代表要选多少人？和往届相同吗？\n2.模板中的第x届学生常任代表候选人就是学院推选校常任代表吗？\n3.大会筹备工作组的各职位（组长、副组长、资格审查委员会的相关职位）一般是由谁来担任呢，因为我看我们去年的资料中好像没有涉及大会筹备工作组的相关内容[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1699789004,
+      "formatted_time": "2023-11-12 19:36:44",
+      "type": "文本消息",
+      "str_content": "这是校会模板里面的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1699789004,
+      "formatted_time": "2023-11-12 19:36:44",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1699802630,
+      "formatted_time": "2023-11-12 23:23:50",
+      "type": "文本消息",
+      "str_content": "徐昂学弟晚上好哇 让学弟久等啦 我反馈一下学弟问的三个问题~",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699803591,
+      "formatted_time": "2023-11-12 23:39:51",
+      "type": "文本消息",
+      "str_content": "第一个问题具体的人数我现在还无法确定 今年的筹备工作还没有启动 预计11月月末或者12月初启动 到时候会跟大家联系传达滴",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699803606,
+      "formatted_time": "2023-11-12 23:40:06",
+      "type": "文本消息",
+      "str_content": "第二个问题这个不是往学校推的常任代表",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699803651,
+      "formatted_time": "2023-11-12 23:40:51",
+      "type": "文本消息",
+      "str_content": "学弟肯定知道有校学代会上选举的校级常任代表",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699803684,
+      "formatted_time": "2023-11-12 23:41:24",
+      "type": "引用消息",
+      "str_content": "模板里的这个东西是给部分有院级常任代表选举准备用的hh",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699803708,
+      "formatted_time": "2023-11-12 23:41:48",
+      "type": "文本消息",
+      "str_content": "就是有的学院会在院学代会上选举院常任代表",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699803726,
+      "formatted_time": "2023-11-12 23:42:06",
+      "type": "文本消息",
+      "str_content": "如果我们经济学院没有设院常任代表的话 可以直接在模板里删掉",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699804167,
+      "formatted_time": "2023-11-12 23:49:27",
+      "type": "文本消息",
+      "str_content": "第三个问题的话，筹备工作组顾名思义就是负责整个大会筹备工作的，这个人员名单也因学院而异。不过一般来说，组长是院系团委书记，副组长可以是主席团成员，资格审查委员会是负责代表资格审查的uu。当然资格审查委员会是筹备工作组的一个part，其他part比如大会秘书组啥的都可以设置，资格审查委员会等这些其他具体工作就是负责大会筹备的相关工作人员~",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699804176,
+      "formatted_time": "2023-11-12 23:49:36",
+      "type": "文本消息",
+      "str_content": "大概是这样子一个情况",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699804181,
+      "formatted_time": "2023-11-12 23:49:41",
+      "type": "文本消息",
+      "str_content": "不知道有没有说清楚hh",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699804224,
+      "formatted_time": "2023-11-12 23:50:24",
+      "type": "文本消息",
+      "str_content": "好滴好滴！辛苦学长这么那么晚回复！！[玫瑰]都解释的很清楚明白！\n那想请教下学长这种情况下我们院学代会是不是暂时不推选校代表比较好呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1699804264,
+      "formatted_time": "2023-11-12 23:51:04",
+      "type": "文本消息",
+      "str_content": "我觉得是的学弟",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699804265,
+      "formatted_time": "2023-11-12 23:51:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699804297,
+      "formatted_time": "2023-11-12 23:51:37",
+      "type": "文本消息",
+      "str_content": "到时候方案出来之后 如果咱经济学院学代会来完了 还可以通过选举委员会等其他形式选举去校学代会的代表",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699804305,
+      "formatted_time": "2023-11-12 23:51:45",
+      "type": "文本消息",
+      "str_content": "没事儿没事儿 学弟也辛苦啦",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699804329,
+      "formatted_time": "2023-11-12 23:52:09",
+      "type": "文本消息",
+      "str_content": "好的好的！明白！那我再和院领导商量商量！辛苦学长解答啦！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1699804335,
+      "formatted_time": "2023-11-12 23:52:15",
+      "type": "文本消息",
+      "str_content": "学长早点休息~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1699804338,
+      "formatted_time": "2023-11-12 23:52:18",
+      "type": "文本消息",
+      "str_content": "嗯嗯嗯嗯好滴好滴",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699804340,
+      "formatted_time": "2023-11-12 23:52:20",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699804345,
+      "formatted_time": "2023-11-12 23:52:25",
+      "type": "文本消息",
+      "str_content": "学弟也是哇",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699804350,
+      "formatted_time": "2023-11-12 23:52:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1699804448,
+      "formatted_time": "2023-11-12 23:54:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700276211,
+      "formatted_time": "2023-11-18 10:56:51",
+      "type": "文本消息",
+      "str_content": "学长好~想问下我们学院计划在下周四下午开学代会，但因为前期准备和信息收集的一些问题，可能要明天才能向校会交那个请示文件，可能不太符合我们提前十天交材料的要求，想问下这个要紧吗[可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700280624,
+      "formatted_time": "2023-11-18 12:10:24",
+      "type": "文本消息",
+      "str_content": "如果材料问题不大的话 这个要求就还好吧[呲牙]",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700280654,
+      "formatted_time": "2023-11-18 12:10:54",
+      "type": "文本消息",
+      "str_content": "哈哈哈好滴，明白啦 谢谢学长",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700280665,
+      "formatted_time": "2023-11-18 12:11:05",
+      "type": "引用消息",
+      "str_content": "那个是小问题 就是下周四下午材料学院开学代会[偷笑][偷笑][偷笑]",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700280741,
+      "formatted_time": "2023-11-18 12:12:21",
+      "type": "文本消息",
+      "str_content": "emm那这个怎么处理呀，因为我们前期本来是按照下周末准备的，院团委又改到的周四[流泪]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700280782,
+      "formatted_time": "2023-11-18 12:13:02",
+      "type": "文本消息",
+      "str_content": "我看看可以协调一下其他主席团成员参会致辞",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700280803,
+      "formatted_time": "2023-11-18 12:13:23",
+      "type": "文本消息",
+      "str_content": "好的好的，辛苦学长了！[可怜][可怜][可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700371463,
+      "formatted_time": "2023-11-19 13:24:23",
+      "type": "文本消息",
+      "str_content": "学长，您这边协调的顺利嘛[可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700371833,
+      "formatted_time": "2023-11-19 13:30:33",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈学弟 还在协调~",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700371859,
+      "formatted_time": "2023-11-19 13:30:59",
+      "type": "文本消息",
+      "str_content": "好滴好滴！[玫瑰]麻烦学长了[可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700371893,
+      "formatted_time": "2023-11-19 13:31:33",
+      "type": "文本消息",
+      "str_content": "没事儿",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700371929,
+      "formatted_time": "2023-11-19 13:32:09",
+      "type": "文本消息",
+      "str_content": "有什么消息 俺来给学弟反馈哦",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700371945,
+      "formatted_time": "2023-11-19 13:32:25",
+      "type": "文本消息",
+      "str_content": "好哦好哦！[玫瑰][玫瑰][玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700426204,
+      "formatted_time": "2023-11-20 04:36:44",
+      "type": "文本消息",
+      "str_content": "学弟基本上协调过了 校学生会这边戴语嫣来参会&致辞 团委老师还在协调",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700444622,
+      "formatted_time": "2023-11-20 09:43:42",
+      "type": "文本消息",
+      "str_content": "嗯嗯，校团委老师也会来我们院学代会致辞嘛[疑问]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700454360,
+      "formatted_time": "2023-11-20 12:26:00",
+      "type": "文本消息",
+      "str_content": "他们不致辞",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700454365,
+      "formatted_time": "2023-11-20 12:26:05",
+      "type": "文本消息",
+      "str_content": "他们只是代表",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700454382,
+      "formatted_time": "2023-11-20 12:26:22",
+      "type": "文本消息",
+      "str_content": "好滴好滴，那我等您的消息~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700454395,
+      "formatted_time": "2023-11-20 12:26:35",
+      "type": "文本消息",
+      "str_content": "只有语嫣致辞",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700454396,
+      "formatted_time": "2023-11-20 12:26:36",
+      "type": "文本消息",
+      "str_content": "对了",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700454398,
+      "formatted_time": "2023-11-20 12:26:38",
+      "type": "文本消息",
+      "str_content": "学弟",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700454400,
+      "formatted_time": "2023-11-20 12:26:40",
+      "type": "文本消息",
+      "str_content": "你把具体的时间地点发我下",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700454421,
+      "formatted_time": "2023-11-20 12:27:01",
+      "type": "文本消息",
+      "str_content": "就是第一阶段正式会议那个时间",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700454434,
+      "formatted_time": "2023-11-20 12:27:14",
+      "type": "文本消息",
+      "str_content": "以及今天能交请示材料不",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700454437,
+      "formatted_time": "2023-11-20 12:27:17",
+      "type": "文本消息",
+      "str_content": "还需要打磨",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700454461,
+      "formatted_time": "2023-11-20 12:27:41",
+      "type": "文本消息",
+      "str_content": "嗯嗯，下午就去提交",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700454477,
+      "formatted_time": "2023-11-20 12:27:57",
+      "type": "文本消息",
+      "str_content": "电子档在邮箱里吗",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700454499,
+      "formatted_time": "2023-11-20 12:28:19",
+      "type": "文本消息",
+      "str_content": "第一阶段正式会议在11月23日15:00于经济学院报告厅举行",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700454504,
+      "formatted_time": "2023-11-20 12:28:24",
+      "type": "引用消息",
+      "str_content": "马上发",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700454596,
+      "formatted_time": "2023-11-20 12:29:56",
+      "type": "文本消息",
+      "str_content": "OK OK",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700454600,
+      "formatted_time": "2023-11-20 12:30:00",
+      "type": "文本消息",
+      "str_content": "可以给我同步一份",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700454617,
+      "formatted_time": "2023-11-20 12:30:17",
+      "type": "文本消息",
+      "str_content": "我看看应该需要反馈一些建议",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700454629,
+      "formatted_time": "2023-11-20 12:30:29",
+      "type": "文本消息",
+      "str_content": "A504可以明天再送？",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700455284,
+      "formatted_time": "2023-11-20 12:41:24",
+      "type": "文件消息",
+      "str_content": "关于召开华中科技大学经济学院第二十四次学生代表大会的请示.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700455302,
+      "formatted_time": "2023-11-20 12:41:42",
+      "type": "文件消息",
+      "str_content": "经济学院第二十四次学代会手册.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700455372,
+      "formatted_time": "2023-11-20 12:42:52",
+      "type": "文本消息",
+      "str_content": "嗯嗯，麻烦学长先审核下，学长辛苦了！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700459218,
+      "formatted_time": "2023-11-20 13:46:58",
+      "type": "文本消息",
+      "str_content": "好 我下课审一下",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700459223,
+      "formatted_time": "2023-11-20 13:47:03",
+      "type": "文本消息",
+      "str_content": "先去上个课~",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700462790,
+      "formatted_time": "2023-11-20 14:46:30",
+      "type": "文本消息",
+      "str_content": "嗯嗯，学长辛苦！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700471348,
+      "formatted_time": "2023-11-20 17:09:08",
+      "type": "文件消息",
+      "str_content": "SH改_经济学院第二十四次学代会手册.docx",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700471378,
+      "formatted_time": "2023-11-20 17:09:38",
+      "type": "引用消息",
+      "str_content": "这个没大问题 章程和主席团相关的东西我放在手册里了 按照手册的要求改就ok",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700471441,
+      "formatted_time": "2023-11-20 17:10:41",
+      "type": "文本消息",
+      "str_content": "我们经济学院学代会一直都没有这个吗",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700471442,
+      "formatted_time": "2023-11-20 17:10:42",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700471484,
+      "formatted_time": "2023-11-20 17:11:24",
+      "type": "引用消息",
+      "str_content": "这个我印象中去年是没有的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700471496,
+      "formatted_time": "2023-11-20 17:11:36",
+      "type": "引用消息",
+      "str_content": "修改意见都在批注里",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700471509,
+      "formatted_time": "2023-11-20 17:11:49",
+      "type": "文本消息",
+      "str_content": "哦哦好吧 虽然这个是可选",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700471947,
+      "formatted_time": "2023-11-20 17:19:07",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我仔细看下学长发的这个修改的意见，今晚改好，明天去交到大活",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700471957,
+      "formatted_time": "2023-11-20 17:19:17",
+      "type": "文本消息",
+      "str_content": "改的好细，辛苦学长了！[玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700473438,
+      "formatted_time": "2023-11-20 17:43:58",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈好嘞好嘞 学弟辛苦啦",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700473469,
+      "formatted_time": "2023-11-20 17:44:29",
+      "type": "文本消息",
+      "str_content": "有什么问题随时联系哦",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700473477,
+      "formatted_time": "2023-11-20 17:44:37",
+      "type": "文本消息",
+      "str_content": "辛苦的是学长[玫瑰]真不好意思材料里面有这么多小错误[快哭了]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700473482,
+      "formatted_time": "2023-11-20 17:44:42",
+      "type": "引用消息",
+      "str_content": "好嘞好嘞",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700613515,
+      "formatted_time": "2023-11-22 08:38:35",
+      "type": "文本消息",
+      "str_content": "学长我们校团委老师定了嘛，我们准备打印台签了，需要个名字~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700613604,
+      "formatted_time": "2023-11-22 08:40:04",
+      "type": "文本消息",
+      "str_content": "我去问一下学弟hh",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700626520,
+      "formatted_time": "2023-11-22 12:15:20",
+      "type": "文本消息",
+      "str_content": "校团委兼职副书记叶涛老师",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700626541,
+      "formatted_time": "2023-11-22 12:15:41",
+      "type": "文本消息",
+      "str_content": "收到，谢谢学长！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700626603,
+      "formatted_time": "2023-11-22 12:16:43",
+      "type": "文本消息",
+      "str_content": "没事儿",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700626605,
+      "formatted_time": "2023-11-22 12:16:45",
+      "type": "文本消息",
+      "str_content": "学弟辛苦啦",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700626612,
+      "formatted_time": "2023-11-22 12:16:52",
+      "type": "文本消息",
+      "str_content": "虽然明天到不了 hh",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700626618,
+      "formatted_time": "2023-11-22 12:16:58",
+      "type": "文本消息",
+      "str_content": "还是预祝大会圆满成功",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700626626,
+      "formatted_time": "2023-11-22 12:17:06",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700626632,
+      "formatted_time": "2023-11-22 12:17:12",
+      "type": "文本消息",
+      "str_content": "㊗️学弟退休快乐",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700626634,
+      "formatted_time": "2023-11-22 12:17:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700626639,
+      "formatted_time": "2023-11-22 12:17:19",
+      "type": "文本消息",
+      "str_content": "应该做的应该做的哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700626648,
+      "formatted_time": "2023-11-22 12:17:28",
+      "type": "文本消息",
+      "str_content": "感谢学长一直以来的帮助[可怜][可怜]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700626655,
+      "formatted_time": "2023-11-22 12:17:35",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1700626655,
+      "formatted_time": "2023-11-22 12:17:35",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1707462634,
+      "formatted_time": "2024-02-09 15:10:34",
+      "type": "文本消息",
+      "str_content": "亲爱的徐昂学弟，几日不见、甚是想念！今天除夕，岁月常新、美好常在，祝我们滴徐昂学弟新年快乐吖~衷心祝愿徐昂学弟和家人身体健康、诸事胜意、心想事成、阖家欢乐、”齐乐龙龙”、龙行龘龘，新的一年“龙”腾盛世，金“龙”献瑞，万事兴“龙”[福] [福] [福]\n      感觉无比荣幸能在卓越华科大与优秀的徐昂学弟相知相识，感谢徐昂学弟对我成长和进步的见证，更是感谢徐昂学弟无时不刻给予我无尽的帮助和关怀、支持和鼓励！感谢一路有徐昂学弟始终陪伴、并肩同行，徐昂学弟永远是俺滴Super Star~新年新起点我们一起继续加油，哈哈哈！俺也更是相信优秀的徐昂学弟定能在2024年起宏图、结硕果、铸辉煌、傲苍穹，绘就人生之路上的璀璨新华章！[玫瑰] [玫瑰] [玫瑰]\n      祥龙昂首、万象更新，静宁见春、祉猷并茂，跃龙逐梦、凯歌而行，衷心祝愿徐昂学弟和家人龙年大吉，幸福安康！更是无比期待在2024年以及在不远的将来能和徐昂学弟共同书写更多精彩的故事！[爱心] [爱心] [爱心]诸不具陈，谨申微意~",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1707463372,
+      "formatted_time": "2024-02-09 15:22:52",
+      "type": "文本消息",
+      "str_content": "啊啊啊谢谢时豪学长，也祝学长新年快乐！感谢学长在过去一年中的帮助和支持，新的一年祝学长身体健康，万事顺意，学业有成！[庆祝][庆祝]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707463424,
+      "formatted_time": "2024-02-09 15:23:44",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    },
+    {
+      "create_time": 1738114087,
+      "formatted_time": "2025-01-29 09:28:07",
+      "type": "文本消息",
+      "str_content": "豪哥新年快乐！\n豪哥一直是我的榜样和奋斗的方向，祝豪哥新的一年诸事顺遂，平安喜乐，万事胜意 ！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1738120268,
+      "formatted_time": "2025-01-29 11:11:08",
+      "type": "文本消息",
+      "str_content": "徐昂学弟上午好，几日不见、甚是想念！春秋代序、岁月峥嵘！今天大年初一、给徐昂学弟拜个年，卿云烂兮，糺缦缦兮；日月光华，旦复旦兮，衷心祝福新年快乐，祝愿徐昂学弟和家人阖家欢乐、巳巳如意、心想巳成、诸巳胜意、喜乐未央[福][福][福] \n      感觉同徐昂学弟特别有缘分，与徐昂学弟相知相识的时光，充满最美好的回忆、尽是珍贵的故事！ [呲牙] [呲牙] [呲牙]感谢一路有徐昂学弟并肩同行，更是格外珍惜我们宝贵的情谊~新的一年，期待与徐昂学弟共同进步，在最美的时光，共同书写更多更加精彩的故事！无比期待与徐昂学弟早日重聚！[玫瑰][玫瑰][玫瑰]\n      灵蛇献瑞、万象更新，静宁见春、祉猷并茂，和光同尘、与时舒卷，昭昭如愿、岁岁安澜！祝您日有熹、月有光、富且昌、寿且康，新的一年定能鲲鹏展翅、扶摇直上！烟火向星辰、所愿皆成真，2025新年快乐，有任何需要我们随时联系！[爱心][爱心][爱心]诸不具陈，谨申微意~",
+      "is_send": 0,
+      "sender_name": "校会 时豪"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:30+08:00",
+  "message_count": 114
+}

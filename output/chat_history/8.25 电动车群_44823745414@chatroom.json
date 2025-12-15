@@ -1,0 +1,5331 @@
+{
+  "session_id": "44823745414@chatroom",
+  "session_name": "8.25 电动车群",
+  "messages": [
+    {
+      "create_time": 1756087149,
+      "formatted_time": "2025-08-25 09:59:09",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756087150,
+      "formatted_time": "2025-08-25 09:59:10",
+      "type": "文本消息",
+      "str_content": "我10:20后都能走",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756087151,
+      "formatted_time": "2025-08-25 09:59:11",
+      "type": "文本消息",
+      "str_content": "大家预算多少啊",
+      "is_send": 0,
+      "sender_name": "尹金玉",
+      "sender_wxid": "wxid_5b4lmagxb70x22"
+    },
+    {
+      "create_time": 1756087160,
+      "formatted_time": "2025-08-25 09:59:20",
+      "type": "位置消息",
+      "str_content": "[位置消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756087163,
+      "formatted_time": "2025-08-25 09:59:23",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087178,
+      "formatted_time": "2025-08-25 09:59:38",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087181,
+      "formatted_time": "2025-08-25 09:59:41",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087189,
+      "formatted_time": "2025-08-25 09:59:49",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756087191,
+      "formatted_time": "2025-08-25 09:59:51",
+      "type": "文本消息",
+      "str_content": "1899",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756087218,
+      "formatted_time": "2025-08-25 10:00:18",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087244,
+      "formatted_time": "2025-08-25 10:00:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087246,
+      "formatted_time": "2025-08-25 10:00:46",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087247,
+      "formatted_time": "2025-08-25 10:00:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087249,
+      "formatted_time": "2025-08-25 10:00:49",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087264,
+      "formatted_time": "2025-08-25 10:01:04",
+      "type": "文本消息",
+      "str_content": "我们暂定10:30出发可以吗",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756087286,
+      "formatted_time": "2025-08-25 10:01:26",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 0,
+      "sender_name": "安奕敏",
+      "sender_wxid": "wxid_4wzu840axdcy22"
+    },
+    {
+      "create_time": 1756087355,
+      "formatted_time": "2025-08-25 10:02:35",
+      "type": "文本消息",
+      "str_content": "OK的",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756087366,
+      "formatted_time": "2025-08-25 10:02:46",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087372,
+      "formatted_time": "2025-08-25 10:02:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087373,
+      "formatted_time": "2025-08-25 10:02:53",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087395,
+      "formatted_time": "2025-08-25 10:03:15",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087453,
+      "formatted_time": "2025-08-25 10:04:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087528,
+      "formatted_time": "2025-08-25 10:05:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087558,
+      "formatted_time": "2025-08-25 10:05:58",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087612,
+      "formatted_time": "2025-08-25 10:06:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087642,
+      "formatted_time": "2025-08-25 10:07:22",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087666,
+      "formatted_time": "2025-08-25 10:07:46",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087672,
+      "formatted_time": "2025-08-25 10:07:52",
+      "type": "文本消息",
+      "str_content": "兄弟们这个啥型号啊",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756087685,
+      "formatted_time": "2025-08-25 10:08:05",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756087694,
+      "formatted_time": "2025-08-25 10:08:14",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087710,
+      "formatted_time": "2025-08-25 10:08:30",
+      "type": "文本消息",
+      "str_content": "有没有一起买九号的",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756087712,
+      "formatted_time": "2025-08-25 10:08:32",
+      "type": "文本消息",
+      "str_content": "蹲",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756087737,
+      "formatted_time": "2025-08-25 10:08:57",
+      "type": "文本消息",
+      "str_content": "听说雅迪电池好一点",
+      "is_send": 0,
+      "sender_name": "汇丰财新  郭思琦",
+      "sender_wxid": "wxid_502k0y47dfqc22"
+    },
+    {
+      "create_time": 1756087739,
+      "formatted_time": "2025-08-25 10:08:59",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087758,
+      "formatted_time": "2025-08-25 10:09:18",
+      "type": "文本消息",
+      "str_content": "九号综合能力比较好",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756087759,
+      "formatted_time": "2025-08-25 10:09:19",
+      "type": "文本消息",
+      "str_content": "我在看绿源这个fpy plus",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756087760,
+      "formatted_time": "2025-08-25 10:09:20",
+      "type": "文本消息",
+      "str_content": "1600",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756087763,
+      "formatted_time": "2025-08-25 10:09:23",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756087765,
+      "formatted_time": "2025-08-25 10:09:25",
+      "type": "文本消息",
+      "str_content": "九号除了贵没别的缺点",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756087778,
+      "formatted_time": "2025-08-25 10:09:38",
+      "type": "文本消息",
+      "str_content": "那附近有没有九号呢",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756087781,
+      "formatted_time": "2025-08-25 10:09:41",
+      "type": "文本消息",
+      "str_content": "有",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756087781,
+      "formatted_time": "2025-08-25 10:09:41",
+      "type": "文本消息",
+      "str_content": "我提前过去了",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756087786,
+      "formatted_time": "2025-08-25 10:09:46",
+      "type": "文本消息",
+      "str_content": "那一起看看呗",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756087788,
+      "formatted_time": "2025-08-25 10:09:48",
+      "type": "文本消息",
+      "str_content": "我今天可买",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756087791,
+      "formatted_time": "2025-08-25 10:09:51",
+      "type": "文本消息",
+      "str_content": "反正就是对比",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756087791,
+      "formatted_time": "2025-08-25 10:09:51",
+      "type": "文本消息",
+      "str_content": "可以一起去",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756087794,
+      "formatted_time": "2025-08-25 10:09:54",
+      "type": "引用消息",
+      "str_content": "+1",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756087800,
+      "formatted_time": "2025-08-25 10:10:00",
+      "type": "引用消息",
+      "str_content": "这附近的九号我去的时候没开门",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756087803,
+      "formatted_time": "2025-08-25 10:10:03",
+      "type": "文本消息",
+      "str_content": "不知道现在开没开",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756087805,
+      "formatted_time": "2025-08-25 10:10:05",
+      "type": "文本消息",
+      "str_content": "可以",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756087806,
+      "formatted_time": "2025-08-25 10:10:06",
+      "type": "文本消息",
+      "str_content": "台铃菲畅有uu想一起看看的吗",
+      "is_send": 0,
+      "sender_name": "安奕敏",
+      "sender_wxid": "wxid_4wzu840axdcy22"
+    },
+    {
+      "create_time": 1756087806,
+      "formatted_time": "2025-08-25 10:10:06",
+      "type": "文本消息",
+      "str_content": "对九号就是有点贵",
+      "is_send": 0,
+      "sender_name": "汇丰财新  郭思琦",
+      "sender_wxid": "wxid_502k0y47dfqc22"
+    },
+    {
+      "create_time": 1756087808,
+      "formatted_time": "2025-08-25 10:10:08",
+      "type": "文本消息",
+      "str_content": "一会打电话问一下",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756087810,
+      "formatted_time": "2025-08-25 10:10:10",
+      "type": "文本消息",
+      "str_content": "我也可以现场去",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756087814,
+      "formatted_time": "2025-08-25 10:10:14",
+      "type": "文本消息",
+      "str_content": "如果是下午的话",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756087821,
+      "formatted_time": "2025-08-25 10:10:21",
+      "type": "文本消息",
+      "str_content": "那我们今天就去？",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756087829,
+      "formatted_time": "2025-08-25 10:10:29",
+      "type": "文本消息",
+      "str_content": "约个时间",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756087847,
+      "formatted_time": "2025-08-25 10:10:47",
+      "type": "文本消息",
+      "str_content": "上面约的10:30",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756087864,
+      "formatted_time": "2025-08-25 10:11:04",
+      "type": "文本消息",
+      "str_content": "没有聊天记录",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756087872,
+      "formatted_time": "2025-08-25 10:11:12",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756087883,
+      "formatted_time": "2025-08-25 10:11:23",
+      "type": "文本消息",
+      "str_content": "哇没看到聊天记录hhh",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756087928,
+      "formatted_time": "2025-08-25 10:12:08",
+      "type": "文本消息",
+      "str_content": "10:30 赛百味楼下集合一起过去看看电动车",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756087995,
+      "formatted_time": "2025-08-25 10:13:15",
+      "type": "文本消息",
+      "str_content": "咋样 也可以先去",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756088004,
+      "formatted_time": "2025-08-25 10:13:24",
+      "type": "文本消息",
+      "str_content": "👌",
+      "is_send": 0,
+      "sender_name": "安奕敏",
+      "sender_wxid": "wxid_4wzu840axdcy22"
+    },
+    {
+      "create_time": 1756088010,
+      "formatted_time": "2025-08-25 10:13:30",
+      "type": "文本消息",
+      "str_content": "👌",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756088012,
+      "formatted_time": "2025-08-25 10:13:32",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "文耀瑾-湖南大学-数量和金融科技",
+      "sender_wxid": "wxid_40a6a3gn9c9a22"
+    },
+    {
+      "create_time": 1756088015,
+      "formatted_time": "2025-08-25 10:13:35",
+      "type": "文本消息",
+      "str_content": "不方便但有购买意向的就在群里蹲蹲",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756088019,
+      "formatted_time": "2025-08-25 10:13:39",
+      "type": "文本消息",
+      "str_content": "可以！",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756088025,
+      "formatted_time": "2025-08-25 10:13:45",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756088025,
+      "formatted_time": "2025-08-25 10:13:45",
+      "type": "引用消息",
+      "str_content": "好的！",
+      "is_send": 0,
+      "sender_name": "25 金融投资 何朋谦",
+      "sender_wxid": "wxid_k48c5e1xjx4n22"
+    },
+    {
+      "create_time": 1756088028,
+      "formatted_time": "2025-08-25 10:13:48",
+      "type": "文本消息",
+      "str_content": "好！",
+      "is_send": 0,
+      "sender_name": "🍓🌲",
+      "sender_wxid": "wxid_sqkd7ue370ok22"
+    },
+    {
+      "create_time": 1756088031,
+      "formatted_time": "2025-08-25 10:13:51",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756088040,
+      "formatted_time": "2025-08-25 10:14:00",
+      "type": "文本消息",
+      "str_content": "但有时间的话最好还是一起去 有说服力一些",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756088053,
+      "formatted_time": "2025-08-25 10:14:13",
+      "type": "引用消息",
+      "str_content": "你们先去哪个品牌？",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756088057,
+      "formatted_time": "2025-08-25 10:14:17",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756088085,
+      "formatted_time": "2025-08-25 10:14:45",
+      "type": "引用消息",
+      "str_content": "看看哪个近 我先去这个定位",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756088116,
+      "formatted_time": "2025-08-25 10:15:16",
+      "type": "文本消息",
+      "str_content": "因为我同学买了电动车了 她去那附近上牌 把我顺便载过去了",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756088129,
+      "formatted_time": "2025-08-25 10:15:29",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756088171,
+      "formatted_time": "2025-08-25 10:16:11",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756088199,
+      "formatted_time": "2025-08-25 10:16:39",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756088341,
+      "formatted_time": "2025-08-25 10:19:01",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756088349,
+      "formatted_time": "2025-08-25 10:19:09",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756088383,
+      "formatted_time": "2025-08-25 10:19:43",
+      "type": "文本消息",
+      "str_content": "这附近有雅迪",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756088423,
+      "formatted_time": "2025-08-25 10:20:23",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756088780,
+      "formatted_time": "2025-08-25 10:26:20",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756088967,
+      "formatted_time": "2025-08-25 10:29:27",
+      "type": "文本消息",
+      "str_content": "想去的uu十点半在赛百味集合[可怜]",
+      "is_send": 0,
+      "sender_name": "25 金融投资 何朋谦",
+      "sender_wxid": "wxid_k48c5e1xjx4n22"
+    },
+    {
+      "create_time": 1756088979,
+      "formatted_time": "2025-08-25 10:29:39",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "25 金融投资 何朋谦",
+      "sender_wxid": "wxid_k48c5e1xjx4n22"
+    },
+    {
+      "create_time": 1756088980,
+      "formatted_time": "2025-08-25 10:29:40",
+      "type": "文本消息",
+      "str_content": "🙋",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756088984,
+      "formatted_time": "2025-08-25 10:29:44",
+      "type": "文本消息",
+      "str_content": "已在",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756088988,
+      "formatted_time": "2025-08-25 10:29:48",
+      "type": "文本消息",
+      "str_content": "我马上下楼",
+      "is_send": 0,
+      "sender_name": "25 金融投资 何朋谦",
+      "sender_wxid": "wxid_k48c5e1xjx4n22"
+    },
+    {
+      "create_time": 1756089073,
+      "formatted_time": "2025-08-25 10:31:13",
+      "type": "文本消息",
+      "str_content": "那今天上午去的要不报个数",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756089097,
+      "formatted_time": "2025-08-25 10:31:37",
+      "type": "文本消息",
+      "str_content": "人数差不多了就走？",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756089112,
+      "formatted_time": "2025-08-25 10:31:52",
+      "type": "文本消息",
+      "str_content": "马上到🙋",
+      "is_send": 0,
+      "sender_name": "开心老太",
+      "sender_wxid": "wxid_v3qwqlov1oxo12"
+    },
+    {
+      "create_time": 1756089182,
+      "formatted_time": "2025-08-25 10:33:02",
+      "type": "文本消息",
+      "str_content": "到了 111",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756089216,
+      "formatted_time": "2025-08-25 10:33:36",
+      "type": "文本消息",
+      "str_content": "马上到",
+      "is_send": 0,
+      "sender_name": "25 金融投资 何朋谦",
+      "sender_wxid": "wxid_k48c5e1xjx4n22"
+    },
+    {
+      "create_time": 1756089226,
+      "formatted_time": "2025-08-25 10:33:46",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756089304,
+      "formatted_time": "2025-08-25 10:35:04",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756089310,
+      "formatted_time": "2025-08-25 10:35:10",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756089548,
+      "formatted_time": "2025-08-25 10:39:08",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756089749,
+      "formatted_time": "2025-08-25 10:42:29",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756090025,
+      "formatted_time": "2025-08-25 10:47:05",
+      "type": "文本消息",
+      "str_content": "这个台羚的电动车小车卖1899 和雅迪一样",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756090171,
+      "formatted_time": "2025-08-25 10:49:31",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "开心老太",
+      "sender_wxid": "wxid_v3qwqlov1oxo12"
+    },
+    {
+      "create_time": 1756090187,
+      "formatted_time": "2025-08-25 10:49:47",
+      "type": "文本消息",
+      "str_content": "这边九号 小牛 也有开门",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756091022,
+      "formatted_time": "2025-08-25 11:03:42",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756091076,
+      "formatted_time": "2025-08-25 11:04:36",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756091138,
+      "formatted_time": "2025-08-25 11:05:38",
+      "type": "文本消息",
+      "str_content": "买了车要周二周六去办校内牌照才可以在充电棚充电[捂脸]大家办了牌照可以在这个群里发手机号和车牌号激活充电功能，没进群的我可以帮拉一下",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756091141,
+      "formatted_time": "2025-08-25 11:05:41",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756091857,
+      "formatted_time": "2025-08-25 11:17:37",
+      "type": "文本消息",
+      "str_content": "只能上大学城的牌子吗？",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756092644,
+      "formatted_time": "2025-08-25 11:30:44",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756092648,
+      "formatted_time": "2025-08-25 11:30:48",
+      "type": "文本消息",
+      "str_content": "这个群是指。。？",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756092668,
+      "formatted_time": "2025-08-25 11:31:08",
+      "type": "文本消息",
+      "str_content": "？",
+      "is_send": 0,
+      "sender_name": "🦄",
+      "sender_wxid": "wxid_4vvigk5yzthi22"
+    },
+    {
+      "create_time": 1756092673,
+      "formatted_time": "2025-08-25 11:31:13",
+      "type": "文本消息",
+      "str_content": "这么便宜吗",
+      "is_send": 0,
+      "sender_name": "🦄",
+      "sender_wxid": "wxid_4vvigk5yzthi22"
+    },
+    {
+      "create_time": 1756092678,
+      "formatted_time": "2025-08-25 11:31:18",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756092688,
+      "formatted_time": "2025-08-25 11:31:28",
+      "type": "文本消息",
+      "str_content": "救命，哪里有群",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756092689,
+      "formatted_time": "2025-08-25 11:31:29",
+      "type": "文本消息",
+      "str_content": "同问",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756092698,
+      "formatted_time": "2025-08-25 11:31:38",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756092707,
+      "formatted_time": "2025-08-25 11:31:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵思瑞-西南财经大学-金融管理",
+      "sender_wxid": "wxid_fjva25nppn0g22"
+    },
+    {
+      "create_time": 1756092724,
+      "formatted_time": "2025-08-25 11:32:04",
+      "type": "文本消息",
+      "str_content": "啊？",
+      "is_send": 0,
+      "sender_name": "乔澄宇 北京大学 财经传媒",
+      "sender_wxid": "wxid_yw0nc6vj8axr22"
+    },
+    {
+      "create_time": 1756092726,
+      "formatted_time": "2025-08-25 11:32:06",
+      "type": "文本消息",
+      "str_content": "怎么感觉专坑大学生",
+      "is_send": 0,
+      "sender_name": "🦄",
+      "sender_wxid": "wxid_4vvigk5yzthi22"
+    },
+    {
+      "create_time": 1756092727,
+      "formatted_time": "2025-08-25 11:32:07",
+      "type": "文本消息",
+      "str_content": "……",
+      "is_send": 0,
+      "sender_name": "🦄",
+      "sender_wxid": "wxid_4vvigk5yzthi22"
+    },
+    {
+      "create_time": 1756092732,
+      "formatted_time": "2025-08-25 11:32:12",
+      "type": "引用消息",
+      "str_content": "+1",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756092794,
+      "formatted_time": "2025-08-25 11:33:14",
+      "type": "引用消息",
+      "str_content": "求问这是什么群",
+      "is_send": 0,
+      "sender_name": "王子睿",
+      "sender_wxid": "wxid_28e7ilwvutp621"
+    },
+    {
+      "create_time": 1756092804,
+      "formatted_time": "2025-08-25 11:33:24",
+      "type": "引用消息",
+      "str_content": "学长说每年会新开",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756092804,
+      "formatted_time": "2025-08-25 11:33:24",
+      "type": "文本消息",
+      "str_content": "？",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756092805,
+      "formatted_time": "2025-08-25 11:33:25",
+      "type": "文本消息",
+      "str_content": "求问",
+      "is_send": 0,
+      "sender_name": "乔澄宇 北京大学 财经传媒",
+      "sender_wxid": "wxid_yw0nc6vj8axr22"
+    },
+    {
+      "create_time": 1756092813,
+      "formatted_time": "2025-08-25 11:33:33",
+      "type": "文本消息",
+      "str_content": "不知道是专门面向汇丰还是深研院",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756092816,
+      "formatted_time": "2025-08-25 11:33:36",
+      "type": "文本消息",
+      "str_content": "你们都买了嘛",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756092830,
+      "formatted_time": "2025-08-25 11:33:50",
+      "type": "文本消息",
+      "str_content": "没",
+      "is_send": 0,
+      "sender_name": "赵思瑞-西南财经大学-金融管理",
+      "sender_wxid": "wxid_fjva25nppn0g22"
+    },
+    {
+      "create_time": 1756092835,
+      "formatted_time": "2025-08-25 11:33:55",
+      "type": "文本消息",
+      "str_content": "还没 但很快了 马上就要付款了[捂脸]",
+      "is_send": 0,
+      "sender_name": "王子睿",
+      "sender_wxid": "wxid_28e7ilwvutp621"
+    },
+    {
+      "create_time": 1756092858,
+      "formatted_time": "2025-08-25 11:34:18",
+      "type": "引用消息",
+      "str_content": "救命，要不先回来观察一下",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756092939,
+      "formatted_time": "2025-08-25 11:35:39",
+      "type": "文本消息",
+      "str_content": "嗯嗯 我们问个最低价 然后观察下两边",
+      "is_send": 0,
+      "sender_name": "王子睿",
+      "sender_wxid": "wxid_28e7ilwvutp621"
+    },
+    {
+      "create_time": 1756092960,
+      "formatted_time": "2025-08-25 11:36:00",
+      "type": "引用消息",
+      "str_content": "这说的是哪一款呀",
+      "is_send": 0,
+      "sender_name": "乔澄宇 北京大学 财经传媒",
+      "sender_wxid": "wxid_yw0nc6vj8axr22"
+    },
+    {
+      "create_time": 1756093012,
+      "formatted_time": "2025-08-25 11:36:52",
+      "type": "引用消息",
+      "str_content": "1599学长说忘记是哪个牌子了",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756093022,
+      "formatted_time": "2025-08-25 11:37:02",
+      "type": "文本消息",
+      "str_content": "但是说台铃2k肯定贵",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756093049,
+      "formatted_time": "2025-08-25 11:37:29",
+      "type": "文本消息",
+      "str_content": "现是雅迪c09 1850 还有55上牌费，续航60，蓝牙，铅酸电池",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756093051,
+      "formatted_time": "2025-08-25 11:37:31",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "🦄",
+      "sender_wxid": "wxid_4vvigk5yzthi22"
+    },
+    {
+      "create_time": 1756093052,
+      "formatted_time": "2025-08-25 11:37:32",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756093061,
+      "formatted_time": "2025-08-25 11:37:41",
+      "type": "文本消息",
+      "str_content": "抖音在监听…",
+      "is_send": 0,
+      "sender_name": "🦄",
+      "sender_wxid": "wxid_4vvigk5yzthi22"
+    },
+    {
+      "create_time": 1756093079,
+      "formatted_time": "2025-08-25 11:37:59",
+      "type": "引用消息",
+      "str_content": "监管者正在聆听（）",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756093083,
+      "formatted_time": "2025-08-25 11:38:03",
+      "type": "引用消息",
+      "str_content": "这个好像neng线上付款 到店提车",
+      "is_send": 0,
+      "sender_name": "🦄",
+      "sender_wxid": "wxid_4vvigk5yzthi22"
+    },
+    {
+      "create_time": 1756093100,
+      "formatted_time": "2025-08-25 11:38:20",
+      "type": "文本消息",
+      "str_content": "那是不是可以从1800开始砍",
+      "is_send": 0,
+      "sender_name": "🦄",
+      "sender_wxid": "wxid_4vvigk5yzthi22"
+    },
+    {
+      "create_time": 1756093106,
+      "formatted_time": "2025-08-25 11:38:26",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756093126,
+      "formatted_time": "2025-08-25 11:38:46",
+      "type": "引用消息",
+      "str_content": "还有这款，门店1600",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756093216,
+      "formatted_time": "2025-08-25 11:40:16",
+      "type": "文本消息",
+      "str_content": "台铃大果粒有人问吗",
+      "is_send": 0,
+      "sender_name": "乔澄宇 北京大学 财经传媒",
+      "sender_wxid": "wxid_yw0nc6vj8axr22"
+    },
+    {
+      "create_time": 1756093244,
+      "formatted_time": "2025-08-25 11:40:44",
+      "type": "文本消息",
+      "str_content": "绿源是1600，48v20a",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756093251,
+      "formatted_time": "2025-08-25 11:40:51",
+      "type": "文本消息",
+      "str_content": "55km",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756093257,
+      "formatted_time": "2025-08-25 11:40:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756093263,
+      "formatted_time": "2025-08-25 11:41:03",
+      "type": "文本消息",
+      "str_content": "台铃好像最便宜的是1899🤔",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756093396,
+      "formatted_time": "2025-08-25 11:43:16",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093401,
+      "formatted_time": "2025-08-25 11:43:21",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093406,
+      "formatted_time": "2025-08-25 11:43:26",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093406,
+      "formatted_time": "2025-08-25 11:43:26",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093411,
+      "formatted_time": "2025-08-25 11:43:31",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093417,
+      "formatted_time": "2025-08-25 11:43:37",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093417,
+      "formatted_time": "2025-08-25 11:43:37",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093418,
+      "formatted_time": "2025-08-25 11:43:38",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093428,
+      "formatted_time": "2025-08-25 11:43:48",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093436,
+      "formatted_time": "2025-08-25 11:43:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093442,
+      "formatted_time": "2025-08-25 11:44:02",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093449,
+      "formatted_time": "2025-08-25 11:44:09",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093466,
+      "formatted_time": "2025-08-25 11:44:26",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093470,
+      "formatted_time": "2025-08-25 11:44:30",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093480,
+      "formatted_time": "2025-08-25 11:44:40",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093487,
+      "formatted_time": "2025-08-25 11:44:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093493,
+      "formatted_time": "2025-08-25 11:44:53",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093494,
+      "formatted_time": "2025-08-25 11:44:54",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093510,
+      "formatted_time": "2025-08-25 11:45:10",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093511,
+      "formatted_time": "2025-08-25 11:45:11",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093528,
+      "formatted_time": "2025-08-25 11:45:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093530,
+      "formatted_time": "2025-08-25 11:45:30",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093533,
+      "formatted_time": "2025-08-25 11:45:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093556,
+      "formatted_time": "2025-08-25 11:45:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093587,
+      "formatted_time": "2025-08-25 11:46:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093598,
+      "formatted_time": "2025-08-25 11:46:38",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093601,
+      "formatted_time": "2025-08-25 11:46:41",
+      "type": "文本消息",
+      "str_content": "最后怎么统计统一购买呀",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756093619,
+      "formatted_time": "2025-08-25 11:46:59",
+      "type": "文本消息",
+      "str_content": "价格多少啊，电动车什么型号呢",
+      "is_send": 0,
+      "sender_name": "霍达",
+      "sender_wxid": "wxid_og0pk17hzj8y22"
+    },
+    {
+      "create_time": 1756093621,
+      "formatted_time": "2025-08-25 11:47:01",
+      "type": "文本消息",
+      "str_content": "同问",
+      "is_send": 0,
+      "sender_name": "年旭丰",
+      "sender_wxid": "wxid_8rqotnn595mf22"
+    },
+    {
+      "create_time": 1756093623,
+      "formatted_time": "2025-08-25 11:47:03",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093626,
+      "formatted_time": "2025-08-25 11:47:06",
+      "type": "文本消息",
+      "str_content": "同问",
+      "is_send": 0,
+      "sender_name": "张壹豪-央财-数量与金融科技",
+      "sender_wxid": "wxid_awkhzpy1vj1j22"
+    },
+    {
+      "create_time": 1756093637,
+      "formatted_time": "2025-08-25 11:47:17",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093645,
+      "formatted_time": "2025-08-25 11:47:25",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093660,
+      "formatted_time": "2025-08-25 11:47:40",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093664,
+      "formatted_time": "2025-08-25 11:47:44",
+      "type": "文本消息",
+      "str_content": "同问",
+      "is_send": 0,
+      "sender_name": "金科 李佳茗",
+      "sender_wxid": "wxid_wv1c8feqfv0632"
+    },
+    {
+      "create_time": 1756093674,
+      "formatted_time": "2025-08-25 11:47:54",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093681,
+      "formatted_time": "2025-08-25 11:48:01",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093706,
+      "formatted_time": "2025-08-25 11:48:26",
+      "type": "文本消息",
+      "str_content": "同问",
+      "is_send": 0,
+      "sender_name": "Chang",
+      "sender_wxid": "wxid_psmjzrklljgm22"
+    },
+    {
+      "create_time": 1756093708,
+      "formatted_time": "2025-08-25 11:48:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093714,
+      "formatted_time": "2025-08-25 11:48:34",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093746,
+      "formatted_time": "2025-08-25 11:49:06",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093803,
+      "formatted_time": "2025-08-25 11:50:03",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093854,
+      "formatted_time": "2025-08-25 11:50:54",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093859,
+      "formatted_time": "2025-08-25 11:50:59",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756093868,
+      "formatted_time": "2025-08-25 11:51:08",
+      "type": "引用消息",
+      "str_content": "是的 在现场",
+      "is_send": 0,
+      "sender_name": "25 金融投资 何朋谦",
+      "sender_wxid": "wxid_k48c5e1xjx4n22"
+    },
+    {
+      "create_time": 1756093880,
+      "formatted_time": "2025-08-25 11:51:20",
+      "type": "文本消息",
+      "str_content": "台铃不让价",
+      "is_send": 0,
+      "sender_name": "25 金融投资 何朋谦",
+      "sender_wxid": "wxid_k48c5e1xjx4n22"
+    },
+    {
+      "create_time": 1756093888,
+      "formatted_time": "2025-08-25 11:51:28",
+      "type": "文本消息",
+      "str_content": "由于新进群了很多人，我们正在进一步压价[旺柴]",
+      "is_send": 0,
+      "sender_name": "沈吉杭",
+      "sender_wxid": "wxid_6d0uvyosio8122"
+    },
+    {
+      "create_time": 1756093959,
+      "formatted_time": "2025-08-25 11:52:39",
+      "type": "文本消息",
+      "str_content": "辛苦了各位帅哥美女[流泪][流泪][流泪]",
+      "is_send": 0,
+      "sender_name": "🦄",
+      "sender_wxid": "wxid_4vvigk5yzthi22"
+    },
+    {
+      "create_time": 1756093990,
+      "formatted_time": "2025-08-25 11:53:10",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094087,
+      "formatted_time": "2025-08-25 11:54:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094153,
+      "formatted_time": "2025-08-25 11:55:53",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094169,
+      "formatted_time": "2025-08-25 11:56:09",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094228,
+      "formatted_time": "2025-08-25 11:57:08",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094278,
+      "formatted_time": "2025-08-25 11:57:58",
+      "type": "引用消息",
+      "str_content": "怎么说[可怜]",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756094301,
+      "formatted_time": "2025-08-25 11:58:21",
+      "type": "引用消息",
+      "str_content": "给我狠狠地杀",
+      "is_send": 0,
+      "sender_name": "庄永强-南京大学-数量金融",
+      "sender_wxid": "wxid_eie6rccd9x2s22"
+    },
+    {
+      "create_time": 1756094308,
+      "formatted_time": "2025-08-25 11:58:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094311,
+      "formatted_time": "2025-08-25 11:58:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "庄永强-南京大学-数量金融",
+      "sender_wxid": "wxid_eie6rccd9x2s22"
+    },
+    {
+      "create_time": 1756094354,
+      "formatted_time": "2025-08-25 11:59:14",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094416,
+      "formatted_time": "2025-08-25 12:00:16",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094431,
+      "formatted_time": "2025-08-25 12:00:31",
+      "type": "文本消息",
+      "str_content": "雅迪c09（小车）1850💰 55上牌费，续航60，蓝牙，铅酸电池，可以解决上牌【如果是2500价位以上的车可以优惠100】\n\n\n台铃小车 1899💰蓝牙 铅酸电池 续航60km（应该是虚报），可以解决上牌【建议pass 台铃】\n\n\n爱玛小金豆（无蓝牙） 还在谈价格 货暂时不足\n\n\n爱玛小金豆2.0（蓝牙）1600💰 续航60km 石墨烯电池（石墨烯比铅酸电池更耐用）【网上卖的续航30km，缺点就是上牌不方便，只能先用临时牌】\n\n绿源不质保 17991💰",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756094436,
+      "formatted_time": "2025-08-25 12:00:36",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094454,
+      "formatted_time": "2025-08-25 12:00:54",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094512,
+      "formatted_time": "2025-08-25 12:01:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094553,
+      "formatted_time": "2025-08-25 12:02:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094565,
+      "formatted_time": "2025-08-25 12:02:45",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094629,
+      "formatted_time": "2025-08-25 12:03:49",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094629,
+      "formatted_time": "2025-08-25 12:03:49",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756094641,
+      "formatted_time": "2025-08-25 12:04:01",
+      "type": "文本消息",
+      "str_content": "我们目前就是比较偏向雅迪",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756094680,
+      "formatted_time": "2025-08-25 12:04:40",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094709,
+      "formatted_time": "2025-08-25 12:05:09",
+      "type": "引用消息",
+      "str_content": "每个上牌都要+55的上牌费",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756094720,
+      "formatted_time": "2025-08-25 12:05:20",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756094773,
+      "formatted_time": "2025-08-25 12:06:13",
+      "type": "文本消息",
+      "str_content": "雅迪确实看起来会好些哈哈",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756094775,
+      "formatted_time": "2025-08-25 12:06:15",
+      "type": "文本消息",
+      "str_content": "有无实物图",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756094784,
+      "formatted_time": "2025-08-25 12:06:24",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094814,
+      "formatted_time": "2025-08-25 12:06:54",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094886,
+      "formatted_time": "2025-08-25 12:08:06",
+      "type": "文本消息",
+      "str_content": "想问问雅迪电池具体是多少V多少A呀",
+      "is_send": 0,
+      "sender_name": "彭芊韵 25 财新",
+      "sender_wxid": "wxid_em6dwlaut2rc12"
+    },
+    {
+      "create_time": 1756094916,
+      "formatted_time": "2025-08-25 12:08:36",
+      "type": "文本消息",
+      "str_content": "这个",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756094916,
+      "formatted_time": "2025-08-25 12:08:36",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756094935,
+      "formatted_time": "2025-08-25 12:08:55",
+      "type": "文本消息",
+      "str_content": "48V 22A",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756094949,
+      "formatted_time": "2025-08-25 12:09:09",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756094963,
+      "formatted_time": "2025-08-25 12:09:23",
+      "type": "文本消息",
+      "str_content": "2500砍到1900嘛",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756094967,
+      "formatted_time": "2025-08-25 12:09:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756095002,
+      "formatted_time": "2025-08-25 12:10:02",
+      "type": "文本消息",
+      "str_content": "她们说自己先申请到了1899的价格 但只给我们让利50",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756095042,
+      "formatted_time": "2025-08-25 12:10:42",
+      "type": "文本消息",
+      "str_content": "确定是石墨烯吗？我看也有铅酸款的，就京东那个截图",
+      "is_send": 0,
+      "sender_name": "霍达",
+      "sender_wxid": "wxid_og0pk17hzj8y22"
+    },
+    {
+      "create_time": 1756095061,
+      "formatted_time": "2025-08-25 12:11:01",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756095079,
+      "formatted_time": "2025-08-25 12:11:19",
+      "type": "文本消息",
+      "str_content": "wow辛苦了辛苦了",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756095086,
+      "formatted_time": "2025-08-25 12:11:26",
+      "type": "文本消息",
+      "str_content": "老板说石墨烯",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756095109,
+      "formatted_time": "2025-08-25 12:11:49",
+      "type": "引用消息",
+      "str_content": "爱玛",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756095167,
+      "formatted_time": "2025-08-25 12:12:47",
+      "type": "引用消息",
+      "str_content": "雅迪是铅酸",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756095170,
+      "formatted_time": "2025-08-25 12:12:50",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756095172,
+      "formatted_time": "2025-08-25 12:12:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756095215,
+      "formatted_time": "2025-08-25 12:13:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756095406,
+      "formatted_time": "2025-08-25 12:16:46",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756095527,
+      "formatted_time": "2025-08-25 12:18:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756095586,
+      "formatted_time": "2025-08-25 12:19:46",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "彭芊韵 25 财新",
+      "sender_wxid": "wxid_em6dwlaut2rc12"
+    },
+    {
+      "create_time": 1756095603,
+      "formatted_time": "2025-08-25 12:20:03",
+      "type": "文本消息",
+      "str_content": "看了一下xhs有深圳的车店c09卖1799",
+      "is_send": 0,
+      "sender_name": "彭芊韵 25 财新",
+      "sender_wxid": "wxid_em6dwlaut2rc12"
+    },
+    {
+      "create_time": 1756095613,
+      "formatted_time": "2025-08-25 12:20:13",
+      "type": "文本消息",
+      "str_content": "感觉是不是有机会往1800压一压",
+      "is_send": 0,
+      "sender_name": "彭芊韵 25 财新",
+      "sender_wxid": "wxid_em6dwlaut2rc12"
+    },
+    {
+      "create_time": 1756095679,
+      "formatted_time": "2025-08-25 12:21:19",
+      "type": "文本消息",
+      "str_content": "确实 我们可以试试",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756095777,
+      "formatted_time": "2025-08-25 12:22:57",
+      "type": "文本消息",
+      "str_content": "辛苦了！！！！",
+      "is_send": 0,
+      "sender_name": "彭芊韵 25 财新",
+      "sender_wxid": "wxid_em6dwlaut2rc12"
+    },
+    {
+      "create_time": 1756095815,
+      "formatted_time": "2025-08-25 12:23:35",
+      "type": "文本消息",
+      "str_content": "你们在哪个雅迪呀",
+      "is_send": 0,
+      "sender_name": "乔澄宇 北京大学 财经传媒",
+      "sender_wxid": "wxid_yw0nc6vj8axr22"
+    },
+    {
+      "create_time": 1756095908,
+      "formatted_time": "2025-08-25 12:25:08",
+      "type": "位置消息",
+      "str_content": "[位置消息]",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756095910,
+      "formatted_time": "2025-08-25 12:25:10",
+      "type": "文本消息",
+      "str_content": "这个",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756096122,
+      "formatted_time": "2025-08-25 12:28:42",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756096181,
+      "formatted_time": "2025-08-25 12:29:41",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756096525,
+      "formatted_time": "2025-08-25 12:35:25",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756096701,
+      "formatted_time": "2025-08-25 12:38:21",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756097176,
+      "formatted_time": "2025-08-25 12:46:16",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756097634,
+      "formatted_time": "2025-08-25 12:53:54",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756097634,
+      "formatted_time": "2025-08-25 12:53:54",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756097864,
+      "formatted_time": "2025-08-25 12:57:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756097901,
+      "formatted_time": "2025-08-25 12:58:21",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756097915,
+      "formatted_time": "2025-08-25 12:58:35",
+      "type": "文本消息",
+      "str_content": "现在还上不了牌",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756097924,
+      "formatted_time": "2025-08-25 12:58:44",
+      "type": "文本消息",
+      "str_content": "[叹气]",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756097953,
+      "formatted_time": "2025-08-25 12:59:13",
+      "type": "文本消息",
+      "str_content": "得要深圳经济特区居住登记查询单",
+      "is_send": 0,
+      "sender_name": "唐昆鹏-北交-西方经济学",
+      "sender_wxid": "wxid_6dhyqkj6xy5312"
+    },
+    {
+      "create_time": 1756097961,
+      "formatted_time": "2025-08-25 12:59:21",
+      "type": "文本消息",
+      "str_content": "还没给我们上报吗这是",
+      "is_send": 0,
+      "sender_name": "唐昆鹏-北交-西方经济学",
+      "sender_wxid": "wxid_6dhyqkj6xy5312"
+    },
+    {
+      "create_time": 1756097981,
+      "formatted_time": "2025-08-25 12:59:41",
+      "type": "文本消息",
+      "str_content": "本来都买了，上不了牌，又退了",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756097983,
+      "formatted_time": "2025-08-25 12:59:43",
+      "type": "文本消息",
+      "str_content": "我服了",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098000,
+      "formatted_time": "2025-08-25 13:00:00",
+      "type": "文本消息",
+      "str_content": "啊，上不了牌照是不能先骑过来么",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756098010,
+      "formatted_time": "2025-08-25 13:00:10",
+      "type": "引用消息",
+      "str_content": "啊？",
+      "is_send": 0,
+      "sender_name": "金科 李佳茗",
+      "sender_wxid": "wxid_wv1c8feqfv0632"
+    },
+    {
+      "create_time": 1756098019,
+      "formatted_time": "2025-08-25 13:00:19",
+      "type": "文本消息",
+      "str_content": "现在还不能上牌吗",
+      "is_send": 0,
+      "sender_name": "金科 李佳茗",
+      "sender_wxid": "wxid_wv1c8feqfv0632"
+    },
+    {
+      "create_time": 1756098030,
+      "formatted_time": "2025-08-25 13:00:30",
+      "type": "文本消息",
+      "str_content": "不是新车15天内可以没牌吗",
+      "is_send": 0,
+      "sender_name": "霍达",
+      "sender_wxid": "wxid_og0pk17hzj8y22"
+    },
+    {
+      "create_time": 1756098084,
+      "formatted_time": "2025-08-25 13:01:24",
+      "type": "文本消息",
+      "str_content": "9.1新新国标",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098100,
+      "formatted_time": "2025-08-25 13:01:40",
+      "type": "文本消息",
+      "str_content": "有可能现在买的车那时候就不好上牌了",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098102,
+      "formatted_time": "2025-08-25 13:01:42",
+      "type": "文本消息",
+      "str_content": "服了",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098134,
+      "formatted_time": "2025-08-25 13:02:14",
+      "type": "文本消息",
+      "str_content": "居住登记可以自己弄呀",
+      "is_send": 0,
+      "sender_name": "乔澄宇 北京大学 财经传媒",
+      "sender_wxid": "wxid_yw0nc6vj8axr22"
+    },
+    {
+      "create_time": 1756098137,
+      "formatted_time": "2025-08-25 13:02:17",
+      "type": "文本消息",
+      "str_content": "一天就好了",
+      "is_send": 0,
+      "sender_name": "乔澄宇 北京大学 财经传媒",
+      "sender_wxid": "wxid_yw0nc6vj8axr22"
+    },
+    {
+      "create_time": 1756098146,
+      "formatted_time": "2025-08-25 13:02:26",
+      "type": "文本消息",
+      "str_content": "很多商家现在快没上牌权限了",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098152,
+      "formatted_time": "2025-08-25 13:02:32",
+      "type": "文本消息",
+      "str_content": "现在卖的都是旧的 9.1才上新国标的",
+      "is_send": 0,
+      "sender_name": "金科 李佳茗",
+      "sender_wxid": "wxid_wv1c8feqfv0632"
+    },
+    {
+      "create_time": 1756098153,
+      "formatted_time": "2025-08-25 13:02:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756098154,
+      "formatted_time": "2025-08-25 13:02:34",
+      "type": "文本消息",
+      "str_content": "9.1一过就只能在社区上牌",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098171,
+      "formatted_time": "2025-08-25 13:02:51",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756098180,
+      "formatted_time": "2025-08-25 13:03:00",
+      "type": "文本消息",
+      "str_content": "老板跟我说9.1以后我买的那款车不一定能",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098183,
+      "formatted_time": "2025-08-25 13:03:03",
+      "type": "文本消息",
+      "str_content": "上牌照",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098206,
+      "formatted_time": "2025-08-25 13:03:26",
+      "type": "引用消息",
+      "str_content": "这个在哪弄",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098208,
+      "formatted_time": "2025-08-25 13:03:28",
+      "type": "文本消息",
+      "str_content": "对的 新国标对车的座位规格啥的似乎有要求",
+      "is_send": 0,
+      "sender_name": "金科 李佳茗",
+      "sender_wxid": "wxid_wv1c8feqfv0632"
+    },
+    {
+      "create_time": 1756098220,
+      "formatted_time": "2025-08-25 13:03:40",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756098229,
+      "formatted_time": "2025-08-25 13:03:49",
+      "type": "引用消息",
+      "str_content": "旧的9.1以后不一定合规",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098237,
+      "formatted_time": "2025-08-25 13:03:57",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756098352,
+      "formatted_time": "2025-08-25 13:05:52",
+      "type": "文本消息",
+      "str_content": "9.1以后再买最保险",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098354,
+      "formatted_time": "2025-08-25 13:05:54",
+      "type": "文本消息",
+      "str_content": "[捂脸]",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098444,
+      "formatted_time": "2025-08-25 13:07:24",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "金科 李佳茗",
+      "sender_wxid": "wxid_wv1c8feqfv0632"
+    },
+    {
+      "create_time": 1756098489,
+      "formatted_time": "2025-08-25 13:08:09",
+      "type": "文本消息",
+      "str_content": "竟然强制断电 不能飙车了",
+      "is_send": 0,
+      "sender_name": "金科 李佳茗",
+      "sender_wxid": "wxid_wv1c8feqfv0632"
+    },
+    {
+      "create_time": 1756098503,
+      "formatted_time": "2025-08-25 13:08:23",
+      "type": "文本消息",
+      "str_content": "我去",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098513,
+      "formatted_time": "2025-08-25 13:08:33",
+      "type": "文本消息",
+      "str_content": "这两天只要居住证出来了我就立刻去办牌照买车",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098532,
+      "formatted_time": "2025-08-25 13:08:52",
+      "type": "文本消息",
+      "str_content": "没牌照能暂时骑回来吗",
+      "is_send": 0,
+      "sender_name": "乔澄宇 北京大学 财经传媒",
+      "sender_wxid": "wxid_yw0nc6vj8axr22"
+    },
+    {
+      "create_time": 1756098544,
+      "formatted_time": "2025-08-25 13:09:04",
+      "type": "文本消息",
+      "str_content": "校内可以骑",
+      "is_send": 0,
+      "sender_name": "金科 李佳茗",
+      "sender_wxid": "wxid_wv1c8feqfv0632"
+    },
+    {
+      "create_time": 1756098556,
+      "formatted_time": "2025-08-25 13:09:16",
+      "type": "文本消息",
+      "str_content": "能骑回去",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098567,
+      "formatted_time": "2025-08-25 13:09:27",
+      "type": "文本消息",
+      "str_content": "但是万一我居住证没出去来",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098579,
+      "formatted_time": "2025-08-25 13:09:39",
+      "type": "文本消息",
+      "str_content": "9.1以后他们说办牌照会比较麻烦",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098584,
+      "formatted_time": "2025-08-25 13:09:44",
+      "type": "文本消息",
+      "str_content": "居住证很快的",
+      "is_send": 0,
+      "sender_name": "乔澄宇 北京大学 财经传媒",
+      "sender_wxid": "wxid_yw0nc6vj8axr22"
+    },
+    {
+      "create_time": 1756098588,
+      "formatted_time": "2025-08-25 13:09:48",
+      "type": "文本消息",
+      "str_content": "还让我签一个承诺书",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098597,
+      "formatted_time": "2025-08-25 13:09:57",
+      "type": "文本消息",
+      "str_content": "办不了牌照不要找他们",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098598,
+      "formatted_time": "2025-08-25 13:09:58",
+      "type": "文本消息",
+      "str_content": "我服了",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098608,
+      "formatted_time": "2025-08-25 13:10:08",
+      "type": "文本消息",
+      "str_content": "等居住证出来了再办保险一点",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098618,
+      "formatted_time": "2025-08-25 13:10:18",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756098632,
+      "formatted_time": "2025-08-25 13:10:32",
+      "type": "文本消息",
+      "str_content": "所以现在是什么情况",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756098637,
+      "formatted_time": "2025-08-25 13:10:37",
+      "type": "文本消息",
+      "str_content": "车可以买",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756098642,
+      "formatted_time": "2025-08-25 13:10:42",
+      "type": "文本消息",
+      "str_content": "牌照先不办么",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756098656,
+      "formatted_time": "2025-08-25 13:10:56",
+      "type": "文本消息",
+      "str_content": "现在雅迪还是 1850 吗",
+      "is_send": 0,
+      "sender_name": "乔澄宇 北京大学 财经传媒",
+      "sender_wxid": "wxid_yw0nc6vj8axr22"
+    },
+    {
+      "create_time": 1756098678,
+      "formatted_time": "2025-08-25 13:11:18",
+      "type": "文本消息",
+      "str_content": "我们还没问",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756098680,
+      "formatted_time": "2025-08-25 13:11:20",
+      "type": "文本消息",
+      "str_content": "还没去 刚刚吃饭",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756098682,
+      "formatted_time": "2025-08-25 13:11:22",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756098692,
+      "formatted_time": "2025-08-25 13:11:32",
+      "type": "文本消息",
+      "str_content": "牌照应该也可以办吧",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756098697,
+      "formatted_time": "2025-08-25 13:11:37",
+      "type": "文本消息",
+      "str_content": "不是不影响吗",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756098702,
+      "formatted_time": "2025-08-25 13:11:42",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756098725,
+      "formatted_time": "2025-08-25 13:12:05",
+      "type": "文本消息",
+      "str_content": "你们去问清楚吧，反正9号是这样的",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098735,
+      "formatted_time": "2025-08-25 13:12:15",
+      "type": "文本消息",
+      "str_content": "我等几天[捂脸]",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756098759,
+      "formatted_time": "2025-08-25 13:12:39",
+      "type": "文本消息",
+      "str_content": "所以居住证是我们自己申请？",
+      "is_send": 0,
+      "sender_name": "金科 李佳茗",
+      "sender_wxid": "wxid_wv1c8feqfv0632"
+    },
+    {
+      "create_time": 1756098766,
+      "formatted_time": "2025-08-25 13:12:46",
+      "type": "文本消息",
+      "str_content": "是的",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756098848,
+      "formatted_time": "2025-08-25 13:14:08",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756099938,
+      "formatted_time": "2025-08-25 13:32:18",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756100045,
+      "formatted_time": "2025-08-25 13:34:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756100069,
+      "formatted_time": "2025-08-25 13:34:29",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756100543,
+      "formatted_time": "2025-08-25 13:42:23",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756100560,
+      "formatted_time": "2025-08-25 13:42:40",
+      "type": "文本消息",
+      "str_content": "雅迪c09（小车）1849💰 55上牌费，续航60，蓝牙，铅酸电池，可以解决上牌【如果是2500价位以上的车可以优惠100，无蓝牙1599💰，续航40】\n\n\n台铃小车 1899💰蓝牙 铅酸电池 续航60km（应该是虚报），可以解决上牌【建议pass 台铃】\n\n\n爱玛小金豆（无蓝牙） 还在谈价格 货暂时不足\n\n\n爱玛小金豆2.0（蓝牙）1600💰 续航60km 石墨烯电池（石墨烯比铅酸电池更耐用）【网上卖的续航30km，缺点就是上牌不方便，只能先用临时牌】\n\n绿源不质保 17991💰",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756101002,
+      "formatted_time": "2025-08-25 13:50:02",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756101067,
+      "formatted_time": "2025-08-25 13:51:07",
+      "type": "文件消息",
+      "str_content": "关于电动自行车集中办理上牌通知.docx",
+      "is_send": 0,
+      "sender_name": "张紫媛-中财-金管",
+      "sender_wxid": "wxid_0abodgquxb5d22"
+    },
+    {
+      "create_time": 1756101084,
+      "formatted_time": "2025-08-25 13:51:24",
+      "type": "文本消息",
+      "str_content": "去年这种是不是不需要居住证啊",
+      "is_send": 0,
+      "sender_name": "张紫媛-中财-金管",
+      "sender_wxid": "wxid_0abodgquxb5d22"
+    },
+    {
+      "create_time": 1756101179,
+      "formatted_time": "2025-08-25 13:52:59",
+      "type": "文本消息",
+      "str_content": "感觉应该是",
+      "is_send": 0,
+      "sender_name": "Norman.",
+      "sender_wxid": "wxid_xpgdgby5mlya22"
+    },
+    {
+      "create_time": 1756101333,
+      "formatted_time": "2025-08-25 13:55:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756101781,
+      "formatted_time": "2025-08-25 14:03:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756101789,
+      "formatted_time": "2025-08-25 14:03:09",
+      "type": "文本消息",
+      "str_content": "这东西可以擦干净车",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756101818,
+      "formatted_time": "2025-08-25 14:03:38",
+      "type": "文本消息",
+      "str_content": "大家都已经买了嘛",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756101819,
+      "formatted_time": "2025-08-25 14:03:39",
+      "type": "文本消息",
+      "str_content": "黑色黑点",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756101827,
+      "formatted_time": "2025-08-25 14:03:47",
+      "type": "文本消息",
+      "str_content": "我们在场的买了",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756101839,
+      "formatted_time": "2025-08-25 14:03:59",
+      "type": "文本消息",
+      "str_content": "然后在这里上牌了",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756101883,
+      "formatted_time": "2025-08-25 14:04:43",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756101900,
+      "formatted_time": "2025-08-25 14:05:00",
+      "type": "文本消息",
+      "str_content": "之后如果是想要团购的话是直接去嘛",
+      "is_send": 0,
+      "sender_name": "郑皓文-南开大学-数量与金融科技",
+      "sender_wxid": "wxid_4dfc83ibbsiu22"
+    },
+    {
+      "create_time": 1756101903,
+      "formatted_time": "2025-08-25 14:05:03",
+      "type": "引用消息",
+      "str_content": "哇，直接可以上牌的么",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756101907,
+      "formatted_time": "2025-08-25 14:05:07",
+      "type": "引用消息",
+      "str_content": "同问",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756101916,
+      "formatted_time": "2025-08-25 14:05:16",
+      "type": "文本消息",
+      "str_content": "+1",
+      "is_send": 0,
+      "sender_name": "张紫媛-中财-金管",
+      "sender_wxid": "wxid_0abodgquxb5d22"
+    },
+    {
+      "create_time": 1756101938,
+      "formatted_time": "2025-08-25 14:05:38",
+      "type": "文本消息",
+      "str_content": "同问",
+      "is_send": 0,
+      "sender_name": "Norman.",
+      "sender_wxid": "wxid_xpgdgby5mlya22"
+    },
+    {
+      "create_time": 1756101952,
+      "formatted_time": "2025-08-25 14:05:52",
+      "type": "文本消息",
+      "str_content": "稍等在拉群，确认要买的进群",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756101966,
+      "formatted_time": "2025-08-25 14:06:06",
+      "type": "文本消息",
+      "str_content": "老板来拉群",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756102191,
+      "formatted_time": "2025-08-25 14:09:51",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756102219,
+      "formatted_time": "2025-08-25 14:10:19",
+      "type": "文本消息",
+      "str_content": "雅迪老板说要买的话进群",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756102221,
+      "formatted_time": "2025-08-25 14:10:21",
+      "type": "引用消息",
+      "str_content": "确认要买的可以加这个群，我们目前买的就是这款",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756102223,
+      "formatted_time": "2025-08-25 14:10:23",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756102240,
+      "formatted_time": "2025-08-25 14:10:40",
+      "type": "文本消息",
+      "str_content": "买别款没有优惠吗",
+      "is_send": 0,
+      "sender_name": "陈沛羽 材料 北大深",
+      "sender_wxid": "wxid_ak8bxymqckta12"
+    },
+    {
+      "create_time": 1756102245,
+      "formatted_time": "2025-08-25 14:10:45",
+      "type": "文本消息",
+      "str_content": "也有",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756102257,
+      "formatted_time": "2025-08-25 14:10:57",
+      "type": "文本消息",
+      "str_content": "看群置顶",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756102289,
+      "formatted_time": "2025-08-25 14:11:29",
+      "type": "文本消息",
+      "str_content": "这些是不是都是那种没有后视镜的小车",
+      "is_send": 0,
+      "sender_name": "陈沛羽 材料 北大深",
+      "sender_wxid": "wxid_ak8bxymqckta12"
+    },
+    {
+      "create_time": 1756102307,
+      "formatted_time": "2025-08-25 14:11:47",
+      "type": "文本消息",
+      "str_content": "群置顶再发一下呗 刚进群看不到",
+      "is_send": 0,
+      "sender_name": "Aura",
+      "sender_wxid": "wxid_dlwdibi0tfka22"
+    },
+    {
+      "create_time": 1756102313,
+      "formatted_time": "2025-08-25 14:11:53",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Aura",
+      "sender_wxid": "wxid_dlwdibi0tfka22"
+    },
+    {
+      "create_time": 1756102327,
+      "formatted_time": "2025-08-25 14:12:07",
+      "type": "引用消息",
+      "str_content": "这个是不是下雨天前面车篮会变成水盆啊[捂脸]",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756102333,
+      "formatted_time": "2025-08-25 14:12:13",
+      "type": "引用消息",
+      "str_content": "对，这边都没有",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756102337,
+      "formatted_time": "2025-08-25 14:12:17",
+      "type": "文本消息",
+      "str_content": "你可以自己加",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756102337,
+      "formatted_time": "2025-08-25 14:12:17",
+      "type": "文本消息",
+      "str_content": "似乎没有洞",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756102341,
+      "formatted_time": "2025-08-25 14:12:21",
+      "type": "文本消息",
+      "str_content": "20块一对",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756102372,
+      "formatted_time": "2025-08-25 14:12:52",
+      "type": "文本消息",
+      "str_content": "雅迪c09（小车）1849💰 55上牌费，续航60，蓝牙，铅酸电池，可以解决上牌【如果是2500价位以上的车可以优惠100，无蓝牙1599💰，续航40】\n\n\n台铃小车 1899💰蓝牙 铅酸电池 续航60km（应该是虚报），可以解决上牌【建议pass 台铃】\n\n\n爱玛小金豆（无蓝牙） 还在谈价格 货暂时不足\n\n\n爱玛小金豆2.0（蓝牙）1600💰 续航60km 石墨烯电池（石墨烯比铅酸电池更耐用）【网上卖的续航30km，缺点就是上牌不方便，只能先用临时牌】\n\n绿源不质保 17991💰",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756102408,
+      "formatted_time": "2025-08-25 14:13:28",
+      "type": "引用消息",
+      "str_content": "同问",
+      "is_send": 0,
+      "sender_name": "乔澄宇 北京大学 财经传媒",
+      "sender_wxid": "wxid_yw0nc6vj8axr22"
+    },
+    {
+      "create_time": 1756102415,
+      "formatted_time": "2025-08-25 14:13:35",
+      "type": "文本消息",
+      "str_content": "下面有洞吗",
+      "is_send": 0,
+      "sender_name": "乔澄宇 北京大学 财经传媒",
+      "sender_wxid": "wxid_yw0nc6vj8axr22"
+    },
+    {
+      "create_time": 1756102421,
+      "formatted_time": "2025-08-25 14:13:41",
+      "type": "文本消息",
+      "str_content": "可以买个罩子",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756102424,
+      "formatted_time": "2025-08-25 14:13:44",
+      "type": "文本消息",
+      "str_content": "可以买一个防水袋",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756102517,
+      "formatted_time": "2025-08-25 14:15:17",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756102604,
+      "formatted_time": "2025-08-25 14:16:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756102852,
+      "formatted_time": "2025-08-25 14:20:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756103127,
+      "formatted_time": "2025-08-25 14:25:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756103360,
+      "formatted_time": "2025-08-25 14:29:20",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756103784,
+      "formatted_time": "2025-08-25 14:36:24",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756104950,
+      "formatted_time": "2025-08-25 14:55:50",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756104963,
+      "formatted_time": "2025-08-25 14:56:03",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756105108,
+      "formatted_time": "2025-08-25 14:58:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756105165,
+      "formatted_time": "2025-08-25 14:59:25",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756105760,
+      "formatted_time": "2025-08-25 15:09:20",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756105760,
+      "formatted_time": "2025-08-25 15:09:20",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756107182,
+      "formatted_time": "2025-08-25 15:33:02",
+      "type": "引用消息",
+      "str_content": "可以上牌了吗？",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756107346,
+      "formatted_time": "2025-08-25 15:35:46",
+      "type": "文本消息",
+      "str_content": "居住证申请通过+身份证就可以上牌 大部分都是当天通过的",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756107360,
+      "formatted_time": "2025-08-25 15:36:00",
+      "type": "文本消息",
+      "str_content": "居住证怎么申请",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756107368,
+      "formatted_time": "2025-08-25 15:36:08",
+      "type": "文本消息",
+      "str_content": "我刚弄了半天没弄明白",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756107371,
+      "formatted_time": "2025-08-25 15:36:11",
+      "type": "文本消息",
+      "str_content": "[流泪]",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756107374,
+      "formatted_time": "2025-08-25 15:36:14",
+      "type": "引用消息",
+      "str_content": "1",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756107374,
+      "formatted_time": "2025-08-25 15:36:14",
+      "type": "文本消息",
+      "str_content": "粤居码",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756107376,
+      "formatted_time": "2025-08-25 15:36:16",
+      "type": "引用消息",
+      "str_content": "没有身份证的怎么办）",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756107384,
+      "formatted_time": "2025-08-25 15:36:24",
+      "type": "文本消息",
+      "str_content": "同问(",
+      "is_send": 0,
+      "sender_name": "Norman.",
+      "sender_wxid": "wxid_xpgdgby5mlya22"
+    },
+    {
+      "create_time": 1756107388,
+      "formatted_time": "2025-08-25 15:36:28",
+      "type": "文本消息",
+      "str_content": "现在只有临时身份证",
+      "is_send": 0,
+      "sender_name": "Norman.",
+      "sender_wxid": "wxid_xpgdgby5mlya22"
+    },
+    {
+      "create_time": 1756107389,
+      "formatted_time": "2025-08-25 15:36:29",
+      "type": "文本消息",
+      "str_content": "里面哪里有申请入口啊",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756107391,
+      "formatted_time": "2025-08-25 15:36:31",
+      "type": "文本消息",
+      "str_content": "没看到",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756107406,
+      "formatted_time": "2025-08-25 15:36:46",
+      "type": "引用消息",
+      "str_content": "建议问老板[可怜][可怜]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756107425,
+      "formatted_time": "2025-08-25 15:37:05",
+      "type": "引用消息",
+      "str_content": "好像是点击 个人地址",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756107440,
+      "formatted_time": "2025-08-25 15:37:20",
+      "type": "文本消息",
+      "str_content": "我只申请成功了粤居码",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756107442,
+      "formatted_time": "2025-08-25 15:37:22",
+      "type": "文本消息",
+      "str_content": "[捂脸]",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756107467,
+      "formatted_time": "2025-08-25 15:37:47",
+      "type": "文本消息",
+      "str_content": "你先登陆然后点个人地址登记学校宿舍的地址（燕园1栋➡️研究生院20栋，燕园2栋➡️研究生院21栋…以此类推）并选择你的宿舍号",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756107500,
+      "formatted_time": "2025-08-25 15:38:20",
+      "type": "文本消息",
+      "str_content": "你去找老板他们也会帮你弄的，只是申请需要时间",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756107500,
+      "formatted_time": "2025-08-25 15:38:20",
+      "type": "文本消息",
+      "str_content": "OK，明白了",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756107510,
+      "formatted_time": "2025-08-25 15:38:30",
+      "type": "文本消息",
+      "str_content": "那个老板太傻逼了",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756107517,
+      "formatted_time": "2025-08-25 15:38:37",
+      "type": "文本消息",
+      "str_content": "态度很差",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756107524,
+      "formatted_time": "2025-08-25 15:38:44",
+      "type": "文本消息",
+      "str_content": "别去那个九号店",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756108449,
+      "formatted_time": "2025-08-25 15:54:09",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756109386,
+      "formatted_time": "2025-08-25 16:09:46",
+      "type": "文本消息",
+      "str_content": "有同学买雅迪c09了吗",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756109391,
+      "formatted_time": "2025-08-25 16:09:51",
+      "type": "文本消息",
+      "str_content": "怎么样啊",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756109396,
+      "formatted_time": "2025-08-25 16:09:56",
+      "type": "文本消息",
+      "str_content": "同问",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756109397,
+      "formatted_time": "2025-08-25 16:09:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756109690,
+      "formatted_time": "2025-08-25 16:14:50",
+      "type": "文本消息",
+      "str_content": "同问",
+      "is_send": 0,
+      "sender_name": "Vera",
+      "sender_wxid": "wxid_4nrylltpe2c522"
+    },
+    {
+      "create_time": 1756109770,
+      "formatted_time": "2025-08-25 16:16:10",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756109789,
+      "formatted_time": "2025-08-25 16:16:29",
+      "type": "引用消息",
+      "str_content": "C09没用过，这个牌子的车还行",
+      "is_send": 0,
+      "sender_name": "リズム",
+      "sender_wxid": "wxid_yuggarcopwf622"
+    },
+    {
+      "create_time": 1756110083,
+      "formatted_time": "2025-08-25 16:21:23",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756111129,
+      "formatted_time": "2025-08-25 16:38:49",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756111195,
+      "formatted_time": "2025-08-25 16:39:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756113827,
+      "formatted_time": "2025-08-25 17:23:47",
+      "type": "引用消息",
+      "str_content": "太详细了 感觉诸位整理[社会社会]",
+      "is_send": 0,
+      "sender_name": "25 金融投资 何朋谦",
+      "sender_wxid": "wxid_k48c5e1xjx4n22"
+    },
+    {
+      "create_time": 1756113920,
+      "formatted_time": "2025-08-25 17:25:20",
+      "type": "引用消息",
+      "str_content": "求聊天记录，后进群的没看着[可怜]",
+      "is_send": 0,
+      "sender_name": "邹怡琳",
+      "sender_wxid": "wxid_3438434390022"
+    },
+    {
+      "create_time": 1756114225,
+      "formatted_time": "2025-08-25 17:30:25",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756114302,
+      "formatted_time": "2025-08-25 17:31:42",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756114571,
+      "formatted_time": "2025-08-25 17:36:11",
+      "type": "名片消息",
+      "str_content": "[名片消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756114612,
+      "formatted_time": "2025-08-25 17:36:52",
+      "type": "文本消息",
+      "str_content": "这是雅迪的老板 团购价购买的话进入雅迪老板拉的群聊",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756114639,
+      "formatted_time": "2025-08-25 17:37:19",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756114654,
+      "formatted_time": "2025-08-25 17:37:34",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "邹怡琳",
+      "sender_wxid": "wxid_3438434390022"
+    },
+    {
+      "create_time": 1756114689,
+      "formatted_time": "2025-08-25 17:38:09",
+      "type": "文本消息",
+      "str_content": "爱玛有没有群呀",
+      "is_send": 0,
+      "sender_name": "丘饱饱",
+      "sender_wxid": "wxid_68sk1ck7pepq22"
+    },
+    {
+      "create_time": 1756115738,
+      "formatted_time": "2025-08-25 17:55:38",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756116153,
+      "formatted_time": "2025-08-25 18:02:33",
+      "type": "文本消息",
+      "str_content": "有没有已经选好的",
+      "is_send": 0,
+      "sender_name": "Winking",
+      "sender_wxid": "wxid_x4up2gwbpzgs22"
+    },
+    {
+      "create_time": 1756116162,
+      "formatted_time": "2025-08-25 18:02:42",
+      "type": "文本消息",
+      "str_content": "想抄作业",
+      "is_send": 0,
+      "sender_name": "Winking",
+      "sender_wxid": "wxid_x4up2gwbpzgs22"
+    },
+    {
+      "create_time": 1756116166,
+      "formatted_time": "2025-08-25 18:02:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "Winking",
+      "sender_wxid": "wxid_x4up2gwbpzgs22"
+    },
+    {
+      "create_time": 1756116668,
+      "formatted_time": "2025-08-25 18:11:08",
+      "type": "文本消息",
+      "str_content": "我买的雅迪c09",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756116708,
+      "formatted_time": "2025-08-25 18:11:48",
+      "type": "引用消息",
+      "str_content": "已经买了嘛",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756116715,
+      "formatted_time": "2025-08-25 18:11:55",
+      "type": "文本消息",
+      "str_content": "我买了",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756116718,
+      "formatted_time": "2025-08-25 18:11:58",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756116735,
+      "formatted_time": "2025-08-25 18:12:15",
+      "type": "引用消息",
+      "str_content": "这个是选居民家中是吧",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756116739,
+      "formatted_time": "2025-08-25 18:12:19",
+      "type": "文本消息",
+      "str_content": "话说大家填居住地址的时候，这个选哪项呢",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756116743,
+      "formatted_time": "2025-08-25 18:12:23",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756116746,
+      "formatted_time": "2025-08-25 18:12:26",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756116751,
+      "formatted_time": "2025-08-25 18:12:31",
+      "type": "引用消息",
+      "str_content": "okk",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756116753,
+      "formatted_time": "2025-08-25 18:12:33",
+      "type": "文本消息",
+      "str_content": "居民家中",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756116755,
+      "formatted_time": "2025-08-25 18:12:35",
+      "type": "文本消息",
+      "str_content": "嗷嗷那没问题",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756116758,
+      "formatted_time": "2025-08-25 18:12:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756116863,
+      "formatted_time": "2025-08-25 18:14:23",
+      "type": "文本消息",
+      "str_content": "体验感咋样",
+      "is_send": 0,
+      "sender_name": "Winking",
+      "sender_wxid": "wxid_x4up2gwbpzgs22"
+    },
+    {
+      "create_time": 1756116865,
+      "formatted_time": "2025-08-25 18:14:25",
+      "type": "文本消息",
+      "str_content": "我填成自有住宅了",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756116865,
+      "formatted_time": "2025-08-25 18:14:25",
+      "type": "文本消息",
+      "str_content": "还行吗",
+      "is_send": 0,
+      "sender_name": "Winking",
+      "sender_wxid": "wxid_x4up2gwbpzgs22"
+    },
+    {
+      "create_time": 1756116866,
+      "formatted_time": "2025-08-25 18:14:26",
+      "type": "文本消息",
+      "str_content": "[捂脸]",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756116875,
+      "formatted_time": "2025-08-25 18:14:35",
+      "type": "文本消息",
+      "str_content": "5号楼是26栋还是24呀",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756116878,
+      "formatted_time": "2025-08-25 18:14:38",
+      "type": "引用消息",
+      "str_content": "挺好的，稳重",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1756116879,
+      "formatted_time": "2025-08-25 18:14:39",
+      "type": "文本消息",
+      "str_content": "24",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756116883,
+      "formatted_time": "2025-08-25 18:14:43",
+      "type": "文本消息",
+      "str_content": "24",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756116884,
+      "formatted_time": "2025-08-25 18:14:44",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756116899,
+      "formatted_time": "2025-08-25 18:14:59",
+      "type": "引用消息",
+      "str_content": "那好，打算抄作业了，谢谢！！",
+      "is_send": 0,
+      "sender_name": "Winking",
+      "sender_wxid": "wxid_x4up2gwbpzgs22"
+    },
+    {
+      "create_time": 1756118391,
+      "formatted_time": "2025-08-25 18:39:51",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756118415,
+      "formatted_time": "2025-08-25 18:40:15",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756119938,
+      "formatted_time": "2025-08-25 19:05:38",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756120105,
+      "formatted_time": "2025-08-25 19:08:25",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756120742,
+      "formatted_time": "2025-08-25 19:19:02",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756129244,
+      "formatted_time": "2025-08-25 21:40:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756131028,
+      "formatted_time": "2025-08-25 22:10:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756136395,
+      "formatted_time": "2025-08-25 23:39:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756136395,
+      "formatted_time": "2025-08-25 23:39:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756138005,
+      "formatted_time": "2025-08-26 00:06:45",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756138005,
+      "formatted_time": "2025-08-26 00:06:45",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756171424,
+      "formatted_time": "2025-08-26 09:23:44",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756171428,
+      "formatted_time": "2025-08-26 09:23:48",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756171434,
+      "formatted_time": "2025-08-26 09:23:54",
+      "type": "文本消息",
+      "str_content": "这是什么情况",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756171441,
+      "formatted_time": "2025-08-26 09:24:01",
+      "type": "文本消息",
+      "str_content": "地址通过了还是没有居住证",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756171445,
+      "formatted_time": "2025-08-26 09:24:05",
+      "type": "文本消息",
+      "str_content": "[流泪]",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756171459,
+      "formatted_time": "2025-08-26 09:24:19",
+      "type": "文本消息",
+      "str_content": "我昨天去问，那边师傅说",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756171461,
+      "formatted_time": "2025-08-26 09:24:21",
+      "type": "文本消息",
+      "str_content": "等几个工作日",
+      "is_send": 0,
+      "sender_name": "ANTRY🌟",
+      "sender_wxid": "wxid_9k8c3c9ckr3o12"
+    },
+    {
+      "create_time": 1756171475,
+      "formatted_time": "2025-08-26 09:24:35",
+      "type": "文本消息",
+      "str_content": "填了那个特区居住申报就OK",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756171478,
+      "formatted_time": "2025-08-26 09:24:38",
+      "type": "文本消息",
+      "str_content": "不是说了5个工作日左右下居住证吗",
+      "is_send": 0,
+      "sender_name": "ANTRY🌟",
+      "sender_wxid": "wxid_9k8c3c9ckr3o12"
+    },
+    {
+      "create_time": 1756171484,
+      "formatted_time": "2025-08-26 09:24:44",
+      "type": "文本消息",
+      "str_content": "好像不用申请那个居住证",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756171505,
+      "formatted_time": "2025-08-26 09:25:05",
+      "type": "引用消息",
+      "str_content": "这个通过完了会有一个PDF，有这个就行",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756171519,
+      "formatted_time": "2025-08-26 09:25:19",
+      "type": "引用消息",
+      "str_content": "这个在哪填呀？",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756171577,
+      "formatted_time": "2025-08-26 09:26:17",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756171580,
+      "formatted_time": "2025-08-26 09:26:20",
+      "type": "文本消息",
+      "str_content": "这个",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756171612,
+      "formatted_time": "2025-08-26 09:26:52",
+      "type": "文本消息",
+      "str_content": "哦我有了",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756171618,
+      "formatted_time": "2025-08-26 09:26:58",
+      "type": "文本消息",
+      "str_content": "填完这个地址好像就有这个了",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756171697,
+      "formatted_time": "2025-08-26 09:28:17",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756171707,
+      "formatted_time": "2025-08-26 09:28:27",
+      "type": "文本消息",
+      "str_content": "申完了点这个查询",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756171731,
+      "formatted_time": "2025-08-26 09:28:51",
+      "type": "文本消息",
+      "str_content": "这是啥小程序",
+      "is_send": 0,
+      "sender_name": "金科 李佳茗",
+      "sender_wxid": "wxid_wv1c8feqfv0632"
+    },
+    {
+      "create_time": 1756171734,
+      "formatted_time": "2025-08-26 09:28:54",
+      "type": "文本消息",
+      "str_content": "点进去点深圳特区居住那个，然后就有自己的申请记录，然后可以下载那个PDF",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756171739,
+      "formatted_time": "2025-08-26 09:28:59",
+      "type": "引用消息",
+      "str_content": "深圳公安",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756171872,
+      "formatted_time": "2025-08-26 09:31:12",
+      "type": "图文消息",
+      "str_content": "从“头”做起，“牌”面追风 | 校内电动车上牌指南及安全骑行倡议",
+      "is_send": 0,
+      "sender_name": "文耀瑾-湖南大学-数量和金融科技",
+      "sender_wxid": "wxid_40a6a3gn9c9a22"
+    },
+    {
+      "create_time": 1756171889,
+      "formatted_time": "2025-08-26 09:31:29",
+      "type": "文本消息",
+      "str_content": "请问里边的照片图像号是要去照相馆拍照吗",
+      "is_send": 0,
+      "sender_name": "Ginia",
+      "sender_wxid": "wxid_9c8iorq4x94b21"
+    },
+    {
+      "create_time": 1756171965,
+      "formatted_time": "2025-08-26 09:32:45",
+      "type": "引用消息",
+      "str_content": "只填那个申报不用拍照",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756172038,
+      "formatted_time": "2025-08-26 09:33:58",
+      "type": "文本消息",
+      "str_content": "是不是要去网上搞个回执才有那个号咧",
+      "is_send": 0,
+      "sender_name": "Ginia",
+      "sender_wxid": "wxid_9c8iorq4x94b21"
+    },
+    {
+      "create_time": 1756172265,
+      "formatted_time": "2025-08-26 09:37:45",
+      "type": "引用消息",
+      "str_content": "看到了！谢谢uu",
+      "is_send": 0,
+      "sender_name": "Ginia",
+      "sender_wxid": "wxid_9c8iorq4x94b21"
+    },
+    {
+      "create_time": 1756173203,
+      "formatted_time": "2025-08-26 09:53:23",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756173302,
+      "formatted_time": "2025-08-26 09:55:02",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756173307,
+      "formatted_time": "2025-08-26 09:55:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756176411,
+      "formatted_time": "2025-08-26 10:46:51",
+      "type": "引用消息",
+      "str_content": "得等他受理完成才能导出是吧",
+      "is_send": 0,
+      "sender_name": "黎生.",
+      "sender_wxid": "wxid_eslu44mfml5322"
+    },
+    {
+      "create_time": 1756176425,
+      "formatted_time": "2025-08-26 10:47:05",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756176454,
+      "formatted_time": "2025-08-26 10:47:34",
+      "type": "文本消息",
+      "str_content": "不用受理就能",
+      "is_send": 0,
+      "sender_name": "霍达",
+      "sender_wxid": "wxid_og0pk17hzj8y22"
+    },
+    {
+      "create_time": 1756176470,
+      "formatted_time": "2025-08-26 10:47:50",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756176478,
+      "formatted_time": "2025-08-26 10:47:58",
+      "type": "文本消息",
+      "str_content": "我只有申请的历史记录",
+      "is_send": 0,
+      "sender_name": "黎生.",
+      "sender_wxid": "wxid_eslu44mfml5322"
+    },
+    {
+      "create_time": 1756176486,
+      "formatted_time": "2025-08-26 10:48:06",
+      "type": "文本消息",
+      "str_content": "导不出了PDF",
+      "is_send": 0,
+      "sender_name": "黎生.",
+      "sender_wxid": "wxid_eslu44mfml5322"
+    },
+    {
+      "create_time": 1756176509,
+      "formatted_time": "2025-08-26 10:48:29",
+      "type": "引用消息",
+      "str_content": "一般需要多长时间呢",
+      "is_send": 0,
+      "sender_name": "黎生.",
+      "sender_wxid": "wxid_eslu44mfml5322"
+    },
+    {
+      "create_time": 1756176530,
+      "formatted_time": "2025-08-26 10:48:50",
+      "type": "文本消息",
+      "str_content": "我用申报查询单申请的，那老板说也可以[破涕为笑]",
+      "is_send": 0,
+      "sender_name": "霍达",
+      "sender_wxid": "wxid_og0pk17hzj8y22"
+    },
+    {
+      "create_time": 1756176539,
+      "formatted_time": "2025-08-26 10:48:59",
+      "type": "文本消息",
+      "str_content": "直接可以上牌了嘛",
+      "is_send": 0,
+      "sender_name": "黎生.",
+      "sender_wxid": "wxid_eslu44mfml5322"
+    },
+    {
+      "create_time": 1756176541,
+      "formatted_time": "2025-08-26 10:49:01",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "黎生.",
+      "sender_wxid": "wxid_eslu44mfml5322"
+    },
+    {
+      "create_time": 1756176576,
+      "formatted_time": "2025-08-26 10:49:36",
+      "type": "文本消息",
+      "str_content": "申请了，等牌子下来",
+      "is_send": 0,
+      "sender_name": "霍达",
+      "sender_wxid": "wxid_og0pk17hzj8y22"
+    },
+    {
+      "create_time": 1756176578,
+      "formatted_time": "2025-08-26 10:49:38",
+      "type": "引用消息",
+      "str_content": "我是申请完10分钟他就审批好了",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756176595,
+      "formatted_time": "2025-08-26 10:49:55",
+      "type": "文本消息",
+      "str_content": "这个是受理吧",
+      "is_send": 0,
+      "sender_name": "黎生.",
+      "sender_wxid": "wxid_eslu44mfml5322"
+    },
+    {
+      "create_time": 1756176622,
+      "formatted_time": "2025-08-26 10:50:22",
+      "type": "引用消息",
+      "str_content": "那到时候还要去找他上牌是吧",
+      "is_send": 0,
+      "sender_name": "黎生.",
+      "sender_wxid": "wxid_eslu44mfml5322"
+    },
+    {
+      "create_time": 1756176626,
+      "formatted_time": "2025-08-26 10:50:26",
+      "type": "文本消息",
+      "str_content": "先拿个临时的",
+      "is_send": 0,
+      "sender_name": "黎生.",
+      "sender_wxid": "wxid_eslu44mfml5322"
+    },
+    {
+      "create_time": 1756176632,
+      "formatted_time": "2025-08-26 10:50:32",
+      "type": "文本消息",
+      "str_content": "我填写的地址信息他拒绝通过了怎么办呀",
+      "is_send": 0,
+      "sender_name": "施皓夫-25-金投",
+      "sender_wxid": "wxid_pcds6ec0622m12"
+    },
+    {
+      "create_time": 1756176647,
+      "formatted_time": "2025-08-26 10:50:47",
+      "type": "文本消息",
+      "str_content": "你是不是填错了",
+      "is_send": 0,
+      "sender_name": "陈年坤",
+      "sender_wxid": "wxid_i4xj91yqiiy021"
+    },
+    {
+      "create_time": 1756176656,
+      "formatted_time": "2025-08-26 10:50:56",
+      "type": "文本消息",
+      "str_content": "他说不用临时的，交警问直接给他看上牌申请记录就行",
+      "is_send": 0,
+      "sender_name": "霍达",
+      "sender_wxid": "wxid_og0pk17hzj8y22"
+    },
+    {
+      "create_time": 1756176661,
+      "formatted_time": "2025-08-26 10:51:01",
+      "type": "文本消息",
+      "str_content": "说我证件或姓名写的不对，但我检查了一下写的肯定对的",
+      "is_send": 0,
+      "sender_name": "施皓夫-25-金投",
+      "sender_wxid": "wxid_pcds6ec0622m12"
+    },
+    {
+      "create_time": 1756176694,
+      "formatted_time": "2025-08-26 10:51:34",
+      "type": "引用消息",
+      "str_content": "okok",
+      "is_send": 0,
+      "sender_name": "黎生.",
+      "sender_wxid": "wxid_eslu44mfml5322"
+    },
+    {
+      "create_time": 1756176716,
+      "formatted_time": "2025-08-26 10:51:56",
+      "type": "引用消息",
+      "str_content": "那个地址我都是扫的门牌号",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756176736,
+      "formatted_time": "2025-08-26 10:52:16",
+      "type": "文本消息",
+      "str_content": "他那个申报有一个是二维码登记",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756176738,
+      "formatted_time": "2025-08-26 10:52:18",
+      "type": "文本消息",
+      "str_content": "哦哦哦这样",
+      "is_send": 0,
+      "sender_name": "施皓夫-25-金投",
+      "sender_wxid": "wxid_pcds6ec0622m12"
+    },
+    {
+      "create_time": 1756176750,
+      "formatted_time": "2025-08-26 10:52:30",
+      "type": "文本消息",
+      "str_content": "就扫宿舍门口那个门牌号的二维码就行",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756176764,
+      "formatted_time": "2025-08-26 10:52:44",
+      "type": "文本消息",
+      "str_content": "好滴好滴，谢谢！",
+      "is_send": 0,
+      "sender_name": "施皓夫-25-金投",
+      "sender_wxid": "wxid_pcds6ec0622m12"
+    },
+    {
+      "create_time": 1756176793,
+      "formatted_time": "2025-08-26 10:53:13",
+      "type": "引用消息",
+      "str_content": "额 我好像没扫这个 我也审批通过了",
+      "is_send": 0,
+      "sender_name": "25 金融投资 何朋谦",
+      "sender_wxid": "wxid_k48c5e1xjx4n22"
+    },
+    {
+      "create_time": 1756176807,
+      "formatted_time": "2025-08-26 10:53:27",
+      "type": "文本消息",
+      "str_content": "玄学[捂脸]",
+      "is_send": 0,
+      "sender_name": "25 金融投资 何朋谦",
+      "sender_wxid": "wxid_k48c5e1xjx4n22"
+    },
+    {
+      "create_time": 1756176836,
+      "formatted_time": "2025-08-26 10:53:56",
+      "type": "文本消息",
+      "str_content": "主要是扫那个码方便不用自己填半天",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756176922,
+      "formatted_time": "2025-08-26 10:55:22",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1756176929,
+      "formatted_time": "2025-08-26 10:55:29",
+      "type": "文本消息",
+      "str_content": "请问下这个是为什么呀",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1756176934,
+      "formatted_time": "2025-08-26 10:55:34",
+      "type": "文本消息",
+      "str_content": "[流泪]",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1756176956,
+      "formatted_time": "2025-08-26 10:55:56",
+      "type": "文本消息",
+      "str_content": "你看看你申请过没有",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756176971,
+      "formatted_time": "2025-08-26 10:56:11",
+      "type": "文本消息",
+      "str_content": "或者是你交了一个申请还没审批完毕",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756177051,
+      "formatted_time": "2025-08-26 10:57:31",
+      "type": "文本消息",
+      "str_content": "但查了一下没有正在受理的审批记录",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1756177068,
+      "formatted_time": "2025-08-26 10:57:48",
+      "type": "文本消息",
+      "str_content": "之前填过一下粤居码",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1756177072,
+      "formatted_time": "2025-08-26 10:57:52",
+      "type": "文本消息",
+      "str_content": "和这个会有关系吗",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1756177082,
+      "formatted_time": "2025-08-26 10:58:02",
+      "type": "文本消息",
+      "str_content": "嘶，那我也不太清楚了",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756177086,
+      "formatted_time": "2025-08-26 10:58:06",
+      "type": "引用消息",
+      "str_content": "我刚刚撤销了也还是这样",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1756177093,
+      "formatted_time": "2025-08-26 10:58:13",
+      "type": "文本消息",
+      "str_content": "你可以打客服电话问问",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1756177097,
+      "formatted_time": "2025-08-26 10:58:17",
+      "type": "文本消息",
+      "str_content": "okok",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1756177099,
+      "formatted_time": "2025-08-26 10:58:19",
+      "type": "文本消息",
+      "str_content": "谢谢",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1756177246,
+      "formatted_time": "2025-08-26 11:00:46",
+      "type": "文本消息",
+      "str_content": "想问问大家4号楼是多少栋",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1756177249,
+      "formatted_time": "2025-08-26 11:00:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1756178038,
+      "formatted_time": "2025-08-26 11:13:58",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756178042,
+      "formatted_time": "2025-08-26 11:14:02",
+      "type": "文本消息",
+      "str_content": "@一颗叫卷卷的荷包蛋",
+      "is_send": 0,
+      "sender_name": "Winking",
+      "sender_wxid": "wxid_x4up2gwbpzgs22"
+    },
+    {
+      "create_time": 1756178049,
+      "formatted_time": "2025-08-26 11:14:09",
+      "type": "文本消息",
+      "str_content": "依次往后算",
+      "is_send": 0,
+      "sender_name": "Winking",
+      "sender_wxid": "wxid_x4up2gwbpzgs22"
+    },
+    {
+      "create_time": 1756178065,
+      "formatted_time": "2025-08-26 11:14:25",
+      "type": "文本消息",
+      "str_content": "4号是23",
+      "is_send": 0,
+      "sender_name": "Winking",
+      "sender_wxid": "wxid_x4up2gwbpzgs22"
+    },
+    {
+      "create_time": 1756178092,
+      "formatted_time": "2025-08-26 11:14:52",
+      "type": "文本消息",
+      "str_content": "一号楼是20栋 依次往后加一",
+      "is_send": 0,
+      "sender_name": "Winking",
+      "sender_wxid": "wxid_x4up2gwbpzgs22"
+    },
+    {
+      "create_time": 1756178214,
+      "formatted_time": "2025-08-26 11:16:54",
+      "type": "文本消息",
+      "str_content": "刚刚学校上牌的地方还没上班",
+      "is_send": 0,
+      "sender_name": "文耀瑾-湖南大学-数量和金融科技",
+      "sender_wxid": "wxid_40a6a3gn9c9a22"
+    },
+    {
+      "create_time": 1756178214,
+      "formatted_time": "2025-08-26 11:16:54",
+      "type": "文本消息",
+      "str_content": "听说十一二点上班",
+      "is_send": 0,
+      "sender_name": "文耀瑾-湖南大学-数量和金融科技",
+      "sender_wxid": "wxid_40a6a3gn9c9a22"
+    },
+    {
+      "create_time": 1756178214,
+      "formatted_time": "2025-08-26 11:16:54",
+      "type": "文本消息",
+      "str_content": "可能6点，但有活的时候也可能晚点",
+      "is_send": 0,
+      "sender_name": "文耀瑾-湖南大学-数量和金融科技",
+      "sender_wxid": "wxid_40a6a3gn9c9a22"
+    },
+    {
+      "create_time": 1756178229,
+      "formatted_time": "2025-08-26 11:17:09",
+      "type": "引用消息",
+      "str_content": "下班",
+      "is_send": 0,
+      "sender_name": "文耀瑾-湖南大学-数量和金融科技",
+      "sender_wxid": "wxid_40a6a3gn9c9a22"
+    },
+    {
+      "create_time": 1756178242,
+      "formatted_time": "2025-08-26 11:17:22",
+      "type": "引用消息",
+      "str_content": "在哪里呀",
+      "is_send": 0,
+      "sender_name": "黎生.",
+      "sender_wxid": "wxid_eslu44mfml5322"
+    },
+    {
+      "create_time": 1756178752,
+      "formatted_time": "2025-08-26 11:25:52",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "文耀瑾-湖南大学-数量和金融科技",
+      "sender_wxid": "wxid_40a6a3gn9c9a22"
+    },
+    {
+      "create_time": 1756178758,
+      "formatted_time": "2025-08-26 11:25:58",
+      "type": "文本消息",
+      "str_content": "我去的是这",
+      "is_send": 0,
+      "sender_name": "文耀瑾-湖南大学-数量和金融科技",
+      "sender_wxid": "wxid_40a6a3gn9c9a22"
+    },
+    {
+      "create_time": 1756178781,
+      "formatted_time": "2025-08-26 11:26:21",
+      "type": "引用消息",
+      "str_content": "但是还没上班，也不知道是不是还是在这上牌",
+      "is_send": 0,
+      "sender_name": "文耀瑾-湖南大学-数量和金融科技",
+      "sender_wxid": "wxid_40a6a3gn9c9a22"
+    },
+    {
+      "create_time": 1756180095,
+      "formatted_time": "2025-08-26 11:48:15",
+      "type": "文本消息",
+      "str_content": "现在可以了",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756180102,
+      "formatted_time": "2025-08-26 11:48:22",
+      "type": "文本消息",
+      "str_content": "刚刚去看了有人",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756180199,
+      "formatted_time": "2025-08-26 11:49:59",
+      "type": "文本消息",
+      "str_content": "没有校外牌子，可以先上校内牌吗？",
+      "is_send": 0,
+      "sender_name": "赵晗池 25管理",
+      "sender_wxid": "wxid_gacjek3hla4e22"
+    },
+    {
+      "create_time": 1756180226,
+      "formatted_time": "2025-08-26 11:50:26",
+      "type": "引用消息",
+      "str_content": "可以",
+      "is_send": 0,
+      "sender_name": "Ginia",
+      "sender_wxid": "wxid_9c8iorq4x94b21"
+    },
+    {
+      "create_time": 1756180234,
+      "formatted_time": "2025-08-26 11:50:34",
+      "type": "文本消息",
+      "str_content": "谢谢！",
+      "is_send": 0,
+      "sender_name": "赵晗池 25管理",
+      "sender_wxid": "wxid_gacjek3hla4e22"
+    },
+    {
+      "create_time": 1756194856,
+      "formatted_time": "2025-08-26 15:54:16",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756198159,
+      "formatted_time": "2025-08-26 16:49:19",
+      "type": "文本消息",
+      "str_content": "有2号楼的同学办了居住信息吗[可怜]咱们有没有二维码可以扫呀",
+      "is_send": 0,
+      "sender_name": "Bernoulli",
+      "sender_wxid": "wxid_b3vqt9bqyoqp22"
+    },
+    {
+      "create_time": 1756198385,
+      "formatted_time": "2025-08-26 16:53:05",
+      "type": "文本消息",
+      "str_content": "门口门牌号有",
+      "is_send": 0,
+      "sender_name": "安奕敏",
+      "sender_wxid": "wxid_4wzu840axdcy22"
+    },
+    {
+      "create_time": 1756198506,
+      "formatted_time": "2025-08-26 16:55:06",
+      "type": "文本消息",
+      "str_content": "搜不到我的房间号orz请问这个详细地址可以自己填吗",
+      "is_send": 0,
+      "sender_name": "Bernoulli",
+      "sender_wxid": "wxid_b3vqt9bqyoqp22"
+    },
+    {
+      "create_time": 1756198556,
+      "formatted_time": "2025-08-26 16:55:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756198572,
+      "formatted_time": "2025-08-26 16:56:12",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756198578,
+      "formatted_time": "2025-08-26 16:56:18",
+      "type": "文本消息",
+      "str_content": "二号楼是21栋那个",
+      "is_send": 0,
+      "sender_name": "李硕-西安交通大学-金融",
+      "sender_wxid": "wxid_bqp2b4w4mxy322"
+    },
+    {
+      "create_time": 1756199455,
+      "formatted_time": "2025-08-26 17:10:55",
+      "type": "文本消息",
+      "str_content": "好的，谢谢！",
+      "is_send": 0,
+      "sender_name": "Bernoulli",
+      "sender_wxid": "wxid_b3vqt9bqyoqp22"
+    },
+    {
+      "create_time": 1756202190,
+      "formatted_time": "2025-08-26 17:56:30",
+      "type": "文本消息",
+      "str_content": "请问上车牌大概需要多久啊",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756202197,
+      "formatted_time": "2025-08-26 17:56:37",
+      "type": "文本消息",
+      "str_content": "已经有居住信息了",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756202443,
+      "formatted_time": "2025-08-26 18:00:43",
+      "type": "文本消息",
+      "str_content": "在深圳交警小程序提交预约 大概3天左右就能邮到 然后找地方帮忙拧一下车牌就行",
+      "is_send": 0,
+      "sender_name": "王子睿",
+      "sender_wxid": "wxid_28e7ilwvutp621"
+    },
+    {
+      "create_time": 1756202465,
+      "formatted_time": "2025-08-26 18:01:05",
+      "type": "文本消息",
+      "str_content": "谢谢！",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756205436,
+      "formatted_time": "2025-08-26 18:50:36",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756205886,
+      "formatted_time": "2025-08-26 18:58:06",
+      "type": "文本消息",
+      "str_content": "可以问一下群公告里的雅迪在哪里买么",
+      "is_send": 0,
+      "sender_name": "4200",
+      "sender_wxid": "wxid_kiwvje8hc7q222"
+    },
+    {
+      "create_time": 1756205890,
+      "formatted_time": "2025-08-26 18:58:10",
+      "type": "文本消息",
+      "str_content": "👉👈",
+      "is_send": 0,
+      "sender_name": "4200",
+      "sender_wxid": "wxid_kiwvje8hc7q222"
+    },
+    {
+      "create_time": 1756205977,
+      "formatted_time": "2025-08-26 18:59:37",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756206029,
+      "formatted_time": "2025-08-26 19:00:29",
+      "type": "文本消息",
+      "str_content": "谢谢",
+      "is_send": 0,
+      "sender_name": "4200",
+      "sender_wxid": "wxid_kiwvje8hc7q222"
+    },
+    {
+      "create_time": 1756206323,
+      "formatted_time": "2025-08-26 19:05:23",
+      "type": "文本消息",
+      "str_content": "请问一下团购价在哪里看呀",
+      "is_send": 0,
+      "sender_name": "IYKYK",
+      "sender_wxid": "wxid_5styo6hsv02i22"
+    },
+    {
+      "create_time": 1756210629,
+      "formatted_time": "2025-08-26 20:17:09",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756210882,
+      "formatted_time": "2025-08-26 20:21:22",
+      "type": "引用消息",
+      "str_content": "看群公告～",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756263416,
+      "formatted_time": "2025-08-27 10:56:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756263416,
+      "formatted_time": "2025-08-27 10:56:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756278434,
+      "formatted_time": "2025-08-27 15:07:14",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756285435,
+      "formatted_time": "2025-08-27 17:03:55",
+      "type": "文本消息",
+      "str_content": "居住证一直没批下来的同学可以撤销后重新申请，我等了两天没审批，今天下午重新申两个小时就批了",
+      "is_send": 0,
+      "sender_name": "赵晗池 25管理",
+      "sender_wxid": "wxid_gacjek3hla4e22"
+    },
+    {
+      "create_time": 1756305969,
+      "formatted_time": "2025-08-27 22:46:09",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756306935,
+      "formatted_time": "2025-08-27 23:02:15",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756373471,
+      "formatted_time": "2025-08-28 17:31:11",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756374659,
+      "formatted_time": "2025-08-28 17:50:59",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756378941,
+      "formatted_time": "2025-08-28 19:02:21",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756379298,
+      "formatted_time": "2025-08-28 19:08:18",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756386824,
+      "formatted_time": "2025-08-28 21:13:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756386824,
+      "formatted_time": "2025-08-28 21:13:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756485535,
+      "formatted_time": "2025-08-30 00:38:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756485535,
+      "formatted_time": "2025-08-30 00:38:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756529066,
+      "formatted_time": "2025-08-30 12:44:26",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756529066,
+      "formatted_time": "2025-08-30 12:44:26",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756529187,
+      "formatted_time": "2025-08-30 12:46:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756529187,
+      "formatted_time": "2025-08-30 12:46:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756548839,
+      "formatted_time": "2025-08-30 18:13:59",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756548842,
+      "formatted_time": "2025-08-30 18:14:02",
+      "type": "文本消息",
+      "str_content": "家人们",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756548849,
+      "formatted_time": "2025-08-30 18:14:09",
+      "type": "文本消息",
+      "str_content": "这个上完牌怎么充电啊",
+      "is_send": 0,
+      "sender_name": "金管 魏浩然",
+      "sender_wxid": "wxid_lg5vvuwk5s2f22"
+    },
+    {
+      "create_time": 1756551400,
+      "formatted_time": "2025-08-30 18:56:40",
+      "type": "文本消息",
+      "str_content": "13692228180",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756551423,
+      "formatted_time": "2025-08-30 18:57:03",
+      "type": "文本消息",
+      "str_content": "可以打这个电话，大概5分钟左右可以解决",
+      "is_send": 0,
+      "sender_name": "Allent",
+      "sender_wxid": "wxid_6x5gzwr0741t22"
+    },
+    {
+      "create_time": 1756707165,
+      "formatted_time": "2025-09-01 14:12:45",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "8.25 电动车群",
+      "sender_wxid": "44823745414@chatroom"
+    },
+    {
+      "create_time": 1756723717,
+      "formatted_time": "2025-09-01 18:48:37",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756723801,
+      "formatted_time": "2025-09-01 18:50:01",
+      "type": "文本消息",
+      "str_content": "群聊的二维码过期了[可怜]",
+      "is_send": 0,
+      "sender_name": "九百万🐳🐳🐳",
+      "sender_wxid": "wxid_wkpinm9syax112"
+    },
+    {
+      "create_time": 1756881595,
+      "formatted_time": "2025-09-03 14:39:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756881669,
+      "formatted_time": "2025-09-03 14:41:09",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756881706,
+      "formatted_time": "2025-09-03 14:41:46",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "蓝袜子丫",
+      "sender_wxid": "wxid_anauj0kmj9a722"
+    },
+    {
+      "create_time": 1756881730,
+      "formatted_time": "2025-09-03 14:42:10",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756881738,
+      "formatted_time": "2025-09-03 14:42:18",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1756883855,
+      "formatted_time": "2025-09-03 15:17:35",
+      "type": "文本消息",
+      "str_content": "sorry 在那个群的同学麻烦发一下吧~ 因为我不在那个群里",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756883863,
+      "formatted_time": "2025-09-03 15:17:43",
+      "type": "文本消息",
+      "str_content": "买了就退了",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756883967,
+      "formatted_time": "2025-09-03 15:19:27",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "曾瑞云-人大-管双",
+      "sender_wxid": "wxid_rddyvgfqudgc22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:28+08:00",
+  "message_count": 597
+}

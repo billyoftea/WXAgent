@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_rddyvgfqudgc22",
+  "session_name": "曾瑞云-人大-管双",
+  "messages": [
+    {
+      "create_time": 1756200292,
+      "formatted_time": "2025-08-26 17:24:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "曾瑞云-人大-管双"
+    },
+    {
+      "create_time": 1756200307,
+      "formatted_time": "2025-08-26 17:25:07",
+      "type": "图文消息",
+      "str_content": "邀请你加入群聊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1756200897,
+      "formatted_time": "2025-08-26 17:34:57",
+      "type": "文本消息",
+      "str_content": "谢谢[玫瑰]",
+      "is_send": 0,
+      "sender_name": "曾瑞云-人大-管双"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:26+08:00",
+  "message_count": 3
+}

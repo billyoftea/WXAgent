@@ -1,0 +1,656 @@
+{
+  "session_id": "wxid_5b4lmagxb70x22",
+  "session_name": "尹金玉",
+  "messages": [
+    {
+      "create_time": 1719910038,
+      "formatted_time": "2024-07-02 16:47:18",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720005945,
+      "formatted_time": "2024-07-03 19:25:45",
+      "type": "文本消息",
+      "str_content": "笑死了",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720005952,
+      "formatted_time": "2024-07-03 19:25:52",
+      "type": "文本消息",
+      "str_content": "你看见谁有俩对号",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720005958,
+      "formatted_time": "2024-07-03 19:25:58",
+      "type": "文本消息",
+      "str_content": "我为什么是一个对号一个OK",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720005984,
+      "formatted_time": "2024-07-03 19:26:24",
+      "type": "文本消息",
+      "str_content": "我还有那个南开金融的哥们，其实就是瞟了一眼，也没太看清楚",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720005993,
+      "formatted_time": "2024-07-03 19:26:33",
+      "type": "文本消息",
+      "str_content": "[机智][机智][机智]",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720005995,
+      "formatted_time": "2024-07-03 19:26:35",
+      "type": "文本消息",
+      "str_content": "我觉得应该是记号系统比较混乱？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720006003,
+      "formatted_time": "2024-07-03 19:26:43",
+      "type": "文本消息",
+      "str_content": "我在想OK是啥意思",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720006005,
+      "formatted_time": "2024-07-03 19:26:45",
+      "type": "文本消息",
+      "str_content": "可能老师就是随手画画[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720006005,
+      "formatted_time": "2024-07-03 19:26:45",
+      "type": "文本消息",
+      "str_content": "[苦涩]",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720006016,
+      "formatted_time": "2024-07-03 19:26:56",
+      "type": "文本消息",
+      "str_content": "算了",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720006018,
+      "formatted_time": "2024-07-03 19:26:58",
+      "type": "文本消息",
+      "str_content": "不管了",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720006023,
+      "formatted_time": "2024-07-03 19:27:03",
+      "type": "文本消息",
+      "str_content": "反正OK肯定不是fail",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720006034,
+      "formatted_time": "2024-07-03 19:27:14",
+      "type": "文本消息",
+      "str_content": "况且还有个对号",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720006035,
+      "formatted_time": "2024-07-03 19:27:15",
+      "type": "文本消息",
+      "str_content": "哎没事没事别想了，感觉咱组论文除了有硬伤的，其他人应该都ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720006041,
+      "formatted_time": "2024-07-03 19:27:21",
+      "type": "文本消息",
+      "str_content": "是的",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720006042,
+      "formatted_time": "2024-07-03 19:27:22",
+      "type": "文本消息",
+      "str_content": "[机智]",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720006055,
+      "formatted_time": "2024-07-03 19:27:35",
+      "type": "文本消息",
+      "str_content": "加油加油💪🏻",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720006217,
+      "formatted_time": "2024-07-03 19:30:17",
+      "type": "文本消息",
+      "str_content": "加油",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720066176,
+      "formatted_time": "2024-07-04 12:09:36",
+      "type": "文本消息",
+      "str_content": "你几点面试",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720142381,
+      "formatted_time": "2024-07-05 09:19:41",
+      "type": "文本消息",
+      "str_content": "你中午吃不吃火锅",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720142389,
+      "formatted_time": "2024-07-05 09:19:49",
+      "type": "文本消息",
+      "str_content": "旁边有一家潮汕牛肉火锅",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720142409,
+      "formatted_time": "2024-07-05 09:20:09",
+      "type": "文本消息",
+      "str_content": "诶可以啊，不过我打算先去扫个货把卡里的钱画完",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720142468,
+      "formatted_time": "2024-07-05 09:21:08",
+      "type": "文本消息",
+      "str_content": "没事",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720142472,
+      "formatted_time": "2024-07-05 09:21:12",
+      "type": "文本消息",
+      "str_content": "我也有此意",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720142566,
+      "formatted_time": "2024-07-05 09:22:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720148857,
+      "formatted_time": "2024-07-05 11:07:37",
+      "type": "文本消息",
+      "str_content": "一楼大厅见",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720152578,
+      "formatted_time": "2024-07-05 12:09:38",
+      "type": "位置消息",
+      "str_content": "[位置消息]",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720152999,
+      "formatted_time": "2024-07-05 12:16:39",
+      "type": "文本消息",
+      "str_content": "可能你们要稍微快一点",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720153006,
+      "formatted_time": "2024-07-05 12:16:46",
+      "type": "文本消息",
+      "str_content": "我们打算是到1点20",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720153038,
+      "formatted_time": "2024-07-05 12:17:18",
+      "type": "文本消息",
+      "str_content": "吃到1.20嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720153095,
+      "formatted_time": "2024-07-05 12:18:15",
+      "type": "文本消息",
+      "str_content": "嘶那可能有点来不及",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720153098,
+      "formatted_time": "2024-07-05 12:18:18",
+      "type": "文本消息",
+      "str_content": "要不你们先吃",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720153102,
+      "formatted_time": "2024-07-05 12:18:22",
+      "type": "文本消息",
+      "str_content": "我俩还买挺多东西的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720153107,
+      "formatted_time": "2024-07-05 12:18:27",
+      "type": "文本消息",
+      "str_content": "准备回去放一下先",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720153108,
+      "formatted_time": "2024-07-05 12:18:28",
+      "type": "文本消息",
+      "str_content": "[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720153133,
+      "formatted_time": "2024-07-05 12:18:53",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈那你们稍微快点，我们等你哈哈哈",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720153137,
+      "formatted_time": "2024-07-05 12:18:57",
+      "type": "文本消息",
+      "str_content": "菜已经点好啦",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720153165,
+      "formatted_time": "2024-07-05 12:19:25",
+      "type": "文本消息",
+      "str_content": "你们先吃你们先吃",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720153169,
+      "formatted_time": "2024-07-05 12:19:29",
+      "type": "文本消息",
+      "str_content": "我们甚至还在校内",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720153171,
+      "formatted_time": "2024-07-05 12:19:31",
+      "type": "文本消息",
+      "str_content": "[苦涩][苦涩]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720153200,
+      "formatted_time": "2024-07-05 12:20:00",
+      "type": "文本消息",
+      "str_content": "你们可以先按四人份点",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720153202,
+      "formatted_time": "2024-07-05 12:20:02",
+      "type": "文本消息",
+      "str_content": "[捂脸][捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720153624,
+      "formatted_time": "2024-07-05 12:27:04",
+      "type": "文本消息",
+      "str_content": "我们这儿离得好像还有点儿远，你们大概吃到几点呀？如果你们结束比较早的话，那要不就我们俩自己吃得了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720153721,
+      "formatted_time": "2024-07-05 12:28:41",
+      "type": "文本消息",
+      "str_content": "打车10分钟？",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720153726,
+      "formatted_time": "2024-07-05 12:28:46",
+      "type": "文本消息",
+      "str_content": "还有一小时呢",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720153742,
+      "formatted_time": "2024-07-05 12:29:02",
+      "type": "文本消息",
+      "str_content": "那我们先给你下着吧",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720154005,
+      "formatted_time": "2024-07-05 12:33:25",
+      "type": "引用消息",
+      "str_content": "一点二十或者一点半哈哈哈",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720154017,
+      "formatted_time": "2024-07-05 12:33:37",
+      "type": "文本消息",
+      "str_content": "过来聊聊天呗哈哈哈",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720154020,
+      "formatted_time": "2024-07-05 12:33:40",
+      "type": "文本消息",
+      "str_content": "说不定下次见一年后了",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720154258,
+      "formatted_time": "2024-07-05 12:37:38",
+      "type": "文本消息",
+      "str_content": "来了来了，我马上出校，打车过去",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1720154376,
+      "formatted_time": "2024-07-05 12:39:36",
+      "type": "文本消息",
+      "str_content": "OK",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720154557,
+      "formatted_time": "2024-07-05 12:42:37",
+      "type": "文本消息",
+      "str_content": "我们在二楼",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1720154564,
+      "formatted_time": "2024-07-05 12:42:44",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745682893,
+      "formatted_time": "2025-04-26 23:54:53",
+      "type": "文本消息",
+      "str_content": "大哥",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745682896,
+      "formatted_time": "2025-04-26 23:54:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745682904,
+      "formatted_time": "2025-04-26 23:55:04",
+      "type": "文本消息",
+      "str_content": "你山东人吗",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745682905,
+      "formatted_time": "2025-04-26 23:55:05",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈哈稍",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745682953,
+      "formatted_time": "2025-04-26 23:55:53",
+      "type": "文本消息",
+      "str_content": "对啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745682955,
+      "formatted_time": "2025-04-26 23:55:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745682961,
+      "formatted_time": "2025-04-26 23:56:01",
+      "type": "文本消息",
+      "str_content": "咱当时夏令营一开始我不就说了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745682968,
+      "formatted_time": "2025-04-26 23:56:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745682987,
+      "formatted_time": "2025-04-26 23:56:27",
+      "type": "引用消息",
+      "str_content": "笑死了哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745682992,
+      "formatted_time": "2025-04-26 23:56:32",
+      "type": "文本消息",
+      "str_content": "有道理",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745682998,
+      "formatted_time": "2025-04-26 23:56:38",
+      "type": "文本消息",
+      "str_content": "我记得我们当时建了个群是不是",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745683000,
+      "formatted_time": "2025-04-26 23:56:40",
+      "type": "文本消息",
+      "str_content": "山东群",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745683003,
+      "formatted_time": "2025-04-26 23:56:43",
+      "type": "文本消息",
+      "str_content": "还是没有来着",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745683008,
+      "formatted_time": "2025-04-26 23:56:48",
+      "type": "文本消息",
+      "str_content": "我觉得可以建一个",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745683009,
+      "formatted_time": "2025-04-26 23:56:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745683013,
+      "formatted_time": "2025-04-26 23:56:53",
+      "type": "文本消息",
+      "str_content": "可以啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745683043,
+      "formatted_time": "2025-04-26 23:57:23",
+      "type": "引用消息",
+      "str_content": "笑死了，手机换了，消息记录没了",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745683045,
+      "formatted_time": "2025-04-26 23:57:25",
+      "type": "文本消息",
+      "str_content": "sorry",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745683048,
+      "formatted_time": "2025-04-26 23:57:28",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745683055,
+      "formatted_time": "2025-04-26 23:57:35",
+      "type": "文本消息",
+      "str_content": "没事没事",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745683061,
+      "formatted_time": "2025-04-26 23:57:41",
+      "type": "文本消息",
+      "str_content": "要不你拉个？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745683067,
+      "formatted_time": "2025-04-26 23:57:47",
+      "type": "文本消息",
+      "str_content": "我给你披上黄袍",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745683072,
+      "formatted_time": "2025-04-26 23:57:52",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745683097,
+      "formatted_time": "2025-04-26 23:58:17",
+      "type": "引用消息",
+      "str_content": "？",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745683102,
+      "formatted_time": "2025-04-26 23:58:22",
+      "type": "文本消息",
+      "str_content": "什么鬼",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745683121,
+      "formatted_time": "2025-04-26 23:58:41",
+      "type": "文本消息",
+      "str_content": "위대의 우리 조국🤚😭✋",
+      "is_send": 0,
+      "sender_name": "尹金玉"
+    },
+    {
+      "create_time": 1745683142,
+      "formatted_time": "2025-04-26 23:59:02",
+      "type": "文本消息",
+      "str_content": "🤚😭✋",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:34+08:00",
+  "message_count": 81
+}

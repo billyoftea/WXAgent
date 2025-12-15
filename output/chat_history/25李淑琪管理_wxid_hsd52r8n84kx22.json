@@ -1,0 +1,56 @@
+{
+  "session_id": "wxid_hsd52r8n84kx22",
+  "session_name": "25李淑琪管理",
+  "messages": [
+    {
+      "create_time": 1757759504,
+      "formatted_time": "2025-09-13 18:31:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "25李淑琪管理"
+    },
+    {
+      "create_time": 1757759504,
+      "formatted_time": "2025-09-13 18:31:44",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "25李淑琪管理"
+    },
+    {
+      "create_time": 1757759512,
+      "formatted_time": "2025-09-13 18:31:52",
+      "type": "文本消息",
+      "str_content": "25管理李淑琪~请多多关照[玫瑰]",
+      "is_send": 0,
+      "sender_name": "25李淑琪管理"
+    },
+    {
+      "create_time": 1757759514,
+      "formatted_time": "2025-09-13 18:31:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25李淑琪管理"
+    },
+    {
+      "create_time": 1757759529,
+      "formatted_time": "2025-09-13 18:32:09",
+      "type": "文本消息",
+      "str_content": "hihi 我是25数金徐昂[呲牙][呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1757759570,
+      "formatted_time": "2025-09-13 18:32:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25李淑琪管理"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:28+08:00",
+  "message_count": 6
+}

@@ -1,0 +1,64 @@
+{
+  "session_id": "wxid_besy5b1pscih22",
+  "session_name": "李甲森Jason",
+  "messages": [
+    {
+      "create_time": 1765359360,
+      "formatted_time": "2025-12-10 17:36:00",
+      "type": "文本消息",
+      "str_content": "甲森师兄好！我是深港25级会长徐昂",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765359394,
+      "formatted_time": "2025-12-10 17:36:34",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "李甲森Jason"
+    },
+    {
+      "create_time": 1765359394,
+      "formatted_time": "2025-12-10 17:36:34",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "李甲森Jason"
+    },
+    {
+      "create_time": 1765359423,
+      "formatted_time": "2025-12-10 17:37:03",
+      "type": "文本消息",
+      "str_content": "甲森师兄好！我是汇丰25级的徐昂，很荣幸能够当选会长！我会努力把我们深港的文化内核传承好，让深港得到进一步的发展！也欢迎师兄常回家看看！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765359518,
+      "formatted_time": "2025-12-10 17:38:38",
+      "type": "文本消息",
+      "str_content": "师弟好，加油呀，希望你带领协会继续进步！",
+      "is_send": 0,
+      "sender_name": "李甲森Jason"
+    },
+    {
+      "create_time": 1765359674,
+      "formatted_time": "2025-12-10 17:41:14",
+      "type": "文本消息",
+      "str_content": "嗯嗯！谢谢师兄！我会努力让深港越来越好，不辜负大家的信任！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765359768,
+      "formatted_time": "2025-12-10 17:42:48",
+      "type": "文本消息",
+      "str_content": "[强][强][强]",
+      "is_send": 0,
+      "sender_name": "李甲森Jason"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:17+08:00",
+  "message_count": 7
+}

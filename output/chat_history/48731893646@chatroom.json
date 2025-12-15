@@ -1,0 +1,103 @@
+{
+  "session_id": "48731893646@chatroom",
+  "session_name": "48731893646@chatroom",
+  "messages": [
+    {
+      "create_time": 1720157892,
+      "formatted_time": "2024-07-05 13:38:12",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1720157895,
+      "formatted_time": "2024-07-05 13:38:15",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "48731893646@chatroom",
+      "sender_wxid": "48731893646@chatroom"
+    },
+    {
+      "create_time": 1720157895,
+      "formatted_time": "2024-07-05 13:38:15",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "48731893646@chatroom",
+      "sender_wxid": "48731893646@chatroom"
+    },
+    {
+      "create_time": 1720157901,
+      "formatted_time": "2024-07-05 13:38:21",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "48731893646@chatroom",
+      "sender_wxid": "48731893646@chatroom"
+    },
+    {
+      "create_time": 1720157901,
+      "formatted_time": "2024-07-05 13:38:21",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "48731893646@chatroom",
+      "sender_wxid": "48731893646@chatroom"
+    },
+    {
+      "create_time": 1720157901,
+      "formatted_time": "2024-07-05 13:38:21",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1720157955,
+      "formatted_time": "2024-07-05 13:39:15",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "王禹鑫",
+      "sender_wxid": "wxid_zuvbhme8ck0322"
+    },
+    {
+      "create_time": 1720157989,
+      "formatted_time": "2024-07-05 13:39:49",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "夏尹睿",
+      "sender_wxid": "wxid_88ngzusk70ad22"
+    },
+    {
+      "create_time": 1720160110,
+      "formatted_time": "2024-07-05 14:15:10",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "尹金玉",
+      "sender_wxid": "wxid_5b4lmagxb70x22"
+    },
+    {
+      "create_time": 1720160119,
+      "formatted_time": "2024-07-05 14:15:19",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "尹金玉",
+      "sender_wxid": "wxid_5b4lmagxb70x22"
+    },
+    {
+      "create_time": 1720160125,
+      "formatted_time": "2024-07-05 14:15:25",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "尹金玉",
+      "sender_wxid": "wxid_5b4lmagxb70x22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:32+08:00",
+  "message_count": 11
+}

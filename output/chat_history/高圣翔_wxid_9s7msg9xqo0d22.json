@@ -1,0 +1,72 @@
+{
+  "session_id": "wxid_9s7msg9xqo0d22",
+  "session_name": "高圣翔",
+  "messages": [
+    {
+      "create_time": 1685971155,
+      "formatted_time": "2023-06-05 21:19:15",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "高圣翔"
+    },
+    {
+      "create_time": 1685971170,
+      "formatted_time": "2023-06-05 21:19:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685971566,
+      "formatted_time": "2023-06-05 21:26:06",
+      "type": "文本消息",
+      "str_content": "[旺柴]",
+      "is_send": 0,
+      "sender_name": "高圣翔"
+    },
+    {
+      "create_time": 1685971578,
+      "formatted_time": "2023-06-05 21:26:18",
+      "type": "文本消息",
+      "str_content": "康康你的私生活",
+      "is_send": 0,
+      "sender_name": "高圣翔"
+    },
+    {
+      "create_time": 1685972122,
+      "formatted_time": "2023-06-05 21:35:22",
+      "type": "文本消息",
+      "str_content": "[偷笑][偷笑]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1738153226,
+      "formatted_time": "2025-01-29 20:20:26",
+      "type": "文本消息",
+      "str_content": "祝哥哥新的一年灵蛇启航，蛇舞新春，蛇么都好，蛇年大吉[烟花][烟花][烟花]",
+      "is_send": 0,
+      "sender_name": "高圣翔"
+    },
+    {
+      "create_time": 1738153406,
+      "formatted_time": "2025-01-29 20:23:26",
+      "type": "文本消息",
+      "str_content": "多谢学弟[呲牙][抱拳]也祝你新年学业进步，一切顺利！！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1738153981,
+      "formatted_time": "2025-01-29 20:33:01",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "高圣翔"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:37+08:00",
+  "message_count": 8
+}

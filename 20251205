@@ -76,7 +76,6 @@
 新的测试：
 # Terminal 1 - 启动后端
 cd C:\Users\Lenovo\Desktop\WXAgent\backend
-
 go run cmd/wxagent_backend/main.go server
 
 # Terminal 2 - 启动前端
@@ -88,3 +87,28 @@ flutter run -d windows
 exe打包方案？
 cd scripts
 cd C:\Users\Lenovo\Desktop\WXAgent\scripts; .\build_release.bat
+
+
+wxagent不如echotrace导出的聊天记录全？？？
+
+
+
+
+帮我修改前端实现：
+1.在密钥获取功能中，删除”打开密钥文件“选项
+2.删除”微信环境状态“这个block。
+3.删title: '缺少密钥时自动启动 wx_key')'开启后一键导出会尝试注入密钥，再执行解密'),   这个功能  在聊天记录导出这个前端只保留一键解密+导出 
+4.在导出会话列表里面，现在打开json错位，查看状态是灰色的而且错位。类别没有正确显示。将“上次导出”栏目删掉。
+
+
+1.现在前端字体是怎么实现的？
+    现在字体粗细还是不一样，帮我修复
+3.导出聊天记录的时候将后端的这些输出也在前端展示，让用户知道这在工作
+  [DEBUG] 当前用户 wxid_t0lk4ald194u22 在 Name2Id 中的 rowid: 2
+  [OK] Exported wxid_72rns54z1w7522: 31 messages
+  [DEBUG] 当前用户 wxid_t0lk4ald194u22 在 Name2Id 中的 rowid: 2
+  [MERGE] wxid_1zxea9rhgt4a12: 14 existing + 86 new = 100 total
+4.删除欢迎页的当前状态
+5.ai总结部分，应该是有两个prompt的，一个是分chunk的，一个是最终总结的。在使用默认提示词的时候，展示这两个的prompt（只读状态，用户不能修改），在自定义提示词的时候，展示两栏供用户修改
+6.在已经修改了output_dir，（一个放入chat_history文件夹，一个放入analysis文件夹），更新聊天记录分析时使用的路径
+7.聊天记录ai总结部分，当前总结/历史记录这个下拉栏一直没有正常？我本地已经有了md文件，但是下拉栏没有显示出来

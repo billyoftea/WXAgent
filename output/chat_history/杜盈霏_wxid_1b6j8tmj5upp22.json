@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_1b6j8tmj5upp22",
+  "session_name": "杜盈霏",
+  "messages": [
+    {
+      "create_time": 1708834898,
+      "formatted_time": "2024-02-25 12:21:38",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "杜盈霏"
+    },
+    {
+      "create_time": 1708834964,
+      "formatted_time": "2024-02-25 12:22:44",
+      "type": "文本消息",
+      "str_content": "你好呀~我叫徐昂，请多多指教啦！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708835005,
+      "formatted_time": "2024-02-25 12:23:25",
+      "type": "文本消息",
+      "str_content": "Hello呀，我叫杜盈霏，多多指教[偷笑]",
+      "is_send": 0,
+      "sender_name": "杜盈霏"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:31+08:00",
+  "message_count": 3
+}

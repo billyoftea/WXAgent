@@ -1,0 +1,80 @@
+{
+  "session_id": "wxid_rcwozhz99x1222",
+  "session_name": "郭宇彤",
+  "messages": [
+    {
+      "create_time": 1696683882,
+      "formatted_time": "2023-10-07 21:04:42",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "郭宇彤"
+    },
+    {
+      "create_time": 1696683894,
+      "formatted_time": "2023-10-07 21:04:54",
+      "type": "文本消息",
+      "str_content": "嗯嗯？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696683902,
+      "formatted_time": "2023-10-07 21:05:02",
+      "type": "文本消息",
+      "str_content": "啥心得",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1696685293,
+      "formatted_time": "2023-10-07 21:28:13",
+      "type": "文本消息",
+      "str_content": "党课发言：\n提高科学素养，主动普及科学知识。如今，现代发达的科学技术无处不在，了解科学的基本概念原理和方法，不仅可以培养我们的科学精神和创新意识，也可以帮助我们更好适应现代社会的飞速发展。\n关注科研热点问题，与本专业知识相结合。我国科研与经济两张皮问题仍然存在，巨大的科研投入和科技资源存量不适应。推进产学研项目进一步落实，将科技成果转化到日常生活中，解决企业研发过程中的技术难题，将市场需求与科研供给相结合，是解决问题的有效途径。",
+      "is_send": 0,
+      "sender_name": "郭宇彤"
+    },
+    {
+      "create_time": 1696685317,
+      "formatted_time": "2023-10-07 21:28:37",
+      "type": "文本消息",
+      "str_content": "不太方便发言[捂脸]李导让我把心得发给你",
+      "is_send": 0,
+      "sender_name": "郭宇彤"
+    },
+    {
+      "create_time": 1696685392,
+      "formatted_time": "2023-10-07 21:29:52",
+      "type": "文本消息",
+      "str_content": "哦哦哦哦，好滴",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748920588,
+      "formatted_time": "2025-06-03 11:16:28",
+      "type": "文本消息",
+      "str_content": "由于扫描页数限制，舍去了一些个人信息页",
+      "is_send": 0,
+      "sender_name": "郭宇彤"
+    },
+    {
+      "create_time": 1748920589,
+      "formatted_time": "2025-06-03 11:16:29",
+      "type": "文件消息",
+      "str_content": "徐昂.pdf",
+      "is_send": 0,
+      "sender_name": "郭宇彤"
+    },
+    {
+      "create_time": 1748920649,
+      "formatted_time": "2025-06-03 11:17:29",
+      "type": "文本消息",
+      "str_content": "收到，感谢~",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:41+08:00",
+  "message_count": 9
+}

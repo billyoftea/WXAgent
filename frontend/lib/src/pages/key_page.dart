@@ -131,8 +131,6 @@ class _KeyAcquisitionPageState extends State<KeyAcquisitionPage> {
                 '· WXAgent 会自动写入 shared_preferences.json，并解析出数据库密钥及图片密钥。',
               ),
               const SizedBox(height: 8),
-              const Text('· 读取过程中无需手动打开其它工具，全流程在此处完成。'),
-              const SizedBox(height: 16),
               Wrap(
                 spacing: 12,
                 runSpacing: 8,
@@ -151,29 +149,12 @@ class _KeyAcquisitionPageState extends State<KeyAcquisitionPage> {
                         : const Icon(Icons.vpn_key_rounded),
                     label: const Text('开始获取密钥'),
                   ),
-                  OutlinedButton.icon(
-                    onPressed: _prefPath == null ? null : _openPrefs,
-                    icon: const Icon(Icons.folder_open),
-                    label: const Text('打开密钥文件'),
-                  ),
                 ],
               ),
               if (_error != null) ...[
                 const SizedBox(height: 12),
                 Text(_error!, style: const TextStyle(color: Colors.redAccent)),
               ],
-            ],
-          ),
-        ),
-        SectionCard(
-          title: '微信环境状态',
-          child: Column(
-            children: [
-              _buildStatusRow('SharedPreferences 路径', _prefPath ?? '--'),
-              const SizedBox(height: 8),
-              _buildStatusRow('文件状态', _prefExists ? '已检测到密钥文件' : '未找到密钥文件'),
-              const SizedBox(height: 8),
-              _buildStatusRow('最后更新时间', _keyInfo?.timestamp ?? '--'),
             ],
           ),
         ),

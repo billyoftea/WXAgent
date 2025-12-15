@@ -1,0 +1,774 @@
+{
+  "session_id": "19807768987@chatroom",
+  "session_name": "19807768987@chatroom",
+  "messages": [
+    {
+      "create_time": 1688895583,
+      "formatted_time": "2023-07-09 17:39:43",
+      "type": "文本消息",
+      "str_content": "11",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688895585,
+      "formatted_time": "2023-07-09 17:39:45",
+      "type": "文本消息",
+      "str_content": "[哇]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688895589,
+      "formatted_time": "2023-07-09 17:39:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688895605,
+      "formatted_time": "2023-07-09 17:40:05",
+      "type": "文本消息",
+      "str_content": "今天一起吃顿便饭吧[旺柴]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688895617,
+      "formatted_time": "2023-07-09 17:40:17",
+      "type": "文本消息",
+      "str_content": "你俩有啥想法不",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688895630,
+      "formatted_time": "2023-07-09 17:40:30",
+      "type": "文本消息",
+      "str_content": "我是纯乡下人进城",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688895640,
+      "formatted_time": "2023-07-09 17:40:40",
+      "type": "引用消息",
+      "str_content": "俺也",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688895652,
+      "formatted_time": "2023-07-09 17:40:52",
+      "type": "文本消息",
+      "str_content": "我也",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688895655,
+      "formatted_time": "2023-07-09 17:40:55",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688895704,
+      "formatted_time": "2023-07-09 17:41:44",
+      "type": "文本消息",
+      "str_content": "那个地方全名叫啥呀",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688895709,
+      "formatted_time": "2023-07-09 17:41:49",
+      "type": "文本消息",
+      "str_content": "我看看有多远",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688895717,
+      "formatted_time": "2023-07-09 17:41:57",
+      "type": "文本消息",
+      "str_content": "中央电视台总部大楼",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688895733,
+      "formatted_time": "2023-07-09 17:42:13",
+      "type": "文本消息",
+      "str_content": "或者国贸附近有啥吃的吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688895739,
+      "formatted_time": "2023-07-09 17:42:19",
+      "type": "文本消息",
+      "str_content": "@Ju. 董总推荐下？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688895749,
+      "formatted_time": "2023-07-09 17:42:29",
+      "type": "文本消息",
+      "str_content": "离我好像不远",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688895752,
+      "formatted_time": "2023-07-09 17:42:32",
+      "type": "文本消息",
+      "str_content": "十几分钟就到了",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688895753,
+      "formatted_time": "2023-07-09 17:42:33",
+      "type": "文本消息",
+      "str_content": "我一般在世贸天阶那边吃",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688895761,
+      "formatted_time": "2023-07-09 17:42:41",
+      "type": "文本消息",
+      "str_content": "有不少东西捏",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688895771,
+      "formatted_time": "2023-07-09 17:42:51",
+      "type": "文本消息",
+      "str_content": "可以到时候一块看看想吃什么",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688895774,
+      "formatted_time": "2023-07-09 17:42:54",
+      "type": "文本消息",
+      "str_content": "我都可以",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688895775,
+      "formatted_time": "2023-07-09 17:42:55",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688895776,
+      "formatted_time": "2023-07-09 17:42:56",
+      "type": "文本消息",
+      "str_content": "支持的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688895776,
+      "formatted_time": "2023-07-09 17:42:56",
+      "type": "文本消息",
+      "str_content": "应该都有",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688895781,
+      "formatted_time": "2023-07-09 17:43:01",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688895782,
+      "formatted_time": "2023-07-09 17:43:02",
+      "type": "文本消息",
+      "str_content": "咱们几点在哪集合呀",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688895785,
+      "formatted_time": "2023-07-09 17:43:05",
+      "type": "文本消息",
+      "str_content": "我看我怎么出发",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688895796,
+      "formatted_time": "2023-07-09 17:43:16",
+      "type": "文本消息",
+      "str_content": "我大概还有四十分钟",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688895803,
+      "formatted_time": "2023-07-09 17:43:23",
+      "type": "引用消息",
+      "str_content": "到这里",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688895808,
+      "formatted_time": "2023-07-09 17:43:28",
+      "type": "引用消息",
+      "str_content": "我还十五分钟左右",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688895824,
+      "formatted_time": "2023-07-09 17:43:44",
+      "type": "文本消息",
+      "str_content": "那我过会出发",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688895825,
+      "formatted_time": "2023-07-09 17:43:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688895834,
+      "formatted_time": "2023-07-09 17:43:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688895845,
+      "formatted_time": "2023-07-09 17:44:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688897406,
+      "formatted_time": "2023-07-09 18:10:06",
+      "type": "文本消息",
+      "str_content": "到南门还是北门呀",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688897426,
+      "formatted_time": "2023-07-09 18:10:26",
+      "type": "文本消息",
+      "str_content": "我也不到诶",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688897433,
+      "formatted_time": "2023-07-09 18:10:33",
+      "type": "文本消息",
+      "str_content": "要不就在出站口",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688897435,
+      "formatted_time": "2023-07-09 18:10:35",
+      "type": "文本消息",
+      "str_content": "c口",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688897441,
+      "formatted_time": "2023-07-09 18:10:41",
+      "type": "文本消息",
+      "str_content": "地铁吗",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688897445,
+      "formatted_time": "2023-07-09 18:10:45",
+      "type": "文本消息",
+      "str_content": "我倒立",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688897449,
+      "formatted_time": "2023-07-09 18:10:49",
+      "type": "文本消息",
+      "str_content": "我到时候找找",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688897458,
+      "formatted_time": "2023-07-09 18:10:58",
+      "type": "文本消息",
+      "str_content": "打的好贵",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688897465,
+      "formatted_time": "2023-07-09 18:11:05",
+      "type": "文本消息",
+      "str_content": "我俩坐地铁来的是",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688897466,
+      "formatted_time": "2023-07-09 18:11:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688897506,
+      "formatted_time": "2023-07-09 18:11:46",
+      "type": "文本消息",
+      "str_content": "我刚骑共享单车到处逛了逛",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688897511,
+      "formatted_time": "2023-07-09 18:11:51",
+      "type": "文本消息",
+      "str_content": "现在回去找你去@Ju.",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688897529,
+      "formatted_time": "2023-07-09 18:12:09",
+      "type": "文本消息",
+      "str_content": "oki",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688897579,
+      "formatted_time": "2023-07-09 18:12:59",
+      "type": "文本消息",
+      "str_content": "你们可以先找吃的地方",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688897582,
+      "formatted_time": "2023-07-09 18:13:02",
+      "type": "文本消息",
+      "str_content": "我可以直接过去",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688897586,
+      "formatted_time": "2023-07-09 18:13:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688897589,
+      "formatted_time": "2023-07-09 18:13:09",
+      "type": "文本消息",
+      "str_content": "感觉会堵车",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688897628,
+      "formatted_time": "2023-07-09 18:13:48",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688897631,
+      "formatted_time": "2023-07-09 18:13:51",
+      "type": "文本消息",
+      "str_content": "我在地铁口",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688898117,
+      "formatted_time": "2023-07-09 18:21:57",
+      "type": "文本消息",
+      "str_content": "妈耶，我这里离那里好像有点远，开始定位定错了",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688898117,
+      "formatted_time": "2023-07-09 18:21:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688898144,
+      "formatted_time": "2023-07-09 18:22:24",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688898165,
+      "formatted_time": "2023-07-09 18:22:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688898165,
+      "formatted_time": "2023-07-09 18:22:45",
+      "type": "文本消息",
+      "str_content": "你们先去吧",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688898165,
+      "formatted_time": "2023-07-09 18:22:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688898168,
+      "formatted_time": "2023-07-09 18:22:48",
+      "type": "文本消息",
+      "str_content": "没事",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688898170,
+      "formatted_time": "2023-07-09 18:22:50",
+      "type": "文本消息",
+      "str_content": "等你",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688898179,
+      "formatted_time": "2023-07-09 18:22:59",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender": "自己",
+      "sender_name": "徐昂 Ang",
+      "sender_wxid": "wxid_t0lk4ald194u22"
+    },
+    {
+      "create_time": 1688898179,
+      "formatted_time": "2023-07-09 18:22:59",
+      "type": "文本消息",
+      "str_content": "感觉吃的地方也要排队",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688898179,
+      "formatted_time": "2023-07-09 18:22:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688898186,
+      "formatted_time": "2023-07-09 18:23:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688899356,
+      "formatted_time": "2023-07-09 18:42:36",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688899379,
+      "formatted_time": "2023-07-09 18:42:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688900231,
+      "formatted_time": "2023-07-09 18:57:11",
+      "type": "文本消息",
+      "str_content": "我俩到咯",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688900248,
+      "formatted_time": "2023-07-09 18:57:28",
+      "type": "文本消息",
+      "str_content": "我大概还有十几分钟",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688900409,
+      "formatted_time": "2023-07-09 19:00:09",
+      "type": "文本消息",
+      "str_content": "好哩",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688905843,
+      "formatted_time": "2023-07-09 20:30:43",
+      "type": "文本消息",
+      "str_content": "没有..",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688905847,
+      "formatted_time": "2023-07-09 20:30:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688905857,
+      "formatted_time": "2023-07-09 20:30:57",
+      "type": "文本消息",
+      "str_content": "一楼二楼都装修呢",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688908363,
+      "formatted_time": "2023-07-09 21:12:43",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688908363,
+      "formatted_time": "2023-07-09 21:12:43",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688908525,
+      "formatted_time": "2023-07-09 21:15:25",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688908550,
+      "formatted_time": "2023-07-09 21:15:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688909306,
+      "formatted_time": "2023-07-09 21:28:26",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688909309,
+      "formatted_time": "2023-07-09 21:28:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688909327,
+      "formatted_time": "2023-07-09 21:28:47",
+      "type": "文本消息",
+      "str_content": "在武汉都没吃过这么实惠的",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688909434,
+      "formatted_time": "2023-07-09 21:30:34",
+      "type": "文本消息",
+      "str_content": "真的便宜",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688909437,
+      "formatted_time": "2023-07-09 21:30:37",
+      "type": "文本消息",
+      "str_content": "打工人工作餐",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1688909480,
+      "formatted_time": "2023-07-09 21:31:20",
+      "type": "文本消息",
+      "str_content": "明天你们俩加油",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688909482,
+      "formatted_time": "2023-07-09 21:31:22",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688910229,
+      "formatted_time": "2023-07-09 21:43:49",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688910239,
+      "formatted_time": "2023-07-09 21:43:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688910245,
+      "formatted_time": "2023-07-09 21:44:05",
+      "type": "文本消息",
+      "str_content": "真滴实惠",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1688910485,
+      "formatted_time": "2023-07-09 21:48:05",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1688910489,
+      "formatted_time": "2023-07-09 21:48:09",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 88
+}

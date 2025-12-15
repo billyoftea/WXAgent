@@ -1,0 +1,48 @@
+{
+  "session_id": "wxid_c6z83mh0lro22",
+  "session_name": "尚科锦",
+  "messages": [
+    {
+      "create_time": 1714625947,
+      "formatted_time": "2024-05-02 12:59:07",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "尚科锦"
+    },
+    {
+      "create_time": 1714626190,
+      "formatted_time": "2024-05-02 13:03:10",
+      "type": "文本消息",
+      "str_content": "你好",
+      "is_send": 0,
+      "sender_name": "尚科锦"
+    },
+    {
+      "create_time": 1714626219,
+      "formatted_time": "2024-05-02 13:03:39",
+      "type": "文本消息",
+      "str_content": "你好~我叫徐昂[握手]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1714626273,
+      "formatted_time": "2024-05-02 13:04:33",
+      "type": "文本消息",
+      "str_content": "尚科锦",
+      "is_send": 0,
+      "sender_name": "尚科锦"
+    },
+    {
+      "create_time": 1714626277,
+      "formatted_time": "2024-05-02 13:04:37",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "尚科锦"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:31+08:00",
+  "message_count": 5
+}

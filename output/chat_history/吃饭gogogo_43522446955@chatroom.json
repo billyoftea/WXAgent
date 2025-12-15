@@ -1,0 +1,574 @@
+{
+  "session_id": "43522446955@chatroom",
+  "session_name": "吃饭gogogo",
+  "messages": [
+    {
+      "create_time": 1764511421,
+      "formatted_time": "2025-11-30 22:03:41",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764511654,
+      "formatted_time": "2025-11-30 22:07:34",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764511754,
+      "formatted_time": "2025-11-30 22:09:14",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764513296,
+      "formatted_time": "2025-11-30 22:34:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764513775,
+      "formatted_time": "2025-11-30 22:42:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764515637,
+      "formatted_time": "2025-11-30 23:13:57",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764518764,
+      "formatted_time": "2025-12-01 00:06:04",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764557334,
+      "formatted_time": "2025-12-01 10:48:54",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764557974,
+      "formatted_time": "2025-12-01 10:59:34",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营",
+      "sender_wxid": "wxid_uisubvzxyved22"
+    },
+    {
+      "create_time": 1764558035,
+      "formatted_time": "2025-12-01 11:00:35",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张壹豪-央财-数量与金融科技",
+      "sender_wxid": "wxid_awkhzpy1vj1j22"
+    },
+    {
+      "create_time": 1764559013,
+      "formatted_time": "2025-12-01 11:16:53",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764559911,
+      "formatted_time": "2025-12-01 11:31:51",
+      "type": "文本消息",
+      "str_content": "考虑到明天晚上有的同学七点半有海闻老师的课，且有的同学17:30才下课，所以我们将用餐时间调整到17:30，地点不变～",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营",
+      "sender_wxid": "wxid_uisubvzxyved22"
+    },
+    {
+      "create_time": 1764559917,
+      "formatted_time": "2025-12-01 11:31:57",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营",
+      "sender_wxid": "wxid_uisubvzxyved22"
+    },
+    {
+      "create_time": 1764560172,
+      "formatted_time": "2025-12-01 11:36:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "匡浩鑫-25-经济",
+      "sender_wxid": "wxid_vlj601697ps122"
+    },
+    {
+      "create_time": 1764560268,
+      "formatted_time": "2025-12-01 11:37:48",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财经新闻 刘耀旸",
+      "sender_wxid": "wxid_go7fdnf2rq7s12"
+    },
+    {
+      "create_time": 1764560278,
+      "formatted_time": "2025-12-01 11:37:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谢晓雪",
+      "sender_wxid": "wxid_y2mn3o5lodm512"
+    },
+    {
+      "create_time": 1764577064,
+      "formatted_time": "2025-12-01 16:17:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764577250,
+      "formatted_time": "2025-12-01 16:20:50",
+      "type": "引用消息",
+      "str_content": "太高级了",
+      "is_send": 0,
+      "sender_name": "任凯-24-金科",
+      "sender_wxid": "wxid_ecsq8qhtiwy312"
+    },
+    {
+      "create_time": 1764577687,
+      "formatted_time": "2025-12-01 16:28:07",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营",
+      "sender_wxid": "wxid_uisubvzxyved22"
+    },
+    {
+      "create_time": 1764577697,
+      "formatted_time": "2025-12-01 16:28:17",
+      "type": "引用消息",
+      "str_content": "嘻嘻嘻嘻",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营",
+      "sender_wxid": "wxid_uisubvzxyved22"
+    },
+    {
+      "create_time": 1764577701,
+      "formatted_time": "2025-12-01 16:28:21",
+      "type": "文本消息",
+      "str_content": "咱们人多，他们能容下吗",
+      "is_send": 0,
+      "sender_name": "任凯-24-金科",
+      "sender_wxid": "wxid_ecsq8qhtiwy312"
+    },
+    {
+      "create_time": 1764577714,
+      "formatted_time": "2025-12-01 16:28:34",
+      "type": "文本消息",
+      "str_content": "我订了两张桌子",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营",
+      "sender_wxid": "wxid_uisubvzxyved22"
+    },
+    {
+      "create_time": 1764577715,
+      "formatted_time": "2025-12-01 16:28:35",
+      "type": "文本消息",
+      "str_content": "问了一下，拼桌",
+      "is_send": 0,
+      "sender_name": "张壹豪-央财-数量与金融科技",
+      "sender_wxid": "wxid_awkhzpy1vj1j22"
+    },
+    {
+      "create_time": 1764577720,
+      "formatted_time": "2025-12-01 16:28:40",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张壹豪-央财-数量与金融科技",
+      "sender_wxid": "wxid_awkhzpy1vj1j22"
+    },
+    {
+      "create_time": 1764577729,
+      "formatted_time": "2025-12-01 16:28:49",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营",
+      "sender_wxid": "wxid_uisubvzxyved22"
+    },
+    {
+      "create_time": 1764577815,
+      "formatted_time": "2025-12-01 16:30:15",
+      "type": "文本消息",
+      "str_content": "奥奥，去年也是，去年有 18 个人好像",
+      "is_send": 0,
+      "sender_name": "任凯-24-金科",
+      "sender_wxid": "wxid_ecsq8qhtiwy312"
+    },
+    {
+      "create_time": 1764578028,
+      "formatted_time": "2025-12-01 16:33:48",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764579132,
+      "formatted_time": "2025-12-01 16:52:12",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764585115,
+      "formatted_time": "2025-12-01 18:31:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764602560,
+      "formatted_time": "2025-12-01 23:22:40",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764603112,
+      "formatted_time": "2025-12-01 23:31:52",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营",
+      "sender_wxid": "wxid_uisubvzxyved22"
+    },
+    {
+      "create_time": 1764603128,
+      "formatted_time": "2025-12-01 23:32:08",
+      "type": "文本消息",
+      "str_content": "新进群的朋友可以看看👀～",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营",
+      "sender_wxid": "wxid_uisubvzxyved22"
+    },
+    {
+      "create_time": 1764603167,
+      "formatted_time": "2025-12-01 23:32:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金管唐忻灿",
+      "sender_wxid": "wxid_9pwn6azucifj22"
+    },
+    {
+      "create_time": 1764603969,
+      "formatted_time": "2025-12-01 23:46:09",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李昱铭 25经济",
+      "sender_wxid": "wxid_wt39r44ph7yu22"
+    },
+    {
+      "create_time": 1764604048,
+      "formatted_time": "2025-12-01 23:47:28",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "24经济吉沛华",
+      "sender_wxid": "wxid_6bdtnq71e4bt12"
+    },
+    {
+      "create_time": 1764666621,
+      "formatted_time": "2025-12-02 17:10:21",
+      "type": "文本消息",
+      "str_content": "大家别忘了今天晚上的聚餐～",
+      "is_send": 0,
+      "sender_name": "张壹豪-央财-数量与金融科技",
+      "sender_wxid": "wxid_awkhzpy1vj1j22"
+    },
+    {
+      "create_time": 1764666622,
+      "formatted_time": "2025-12-02 17:10:22",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张壹豪-央财-数量与金融科技",
+      "sender_wxid": "wxid_awkhzpy1vj1j22"
+    },
+    {
+      "create_time": 1764666658,
+      "formatted_time": "2025-12-02 17:10:58",
+      "type": "文本消息",
+      "str_content": "🫡",
+      "is_send": 0,
+      "sender_name": "匡浩鑫-25-经济",
+      "sender_wxid": "wxid_vlj601697ps122"
+    },
+    {
+      "create_time": 1764667028,
+      "formatted_time": "2025-12-02 17:17:08",
+      "type": "文本消息",
+      "str_content": "🫡",
+      "is_send": 0,
+      "sender_name": "彭德辉 25企管",
+      "sender_wxid": "wxid_rqkli2urrd2i22"
+    },
+    {
+      "create_time": 1764668249,
+      "formatted_time": "2025-12-02 17:37:29",
+      "type": "文本消息",
+      "str_content": "大家快来呀",
+      "is_send": 0,
+      "sender_name": "金管唐忻灿",
+      "sender_wxid": "wxid_9pwn6azucifj22"
+    },
+    {
+      "create_time": 1764668262,
+      "formatted_time": "2025-12-02 17:37:42",
+      "type": "文本消息",
+      "str_content": "马上了马上了！",
+      "is_send": 0,
+      "sender_name": "张壹豪-央财-数量与金融科技",
+      "sender_wxid": "wxid_awkhzpy1vj1j22"
+    },
+    {
+      "create_time": 1764668554,
+      "formatted_time": "2025-12-02 17:42:34",
+      "type": "文本消息",
+      "str_content": "来了来了！",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营",
+      "sender_wxid": "wxid_uisubvzxyved22"
+    },
+    {
+      "create_time": 1764668794,
+      "formatted_time": "2025-12-02 17:46:34",
+      "type": "文本消息",
+      "str_content": "来了来了！",
+      "is_send": 0,
+      "sender_name": "财经新闻 刘耀旸",
+      "sender_wxid": "wxid_go7fdnf2rq7s12"
+    },
+    {
+      "create_time": 1764676620,
+      "formatted_time": "2025-12-02 19:57:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "匡浩鑫-25-经济",
+      "sender_wxid": "wxid_vlj601697ps122"
+    },
+    {
+      "create_time": 1764676623,
+      "formatted_time": "2025-12-02 19:57:03",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "匡浩鑫-25-经济",
+      "sender_wxid": "wxid_vlj601697ps122"
+    },
+    {
+      "create_time": 1764676626,
+      "formatted_time": "2025-12-02 19:57:06",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "匡浩鑫-25-经济",
+      "sender_wxid": "wxid_vlj601697ps122"
+    },
+    {
+      "create_time": 1764676635,
+      "formatted_time": "2025-12-02 19:57:15",
+      "type": "文本消息",
+      "str_content": "？",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营",
+      "sender_wxid": "wxid_uisubvzxyved22"
+    },
+    {
+      "create_time": 1764676637,
+      "formatted_time": "2025-12-02 19:57:17",
+      "type": "文本消息",
+      "str_content": "我们呢",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营",
+      "sender_wxid": "wxid_uisubvzxyved22"
+    },
+    {
+      "create_time": 1764676643,
+      "formatted_time": "2025-12-02 19:57:23",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营",
+      "sender_wxid": "wxid_uisubvzxyved22"
+    },
+    {
+      "create_time": 1764676659,
+      "formatted_time": "2025-12-02 19:57:39",
+      "type": "文本消息",
+      "str_content": "刚好一半人",
+      "is_send": 0,
+      "sender_name": "彭德辉 25企管",
+      "sender_wxid": "wxid_rqkli2urrd2i22"
+    },
+    {
+      "create_time": 1764676665,
+      "formatted_time": "2025-12-02 19:57:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "彭德辉 25企管",
+      "sender_wxid": "wxid_rqkli2urrd2i22"
+    },
+    {
+      "create_time": 1764676678,
+      "formatted_time": "2025-12-02 19:57:58",
+      "type": "文本消息",
+      "str_content": "？",
+      "is_send": 0,
+      "sender_name": "24经济吉沛华",
+      "sender_wxid": "wxid_6bdtnq71e4bt12"
+    },
+    {
+      "create_time": 1764676680,
+      "formatted_time": "2025-12-02 19:58:00",
+      "type": "文本消息",
+      "str_content": "我们呢",
+      "is_send": 0,
+      "sender_name": "24经济吉沛华",
+      "sender_wxid": "wxid_6bdtnq71e4bt12"
+    },
+    {
+      "create_time": 1764676885,
+      "formatted_time": "2025-12-02 20:01:25",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财经新闻 刘耀旸",
+      "sender_wxid": "wxid_go7fdnf2rq7s12"
+    },
+    {
+      "create_time": 1764676959,
+      "formatted_time": "2025-12-02 20:02:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "匡浩鑫-25-经济",
+      "sender_wxid": "wxid_vlj601697ps122"
+    },
+    {
+      "create_time": 1764676979,
+      "formatted_time": "2025-12-02 20:02:59",
+      "type": "文本消息",
+      "str_content": "人不齐我们什么时候再吃一次吧",
+      "is_send": 0,
+      "sender_name": "匡浩鑫-25-经济",
+      "sender_wxid": "wxid_vlj601697ps122"
+    },
+    {
+      "create_time": 1764676983,
+      "formatted_time": "2025-12-02 20:03:03",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "匡浩鑫-25-经济",
+      "sender_wxid": "wxid_vlj601697ps122"
+    },
+    {
+      "create_time": 1764676987,
+      "formatted_time": "2025-12-02 20:03:07",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "24经济吉沛华",
+      "sender_wxid": "wxid_6bdtnq71e4bt12"
+    },
+    {
+      "create_time": 1764676998,
+      "formatted_time": "2025-12-02 20:03:18",
+      "type": "引用消息",
+      "str_content": "这个感觉能无限🔄",
+      "is_send": 0,
+      "sender_name": "24经济吉沛华",
+      "sender_wxid": "wxid_6bdtnq71e4bt12"
+    },
+    {
+      "create_time": 1764677010,
+      "formatted_time": "2025-12-02 20:03:30",
+      "type": "文本消息",
+      "str_content": "别忘了在群里 A 钱",
+      "is_send": 0,
+      "sender_name": "任凯-24-金科",
+      "sender_wxid": "wxid_ecsq8qhtiwy312"
+    },
+    {
+      "create_time": 1764677226,
+      "formatted_time": "2025-12-02 20:07:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "24经济吉沛华",
+      "sender_wxid": "wxid_6bdtnq71e4bt12"
+    },
+    {
+      "create_time": 1764677248,
+      "formatted_time": "2025-12-02 20:07:28",
+      "type": "引用消息",
+      "str_content": "收到收到，还在回去的路上！",
+      "is_send": 0,
+      "sender_name": "张壹豪-央财-数量与金融科技",
+      "sender_wxid": "wxid_awkhzpy1vj1j22"
+    },
+    {
+      "create_time": 1764677250,
+      "formatted_time": "2025-12-02 20:07:30",
+      "type": "文本消息",
+      "str_content": "稍等捏",
+      "is_send": 0,
+      "sender_name": "张壹豪-央财-数量与金融科技",
+      "sender_wxid": "wxid_awkhzpy1vj1j22"
+    },
+    {
+      "create_time": 1764680720,
+      "formatted_time": "2025-12-02 21:05:20",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "is_send": 0,
+      "sender_name": "张壹豪-央财-数量与金融科技",
+      "sender_wxid": "wxid_awkhzpy1vj1j22"
+    },
+    {
+      "create_time": 1764680723,
+      "formatted_time": "2025-12-02 21:05:23",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张壹豪-央财-数量与金融科技",
+      "sender_wxid": "wxid_awkhzpy1vj1j22"
+    },
+    {
+      "create_time": 1764680728,
+      "formatted_time": "2025-12-02 21:05:28",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张壹豪-央财-数量与金融科技",
+      "sender_wxid": "wxid_awkhzpy1vj1j22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:17+08:00",
+  "message_count": 66
+}

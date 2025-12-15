@@ -1,0 +1,224 @@
+{
+  "session_id": "52446540393@chatroom",
+  "session_name": "FAE25",
+  "messages": [
+    {
+      "create_time": 1763033581,
+      "formatted_time": "2025-11-13 19:33:01",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763035089,
+      "formatted_time": "2025-11-13 19:58:09",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763035207,
+      "formatted_time": "2025-11-13 20:00:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763035717,
+      "formatted_time": "2025-11-13 20:08:37",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763036502,
+      "formatted_time": "2025-11-13 20:21:42",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763036653,
+      "formatted_time": "2025-11-13 20:24:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763036767,
+      "formatted_time": "2025-11-13 20:26:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763037907,
+      "formatted_time": "2025-11-13 20:45:07",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763038167,
+      "formatted_time": "2025-11-13 20:49:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763039084,
+      "formatted_time": "2025-11-13 21:04:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763040796,
+      "formatted_time": "2025-11-13 21:33:16",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763041288,
+      "formatted_time": "2025-11-13 21:41:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763106377,
+      "formatted_time": "2025-11-14 15:46:17",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763106428,
+      "formatted_time": "2025-11-14 15:47:08",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763106499,
+      "formatted_time": "2025-11-14 15:48:19",
+      "type": "文本消息",
+      "str_content": "The key to CMS: FAE202502",
+      "is_send": 0,
+      "sender_name": "divine",
+      "sender_wxid": "wxid_52o8v16n1vwv21"
+    },
+    {
+      "create_time": 1763448112,
+      "formatted_time": "2025-11-18 14:41:52",
+      "type": "文本消息",
+      "str_content": "The professor has uploaded the slides via CMS. You can download them.",
+      "is_send": 0,
+      "sender_name": "divine",
+      "sender_wxid": "wxid_52o8v16n1vwv21"
+    },
+    {
+      "create_time": 1763450752,
+      "formatted_time": "2025-11-18 15:25:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763450752,
+      "formatted_time": "2025-11-18 15:25:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763950330,
+      "formatted_time": "2025-11-24 10:12:10",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1763983285,
+      "formatted_time": "2025-11-24 19:21:25",
+      "type": "文本消息",
+      "str_content": "第一次作业已经上传到CMS，我会在12.12这堂课来收作业，大家注意截止时间！",
+      "is_send": 0,
+      "sender_name": "divine",
+      "sender_wxid": "wxid_52o8v16n1vwv21"
+    },
+    {
+      "create_time": 1764055849,
+      "formatted_time": "2025-11-25 15:30:49",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764133245,
+      "formatted_time": "2025-11-26 13:00:45",
+      "type": "文本消息",
+      "str_content": "今天dario有些事情，office hour的时间不在办公室，大家要是有问题可以课后和他聊，如果需要可以周五再约他office hour的时间。课程正常哈",
+      "is_send": 0,
+      "sender_name": "divine",
+      "sender_wxid": "wxid_52o8v16n1vwv21"
+    },
+    {
+      "create_time": 1764581764,
+      "formatted_time": "2025-12-01 17:36:04",
+      "type": "文本消息",
+      "str_content": "大家好～ Dario想跟大家传达一些事情。上周五有同学刷脸就走了，这确实违反了学校的规章制度。他跟我说让我转告给大家，大家如果觉得内容简单可以不来上课，最后的分数不算attendance，如果需要curve会根据attendance的情况调整。当然期中期末考试可能和上课讲的内容有关，如果大家都会也可以不来上课，但最好不要刷了脸就走。",
+      "is_send": 0,
+      "sender_name": "divine",
+      "sender_wxid": "wxid_52o8v16n1vwv21"
+    },
+    {
+      "create_time": 1765509500,
+      "formatted_time": "2025-12-12 11:18:20",
+      "type": "文本消息",
+      "str_content": "大家好～ 请大家今天把作业放在一进教室（刷脸机的门）的第一个座位处，我下课来收～",
+      "is_send": 0,
+      "sender_name": "divine",
+      "sender_wxid": "wxid_52o8v16n1vwv21"
+    },
+    {
+      "create_time": 1765683843,
+      "formatted_time": "2025-12-14 11:44:03",
+      "type": "文本消息",
+      "str_content": "大家好～ 明天Dario的Office hour是下午2-5点",
+      "is_send": 0,
+      "sender_name": "divine",
+      "sender_wxid": "wxid_52o8v16n1vwv21"
+    },
+    {
+      "create_time": 1765707229,
+      "formatted_time": "2025-12-14 18:13:49",
+      "type": "文本消息",
+      "str_content": "大家好，请大家修改一下自己的群名称为 姓名 谢谢！@所有人",
+      "is_send": 0,
+      "sender_name": "divine",
+      "sender_wxid": "wxid_52o8v16n1vwv21"
+    },
+    {
+      "create_time": 1765707275,
+      "formatted_time": "2025-12-14 18:14:35",
+      "type": "文本消息",
+      "str_content": "请尽快修改～考试教室有调整。我需要确保班里的同学都看到群信息！",
+      "is_send": 0,
+      "sender_name": "divine",
+      "sender_wxid": "wxid_52o8v16n1vwv21"
+    },
+    {
+      "create_time": 1765719633,
+      "formatted_time": "2025-12-14 21:40:33",
+      "type": "引用消息",
+      "str_content": "@Goodgoodtea @Lena @mortal @oy",
+      "is_send": 0,
+      "sender_name": "divine",
+      "sender_wxid": "wxid_52o8v16n1vwv21"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:18+08:00",
+  "message_count": 28
+}

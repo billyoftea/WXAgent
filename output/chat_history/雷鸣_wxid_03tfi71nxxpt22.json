@@ -1,0 +1,64 @@
+{
+  "session_id": "wxid_03tfi71nxxpt22",
+  "session_name": "雷鸣",
+  "messages": [
+    {
+      "create_time": 1765359809,
+      "formatted_time": "2025-12-10 17:43:29",
+      "type": "文本消息",
+      "str_content": "雷鸣师兄好！我是深港25级会长徐昂",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765359838,
+      "formatted_time": "2025-12-10 17:43:58",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "雷鸣"
+    },
+    {
+      "create_time": 1765359838,
+      "formatted_time": "2025-12-10 17:43:58",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "雷鸣"
+    },
+    {
+      "create_time": 1765359862,
+      "formatted_time": "2025-12-10 17:44:22",
+      "type": "文本消息",
+      "str_content": "雷鸣师兄好！我是汇丰25级的徐昂，很荣幸能够当选会长！我会努力把我们深港的文化内核传承好，让深港得到进一步的发展！也欢迎师兄常回家看看~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765359988,
+      "formatted_time": "2025-12-10 17:46:28",
+      "type": "文本消息",
+      "str_content": "哈喽哈喽，加油！后续多联系",
+      "is_send": 0,
+      "sender_name": "雷鸣"
+    },
+    {
+      "create_time": 1765360057,
+      "formatted_time": "2025-12-10 17:47:37",
+      "type": "文本消息",
+      "str_content": "嗯嗯！希望师兄监督俺的工作！我会努力的！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765360071,
+      "formatted_time": "2025-12-10 17:47:51",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "雷鸣"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:19+08:00",
+  "message_count": 7
+}

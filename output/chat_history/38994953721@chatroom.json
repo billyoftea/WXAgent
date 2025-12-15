@@ -1,0 +1,122 @@
+{
+  "session_id": "38994953721@chatroom",
+  "session_name": "38994953721@chatroom",
+  "messages": [
+    {
+      "create_time": 1685453528,
+      "formatted_time": "2023-05-30 21:32:08",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "38994953721@chatroom",
+      "sender_wxid": "38994953721@chatroom"
+    },
+    {
+      "create_time": 1685453528,
+      "formatted_time": "2023-05-30 21:32:08",
+      "type": "文本消息",
+      "str_content": "zhengtao785646:\n慧彬 ，这个是徐昂，我的实习生",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685453553,
+      "formatted_time": "2023-05-30 21:32:33",
+      "type": "文本消息",
+      "str_content": "zhengtao785646:\n徐昂，你帮慧彬老师整理一个材料哈",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685453573,
+      "formatted_time": "2023-05-30 21:32:53",
+      "type": "文本消息",
+      "str_content": "嗯嗯，具体是怎么做的呀",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1685453598,
+      "formatted_time": "2023-05-30 21:33:18",
+      "type": "文本消息",
+      "str_content": "zhengtao785646:\n慧彬说一下哈，或者你们电话沟通一下",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685453714,
+      "formatted_time": "2023-05-30 21:35:14",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我的电话是17865716165~",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1685498109,
+      "formatted_time": "2023-05-31 09:55:09",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "38994953721@chatroom",
+      "sender_wxid": "38994953721@chatroom"
+    },
+    {
+      "create_time": 1685498302,
+      "formatted_time": "2023-05-31 09:58:22",
+      "type": "文本消息",
+      "str_content": "liuhuibin480633:\n@Billy O' Tea 辛苦哈，需要你帮忙梳理一篇新股报告，基本就是把PDF版的报告按照格式筛选整理成PPT的，有空吗？我语音跟你说哈。",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685498319,
+      "formatted_time": "2023-05-31 09:58:39",
+      "type": "文件消息",
+      "str_content": "华厦眼科投价报告.pptx",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685498331,
+      "formatted_time": "2023-05-31 09:58:51",
+      "type": "文件消息",
+      "str_content": "杭州安杰思医学科技股份有限公司投资价值研究报告.pdf",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685498365,
+      "formatted_time": "2023-05-31 09:59:25",
+      "type": "文件消息",
+      "str_content": "奥浦迈新股研究报告.pptx",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685498938,
+      "formatted_time": "2023-05-31 10:08:58",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我现在在上课，中午十二点半到一点半左右打个电话可以嘛  我的电话是17865716165",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1685498963,
+      "formatted_time": "2023-05-31 10:09:23",
+      "type": "文本消息",
+      "str_content": "liuhuibin480633:\n好的，12:30电话简单说一下哈",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685498984,
+      "formatted_time": "2023-05-31 10:09:44",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1685508361,
+      "formatted_time": "2023-05-31 12:46:01",
+      "type": "文本消息",
+      "str_content": "我这边ok了~",
+      "is_send": 1,
+      "sender": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:37+08:00",
+  "message_count": 15
+}

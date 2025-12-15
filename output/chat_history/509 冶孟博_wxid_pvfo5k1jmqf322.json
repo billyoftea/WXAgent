@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_pvfo5k1jmqf322",
+  "session_name": "509 冶孟博",
+  "messages": [
+    {
+      "create_time": 1654184276,
+      "formatted_time": "2022-06-02 23:37:56",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "509 冶孟博"
+    },
+    {
+      "create_time": 1654184331,
+      "formatted_time": "2022-06-02 23:38:51",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1654184503,
+      "formatted_time": "2022-06-02 23:41:43",
+      "type": "文本消息",
+      "str_content": "[旺柴]",
+      "is_send": 0,
+      "sender_name": "509 冶孟博"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:42+08:00",
+  "message_count": 3
+}

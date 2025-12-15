@@ -1,0 +1,94 @@
+{
+  "session_id": "44406038916@chatroom",
+  "session_name": "44406038916@chatroom",
+  "messages": [
+    {
+      "create_time": 1757940392,
+      "formatted_time": "2025-09-15 20:46:32",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "44406038916@chatroom",
+      "sender_wxid": "44406038916@chatroom"
+    },
+    {
+      "create_time": 1757940392,
+      "formatted_time": "2025-09-15 20:46:32",
+      "type": "文本消息",
+      "str_content": "1",
+      "is_send": 0,
+      "sender_name": "马超然24经济",
+      "sender_wxid": "wxid_hp5dv37torqf22"
+    },
+    {
+      "create_time": 1757940567,
+      "formatted_time": "2025-09-15 20:49:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "44406038916@chatroom",
+      "sender_wxid": "44406038916@chatroom"
+    },
+    {
+      "create_time": 1757941414,
+      "formatted_time": "2025-09-15 21:03:34",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "44406038916@chatroom",
+      "sender_wxid": "44406038916@chatroom"
+    },
+    {
+      "create_time": 1757941836,
+      "formatted_time": "2025-09-15 21:10:36",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "马超然24经济",
+      "sender_wxid": "wxid_hp5dv37torqf22"
+    },
+    {
+      "create_time": 1757941850,
+      "formatted_time": "2025-09-15 21:10:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "马超然24经济",
+      "sender_wxid": "wxid_hp5dv37torqf22"
+    },
+    {
+      "create_time": 1757941898,
+      "formatted_time": "2025-09-15 21:11:38",
+      "type": "文本消息",
+      "str_content": "家人们～昨天的烤肉咱们A一下啦",
+      "is_send": 0,
+      "sender_name": "马超然24经济",
+      "sender_wxid": "wxid_hp5dv37torqf22"
+    },
+    {
+      "create_time": 1757941933,
+      "formatted_time": "2025-09-15 21:12:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757941938,
+      "formatted_time": "2025-09-15 21:12:18",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758028075,
+      "formatted_time": "2025-09-16 21:07:55",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "is_send": 0,
+      "sender_name": "马超然24经济",
+      "sender_wxid": "wxid_hp5dv37torqf22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:28+08:00",
+  "message_count": 10
+}

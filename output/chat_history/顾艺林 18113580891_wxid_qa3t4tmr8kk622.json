@@ -1,0 +1,64 @@
+{
+  "session_id": "wxid_qa3t4tmr8kk622",
+  "session_name": "顾艺林 18113580891",
+  "messages": [
+    {
+      "create_time": 1657429669,
+      "formatted_time": "2022-07-10 13:07:49",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "顾艺林 18113580891"
+    },
+    {
+      "create_time": 1657429748,
+      "formatted_time": "2022-07-10 13:09:08",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "顾艺林 18113580891"
+    },
+    {
+      "create_time": 1657429752,
+      "formatted_time": "2022-07-10 13:09:12",
+      "type": "文本消息",
+      "str_content": "[旺柴]",
+      "is_send": 0,
+      "sender_name": "顾艺林 18113580891"
+    },
+    {
+      "create_time": 1657429755,
+      "formatted_time": "2022-07-10 13:09:15",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1657429761,
+      "formatted_time": "2022-07-10 13:09:21",
+      "type": "文本消息",
+      "str_content": "好捏~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1657429782,
+      "formatted_time": "2022-07-10 13:09:42",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1657429799,
+      "formatted_time": "2022-07-10 13:09:59",
+      "type": "文本消息",
+      "str_content": "[跳跳]",
+      "is_send": 0,
+      "sender_name": "顾艺林 18113580891"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:43+08:00",
+  "message_count": 7
+}

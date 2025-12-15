@@ -1,0 +1,96 @@
+{
+  "session_id": "wxid_vjvczb731iug22",
+  "session_name": "向亚男",
+  "messages": [
+    {
+      "create_time": 1696852157,
+      "formatted_time": "2023-10-09 19:49:17",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "向亚男"
+    },
+    {
+      "create_time": 1697000006,
+      "formatted_time": "2023-10-11 12:53:26",
+      "type": "文本消息",
+      "str_content": "嗨喽",
+      "is_send": 0,
+      "sender_name": "向亚男"
+    },
+    {
+      "create_time": 1697000036,
+      "formatted_time": "2023-10-11 12:53:56",
+      "type": "文本消息",
+      "str_content": "那个共享表格可能需要你标个第一组",
+      "is_send": 0,
+      "sender_name": "向亚男"
+    },
+    {
+      "create_time": 1697000093,
+      "formatted_time": "2023-10-11 12:54:53",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697959070,
+      "formatted_time": "2023-10-22 15:17:50",
+      "type": "文件消息",
+      "str_content": "第1组-第5题.zip",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697959075,
+      "formatted_time": "2023-10-22 15:17:55",
+      "type": "文本消息",
+      "str_content": "[握手]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697960397,
+      "formatted_time": "2023-10-22 15:39:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "向亚男"
+    },
+    {
+      "create_time": 1703904956,
+      "formatted_time": "2023-12-30 10:55:56",
+      "type": "文本消息",
+      "str_content": "hi，想请教下，三次小作业的word还需要打印吗？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1703905082,
+      "formatted_time": "2023-12-30 10:58:02",
+      "type": "文本消息",
+      "str_content": "小作业的word应该不用打印",
+      "is_send": 0,
+      "sender_name": "向亚男"
+    },
+    {
+      "create_time": 1703905203,
+      "formatted_time": "2023-12-30 11:00:03",
+      "type": "文本消息",
+      "str_content": "只用交大作业的word打印就行了",
+      "is_send": 0,
+      "sender_name": "向亚男"
+    },
+    {
+      "create_time": 1703905207,
+      "formatted_time": "2023-12-30 11:00:07",
+      "type": "文本消息",
+      "str_content": "交一份",
+      "is_send": 0,
+      "sender_name": "向亚男"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:41+08:00",
+  "message_count": 11
+}

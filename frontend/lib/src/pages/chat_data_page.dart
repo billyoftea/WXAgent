@@ -23,9 +23,6 @@ class ChatDataPage extends StatefulWidget {
 class _ChatDataPageState extends State<ChatDataPage> {
   final TextEditingController _wechatPathCtrl = TextEditingController();
   final TextEditingController _exportDirCtrl = TextEditingController();
-  final TextEditingController _waitSecondsCtrl = TextEditingController(text: '90');
-  final TextEditingController _pollIntervalCtrl = TextEditingController(text: '3');
-  final TextEditingController _extraArgsCtrl = TextEditingController();
 
   bool _loading = false;
   bool _actionLoading = false;
@@ -44,11 +41,8 @@ class _ChatDataPageState extends State<ChatDataPage> {
   bool _singleFileExport = true;
   String? _customOutputDir;
   bool _fullRefreshRunning = false;
-  bool _exportOnlyRunning = false;
-  bool _autoLaunchWxKey = true;
   Map<String, dynamic>? _lastFullRefresh;
   DateTime? _lastFullRefreshAt;
-  bool? _lastExportOnlySuccess;
   DateTime? _lastExportTimestamp;
 
   final DateFormat _dateFormatter = DateFormat('yyyy-MM-dd');
@@ -64,9 +58,6 @@ class _ChatDataPageState extends State<ChatDataPage> {
   void dispose() {
     _wechatPathCtrl.dispose();
     _exportDirCtrl.dispose();
-    _waitSecondsCtrl.dispose();
-    _pollIntervalCtrl.dispose();
-    _extraArgsCtrl.dispose();
     super.dispose();
   }
 
@@ -359,18 +350,15 @@ class _ChatDataPageState extends State<ChatDataPage> {
 
   Future<void> _runFullRefresh() async {
     if (_fullRefreshRunning) return;
-    final waitSeconds = _parsePositiveInt(_waitSecondsCtrl, 90, min: 10, max: 600);
-    final pollInterval = _parsePositiveInt(_pollIntervalCtrl, 3, min: 1, max: 60);
     _safeSetState(() {
       _fullRefreshRunning = true;
       _error = null;
     });
     try {
       final result = await widget.controller.api.runFullRefresh(
-        autoLaunchKey: _autoLaunchWxKey,
-        waitSeconds: waitSeconds,
-        pollInterval: pollInterval,
-        exportArgs: _extraArgsOrNull(),
+        autoLaunchKey: true,
+        waitSeconds: 90,
+        pollInterval: 3,
       );
       _safeSetState(() {
         _lastFullRefresh = result;
@@ -391,63 +379,6 @@ class _ChatDataPageState extends State<ChatDataPage> {
         _fullRefreshRunning = false;
       });
     }
-  }
-
-  Future<void> _triggerExportOnly() async {
-    if (_exportOnlyRunning) return;
-    _safeSetState(() {
-      _exportOnlyRunning = true;
-      _error = null;
-    });
-    try {
-      final ok = await widget.controller.api.triggerExport(
-        extraArgs: _extraArgsOrNull(),
-        silent: true,
-      );
-      _safeSetState(() {
-        _lastExportOnlySuccess = ok;
-        _lastExportTimestamp = DateTime.now();
-      });
-      if (!mounted) return;
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          content: Text(ok ? '已触发导出，稍后刷新可见结果' : '导出命令执行失败'),
-        ),
-      );
-      if (ok) {
-        await _loadData();
-      }
-    } catch (err) {
-      _safeSetState(() {
-        _lastExportOnlySuccess = false;
-        _lastExportTimestamp = DateTime.now();
-        _error = err.toString();
-      });
-    } finally {
-      _safeSetState(() {
-        _exportOnlyRunning = false;
-      });
-    }
-  }
-
-  int _parsePositiveInt(
-    TextEditingController controller,
-    int fallback, {
-    int min = 1,
-    int max = 600,
-  }) {
-    final value = int.tryParse(controller.text.trim());
-    if (value == null) return fallback;
-    if (value < min) return min;
-    if (value > max) return max;
-    return value;
-  }
-
-  List<String>? _extraArgsOrNull() {
-    final text = _extraArgsCtrl.text.trim();
-    if (text.isEmpty) return null;
-    final args = text.split(RegExp(r'\s+')).where((arg) => arg.isNotEmpty).toList();
-    return args.isEmpty ? null : args;
   }
 
   String _manualRangeLabel() {
@@ -700,31 +631,6 @@ class _ChatDataPageState extends State<ChatDataPage> {
     );
   }
 
-  Widget _buildExportStatusChip() {
-    if (_lastExportTimestamp == null) {
-      return const SizedBox.shrink();
-    }
-    final success = _lastExportOnlySuccess == true;
-    final timeText = DateFormat('HH:mm:ss').format(_lastExportTimestamp!);
-    final color = success ? Colors.green : Colors.redAccent;
-    final label = success ? '导出命令已触发（$timeText）' : '导出失败（$timeText）';
-    return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
-      decoration: BoxDecoration(
-        color: color.withOpacity(0.08),
-        borderRadius: BorderRadius.circular(999),
-        border: Border.all(color: color.withOpacity(0.3)),
-      ),
-      child: Text(
-        label,
-        style: TextStyle(
-          color: color,
-          fontWeight: FontWeight.w600,
-        ),
-      ),
-    );
-  }
-
   @override
   Widget build(BuildContext context) {
     final export = _statusExport;
@@ -786,61 +692,18 @@ class _ChatDataPageState extends State<ChatDataPage> {
               ],
               const SizedBox(height: 12),
               Text(
-                '导出操作请在下方“WXAgent 内置导出器”中完成，执行完毕后点击“刷新状态”同步结果。',
+                '导出操作请在下方“聊天记录导出”中完成，执行完毕后点击“刷新状态”同步结果。',
                 style: TextStyle(color: Colors.grey.shade600),
               ),
             ],
           ),
         ),
         SectionCard(
-          title: 'WXAgent 内置导出器',
-          subtitle: '通过 WXAgent 后端直接调用 Go 解密与 JSON 导出流程，无需再嵌入 EchoTrace。',
+          title: '聊天记录导出',
+          subtitle: '执行解密并导出聊天记录为 JSON 文件，全过程本地执行',
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              SwitchListTile(
-                value: _autoLaunchWxKey,
-                onChanged: (value) => _safeSetState(() {
-                  _autoLaunchWxKey = value;
-                }),
-                title: const Text('缺少密钥时自动启动 wx_key'),
-                subtitle: const Text('开启后一键导出会尝试注入密钥，再执行解密'),
-              ),
-              const SizedBox(height: 8),
-              Row(
-                children: [
-                  Expanded(
-                    child: TextField(
-                      controller: _waitSecondsCtrl,
-                      decoration: const InputDecoration(
-                        labelText: '等待秒数',
-                        helperText: '等待 wx_key 写入密钥的时间（建议 60-120s）',
-                      ),
-                      keyboardType: TextInputType.number,
-                    ),
-                  ),
-                  const SizedBox(width: 12),
-                  Expanded(
-                    child: TextField(
-                      controller: _pollIntervalCtrl,
-                      decoration: const InputDecoration(
-                        labelText: '轮询间隔（秒）',
-                        helperText: '检测 SharedPreferences 的频率',
-                      ),
-                      keyboardType: TextInputType.number,
-                    ),
-                  ),
-                ],
-              ),
-              const SizedBox(height: 12),
-              TextField(
-                controller: _extraArgsCtrl,
-                decoration: const InputDecoration(
-                  labelText: '附加导出参数（可选）',
-                  hintText: '--fast --skip-images',
-                ),
-              ),
-              const SizedBox(height: 16),
               Wrap(
                 spacing: 12,
                 runSpacing: 8,
@@ -859,33 +722,18 @@ class _ChatDataPageState extends State<ChatDataPage> {
                         : const Icon(Icons.play_arrow_rounded),
                     label: const Text('一键解密 + 导出'),
                   ),
-                  OutlinedButton.icon(
-                    onPressed: _exportOnlyRunning ? null : _triggerExportOnly,
-                    icon: _exportOnlyRunning
-                        ? const SizedBox(
-                            width: 18,
-                            height: 18,
-                            child: CircularProgressIndicator(strokeWidth: 2),
-                          )
-                        : const Icon(Icons.file_upload_outlined),
-                    label: const Text('仅执行导出'),
-                  ),
                 ],
               ),
               if (_lastFullRefresh != null) ...[
                 const SizedBox(height: 16),
                 _buildRefreshSummary(),
               ],
-              if (_lastExportTimestamp != null) ...[
-                const SizedBox(height: 16),
-                _buildExportStatusChip(),
-              ],
             ],
           ),
         ),
         SectionCard(
           title: '导出会话列表',
-          subtitle: '展示当前导出目录中的会话、消息数量及最近同步时间，可快速跳转查看 JSON。',
+          subtitle: '展示当前导出目录中的会话、消息数量，可快速跳转查看 JSON。',
           child: _buildSessionTable(),
         ),
         SectionCard(
@@ -914,8 +762,6 @@ class _ChatDataPageState extends State<ChatDataPage> {
           DataColumn(label: Text('会话')),
           DataColumn(label: Text('类别')),
           DataColumn(label: Text('消息数')),
-          DataColumn(label: Text('上次导出')),
-          DataColumn(label: Text('状态文件')),
           DataColumn(label: Text('操作')),
         ],
         rows: _sessions.map((session) {
@@ -924,23 +770,10 @@ class _ChatDataPageState extends State<ChatDataPage> {
               DataCell(Text(session.displayName)),
               DataCell(Text(session.category ?? session.sessionType ?? '--')),
               DataCell(Text('${session.messages}')),
-              DataCell(Text(session.lastExportTime ?? '--')),
-              DataCell(Text(session.stateFileExists ? '已生成' : '无')),
               DataCell(
-                Wrap(
-                  spacing: 8,
-                  children: [
-                    TextButton(
-                      onPressed: () => _openFile(session.file),
-                      child: const Text('打开 JSON'),
-                    ),
-                    TextButton(
-                      onPressed: session.stateFileExists
-                          ? () => _openFile(session.stateFile)
-                          : null,
-                      child: const Text('查看状态'),
-                    ),
-                  ],
+                TextButton(
+                  onPressed: () => _openFile(session.file),
+                  child: const Text('打开 JSON'),
                 ),
               ),
             ],

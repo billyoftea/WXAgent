@@ -1,0 +1,48 @@
+{
+  "session_id": "wxid_sdhghy7wyad122",
+  "session_name": "盛兆特",
+  "messages": [
+    {
+      "create_time": 1708833798,
+      "formatted_time": "2024-02-25 12:03:18",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "盛兆特"
+    },
+    {
+      "create_time": 1708833825,
+      "formatted_time": "2024-02-25 12:03:45",
+      "type": "文本消息",
+      "str_content": "你好呀~我叫徐昂，请多多指教啦！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708833955,
+      "formatted_time": "2024-02-25 12:05:55",
+      "type": "文本消息",
+      "str_content": "我是盛兆特[转圈][转圈]多多指教～",
+      "is_send": 0,
+      "sender_name": "盛兆特"
+    },
+    {
+      "create_time": 1708833960,
+      "formatted_time": "2024-02-25 12:06:00",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "盛兆特"
+    },
+    {
+      "create_time": 1708833976,
+      "formatted_time": "2024-02-25 12:06:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:34+08:00",
+  "message_count": 5
+}

@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_ruaepelz0ab622",
+  "session_name": "谭颂斌",
+  "messages": [
+    {
+      "create_time": 1695399431,
+      "formatted_time": "2023-09-23 00:17:11",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "谭颂斌"
+    },
+    {
+      "create_time": 1695399454,
+      "formatted_time": "2023-09-23 00:17:34",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695399465,
+      "formatted_time": "2023-09-23 00:17:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "谭颂斌"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:36+08:00",
+  "message_count": 3
+}

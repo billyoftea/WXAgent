@@ -1,0 +1,856 @@
+{
+  "session_id": "wxid_kzia08pctbws22",
+  "session_name": "李政锟",
+  "messages": [
+    {
+      "create_time": 1764308594,
+      "formatted_time": "2025-11-28 13:43:14",
+      "type": "文本消息",
+      "str_content": "我是群聊“YEA 自媒体内培”的李政锟",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764308627,
+      "formatted_time": "2025-11-28 13:43:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764308647,
+      "formatted_time": "2025-11-28 13:44:07",
+      "type": "文本消息",
+      "str_content": "哈喽哈喽",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764308653,
+      "formatted_time": "2025-11-28 13:44:13",
+      "type": "文本消息",
+      "str_content": "25汇丰经双李政锟",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764308654,
+      "formatted_time": "2025-11-28 13:44:14",
+      "type": "文本消息",
+      "str_content": "哈喽哈喽！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764308654,
+      "formatted_time": "2025-11-28 13:44:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764308661,
+      "formatted_time": "2025-11-28 13:44:21",
+      "type": "文本消息",
+      "str_content": "我是数金的徐昂~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764308675,
+      "formatted_time": "2025-11-28 13:44:35",
+      "type": "文本消息",
+      "str_content": "我记得我们都在山东老乡群里哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764308685,
+      "formatted_time": "2025-11-28 13:44:45",
+      "type": "文本消息",
+      "str_content": "是的哇哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764308735,
+      "formatted_time": "2025-11-28 13:45:35",
+      "type": "文本消息",
+      "str_content": "数金都是代码大佬哈哈哈  多多交流多多交流[机智][机智]",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764309262,
+      "formatted_time": "2025-11-28 13:54:22",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈其实只能当调包侠",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764309283,
+      "formatted_time": "2025-11-28 13:54:43",
+      "type": "文本消息",
+      "str_content": "政锟哥你这pyq太精彩了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764309285,
+      "formatted_time": "2025-11-28 13:54:45",
+      "type": "文本消息",
+      "str_content": "太羡慕了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764309879,
+      "formatted_time": "2025-11-28 14:04:39",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈太谦虚了佬",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764309887,
+      "formatted_time": "2025-11-28 14:04:47",
+      "type": "文本消息",
+      "str_content": "以后有时间一块出来玩[哇][哇]",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764309897,
+      "formatted_time": "2025-11-28 14:04:57",
+      "type": "文本消息",
+      "str_content": "没问题没问题！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764309900,
+      "formatted_time": "2025-11-28 14:05:00",
+      "type": "文本消息",
+      "str_content": "我也是在做web3哈哈哈 多多交流呀！",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764309914,
+      "formatted_time": "2025-11-28 14:05:14",
+      "type": "文本消息",
+      "str_content": "好呀好呀，你是在做web3的什么方面呀~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764309928,
+      "formatted_time": "2025-11-28 14:05:28",
+      "type": "文本消息",
+      "str_content": "我现在还只是在做一些智能合约+稳定币合规的探索",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764309939,
+      "formatted_time": "2025-11-28 14:05:39",
+      "type": "文本消息",
+      "str_content": "在做类hyperliquid产品",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764309980,
+      "formatted_time": "2025-11-28 14:06:20",
+      "type": "引用消息",
+      "str_content": "噢~我搜了下，感觉这才是真正硬核的东西哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764309993,
+      "formatted_time": "2025-11-28 14:06:33",
+      "type": "文本消息",
+      "str_content": "没有没有 我也是刚刚入门",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764310019,
+      "formatted_time": "2025-11-28 14:06:59",
+      "type": "文本消息",
+      "str_content": "稳定币rwa这块我也很感兴趣",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764310024,
+      "formatted_time": "2025-11-28 14:07:04",
+      "type": "文本消息",
+      "str_content": "多多指教呀哈哈哈",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764310038,
+      "formatted_time": "2025-11-28 14:07:18",
+      "type": "引用消息",
+      "str_content": "现在是在实习吗[旺柴]",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764310086,
+      "formatted_time": "2025-11-28 14:08:06",
+      "type": "文本消息",
+      "str_content": "哈哈哈目前还没有，只是在自己试着学学哈哈哈，对于直接找web3的实习我还是比较犹豫的hh",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764310101,
+      "formatted_time": "2025-11-28 14:08:21",
+      "type": "文本消息",
+      "str_content": "可能把这个当做一个探索的方向，机会来了的时候能抓住哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764310114,
+      "formatted_time": "2025-11-28 14:08:34",
+      "type": "文本消息",
+      "str_content": "现在主要还是在做一些ai4finance的工作",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764310131,
+      "formatted_time": "2025-11-28 14:08:51",
+      "type": "文本消息",
+      "str_content": "明白明白",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764310166,
+      "formatted_time": "2025-11-28 14:09:26",
+      "type": "引用消息",
+      "str_content": "是偏大模型那种的吗哈哈哈",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764310196,
+      "formatted_time": "2025-11-28 14:09:56",
+      "type": "文本消息",
+      "str_content": "对的，我之前的实习做过gpt来处理非结构化文本，因子化后做量化策略",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764310220,
+      "formatted_time": "2025-11-28 14:10:20",
+      "type": "文本消息",
+      "str_content": "还有一些自动化抓取金融信息整理的agent啥的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764310241,
+      "formatted_time": "2025-11-28 14:10:41",
+      "type": "文本消息",
+      "str_content": "我觉得ai 主要还是用来整理，真正去做投资决策可能还有很长的路要走",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764310248,
+      "formatted_time": "2025-11-28 14:10:48",
+      "type": "文本消息",
+      "str_content": "哦哦量化佬 强！",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764310286,
+      "formatted_time": "2025-11-28 14:11:26",
+      "type": "文本消息",
+      "str_content": "hhh我只能说是弱量化背景哈哈哈，而且干过两段量化的实习已经对这个有点祛魅了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764310291,
+      "formatted_time": "2025-11-28 14:11:31",
+      "type": "文本消息",
+      "str_content": "其实前一段时间有聊过一个做web3预测收益的 也是引入量化去做",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764310298,
+      "formatted_time": "2025-11-28 14:11:38",
+      "type": "文本消息",
+      "str_content": "感觉很有意思哈哈哈",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764310311,
+      "formatted_time": "2025-11-28 14:11:51",
+      "type": "文本消息",
+      "str_content": "对的，我第一感觉是web3天然适合做量化",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764310320,
+      "formatted_time": "2025-11-28 14:12:00",
+      "type": "文本消息",
+      "str_content": "明白明白！",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764310323,
+      "formatted_time": "2025-11-28 14:12:03",
+      "type": "文本消息",
+      "str_content": "因为市场数据可得性很好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764310332,
+      "formatted_time": "2025-11-28 14:12:12",
+      "type": "文本消息",
+      "str_content": "老哥本科就是学计算机这块的吗哈哈哈",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764310337,
+      "formatted_time": "2025-11-28 14:12:17",
+      "type": "文本消息",
+      "str_content": "但慢慢了解，感觉web3的水很深哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764310340,
+      "formatted_time": "2025-11-28 14:12:20",
+      "type": "文本消息",
+      "str_content": "我本科是学统计的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764310365,
+      "formatted_time": "2025-11-28 14:12:45",
+      "type": "文本消息",
+      "str_content": "哦哦好啊好啊",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764690681,
+      "formatted_time": "2025-12-02 23:51:21",
+      "type": "文本消息",
+      "str_content": "uu这么晚打扰啦 你有没有了解过Jesse.trade、quantconnect等等这种ai量化平台呀",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764690688,
+      "formatted_time": "2025-12-02 23:51:28",
+      "type": "文本消息",
+      "str_content": "[可怜][可怜]",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764690849,
+      "formatted_time": "2025-12-02 23:54:09",
+      "type": "文本消息",
+      "str_content": "政锟哥，很惭愧我对这种回测平台了解不多，我的理解，这种主要还是面对爱好者的入门toy，或者个人开发者的探索工具，机构应该不怎么用。我的理解可能这就是国内的聚宽 bigquant平台的海外web3版本",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764690881,
+      "formatted_time": "2025-12-02 23:54:41",
+      "type": "文本消息",
+      "str_content": "我之前做quant主要还是自己写框架和策略，实习公司也会有自己的框架和规范",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764690908,
+      "formatted_time": "2025-12-02 23:55:08",
+      "type": "文本消息",
+      "str_content": "是的是的 哎呀 因为最近在调研这方面的平台 但我对量化又是一窍不通[捂脸]",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764690936,
+      "formatted_time": "2025-12-02 23:55:36",
+      "type": "文本消息",
+      "str_content": "你们是在做什么样的调研呀~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764690954,
+      "formatted_time": "2025-12-02 23:55:54",
+      "type": "引用消息",
+      "str_content": "是啊是啊 其实是想请教一下 你们如果分析这种平台的策略 大概会从几个方向来思考呀",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764690960,
+      "formatted_time": "2025-12-02 23:56:00",
+      "type": "文本消息",
+      "str_content": "我个人觉得平台或者代码不是最重要的，对市场的理解的优先度回更高一些",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764690994,
+      "formatted_time": "2025-12-02 23:56:34",
+      "type": "引用消息",
+      "str_content": "你说的平台的策略，是指从量化研究员的角度，来评估这套框架的好或者不好吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764691093,
+      "formatted_time": "2025-12-02 23:58:13",
+      "type": "文本消息",
+      "str_content": "应该也不是从研究员的视角 我们大概是想在hyperliquid上加一些ai预测的内容 把他打造为类似MT5的预测算法交易平台",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764691160,
+      "formatted_time": "2025-12-02 23:59:20",
+      "type": "文本消息",
+      "str_content": "所以感觉这个策略应该是偏网站的盈利模式、目标定位、客户群体、竞争壁垒这种",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764691650,
+      "formatted_time": "2025-12-03 00:07:30",
+      "type": "文本消息",
+      "str_content": "我觉得第一是看平台的基础定位是什么：\n是主要做回测+实盘的接口脚手架，还是直接去做生态，比如直接去连接开发者、资金、经济商；是开源（靠增值服务盈利）还是闭源（直接做服务，类似qmt这种）\n基于平台的这两点来思考盈利模式和目标定位",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764691719,
+      "formatted_time": "2025-12-03 00:08:39",
+      "type": "引用消息",
+      "str_content": "像你提到的这两个，我觉得就是有点像生态搭建，我看quantconnect就有策略交易",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764691977,
+      "formatted_time": "2025-12-03 00:12:57",
+      "type": "引用消息",
+      "str_content": "学习了！确实是涉及生态搭建的",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764692003,
+      "formatted_time": "2025-12-03 00:13:23",
+      "type": "文本消息",
+      "str_content": "所以类似这种平台会有什么差异呢 不知道昂哥有没有了解过",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764692058,
+      "formatted_time": "2025-12-03 00:14:18",
+      "type": "文本消息",
+      "str_content": "如果有差异的话大概要从什么角度分析呢",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764692069,
+      "formatted_time": "2025-12-03 00:14:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764692564,
+      "formatted_time": "2025-12-03 00:22:44",
+      "type": "引用消息",
+      "str_content": "我了解的确实不多哈哈哈，我想了一下，有这几点吧：\n1.数据源：平台有不同的标的偏好，有的平台会直接对于高质量自有数据收费，或者提供收费的合作数据接口\n2.算法策略：可能会有一些简单的算法或者量化策略，可以做增值订阅收入\n3.回测容量：可能每天只能回测几次，或者会限制一次运行的持续时间长短",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764692587,
+      "formatted_time": "2025-12-03 00:23:07",
+      "type": "文本消息",
+      "str_content": "我觉得可能还是要自己去完整尝试一下，体验下产品，才能有更具体的分析哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764692639,
+      "formatted_time": "2025-12-03 00:23:59",
+      "type": "文本消息",
+      "str_content": "太感谢太感谢了 问了好几个量化的朋友还是昂哥回复到最专业[抓狂][抓狂][抓狂]",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764692700,
+      "formatted_time": "2025-12-03 00:25:00",
+      "type": "引用消息",
+      "str_content": "赞同！ 但是我看mt至少给我发了六七个网站 就想能不能有通用的方法解读一下",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764693028,
+      "formatted_time": "2025-12-03 00:30:28",
+      "type": "引用消息",
+      "str_content": "确实，我觉得对于量化平台来说，可能着重还是分析其产品本身的侧重点，我感觉目标定位、客户群体可能不会差的特别大",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764693061,
+      "formatted_time": "2025-12-03 00:31:01",
+      "type": "文本消息",
+      "str_content": "作为一个只很浅很浅地体验过这些平台的人，我其实觉得差异不是特别特别大哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764693069,
+      "formatted_time": "2025-12-03 00:31:09",
+      "type": "文本消息",
+      "str_content": "也很期待你的研究成果嘿嘿",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764693076,
+      "formatted_time": "2025-12-03 00:31:16",
+      "type": "文本消息",
+      "str_content": "是的是的 我明天再仔细研究研究",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764693084,
+      "formatted_time": "2025-12-03 00:31:24",
+      "type": "文本消息",
+      "str_content": "感谢昂哥[哇][哇][哇]",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1764693124,
+      "formatted_time": "2025-12-03 00:32:04",
+      "type": "文本消息",
+      "str_content": "没事没事！互相学习嘿嘿",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764693152,
+      "formatted_time": "2025-12-03 00:32:32",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765267534,
+      "formatted_time": "2025-12-09 16:05:34",
+      "type": "文本消息",
+      "str_content": "政锟哥，从英华哥那里听说你拿下了YEA的副会！恭喜恭喜！我昨天也有幸当选了深港会长，以后多交流一起合作呀！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765267539,
+      "formatted_time": "2025-12-09 16:05:39",
+      "type": "文本消息",
+      "str_content": "把24级的友谊延续下去！！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765267730,
+      "formatted_time": "2025-12-09 16:08:50",
+      "type": "文本消息",
+      "str_content": "感谢昂哥哈哈哈！也恭喜昂哥顺利当选三大社港深的会长[哇]实力所致！",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765267761,
+      "formatted_time": "2025-12-09 16:09:21",
+      "type": "文本消息",
+      "str_content": "咱们多多交流！山东人好兄弟一起努力！！",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765267849,
+      "formatted_time": "2025-12-09 16:10:49",
+      "type": "文本消息",
+      "str_content": "没问题！！[社会社会]期待我们yea和深港都可以越来越好！！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765267955,
+      "formatted_time": "2025-12-09 16:12:35",
+      "type": "文本消息",
+      "str_content": "是的！",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765267962,
+      "formatted_time": "2025-12-09 16:12:42",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765713754,
+      "formatted_time": "2025-12-14 20:02:34",
+      "type": "文本消息",
+      "str_content": "锟会，yea发小红书的时候，有没有常常被夹呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765713772,
+      "formatted_time": "2025-12-14 20:02:52",
+      "type": "文本消息",
+      "str_content": "虽然显示审核通过，但只有自己能看得到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765713871,
+      "formatted_time": "2025-12-14 20:04:31",
+      "type": "文本消息",
+      "str_content": "昂哥我去问一下佳翼 她负责小红书这边[机智]",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765713887,
+      "formatted_time": "2025-12-14 20:04:47",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞！多谢[坏笑][坏笑]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765713897,
+      "formatted_time": "2025-12-14 20:04:57",
+      "type": "文本消息",
+      "str_content": "客气啦",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765714038,
+      "formatted_time": "2025-12-14 20:07:18",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765714045,
+      "formatted_time": "2025-12-14 20:07:25",
+      "type": "文本消息",
+      "str_content": "昂哥 我们好像没有这个问题",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765714051,
+      "formatted_time": "2025-12-14 20:07:31",
+      "type": "文本消息",
+      "str_content": "会不会是有违禁词什么的",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765714101,
+      "formatted_time": "2025-12-14 20:08:21",
+      "type": "文本消息",
+      "str_content": "那好奇怪hhh，我xhs号发的东西老被夹，即使是我觉得很正常的分享都不太行。。",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765714115,
+      "formatted_time": "2025-12-14 20:08:35",
+      "type": "文本消息",
+      "str_content": "可能是因为之前在小红书上找家教，号黑了[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765714126,
+      "formatted_time": "2025-12-14 20:08:46",
+      "type": "文本消息",
+      "str_content": "现在我基本在小红书上发不出深度内容",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765715469,
+      "formatted_time": "2025-12-14 20:31:09",
+      "type": "文本消息",
+      "str_content": "我感觉是不是可以开个新号哈哈哈",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765715486,
+      "formatted_time": "2025-12-14 20:31:26",
+      "type": "文本消息",
+      "str_content": "确实[捂脸]我也在考虑",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765715496,
+      "formatted_time": "2025-12-14 20:31:36",
+      "type": "文本消息",
+      "str_content": "你准备发什么内容呀 我最近在学hypeliquid的一些数据面板的基础知识",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765715499,
+      "formatted_time": "2025-12-14 20:31:39",
+      "type": "文本消息",
+      "str_content": "相比较之下还是公众号好，审核确实宽松能写出来东西",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765715505,
+      "formatted_time": "2025-12-14 20:31:45",
+      "type": "文本消息",
+      "str_content": "最近在看prediction market",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765715505,
+      "formatted_time": "2025-12-14 20:31:45",
+      "type": "文本消息",
+      "str_content": "也有点想开个新号分享一些东西哈哈哈",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765715571,
+      "formatted_time": "2025-12-14 20:32:51",
+      "type": "文本消息",
+      "str_content": "嗯嗯，从我的角度来说，我还是比较希望我现实生活中认识的朋友可以刷到我的小红书号的，或者说自己内容做的杂一些，比如分享知识+生活感悟",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765715583,
+      "formatted_time": "2025-12-14 20:33:03",
+      "type": "文本消息",
+      "str_content": "但这个分享知识莫名其妙的给我ban了很多内容",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765715593,
+      "formatted_time": "2025-12-14 20:33:13",
+      "type": "文本消息",
+      "str_content": "开新号的成本对我来说有点高，就很难受",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765715612,
+      "formatted_time": "2025-12-14 20:33:32",
+      "type": "引用消息",
+      "str_content": "支持啊~我不太懂hyperliquid哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765715664,
+      "formatted_time": "2025-12-14 20:34:24",
+      "type": "引用消息",
+      "str_content": "哈哈哈我觉得做出来可以往朋友圈发一下",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765715684,
+      "formatted_time": "2025-12-14 20:34:44",
+      "type": "文本消息",
+      "str_content": "可以一起搞一个号 我这两天刚开哈哈哈",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765715863,
+      "formatted_time": "2025-12-14 20:37:43",
+      "type": "文本消息",
+      "str_content": "可以啊哈哈，我也是刚写好发到gzh上面，也不求有多少流量，就记录一下自己的学习和思考吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765715868,
+      "formatted_time": "2025-12-14 20:37:48",
+      "type": "图文消息",
+      "str_content": "预测市场：投资于概率",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765715963,
+      "formatted_time": "2025-12-14 20:39:23",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈我们下周二考期中 等之后我们一起搞一下！",
+      "is_send": 0,
+      "sender_name": "李政锟"
+    },
+    {
+      "create_time": 1765716053,
+      "formatted_time": "2025-12-14 20:40:53",
+      "type": "文本消息",
+      "str_content": "好啊！",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:17+08:00",
+  "message_count": 106
+}

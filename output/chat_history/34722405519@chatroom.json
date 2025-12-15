@@ -1,0 +1,178 @@
+{
+  "session_id": "34722405519@chatroom",
+  "session_name": "34722405519@chatroom",
+  "messages": [
+    {
+      "create_time": 1697076626,
+      "formatted_time": "2023-10-12 10:10:26",
+      "type": "文件消息",
+      "str_content": "mnsc.2020.3682 (1).pdf",
+      "is_send": 0,
+      "sender_name": "丁秀好",
+      "sender_wxid": "wxid_y56vr1nt3hka21"
+    },
+    {
+      "create_time": 1697076626,
+      "formatted_time": "2023-10-12 10:10:26",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "34722405519@chatroom",
+      "sender_wxid": "34722405519@chatroom"
+    },
+    {
+      "create_time": 1697076654,
+      "formatted_time": "2023-10-12 10:10:54",
+      "type": "文本消息",
+      "str_content": "堪然和晟豪，帮忙看看这个文章的LDA方法，技术难度怎么样啊？",
+      "is_send": 0,
+      "sender_name": "丁秀好",
+      "sender_wxid": "wxid_y56vr1nt3hka21"
+    },
+    {
+      "create_time": 1697076675,
+      "formatted_time": "2023-10-12 10:11:15",
+      "type": "文本消息",
+      "str_content": "好 我回去读一读文章！",
+      "is_send": 0,
+      "sender_name": "杨堪然",
+      "sender_wxid": "wxid_1qo5y1cwfk4711"
+    },
+    {
+      "create_time": 1697076679,
+      "formatted_time": "2023-10-12 10:11:19",
+      "type": "文件消息",
+      "str_content": "科创板注册制下的审核问询与...于LDA主题模型的文本分析_俞红海.pdf",
+      "is_send": 0,
+      "sender_name": "丁秀好",
+      "sender_wxid": "wxid_y56vr1nt3hka21"
+    },
+    {
+      "create_time": 1697076686,
+      "formatted_time": "2023-10-12 10:11:26",
+      "type": "文本消息",
+      "str_content": "还有一个中文的",
+      "is_send": 0,
+      "sender_name": "丁秀好",
+      "sender_wxid": "wxid_y56vr1nt3hka21"
+    },
+    {
+      "create_time": 1697076715,
+      "formatted_time": "2023-10-12 10:11:55",
+      "type": "文本消息",
+      "str_content": "辛苦辛苦啊",
+      "is_send": 0,
+      "sender_name": "丁秀好",
+      "sender_wxid": "wxid_y56vr1nt3hka21"
+    },
+    {
+      "create_time": 1697076718,
+      "formatted_time": "2023-10-12 10:11:58",
+      "type": "文本消息",
+      "str_content": "昨天我还正好在看LDA的专题[呲牙]",
+      "is_send": 0,
+      "sender_name": "杨堪然",
+      "sender_wxid": "wxid_1qo5y1cwfk4711"
+    },
+    {
+      "create_time": 1697076722,
+      "formatted_time": "2023-10-12 10:12:02",
+      "type": "文本消息",
+      "str_content": "学习学习",
+      "is_send": 0,
+      "sender_name": "杨堪然",
+      "sender_wxid": "wxid_1qo5y1cwfk4711"
+    },
+    {
+      "create_time": 1697076729,
+      "formatted_time": "2023-10-12 10:12:09",
+      "type": "文本消息",
+      "str_content": "你们先打比赛，有空帮忙看看哈",
+      "is_send": 0,
+      "sender_name": "丁秀好",
+      "sender_wxid": "wxid_y56vr1nt3hka21"
+    },
+    {
+      "create_time": 1697076875,
+      "formatted_time": "2023-10-12 10:14:35",
+      "type": "文本消息",
+      "str_content": "好嘞",
+      "is_send": 0,
+      "sender_name": "杨堪然",
+      "sender_wxid": "wxid_1qo5y1cwfk4711"
+    },
+    {
+      "create_time": 1697077012,
+      "formatted_time": "2023-10-12 10:16:52",
+      "type": "引用消息",
+      "str_content": "好的老师，我回去看一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
+    },
+    {
+      "create_time": 1697077044,
+      "formatted_time": "2023-10-12 10:17:24",
+      "type": "文件消息",
+      "str_content": "省份政府工作报告2003-2020.zip",
+      "is_send": 0,
+      "sender_name": "丁秀好",
+      "sender_wxid": "wxid_y56vr1nt3hka21"
+    },
+    {
+      "create_time": 1697077064,
+      "formatted_time": "2023-10-12 10:17:44",
+      "type": "文本消息",
+      "str_content": "这里有一份省政府工作报告，可以作为实验数据",
+      "is_send": 0,
+      "sender_name": "丁秀好",
+      "sender_wxid": "wxid_y56vr1nt3hka21"
+    },
+    {
+      "create_time": 1697077070,
+      "formatted_time": "2023-10-12 10:17:50",
+      "type": "文本消息",
+      "str_content": "辛苦两位啊",
+      "is_send": 0,
+      "sender_name": "丁秀好",
+      "sender_wxid": "wxid_y56vr1nt3hka21"
+    },
+    {
+      "create_time": 1707503886,
+      "formatted_time": "2024-02-10 02:38:06",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "is_send": 0,
+      "sender_name": "丁秀好",
+      "sender_wxid": "wxid_y56vr1nt3hka21"
+    },
+    {
+      "create_time": 1707523430,
+      "formatted_time": "2024-02-10 08:03:50",
+      "type": "文本消息",
+      "str_content": "谢谢老师！龙年大吉",
+      "is_send": 0,
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
+    },
+    {
+      "create_time": 1707530101,
+      "formatted_time": "2024-02-10 09:55:01",
+      "type": "文本消息",
+      "str_content": "大家新年快乐！龙行龘龘，前程朤朤！[庆祝][庆祝][庆祝][烟花][烟花][烟花]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1707530462,
+      "formatted_time": "2024-02-10 10:01:02",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "于德水",
+      "sender_wxid": "wxid_pakrek5xcktu22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:42+08:00",
+  "message_count": 19
+}

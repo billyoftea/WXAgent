@@ -1,0 +1,1728 @@
+{
+  "session_id": "wxid_3kc2xwo9aatn22",
+  "session_name": "财新-陈莹",
+  "messages": [
+    {
+      "create_time": 1755867101,
+      "formatted_time": "2025-08-22 20:51:41",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1755867101,
+      "formatted_time": "2025-08-22 20:51:41",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1755867113,
+      "formatted_time": "2025-08-22 20:51:53",
+      "type": "文本消息",
+      "str_content": "hello同学～！",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1755867143,
+      "formatted_time": "2025-08-22 20:52:23",
+      "type": "文本消息",
+      "str_content": "我是25财新的陈莹，军训记者团文字组的组长",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1755867188,
+      "formatted_time": "2025-08-22 20:53:08",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755867188,
+      "formatted_time": "2025-08-22 20:53:08",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755867188,
+      "formatted_time": "2025-08-22 20:53:08",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755867188,
+      "formatted_time": "2025-08-22 20:53:08",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755867196,
+      "formatted_time": "2025-08-22 20:53:16",
+      "type": "文本消息",
+      "str_content": "hihi！我是数金徐昂",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755867261,
+      "formatted_time": "2025-08-22 20:54:21",
+      "type": "文本消息",
+      "str_content": "照片收到～后面我们还有好几篇推送，可能会分散发布hh",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1755867286,
+      "formatted_time": "2025-08-22 20:54:46",
+      "type": "文本消息",
+      "str_content": "好哩好哩   这是四面八方的照片[旺柴]版权不属于本人",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755867317,
+      "formatted_time": "2025-08-22 20:55:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1757084850,
+      "formatted_time": "2025-09-05 23:07:30",
+      "type": "文本消息",
+      "str_content": "我的天",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1757084854,
+      "formatted_time": "2025-09-05 23:07:34",
+      "type": "文本消息",
+      "str_content": "这单面都人数这么多吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1757084856,
+      "formatted_time": "2025-09-05 23:07:36",
+      "type": "文本消息",
+      "str_content": "cea的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1757084863,
+      "formatted_time": "2025-09-05 23:07:43",
+      "type": "文本消息",
+      "str_content": "离谱",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1757084886,
+      "formatted_time": "2025-09-05 23:08:06",
+      "type": "文本消息",
+      "str_content": "76个单面",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1757084892,
+      "formatted_time": "2025-09-05 23:08:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1757084911,
+      "formatted_time": "2025-09-05 23:08:31",
+      "type": "文本消息",
+      "str_content": "貌似就招30个",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1757084950,
+      "formatted_time": "2025-09-05 23:09:10",
+      "type": "文本消息",
+      "str_content": "相信自己可以的",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1757084951,
+      "formatted_time": "2025-09-05 23:09:11",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1757085101,
+      "formatted_time": "2025-09-05 23:11:41",
+      "type": "文本消息",
+      "str_content": "莹姐太强了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1757085109,
+      "formatted_time": "2025-09-05 23:11:49",
+      "type": "文本消息",
+      "str_content": "没有没有",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1757085114,
+      "formatted_time": "2025-09-05 23:11:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1757085128,
+      "formatted_time": "2025-09-05 23:12:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764751408,
+      "formatted_time": "2025-12-03 16:43:28",
+      "type": "文本消息",
+      "str_content": "莹姐，你也要留任深港嘛！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764751427,
+      "formatted_time": "2025-12-03 16:43:47",
+      "type": "文本消息",
+      "str_content": "最近什么时候方便的话可以约个饭交流下[呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764751442,
+      "formatted_time": "2025-12-03 16:44:02",
+      "type": "文本消息",
+      "str_content": "也可以喊着淳哥一起~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764751891,
+      "formatted_time": "2025-12-03 16:51:31",
+      "type": "文本消息",
+      "str_content": "昂昨天小八学长和我聊了很久，打动我了[可怜]所以我就也参与了",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764751902,
+      "formatted_time": "2025-12-03 16:51:42",
+      "type": "引用消息",
+      "str_content": "hh好呀",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764751957,
+      "formatted_time": "2025-12-03 16:52:37",
+      "type": "文本消息",
+      "str_content": "对呀对呀，因为我之前也跟豚哥提起来过，我想要做一个社团的自媒体。他今天跟我说，我们的想法有很多相像的地方",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764751966,
+      "formatted_time": "2025-12-03 16:52:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764752272,
+      "formatted_time": "2025-12-03 16:57:52",
+      "type": "文本消息",
+      "str_content": "我之前是没有想过这个问题的，因为之前没想留任。昨天晚上学长和我说的对于目前一些公众号的想法，其实就是你提的雏形",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764752283,
+      "formatted_time": "2025-12-03 16:58:03",
+      "type": "文本消息",
+      "str_content": "让我觉得很感慨，很对口hh",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764752415,
+      "formatted_time": "2025-12-03 17:00:15",
+      "type": "文本消息",
+      "str_content": "话说我可以不参与会长竞选吗()我目标明确，只想做宣传",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764752417,
+      "formatted_time": "2025-12-03 17:00:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753037,
+      "formatted_time": "2025-12-03 17:10:37",
+      "type": "文本消息",
+      "str_content": "莹姐你这么强，想留任深港是深港的荣幸",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753040,
+      "formatted_time": "2025-12-03 17:10:40",
+      "type": "文本消息",
+      "str_content": "俺说实话",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753099,
+      "formatted_time": "2025-12-03 17:11:39",
+      "type": "文本消息",
+      "str_content": "没有没有，禁止捧杀",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753103,
+      "formatted_time": "2025-12-03 17:11:43",
+      "type": "文本消息",
+      "str_content": "你也超强",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753104,
+      "formatted_time": "2025-12-03 17:11:44",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753111,
+      "formatted_time": "2025-12-03 17:11:51",
+      "type": "文本消息",
+      "str_content": "深港的竞选是这个样子的，报名会长默认同时报名会长和副会",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753133,
+      "formatted_time": "2025-12-03 17:12:13",
+      "type": "文本消息",
+      "str_content": "可以只报名副会吗",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753135,
+      "formatted_time": "2025-12-03 17:12:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753158,
+      "formatted_time": "2025-12-03 17:12:38",
+      "type": "文本消息",
+      "str_content": "回头我再跟柯会说一下()",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753176,
+      "formatted_time": "2025-12-03 17:12:56",
+      "type": "文本消息",
+      "str_content": "会长投票结束后，选副会长，组成其他三个副会长团，副会长团决定分工",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753254,
+      "formatted_time": "2025-12-03 17:14:14",
+      "type": "引用消息",
+      "str_content": "（学长是这样给俺说的，这样一说我也不知道怎么分了hh）",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753262,
+      "formatted_time": "2025-12-03 17:14:22",
+      "type": "文本消息",
+      "str_content": "不管了！我将只说我竞选品牌副会",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753266,
+      "formatted_time": "2025-12-03 17:14:26",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753488,
+      "formatted_time": "2025-12-03 17:18:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753526,
+      "formatted_time": "2025-12-03 17:18:46",
+      "type": "文本消息",
+      "str_content": "我也还没太想好竞选的一些纲领hh，前段时间在忙别的事，感觉其他人还都准备的蛮充分的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753583,
+      "formatted_time": "2025-12-03 17:19:43",
+      "type": "文本消息",
+      "str_content": "我现在在忙新闻社的n篇稿子[流泪]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753591,
+      "formatted_time": "2025-12-03 17:19:51",
+      "type": "文本消息",
+      "str_content": "最早也要到周六才开始准备",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753596,
+      "formatted_time": "2025-12-03 17:19:56",
+      "type": "文本消息",
+      "str_content": "没关系。绰绰有余",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753602,
+      "formatted_time": "2025-12-03 17:20:02",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753608,
+      "formatted_time": "2025-12-03 17:20:08",
+      "type": "文本消息",
+      "str_content": "这才是真正的j人哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753612,
+      "formatted_time": "2025-12-03 17:20:12",
+      "type": "文本消息",
+      "str_content": "太强了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753623,
+      "formatted_time": "2025-12-03 17:20:23",
+      "type": "文本消息",
+      "str_content": "98%的p值",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753625,
+      "formatted_time": "2025-12-03 17:20:25",
+      "type": "文本消息",
+      "str_content": "做宣传的料",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753633,
+      "formatted_time": "2025-12-03 17:20:33",
+      "type": "引用消息",
+      "str_content": "2%的j就在这上面了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753687,
+      "formatted_time": "2025-12-03 17:21:27",
+      "type": "引用消息",
+      "str_content": "没事啦，我感觉会长团特别看好你",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753697,
+      "formatted_time": "2025-12-03 17:21:37",
+      "type": "文本消息",
+      "str_content": "他们的票值很高",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753701,
+      "formatted_time": "2025-12-03 17:21:41",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753708,
+      "formatted_time": "2025-12-03 17:21:48",
+      "type": "文本消息",
+      "str_content": "所以我会很怕辜负信任）",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753713,
+      "formatted_time": "2025-12-03 17:21:53",
+      "type": "文本消息",
+      "str_content": "还是得努力准备",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753716,
+      "formatted_time": "2025-12-03 17:21:56",
+      "type": "文本消息",
+      "str_content": "你很强的，完全可以赢得民心",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753733,
+      "formatted_time": "2025-12-03 17:22:13",
+      "type": "引用消息",
+      "str_content": "不会的",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753735,
+      "formatted_time": "2025-12-03 17:22:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753740,
+      "formatted_time": "2025-12-03 17:22:20",
+      "type": "文本消息",
+      "str_content": "借你吉言嘿嘿",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753753,
+      "formatted_time": "2025-12-03 17:22:33",
+      "type": "文本消息",
+      "str_content": "徐会 冲",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753754,
+      "formatted_time": "2025-12-03 17:22:34",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753755,
+      "formatted_time": "2025-12-03 17:22:35",
+      "type": "文本消息",
+      "str_content": "我totally仰望你",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753755,
+      "formatted_time": "2025-12-03 17:22:35",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753761,
+      "formatted_time": "2025-12-03 17:22:41",
+      "type": "文本消息",
+      "str_content": "在群面的时候就觉得你太强了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753767,
+      "formatted_time": "2025-12-03 17:22:47",
+      "type": "文本消息",
+      "str_content": "我absolutely 仰望你",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753774,
+      "formatted_time": "2025-12-03 17:22:54",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753783,
+      "formatted_time": "2025-12-03 17:23:03",
+      "type": "文本消息",
+      "str_content": "禁止互吹！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753785,
+      "formatted_time": "2025-12-03 17:23:05",
+      "type": "文本消息",
+      "str_content": "一起努力！！！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764753965,
+      "formatted_time": "2025-12-03 17:26:05",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764753967,
+      "formatted_time": "2025-12-03 17:26:07",
+      "type": "文本消息",
+      "str_content": "刚把得",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764840118,
+      "formatted_time": "2025-12-04 17:21:58",
+      "type": "文本消息",
+      "str_content": "莹姐你今晚有时间嘛~我们在镜湖边或者汇丰大楼里chat一下可以嘛~因为我确实很想做社团的自媒体ip，但在这些途径上想的还不是特别清楚，想要向莹姐学习下",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764840119,
+      "formatted_time": "2025-12-04 17:21:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764840190,
+      "formatted_time": "2025-12-04 17:23:10",
+      "type": "文本消息",
+      "str_content": "或者你什么时候有空都可以的！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764840262,
+      "formatted_time": "2025-12-04 17:24:22",
+      "type": "文本消息",
+      "str_content": "哦不好意思我今晚可能不太行[可怜]我出去给好朋友过生日了",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764840284,
+      "formatted_time": "2025-12-04 17:24:44",
+      "type": "文本消息",
+      "str_content": "没事没事~今天太临时了哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764840289,
+      "formatted_time": "2025-12-04 17:24:49",
+      "type": "文本消息",
+      "str_content": "看你什么时候有空！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764840292,
+      "formatted_time": "2025-12-04 17:24:52",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764840755,
+      "formatted_time": "2025-12-04 17:32:35",
+      "type": "文本消息",
+      "str_content": "明天下午可以吗昂",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764840762,
+      "formatted_time": "2025-12-04 17:32:42",
+      "type": "文本消息",
+      "str_content": "好啊好啊！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764840774,
+      "formatted_time": "2025-12-04 17:32:54",
+      "type": "文本消息",
+      "str_content": "我明天下午迟一点、到晚上都有空滴",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764840778,
+      "formatted_time": "2025-12-04 17:32:58",
+      "type": "文本消息",
+      "str_content": "我三点半有一节课，课前课后都ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764840784,
+      "formatted_time": "2025-12-04 17:33:04",
+      "type": "文本消息",
+      "str_content": "好啊！那要不就五点半左右？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764840792,
+      "formatted_time": "2025-12-04 17:33:12",
+      "type": "文本消息",
+      "str_content": "okok！",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764840801,
+      "formatted_time": "2025-12-04 17:33:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764840899,
+      "formatted_time": "2025-12-04 17:34:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764926021,
+      "formatted_time": "2025-12-05 17:13:41",
+      "type": "文本消息",
+      "str_content": "莹姐，你在哪呀，我一会下了课去找你~！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764926168,
+      "formatted_time": "2025-12-05 17:16:08",
+      "type": "文本消息",
+      "str_content": "我在宿舍！我去汇丰找你吧hh",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764926189,
+      "formatted_time": "2025-12-05 17:16:29",
+      "type": "文本消息",
+      "str_content": "！不用不用，那太麻烦了，要不咱宿舍楼下见？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764926265,
+      "formatted_time": "2025-12-05 17:17:45",
+      "type": "文本消息",
+      "str_content": "okok",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764926797,
+      "formatted_time": "2025-12-05 17:26:37",
+      "type": "文本消息",
+      "str_content": "昂我们2号楼下见可以不！2号楼一楼有yzone可以讨论",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764927015,
+      "formatted_time": "2025-12-05 17:30:15",
+      "type": "文本消息",
+      "str_content": "来了！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764927066,
+      "formatted_time": "2025-12-05 17:31:06",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764927080,
+      "formatted_time": "2025-12-05 17:31:20",
+      "type": "文本消息",
+      "str_content": "我来了",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764932142,
+      "formatted_time": "2025-12-05 18:55:42",
+      "type": "文本消息",
+      "str_content": "太有想法了徐会",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764932153,
+      "formatted_time": "2025-12-05 18:55:53",
+      "type": "文本消息",
+      "str_content": "我拥护你，虽然我没有投票权",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764932158,
+      "formatted_time": "2025-12-05 18:55:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764932185,
+      "formatted_time": "2025-12-05 18:56:25",
+      "type": "文本消息",
+      "str_content": "等我这两天缕缕的，后面再跟你说说我的想法，现在还没怎么想",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764932566,
+      "formatted_time": "2025-12-05 19:02:46",
+      "type": "引用消息",
+      "str_content": "还是得向莹会学习",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764932584,
+      "formatted_time": "2025-12-05 19:03:04",
+      "type": "文本消息",
+      "str_content": "感觉自己确实有很多东西都太主观了哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764932590,
+      "formatted_time": "2025-12-05 19:03:10",
+      "type": "引用消息",
+      "str_content": "期待ing",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1764933866,
+      "formatted_time": "2025-12-05 19:24:26",
+      "type": "引用消息",
+      "str_content": "我觉得你的构想特别前瞻",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764933875,
+      "formatted_time": "2025-12-05 19:24:35",
+      "type": "文本消息",
+      "str_content": "说不定过个几年就实现了",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1764933887,
+      "formatted_time": "2025-12-05 19:24:47",
+      "type": "文本消息",
+      "str_content": "到时候你就是深港发展的里程碑",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765178603,
+      "formatted_time": "2025-12-08 15:23:23",
+      "type": "文本消息",
+      "str_content": "对了莹姐",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765178609,
+      "formatted_time": "2025-12-08 15:23:29",
+      "type": "文本消息",
+      "str_content": "我昨天问了下柯宇哥",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765178622,
+      "formatted_time": "2025-12-08 15:23:42",
+      "type": "文本消息",
+      "str_content": "现在汇丰可能不让学生社团接商业活动",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765178627,
+      "formatted_time": "2025-12-08 15:23:47",
+      "type": "文本消息",
+      "str_content": "所以接广可能不太行",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765178708,
+      "formatted_time": "2025-12-08 15:25:08",
+      "type": "文本消息",
+      "str_content": "我也在想这个",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765178713,
+      "formatted_time": "2025-12-08 15:25:13",
+      "type": "文本消息",
+      "str_content": "我准备换个方式表达",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765178736,
+      "formatted_time": "2025-12-08 15:25:36",
+      "type": "文本消息",
+      "str_content": "那博雅的盈利算商业活动",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765178737,
+      "formatted_time": "2025-12-08 15:25:37",
+      "type": "文本消息",
+      "str_content": "吗",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765178750,
+      "formatted_time": "2025-12-08 15:25:50",
+      "type": "文本消息",
+      "str_content": "他那个可能算公益？）",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765178758,
+      "formatted_time": "2025-12-08 15:25:58",
+      "type": "文本消息",
+      "str_content": "和学生会一起办的，应该不能是盈利",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765178784,
+      "formatted_time": "2025-12-08 15:26:24",
+      "type": "文本消息",
+      "str_content": "但他们收费啊",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765178786,
+      "formatted_time": "2025-12-08 15:26:26",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765178797,
+      "formatted_time": "2025-12-08 15:26:37",
+      "type": "文本消息",
+      "str_content": "这就是擦边球！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765178799,
+      "formatted_time": "2025-12-08 15:26:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765178874,
+      "formatted_time": "2025-12-08 15:27:54",
+      "type": "文本消息",
+      "str_content": "看看吧我觉得，其实变现也可以不只是钱",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765178881,
+      "formatted_time": "2025-12-08 15:28:01",
+      "type": "文本消息",
+      "str_content": "其他资源置换也ok",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765197726,
+      "formatted_time": "2025-12-08 20:42:06",
+      "type": "文本消息",
+      "str_content": "牛",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765197736,
+      "formatted_time": "2025-12-08 20:42:16",
+      "type": "文本消息",
+      "str_content": "太适合当leader了",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765197743,
+      "formatted_time": "2025-12-08 20:42:23",
+      "type": "文本消息",
+      "str_content": "拥护昂！",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765197761,
+      "formatted_time": "2025-12-08 20:42:41",
+      "type": "文本消息",
+      "str_content": "大家真的讲的太好了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765197769,
+      "formatted_time": "2025-12-08 20:42:49",
+      "type": "文本消息",
+      "str_content": "我真的觉得无论是谁上，我们深港都会越来越好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765197807,
+      "formatted_time": "2025-12-08 20:43:27",
+      "type": "文本消息",
+      "str_content": "我觉得如果来现场的人更多",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765197820,
+      "formatted_time": "2025-12-08 20:43:40",
+      "type": "文本消息",
+      "str_content": "你演讲的效果会更好",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765197854,
+      "formatted_time": "2025-12-08 20:44:14",
+      "type": "引用消息",
+      "str_content": "是的，大家都好有想法[流泪][流泪][流泪]听得我激动了",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765208180,
+      "formatted_time": "2025-12-08 23:36:20",
+      "type": "文本消息",
+      "str_content": "加油莹会！！有什么事我们及时沟通就可以！向大家学习！我一定会努力把事情办好的！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765208211,
+      "formatted_time": "2025-12-08 23:36:51",
+      "type": "文本消息",
+      "str_content": "我草怎么这么正式",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765208218,
+      "formatted_time": "2025-12-08 23:36:58",
+      "type": "文本消息",
+      "str_content": "你肯定会办好的，你能办好",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765208221,
+      "formatted_time": "2025-12-08 23:37:01",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765208228,
+      "formatted_time": "2025-12-08 23:37:08",
+      "type": "文本消息",
+      "str_content": "你就是最适合当leader的人",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765208235,
+      "formatted_time": "2025-12-08 23:37:15",
+      "type": "文本消息",
+      "str_content": "我草我现在老有压力了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765208243,
+      "formatted_time": "2025-12-08 23:37:23",
+      "type": "文本消息",
+      "str_content": "开心不过三秒",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765208248,
+      "formatted_time": "2025-12-08 23:37:28",
+      "type": "文本消息",
+      "str_content": "要开始干活儿了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765208261,
+      "formatted_time": "2025-12-08 23:37:41",
+      "type": "文本消息",
+      "str_content": "是的",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765208266,
+      "formatted_time": "2025-12-08 23:37:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765266605,
+      "formatted_time": "2025-12-09 15:50:05",
+      "type": "文本消息",
+      "str_content": "莹姐你ok嘛，今天下午五点半的聚餐",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765272430,
+      "formatted_time": "2025-12-09 17:27:10",
+      "type": "文本消息",
+      "str_content": "不好意思才看到",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765272450,
+      "formatted_time": "2025-12-09 17:27:30",
+      "type": "文本消息",
+      "str_content": "5点半我可能来不及，你们先吃",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765272455,
+      "formatted_time": "2025-12-09 17:27:35",
+      "type": "文本消息",
+      "str_content": "或者说我早点走",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765272507,
+      "formatted_time": "2025-12-09 17:28:27",
+      "type": "文本消息",
+      "str_content": "我们应该不会聊特别久的！没问题没问题看你方便",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765272512,
+      "formatted_time": "2025-12-09 17:28:32",
+      "type": "文本消息",
+      "str_content": "我们也是刚下课，在往那边赶",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765272528,
+      "formatted_time": "2025-12-09 17:28:48",
+      "type": "文本消息",
+      "str_content": "好好！我马上来",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765272537,
+      "formatted_time": "2025-12-09 17:28:57",
+      "type": "文本消息",
+      "str_content": "下午没看手机",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765291197,
+      "formatted_time": "2025-12-09 22:39:57",
+      "type": "文本消息",
+      "str_content": "莹姐，你应该现在就在品牌部？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765291210,
+      "formatted_time": "2025-12-09 22:40:10",
+      "type": "文本消息",
+      "str_content": "不用启哥拉你了嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765291232,
+      "formatted_time": "2025-12-09 22:40:32",
+      "type": "文本消息",
+      "str_content": "啊啊我不在",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765291236,
+      "formatted_time": "2025-12-09 22:40:36",
+      "type": "文本消息",
+      "str_content": "我还等着他拉我",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765291240,
+      "formatted_time": "2025-12-09 22:40:40",
+      "type": "文本消息",
+      "str_content": "我去跟他说一下",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765291242,
+      "formatted_time": "2025-12-09 22:40:42",
+      "type": "文本消息",
+      "str_content": "好嘞，我给启哥说下",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765291249,
+      "formatted_time": "2025-12-09 22:40:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765291258,
+      "formatted_time": "2025-12-09 22:40:58",
+      "type": "文本消息",
+      "str_content": "所以你现在是在什么部门",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765291263,
+      "formatted_time": "2025-12-09 22:41:03",
+      "type": "文本消息",
+      "str_content": "居然不在品牌吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765291264,
+      "formatted_time": "2025-12-09 22:41:04",
+      "type": "文本消息",
+      "str_content": "人力",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765291265,
+      "formatted_time": "2025-12-09 22:41:05",
+      "type": "文本消息",
+      "str_content": "[发呆]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765291266,
+      "formatted_time": "2025-12-09 22:41:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765291273,
+      "formatted_time": "2025-12-09 22:41:13",
+      "type": "文本消息",
+      "str_content": "人才浪费",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765291275,
+      "formatted_time": "2025-12-09 22:41:15",
+      "type": "文本消息",
+      "str_content": "资源错配",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765291281,
+      "formatted_time": "2025-12-09 22:41:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765291338,
+      "formatted_time": "2025-12-09 22:42:18",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765291511,
+      "formatted_time": "2025-12-09 22:45:11",
+      "type": "文本消息",
+      "str_content": "你也可以找启哥对一下公众号控制权转移的事情！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765291523,
+      "formatted_time": "2025-12-09 22:45:23",
+      "type": "文本消息",
+      "str_content": "接下来我们将迎来一场革命",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765291528,
+      "formatted_time": "2025-12-09 22:45:28",
+      "type": "文本消息",
+      "str_content": "笑死",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765291534,
+      "formatted_time": "2025-12-09 22:45:34",
+      "type": "文本消息",
+      "str_content": "他不怎么看群消息",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765291537,
+      "formatted_time": "2025-12-09 22:45:37",
+      "type": "文本消息",
+      "str_content": "回复不太及时",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765291551,
+      "formatted_time": "2025-12-09 22:45:51",
+      "type": "引用消息",
+      "str_content": "需要流血吗",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765291552,
+      "formatted_time": "2025-12-09 22:45:52",
+      "type": "文本消息",
+      "str_content": "哈哈哈对，我刚私聊找他说了这些事情，后续细节可以再对一下~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765291562,
+      "formatted_time": "2025-12-09 22:46:02",
+      "type": "文本消息",
+      "str_content": "不流血，只掉头发",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765291572,
+      "formatted_time": "2025-12-09 22:46:12",
+      "type": "文本消息",
+      "str_content": "好的昂会",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765291572,
+      "formatted_time": "2025-12-09 22:46:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765291576,
+      "formatted_time": "2025-12-09 22:46:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765291637,
+      "formatted_time": "2025-12-09 22:47:17",
+      "type": "文本消息",
+      "str_content": "等我这两天理一下的",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765352333,
+      "formatted_time": "2025-12-10 15:38:53",
+      "type": "文本消息",
+      "str_content": "讲座纸质签到了…",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765352344,
+      "formatted_time": "2025-12-10 15:39:04",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765352359,
+      "formatted_time": "2025-12-10 15:39:19",
+      "type": "文本消息",
+      "str_content": "对啊对啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765352361,
+      "formatted_time": "2025-12-10 15:39:21",
+      "type": "文本消息",
+      "str_content": "seminar",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765352363,
+      "formatted_time": "2025-12-10 15:39:23",
+      "type": "文本消息",
+      "str_content": "我是上周去的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765352374,
+      "formatted_time": "2025-12-10 15:39:34",
+      "type": "文本消息",
+      "str_content": "不是",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765352375,
+      "formatted_time": "2025-12-10 15:39:35",
+      "type": "文本消息",
+      "str_content": "这个是签了的[旺柴]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765352376,
+      "formatted_time": "2025-12-10 15:39:36",
+      "type": "文本消息",
+      "str_content": "那个商务礼仪",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765352382,
+      "formatted_time": "2025-12-10 15:39:42",
+      "type": "文本消息",
+      "str_content": "啊呸",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765352383,
+      "formatted_time": "2025-12-10 15:39:43",
+      "type": "文本消息",
+      "str_content": "卧槽？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765352388,
+      "formatted_time": "2025-12-10 15:39:48",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765352390,
+      "formatted_time": "2025-12-10 15:39:50",
+      "type": "文本消息",
+      "str_content": "好像没事了",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765352394,
+      "formatted_time": "2025-12-10 15:39:54",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765352397,
+      "formatted_time": "2025-12-10 15:39:57",
+      "type": "文本消息",
+      "str_content": "我弄混了",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765352398,
+      "formatted_time": "2025-12-10 15:39:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765466496,
+      "formatted_time": "2025-12-11 23:21:36",
+      "type": "文本消息",
+      "str_content": "莹姐，家启哥给你公众号的权限了嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765466505,
+      "formatted_time": "2025-12-11 23:21:45",
+      "type": "文本消息",
+      "str_content": "你记得push着点他[旺柴]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765467013,
+      "formatted_time": "2025-12-11 23:30:13",
+      "type": "文本消息",
+      "str_content": "push了",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765467017,
+      "formatted_time": "2025-12-11 23:30:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765592516,
+      "formatted_time": "2025-12-13 10:21:56",
+      "type": "图文消息",
+      "str_content": "邀请你加入群聊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765592529,
+      "formatted_time": "2025-12-13 10:22:09",
+      "type": "文本消息",
+      "str_content": "公益私域群",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765592706,
+      "formatted_time": "2025-12-13 10:25:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765592717,
+      "formatted_time": "2025-12-13 10:25:17",
+      "type": "文本消息",
+      "str_content": "那个负责公众号的师兄还没回我消息",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765592741,
+      "formatted_time": "2025-12-13 10:25:41",
+      "type": "文本消息",
+      "str_content": "启哥比较随性[捂脸][捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765592900,
+      "formatted_time": "2025-12-13 10:28:20",
+      "type": "文本消息",
+      "str_content": "不是启哥",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765592912,
+      "formatted_time": "2025-12-13 10:28:32",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765592935,
+      "formatted_time": "2025-12-13 10:28:55",
+      "type": "文本消息",
+      "str_content": "泽彬师兄",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765592939,
+      "formatted_time": "2025-12-13 10:28:59",
+      "type": "文本消息",
+      "str_content": "我今天再催一下",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    },
+    {
+      "create_time": 1765592971,
+      "formatted_time": "2025-12-13 10:29:31",
+      "type": "文本消息",
+      "str_content": "这好奇怪啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765592974,
+      "formatted_time": "2025-12-13 10:29:34",
+      "type": "文本消息",
+      "str_content": "我看还是16级的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765592983,
+      "formatted_time": "2025-12-13 10:29:43",
+      "type": "文本消息",
+      "str_content": "为啥是16级的在负责公众号",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765598183,
+      "formatted_time": "2025-12-13 11:56:23",
+      "type": "文本消息",
+      "str_content": "他是管理员",
+      "is_send": 0,
+      "sender_name": "财新-陈莹"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:22+08:00",
+  "message_count": 215
+}

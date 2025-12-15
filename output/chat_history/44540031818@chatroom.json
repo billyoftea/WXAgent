@@ -1,0 +1,418 @@
+{
+  "session_id": "44540031818@chatroom",
+  "session_name": "44540031818@chatroom",
+  "messages": [
+    {
+      "create_time": 1750296017,
+      "formatted_time": "2025-06-19 09:20:17",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "44540031818@chatroom",
+      "sender_wxid": "44540031818@chatroom"
+    },
+    {
+      "create_time": 1750296017,
+      "formatted_time": "2025-06-19 09:20:17",
+      "type": "文本消息",
+      "str_content": "待会我们直接下去就好么？",
+      "is_send": 0,
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
+    },
+    {
+      "create_time": 1750296042,
+      "formatted_time": "2025-06-19 09:20:42",
+      "type": "文本消息",
+      "str_content": "兄弟你拉了一堆人",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1750296045,
+      "formatted_time": "2025-06-19 09:20:45",
+      "type": "文本消息",
+      "str_content": "就是没拉李导",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1750296047,
+      "formatted_time": "2025-06-19 09:20:47",
+      "type": "文本消息",
+      "str_content": "咱也不敢说啊",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1750296077,
+      "formatted_time": "2025-06-19 09:21:17",
+      "type": "文本消息",
+      "str_content": "这个二楼直接下不去貌似",
+      "is_send": 0,
+      "sender_name": "聂宇豪",
+      "sender_wxid": "wxid_syistyh7405n22"
+    },
+    {
+      "create_time": 1750296095,
+      "formatted_time": "2025-06-19 09:21:35",
+      "type": "文本消息",
+      "str_content": "看看对面貌似是可以的",
+      "is_send": 0,
+      "sender_name": "谢晗雨",
+      "sender_wxid": "wxid_rfwt9pno6w2522"
+    },
+    {
+      "create_time": 1750296156,
+      "formatted_time": "2025-06-19 09:22:36",
+      "type": "引用消息",
+      "str_content": "就是看看你们知不知道",
+      "is_send": 0,
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
+    },
+    {
+      "create_time": 1750296157,
+      "formatted_time": "2025-06-19 09:22:37",
+      "type": "文本消息",
+      "str_content": "[旺柴]",
+      "is_send": 0,
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
+    },
+    {
+      "create_time": 1750296249,
+      "formatted_time": "2025-06-19 09:24:09",
+      "type": "文本消息",
+      "str_content": "我猜要从A4那里的楼梯下去",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750296278,
+      "formatted_time": "2025-06-19 09:24:38",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750296388,
+      "formatted_time": "2025-06-19 09:26:28",
+      "type": "文本消息",
+      "str_content": "那我们一会儿在A4那个牌子那里集合一起去如何，如果李导没任何安排的话",
+      "is_send": 0,
+      "sender_name": "聂宇豪",
+      "sender_wxid": "wxid_syistyh7405n22"
+    },
+    {
+      "create_time": 1750296449,
+      "formatted_time": "2025-06-19 09:27:29",
+      "type": "文本消息",
+      "str_content": "[OK]",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750296831,
+      "formatted_time": "2025-06-19 09:33:51",
+      "type": "文本消息",
+      "str_content": "志愿者说10点左右就近集合",
+      "is_send": 0,
+      "sender_name": "尹轩",
+      "sender_wxid": "wxid_mxmpor5c4r0a32"
+    },
+    {
+      "create_time": 1750296866,
+      "formatted_time": "2025-06-19 09:34:26",
+      "type": "文本消息",
+      "str_content": "善",
+      "is_send": 0,
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
+    },
+    {
+      "create_time": 1750296892,
+      "formatted_time": "2025-06-19 09:34:52",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "聂宇豪",
+      "sender_wxid": "wxid_syistyh7405n22"
+    },
+    {
+      "create_time": 1750297020,
+      "formatted_time": "2025-06-19 09:37:00",
+      "type": "文本消息",
+      "str_content": "我怎么感觉他们说的就近是就主席台的近",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750297033,
+      "formatted_time": "2025-06-19 09:37:13",
+      "type": "文本消息",
+      "str_content": "🤔",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750297064,
+      "formatted_time": "2025-06-19 09:37:44",
+      "type": "文本消息",
+      "str_content": "发了个图",
+      "is_send": 0,
+      "sender_name": "尹轩",
+      "sender_wxid": "wxid_mxmpor5c4r0a32"
+    },
+    {
+      "create_time": 1750297064,
+      "formatted_time": "2025-06-19 09:37:44",
+      "type": "文本消息",
+      "str_content": "我还没打开",
+      "is_send": 0,
+      "sender_name": "尹轩",
+      "sender_wxid": "wxid_mxmpor5c4r0a32"
+    },
+    {
+      "create_time": 1750297064,
+      "formatted_time": "2025-06-19 09:37:44",
+      "type": "文本消息",
+      "str_content": "但是网不好",
+      "is_send": 0,
+      "sender_name": "尹轩",
+      "sender_wxid": "wxid_mxmpor5c4r0a32"
+    },
+    {
+      "create_time": 1750297096,
+      "formatted_time": "2025-06-19 09:38:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750297422,
+      "formatted_time": "2025-06-19 09:43:42",
+      "type": "文本消息",
+      "str_content": "这是一会儿集合的地点，面向主席台右手边，现场有老师引导排队哈",
+      "is_send": 0,
+      "sender_name": "尹轩",
+      "sender_wxid": "wxid_mxmpor5c4r0a32"
+    },
+    {
+      "create_time": 1750297425,
+      "formatted_time": "2025-06-19 09:43:45",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "尹轩",
+      "sender_wxid": "wxid_mxmpor5c4r0a32"
+    },
+    {
+      "create_time": 1750297500,
+      "formatted_time": "2025-06-19 09:45:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "尹轩",
+      "sender_wxid": "wxid_mxmpor5c4r0a32"
+    },
+    {
+      "create_time": 1750297580,
+      "formatted_time": "2025-06-19 09:46:20",
+      "type": "文本消息",
+      "str_content": "你这个截图也加载不出来了哈哈哈，网太差了",
+      "is_send": 0,
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
+    },
+    {
+      "create_time": 1750297589,
+      "formatted_time": "2025-06-19 09:46:29",
+      "type": "引用消息",
+      "str_content": "就是这儿呗",
+      "is_send": 0,
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
+    },
+    {
+      "create_time": 1750297600,
+      "formatted_time": "2025-06-19 09:46:40",
+      "type": "文本消息",
+      "str_content": "一起过去一起过去",
+      "is_send": 0,
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
+    },
+    {
+      "create_time": 1750297659,
+      "formatted_time": "2025-06-19 09:47:39",
+      "type": "文本消息",
+      "str_content": "okok",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750297672,
+      "formatted_time": "2025-06-19 09:47:52",
+      "type": "文本消息",
+      "str_content": "截图上是这里",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750297675,
+      "formatted_time": "2025-06-19 09:47:55",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750297819,
+      "formatted_time": "2025-06-19 09:50:19",
+      "type": "文本消息",
+      "str_content": "你们走了么",
+      "is_send": 0,
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
+    },
+    {
+      "create_time": 1750297837,
+      "formatted_time": "2025-06-19 09:50:37",
+      "type": "文本消息",
+      "str_content": "还没",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750297840,
+      "formatted_time": "2025-06-19 09:50:40",
+      "type": "文本消息",
+      "str_content": "哦哦",
+      "is_send": 0,
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
+    },
+    {
+      "create_time": 1750297854,
+      "formatted_time": "2025-06-19 09:50:54",
+      "type": "文本消息",
+      "str_content": "那边有一堆人集合了看到",
+      "is_send": 0,
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
+    },
+    {
+      "create_time": 1750297875,
+      "formatted_time": "2025-06-19 09:51:15",
+      "type": "文本消息",
+      "str_content": "那过去？",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750297913,
+      "formatted_time": "2025-06-19 09:51:53",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "尹轩",
+      "sender_wxid": "wxid_mxmpor5c4r0a32"
+    },
+    {
+      "create_time": 1750297953,
+      "formatted_time": "2025-06-19 09:52:33",
+      "type": "文本消息",
+      "str_content": "我看李导也在看消息",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750297958,
+      "formatted_time": "2025-06-19 09:52:38",
+      "type": "文本消息",
+      "str_content": "应该会给咱们提醒",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750297963,
+      "formatted_time": "2025-06-19 09:52:43",
+      "type": "文本消息",
+      "str_content": "唱完歌再说吧",
+      "is_send": 0,
+      "sender_name": "国商2101宋志瀚",
+      "sender_wxid": "wxid_rn082h2bodj722"
+    },
+    {
+      "create_time": 1750303360,
+      "formatted_time": "2025-06-19 11:22:40",
+      "type": "文本消息",
+      "str_content": "我们开始排队了",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750303399,
+      "formatted_time": "2025-06-19 11:23:19",
+      "type": "文本消息",
+      "str_content": "大概还多久",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1750303558,
+      "formatted_time": "2025-06-19 11:25:58",
+      "type": "文本消息",
+      "str_content": "不知道",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750303561,
+      "formatted_time": "2025-06-19 11:26:01",
+      "type": "文本消息",
+      "str_content": "排队的很多",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750303562,
+      "formatted_time": "2025-06-19 11:26:02",
+      "type": "文本消息",
+      "str_content": "但是",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    },
+    {
+      "create_time": 1750303570,
+      "formatted_time": "2025-06-19 11:26:10",
+      "type": "文本消息",
+      "str_content": "前面拨得慢",
+      "is_send": 0,
+      "sender_name": "张涵菲",
+      "sender_wxid": "wxid_28ss9x3czofd22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:25+08:00",
+  "message_count": 46
+}

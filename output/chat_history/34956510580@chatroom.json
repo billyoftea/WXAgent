@@ -1,0 +1,461 @@
+{
+  "session_id": "34956510580@chatroom",
+  "session_name": "34956510580@chatroom",
+  "messages": [
+    {
+      "create_time": 1707488701,
+      "formatted_time": "2024-02-09 22:25:01",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1707488737,
+      "formatted_time": "2024-02-09 22:25:37",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707488748,
+      "formatted_time": "2024-02-09 22:25:48",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    },
+    {
+      "create_time": 1707488824,
+      "formatted_time": "2024-02-09 22:27:04",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "34956510580@chatroom",
+      "sender_wxid": "34956510580@chatroom"
+    },
+    {
+      "create_time": 1707488834,
+      "formatted_time": "2024-02-09 22:27:14",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1707488857,
+      "formatted_time": "2024-02-09 22:27:37",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "is_send": 0,
+      "sender_name": "周小天",
+      "sender_wxid": "wxid_1yn42ektnxv222"
+    },
+    {
+      "create_time": 1707489349,
+      "formatted_time": "2024-02-09 22:35:49",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1707489351,
+      "formatted_time": "2024-02-09 22:35:51",
+      "type": "红包卡片",
+      "str_content": "[红包]",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    },
+    {
+      "create_time": 1707489355,
+      "formatted_time": "2024-02-09 22:35:55",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "周小天",
+      "sender_wxid": "wxid_1yn42ektnxv222"
+    },
+    {
+      "create_time": 1707489975,
+      "formatted_time": "2024-02-09 22:46:15",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    },
+    {
+      "create_time": 1707491243,
+      "formatted_time": "2024-02-09 23:07:23",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "34956510580@chatroom",
+      "sender_wxid": "34956510580@chatroom"
+    },
+    {
+      "create_time": 1707491316,
+      "formatted_time": "2024-02-09 23:08:36",
+      "type": "文本消息",
+      "str_content": "1",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    },
+    {
+      "create_time": 1707491325,
+      "formatted_time": "2024-02-09 23:08:45",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "爸",
+      "sender_wxid": "wxid_794e2azqfa5q21"
+    },
+    {
+      "create_time": 1707491329,
+      "formatted_time": "2024-02-09 23:08:49",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    },
+    {
+      "create_time": 1707491669,
+      "formatted_time": "2024-02-09 23:14:29",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    },
+    {
+      "create_time": 1707491679,
+      "formatted_time": "2024-02-09 23:14:39",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707491683,
+      "formatted_time": "2024-02-09 23:14:43",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707491688,
+      "formatted_time": "2024-02-09 23:14:48",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707491693,
+      "formatted_time": "2024-02-09 23:14:53",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707491697,
+      "formatted_time": "2024-02-09 23:14:57",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707491702,
+      "formatted_time": "2024-02-09 23:15:02",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707491756,
+      "formatted_time": "2024-02-09 23:15:56",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "爸",
+      "sender_wxid": "wxid_794e2azqfa5q21"
+    },
+    {
+      "create_time": 1707492081,
+      "formatted_time": "2024-02-09 23:21:21",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707492173,
+      "formatted_time": "2024-02-09 23:22:53",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    },
+    {
+      "create_time": 1707492593,
+      "formatted_time": "2024-02-09 23:29:53",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "爸",
+      "sender_wxid": "wxid_794e2azqfa5q21"
+    },
+    {
+      "create_time": 1707492602,
+      "formatted_time": "2024-02-09 23:30:02",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    },
+    {
+      "create_time": 1707493057,
+      "formatted_time": "2024-02-09 23:37:37",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707493062,
+      "formatted_time": "2024-02-09 23:37:42",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707493426,
+      "formatted_time": "2024-02-09 23:43:46",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "爸",
+      "sender_wxid": "wxid_794e2azqfa5q21"
+    },
+    {
+      "create_time": 1707493850,
+      "formatted_time": "2024-02-09 23:50:50",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707550067,
+      "formatted_time": "2024-02-10 15:27:47",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707550509,
+      "formatted_time": "2024-02-10 15:35:09",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707550518,
+      "formatted_time": "2024-02-10 15:35:18",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "周小天",
+      "sender_wxid": "wxid_1yn42ektnxv222"
+    },
+    {
+      "create_time": 1707550523,
+      "formatted_time": "2024-02-10 15:35:23",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "周小天",
+      "sender_wxid": "wxid_1yn42ektnxv222"
+    },
+    {
+      "create_time": 1707551092,
+      "formatted_time": "2024-02-10 15:44:52",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    },
+    {
+      "create_time": 1707551111,
+      "formatted_time": "2024-02-10 15:45:11",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    },
+    {
+      "create_time": 1707551358,
+      "formatted_time": "2024-02-10 15:49:18",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707551416,
+      "formatted_time": "2024-02-10 15:50:16",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "周小天",
+      "sender_wxid": "wxid_1yn42ektnxv222"
+    },
+    {
+      "create_time": 1707551420,
+      "formatted_time": "2024-02-10 15:50:20",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "周小天",
+      "sender_wxid": "wxid_1yn42ektnxv222"
+    },
+    {
+      "create_time": 1707551778,
+      "formatted_time": "2024-02-10 15:56:18",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    },
+    {
+      "create_time": 1707552266,
+      "formatted_time": "2024-02-10 16:04:26",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    },
+    {
+      "create_time": 1707553910,
+      "formatted_time": "2024-02-10 16:31:50",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707554479,
+      "formatted_time": "2024-02-10 16:41:19",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    },
+    {
+      "create_time": 1707555048,
+      "formatted_time": "2024-02-10 16:50:48",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707555051,
+      "formatted_time": "2024-02-10 16:50:51",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707555055,
+      "formatted_time": "2024-02-10 16:50:55",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1707555056,
+      "formatted_time": "2024-02-10 16:50:56",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707555060,
+      "formatted_time": "2024-02-10 16:51:00",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐傲",
+      "sender_wxid": "wxid_px7303q3zfc222"
+    },
+    {
+      "create_time": 1707555060,
+      "formatted_time": "2024-02-10 16:51:00",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    },
+    {
+      "create_time": 1707555062,
+      "formatted_time": "2024-02-10 16:51:02",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1707555064,
+      "formatted_time": "2024-02-10 16:51:04",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "徐睿哥",
+      "sender_wxid": "wxid_bh36nko2q7cf11"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:32+08:00",
+  "message_count": 51
+}

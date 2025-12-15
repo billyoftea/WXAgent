@@ -1,0 +1,120 @@
+{
+  "session_id": "wxid_m7lie11l9pfq22",
+  "session_name": "孟嘉伟",
+  "messages": [
+    {
+      "create_time": 1681192283,
+      "formatted_time": "2023-04-11 13:51:23",
+      "type": "文本消息",
+      "str_content": "奶茶一共多少钱？",
+      "is_send": 0,
+      "sender_name": "孟嘉伟"
+    },
+    {
+      "create_time": 1681192716,
+      "formatted_time": "2023-04-11 13:58:36",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1681192721,
+      "formatted_time": "2023-04-11 13:58:41",
+      "type": "文本消息",
+      "str_content": "186元",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1681192761,
+      "formatted_time": "2023-04-11 13:59:21",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "孟嘉伟"
+    },
+    {
+      "create_time": 1681192886,
+      "formatted_time": "2023-04-11 14:01:26",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1681192889,
+      "formatted_time": "2023-04-11 14:01:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1681192893,
+      "formatted_time": "2023-04-11 14:01:33",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694361106,
+      "formatted_time": "2023-09-10 23:51:46",
+      "type": "文件消息",
+      "str_content": "徐昂  联席会感想.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694361131,
+      "formatted_time": "2023-09-10 23:52:11",
+      "type": "文本消息",
+      "str_content": "嘉伟哥，ddl战神来了hhh",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694361164,
+      "formatted_time": "2023-09-10 23:52:44",
+      "type": "文本消息",
+      "str_content": "你这是真的战神",
+      "is_send": 0,
+      "sender_name": "孟嘉伟"
+    },
+    {
+      "create_time": 1694361172,
+      "formatted_time": "2023-09-10 23:52:52",
+      "type": "文本消息",
+      "str_content": "再晚点我就睡了[捂脸]",
+      "is_send": 0,
+      "sender_name": "孟嘉伟"
+    },
+    {
+      "create_time": 1694361190,
+      "formatted_time": "2023-09-10 23:53:10",
+      "type": "文本消息",
+      "str_content": "今天内今天内",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694361195,
+      "formatted_time": "2023-09-10 23:53:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694361227,
+      "formatted_time": "2023-09-10 23:53:47",
+      "type": "文本消息",
+      "str_content": "可以可以[强]",
+      "is_send": 0,
+      "sender_name": "孟嘉伟"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:41+08:00",
+  "message_count": 14
+}

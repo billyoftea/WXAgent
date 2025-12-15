@@ -1,0 +1,24 @@
+{
+  "session_id": "wxid_pjtjicr0syfz22",
+  "session_name": "刘正龙",
+  "messages": [
+    {
+      "create_time": 1762513825,
+      "formatted_time": "2025-11-07 19:10:25",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1762513854,
+      "formatted_time": "2025-11-07 19:10:54",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "刘正龙"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:18+08:00",
+  "message_count": 2
+}

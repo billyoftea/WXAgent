@@ -1,0 +1,72 @@
+{
+  "session_id": "wxid_5e1gehvqsvqm21",
+  "session_name": "孙焱林",
+  "messages": [
+    {
+      "create_time": 1661820510,
+      "formatted_time": "2022-08-30 08:48:30",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "孙焱林"
+    },
+    {
+      "create_time": 1661820518,
+      "formatted_time": "2022-08-30 08:48:38",
+      "type": "文本消息",
+      "str_content": "欢迎你",
+      "is_send": 0,
+      "sender_name": "孙焱林"
+    },
+    {
+      "create_time": 1661820545,
+      "formatted_time": "2022-08-30 08:49:05",
+      "type": "文本消息",
+      "str_content": "老师好！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1661825220,
+      "formatted_time": "2022-08-30 10:07:00",
+      "type": "文本消息",
+      "str_content": "后面也欢迎通过微信提问题哈",
+      "is_send": 0,
+      "sender_name": "孙焱林"
+    },
+    {
+      "create_time": 1661825818,
+      "formatted_time": "2022-08-30 10:16:58",
+      "type": "文本消息",
+      "str_content": "好呢！谢谢老师！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668325446,
+      "formatted_time": "2022-11-13 15:44:06",
+      "type": "文本消息",
+      "str_content": "孙老师，我和几个同学共同商量准备搞一个大创，现在选题在纠结疫情对房价的影响和疫情对失业率的影响。\r\n想问一下您对我们的选题有什么建议和可以推荐一下比较权威的的统计信息来源吗[疑问]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1668329563,
+      "formatted_time": "2022-11-13 16:52:43",
+      "type": "文本消息",
+      "str_content": "估计后面一个更有意义，你看看知网上有关文献再定。",
+      "is_send": 0,
+      "sender_name": "孙焱林"
+    },
+    {
+      "create_time": 1668329855,
+      "formatted_time": "2022-11-13 16:57:35",
+      "type": "文本消息",
+      "str_content": "嗯嗯，好的  谢谢孙老师～",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:42+08:00",
+  "message_count": 8
+}

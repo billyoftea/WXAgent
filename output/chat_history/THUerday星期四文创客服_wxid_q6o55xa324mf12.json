@@ -1,0 +1,40 @@
+{
+  "session_id": "wxid_q6o55xa324mf12",
+  "session_name": "THUerday星期四文创客服",
+  "messages": [
+    {
+      "create_time": 1757396653,
+      "formatted_time": "2025-09-09 13:44:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "THUerday星期四文创客服"
+    },
+    {
+      "create_time": 1757396742,
+      "formatted_time": "2025-09-09 13:45:42",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1757424982,
+      "formatted_time": "2025-09-09 21:36:22",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "THUerday星期四文创客服"
+    },
+    {
+      "create_time": 1757424984,
+      "formatted_time": "2025-09-09 21:36:24",
+      "type": "文本消息",
+      "str_content": "您好，本校地址拍赠品的校内地址选项，校外地址拍赠品链接内校外选项哦！下单务必记得留言备注集赞微信号哦！",
+      "is_send": 0,
+      "sender_name": "THUerday星期四文创客服"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:27+08:00",
+  "message_count": 4
+}

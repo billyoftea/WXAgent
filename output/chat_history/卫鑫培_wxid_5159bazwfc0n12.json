@@ -1,0 +1,784 @@
+{
+  "session_id": "wxid_5159bazwfc0n12",
+  "session_name": "卫鑫培",
+  "messages": [
+    {
+      "create_time": 1687968483,
+      "formatted_time": "2023-06-29 00:08:03",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1687968501,
+      "formatted_time": "2023-06-29 00:08:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1687969138,
+      "formatted_time": "2023-06-29 00:18:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721272045,
+      "formatted_time": "2024-07-18 11:07:25",
+      "type": "文本消息",
+      "str_content": "学长，请问你是已经入营北大汇丰的夏令营了吗，我可以咨询你一些问题吗",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721272055,
+      "formatted_time": "2024-07-18 11:07:35",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721272186,
+      "formatted_time": "2024-07-18 11:09:46",
+      "type": "文本消息",
+      "str_content": "啊对的，可以的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721272208,
+      "formatted_time": "2024-07-18 11:10:08",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721272209,
+      "formatted_time": "2024-07-18 11:10:09",
+      "type": "文本消息",
+      "str_content": "就是",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721272222,
+      "formatted_time": "2024-07-18 11:10:22",
+      "type": "文本消息",
+      "str_content": "这个夏令营可以入多个吗",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721272233,
+      "formatted_time": "2024-07-18 11:10:33",
+      "type": "文本消息",
+      "str_content": "会不会时间上冲突很多",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721272237,
+      "formatted_time": "2024-07-18 11:10:37",
+      "type": "文本消息",
+      "str_content": "你现在是哪个专业第几呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721272260,
+      "formatted_time": "2024-07-18 11:11:00",
+      "type": "文本消息",
+      "str_content": "我是经创第二",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721272274,
+      "formatted_time": "2024-07-18 11:11:14",
+      "type": "文本消息",
+      "str_content": "和第一差0.4分",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721272282,
+      "formatted_time": "2024-07-18 11:11:22",
+      "type": "文本消息",
+      "str_content": "所以之后想再努力试试",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721272284,
+      "formatted_time": "2024-07-18 11:11:24",
+      "type": "文本消息",
+      "str_content": "你现在方便吗？电话说？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721272299,
+      "formatted_time": "2024-07-18 11:11:39",
+      "type": "文本消息",
+      "str_content": "好嘞，我的电话是18966736831",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721272326,
+      "formatted_time": "2024-07-18 11:12:06",
+      "type": "文本消息",
+      "str_content": "学长你的电话是多少嘞",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721273113,
+      "formatted_time": "2024-07-18 11:25:13",
+      "type": "文本消息",
+      "str_content": "DSBA",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721273115,
+      "formatted_time": "2024-07-18 11:25:15",
+      "type": "文本消息",
+      "str_content": "复旦管院",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721273842,
+      "formatted_time": "2024-07-18 11:37:22",
+      "type": "文本消息",
+      "str_content": "你这是家里有人从事保险和精算行业吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274295,
+      "formatted_time": "2024-07-18 11:44:55",
+      "type": "文本消息",
+      "str_content": "对的，我一个叔叔在干精算",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274307,
+      "formatted_time": "2024-07-18 11:45:07",
+      "type": "文本消息",
+      "str_content": "可能相对证券金融挣得没那么多，但是要稳定一点",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274320,
+      "formatted_time": "2024-07-18 11:45:20",
+      "type": "文本消息",
+      "str_content": "而且和数学很贴合，所以我想多试试嘞",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274437,
+      "formatted_time": "2024-07-18 11:47:17",
+      "type": "文本消息",
+      "str_content": "哈哈我说呢，如果没人指路应该很少有人了解精算和保险",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274460,
+      "formatted_time": "2024-07-18 11:47:40",
+      "type": "文本消息",
+      "str_content": "确实，我也感觉运气很好能了解到这个行业[苦涩]",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274482,
+      "formatted_time": "2024-07-18 11:48:02",
+      "type": "文本消息",
+      "str_content": "没什么人了解，而且就算了解的人一听数学用的多也不愿意去卷了",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274488,
+      "formatted_time": "2024-07-18 11:48:08",
+      "type": "文本消息",
+      "str_content": "反而比较适合我嘞",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274531,
+      "formatted_time": "2024-07-18 11:48:51",
+      "type": "文本消息",
+      "str_content": "哈哈也不一定，现在金融技术岗的整体大趋势还是走数量相关，近几年走量化的越来越多了[偷笑]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274558,
+      "formatted_time": "2024-07-18 11:49:18",
+      "type": "文本消息",
+      "str_content": "感觉数量金融这种专业应该也是可以走这些偏数学+金融的职业路径的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274567,
+      "formatted_time": "2024-07-18 11:49:27",
+      "type": "文本消息",
+      "str_content": "先广泛了解着吧，也不着急",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274570,
+      "formatted_time": "2024-07-18 11:49:30",
+      "type": "文本消息",
+      "str_content": "是的，我很多同学都在考CFA",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274574,
+      "formatted_time": "2024-07-18 11:49:34",
+      "type": "文本消息",
+      "str_content": "嗯嗯，谢谢学长",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274577,
+      "formatted_time": "2024-07-18 11:49:37",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274582,
+      "formatted_time": "2024-07-18 11:49:42",
+      "type": "文本消息",
+      "str_content": "cfa是没用的[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274591,
+      "formatted_time": "2024-07-18 11:49:51",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274595,
+      "formatted_time": "2024-07-18 11:49:55",
+      "type": "文本消息",
+      "str_content": "没必要跟风考证",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274597,
+      "formatted_time": "2024-07-18 11:49:57",
+      "type": "文本消息",
+      "str_content": "那那么多人都在考",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274603,
+      "formatted_time": "2024-07-18 11:50:03",
+      "type": "文本消息",
+      "str_content": "什么CFA什么FRM",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274606,
+      "formatted_time": "2024-07-18 11:50:06",
+      "type": "文本消息",
+      "str_content": "大一的时候被高顿忽悠咯",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274606,
+      "formatted_time": "2024-07-18 11:50:06",
+      "type": "文本消息",
+      "str_content": "还有CPA",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274611,
+      "formatted_time": "2024-07-18 11:50:11",
+      "type": "文本消息",
+      "str_content": "好家伙",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274618,
+      "formatted_time": "2024-07-18 11:50:18",
+      "type": "文本消息",
+      "str_content": "只有我在考SOA",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274629,
+      "formatted_time": "2024-07-18 11:50:29",
+      "type": "文本消息",
+      "str_content": "至少先得有个好点的硕士学历再看看cfa这种证书",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274633,
+      "formatted_time": "2024-07-18 11:50:33",
+      "type": "文本消息",
+      "str_content": "cpa有点用",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274640,
+      "formatted_time": "2024-07-18 11:50:40",
+      "type": "引用消息",
+      "str_content": "哦哦，那确实嘞",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274650,
+      "formatted_time": "2024-07-18 11:50:50",
+      "type": "引用消息",
+      "str_content": "CPA好像很多人都是自学去考",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274651,
+      "formatted_time": "2024-07-18 11:50:51",
+      "type": "文本消息",
+      "str_content": "cfa frm对于本硕华科经院的人来说",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274653,
+      "formatted_time": "2024-07-18 11:50:53",
+      "type": "文本消息",
+      "str_content": "用处不大",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274663,
+      "formatted_time": "2024-07-18 11:51:03",
+      "type": "引用消息",
+      "str_content": "okk",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274666,
+      "formatted_time": "2024-07-18 11:51:06",
+      "type": "文本消息",
+      "str_content": "因为根本进不了会考察这两个证的公司和岗位",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274699,
+      "formatted_time": "2024-07-18 11:51:39",
+      "type": "文本消息",
+      "str_content": "确实有人想考了CFA，然后毕业就去找工作",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274705,
+      "formatted_time": "2024-07-18 11:51:45",
+      "type": "文本消息",
+      "str_content": "[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274710,
+      "formatted_time": "2024-07-18 11:51:50",
+      "type": "文本消息",
+      "str_content": "本科毕业只能干销售ba",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274717,
+      "formatted_time": "2024-07-18 11:51:57",
+      "type": "文本消息",
+      "str_content": "好家伙",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274720,
+      "formatted_time": "2024-07-18 11:52:00",
+      "type": "文本消息",
+      "str_content": "这么夸张吗",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274724,
+      "formatted_time": "2024-07-18 11:52:04",
+      "type": "文本消息",
+      "str_content": "虽然我没有这个打算",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274734,
+      "formatted_time": "2024-07-18 11:52:14",
+      "type": "文本消息",
+      "str_content": "但是没想到只能干销售",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274736,
+      "formatted_time": "2024-07-18 11:52:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274740,
+      "formatted_time": "2024-07-18 11:52:20",
+      "type": "文本消息",
+      "str_content": "华科无论是本还是硕",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274745,
+      "formatted_time": "2024-07-18 11:52:25",
+      "type": "文本消息",
+      "str_content": "就业去向..都挺内个的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274749,
+      "formatted_time": "2024-07-18 11:52:29",
+      "type": "文本消息",
+      "str_content": "尽量往上走吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721274777,
+      "formatted_time": "2024-07-18 11:52:57",
+      "type": "文本消息",
+      "str_content": "我今天才看到一个毕业学校就业收入排名，华科排确实挺靠后的",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274781,
+      "formatted_time": "2024-07-18 11:53:01",
+      "type": "引用消息",
+      "str_content": "好嘞好嘞",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274797,
+      "formatted_time": "2024-07-18 11:53:17",
+      "type": "文本消息",
+      "str_content": "谢谢啦学长",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274809,
+      "formatted_time": "2024-07-18 11:53:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1721274829,
+      "formatted_time": "2024-07-18 11:53:49",
+      "type": "文本消息",
+      "str_content": "嗯嗯没事",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1724133849,
+      "formatted_time": "2024-08-20 14:04:09",
+      "type": "文本消息",
+      "str_content": "学长，你之前说保研用的成绩是前五个学期的，那第六个学期内的竞赛或者别的考试的加分会算吗",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1724134060,
+      "formatted_time": "2024-08-20 14:07:40",
+      "type": "文本消息",
+      "str_content": "华科本校的推荐名额是前六学期加权和竞赛，保研参加夏令营是用前五学期的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1724134185,
+      "formatted_time": "2024-08-20 14:09:45",
+      "type": "文本消息",
+      "str_content": "好嘞，那要是有比赛在第六学期结束出成绩，会在参加夏令营的时候用上吗",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1724134199,
+      "formatted_time": "2024-08-20 14:09:59",
+      "type": "文本消息",
+      "str_content": "就是在评分里和绩点一起加权计算",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1724134446,
+      "formatted_time": "2024-08-20 14:14:06",
+      "type": "引用消息",
+      "str_content": "这得看你申请学校的timeline",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1724134462,
+      "formatted_time": "2024-08-20 14:14:22",
+      "type": "文本消息",
+      "str_content": "申请的学校排名只看绩点，不看华科计算的加权成绩",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1724134502,
+      "formatted_time": "2024-08-20 14:15:02",
+      "type": "引用消息",
+      "str_content": "是这样的吗，那那个华科计算的结果是用来干嘛的嘞",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1724134507,
+      "formatted_time": "2024-08-20 14:15:07",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1724134710,
+      "formatted_time": "2024-08-20 14:18:30",
+      "type": "文本消息",
+      "str_content": "决定你能不能获得本校的推免资格",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1724134748,
+      "formatted_time": "2024-08-20 14:19:08",
+      "type": "文本消息",
+      "str_content": "好嘞，谢谢学长啦",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1724134754,
+      "formatted_time": "2024-08-20 14:19:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1724134815,
+      "formatted_time": "2024-08-20 14:20:15",
+      "type": "文本消息",
+      "str_content": "嗯嗯没事的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1738382301,
+      "formatted_time": "2025-02-01 11:58:21",
+      "type": "文本消息",
+      "str_content": "学长新年快乐呀，我想问一个事",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1738382305,
+      "formatted_time": "2025-02-01 11:58:25",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1738382321,
+      "formatted_time": "2025-02-01 11:58:41",
+      "type": "文本消息",
+      "str_content": "这种辅导保研的服务，学长你觉得会有很大帮助吗",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1738382335,
+      "formatted_time": "2025-02-01 11:58:55",
+      "type": "文本消息",
+      "str_content": "就是在信息差、文书包装或者辅导上",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1738382847,
+      "formatted_time": "2025-02-01 12:07:27",
+      "type": "文本消息",
+      "str_content": "其实用处不大，我当时主要就是买了文书和单营的几次mock，文书比较有用，面试主要还是看自己的运气，比较玄学\n信息差优势基本没有，因为信息现在都很公开了[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1738382894,
+      "formatted_time": "2025-02-01 12:08:14",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞，谢谢学长",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1738382900,
+      "formatted_time": "2025-02-01 12:08:20",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1761670180,
+      "formatted_time": "2025-10-29 00:49:40",
+      "type": "文本消息",
+      "str_content": "学长，我想问下你有陈俞先学姐的电话吗",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1761670336,
+      "formatted_time": "2025-10-29 00:52:16",
+      "type": "文本消息",
+      "str_content": "13991865240",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1761670342,
+      "formatted_time": "2025-10-29 00:52:22",
+      "type": "文本消息",
+      "str_content": "你没有她的微信吗？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1761670350,
+      "formatted_time": "2025-10-29 00:52:30",
+      "type": "文本消息",
+      "str_content": "我有她微信但没有电话",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1761670354,
+      "formatted_time": "2025-10-29 00:52:34",
+      "type": "引用消息",
+      "str_content": "谢谢！",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1761670358,
+      "formatted_time": "2025-10-29 00:52:38",
+      "type": "文本消息",
+      "str_content": "hhh没事没事",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1761670367,
+      "formatted_time": "2025-10-29 00:52:47",
+      "type": "文本消息",
+      "str_content": "怎么突然想起来要电话了[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1761670419,
+      "formatted_time": "2025-10-29 00:53:39",
+      "type": "文本消息",
+      "str_content": "这个得以后再解释嘞[坏笑]",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1761670441,
+      "formatted_time": "2025-10-29 00:54:01",
+      "type": "文本消息",
+      "str_content": "学长你和颜如玉还有杨宁还有联系吗",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1761670481,
+      "formatted_time": "2025-10-29 00:54:41",
+      "type": "文本消息",
+      "str_content": "hhh现在联系的比较少吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1761670507,
+      "formatted_time": "2025-10-29 00:55:07",
+      "type": "文本消息",
+      "str_content": "哦哦好嘞好嘞",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    },
+    {
+      "create_time": 1761670515,
+      "formatted_time": "2025-10-29 00:55:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "卫鑫培"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 97
+}

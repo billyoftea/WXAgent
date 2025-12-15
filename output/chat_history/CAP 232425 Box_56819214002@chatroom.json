@@ -1,0 +1,1755 @@
+{
+  "session_id": "56819214002@chatroom",
+  "session_name": "CAP 232425 Box",
+  "messages": [
+    {
+      "create_time": 1757501996,
+      "formatted_time": "2025-09-10 18:59:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 232425 Box",
+      "sender_wxid": "56819214002@chatroom"
+    },
+    {
+      "create_time": 1757502170,
+      "formatted_time": "2025-09-10 19:02:50",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 232425 Box",
+      "sender_wxid": "56819214002@chatroom"
+    },
+    {
+      "create_time": 1757502285,
+      "formatted_time": "2025-09-10 19:04:45",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 232425 Box",
+      "sender_wxid": "56819214002@chatroom"
+    },
+    {
+      "create_time": 1757502365,
+      "formatted_time": "2025-09-10 19:06:05",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 232425 Box",
+      "sender_wxid": "56819214002@chatroom"
+    },
+    {
+      "create_time": 1757502371,
+      "formatted_time": "2025-09-10 19:06:11",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 232425 Box",
+      "sender_wxid": "56819214002@chatroom"
+    },
+    {
+      "create_time": 1757502389,
+      "formatted_time": "2025-09-10 19:06:29",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 232425 Box",
+      "sender_wxid": "56819214002@chatroom"
+    },
+    {
+      "create_time": 1757502431,
+      "formatted_time": "2025-09-10 19:07:11",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 232425 Box",
+      "sender_wxid": "56819214002@chatroom"
+    },
+    {
+      "create_time": 1757502627,
+      "formatted_time": "2025-09-10 19:10:27",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 232425 Box",
+      "sender_wxid": "56819214002@chatroom"
+    },
+    {
+      "create_time": 1757502855,
+      "formatted_time": "2025-09-10 19:14:15",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 232425 Box",
+      "sender_wxid": "56819214002@chatroom"
+    },
+    {
+      "create_time": 1757503084,
+      "formatted_time": "2025-09-10 19:18:04",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 232425 Box",
+      "sender_wxid": "56819214002@chatroom"
+    },
+    {
+      "create_time": 1757504567,
+      "formatted_time": "2025-09-10 19:42:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757512460,
+      "formatted_time": "2025-09-10 21:54:20",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "徐政宇 金管 24",
+      "sender_wxid": "wxid_ijv1nnyh8pwl22"
+    },
+    {
+      "create_time": 1757512465,
+      "formatted_time": "2025-09-10 21:54:25",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1757512466,
+      "formatted_time": "2025-09-10 21:54:26",
+      "type": "文本消息",
+      "str_content": "我和我的诡秘美吗",
+      "is_send": 0,
+      "sender_name": "徐政宇 金管 24",
+      "sender_wxid": "wxid_ijv1nnyh8pwl22"
+    },
+    {
+      "create_time": 1757512470,
+      "formatted_time": "2025-09-10 21:54:30",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "25管理 王振轩",
+      "sender_wxid": "wxid_ol3zb6jnx3gj22"
+    },
+    {
+      "create_time": 1757512473,
+      "formatted_time": "2025-09-10 21:54:33",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757512475,
+      "formatted_time": "2025-09-10 21:54:35",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1757512475,
+      "formatted_time": "2025-09-10 21:54:35",
+      "type": "文本消息",
+      "str_content": "[强][强][强]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1757512477,
+      "formatted_time": "2025-09-10 21:54:37",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "SIA 24 姚睿",
+      "sender_wxid": "wxid_fnmgzqg6zpc522"
+    },
+    {
+      "create_time": 1757512477,
+      "formatted_time": "2025-09-10 21:54:37",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "连逸凡-中南财经政法大学-经双",
+      "sender_wxid": "wxid_yq0a5pnpjd3122"
+    },
+    {
+      "create_time": 1757512477,
+      "formatted_time": "2025-09-10 21:54:37",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "24 管理 陈玙",
+      "sender_wxid": "wxid_j0ytu43ne3n522"
+    },
+    {
+      "create_time": 1757512477,
+      "formatted_time": "2025-09-10 21:54:37",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1757512480,
+      "formatted_time": "2025-09-10 21:54:40",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "邱思语",
+      "sender_wxid": "wxid_29l0b6exq9cl12"
+    },
+    {
+      "create_time": 1757512482,
+      "formatted_time": "2025-09-10 21:54:42",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "资勤",
+      "sender_wxid": "wxid_q8jpfe313irs22"
+    },
+    {
+      "create_time": 1757512483,
+      "formatted_time": "2025-09-10 21:54:43",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "沈吉杭",
+      "sender_wxid": "wxid_6d0uvyosio8122"
+    },
+    {
+      "create_time": 1757512483,
+      "formatted_time": "2025-09-10 21:54:43",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "24-魏杰伦-管理",
+      "sender_wxid": "wxid_pbnkngtno21g22"
+    },
+    {
+      "create_time": 1757512484,
+      "formatted_time": "2025-09-10 21:54:44",
+      "type": "文本消息",
+      "str_content": "我也觉得",
+      "is_send": 0,
+      "sender_name": "徐政宇 金管 24",
+      "sender_wxid": "wxid_ijv1nnyh8pwl22"
+    },
+    {
+      "create_time": 1757512484,
+      "formatted_time": "2025-09-10 21:54:44",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1757512491,
+      "formatted_time": "2025-09-10 21:54:51",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "林欣宜 25 财新",
+      "sender_wxid": "wxid_wwvckt2s59kd22"
+    },
+    {
+      "create_time": 1757512493,
+      "formatted_time": "2025-09-10 21:54:53",
+      "type": "文本消息",
+      "str_content": "我感觉我的诡秘不如我",
+      "is_send": 0,
+      "sender_name": "徐政宇 金管 24",
+      "sender_wxid": "wxid_ijv1nnyh8pwl22"
+    },
+    {
+      "create_time": 1757512493,
+      "formatted_time": "2025-09-10 21:54:53",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "25国金管邹瑶",
+      "sender_wxid": "wxid_6erd74trxn1j22"
+    },
+    {
+      "create_time": 1757512498,
+      "formatted_time": "2025-09-10 21:54:58",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757512502,
+      "formatted_time": "2025-09-10 21:55:02",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757512502,
+      "formatted_time": "2025-09-10 21:55:02",
+      "type": "文本消息",
+      "str_content": "slfnglsinh:\n我们还堵在路上",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757512502,
+      "formatted_time": "2025-09-10 21:55:02",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "晚钟",
+      "sender_wxid": "wxid_g4qs5rcl4a1322"
+    },
+    {
+      "create_time": 1757512504,
+      "formatted_time": "2025-09-10 21:55:04",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n美滴嘟呀",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757512506,
+      "formatted_time": "2025-09-10 21:55:06",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "超人不会飞",
+      "sender_wxid": "wxid_k3b27cbxb01622"
+    },
+    {
+      "create_time": 1757512509,
+      "formatted_time": "2025-09-10 21:55:09",
+      "type": "文本消息",
+      "str_content": "ljq135201314:\n美",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757512515,
+      "formatted_time": "2025-09-10 21:55:15",
+      "type": "文本消息",
+      "str_content": "这是什么大冒险吗",
+      "is_send": 0,
+      "sender_name": "felix",
+      "sender_wxid": "wxid_aqfr5ubx456311"
+    },
+    {
+      "create_time": 1757512529,
+      "formatted_time": "2025-09-10 21:55:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "felix",
+      "sender_wxid": "wxid_aqfr5ubx456311"
+    },
+    {
+      "create_time": 1757512542,
+      "formatted_time": "2025-09-10 21:55:42",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "25-财新-张婉玉",
+      "sender_wxid": "wxid_qu2ysg6qp7do22"
+    },
+    {
+      "create_time": 1757512543,
+      "formatted_time": "2025-09-10 21:55:43",
+      "type": "文本消息",
+      "str_content": "美",
+      "is_send": 0,
+      "sender_name": "经济 林千山",
+      "sender_wxid": "wxid_2vi7friyk49u22"
+    },
+    {
+      "create_time": 1757512544,
+      "formatted_time": "2025-09-10 21:55:44",
+      "type": "文本消息",
+      "str_content": "猜猜谁出的[囧]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757512553,
+      "formatted_time": "2025-09-10 21:55:53",
+      "type": "文本消息",
+      "str_content": "zcc",
+      "is_send": 0,
+      "sender_name": "felix",
+      "sender_wxid": "wxid_aqfr5ubx456311"
+    },
+    {
+      "create_time": 1757512564,
+      "formatted_time": "2025-09-10 21:56:04",
+      "type": "文本消息",
+      "str_content": "zcc一捋头发",
+      "is_send": 0,
+      "sender_name": "felix",
+      "sender_wxid": "wxid_aqfr5ubx456311"
+    },
+    {
+      "create_time": 1757512570,
+      "formatted_time": "2025-09-10 21:56:10",
+      "type": "文本消息",
+      "str_content": "鬼点子就有了",
+      "is_send": 0,
+      "sender_name": "felix",
+      "sender_wxid": "wxid_aqfr5ubx456311"
+    },
+    {
+      "create_time": 1757512584,
+      "formatted_time": "2025-09-10 21:56:24",
+      "type": "文本消息",
+      "str_content": "美！",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1757512586,
+      "formatted_time": "2025-09-10 21:56:26",
+      "type": "文本消息",
+      "str_content": "[得意][得意][得意][得意]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757512589,
+      "formatted_time": "2025-09-10 21:56:29",
+      "type": "文本消息",
+      "str_content": "太准了",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757512647,
+      "formatted_time": "2025-09-10 21:57:27",
+      "type": "引用消息",
+      "str_content": "哥哥我美吗",
+      "is_send": 0,
+      "sender_name": "徐政宇 金管 24",
+      "sender_wxid": "wxid_ijv1nnyh8pwl22"
+    },
+    {
+      "create_time": 1757512660,
+      "formatted_time": "2025-09-10 21:57:40",
+      "type": "文本消息",
+      "str_content": "太美了",
+      "is_send": 0,
+      "sender_name": "felix",
+      "sender_wxid": "wxid_aqfr5ubx456311"
+    },
+    {
+      "create_time": 1757512668,
+      "formatted_time": "2025-09-10 21:57:48",
+      "type": "文本消息",
+      "str_content": "我的mentee最美",
+      "is_send": 0,
+      "sender_name": "felix",
+      "sender_wxid": "wxid_aqfr5ubx456311"
+    },
+    {
+      "create_time": 1757512672,
+      "formatted_time": "2025-09-10 21:57:52",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "felix",
+      "sender_wxid": "wxid_aqfr5ubx456311"
+    },
+    {
+      "create_time": 1757512701,
+      "formatted_time": "2025-09-10 21:58:21",
+      "type": "文本消息",
+      "str_content": "谁要对xzy发起奇袭[勾引]",
+      "is_send": 0,
+      "sender_name": "felix",
+      "sender_wxid": "wxid_aqfr5ubx456311"
+    },
+    {
+      "create_time": 1757512863,
+      "formatted_time": "2025-09-10 22:01:03",
+      "type": "文本消息",
+      "str_content": "tlgg准备好了",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757512997,
+      "formatted_time": "2025-09-10 22:03:17",
+      "type": "引用消息",
+      "str_content": "咚咚 咚咚",
+      "is_send": 0
+    },
+    {
+      "create_time": 1757513223,
+      "formatted_time": "2025-09-10 22:07:03",
+      "type": "文本消息",
+      "str_content": "来奇袭了",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1757513224,
+      "formatted_time": "2025-09-10 22:07:04",
+      "type": "引用消息",
+      "str_content": "mt你已经很久没见我了",
+      "is_send": 0,
+      "sender_name": "徐政宇 金管 24",
+      "sender_wxid": "wxid_ijv1nnyh8pwl22"
+    },
+    {
+      "create_time": 1757513225,
+      "formatted_time": "2025-09-10 22:07:05",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐政宇 金管 24",
+      "sender_wxid": "wxid_ijv1nnyh8pwl22"
+    },
+    {
+      "create_time": 1757513229,
+      "formatted_time": "2025-09-10 22:07:09",
+      "type": "文本消息",
+      "str_content": "你什么时候和我吃饭",
+      "is_send": 0,
+      "sender_name": "徐政宇 金管 24",
+      "sender_wxid": "wxid_ijv1nnyh8pwl22"
+    },
+    {
+      "create_time": 1757513358,
+      "formatted_time": "2025-09-10 22:09:18",
+      "type": "文本消息",
+      "str_content": "大家快看吴潇同朋友圈",
+      "is_send": 0,
+      "sender_name": "徐政宇 金管 24",
+      "sender_wxid": "wxid_ijv1nnyh8pwl22"
+    },
+    {
+      "create_time": 1757513365,
+      "formatted_time": "2025-09-10 22:09:25",
+      "type": "引用消息",
+      "str_content": "😧",
+      "is_send": 0,
+      "sender_name": "环能徐子洋",
+      "sender_wxid": "wxid_m4dib8jd5go422"
+    },
+    {
+      "create_time": 1757513368,
+      "formatted_time": "2025-09-10 22:09:28",
+      "type": "引用消息",
+      "str_content": "强迫小朋友说假话",
+      "is_send": 0,
+      "sender_name": "林诗堙 24 财新",
+      "sender_wxid": "wxid_o47ri5tn02d522"
+    },
+    {
+      "create_time": 1757513371,
+      "formatted_time": "2025-09-10 22:09:31",
+      "type": "文本消息",
+      "str_content": "点赞",
+      "is_send": 0,
+      "sender_name": "超人不会飞",
+      "sender_wxid": "wxid_k3b27cbxb01622"
+    },
+    {
+      "create_time": 1758184207,
+      "formatted_time": "2025-09-18 16:30:07",
+      "type": "文本消息",
+      "str_content": "@All 家人们！咱们第一次破冰时间拟定于【9.23周二晚19:30】，具体安排之后【联络部】将进行通知！[哇][哇][哇][得意][得意][得意]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1758184243,
+      "formatted_time": "2025-09-18 16:30:43",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1758184273,
+      "formatted_time": "2025-09-18 16:31:13",
+      "type": "文本消息",
+      "str_content": "开吃开玩[哇][哇][哇]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1758184442,
+      "formatted_time": "2025-09-18 16:34:02",
+      "type": "文本消息",
+      "str_content": "[哇]",
+      "is_send": 0,
+      "sender_name": "超人不会飞",
+      "sender_wxid": "wxid_k3b27cbxb01622"
+    },
+    {
+      "create_time": 1758184995,
+      "formatted_time": "2025-09-18 16:43:15",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758193889,
+      "formatted_time": "2025-09-18 19:11:29",
+      "type": "文本消息",
+      "str_content": "slfnglsinh:\n大家好！我们的破冰活动将在9月23日（周二晚）19:30-22:00举行！在活动开始时，我们将请每一位25级新CAPer们进行不超过1min的自我介绍！\n\n因此我们需要大家制作一份属于自己的专属PPT！同时还需要大家将PPT中的自我介绍文字部分的精简版放在第二页PPT中（用于宣传破冰活动的推送）。\n\n辛苦大家在完成之后将PPT上传到问卷星中！DDL是周六晚10点，感谢大家！!!",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758193906,
+      "formatted_time": "2025-09-18 19:11:46",
+      "type": "文件消息",
+      "str_content": "自我介绍PPT模板.pptx",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758193922,
+      "formatted_time": "2025-09-18 19:12:02",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758193922,
+      "formatted_time": "2025-09-18 19:12:02",
+      "type": "文本消息",
+      "str_content": "支持",
+      "is_send": 0,
+      "sender_name": "felix",
+      "sender_wxid": "wxid_aqfr5ubx456311"
+    },
+    {
+      "create_time": 1758193924,
+      "formatted_time": "2025-09-18 19:12:04",
+      "type": "文本消息",
+      "str_content": "@All 25级新caper们～～～想听你们的自我介绍[鼓掌][鼓掌]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1758194028,
+      "formatted_time": "2025-09-18 19:13:48",
+      "type": "文本消息",
+      "str_content": "大支持",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1758279390,
+      "formatted_time": "2025-09-19 18:56:30",
+      "type": "引用消息",
+      "str_content": "我来捞一下，大家别忘了哦～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758279395,
+      "formatted_time": "2025-09-19 18:56:35",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758279403,
+      "formatted_time": "2025-09-19 18:56:43",
+      "type": "文本消息",
+      "str_content": "@All 嘿嘿",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1758279412,
+      "formatted_time": "2025-09-19 18:56:52",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758279412,
+      "formatted_time": "2025-09-19 18:56:52",
+      "type": "文本消息",
+      "str_content": "slfnglsinh:\nDDL是周六晚10点",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758280071,
+      "formatted_time": "2025-09-19 19:07:51",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1758280096,
+      "formatted_time": "2025-09-19 19:08:16",
+      "type": "文本消息",
+      "str_content": "@All 大家可以选择自己的偏好呀[可怜][可怜]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1758280130,
+      "formatted_time": "2025-09-19 19:08:50",
+      "type": "文本消息",
+      "str_content": "大家好，现初步统计一下大家喜欢的零食披萨口味等等[哇]，快来填写哦！",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1758280152,
+      "formatted_time": "2025-09-19 19:09:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "戚洋 13316954600",
+      "sender_wxid": "wxid_ufly3z1yjyde11"
+    },
+    {
+      "create_time": 1758280169,
+      "formatted_time": "2025-09-19 19:09:29",
+      "type": "文本消息",
+      "str_content": "也太贴心了🥹",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1758280182,
+      "formatted_time": "2025-09-19 19:09:42",
+      "type": "文本消息",
+      "str_content": "也太贴心了🥹",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1758280186,
+      "formatted_time": "2025-09-19 19:09:46",
+      "type": "文本消息",
+      "str_content": "也太贴心了🥹",
+      "is_send": 0,
+      "sender_name": "环能徐子洋",
+      "sender_wxid": "wxid_m4dib8jd5go422"
+    },
+    {
+      "create_time": 1758280253,
+      "formatted_time": "2025-09-19 19:10:53",
+      "type": "文本消息",
+      "str_content": "也太贴心了🥹",
+      "is_send": 0,
+      "sender_name": "吴俊杰",
+      "sender_wxid": "wxid_jv24v6cnkgaq12"
+    },
+    {
+      "create_time": 1758280270,
+      "formatted_time": "2025-09-19 19:11:10",
+      "type": "文本消息",
+      "str_content": "也太贴心了🥹",
+      "is_send": 0,
+      "sender_name": "戚洋 13316954600",
+      "sender_wxid": "wxid_ufly3z1yjyde11"
+    },
+    {
+      "create_time": 1758280292,
+      "formatted_time": "2025-09-19 19:11:32",
+      "type": "文本消息",
+      "str_content": "也太贴心了🥹",
+      "is_send": 0,
+      "sender_name": "Ciao",
+      "sender_wxid": "wxid_919wqrgw070q22"
+    },
+    {
+      "create_time": 1758281442,
+      "formatted_time": "2025-09-19 19:30:42",
+      "type": "文本消息",
+      "str_content": "也太贴心了🥹",
+      "is_send": 0,
+      "sender_name": "felix",
+      "sender_wxid": "wxid_aqfr5ubx456311"
+    },
+    {
+      "create_time": 1758281462,
+      "formatted_time": "2025-09-19 19:31:02",
+      "type": "文本消息",
+      "str_content": "也太贴心了🥹",
+      "is_send": 0,
+      "sender_name": "24 管理 陈玙",
+      "sender_wxid": "wxid_j0ytu43ne3n522"
+    },
+    {
+      "create_time": 1758281496,
+      "formatted_time": "2025-09-19 19:31:36",
+      "type": "文本消息",
+      "str_content": "也太贴心了🥹",
+      "is_send": 0,
+      "sender_name": "资勤",
+      "sender_wxid": "wxid_q8jpfe313irs22"
+    },
+    {
+      "create_time": 1758281580,
+      "formatted_time": "2025-09-19 19:33:00",
+      "type": "文本消息",
+      "str_content": "也太贴心了🥹",
+      "is_send": 0,
+      "sender_name": "25-财新-张婉玉",
+      "sender_wxid": "wxid_qu2ysg6qp7do22"
+    },
+    {
+      "create_time": 1758334887,
+      "formatted_time": "2025-09-20 10:21:27",
+      "type": "引用消息",
+      "str_content": "早上好，捞捞昨晚的问卷，大家记得填呀",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1758334890,
+      "formatted_time": "2025-09-20 10:21:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1758503129,
+      "formatted_time": "2025-09-22 09:05:29",
+      "type": "文本消息",
+      "str_content": "📢📢破冰倒计时一天❗️❗️\n【时间】9.23（周二）晚\n19:30-22:00（最晚不超过22:30）\n【地点】汇丰大楼323教室\n【拟定流程】隆重开场-成员自我介绍- Free Talk-游戏环节-会长团的祝福-精美大合照\n\n原则上所有25级CAPer们都要参加，如果确实有不能参加的情况，记得私聊我说明情况～～～@All",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1758504764,
+      "formatted_time": "2025-09-22 09:32:44",
+      "type": "文本消息",
+      "str_content": "slfnglsinh:\n期待住了！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758504766,
+      "formatted_time": "2025-09-22 09:32:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758504785,
+      "formatted_time": "2025-09-22 09:33:05",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1758504869,
+      "formatted_time": "2025-09-22 09:34:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1758504953,
+      "formatted_time": "2025-09-22 09:35:53",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1758532134,
+      "formatted_time": "2025-09-22 17:08:54",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n前线内幕消息！今晚的温氏宣讲，伴手礼超级超级超级丰盛！！！还有零食大礼包！！！\n（率先跟CAPer分享！！！大家都快来薅羊毛嘿嘿（bushi @所有人",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758532144,
+      "formatted_time": "2025-09-22 17:09:04",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758532150,
+      "formatted_time": "2025-09-22 17:09:10",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758532200,
+      "formatted_time": "2025-09-22 17:10:00",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1758532421,
+      "formatted_time": "2025-09-22 17:13:41",
+      "type": "文本消息",
+      "str_content": "恨不在深圳！",
+      "is_send": 0,
+      "sender_name": "25国金管邹瑶",
+      "sender_wxid": "wxid_6erd74trxn1j22"
+    },
+    {
+      "create_time": 1758532529,
+      "formatted_time": "2025-09-22 17:15:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1758533162,
+      "formatted_time": "2025-09-22 17:26:02",
+      "type": "引用消息",
+      "str_content": "白色盒子是什么呀？",
+      "is_send": 0,
+      "sender_name": "MMFF",
+      "sender_wxid": "wxid_0k0kds2e7nj722"
+    },
+    {
+      "create_time": 1758533185,
+      "formatted_time": "2025-09-22 17:26:25",
+      "type": "文本消息",
+      "str_content": "[害羞]你来看看",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1758533186,
+      "formatted_time": "2025-09-22 17:26:26",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1758533204,
+      "formatted_time": "2025-09-22 17:26:44",
+      "type": "文本消息",
+      "str_content": "你来看看",
+      "is_send": 0,
+      "sender_name": "felix",
+      "sender_wxid": "wxid_aqfr5ubx456311"
+    },
+    {
+      "create_time": 1758533258,
+      "formatted_time": "2025-09-22 17:27:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "MMFF",
+      "sender_wxid": "wxid_0k0kds2e7nj722"
+    },
+    {
+      "create_time": 1758535351,
+      "formatted_time": "2025-09-22 18:02:31",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1758535354,
+      "formatted_time": "2025-09-22 18:02:34",
+      "type": "文本消息",
+      "str_content": "这个猪好可爱",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1758535636,
+      "formatted_time": "2025-09-22 18:07:16",
+      "type": "文本消息",
+      "str_content": "@所有人 家人们 因为台风天，收到老师通知取消23-26日所有集体活动[流泪]所以我们的明晚的团建活动先推迟，具体日期根据情况再通知大家[流泪][流泪]好饭不怕晚，大家燥候～～",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1758539080,
+      "formatted_time": "2025-09-22 19:04:40",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1758539083,
+      "formatted_time": "2025-09-22 19:04:43",
+      "type": "文本消息",
+      "str_content": "超多人！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1758539141,
+      "formatted_time": "2025-09-22 19:05:41",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "CAP 232425 Box",
+      "sender_wxid": "56819214002@chatroom"
+    },
+    {
+      "create_time": 1758539250,
+      "formatted_time": "2025-09-22 19:07:30",
+      "type": "文本消息",
+      "str_content": "特别给力的四位bb[流泪][流泪] 辛苦啦！！@25管理王振轩 @听雨 @25管双 金思妤 @滑滑鱼",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1758541119,
+      "formatted_time": "2025-09-22 19:38:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "MMFF",
+      "sender_wxid": "wxid_0k0kds2e7nj722"
+    },
+    {
+      "create_time": 1758541127,
+      "formatted_time": "2025-09-22 19:38:47",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n真的好棒！！！！！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758541136,
+      "formatted_time": "2025-09-22 19:38:56",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n辛苦啦~~~",
+      "is_send": 0
+    },
+    {
+      "create_time": 1759040871,
+      "formatted_time": "2025-09-28 14:27:51",
+      "type": "图文消息",
+      "str_content": "【重要通知】第十六届“工行杯”全国大学生金融科技创新大赛报名倒计时！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1759040893,
+      "formatted_time": "2025-09-28 14:28:13",
+      "type": "文本消息",
+      "str_content": "@所有人 由工商银行主办的【第十六届“工行杯”全国大学生金融科技创新大赛】开始报名啦！\n\n我们社团之前有学长参与过，微调了一下自己以前的项目拿去参赛，最后获奖拿到了最新的华为平板电脑[色] 学长反馈说这个获奖率超高，基本上项目完整就能够评优获得奖品! 感兴趣的bb们可以多多参与呀!! 尤其是25级的CAPer们可以多多组队[害羞]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1759040937,
+      "formatted_time": "2025-09-28 14:28:57",
+      "type": "文本消息",
+      "str_content": "[强][强]",
+      "is_send": 0,
+      "sender_name": "felix",
+      "sender_wxid": "wxid_aqfr5ubx456311"
+    },
+    {
+      "create_time": 1759040942,
+      "formatted_time": "2025-09-28 14:29:02",
+      "type": "文本消息",
+      "str_content": "快来参加",
+      "is_send": 0,
+      "sender_name": "felix",
+      "sender_wxid": "wxid_aqfr5ubx456311"
+    },
+    {
+      "create_time": 1759040972,
+      "formatted_time": "2025-09-28 14:29:32",
+      "type": "文本消息",
+      "str_content": "[色][亲亲]",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1759815691,
+      "formatted_time": "2025-10-07 13:41:31",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1759815767,
+      "formatted_time": "2025-10-07 13:42:47",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1759815831,
+      "formatted_time": "2025-10-07 13:43:51",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加",
+      "is_send": 0,
+      "sender_name": "林诗堙 24 财新",
+      "sender_wxid": "wxid_o47ri5tn02d522"
+    },
+    {
+      "create_time": 1759816237,
+      "formatted_time": "2025-10-07 13:50:37",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加",
+      "is_send": 0,
+      "sender_name": "赖琳琳 25管理",
+      "sender_wxid": "wxid_0hkxgadsjlzg22"
+    },
+    {
+      "create_time": 1759816729,
+      "formatted_time": "2025-10-07 13:58:49",
+      "type": "文本消息",
+      "str_content": "第一次团建终于终于终于终于来了！！！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1759816769,
+      "formatted_time": "2025-10-07 13:59:29",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1759820942,
+      "formatted_time": "2025-10-07 15:09:02",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加",
+      "is_send": 0,
+      "sender_name": "徐政宇 金管 24",
+      "sender_wxid": "wxid_ijv1nnyh8pwl22"
+    },
+    {
+      "create_time": 1759821213,
+      "formatted_time": "2025-10-07 15:13:33",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加",
+      "is_send": 0
+    },
+    {
+      "create_time": 1759821236,
+      "formatted_time": "2025-10-07 15:13:56",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加",
+      "is_send": 0,
+      "sender_name": "超人不会飞",
+      "sender_wxid": "wxid_k3b27cbxb01622"
+    },
+    {
+      "create_time": 1759821280,
+      "formatted_time": "2025-10-07 15:14:40",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加",
+      "is_send": 0,
+      "sender_name": "李心蔚",
+      "sender_wxid": "wxid_1ucufguxfyjn22"
+    },
+    {
+      "create_time": 1759821284,
+      "formatted_time": "2025-10-07 15:14:44",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加",
+      "is_send": 0,
+      "sender_name": "赛林娜-对经贸-数量金融",
+      "sender_wxid": "wxid_bq7rwz31z0ox22"
+    },
+    {
+      "create_time": 1759821313,
+      "formatted_time": "2025-10-07 15:15:13",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加",
+      "is_send": 0,
+      "sender_name": "25-杨泽凯-金管",
+      "sender_wxid": "wxid_zq70dw4kqy7v22"
+    },
+    {
+      "create_time": 1759821358,
+      "formatted_time": "2025-10-07 15:15:58",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加",
+      "is_send": 0,
+      "sender_name": "邱思语",
+      "sender_wxid": "wxid_29l0b6exq9cl12"
+    },
+    {
+      "create_time": 1759821414,
+      "formatted_time": "2025-10-07 15:16:54",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加",
+      "is_send": 0,
+      "sender_name": "许育豪 25 经济",
+      "sender_wxid": "wxid_yfrvwz3bus522"
+    },
+    {
+      "create_time": 1759821434,
+      "formatted_time": "2025-10-07 15:17:14",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加",
+      "is_send": 0,
+      "sender_name": "经济 林千山",
+      "sender_wxid": "wxid_2vi7friyk49u22"
+    },
+    {
+      "create_time": 1759821477,
+      "formatted_time": "2025-10-07 15:17:57",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1759821566,
+      "formatted_time": "2025-10-07 15:19:26",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到",
+      "is_send": 0,
+      "sender_name": "25管理 姚雨辰",
+      "sender_wxid": "wxid_qo2tnfj27jf322"
+    },
+    {
+      "create_time": 1759821689,
+      "formatted_time": "2025-10-07 15:21:29",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加",
+      "is_send": 0,
+      "sender_name": "25管理王俊骁",
+      "sender_wxid": "wxid_xjicn6b50utq22"
+    },
+    {
+      "create_time": 1759821695,
+      "formatted_time": "2025-10-07 15:21:35",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加",
+      "is_send": 0,
+      "sender_name": "祝焱炎",
+      "sender_wxid": "wxid_wc4v033wkswb11"
+    },
+    {
+      "create_time": 1759821752,
+      "formatted_time": "2025-10-07 15:22:32",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 金思妤 准时参加",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1759821879,
+      "formatted_time": "2025-10-07 15:24:39",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到",
+      "is_send": 0,
+      "sender_name": "环能徐子洋",
+      "sender_wxid": "wxid_m4dib8jd5go422"
+    },
+    {
+      "create_time": 1759821914,
+      "formatted_time": "2025-10-07 15:25:14",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加",
+      "is_send": 0,
+      "sender_name": "戚洋 13316954600",
+      "sender_wxid": "wxid_ufly3z1yjyde11"
+    },
+    {
+      "create_time": 1759822045,
+      "formatted_time": "2025-10-07 15:27:25",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加",
+      "is_send": 0,
+      "sender_name": "吴承楷",
+      "sender_wxid": "wxid_sqlzudtk2mdb22"
+    },
+    {
+      "create_time": 1759823120,
+      "formatted_time": "2025-10-07 15:45:20",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加",
+      "is_send": 0
+    },
+    {
+      "create_time": 1759823148,
+      "formatted_time": "2025-10-07 15:45:48",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1759823164,
+      "formatted_time": "2025-10-07 15:46:04",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加",
+      "is_send": 0,
+      "sender_name": "25-财新-张婉玉",
+      "sender_wxid": "wxid_qu2ysg6qp7do22"
+    },
+    {
+      "create_time": 1759823219,
+      "formatted_time": "2025-10-07 15:46:59",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加",
+      "is_send": 0,
+      "sender_name": "早杨欣梓-中央民族大学-数量与金融",
+      "sender_wxid": "wxid_b2ficir2zy7i21"
+    },
+    {
+      "create_time": 1759823299,
+      "formatted_time": "2025-10-07 15:48:19",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加",
+      "is_send": 0,
+      "sender_name": "王昕妮",
+      "sender_wxid": "wxid_x8fxrw2yu97s22"
+    },
+    {
+      "create_time": 1759824273,
+      "formatted_time": "2025-10-07 16:04:33",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加",
+      "is_send": 0,
+      "sender_name": "资勤",
+      "sender_wxid": "wxid_q8jpfe313irs22"
+    },
+    {
+      "create_time": 1759824766,
+      "formatted_time": "2025-10-07 16:12:46",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加",
+      "is_send": 0,
+      "sender_name": "25管理 王振轩",
+      "sender_wxid": "wxid_ol3zb6jnx3gj22"
+    },
+    {
+      "create_time": 1759825347,
+      "formatted_time": "2025-10-07 16:22:27",
+      "type": "文本消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加",
+      "is_send": 0,
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1759825493,
+      "formatted_time": "2025-10-07 16:24:53",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加",
+      "is_send": 0,
+      "sender_name": "林欣宜 25 财新",
+      "sender_wxid": "wxid_wwvckt2s59kd22"
+    },
+    {
+      "create_time": 1759826678,
+      "formatted_time": "2025-10-07 16:44:38",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 20:30到",
+      "is_send": 0,
+      "sender_name": "沈吉杭",
+      "sender_wxid": "wxid_6d0uvyosio8122"
+    },
+    {
+      "create_time": 1759826808,
+      "formatted_time": "2025-10-07 16:46:48",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1759826830,
+      "formatted_time": "2025-10-07 16:47:10",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 20:30到\n33. 连逸凡 21:00到",
+      "is_send": 0,
+      "sender_name": "连逸凡-中南财经政法大学-经双",
+      "sender_wxid": "wxid_yq0a5pnpjd3122"
+    },
+    {
+      "create_time": 1759826917,
+      "formatted_time": "2025-10-07 16:48:37",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 21:00到\n33. 连逸凡 21:00到",
+      "is_send": 0,
+      "sender_name": "沈吉杭",
+      "sender_wxid": "wxid_6d0uvyosio8122"
+    },
+    {
+      "create_time": 1759827776,
+      "formatted_time": "2025-10-07 17:02:56",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 21:00到\n33. 连逸凡 21:00到\n34. 罗珺文 尽量到",
+      "is_send": 0,
+      "sender_name": "罗珺文",
+      "sender_wxid": "wxid_n90k7y3x80ws22"
+    },
+    {
+      "create_time": 1759828350,
+      "formatted_time": "2025-10-07 17:12:30",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 21:00到\n33. 连逸凡 21:00到\n34. 罗珺文 尽量到\n35. 张旭鸽 20:00到",
+      "is_send": 0,
+      "sender_name": "ZXG",
+      "sender_wxid": "wxid_a17su0nul2rv22"
+    },
+    {
+      "create_time": 1759833580,
+      "formatted_time": "2025-10-07 18:39:40",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 21:00到\n33. 连逸凡 21:00到\n34. 罗珺文 尽量到\n35. 张旭鸽 20:00到\n36. 彭芊韵 准时参加",
+      "is_send": 0,
+      "sender_name": "彭芊韵 25 财新",
+      "sender_wxid": "wxid_em6dwlaut2rc12"
+    },
+    {
+      "create_time": 1759833862,
+      "formatted_time": "2025-10-07 18:44:22",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 21:00到\n33. 连逸凡 21:00到\n34. 罗珺文 尽量到\n35. 张旭鸽 20:00到\n36. 彭芊韵 准时参加\n37. 郭思琪 准时参加",
+      "is_send": 0,
+      "sender_name": "郭思琪 25 管理",
+      "sender_wxid": "wxid_vdihcxa383pg22"
+    },
+    {
+      "create_time": 1759847258,
+      "formatted_time": "2025-10-07 22:27:38",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 21:00到\n33. 连逸凡 21:00到\n34. 罗珺文 尽量到\n35. 张旭鸽 20:00到\n36. 彭芊韵 准时参加\n37. 郭思琪 准时参加\n38. 罗宇轩 准时参加",
+      "is_send": 0,
+      "sender_name": "罗宇轩",
+      "sender_wxid": "wxid_abnt9bh3h74x22"
+    },
+    {
+      "create_time": 1759847306,
+      "formatted_time": "2025-10-07 22:28:26",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 21:00到\n33. 连逸凡 21:00到\n34. 罗珺文 尽量到\n35. 张旭鸽 20:00到\n36. 彭芊韵 准时参加\n37. 郭思琪 准时参加\n38. 罗宇轩 准时参加\n39. 吴俊杰 准时参加",
+      "is_send": 0,
+      "sender_name": "吴俊杰",
+      "sender_wxid": "wxid_jv24v6cnkgaq12"
+    },
+    {
+      "create_time": 1759850130,
+      "formatted_time": "2025-10-07 23:15:30",
+      "type": "文本消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 准时参加\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 21:00到\n33. 连逸凡 21:00到\n34. 罗珺文 尽量到\n35. 张旭鸽 20:00到\n36. 彭芊韵 准时参加\n37. 郭思琪 准时参加\n38. 罗宇轩 准时参加\n39. 吴俊杰 准时参加\n40. 曾倩 20:00到",
+      "is_send": 0,
+      "sender_name": "包",
+      "sender_wxid": "wxid_jojvvaqdysnb22"
+    },
+    {
+      "create_time": 1759895319,
+      "formatted_time": "2025-10-08 11:48:39",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 准时参加\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 21:00到\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 21:00到\n33. 连逸凡 21:00到\n34. 罗珺文 尽量到\n35. 张旭鸽 20:00到\n36. 彭芊韵 准时参加\n37. 郭思琪 准时参加\n38. 罗宇轩 准时参加\n39. 吴俊杰 准时参加\n40. 曾倩 20:00到",
+      "is_send": 0,
+      "sender_name": "金思妤 山东大学 管双",
+      "sender_wxid": "wxid_ogja0hs8ex422"
+    },
+    {
+      "create_time": 1759895531,
+      "formatted_time": "2025-10-08 11:52:11",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 20:30到\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 21:00到\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 21:00到\n33. 连逸凡 21:00到\n34. 罗珺文 尽量到\n35. 张旭鸽 20:00到\n36. 彭芊韵 准时参加\n37. 郭思琪 准时参加\n38. 罗宇轩 准时参加\n39. 吴俊杰 准时参加\n40. 曾倩 20:00到",
+      "is_send": 0,
+      "sender_name": "管双 郑沁嘉",
+      "sender_wxid": "wxid_wysat8o3ipmo12"
+    },
+    {
+      "create_time": 1759895917,
+      "formatted_time": "2025-10-08 11:58:37",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 20:30到\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 21:00到\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 21:00到\n33. 连逸凡 21:00到\n34. 罗珺文 尽量到\n35. 张旭鸽 20:00到\n36. 彭芊韵 准时参加\n37. 郭思琪 准时参加\n38. 罗宇轩 准时参加\n39. 吴俊杰 准时参加\n40. 曾倩 20:00到\n41. 邬瑞媛 21：00到",
+      "is_send": 0,
+      "sender_name": "邬瑞媛 中财+金管",
+      "sender_wxid": "wxid_u8azrfiaektu22"
+    },
+    {
+      "create_time": 1759962962,
+      "formatted_time": "2025-10-09 06:36:02",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 20:30到\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 21:00到\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 21:00到\n33. 连逸凡 21:00到\n34. 罗珺文 尽量到\n35. 张旭鸽 20:00到\n36. 彭芊韵 准时参加\n37. 郭思琪 准时参加\n38. 罗宇轩 准时参加\n39. 吴俊杰 准时参加\n40. 曾倩 20:00到\n41. 邬瑞媛 21：00到\n42. 潘禹伯 尽量准时参加",
+      "is_send": 0,
+      "sender_name": "潘禹伯",
+      "sender_wxid": "wxid_vm19qo0qrnpg22"
+    },
+    {
+      "create_time": 1759984942,
+      "formatted_time": "2025-10-09 12:42:22",
+      "type": "接龙消息",
+      "str_content": "#Group Note\n@All 家人们，我们的第一次破冰团建预计在本周五10.10晚上19:30-22:00在汇丰大楼323教室进行～～～～\n\n1. 韩一赫 准时参加\n2. 赵楚楚 准时参加\n3. 林诗堙 准时参加\n4. 赖琳琳 准时参加\n5. 赵彤 准时参加\n6. 徐政宇 准时参加\n7. 赵梓涵 准时参加\n8. 蒋雨露 准时参加\n9. 李心蔚 准时参加\n10. 赛林娜 准时参加\n11. 杨泽凯 准时参加\n12. 邱思语 准时参加\n13. 许育豪 准时参加\n14. 林千山 准时参加\n15. 郑沁嘉 20:30到\n16. 姚雨辰 21:00到\n17. 王俊骁 准时参加\n18. 祝焱炎 准时参加\n19. 金思妤 21:00到\n20. 徐子洋 21：00到\n21. 戚洋 准时参加\n22. 吴承楷 准时参加\n23. 咕噜咕噜毛线球大王 准时参加\n24. 徐昂 准时参加\n25. 张婉玉 准时参加\n26. 早杨欣梓 准时参加\n27. 王昕妮 准时参加\n28. 资勤 准时参加\n29. 王振轩 准时参加\n30. 何宇淳 尽量准时参加\n31. 林欣宜 准时参加\n32. 沈吉杭 21:00到\n33. 连逸凡 21:00到\n34. 罗珺文 尽量到\n35. 张旭鸽 20:00到\n36. 彭芊韵 准时参加\n37. 郭思琪 准时参加\n38. 罗宇轩 准时参加\n39. 吴俊杰 准时参加\n40. 曾倩 20:00到\n41. 邬瑞媛 21：00到\n42. 潘禹伯 尽量准时参加\n43. 周宇翔 可能晚到",
+      "is_send": 0,
+      "sender_name": "宇宙炮仗",
+      "sender_wxid": "wxid_o45qqi9z40si12"
+    },
+    {
+      "create_time": 1760085824,
+      "formatted_time": "2025-10-10 16:43:44",
+      "type": "文本消息",
+      "str_content": "@All 今晚19:30 汇丰大楼323教室不见不散呀～～～",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1760085849,
+      "formatted_time": "2025-10-10 16:44:09",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "戚洋 13316954600",
+      "sender_wxid": "wxid_ufly3z1yjyde11"
+    },
+    {
+      "create_time": 1760085964,
+      "formatted_time": "2025-10-10 16:46:04",
+      "type": "文本消息",
+      "str_content": "见面了！！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1760086095,
+      "formatted_time": "2025-10-10 16:48:15",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n尊嘟很期待呀！！！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760086213,
+      "formatted_time": "2025-10-10 16:50:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760091246,
+      "formatted_time": "2025-10-10 18:14:06",
+      "type": "文本消息",
+      "str_content": "现场有超多好吃的 披萨 炸鸡 山姆 饮料…..[色][色][色]",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1760091278,
+      "formatted_time": "2025-10-10 18:14:38",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n下周三下午2点，学院举行本年度秋季招聘双选会，目前已确认参会的企业达80余家，欢迎同学们届时积极参与，发现更多自我实现、了解企业的可能性~",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760091279,
+      "formatted_time": "2025-10-10 18:14:39",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760091332,
+      "formatted_time": "2025-10-10 18:15:32",
+      "type": "引用消息",
+      "str_content": "！！！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760091340,
+      "formatted_time": "2025-10-10 18:15:40",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n好丰盛我天",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760095771,
+      "formatted_time": "2025-10-10 19:29:31",
+      "type": "文本消息",
+      "str_content": "@All 没到的家人们快一点呀～～再等5min～～～",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1760931714,
+      "formatted_time": "2025-10-20 11:41:54",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n在学校在深圳的米娜桑～今年的Helloween Party，CAP和ISU有联合活动，为大家拿到了优惠的价格，想要去的朋友们可以从我们的专属通道出发～",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760931728,
+      "formatted_time": "2025-10-20 11:42:08",
+      "type": "文件消息",
+      "str_content": "ISU万圣节派对门票合作伙伴协会指南 ISU Halloween Party Ticket Partner Association Guide.pdf",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760931732,
+      "formatted_time": "2025-10-20 11:42:12",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760931736,
+      "formatted_time": "2025-10-20 11:42:16",
+      "type": "引用消息",
+      "str_content": "@所有人",
+      "is_send": 0
+    },
+    {
+      "create_time": 1760931742,
+      "formatted_time": "2025-10-20 11:42:22",
+      "type": "文本消息",
+      "str_content": "wow",
+      "is_send": 0,
+      "sender_name": "24-韩一赫-财新",
+      "sender_wxid": "wxid_6y0h9cdskjpw21"
+    },
+    {
+      "create_time": 1760932398,
+      "formatted_time": "2025-10-20 11:53:18",
+      "type": "文本消息",
+      "str_content": "这么大的福利！",
+      "is_send": 0,
+      "sender_name": "CAP副会-24财新赵楚楚",
+      "sender_wxid": "wxid_it62w7yp4dgj11"
+    },
+    {
+      "create_time": 1761113107,
+      "formatted_time": "2025-10-22 14:05:07",
+      "type": "文本消息",
+      "str_content": "wxt88258612:\n大家想要参加的可以跟我说一下~",
+      "is_send": 0
+    },
+    {
+      "create_time": 1761631736,
+      "formatted_time": "2025-10-28 14:08:56",
+      "type": "引用消息",
+      "str_content": "今天最后一天社团优惠价了～大家感兴趣的赶紧冲[让我看看]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1762912167,
+      "formatted_time": "2025-11-12 09:49:27",
+      "type": "文本消息",
+      "str_content": "请问有学弟学妹今天在学院吗[可怜]求帮忙去114领个表，非常感谢[合十]",
+      "is_send": 0,
+      "sender_name": "Yuge",
+      "sender_wxid": "wxid_n6wfv239pb0d21"
+    },
+    {
+      "create_time": 1762912347,
+      "formatted_time": "2025-11-12 09:52:27",
+      "type": "引用消息",
+      "str_content": "我会去，大概12点左右可以吗",
+      "is_send": 0
+    },
+    {
+      "create_time": 1762915949,
+      "formatted_time": "2025-11-12 10:52:29",
+      "type": "文本消息",
+      "str_content": "已经找到了，谢谢学弟！",
+      "is_send": 0,
+      "sender_name": "Yuge",
+      "sender_wxid": "wxid_n6wfv239pb0d21"
+    },
+    {
+      "create_time": 1762916649,
+      "formatted_time": "2025-11-12 11:04:09",
+      "type": "文本消息",
+      "str_content": "slfnglsinh:\n不客气！",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765461170,
+      "formatted_time": "2025-12-11 21:52:50",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765461172,
+      "formatted_time": "2025-12-11 21:52:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765461175,
+      "formatted_time": "2025-12-11 21:52:55",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765461181,
+      "formatted_time": "2025-12-11 21:53:01",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765461266,
+      "formatted_time": "2025-12-11 21:54:26",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    }
+  ],
+  "export_time": "2025-12-15T00:08:25+08:00",
+  "message_count": 204
+}

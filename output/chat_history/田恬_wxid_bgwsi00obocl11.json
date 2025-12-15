@@ -1,0 +1,48 @@
+{
+  "session_id": "wxid_bgwsi00obocl11",
+  "session_name": "田恬",
+  "messages": [
+    {
+      "create_time": 1690175769,
+      "formatted_time": "2023-07-24 13:16:09",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "田恬"
+    },
+    {
+      "create_time": 1690209165,
+      "formatted_time": "2023-07-24 22:32:45",
+      "type": "文本消息",
+      "str_content": "hihi我叫徐昂，你怎么称呼呀~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690209197,
+      "formatted_time": "2023-07-24 22:33:17",
+      "type": "文本消息",
+      "str_content": "你好你好！我叫田恬，计算机组的",
+      "is_send": 0,
+      "sender_name": "田恬"
+    },
+    {
+      "create_time": 1690209264,
+      "formatted_time": "2023-07-24 22:34:24",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞  我是医药组的~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1690209303,
+      "formatted_time": "2023-07-24 22:35:03",
+      "type": "文本消息",
+      "str_content": "好的👌～～",
+      "is_send": 0,
+      "sender_name": "田恬"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 5
+}

@@ -1,0 +1,24 @@
+{
+  "session_id": "wxid_jaiku7waujth12",
+  "session_name": "苏琼玫",
+  "messages": [
+    {
+      "create_time": 1666287273,
+      "formatted_time": "2022-10-21 01:34:33",
+      "type": "文本消息",
+      "str_content": "徐昂已提交",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1666310308,
+      "formatted_time": "2022-10-21 07:58:28",
+      "type": "文本消息",
+      "str_content": "收到 辛苦啦～",
+      "is_send": 0,
+      "sender_name": "苏琼玫"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:44+08:00",
+  "message_count": 2
+}

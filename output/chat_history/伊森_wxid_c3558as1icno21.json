@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_c3558as1icno21",
+  "session_name": "伊森",
+  "messages": [
+    {
+      "create_time": 1765280369,
+      "formatted_time": "2025-12-09 19:39:29",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "伊森"
+    },
+    {
+      "create_time": 1765280369,
+      "formatted_time": "2025-12-09 19:39:29",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "伊森"
+    },
+    {
+      "create_time": 1765280418,
+      "formatted_time": "2025-12-09 19:40:18",
+      "type": "文本消息",
+      "str_content": "25FMBA赵志义Eason",
+      "is_send": 0,
+      "sender_name": "伊森"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:17+08:00",
+  "message_count": 3
+}

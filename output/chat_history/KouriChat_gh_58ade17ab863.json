@@ -1,0 +1,64 @@
+{
+  "session_id": "gh_58ade17ab863",
+  "session_name": "KouriChat",
+  "messages": [
+    {
+      "create_time": 1762782306,
+      "formatted_time": "2025-11-10 21:45:06",
+      "type": "文本消息",
+      "str_content": "验证码",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1762782307,
+      "formatted_time": "2025-11-10 21:45:07",
+      "type": "文本消息",
+      "str_content": "955904",
+      "is_send": 0,
+      "sender_name": "KouriChat"
+    },
+    {
+      "create_time": 1763212816,
+      "formatted_time": "2025-11-15 21:20:16",
+      "type": "图文消息",
+      "str_content": "无需下载，在短信App里和你的Ai伴侣互动！",
+      "is_send": 0,
+      "sender_name": "KouriChat"
+    },
+    {
+      "create_time": 1763644261,
+      "formatted_time": "2025-11-20 21:11:01",
+      "type": "图文消息",
+      "str_content": "Gemini 3重磅上线，现可正常调用",
+      "is_send": 0,
+      "sender_name": "KouriChat"
+    },
+    {
+      "create_time": 1763982348,
+      "formatted_time": "2025-11-24 19:05:48",
+      "type": "图文消息",
+      "str_content": "Kouri同人Discord社区已开启！",
+      "is_send": 0,
+      "sender_name": "KouriChat"
+    },
+    {
+      "create_time": 1765025126,
+      "formatted_time": "2025-12-06 20:45:26",
+      "type": "图文消息",
+      "str_content": "Kouri AI 品牌、合规双升级 & 新产品上线",
+      "is_send": 0,
+      "sender_name": "KouriChat"
+    },
+    {
+      "create_time": 1765530020,
+      "formatted_time": "2025-12-12 17:00:20",
+      "type": "图文消息",
+      "str_content": "gpt-5.2(pro) 系列模型上线",
+      "is_send": 0,
+      "sender_name": "KouriChat"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:13+08:00",
+  "message_count": 7
+}

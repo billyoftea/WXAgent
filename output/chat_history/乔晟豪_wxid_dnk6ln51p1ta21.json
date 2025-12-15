@@ -1,0 +1,6856 @@
+{
+  "session_id": "wxid_dnk6ln51p1ta21",
+  "session_name": "乔晟豪",
+  "messages": [
+    {
+      "create_time": 1697030475,
+      "formatted_time": "2023-10-11 21:21:15",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697081499,
+      "formatted_time": "2023-10-12 11:31:39",
+      "type": "文本消息",
+      "str_content": "我11:38到楼下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697081505,
+      "formatted_time": "2023-10-12 11:31:45",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697081506,
+      "formatted_time": "2023-10-12 11:31:46",
+      "type": "文本消息",
+      "str_content": "这么精确",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697081506,
+      "formatted_time": "2023-10-12 11:31:46",
+      "type": "文本消息",
+      "str_content": "你住哪一栋呀",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697081511,
+      "formatted_time": "2023-10-12 11:31:51",
+      "type": "文本消息",
+      "str_content": "韵苑八栋",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697081516,
+      "formatted_time": "2023-10-12 11:31:56",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697081519,
+      "formatted_time": "2023-10-12 11:31:59",
+      "type": "位置消息",
+      "str_content": "[位置消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697081944,
+      "formatted_time": "2023-10-12 11:39:04",
+      "type": "文本消息",
+      "str_content": "我到啦",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697081977,
+      "formatted_time": "2023-10-12 11:39:37",
+      "type": "文本消息",
+      "str_content": "11",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697082022,
+      "formatted_time": "2023-10-12 11:40:22",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697170183,
+      "formatted_time": "2023-10-13 12:09:43",
+      "type": "文本消息",
+      "str_content": "昂，咱们上次吃饭，你说的那个有数据的期刊是啥来着",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697170192,
+      "formatted_time": "2023-10-13 12:09:52",
+      "type": "文本消息",
+      "str_content": "中国工业经济",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697170194,
+      "formatted_time": "2023-10-13 12:09:54",
+      "type": "文本消息",
+      "str_content": "就那个中国工业经济学啥的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697170197,
+      "formatted_time": "2023-10-13 12:09:57",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697170203,
+      "formatted_time": "2023-10-13 12:10:03",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697170211,
+      "formatted_time": "2023-10-13 12:10:11",
+      "type": "文本消息",
+      "str_content": "http://ciejournal.ajcass.org/",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697170960,
+      "formatted_time": "2023-10-13 12:22:40",
+      "type": "文本消息",
+      "str_content": "这个里面大部分研究的都是面板数据",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697170971,
+      "formatted_time": "2023-10-13 12:22:51",
+      "type": "文本消息",
+      "str_content": "有没有横向数据的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697170981,
+      "formatted_time": "2023-10-13 12:23:01",
+      "type": "文本消息",
+      "str_content": "不太厉害的期刊",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697170987,
+      "formatted_time": "2023-10-13 12:23:07",
+      "type": "文件消息",
+      "str_content": "报告.docx",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697170997,
+      "formatted_time": "2023-10-13 12:23:17",
+      "type": "文本消息",
+      "str_content": "这是去年学长的报告",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697171007,
+      "formatted_time": "2023-10-13 12:23:27",
+      "type": "文本消息",
+      "str_content": "大概就这个等级的就行",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697171153,
+      "formatted_time": "2023-10-13 12:25:53",
+      "type": "文本消息",
+      "str_content": "中文里面应该几乎只有中国工业经济史附带的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697171165,
+      "formatted_time": "2023-10-13 12:26:05",
+      "type": "文本消息",
+      "str_content": "外文的话你可以看看AER",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697171175,
+      "formatted_time": "2023-10-13 12:26:15",
+      "type": "文本消息",
+      "str_content": "这种应该是带数据的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697171185,
+      "formatted_time": "2023-10-13 12:26:25",
+      "type": "文本消息",
+      "str_content": "好的好的！谢谢昂哥",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1697171225,
+      "formatted_time": "2023-10-13 12:27:05",
+      "type": "文本消息",
+      "str_content": "https://mp.weixin.qq.com/s/_UWGmPAFsW_WPljD2NNITw",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697171244,
+      "formatted_time": "2023-10-13 12:27:24",
+      "type": "文本消息",
+      "str_content": "没事没事",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698553320,
+      "formatted_time": "2023-10-29 12:22:00",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698553332,
+      "formatted_time": "2023-10-29 12:22:12",
+      "type": "文本消息",
+      "str_content": "吃午饭了没",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1698553347,
+      "formatted_time": "2023-10-29 12:22:27",
+      "type": "文本消息",
+      "str_content": "刚吃完",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698553349,
+      "formatted_time": "2023-10-29 12:22:29",
+      "type": "文本消息",
+      "str_content": "怎么说",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698553353,
+      "formatted_time": "2023-10-29 12:22:33",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1698553361,
+      "formatted_time": "2023-10-29 12:22:41",
+      "type": "文本消息",
+      "str_content": "找个人吃饭",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1698553367,
+      "formatted_time": "2023-10-29 12:22:47",
+      "type": "文本消息",
+      "str_content": "找不到就点外卖",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1698553385,
+      "formatted_time": "2023-10-29 12:23:05",
+      "type": "文本消息",
+      "str_content": "绷不住了我周末纯点外卖",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698553388,
+      "formatted_time": "2023-10-29 12:23:08",
+      "type": "文本消息",
+      "str_content": "吃了睡",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698553393,
+      "formatted_time": "2023-10-29 12:23:13",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1698553411,
+      "formatted_time": "2023-10-29 12:23:31",
+      "type": "文本消息",
+      "str_content": "我昨天运动会忙完，一睁眼就11.了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1698553440,
+      "formatted_time": "2023-10-29 12:24:00",
+      "type": "文本消息",
+      "str_content": "太累了啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698553456,
+      "formatted_time": "2023-10-29 12:24:16",
+      "type": "文本消息",
+      "str_content": "你这是在现场值班呢吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698553520,
+      "formatted_time": "2023-10-29 12:25:20",
+      "type": "文本消息",
+      "str_content": "没有，就是负责整个管院的部分，包括大本营培训，应急处理，观众席组织，运动员组织和宣传啥的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1698553667,
+      "formatted_time": "2023-10-29 12:27:47",
+      "type": "文本消息",
+      "str_content": "[抱拳]你们这主席团还负责这么具体的事的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698553670,
+      "formatted_time": "2023-10-29 12:27:50",
+      "type": "文本消息",
+      "str_content": "太辛苦了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698553695,
+      "formatted_time": "2023-10-29 12:28:15",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈，也主要是安排给别人",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1698553710,
+      "formatted_time": "2023-10-29 12:28:30",
+      "type": "文本消息",
+      "str_content": "可能单纯是这两天起太早了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1698553888,
+      "formatted_time": "2023-10-29 12:31:28",
+      "type": "文本消息",
+      "str_content": "我这几天也天天十一点起，难得周末没啥事儿",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698553891,
+      "formatted_time": "2023-10-29 12:31:31",
+      "type": "文本消息",
+      "str_content": "歇歇",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700138719,
+      "formatted_time": "2023-11-16 20:45:19",
+      "type": "文本消息",
+      "str_content": "🎱？",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1700138789,
+      "formatted_time": "2023-11-16 20:46:29",
+      "type": "文本消息",
+      "str_content": "今儿不打了  快考试了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700138793,
+      "formatted_time": "2023-11-16 20:46:33",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1700138982,
+      "formatted_time": "2023-11-16 20:49:42",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1701656770,
+      "formatted_time": "2023-12-04 10:26:10",
+      "type": "文本消息",
+      "str_content": "乔哥",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1701656773,
+      "formatted_time": "2023-12-04 10:26:13",
+      "type": "文本消息",
+      "str_content": "你在校医院吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1701656777,
+      "formatted_time": "2023-12-04 10:26:17",
+      "type": "文本消息",
+      "str_content": "我探望下你？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1701656782,
+      "formatted_time": "2023-12-04 10:26:22",
+      "type": "文本消息",
+      "str_content": "已经回来了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1701656785,
+      "formatted_time": "2023-12-04 10:26:25",
+      "type": "文本消息",
+      "str_content": "在宿舍",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1701656789,
+      "formatted_time": "2023-12-04 10:26:29",
+      "type": "文本消息",
+      "str_content": "别了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1701656799,
+      "formatted_time": "2023-12-04 10:26:39",
+      "type": "文本消息",
+      "str_content": "这玩意有传染性",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1701656807,
+      "formatted_time": "2023-12-04 10:26:47",
+      "type": "文本消息",
+      "str_content": "太惨了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1701656811,
+      "formatted_time": "2023-12-04 10:26:51",
+      "type": "文本消息",
+      "str_content": "我刚路过校医院",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1701656814,
+      "formatted_time": "2023-12-04 10:26:54",
+      "type": "文本消息",
+      "str_content": "好多人啊......",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1701656833,
+      "formatted_time": "2023-12-04 10:27:13",
+      "type": "文本消息",
+      "str_content": "[苦涩]我8.多就去了，一直搞到10.多",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1701656865,
+      "formatted_time": "2023-12-04 10:27:45",
+      "type": "文本消息",
+      "str_content": "这么多感冒发烧的..",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1701656868,
+      "formatted_time": "2023-12-04 10:27:48",
+      "type": "文本消息",
+      "str_content": "我看着都害怕",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702972210,
+      "formatted_time": "2023-12-19 15:50:10",
+      "type": "文本消息",
+      "str_content": "昂总，你今天晚上有时间不",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1702972380,
+      "formatted_time": "2023-12-19 15:53:00",
+      "type": "文本消息",
+      "str_content": "今晚怕是",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702972383,
+      "formatted_time": "2023-12-19 15:53:03",
+      "type": "文本消息",
+      "str_content": "有点忙哦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702972384,
+      "formatted_time": "2023-12-19 15:53:04",
+      "type": "文本消息",
+      "str_content": "乔主席",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1702972715,
+      "formatted_time": "2023-12-19 15:58:35",
+      "type": "文本消息",
+      "str_content": "那你现在呢",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1702972721,
+      "formatted_time": "2023-12-19 15:58:41",
+      "type": "文本消息",
+      "str_content": "也就几分钟",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1702973106,
+      "formatted_time": "2023-12-19 16:05:06",
+      "type": "文本消息",
+      "str_content": "我到了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1703837987,
+      "formatted_time": "2023-12-29 16:19:47",
+      "type": "文本消息",
+      "str_content": "幽默了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1703837992,
+      "formatted_time": "2023-12-29 16:19:52",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1703838006,
+      "formatted_time": "2023-12-29 16:20:06",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1703838012,
+      "formatted_time": "2023-12-29 16:20:12",
+      "type": "文本消息",
+      "str_content": "刚刚开完会了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1703838013,
+      "formatted_time": "2023-12-29 16:20:13",
+      "type": "文本消息",
+      "str_content": "看这意思要重选咯",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1703838018,
+      "formatted_time": "2023-12-29 16:20:18",
+      "type": "文本消息",
+      "str_content": "好多材料要交",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1703838027,
+      "formatted_time": "2023-12-29 16:20:27",
+      "type": "文本消息",
+      "str_content": "得亏我润了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1704889288,
+      "formatted_time": "2024-01-10 20:21:28",
+      "type": "文本消息",
+      "str_content": "你几号回家",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1704889303,
+      "formatted_time": "2024-01-10 20:21:43",
+      "type": "文本消息",
+      "str_content": "16号",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1704889354,
+      "formatted_time": "2024-01-10 20:22:34",
+      "type": "文本消息",
+      "str_content": "okok，那不着急，你先忙考试就行",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1704889366,
+      "formatted_time": "2024-01-10 20:22:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705203977,
+      "formatted_time": "2024-01-14 11:46:17",
+      "type": "文本消息",
+      "str_content": "昂兄考的怎么样",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705204075,
+      "formatted_time": "2024-01-14 11:47:55",
+      "type": "文本消息",
+      "str_content": "反正是考完了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705204078,
+      "formatted_time": "2024-01-14 11:47:58",
+      "type": "文本消息",
+      "str_content": "吗的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705204088,
+      "formatted_time": "2024-01-14 11:48:08",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705204090,
+      "formatted_time": "2024-01-14 11:48:10",
+      "type": "文本消息",
+      "str_content": "行吧",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705204099,
+      "formatted_time": "2024-01-14 11:48:19",
+      "type": "文本消息",
+      "str_content": "你这两天啥时候有时间呀",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705204107,
+      "formatted_time": "2024-01-14 11:48:27",
+      "type": "文本消息",
+      "str_content": "师兄想和你单独聊一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705204294,
+      "formatted_time": "2024-01-14 11:51:34",
+      "type": "文本消息",
+      "str_content": "我想下，明天一天和后天上午下午都ok的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705204305,
+      "formatted_time": "2024-01-14 11:51:45",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705204310,
+      "formatted_time": "2024-01-14 11:51:50",
+      "type": "文本消息",
+      "str_content": "那就明天上午吧",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705204319,
+      "formatted_time": "2024-01-14 11:51:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705204327,
+      "formatted_time": "2024-01-14 11:52:07",
+      "type": "文本消息",
+      "str_content": "是在管院吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705205193,
+      "formatted_time": "2024-01-14 12:06:33",
+      "type": "文本消息",
+      "str_content": "对滴",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705208618,
+      "formatted_time": "2024-01-14 13:03:38",
+      "type": "文本消息",
+      "str_content": "明天上午9.吧，怎么样",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705209578,
+      "formatted_time": "2024-01-14 13:19:38",
+      "type": "文本消息",
+      "str_content": "好滴",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705212616,
+      "formatted_time": "2024-01-14 14:10:16",
+      "type": "文本消息",
+      "str_content": "9:30[玫瑰]再多睡一会",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705212810,
+      "formatted_time": "2024-01-14 14:13:30",
+      "type": "文本消息",
+      "str_content": "/:ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705212827,
+      "formatted_time": "2024-01-14 14:13:47",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705212868,
+      "formatted_time": "2024-01-14 14:14:28",
+      "type": "文本消息",
+      "str_content": "[流泪]今晚有约了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705212873,
+      "formatted_time": "2024-01-14 14:14:33",
+      "type": "文本消息",
+      "str_content": "明天晚上OK，不？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705212881,
+      "formatted_time": "2024-01-14 14:14:41",
+      "type": "文本消息",
+      "str_content": "然后上次你们去找师兄是谈的什么安排呀，就寒假的安排吗？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705212888,
+      "formatted_time": "2024-01-14 14:14:48",
+      "type": "文本消息",
+      "str_content": "对滴",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705212899,
+      "formatted_time": "2024-01-14 14:14:59",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705212916,
+      "formatted_time": "2024-01-14 14:15:16",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705212918,
+      "formatted_time": "2024-01-14 14:15:18",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705212935,
+      "formatted_time": "2024-01-14 14:15:35",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705212935,
+      "formatted_time": "2024-01-14 14:15:35",
+      "type": "文本消息",
+      "str_content": "OK呀，OK呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705212964,
+      "formatted_time": "2024-01-14 14:16:04",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705212983,
+      "formatted_time": "2024-01-14 14:16:23",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705212992,
+      "formatted_time": "2024-01-14 14:16:32",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705213006,
+      "formatted_time": "2024-01-14 14:16:46",
+      "type": "文本消息",
+      "str_content": "你啥时候回家呀？你是不是还得在校内待挺久的？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705213021,
+      "formatted_time": "2024-01-14 14:17:01",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705213163,
+      "formatted_time": "2024-01-14 14:19:23",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705213172,
+      "formatted_time": "2024-01-14 14:19:32",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705213210,
+      "formatted_time": "2024-01-14 14:20:10",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705213843,
+      "formatted_time": "2024-01-14 14:30:43",
+      "type": "文本消息",
+      "str_content": "你回趟家也确实",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705213846,
+      "formatted_time": "2024-01-14 14:30:46",
+      "type": "文本消息",
+      "str_content": "比我还难",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705282242,
+      "formatted_time": "2024-01-15 09:30:42",
+      "type": "文本消息",
+      "str_content": "几点来",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705282251,
+      "formatted_time": "2024-01-15 09:30:51",
+      "type": "引用消息",
+      "str_content": "[玫瑰]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705282255,
+      "formatted_time": "2024-01-15 09:30:55",
+      "type": "文本消息",
+      "str_content": "来了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705282257,
+      "formatted_time": "2024-01-15 09:30:57",
+      "type": "文本消息",
+      "str_content": "在哪呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705282264,
+      "formatted_time": "2024-01-15 09:31:04",
+      "type": "文本消息",
+      "str_content": "308",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705314375,
+      "formatted_time": "2024-01-15 18:26:15",
+      "type": "文本消息",
+      "str_content": "七点半咋样",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705314376,
+      "formatted_time": "2024-01-15 18:26:16",
+      "type": "文本消息",
+      "str_content": "在哪",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705314391,
+      "formatted_time": "2024-01-15 18:26:31",
+      "type": "文本消息",
+      "str_content": "可以",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705314394,
+      "formatted_time": "2024-01-15 18:26:34",
+      "type": "文本消息",
+      "str_content": "在德水家",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705314398,
+      "formatted_time": "2024-01-15 18:26:38",
+      "type": "文本消息",
+      "str_content": "去哪吃",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705314414,
+      "formatted_time": "2024-01-15 18:26:54",
+      "type": "文本消息",
+      "str_content": "老兵？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705314422,
+      "formatted_time": "2024-01-15 18:27:02",
+      "type": "文本消息",
+      "str_content": "烧烤啥的？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705314424,
+      "formatted_time": "2024-01-15 18:27:04",
+      "type": "文本消息",
+      "str_content": "可以",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705314426,
+      "formatted_time": "2024-01-15 18:27:06",
+      "type": "文本消息",
+      "str_content": "咋在ds家",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705314439,
+      "formatted_time": "2024-01-15 18:27:19",
+      "type": "文本消息",
+      "str_content": "他不全国空降去了吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705314440,
+      "formatted_time": "2024-01-15 18:27:20",
+      "type": "文本消息",
+      "str_content": "他不在我就一直住在这",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705314443,
+      "formatted_time": "2024-01-15 18:27:23",
+      "type": "文本消息",
+      "str_content": "[玫瑰]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705314453,
+      "formatted_time": "2024-01-15 18:27:33",
+      "type": "文本消息",
+      "str_content": "帮他看家门",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705314455,
+      "formatted_time": "2024-01-15 18:27:35",
+      "type": "文本消息",
+      "str_content": "[可怜]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705317335,
+      "formatted_time": "2024-01-15 19:15:35",
+      "type": "文本消息",
+      "str_content": "我先去老兵了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705318321,
+      "formatted_time": "2024-01-15 19:32:01",
+      "type": "文本消息",
+      "str_content": "11",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705325808,
+      "formatted_time": "2024-01-15 21:36:48",
+      "type": "文本消息",
+      "str_content": "https://pan.baidu.com/s/1KHs5BI__eS-a9SdHLoQOeA?pwd=yh2l#list/path=%2F",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705918540,
+      "formatted_time": "2024-01-22 18:15:40",
+      "type": "文本消息",
+      "str_content": "生蚝哥",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705918548,
+      "formatted_time": "2024-01-22 18:15:48",
+      "type": "文本消息",
+      "str_content": "数据清的咋样了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705918568,
+      "formatted_time": "2024-01-22 18:16:08",
+      "type": "文本消息",
+      "str_content": "咱是不是该推进度了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705918851,
+      "formatted_time": "2024-01-22 18:20:51",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705918872,
+      "formatted_time": "2024-01-22 18:21:12",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705918879,
+      "formatted_time": "2024-01-22 18:21:19",
+      "type": "文本消息",
+      "str_content": "明白",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705918879,
+      "formatted_time": "2024-01-22 18:21:19",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705918889,
+      "formatted_time": "2024-01-22 18:21:29",
+      "type": "文本消息",
+      "str_content": "那分分工吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705918964,
+      "formatted_time": "2024-01-22 18:22:44",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705918989,
+      "formatted_time": "2024-01-22 18:23:09",
+      "type": "文本消息",
+      "str_content": "我草怎么还停电了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705919061,
+      "formatted_time": "2024-01-22 18:24:21",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705919672,
+      "formatted_time": "2024-01-22 18:34:32",
+      "type": "文本消息",
+      "str_content": "tmd",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705919681,
+      "formatted_time": "2024-01-22 18:34:41",
+      "type": "文本消息",
+      "str_content": "误了乔总申请院士的大事",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705919693,
+      "formatted_time": "2024-01-22 18:34:53",
+      "type": "文本消息",
+      "str_content": "你们供电局的人能负的起责吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705919714,
+      "formatted_time": "2024-01-22 18:35:14",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705919733,
+      "formatted_time": "2024-01-22 18:35:33",
+      "type": "文本消息",
+      "str_content": "没电，甚至消息都发不出去",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705919742,
+      "formatted_time": "2024-01-22 18:35:42",
+      "type": "文本消息",
+      "str_content": "我手机马上关机了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705919779,
+      "formatted_time": "2024-01-22 18:36:19",
+      "type": "文本消息",
+      "str_content": "okok，这两天咱分下工干活就行，，不然感觉要做不完了都",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705919812,
+      "formatted_time": "2024-01-22 18:36:52",
+      "type": "文本消息",
+      "str_content": "确实",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705919830,
+      "formatted_time": "2024-01-22 18:37:10",
+      "type": "文本消息",
+      "str_content": "咱们这两周一定得确定一个",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705919834,
+      "formatted_time": "2024-01-22 18:37:14",
+      "type": "文本消息",
+      "str_content": "方向了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705919837,
+      "formatted_time": "2024-01-22 18:37:17",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705919842,
+      "formatted_time": "2024-01-22 18:37:22",
+      "type": "文本消息",
+      "str_content": "来电了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705919853,
+      "formatted_time": "2024-01-22 18:37:33",
+      "type": "引用消息",
+      "str_content": "看到这消息",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705919857,
+      "formatted_time": "2024-01-22 18:37:37",
+      "type": "文本消息",
+      "str_content": "你们那领导害怕了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705919858,
+      "formatted_time": "2024-01-22 18:37:38",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705919890,
+      "formatted_time": "2024-01-22 18:38:10",
+      "type": "文本消息",
+      "str_content": "广圣估计是没法讨论",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705919899,
+      "formatted_time": "2024-01-22 18:38:19",
+      "type": "文本消息",
+      "str_content": "我先把他们几个招呼一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705919939,
+      "formatted_time": "2024-01-22 18:38:59",
+      "type": "文本消息",
+      "str_content": "没事",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705919944,
+      "formatted_time": "2024-01-22 18:39:04",
+      "type": "文本消息",
+      "str_content": "我觉得今天可能都有点急",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705919946,
+      "formatted_time": "2024-01-22 18:39:06",
+      "type": "文本消息",
+      "str_content": "明晚吧要不",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705919976,
+      "formatted_time": "2024-01-22 18:39:36",
+      "type": "文本消息",
+      "str_content": "行吧",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705919984,
+      "formatted_time": "2024-01-22 18:39:44",
+      "type": "文本消息",
+      "str_content": "那我让他们也先想一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705919989,
+      "formatted_time": "2024-01-22 18:39:49",
+      "type": "文本消息",
+      "str_content": "明天晚上吧",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705919992,
+      "formatted_time": "2024-01-22 18:39:52",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705920004,
+      "formatted_time": "2024-01-22 18:40:04",
+      "type": "文本消息",
+      "str_content": "但是咱们周四就得汇报一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705920026,
+      "formatted_time": "2024-01-22 18:40:26",
+      "type": "文本消息",
+      "str_content": "两天应该也差不多",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1705920038,
+      "formatted_time": "2024-01-22 18:40:38",
+      "type": "文本消息",
+      "str_content": "嗯，分工之后应该都好搞一些",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705920045,
+      "formatted_time": "2024-01-22 18:40:45",
+      "type": "文本消息",
+      "str_content": "嗯呢",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1706005940,
+      "formatted_time": "2024-01-23 18:32:20",
+      "type": "文本消息",
+      "str_content": "8:30怎么样",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1706005971,
+      "formatted_time": "2024-01-23 18:32:51",
+      "type": "文本消息",
+      "str_content": "[好的]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706012549,
+      "formatted_time": "2024-01-23 20:22:29",
+      "type": "文本消息",
+      "str_content": "烟霞状元 邀请您参加腾讯会议\n会议主题：烟霞状元的快速会议\n会议时间：2024/01/23 20:10-21:10 (GMT+08:00) 中国标准时间 - 北京\n\n点击链接直接加入会议：\nhttps://meeting.tencent.com/dm/HJIDPdU4UZqp\n\n#腾讯会议：654-683-121\n\n复制该信息，打开手机腾讯会议即可参与",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1706014599,
+      "formatted_time": "2024-01-23 20:56:39",
+      "type": "文本消息",
+      "str_content": "文章名\t主要内容\tx\ty\t方法\t结果\t数据库",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706183729,
+      "formatted_time": "2024-01-25 19:55:29",
+      "type": "文本消息",
+      "str_content": "明天上午9.",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1706183731,
+      "formatted_time": "2024-01-25 19:55:31",
+      "type": "文本消息",
+      "str_content": "ok不",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1706183786,
+      "formatted_time": "2024-01-25 19:56:26",
+      "type": "文本消息",
+      "str_content": "我应该ok的/:ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706183793,
+      "formatted_time": "2024-01-25 19:56:33",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1706408672,
+      "formatted_time": "2024-01-28 10:24:32",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706408682,
+      "formatted_time": "2024-01-28 10:24:42",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706408698,
+      "formatted_time": "2024-01-28 10:24:58",
+      "type": "文本消息",
+      "str_content": "308的那个？",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1706408704,
+      "formatted_time": "2024-01-28 10:25:04",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706408715,
+      "formatted_time": "2024-01-28 10:25:15",
+      "type": "文本消息",
+      "str_content": "我让师兄帮忙拍一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1706408731,
+      "formatted_time": "2024-01-28 10:25:31",
+      "type": "文本消息",
+      "str_content": "哎要是麻烦师兄就算了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706408734,
+      "formatted_time": "2024-01-28 10:25:34",
+      "type": "文本消息",
+      "str_content": "我寻思我也整个",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706408735,
+      "formatted_time": "2024-01-28 10:25:35",
+      "type": "文本消息",
+      "str_content": "好玩",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706408743,
+      "formatted_time": "2024-01-28 10:25:43",
+      "type": "文本消息",
+      "str_content": "没事没事",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1706408744,
+      "formatted_time": "2024-01-28 10:25:44",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706408750,
+      "formatted_time": "2024-01-28 10:25:50",
+      "type": "文本消息",
+      "str_content": "就是今天不一定有人",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1706408753,
+      "formatted_time": "2024-01-28 10:25:53",
+      "type": "文本消息",
+      "str_content": "今天周日",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1706408759,
+      "formatted_time": "2024-01-28 10:25:59",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706408789,
+      "formatted_time": "2024-01-28 10:26:29",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1706408908,
+      "formatted_time": "2024-01-28 10:28:28",
+      "type": "文本消息",
+      "str_content": "太麻烦了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706408914,
+      "formatted_time": "2024-01-28 10:28:34",
+      "type": "文本消息",
+      "str_content": "[亲亲]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706408929,
+      "formatted_time": "2024-01-28 10:28:49",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1706408945,
+      "formatted_time": "2024-01-28 10:29:05",
+      "type": "文本消息",
+      "str_content": "好好好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706408950,
+      "formatted_time": "2024-01-28 10:29:10",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706852997,
+      "formatted_time": "2024-02-02 13:49:57",
+      "type": "文本消息",
+      "str_content": "进会议聊聊",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707023208,
+      "formatted_time": "2024-02-04 13:06:48",
+      "type": "文本消息",
+      "str_content": "乔总",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707023219,
+      "formatted_time": "2024-02-04 13:06:59",
+      "type": "文本消息",
+      "str_content": "我们如果申大创",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707023225,
+      "formatted_time": "2024-02-04 13:07:05",
+      "type": "文本消息",
+      "str_content": "应该是国级的吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707024344,
+      "formatted_time": "2024-02-04 13:25:44",
+      "type": "文本消息",
+      "str_content": "对滴",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707024354,
+      "formatted_time": "2024-02-04 13:25:54",
+      "type": "文本消息",
+      "str_content": "[好的]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707024358,
+      "formatted_time": "2024-02-04 13:25:58",
+      "type": "文本消息",
+      "str_content": "美赛打的怎么样了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707024364,
+      "formatted_time": "2024-02-04 13:26:04",
+      "type": "引用消息",
+      "str_content": "一般吧",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707024366,
+      "formatted_time": "2024-02-04 13:26:06",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707024374,
+      "formatted_time": "2024-02-04 13:26:14",
+      "type": "文本消息",
+      "str_content": "刚才他们还说想问你呢",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707024383,
+      "formatted_time": "2024-02-04 13:26:23",
+      "type": "文本消息",
+      "str_content": "什么呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707024397,
+      "formatted_time": "2024-02-04 13:26:37",
+      "type": "文本消息",
+      "str_content": "忘记啦",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707024406,
+      "formatted_time": "2024-02-04 13:26:46",
+      "type": "文本消息",
+      "str_content": "你和同怎么样啦",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707024425,
+      "formatted_time": "2024-02-04 13:27:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707024441,
+      "formatted_time": "2024-02-04 13:27:21",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707024456,
+      "formatted_time": "2024-02-04 13:27:36",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707024468,
+      "formatted_time": "2024-02-04 13:27:48",
+      "type": "文本消息",
+      "str_content": "我刚也在问经院的导师",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707025222,
+      "formatted_time": "2024-02-04 13:40:22",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707027415,
+      "formatted_time": "2024-02-04 14:16:55",
+      "type": "文本消息",
+      "str_content": "烟霞状元 邀请您参加腾讯会议\n会议主题：烟霞状元的快速会议\n会议时间：2024/02/04 07:38-08:38 (GMT+08:00) 中国标准时间 - 北京\n\n点击链接直接加入会议：\nhttps://meeting.tencent.com/dm/3FiWLNRQlTok\n\n#腾讯会议：573-110-884\n\n复制该信息，打开手机腾讯会议即可参与",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707027435,
+      "formatted_time": "2024-02-04 14:17:15",
+      "type": "文本消息",
+      "str_content": "宝～，需要你的帮助",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707280369,
+      "formatted_time": "2024-02-07 12:32:49",
+      "type": "文本消息",
+      "str_content": "昂",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707280376,
+      "formatted_time": "2024-02-07 12:32:56",
+      "type": "文本消息",
+      "str_content": "2:00你一定要来哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707281719,
+      "formatted_time": "2024-02-07 12:55:19",
+      "type": "文本消息",
+      "str_content": "111",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707281720,
+      "formatted_time": "2024-02-07 12:55:20",
+      "type": "文本消息",
+      "str_content": "来了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707281727,
+      "formatted_time": "2024-02-07 12:55:27",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707281729,
+      "formatted_time": "2024-02-07 12:55:29",
+      "type": "文本消息",
+      "str_content": "ppt",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707281730,
+      "formatted_time": "2024-02-07 12:55:30",
+      "type": "文本消息",
+      "str_content": "md刚在家庭聚会上喝了点酒",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707281735,
+      "formatted_time": "2024-02-07 12:55:35",
+      "type": "文本消息",
+      "str_content": "没事",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707281737,
+      "formatted_time": "2024-02-07 12:55:37",
+      "type": "文本消息",
+      "str_content": "不影响",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707281744,
+      "formatted_time": "2024-02-07 12:55:44",
+      "type": "文本消息",
+      "str_content": "你就说下自己的思路就行",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707281753,
+      "formatted_time": "2024-02-07 12:55:53",
+      "type": "文件消息",
+      "str_content": "返贫汇报.pptx",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707281786,
+      "formatted_time": "2024-02-07 12:56:26",
+      "type": "文本消息",
+      "str_content": "第三部分和第四部分你来",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707281801,
+      "formatted_time": "2024-02-07 12:56:41",
+      "type": "文本消息",
+      "str_content": "第一第二部分我再补充一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707281813,
+      "formatted_time": "2024-02-07 12:56:53",
+      "type": "文本消息",
+      "str_content": "我先说",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707285501,
+      "formatted_time": "2024-02-07 13:58:21",
+      "type": "文本消息",
+      "str_content": "进会议[色][色]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707285504,
+      "formatted_time": "2024-02-07 13:58:24",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707290634,
+      "formatted_time": "2024-02-07 15:23:54",
+      "type": "文本消息",
+      "str_content": "昂",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707290644,
+      "formatted_time": "2024-02-07 15:24:04",
+      "type": "文本消息",
+      "str_content": "11",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707290645,
+      "formatted_time": "2024-02-07 15:24:05",
+      "type": "文本消息",
+      "str_content": "我来共享下屏幕",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707487659,
+      "formatted_time": "2024-02-09 22:07:39",
+      "type": "文本消息",
+      "str_content": "徐书记新年快乐！㊗️徐书记在新的一年里爱情事业双丰收，事事顺意结硕果，心想事成创佳绩！",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1707491939,
+      "formatted_time": "2024-02-09 23:18:59",
+      "type": "文本消息",
+      "str_content": "乔总新年快乐！！也祝乔总龙年事事顺心，科研顺利，paper多多，月月出成果，年年发文章！🐉",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708870413,
+      "formatted_time": "2024-02-25 22:13:33",
+      "type": "文本消息",
+      "str_content": "没",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708870413,
+      "formatted_time": "2024-02-25 22:13:33",
+      "type": "文本消息",
+      "str_content": "信号",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708870413,
+      "formatted_time": "2024-02-25 22:13:33",
+      "type": "文本消息",
+      "str_content": "13848440908",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708870631,
+      "formatted_time": "2024-02-25 22:17:11",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708870689,
+      "formatted_time": "2024-02-25 22:18:09",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708870757,
+      "formatted_time": "2024-02-25 22:19:17",
+      "type": "文本消息",
+      "str_content": "然后稍微等一下，邓老师的电子签名加进去",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708870889,
+      "formatted_time": "2024-02-25 22:21:29",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708870940,
+      "formatted_time": "2024-02-25 22:22:20",
+      "type": "文本消息",
+      "str_content": "这个是要用负责人的账号来登吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708870948,
+      "formatted_time": "2024-02-25 22:22:28",
+      "type": "文本消息",
+      "str_content": "对滴",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708870952,
+      "formatted_time": "2024-02-25 22:22:32",
+      "type": "文本消息",
+      "str_content": "U202116251",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708870957,
+      "formatted_time": "2024-02-25 22:22:37",
+      "type": "文本消息",
+      "str_content": "qsh181003",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708870995,
+      "formatted_time": "2024-02-25 22:23:15",
+      "type": "文本消息",
+      "str_content": "这个负责人不是写的韦君政嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708870995,
+      "formatted_time": "2024-02-25 22:23:15",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708871008,
+      "formatted_time": "2024-02-25 22:23:28",
+      "type": "文本消息",
+      "str_content": "这个没来的及改",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708871012,
+      "formatted_time": "2024-02-25 22:23:32",
+      "type": "文本消息",
+      "str_content": "改为我吧",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708871019,
+      "formatted_time": "2024-02-25 22:23:39",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708871030,
+      "formatted_time": "2024-02-25 22:23:50",
+      "type": "文本消息",
+      "str_content": "一期好像只能有一个项目的队长",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708871102,
+      "formatted_time": "2024-02-25 22:25:02",
+      "type": "文本消息",
+      "str_content": "那我就改成这样了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708871102,
+      "formatted_time": "2024-02-25 22:25:02",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708871133,
+      "formatted_time": "2024-02-25 22:25:33",
+      "type": "文本消息",
+      "str_content": "好的好的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708871639,
+      "formatted_time": "2024-02-25 22:33:59",
+      "type": "引用消息",
+      "str_content": "除了这些就差邓老师的电子签名和指导老师意见了嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708871753,
+      "formatted_time": "2024-02-25 22:35:53",
+      "type": "文本消息",
+      "str_content": "对滴，昂兄你把这个发给我",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708871762,
+      "formatted_time": "2024-02-25 22:36:02",
+      "type": "文本消息",
+      "str_content": "我联系那个大一的搞吧",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708871771,
+      "formatted_time": "2024-02-25 22:36:11",
+      "type": "文件消息",
+      "str_content": "申报书.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708871779,
+      "formatted_time": "2024-02-25 22:36:19",
+      "type": "文本消息",
+      "str_content": "咱们把需要的资源交给最需要的人",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708871800,
+      "formatted_time": "2024-02-25 22:36:40",
+      "type": "文本消息",
+      "str_content": "[好的]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1708871804,
+      "formatted_time": "2024-02-25 22:36:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708871816,
+      "formatted_time": "2024-02-25 22:36:56",
+      "type": "文本消息",
+      "str_content": "[害羞]发错啦",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1708871825,
+      "formatted_time": "2024-02-25 22:37:05",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1709034531,
+      "formatted_time": "2024-02-27 19:48:51",
+      "type": "文本消息",
+      "str_content": "昂，你现在课多吗",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1709034552,
+      "formatted_time": "2024-02-27 19:49:12",
+      "type": "文本消息",
+      "str_content": "还是不少的[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1709034564,
+      "formatted_time": "2024-02-27 19:49:24",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1709034631,
+      "formatted_time": "2024-02-27 19:50:31",
+      "type": "文本消息",
+      "str_content": "好吧好吧，师兄想让你在我们组会上简单分享下你的工作",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1709034650,
+      "formatted_time": "2024-02-27 19:50:50",
+      "type": "文本消息",
+      "str_content": "我联系下师兄，看看组会时间能不能和你的课表匹配一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1709034696,
+      "formatted_time": "2024-02-27 19:51:36",
+      "type": "文本消息",
+      "str_content": "嗯嗯，其实我也就模仿着一篇经济研究上的文章做一些设定和处理数据[捂脸]，没有什么特别创新的地方，是缝缝补补起来的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1709034803,
+      "formatted_time": "2024-02-27 19:53:23",
+      "type": "文本消息",
+      "str_content": "哈哈哈，好吧，我和师兄联系一下，看看怎么方便一点，应该只是一个小分享",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1709038681,
+      "formatted_time": "2024-02-27 20:58:01",
+      "type": "文本消息",
+      "str_content": "昂，大概准备个10min左右就行，周四下午[机智]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1709039501,
+      "formatted_time": "2024-02-27 21:11:41",
+      "type": "文本消息",
+      "str_content": "[好的]就是主要讲计量方法吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1709039628,
+      "formatted_time": "2024-02-27 21:13:48",
+      "type": "文本消息",
+      "str_content": "对滴，就是你的那套逻辑",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1709039838,
+      "formatted_time": "2024-02-27 21:17:18",
+      "type": "文本消息",
+      "str_content": "[OK]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1709130021,
+      "formatted_time": "2024-02-28 22:20:21",
+      "type": "文本消息",
+      "str_content": "昂，明天下午两点半在实验室",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1709130052,
+      "formatted_time": "2024-02-28 22:20:52",
+      "type": "文本消息",
+      "str_content": "我们组会改到线上了，师兄说咱俩去实验室，他正好和咱俩对接一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1709130055,
+      "formatted_time": "2024-02-28 22:20:55",
+      "type": "文本消息",
+      "str_content": "实验室是在哪呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1709130066,
+      "formatted_time": "2024-02-28 22:21:06",
+      "type": "文本消息",
+      "str_content": "管院308",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1709130595,
+      "formatted_time": "2024-02-28 22:29:55",
+      "type": "文本消息",
+      "str_content": "okk",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1709186069,
+      "formatted_time": "2024-02-29 13:54:29",
+      "type": "文本消息",
+      "str_content": "在哪呢",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1709186088,
+      "formatted_time": "2024-02-29 13:54:48",
+      "type": "文本消息",
+      "str_content": "咱们得现在过去",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1709186548,
+      "formatted_time": "2024-02-29 14:02:28",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1709186988,
+      "formatted_time": "2024-02-29 14:09:48",
+      "type": "文本消息",
+      "str_content": "昂，你走哪啦",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1709187380,
+      "formatted_time": "2024-02-29 14:16:20",
+      "type": "文本消息",
+      "str_content": "嘶",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1709187384,
+      "formatted_time": "2024-02-29 14:16:24",
+      "type": "文本消息",
+      "str_content": "我现在过去",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1709187388,
+      "formatted_time": "2024-02-29 14:16:28",
+      "type": "文本消息",
+      "str_content": "刚睡醒",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1709187419,
+      "formatted_time": "2024-02-29 14:16:59",
+      "type": "文本消息",
+      "str_content": "行哪你快过来吧",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1709188170,
+      "formatted_time": "2024-02-29 14:29:30",
+      "type": "文本消息",
+      "str_content": "我到了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1709188172,
+      "formatted_time": "2024-02-29 14:29:32",
+      "type": "文本消息",
+      "str_content": "308吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1709188231,
+      "formatted_time": "2024-02-29 14:30:31",
+      "type": "文本消息",
+      "str_content": "417 7672 3743",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711293164,
+      "formatted_time": "2024-03-24 23:12:44",
+      "type": "文本消息",
+      "str_content": "乔总 咱那个大创立项下来了莫",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711293181,
+      "formatted_time": "2024-03-24 23:13:01",
+      "type": "文本消息",
+      "str_content": "应该下来啦",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711293189,
+      "formatted_time": "2024-03-24 23:13:09",
+      "type": "文本消息",
+      "str_content": "你登上网站看看",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711293193,
+      "formatted_time": "2024-03-24 23:13:13",
+      "type": "文本消息",
+      "str_content": "我上床了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711293195,
+      "formatted_time": "2024-03-24 23:13:15",
+      "type": "文本消息",
+      "str_content": "[凋谢]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711293205,
+      "formatted_time": "2024-03-24 23:13:25",
+      "type": "文本消息",
+      "str_content": "okk",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711293208,
+      "formatted_time": "2024-03-24 23:13:28",
+      "type": "文本消息",
+      "str_content": "我改简历呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711293211,
+      "formatted_time": "2024-03-24 23:13:31",
+      "type": "文本消息",
+      "str_content": "准备开投了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711293216,
+      "formatted_time": "2024-03-24 23:13:36",
+      "type": "文本消息",
+      "str_content": "可以的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711293226,
+      "formatted_time": "2024-03-24 23:13:46",
+      "type": "图文消息",
+      "str_content": "重磅！2024年推免招生信息...",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711293236,
+      "formatted_time": "2024-03-24 23:13:56",
+      "type": "文本消息",
+      "str_content": "等明年你带我进清华",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711293236,
+      "formatted_time": "2024-03-24 23:13:56",
+      "type": "文本消息",
+      "str_content": "我这边这个论文也写的差不多了，已经给师兄了，他说帮我物色下投啥期刊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711293255,
+      "formatted_time": "2024-03-24 23:14:15",
+      "type": "文本消息",
+      "str_content": "太难了呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711293264,
+      "formatted_time": "2024-03-24 23:14:24",
+      "type": "文本消息",
+      "str_content": "都只能说投投试试了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711864440,
+      "formatted_time": "2024-03-31 13:54:00",
+      "type": "文本消息",
+      "str_content": "乔总，你们的那个项目的推进的怎么样了\n能帮我大概写一个机器学习的项目介绍嘛，我现在准备申夏令营了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711864868,
+      "formatted_time": "2024-03-31 14:01:08",
+      "type": "文本消息",
+      "str_content": "就咱们大创的那个可以吗",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711864882,
+      "formatted_time": "2024-03-31 14:01:22",
+      "type": "文本消息",
+      "str_content": "我和广圣这个现在还差很远",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711864895,
+      "formatted_time": "2024-03-31 14:01:35",
+      "type": "文本消息",
+      "str_content": "你主要讲你那部分吧",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711864902,
+      "formatted_time": "2024-03-31 14:01:42",
+      "type": "文本消息",
+      "str_content": "没事没事，大概写一个工作内容就ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711864907,
+      "formatted_time": "2024-03-31 14:01:47",
+      "type": "文件消息",
+      "str_content": "申报书.docx",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711864912,
+      "formatted_time": "2024-03-31 14:01:52",
+      "type": "文本消息",
+      "str_content": "就两段话讲讲计划哪些工作",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711864923,
+      "formatted_time": "2024-03-31 14:02:03",
+      "type": "文本消息",
+      "str_content": "不是这个",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711864923,
+      "formatted_time": "2024-03-31 14:02:03",
+      "type": "文本消息",
+      "str_content": "你们搞的相比申报书有变化吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711864927,
+      "formatted_time": "2024-03-31 14:02:07",
+      "type": "文本消息",
+      "str_content": "我找找啊",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711864929,
+      "formatted_time": "2024-03-31 14:02:09",
+      "type": "文本消息",
+      "str_content": "没有",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711864937,
+      "formatted_time": "2024-03-31 14:02:17",
+      "type": "文本消息",
+      "str_content": "okk",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711864944,
+      "formatted_time": "2024-03-31 14:02:24",
+      "type": "文本消息",
+      "str_content": "我在官网上下下来了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711864948,
+      "formatted_time": "2024-03-31 14:02:28",
+      "type": "文本消息",
+      "str_content": "我直接看着那个写吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711864953,
+      "formatted_time": "2024-03-31 14:02:33",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711864966,
+      "formatted_time": "2024-03-31 14:02:46",
+      "type": "文本消息",
+      "str_content": "就研究方法那段",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711864979,
+      "formatted_time": "2024-03-31 14:02:59",
+      "type": "文本消息",
+      "str_content": "你再结合下你的成果改一下就刚好",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711864990,
+      "formatted_time": "2024-03-31 14:03:10",
+      "type": "文本消息",
+      "str_content": "okk",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1711865009,
+      "formatted_time": "2024-03-31 14:03:29",
+      "type": "文本消息",
+      "str_content": "加油！",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1711865026,
+      "formatted_time": "2024-03-31 14:03:46",
+      "type": "文本消息",
+      "str_content": "现在都是海投阶段~先整理下材料碰碰运气吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715342122,
+      "formatted_time": "2024-05-10 19:55:22",
+      "type": "文本消息",
+      "str_content": "昂哥，你有实证类的之前的课程作业不",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715342139,
+      "formatted_time": "2024-05-10 19:55:39",
+      "type": "文本消息",
+      "str_content": "我们计量经济学下让交篇课程论文",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715342145,
+      "formatted_time": "2024-05-10 19:55:45",
+      "type": "文本消息",
+      "str_content": "[玫瑰][玫瑰][玫瑰][可怜][可怜][可怜]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348228,
+      "formatted_time": "2024-05-10 21:37:08",
+      "type": "文件消息",
+      "str_content": "数字普惠金融对收入差距泰尔指数的影响及其作用路径——基于中部六省数据的实证分析.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715348249,
+      "formatted_time": "2024-05-10 21:37:29",
+      "type": "文本消息",
+      "str_content": "我大二的时候写过一个这玩意",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715348257,
+      "formatted_time": "2024-05-10 21:37:37",
+      "type": "文本消息",
+      "str_content": "但现在看起来非常烂",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715348267,
+      "formatted_time": "2024-05-10 21:37:47",
+      "type": "文本消息",
+      "str_content": "你想要大概什么水平的论文",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715348295,
+      "formatted_time": "2024-05-10 21:38:15",
+      "type": "文件消息",
+      "str_content": "基于宏微观数据的恩格尔系数异质性研究.pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715348325,
+      "formatted_time": "2024-05-10 21:38:45",
+      "type": "文本消息",
+      "str_content": "随便一个都行",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348330,
+      "formatted_time": "2024-05-10 21:38:50",
+      "type": "文本消息",
+      "str_content": "就应付一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348334,
+      "formatted_time": "2024-05-10 21:38:54",
+      "type": "文本消息",
+      "str_content": "好复现的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348341,
+      "formatted_time": "2024-05-10 21:39:01",
+      "type": "文本消息",
+      "str_content": "这俩看起来都不错",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348387,
+      "formatted_time": "2024-05-10 21:39:47",
+      "type": "文本消息",
+      "str_content": "这两个应该都算是挺好复现的，，不过我不知道你们大概想要啥样的课程论文",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715348399,
+      "formatted_time": "2024-05-10 21:39:59",
+      "type": "文本消息",
+      "str_content": "你资料完整不，数据，代码啥的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348417,
+      "formatted_time": "2024-05-10 21:40:17",
+      "type": "引用消息",
+      "str_content": "随便选题用计量里的任意方法",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348422,
+      "formatted_time": "2024-05-10 21:40:22",
+      "type": "文本消息",
+      "str_content": "最好是面板数据",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348444,
+      "formatted_time": "2024-05-10 21:40:44",
+      "type": "文件消息",
+      "str_content": "代码.zip",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715348450,
+      "formatted_time": "2024-05-10 21:40:50",
+      "type": "文本消息",
+      "str_content": "这是第一个的数据和代码",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715348463,
+      "formatted_time": "2024-05-10 21:41:03",
+      "type": "文本消息",
+      "str_content": "我当时分的比较乱，你可以瞅下是这样不",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715348496,
+      "formatted_time": "2024-05-10 21:41:36",
+      "type": "文本消息",
+      "str_content": "有就行，没事的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348510,
+      "formatted_time": "2024-05-10 21:41:50",
+      "type": "文本消息",
+      "str_content": "这个管院的人你有分享过的没",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348523,
+      "formatted_time": "2024-05-10 21:42:03",
+      "type": "文本消息",
+      "str_content": "很久以前给过德水",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715348547,
+      "formatted_time": "2024-05-10 21:42:27",
+      "type": "文本消息",
+      "str_content": "嗷嗷，他那个老师和我们不一样",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348554,
+      "formatted_time": "2024-05-10 21:42:34",
+      "type": "文本消息",
+      "str_content": "那应该没问题啦",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348561,
+      "formatted_time": "2024-05-10 21:42:41",
+      "type": "文本消息",
+      "str_content": "感谢",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348569,
+      "formatted_time": "2024-05-10 21:42:49",
+      "type": "文本消息",
+      "str_content": "等你闲下来请你吃饭",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348576,
+      "formatted_time": "2024-05-10 21:42:56",
+      "type": "文本消息",
+      "str_content": "听说你最近超级忙",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715348594,
+      "formatted_time": "2024-05-10 21:43:14",
+      "type": "文本消息",
+      "str_content": "你可以按照真正的实证论文的格式来写，我这个是第一篇论文，格式上和真正的实证论文还是差挺大的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715348601,
+      "formatted_time": "2024-05-10 21:43:21",
+      "type": "文本消息",
+      "str_content": "[苦涩]瞎忙",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715348610,
+      "formatted_time": "2024-05-10 21:43:30",
+      "type": "引用消息",
+      "str_content": "okok",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715777295,
+      "formatted_time": "2024-05-15 20:48:15",
+      "type": "文本消息",
+      "str_content": "为深入贯彻落实习近平总书记关于新时代人才工作的新理念新战略新举措，进一步加强对拔尖创新人才的培养，提高科学素养，激励创新研究，根据《华中科技大学本科生自然科学创新基金管理实施细则》（本科生院〔2024〕7号），现组织推荐优秀本科生申报本科生自然科学创新基金项目（以下简称“本科生自科基金”）。关于开展2024年度华中科技大学本科生自然科学创新基金项目推荐工作的通知（https://ugs.hust.edu.cn/info/1142/6191.htm）@全体成员",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715777309,
+      "formatted_time": "2024-05-15 20:48:29",
+      "type": "文本消息",
+      "str_content": "？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715777315,
+      "formatted_time": "2024-05-15 20:48:35",
+      "type": "文本消息",
+      "str_content": "本科生申报国自然？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715777318,
+      "formatted_time": "2024-05-15 20:48:38",
+      "type": "文本消息",
+      "str_content": "集结令",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715777331,
+      "formatted_time": "2024-05-15 20:48:51",
+      "type": "文本消息",
+      "str_content": "师兄说有现成申报书",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715777349,
+      "formatted_time": "2024-05-15 20:49:09",
+      "type": "文本消息",
+      "str_content": "噢噢噢不是国自然啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715777351,
+      "formatted_time": "2024-05-15 20:49:11",
+      "type": "文本消息",
+      "str_content": "吓我一跳",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715777355,
+      "formatted_time": "2024-05-15 20:49:15",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715777355,
+      "formatted_time": "2024-05-15 20:49:15",
+      "type": "文本消息",
+      "str_content": "看岔劈了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715777364,
+      "formatted_time": "2024-05-15 20:49:24",
+      "type": "文本消息",
+      "str_content": "我也是一眼看错",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715777372,
+      "formatted_time": "2024-05-15 20:49:32",
+      "type": "文本消息",
+      "str_content": "不过这个咱们可以试一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715777378,
+      "formatted_time": "2024-05-15 20:49:38",
+      "type": "文本消息",
+      "str_content": "可以的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1715777384,
+      "formatted_time": "2024-05-15 20:49:44",
+      "type": "文本消息",
+      "str_content": "师兄说拿生猪那个申请",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1715777494,
+      "formatted_time": "2024-05-15 20:51:34",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716777297,
+      "formatted_time": "2024-05-27 10:34:57",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716777310,
+      "formatted_time": "2024-05-27 10:35:10",
+      "type": "文本消息",
+      "str_content": "把这个发我一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716777369,
+      "formatted_time": "2024-05-27 10:36:09",
+      "type": "文本消息",
+      "str_content": "姓名：徐昂\n出生年月：2003年7月\n学号：U202116333\n院系：经济学院",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716777385,
+      "formatted_time": "2024-05-27 10:36:25",
+      "type": "文本消息",
+      "str_content": "电子签名",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716777388,
+      "formatted_time": "2024-05-27 10:36:28",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716777409,
+      "formatted_time": "2024-05-27 10:36:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716777418,
+      "formatted_time": "2024-05-27 10:36:58",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716796327,
+      "formatted_time": "2024-05-27 15:52:07",
+      "type": "文本消息",
+      "str_content": "11",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716796330,
+      "formatted_time": "2024-05-27 15:52:10",
+      "type": "文本消息",
+      "str_content": "在上课",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716796338,
+      "formatted_time": "2024-05-27 15:52:18",
+      "type": "文本消息",
+      "str_content": "下课给我回个电话",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716796347,
+      "formatted_time": "2024-05-27 15:52:27",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716796374,
+      "formatted_time": "2024-05-27 15:52:54",
+      "type": "文本消息",
+      "str_content": "你们学院申报项目情况如何",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716796384,
+      "formatted_time": "2024-05-27 15:53:04",
+      "type": "引用消息",
+      "str_content": "这个",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716796386,
+      "formatted_time": "2024-05-27 15:53:06",
+      "type": "文本消息",
+      "str_content": "hh 我没关注这一块呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716796395,
+      "formatted_time": "2024-05-27 15:53:15",
+      "type": "文本消息",
+      "str_content": "你看下通知",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716796395,
+      "formatted_time": "2024-05-27 15:53:15",
+      "type": "文本消息",
+      "str_content": "感觉我身边的朋友也没怎么关注",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716796410,
+      "formatted_time": "2024-05-27 15:53:30",
+      "type": "文本消息",
+      "str_content": "你们学院啥时候截止",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716796455,
+      "formatted_time": "2024-05-27 15:54:15",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716796460,
+      "formatted_time": "2024-05-27 15:54:20",
+      "type": "文本消息",
+      "str_content": "今天下午？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716796482,
+      "formatted_time": "2024-05-27 15:54:42",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716796489,
+      "formatted_time": "2024-05-27 15:54:49",
+      "type": "文本消息",
+      "str_content": "先等你下课",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716796498,
+      "formatted_time": "2024-05-27 15:54:58",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716797172,
+      "formatted_time": "2024-05-27 16:06:12",
+      "type": "文本消息",
+      "str_content": "11？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716798985,
+      "formatted_time": "2024-05-27 16:36:25",
+      "type": "文本消息",
+      "str_content": "教务这边说没问题",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716798991,
+      "formatted_time": "2024-05-27 16:36:31",
+      "type": "文本消息",
+      "str_content": "你先发我下申报书嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716798995,
+      "formatted_time": "2024-05-27 16:36:35",
+      "type": "文本消息",
+      "str_content": "我给导师看看",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716799071,
+      "formatted_time": "2024-05-27 16:37:51",
+      "type": "文件消息",
+      "str_content": "附件：华中科技大学本科生自然科学创新基金项目申请书(1).docx",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716799080,
+      "formatted_time": "2024-05-27 16:38:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716799127,
+      "formatted_time": "2024-05-27 16:38:47",
+      "type": "文本消息",
+      "str_content": "这是我们刚刚从申报书直接复制过来的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716799138,
+      "formatted_time": "2024-05-27 16:38:58",
+      "type": "文本消息",
+      "str_content": "你先别急着给导师看",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716799154,
+      "formatted_time": "2024-05-27 16:39:14",
+      "type": "文本消息",
+      "str_content": "先改好了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716799205,
+      "formatted_time": "2024-05-27 16:40:05",
+      "type": "文本消息",
+      "str_content": "等下你考完试",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716799212,
+      "formatted_time": "2024-05-27 16:40:12",
+      "type": "文本消息",
+      "str_content": "okk",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716799218,
+      "formatted_time": "2024-05-27 16:40:18",
+      "type": "文本消息",
+      "str_content": "晚上咱们碰头搞一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716799224,
+      "formatted_time": "2024-05-27 16:40:24",
+      "type": "文本消息",
+      "str_content": "现在还比较粗糙",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716799285,
+      "formatted_time": "2024-05-27 16:41:25",
+      "type": "文本消息",
+      "str_content": "今晚我考完试之后还有点事，要不你们先修改，明天我再问着导师改改？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716799941,
+      "formatted_time": "2024-05-27 16:52:21",
+      "type": "文本消息",
+      "str_content": "应该不用你导师改",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716800008,
+      "formatted_time": "2024-05-27 16:53:28",
+      "type": "文本消息",
+      "str_content": "就是，我们搞好之后，你直接让他签字那种，主要是前期工作那里，你把你那篇论文加上",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716800025,
+      "formatted_time": "2024-05-27 16:53:45",
+      "type": "文本消息",
+      "str_content": "就必须是纸质签字嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716800029,
+      "formatted_time": "2024-05-27 16:53:49",
+      "type": "文本消息",
+      "str_content": "电子签行吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716800090,
+      "formatted_time": "2024-05-27 16:54:50",
+      "type": "文本消息",
+      "str_content": "电子签就行",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716800402,
+      "formatted_time": "2024-05-27 17:00:02",
+      "type": "引用消息",
+      "str_content": "你大概几点有空",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716800534,
+      "formatted_time": "2024-05-27 17:02:14",
+      "type": "文本消息",
+      "str_content": "不好说，可能得十一点十二点",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716800537,
+      "formatted_time": "2024-05-27 17:02:17",
+      "type": "文本消息",
+      "str_content": "我导师这边ok了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716800663,
+      "formatted_time": "2024-05-27 17:04:23",
+      "type": "文本消息",
+      "str_content": "okok",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716823590,
+      "formatted_time": "2024-05-27 23:26:30",
+      "type": "文件消息",
+      "str_content": "（徐昂）华中科技大学本科生自然科学创新基金项目申请书.docx",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716824907,
+      "formatted_time": "2024-05-27 23:48:27",
+      "type": "文件消息",
+      "str_content": "附件：华中科技大学本科生自然科学创新基金项目申请书(1)(1)(1).pdf",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716824931,
+      "formatted_time": "2024-05-27 23:48:51",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716825112,
+      "formatted_time": "2024-05-27 23:51:52",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716859070,
+      "formatted_time": "2024-05-28 09:17:50",
+      "type": "文件消息",
+      "str_content": "（徐昂）华中科技大学本科生自然科学创新基金项目申请书.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716859079,
+      "formatted_time": "2024-05-28 09:17:59",
+      "type": "文本消息",
+      "str_content": "乔总你再看看是这个意思不",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716859088,
+      "formatted_time": "2024-05-28 09:18:08",
+      "type": "文本消息",
+      "str_content": "没啥问题我就交去了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716859216,
+      "formatted_time": "2024-05-28 09:20:16",
+      "type": "文本消息",
+      "str_content": "可以的，先交吧，师兄要是有时间估计还会帮你改改",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1716859286,
+      "formatted_time": "2024-05-28 09:21:26",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717062236,
+      "formatted_time": "2024-05-30 17:43:56",
+      "type": "文本消息",
+      "str_content": "那老师没理我[捂脸]可能已经下班了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717062241,
+      "formatted_time": "2024-05-30 17:44:01",
+      "type": "文本消息",
+      "str_content": "明天我再问问吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717062658,
+      "formatted_time": "2024-05-30 17:50:58",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717120528,
+      "formatted_time": "2024-05-31 09:55:28",
+      "type": "文本消息",
+      "str_content": "你那边上了吗",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717120675,
+      "formatted_time": "2024-05-31 09:57:55",
+      "type": "文本消息",
+      "str_content": "貌似是过了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717120681,
+      "formatted_time": "2024-05-31 09:58:01",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717120684,
+      "formatted_time": "2024-05-31 09:58:04",
+      "type": "文本消息",
+      "str_content": "这老师直接说材料已经报给学校了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717120691,
+      "formatted_time": "2024-05-31 09:58:11",
+      "type": "文本消息",
+      "str_content": "没有院内公示[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717120698,
+      "formatted_time": "2024-05-31 09:58:18",
+      "type": "文本消息",
+      "str_content": "可能这一级就我报了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717120702,
+      "formatted_time": "2024-05-31 09:58:22",
+      "type": "文本消息",
+      "str_content": "那就好",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717120733,
+      "formatted_time": "2024-05-31 09:58:53",
+      "type": "文本消息",
+      "str_content": "我们这级应该是属于大家都在关注保研[捂脸]保不上研的也不想做科研",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717127491,
+      "formatted_time": "2024-05-31 11:51:31",
+      "type": "文本消息",
+      "str_content": "昂，准备答辩",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717127503,
+      "formatted_time": "2024-05-31 11:51:43",
+      "type": "文本消息",
+      "str_content": "他好像6.10号之前要答辩",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717127510,
+      "formatted_time": "2024-05-31 11:51:50",
+      "type": "文本消息",
+      "str_content": "5w块啊",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717127523,
+      "formatted_time": "2024-05-31 11:52:03",
+      "type": "文本消息",
+      "str_content": "等你从国外回来我们毕业旅行",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717131120,
+      "formatted_time": "2024-05-31 12:52:00",
+      "type": "文本消息",
+      "str_content": "好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717131145,
+      "formatted_time": "2024-05-31 12:52:25",
+      "type": "文本消息",
+      "str_content": "他这个答辩是先过了材料再答辩，还是同时参考材料和答辩",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717131293,
+      "formatted_time": "2024-05-31 12:54:53",
+      "type": "文本消息",
+      "str_content": "应该是同时",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717131297,
+      "formatted_time": "2024-05-31 12:54:57",
+      "type": "文本消息",
+      "str_content": "不太清楚",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717131330,
+      "formatted_time": "2024-05-31 12:55:30",
+      "type": "文本消息",
+      "str_content": "这个ppt的材料啥的等师兄旅游完回来都可以搞",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717133495,
+      "formatted_time": "2024-05-31 13:31:35",
+      "type": "文本消息",
+      "str_content": "ok的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717501168,
+      "formatted_time": "2024-06-04 19:39:28",
+      "type": "文本消息",
+      "str_content": "你明天啥时候有空呀",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717504000,
+      "formatted_time": "2024-06-04 20:26:40",
+      "type": "文本消息",
+      "str_content": "明天不太好说，下午晚一点或者晚上吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717506345,
+      "formatted_time": "2024-06-04 21:05:45",
+      "type": "文本消息",
+      "str_content": "具体几点",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717506355,
+      "formatted_time": "2024-06-04 21:05:55",
+      "type": "文本消息",
+      "str_content": "我约师兄时间",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717506717,
+      "formatted_time": "2024-06-04 21:11:57",
+      "type": "文本消息",
+      "str_content": "下午四五点吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717506720,
+      "formatted_time": "2024-06-04 21:12:00",
+      "type": "文本消息",
+      "str_content": "那个答辩有消息吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717506756,
+      "formatted_time": "2024-06-04 21:12:36",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717506762,
+      "formatted_time": "2024-06-04 21:12:42",
+      "type": "文本消息",
+      "str_content": "暂无",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717506769,
+      "formatted_time": "2024-06-04 21:12:49",
+      "type": "文本消息",
+      "str_content": "应该会直接通知你",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717506805,
+      "formatted_time": "2024-06-04 21:13:25",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717506809,
+      "formatted_time": "2024-06-04 21:13:29",
+      "type": "文本消息",
+      "str_content": "奇怪",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717506818,
+      "formatted_time": "2024-06-04 21:13:38",
+      "type": "文本消息",
+      "str_content": "10号之前出结果应该早就该发了啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717507025,
+      "formatted_time": "2024-06-04 21:17:05",
+      "type": "文本消息",
+      "str_content": "广圣那边是打电话问的吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717507406,
+      "formatted_time": "2024-06-04 21:23:26",
+      "type": "文本消息",
+      "str_content": "打电话问的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717507436,
+      "formatted_time": "2024-06-04 21:23:56",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717574805,
+      "formatted_time": "2024-06-05 16:06:45",
+      "type": "文本消息",
+      "str_content": "怎么说",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717574807,
+      "formatted_time": "2024-06-05 16:06:47",
+      "type": "文本消息",
+      "str_content": "徐书记",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717574912,
+      "formatted_time": "2024-06-05 16:08:32",
+      "type": "文本消息",
+      "str_content": "刚下课",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717574914,
+      "formatted_time": "2024-06-05 16:08:34",
+      "type": "文本消息",
+      "str_content": "我现在过去吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717575005,
+      "formatted_time": "2024-06-05 16:10:05",
+      "type": "文本消息",
+      "str_content": "来吧",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717575018,
+      "formatted_time": "2024-06-05 16:10:18",
+      "type": "文本消息",
+      "str_content": "广圣也在",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1717575405,
+      "formatted_time": "2024-06-05 16:16:45",
+      "type": "文本消息",
+      "str_content": "在哪个房间来着",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1717575414,
+      "formatted_time": "2024-06-05 16:16:54",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1718198158,
+      "formatted_time": "2024-06-12 21:15:58",
+      "type": "文本消息",
+      "str_content": "ppt咋样了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1718198160,
+      "formatted_time": "2024-06-12 21:16:00",
+      "type": "文本消息",
+      "str_content": "徐书记",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1718198209,
+      "formatted_time": "2024-06-12 21:16:49",
+      "type": "文本消息",
+      "str_content": "还没做呢[捂脸]我看他一直都没发通知",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1718198214,
+      "formatted_time": "2024-06-12 21:16:54",
+      "type": "文本消息",
+      "str_content": "这个感觉应该不难做吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1718198223,
+      "formatted_time": "2024-06-12 21:17:03",
+      "type": "文本消息",
+      "str_content": "没事没事",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1718198227,
+      "formatted_time": "2024-06-12 21:17:07",
+      "type": "文本消息",
+      "str_content": "有思路就行",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1718198254,
+      "formatted_time": "2024-06-12 21:17:34",
+      "type": "文本消息",
+      "str_content": "我都不知道这答辩还有没有了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1718198256,
+      "formatted_time": "2024-06-12 21:17:36",
+      "type": "文本消息",
+      "str_content": "一直没消息",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1718198262,
+      "formatted_time": "2024-06-12 21:17:42",
+      "type": "文本消息",
+      "str_content": "确实",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1718627591,
+      "formatted_time": "2024-06-17 20:33:11",
+      "type": "文件消息",
+      "str_content": "关于华中科技大学本科生自然科学创新基金项目申报答辩的通知.docx",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1718627609,
+      "formatted_time": "2024-06-17 20:33:29",
+      "type": "文本消息",
+      "str_content": "妈逼这周末啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1718627618,
+      "formatted_time": "2024-06-17 20:33:38",
+      "type": "文本消息",
+      "str_content": "我周五要去上海面试。。",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1718627730,
+      "formatted_time": "2024-06-17 20:35:30",
+      "type": "文本消息",
+      "str_content": "那就只有德水了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1719308915,
+      "formatted_time": "2024-06-25 17:48:35",
+      "type": "文本消息",
+      "str_content": "gogo？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1719309090,
+      "formatted_time": "2024-06-25 17:51:30",
+      "type": "文本消息",
+      "str_content": "gg",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1719309133,
+      "formatted_time": "2024-06-25 17:52:13",
+      "type": "文本消息",
+      "str_content": "going",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1719427755,
+      "formatted_time": "2024-06-27 02:49:15",
+      "type": "文本消息",
+      "str_content": "徐书记，你相机在我这",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1719427761,
+      "formatted_time": "2024-06-27 02:49:21",
+      "type": "文本消息",
+      "str_content": "我明天给你送过去",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1719427767,
+      "formatted_time": "2024-06-27 02:49:27",
+      "type": "文本消息",
+      "str_content": "不对，今天",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1719427774,
+      "formatted_time": "2024-06-27 02:49:34",
+      "type": "文本消息",
+      "str_content": "你看你啥时候在宿舍",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1719453640,
+      "formatted_time": "2024-06-27 10:00:40",
+      "type": "文本消息",
+      "str_content": "都行都行，今天我都在宿舍",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1719476288,
+      "formatted_time": "2024-06-27 16:18:08",
+      "type": "文本消息",
+      "str_content": "我16：50放你楼下？",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1719476295,
+      "formatted_time": "2024-06-27 16:18:15",
+      "type": "文本消息",
+      "str_content": "正好不下雨了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1719476635,
+      "formatted_time": "2024-06-27 16:23:55",
+      "type": "文本消息",
+      "str_content": "好[强]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1719477841,
+      "formatted_time": "2024-06-27 16:44:01",
+      "type": "文本消息",
+      "str_content": "我到啦",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1719477874,
+      "formatted_time": "2024-06-27 16:44:34",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1719477947,
+      "formatted_time": "2024-06-27 16:45:47",
+      "type": "文本消息",
+      "str_content": "妈的，出不去了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1719478000,
+      "formatted_time": "2024-06-27 16:46:40",
+      "type": "文本消息",
+      "str_content": "OK了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1719479196,
+      "formatted_time": "2024-06-27 17:06:36",
+      "type": "文本消息",
+      "str_content": "哎我操",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1719479200,
+      "formatted_time": "2024-06-27 17:06:40",
+      "type": "文本消息",
+      "str_content": "好乔总",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1719479221,
+      "formatted_time": "2024-06-27 17:07:01",
+      "type": "文本消息",
+      "str_content": "多谢乔主席跑这一趟了[抱拳][亲亲]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721207028,
+      "formatted_time": "2024-07-17 17:03:48",
+      "type": "文本消息",
+      "str_content": "大师兄搞了个机器学习的群",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1721207039,
+      "formatted_time": "2024-07-17 17:03:59",
+      "type": "文本消息",
+      "str_content": "问下徐书记要不要一起交流",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1721207134,
+      "formatted_time": "2024-07-17 17:05:34",
+      "type": "文本消息",
+      "str_content": "好啊[呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721207141,
+      "formatted_time": "2024-07-17 17:05:41",
+      "type": "文本消息",
+      "str_content": "不过我目前对机器学习仍然处于兴趣萌芽和基础阶段，可能提不出啥有趣的东西[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721207148,
+      "formatted_time": "2024-07-17 17:05:48",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1721207153,
+      "formatted_time": "2024-07-17 17:05:53",
+      "type": "文本消息",
+      "str_content": "没事没事",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1721207165,
+      "formatted_time": "2024-07-17 17:06:05",
+      "type": "文本消息",
+      "str_content": "里面大部分你都认识应该",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1721207168,
+      "formatted_time": "2024-07-17 17:06:08",
+      "type": "文本消息",
+      "str_content": "一起学习",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1721207194,
+      "formatted_time": "2024-07-17 17:06:34",
+      "type": "文本消息",
+      "str_content": "[呲牙]好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721207205,
+      "formatted_time": "2024-07-17 17:06:45",
+      "type": "文本消息",
+      "str_content": "看见管院优营里有乔主席了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721207209,
+      "formatted_time": "2024-07-17 17:06:49",
+      "type": "文本消息",
+      "str_content": "未来已经稳了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721207239,
+      "formatted_time": "2024-07-17 17:07:19",
+      "type": "文本消息",
+      "str_content": "差的远呢",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1721207245,
+      "formatted_time": "2024-07-17 17:07:25",
+      "type": "文本消息",
+      "str_content": "前途渺茫啊",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1721207254,
+      "formatted_time": "2024-07-17 17:07:34",
+      "type": "文本消息",
+      "str_content": "这咋前途渺茫了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721207286,
+      "formatted_time": "2024-07-17 17:08:06",
+      "type": "文本消息",
+      "str_content": "唉，你最后选北大了嘛",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1721207300,
+      "formatted_time": "2024-07-17 17:08:20",
+      "type": "文本消息",
+      "str_content": "嗯对，去读数量金融了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721207317,
+      "formatted_time": "2024-07-17 17:08:37",
+      "type": "文本消息",
+      "str_content": "也是直博嘛",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1721207329,
+      "formatted_time": "2024-07-17 17:08:49",
+      "type": "文本消息",
+      "str_content": "哈哈这个是专硕，金融大部分是专硕",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1721207385,
+      "formatted_time": "2024-07-17 17:09:45",
+      "type": "文本消息",
+      "str_content": "嗷嗷",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1725793312,
+      "formatted_time": "2024-09-08 19:01:52",
+      "type": "文本消息",
+      "str_content": "吃饭了没",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1725793330,
+      "formatted_time": "2024-09-08 19:02:10",
+      "type": "文本消息",
+      "str_content": "吃完了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1725793332,
+      "formatted_time": "2024-09-08 19:02:12",
+      "type": "文本消息",
+      "str_content": "健身呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1725793344,
+      "formatted_time": "2024-09-08 19:02:24",
+      "type": "文本消息",
+      "str_content": "东迈？",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1725793373,
+      "formatted_time": "2024-09-08 19:02:53",
+      "type": "文本消息",
+      "str_content": "那算了，本来说叫你晚上吃宵夜呢",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1725793517,
+      "formatted_time": "2024-09-08 19:05:17",
+      "type": "文本消息",
+      "str_content": "妈的，哥们儿现在得自律了呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1725793522,
+      "formatted_time": "2024-09-08 19:05:22",
+      "type": "文本消息",
+      "str_content": "太细了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1725793529,
+      "formatted_time": "2024-09-08 19:05:29",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1725793533,
+      "formatted_time": "2024-09-08 19:05:33",
+      "type": "文本消息",
+      "str_content": "一起自律",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1726461801,
+      "formatted_time": "2024-09-16 12:43:21",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1726894676,
+      "formatted_time": "2024-09-21 12:57:56",
+      "type": "文本消息",
+      "str_content": "妈的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1726894677,
+      "formatted_time": "2024-09-21 12:57:57",
+      "type": "文本消息",
+      "str_content": "不是",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1726894681,
+      "formatted_time": "2024-09-21 12:58:01",
+      "type": "文本消息",
+      "str_content": "那不是大创报销",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1726894688,
+      "formatted_time": "2024-09-21 12:58:08",
+      "type": "文本消息",
+      "str_content": "那他妈是退的学费",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1726894704,
+      "formatted_time": "2024-09-21 12:58:24",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727446408,
+      "formatted_time": "2024-09-27 22:13:28",
+      "type": "文本消息",
+      "str_content": "昂兄，后天晚上有时间不",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727446429,
+      "formatted_time": "2024-09-27 22:13:49",
+      "type": "文本消息",
+      "str_content": "应该OK",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727446518,
+      "formatted_time": "2024-09-27 22:15:18",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727484444,
+      "formatted_time": "2024-09-28 08:47:24",
+      "type": "文本消息",
+      "str_content": "中午呢",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727484473,
+      "formatted_time": "2024-09-28 08:47:53",
+      "type": "文本消息",
+      "str_content": "中午应该相比晚上还好一点",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727484629,
+      "formatted_time": "2024-09-28 08:50:29",
+      "type": "文本消息",
+      "str_content": "那就中午吧",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727500229,
+      "formatted_time": "2024-09-28 13:10:29",
+      "type": "文本消息",
+      "str_content": "昂，闲了给我回个电话",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727500230,
+      "formatted_time": "2024-09-28 13:10:30",
+      "type": "文本消息",
+      "str_content": "dd",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727500374,
+      "formatted_time": "2024-09-28 13:12:54",
+      "type": "文本消息",
+      "str_content": "你晚上几点有空呀，17:40管院集合可以吗",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727500392,
+      "formatted_time": "2024-09-28 13:13:12",
+      "type": "文本消息",
+      "str_content": "看你时间，可以晚一点",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727500413,
+      "formatted_time": "2024-09-28 13:13:33",
+      "type": "文本消息",
+      "str_content": "嗯嗯应该ok滴，那就17:40吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727500418,
+      "formatted_time": "2024-09-28 13:13:38",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727506701,
+      "formatted_time": "2024-09-28 14:58:21",
+      "type": "文本消息",
+      "str_content": "昂，我们到时候直接打车出发",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727506721,
+      "formatted_time": "2024-09-28 14:58:41",
+      "type": "文本消息",
+      "str_content": "你17:40在宿舍楼下集合就可以",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727506842,
+      "formatted_time": "2024-09-28 15:00:42",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727516328,
+      "formatted_time": "2024-09-28 17:38:48",
+      "type": "文本消息",
+      "str_content": "我在8栋楼下了乔总",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727516332,
+      "formatted_time": "2024-09-28 17:38:52",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727516335,
+      "formatted_time": "2024-09-28 17:38:55",
+      "type": "文本消息",
+      "str_content": "马上过来",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727516361,
+      "formatted_time": "2024-09-28 17:39:21",
+      "type": "文本消息",
+      "str_content": "咱们去东九门",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727516372,
+      "formatted_time": "2024-09-28 17:39:32",
+      "type": "文本消息",
+      "str_content": "好，我自己先过去？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727516516,
+      "formatted_time": "2024-09-28 17:41:56",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727516592,
+      "formatted_time": "2024-09-28 17:43:12",
+      "type": "文本消息",
+      "str_content": "到了到了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727516593,
+      "formatted_time": "2024-09-28 17:43:13",
+      "type": "文本消息",
+      "str_content": "[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727525952,
+      "formatted_time": "2024-09-28 20:19:12",
+      "type": "名片消息",
+      "str_content": "[名片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727525965,
+      "formatted_time": "2024-09-28 20:19:25",
+      "type": "文本消息",
+      "str_content": "[旺柴][强]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727579515,
+      "formatted_time": "2024-09-29 11:11:55",
+      "type": "文本消息",
+      "str_content": "昂兄，来管院吧",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727579649,
+      "formatted_time": "2024-09-29 11:14:09",
+      "type": "文本消息",
+      "str_content": "好哩",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727580336,
+      "formatted_time": "2024-09-29 11:25:36",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727580354,
+      "formatted_time": "2024-09-29 11:25:54",
+      "type": "文本消息",
+      "str_content": "308",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727580358,
+      "formatted_time": "2024-09-29 11:25:58",
+      "type": "文本消息",
+      "str_content": "一起出发吧",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1727580391,
+      "formatted_time": "2024-09-29 11:26:31",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727580396,
+      "formatted_time": "2024-09-29 11:26:36",
+      "type": "文本消息",
+      "str_content": "你们车是在北边还是南边",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727580460,
+      "formatted_time": "2024-09-29 11:27:40",
+      "type": "文本消息",
+      "str_content": "北边",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728028773,
+      "formatted_time": "2024-10-04 15:59:33",
+      "type": "文本消息",
+      "str_content": "乔总，你平常是用anaconda搞虚拟环境还是vscode啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728028779,
+      "formatted_time": "2024-10-04 15:59:39",
+      "type": "文本消息",
+      "str_content": "他妈的我现在很迷",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728028785,
+      "formatted_time": "2024-10-04 15:59:45",
+      "type": "文本消息",
+      "str_content": "这俩有啥区别吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728030807,
+      "formatted_time": "2024-10-04 16:33:27",
+      "type": "文本消息",
+      "str_content": "vscode是ide",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728030844,
+      "formatted_time": "2024-10-04 16:34:04",
+      "type": "文本消息",
+      "str_content": "相当于编代码的工具",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728030867,
+      "formatted_time": "2024-10-04 16:34:27",
+      "type": "文本消息",
+      "str_content": "然后python是语言，就相当于跑代码用的东西",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728030906,
+      "formatted_time": "2024-10-04 16:35:06",
+      "type": "文本消息",
+      "str_content": "然后conda是帮忙配置python环境的工具",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728030935,
+      "formatted_time": "2024-10-04 16:35:35",
+      "type": "文本消息",
+      "str_content": "你在学校不，明天或者后天可以帮你配置一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728030953,
+      "formatted_time": "2024-10-04 16:35:53",
+      "type": "文本消息",
+      "str_content": "后天可以见一下",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728030957,
+      "formatted_time": "2024-10-04 16:35:57",
+      "type": "文本消息",
+      "str_content": "现在我搁乌镇呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728030960,
+      "formatted_time": "2024-10-04 16:36:00",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728030963,
+      "formatted_time": "2024-10-04 16:36:03",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728030972,
+      "formatted_time": "2024-10-04 16:36:12",
+      "type": "文本消息",
+      "str_content": "旅游还搞工作啊",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728031171,
+      "formatted_time": "2024-10-04 16:39:31",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728031176,
+      "formatted_time": "2024-10-04 16:39:36",
+      "type": "文本消息",
+      "str_content": "带教今天还在工作呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728031186,
+      "formatted_time": "2024-10-04 16:39:46",
+      "type": "文本消息",
+      "str_content": "行情太好现在所有券商都在加班",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728031199,
+      "formatted_time": "2024-10-04 16:39:59",
+      "type": "文本消息",
+      "str_content": "加班加点出报告搞路演",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728193993,
+      "formatted_time": "2024-10-06 13:53:13",
+      "type": "文本消息",
+      "str_content": "啥时候方便乔博",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728194007,
+      "formatted_time": "2024-10-06 13:53:27",
+      "type": "文本消息",
+      "str_content": "都方便",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728194017,
+      "formatted_time": "2024-10-06 13:53:37",
+      "type": "文本消息",
+      "str_content": "你有空就来我宿舍呗",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728194023,
+      "formatted_time": "2024-10-06 13:53:43",
+      "type": "文本消息",
+      "str_content": "好啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728194023,
+      "formatted_time": "2024-10-06 13:53:43",
+      "type": "文本消息",
+      "str_content": "你是mac是吗",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728194030,
+      "formatted_time": "2024-10-06 13:53:50",
+      "type": "文本消息",
+      "str_content": "配环境用win吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728194036,
+      "formatted_time": "2024-10-06 13:53:56",
+      "type": "文本消息",
+      "str_content": "平时mac处理简单的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728194036,
+      "formatted_time": "2024-10-06 13:53:56",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728194043,
+      "formatted_time": "2024-10-06 13:54:03",
+      "type": "文本消息",
+      "str_content": "我大概四点多？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728194047,
+      "formatted_time": "2024-10-06 13:54:07",
+      "type": "文本消息",
+      "str_content": "洗个澡换换衣服啥的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728194049,
+      "formatted_time": "2024-10-06 13:54:09",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728194050,
+      "formatted_time": "2024-10-06 13:54:10",
+      "type": "文本消息",
+      "str_content": "早上刚回",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728194061,
+      "formatted_time": "2024-10-06 13:54:21",
+      "type": "文本消息",
+      "str_content": "没和小娟一起啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728194070,
+      "formatted_time": "2024-10-06 13:54:30",
+      "type": "文本消息",
+      "str_content": "晓娟回去啦",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728194086,
+      "formatted_time": "2024-10-06 13:54:46",
+      "type": "文本消息",
+      "str_content": "不多陪陪你了啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728194097,
+      "formatted_time": "2024-10-06 13:54:57",
+      "type": "文本消息",
+      "str_content": "回去又夜班要上",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728194114,
+      "formatted_time": "2024-10-06 13:55:14",
+      "type": "文本消息",
+      "str_content": "[惊恐]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728194120,
+      "formatted_time": "2024-10-06 13:55:20",
+      "type": "文本消息",
+      "str_content": "太伟大了医务工作者",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728199846,
+      "formatted_time": "2024-10-06 15:30:46",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728199873,
+      "formatted_time": "2024-10-06 15:31:13",
+      "type": "文本消息",
+      "str_content": "我这边恭迎你乔博",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728199882,
+      "formatted_time": "2024-10-06 15:31:22",
+      "type": "文本消息",
+      "str_content": "8栋319",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728199883,
+      "formatted_time": "2024-10-06 15:31:23",
+      "type": "文本消息",
+      "str_content": "随时来",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728202769,
+      "formatted_time": "2024-10-06 16:19:29",
+      "type": "文本消息",
+      "str_content": "e3918db4834d06f8",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728203773,
+      "formatted_time": "2024-10-06 16:36:13",
+      "type": "文件消息",
+      "str_content": "server-guide - 副本.md",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728204491,
+      "formatted_time": "2024-10-06 16:48:11",
+      "type": "文本消息",
+      "str_content": "叫了6+1",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728204574,
+      "formatted_time": "2024-10-06 16:49:34",
+      "type": "文本消息",
+      "str_content": "想吃啥不",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728204611,
+      "formatted_time": "2024-10-06 16:50:11",
+      "type": "文本消息",
+      "str_content": "都行",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728204615,
+      "formatted_time": "2024-10-06 16:50:15",
+      "type": "文本消息",
+      "str_content": "随便吃点就行",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728204624,
+      "formatted_time": "2024-10-06 16:50:24",
+      "type": "文本消息",
+      "str_content": "那直接七点老街烧烤吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728204628,
+      "formatted_time": "2024-10-06 16:50:28",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728204639,
+      "formatted_time": "2024-10-06 16:50:39",
+      "type": "文本消息",
+      "str_content": "咱们半夜去的那家嘛",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728204651,
+      "formatted_time": "2024-10-06 16:50:51",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728204654,
+      "formatted_time": "2024-10-06 16:50:54",
+      "type": "文本消息",
+      "str_content": "[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728204661,
+      "formatted_time": "2024-10-06 16:51:01",
+      "type": "文本消息",
+      "str_content": "剩了一大堆的那个",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728204667,
+      "formatted_time": "2024-10-06 16:51:07",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728212231,
+      "formatted_time": "2024-10-06 18:57:11",
+      "type": "文本消息",
+      "str_content": "出发？",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728212234,
+      "formatted_time": "2024-10-06 18:57:14",
+      "type": "文本消息",
+      "str_content": "dd",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728212237,
+      "formatted_time": "2024-10-06 18:57:17",
+      "type": "文本消息",
+      "str_content": "我俩刚到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728212241,
+      "formatted_time": "2024-10-06 18:57:21",
+      "type": "文本消息",
+      "str_content": "嗷嗷",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728212243,
+      "formatted_time": "2024-10-06 18:57:23",
+      "type": "文本消息",
+      "str_content": "我马上到",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728374630,
+      "formatted_time": "2024-10-08 16:03:50",
+      "type": "文本消息",
+      "str_content": "我去送那个不断网申请，我们学院副书记不给签字",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728374633,
+      "formatted_time": "2024-10-08 16:03:53",
+      "type": "文本消息",
+      "str_content": "说没有先例",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728374637,
+      "formatted_time": "2024-10-08 16:03:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728374641,
+      "formatted_time": "2024-10-08 16:04:01",
+      "type": "文本消息",
+      "str_content": "就整了个不断电",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728377018,
+      "formatted_time": "2024-10-08 16:43:38",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728377020,
+      "formatted_time": "2024-10-08 16:43:40",
+      "type": "文本消息",
+      "str_content": "好的好的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728468190,
+      "formatted_time": "2024-10-09 18:03:10",
+      "type": "文本消息",
+      "str_content": "乔总",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728468209,
+      "formatted_time": "2024-10-09 18:03:29",
+      "type": "文本消息",
+      "str_content": "可以在一个project里同时调用本地的解释器和服务器的解释器吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728468302,
+      "formatted_time": "2024-10-09 18:05:02",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728468380,
+      "formatted_time": "2024-10-09 18:06:20",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我这个服务器感觉传输慢的一笔，后台传着大模型再跑数据太痛苦了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728468391,
+      "formatted_time": "2024-10-09 18:06:31",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728468392,
+      "formatted_time": "2024-10-09 18:06:32",
+      "type": "文本消息",
+      "str_content": "慢的一笔",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728468412,
+      "formatted_time": "2024-10-09 18:06:52",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728468447,
+      "formatted_time": "2024-10-09 18:07:27",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728468476,
+      "formatted_time": "2024-10-09 18:07:56",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728468513,
+      "formatted_time": "2024-10-09 18:08:33",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我说的是在这一个project中，有的是用服务器的解释器来跑，有的是用自己的解释器来跑",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728468515,
+      "formatted_time": "2024-10-09 18:08:35",
+      "type": "文本消息",
+      "str_content": "这样可以做到吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728469788,
+      "formatted_time": "2024-10-09 18:29:48",
+      "type": "文本消息",
+      "str_content": "可以的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728469797,
+      "formatted_time": "2024-10-09 18:29:57",
+      "type": "文本消息",
+      "str_content": "不同python文件就可以",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728546709,
+      "formatted_time": "2024-10-10 15:51:49",
+      "type": "文本消息",
+      "str_content": "徐书记",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728546724,
+      "formatted_time": "2024-10-10 15:52:04",
+      "type": "文本消息",
+      "str_content": "那个不断电申请",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728546729,
+      "formatted_time": "2024-10-10 15:52:09",
+      "type": "文本消息",
+      "str_content": "交到哪里呀",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728546734,
+      "formatted_time": "2024-10-10 15:52:14",
+      "type": "文本消息",
+      "str_content": "西八舍",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728546750,
+      "formatted_time": "2024-10-10 15:52:30",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728547906,
+      "formatted_time": "2024-10-10 16:11:46",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728724895,
+      "formatted_time": "2024-10-12 17:21:35",
+      "type": "文本消息",
+      "str_content": "出发",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728724902,
+      "formatted_time": "2024-10-12 17:21:42",
+      "type": "文本消息",
+      "str_content": "1",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728725291,
+      "formatted_time": "2024-10-12 17:28:11",
+      "type": "文本消息",
+      "str_content": "dd",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728725298,
+      "formatted_time": "2024-10-12 17:28:18",
+      "type": "文本消息",
+      "str_content": "路上",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728725303,
+      "formatted_time": "2024-10-12 17:28:23",
+      "type": "文本消息",
+      "str_content": "找个桌子",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728725305,
+      "formatted_time": "2024-10-12 17:28:25",
+      "type": "文本消息",
+      "str_content": "马上到",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728725441,
+      "formatted_time": "2024-10-12 17:30:41",
+      "type": "文本消息",
+      "str_content": "没看到空桌",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728725446,
+      "formatted_time": "2024-10-12 17:30:46",
+      "type": "文本消息",
+      "str_content": "我先点个肥肠",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728827332,
+      "formatted_time": "2024-10-13 21:48:52",
+      "type": "文本消息",
+      "str_content": "dd",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728827338,
+      "formatted_time": "2024-10-13 21:48:58",
+      "type": "文本消息",
+      "str_content": "外边儿挺冷，得多穿点儿",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728827344,
+      "formatted_time": "2024-10-13 21:49:04",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728827359,
+      "formatted_time": "2024-10-13 21:49:19",
+      "type": "文本消息",
+      "str_content": "要不要我帮你带褂子",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1728827370,
+      "formatted_time": "2024-10-13 21:49:30",
+      "type": "文本消息",
+      "str_content": "我穿了件\n应该够了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728827381,
+      "formatted_time": "2024-10-13 21:49:41",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1743996417,
+      "formatted_time": "2025-04-07 11:26:57",
+      "type": "文本消息",
+      "str_content": "乔总",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1743996423,
+      "formatted_time": "2025-04-07 11:27:03",
+      "type": "文本消息",
+      "str_content": "你们用过遗传算法不",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1743996425,
+      "formatted_time": "2025-04-07 11:27:05",
+      "type": "文本消息",
+      "str_content": "deap包",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1743996454,
+      "formatted_time": "2025-04-07 11:27:34",
+      "type": "文本消息",
+      "str_content": "遗传算法手搓过",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1743996462,
+      "formatted_time": "2025-04-07 11:27:42",
+      "type": "文本消息",
+      "str_content": "deap包没用过",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1743996468,
+      "formatted_time": "2025-04-07 11:27:48",
+      "type": "引用消息",
+      "str_content": "gplearn吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1743996476,
+      "formatted_time": "2025-04-07 11:27:56",
+      "type": "文本消息",
+      "str_content": "也不算遗传算法，是遗传规划，挖因子的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1743996504,
+      "formatted_time": "2025-04-07 11:28:24",
+      "type": "引用消息",
+      "str_content": "这个没听说过",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1743996516,
+      "formatted_time": "2025-04-07 11:28:36",
+      "type": "文本消息",
+      "str_content": "你们是做优化吗是",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1743996518,
+      "formatted_time": "2025-04-07 11:28:38",
+      "type": "文本消息",
+      "str_content": "遗传算法",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1743996523,
+      "formatted_time": "2025-04-07 11:28:43",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1743996525,
+      "formatted_time": "2025-04-07 11:28:45",
+      "type": "文本消息",
+      "str_content": "启发式",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1743996537,
+      "formatted_time": "2025-04-07 11:28:57",
+      "type": "文本消息",
+      "str_content": "[苦涩]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745636337,
+      "formatted_time": "2025-04-26 10:58:57",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745636337,
+      "formatted_time": "2025-04-26 10:58:57",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745636359,
+      "formatted_time": "2025-04-26 10:59:19",
+      "type": "文件消息",
+      "str_content": "dzfp_25432000000053994097_平江本尚科技有限公司_20250426104929.pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745636361,
+      "formatted_time": "2025-04-26 10:59:21",
+      "type": "文件消息",
+      "str_content": "25312000000125538016-25312000000125538016.pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745636365,
+      "formatted_time": "2025-04-26 10:59:25",
+      "type": "文本消息",
+      "str_content": "这样ok不乔总",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745636374,
+      "formatted_time": "2025-04-26 10:59:34",
+      "type": "文本消息",
+      "str_content": "支付截图",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1745636420,
+      "formatted_time": "2025-04-26 11:00:20",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745636420,
+      "formatted_time": "2025-04-26 11:00:20",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1745636432,
+      "formatted_time": "2025-04-26 11:00:32",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1745636442,
+      "formatted_time": "2025-04-26 11:00:42",
+      "type": "文本消息",
+      "str_content": "就这些嘛？",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1745636450,
+      "formatted_time": "2025-04-26 11:00:50",
+      "type": "文本消息",
+      "str_content": "yes，我看了看应该就这俩能报",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1747719338,
+      "formatted_time": "2025-05-20 13:35:38",
+      "type": "文本消息",
+      "str_content": "内存条报不了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1747719356,
+      "formatted_time": "2025-05-20 13:35:56",
+      "type": "文本消息",
+      "str_content": "要建帐",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1747719362,
+      "formatted_time": "2025-05-20 13:36:02",
+      "type": "文本消息",
+      "str_content": "那咧了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1747719369,
+      "formatted_time": "2025-05-20 13:36:09",
+      "type": "文本消息",
+      "str_content": "建账是啥意思",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1747719386,
+      "formatted_time": "2025-05-20 13:36:26",
+      "type": "文本消息",
+      "str_content": "设备建账",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1747719394,
+      "formatted_time": "2025-05-20 13:36:34",
+      "type": "文本消息",
+      "str_content": "归华科所有",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1747719402,
+      "formatted_time": "2025-05-20 13:36:42",
+      "type": "文本消息",
+      "str_content": "而且大创不能报",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1747719410,
+      "formatted_time": "2025-05-20 13:36:50",
+      "type": "文本消息",
+      "str_content": "得拿老师的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1747719427,
+      "formatted_time": "2025-05-20 13:37:07",
+      "type": "文本消息",
+      "str_content": "我们的账号都进不了设备系统",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1747719497,
+      "formatted_time": "2025-05-20 13:38:17",
+      "type": "文本消息",
+      "str_content": "那咧熊吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1747719568,
+      "formatted_time": "2025-05-20 13:39:28",
+      "type": "文本消息",
+      "str_content": "没事，键盘可以",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1747719585,
+      "formatted_time": "2025-05-20 13:39:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1747719606,
+      "formatted_time": "2025-05-20 13:40:06",
+      "type": "文本消息",
+      "str_content": "这逻辑好奇怪啊，键盘不也是电子设备",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1747719621,
+      "formatted_time": "2025-05-20 13:40:21",
+      "type": "文本消息",
+      "str_content": "而且我一开始以为内存条离大创更近来着",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1747719638,
+      "formatted_time": "2025-05-20 13:40:38",
+      "type": "文本消息",
+      "str_content": "离大创进不进无所谓",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1747719648,
+      "formatted_time": "2025-05-20 13:40:48",
+      "type": "文本消息",
+      "str_content": "主要是要和程序一致",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748085148,
+      "formatted_time": "2025-05-24 19:12:28",
+      "type": "文本消息",
+      "str_content": "打麻将不",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748085150,
+      "formatted_time": "2025-05-24 19:12:30",
+      "type": "文本消息",
+      "str_content": "三缺一",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748085171,
+      "formatted_time": "2025-05-24 19:12:51",
+      "type": "文本消息",
+      "str_content": "when",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748085172,
+      "formatted_time": "2025-05-24 19:12:52",
+      "type": "文本消息",
+      "str_content": "where",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748085173,
+      "formatted_time": "2025-05-24 19:12:53",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748085183,
+      "formatted_time": "2025-05-24 19:13:03",
+      "type": "文本消息",
+      "str_content": "8.半左右",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748085191,
+      "formatted_time": "2025-05-24 19:13:11",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748088558,
+      "formatted_time": "2025-05-24 20:09:18",
+      "type": "文本消息",
+      "str_content": "出发？",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748088564,
+      "formatted_time": "2025-05-24 20:09:24",
+      "type": "文本消息",
+      "str_content": "go",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748088568,
+      "formatted_time": "2025-05-24 20:09:28",
+      "type": "文本消息",
+      "str_content": "我带你吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748088590,
+      "formatted_time": "2025-05-24 20:09:50",
+      "type": "文本消息",
+      "str_content": "可以",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748231503,
+      "formatted_time": "2025-05-26 11:51:43",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748231506,
+      "formatted_time": "2025-05-26 11:51:46",
+      "type": "文本消息",
+      "str_content": "怎么还有这种",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748231572,
+      "formatted_time": "2025-05-26 11:52:52",
+      "type": "文本消息",
+      "str_content": "对啊",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748231580,
+      "formatted_time": "2025-05-26 11:53:00",
+      "type": "文本消息",
+      "str_content": "这个不是",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748231592,
+      "formatted_time": "2025-05-26 11:53:12",
+      "type": "文本消息",
+      "str_content": "现在已经不是倒数了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748231598,
+      "formatted_time": "2025-05-26 11:53:18",
+      "type": "文本消息",
+      "str_content": "可惜",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748231643,
+      "formatted_time": "2025-05-26 11:54:03",
+      "type": "文本消息",
+      "str_content": "什么叫裤裆啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748231647,
+      "formatted_time": "2025-05-26 11:54:07",
+      "type": "文本消息",
+      "str_content": "[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748231908,
+      "formatted_time": "2025-05-26 11:58:28",
+      "type": "文本消息",
+      "str_content": "就是说钱进他裤裆了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748231925,
+      "formatted_time": "2025-05-26 11:58:45",
+      "type": "文本消息",
+      "str_content": "感觉是恶意刷榜",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748231926,
+      "formatted_time": "2025-05-26 11:58:46",
+      "type": "文本消息",
+      "str_content": "是我想多了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748231930,
+      "formatted_time": "2025-05-26 11:58:50",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748232433,
+      "formatted_time": "2025-05-26 12:07:13",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748232434,
+      "formatted_time": "2025-05-26 12:07:14",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748232438,
+      "formatted_time": "2025-05-26 12:07:18",
+      "type": "文本消息",
+      "str_content": "现在第七了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1748309165,
+      "formatted_time": "2025-05-27 09:26:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748309165,
+      "formatted_time": "2025-05-27 09:26:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748309165,
+      "formatted_time": "2025-05-27 09:26:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748309165,
+      "formatted_time": "2025-05-27 09:26:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1748309165,
+      "formatted_time": "2025-05-27 09:26:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749480212,
+      "formatted_time": "2025-06-09 22:43:32",
+      "type": "文本消息",
+      "str_content": "乔总，你们学院这边的毕业仪式是怎么安排的呀，形式上有确定嘛[破涕为笑]我导员让我打听打听学习一下，来确定我们学院的毕业仪式形式",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749481775,
+      "formatted_time": "2025-06-09 23:09:35",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1749481780,
+      "formatted_time": "2025-06-09 23:09:40",
+      "type": "文本消息",
+      "str_content": "我也不知道",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1749800240,
+      "formatted_time": "2025-06-13 15:37:20",
+      "type": "文本消息",
+      "str_content": "在哪",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1749800246,
+      "formatted_time": "2025-06-13 15:37:26",
+      "type": "文本消息",
+      "str_content": "回了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749800251,
+      "formatted_time": "2025-06-13 15:37:31",
+      "type": "文本消息",
+      "str_content": "刚去南大门转了一圈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749800252,
+      "formatted_time": "2025-06-13 15:37:32",
+      "type": "文本消息",
+      "str_content": "[捂脸]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1749800259,
+      "formatted_time": "2025-06-13 15:37:39",
+      "type": "文本消息",
+      "str_content": "来拍照不",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1749800267,
+      "formatted_time": "2025-06-13 15:37:47",
+      "type": "文本消息",
+      "str_content": "吗的该日",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749800267,
+      "formatted_time": "2025-06-13 15:37:47",
+      "type": "文本消息",
+      "str_content": "等结束的时候",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1749800269,
+      "formatted_time": "2025-06-13 15:37:49",
+      "type": "文本消息",
+      "str_content": "改日",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749800270,
+      "formatted_time": "2025-06-13 15:37:50",
+      "type": "文本消息",
+      "str_content": "我要热死了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749800272,
+      "formatted_time": "2025-06-13 15:37:52",
+      "type": "文本消息",
+      "str_content": "一身汗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1749800274,
+      "formatted_time": "2025-06-13 15:37:54",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1750299210,
+      "formatted_time": "2025-06-19 10:13:30",
+      "type": "文本消息",
+      "str_content": "在哪呢",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1750299229,
+      "formatted_time": "2025-06-19 10:13:49",
+      "type": "文本消息",
+      "str_content": "1号台候场在",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750299318,
+      "formatted_time": "2025-06-19 10:15:18",
+      "type": "文本消息",
+      "str_content": "嗷嗷",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1750411205,
+      "formatted_time": "2025-06-20 17:20:05",
+      "type": "文本消息",
+      "str_content": "一会接你",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750412191,
+      "formatted_time": "2025-06-20 17:36:31",
+      "type": "文本消息",
+      "str_content": "8219",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750412210,
+      "formatted_time": "2025-06-20 17:36:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750412217,
+      "formatted_time": "2025-06-20 17:36:57",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750412254,
+      "formatted_time": "2025-06-20 17:37:34",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750412257,
+      "formatted_time": "2025-06-20 17:37:37",
+      "type": "文本消息",
+      "str_content": "停这儿了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750500215,
+      "formatted_time": "2025-06-21 18:03:35",
+      "type": "文本消息",
+      "str_content": "乔我跟我室友也去吃个最后的晚餐",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750500222,
+      "formatted_time": "2025-06-21 18:03:42",
+      "type": "文本消息",
+      "str_content": "出发的时候咱俩再一起吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750500452,
+      "formatted_time": "2025-06-21 18:07:32",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1750510115,
+      "formatted_time": "2025-06-21 20:48:35",
+      "type": "文本消息",
+      "str_content": "我操我这直接打到了个校内车",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750510120,
+      "formatted_time": "2025-06-21 20:48:40",
+      "type": "文本消息",
+      "str_content": "还挺快的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750510129,
+      "formatted_time": "2025-06-21 20:48:49",
+      "type": "文本消息",
+      "str_content": "那现在走嘛",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1750510151,
+      "formatted_time": "2025-06-21 20:49:11",
+      "type": "文本消息",
+      "str_content": "你先做着，大概十分钟后到管院下面吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750510627,
+      "formatted_time": "2025-06-21 20:57:07",
+      "type": "文本消息",
+      "str_content": "96559",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750510901,
+      "formatted_time": "2025-06-21 21:01:41",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1750510969,
+      "formatted_time": "2025-06-21 21:02:49",
+      "type": "文本消息",
+      "str_content": "5min",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1750992307,
+      "formatted_time": "2025-06-27 10:45:07",
+      "type": "图文消息",
+      "str_content": "点击下载九号出行App",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751003281,
+      "formatted_time": "2025-06-27 13:48:01",
+      "type": "文本消息",
+      "str_content": "之前收了没用上的1500",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751011166,
+      "formatted_time": "2025-06-27 15:59:26",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1751029899,
+      "formatted_time": "2025-06-27 21:11:39",
+      "type": "文本消息",
+      "str_content": "你车的充电器在哪",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1751029906,
+      "formatted_time": "2025-06-27 21:11:46",
+      "type": "文本消息",
+      "str_content": "屁股里面",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751029908,
+      "formatted_time": "2025-06-27 21:11:48",
+      "type": "文本消息",
+      "str_content": "那个绿色的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751029910,
+      "formatted_time": "2025-06-27 21:11:50",
+      "type": "文本消息",
+      "str_content": "按两下",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751029994,
+      "formatted_time": "2025-06-27 21:13:14",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1751030020,
+      "formatted_time": "2025-06-27 21:13:40",
+      "type": "文本消息",
+      "str_content": "像爱护女朋友一样爱护我的车嘛旁友",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751030124,
+      "formatted_time": "2025-06-27 21:15:24",
+      "type": "文本消息",
+      "str_content": "包的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1751030147,
+      "formatted_time": "2025-06-27 21:15:47",
+      "type": "文本消息",
+      "str_content": "你这车买的时候多少钱",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1751030327,
+      "formatted_time": "2025-06-27 21:18:47",
+      "type": "文本消息",
+      "str_content": "六七千吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1751032988,
+      "formatted_time": "2025-06-27 22:03:08",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1751032996,
+      "formatted_time": "2025-06-27 22:03:16",
+      "type": "文本消息",
+      "str_content": "你这个原来就不在嘛",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1751033006,
+      "formatted_time": "2025-06-27 22:03:26",
+      "type": "文本消息",
+      "str_content": "应该是",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1752201422,
+      "formatted_time": "2025-07-11 10:37:02",
+      "type": "引用消息",
+      "str_content": "大创下来了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1752201431,
+      "formatted_time": "2025-07-11 10:37:11",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1752201438,
+      "formatted_time": "2025-07-11 10:37:18",
+      "type": "文本消息",
+      "str_content": "[亲亲][亲亲]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1752201440,
+      "formatted_time": "2025-07-11 10:37:20",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1752201446,
+      "formatted_time": "2025-07-11 10:37:26",
+      "type": "文本消息",
+      "str_content": "意外之喜",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1752201450,
+      "formatted_time": "2025-07-11 10:37:30",
+      "type": "文本消息",
+      "str_content": "[得意]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755490562,
+      "formatted_time": "2025-08-18 12:16:02",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755490584,
+      "formatted_time": "2025-08-18 12:16:24",
+      "type": "文本消息",
+      "str_content": "你把地址发给我",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755490619,
+      "formatted_time": "2025-08-18 12:16:59",
+      "type": "文本消息",
+      "str_content": "徐昂 17865716165 广东省深圳市南山区深圳大学城北京大学燕园5号楼1420",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755501460,
+      "formatted_time": "2025-08-18 15:17:40",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755501461,
+      "formatted_time": "2025-08-18 15:17:41",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755501480,
+      "formatted_time": "2025-08-18 15:18:00",
+      "type": "文本消息",
+      "str_content": "没问题",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755501501,
+      "formatted_time": "2025-08-18 15:18:21",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755501537,
+      "formatted_time": "2025-08-18 15:18:57",
+      "type": "文本消息",
+      "str_content": "直接用德邦，京东这种不给送电池",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755501545,
+      "formatted_time": "2025-08-18 15:19:05",
+      "type": "文本消息",
+      "str_content": "不是哥们",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755501557,
+      "formatted_time": "2025-08-18 15:19:17",
+      "type": "文本消息",
+      "str_content": "我再看看有没有便宜点的",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755501565,
+      "formatted_time": "2025-08-18 15:19:25",
+      "type": "文本消息",
+      "str_content": "okok，看你怎么方便来",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755503349,
+      "formatted_time": "2025-08-18 15:49:09",
+      "type": "文本消息",
+      "str_content": "问了一圈，就这个看着靠谱些，其他的都要加钱，打木架和送货上门这些，我明天回学校就联系他寄过去",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755503363,
+      "formatted_time": "2025-08-18 15:49:23",
+      "type": "文本消息",
+      "str_content": "好乔总",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755503366,
+      "formatted_time": "2025-08-18 15:49:26",
+      "type": "文本消息",
+      "str_content": "相信你",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755509822,
+      "formatted_time": "2025-08-18 17:37:02",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755509831,
+      "formatted_time": "2025-08-18 17:37:11",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755509847,
+      "formatted_time": "2025-08-18 17:37:27",
+      "type": "文本消息",
+      "str_content": "又砍了20",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755522597,
+      "formatted_time": "2025-08-18 21:09:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755522600,
+      "formatted_time": "2025-08-18 21:10:00",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755565704,
+      "formatted_time": "2025-08-19 09:08:24",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755577549,
+      "formatted_time": "2025-08-19 12:25:49",
+      "type": "文本消息",
+      "str_content": "/:<L>",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755577557,
+      "formatted_time": "2025-08-19 12:25:57",
+      "type": "文本消息",
+      "str_content": "我这傻逼学校已经开始军训了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755577574,
+      "formatted_time": "2025-08-19 12:26:14",
+      "type": "文本消息",
+      "str_content": "军训多长时间",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755577579,
+      "formatted_time": "2025-08-19 12:26:19",
+      "type": "文本消息",
+      "str_content": "一星期",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755577604,
+      "formatted_time": "2025-08-19 12:26:44",
+      "type": "文本消息",
+      "str_content": "武汉超级热",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755577608,
+      "formatted_time": "2025-08-19 12:26:48",
+      "type": "文本消息",
+      "str_content": "你那边怎么样",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755577636,
+      "formatted_time": "2025-08-19 12:27:16",
+      "type": "文本消息",
+      "str_content": "绝对温度还好，但湿度真是爆炸",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755577642,
+      "formatted_time": "2025-08-19 12:27:22",
+      "type": "文本消息",
+      "str_content": "我tm挥汗如雨",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755577717,
+      "formatted_time": "2025-08-19 12:28:37",
+      "type": "文本消息",
+      "str_content": "想办法直接接飞虎队得了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755577744,
+      "formatted_time": "2025-08-19 12:29:04",
+      "type": "文本消息",
+      "str_content": "没有飞虎队",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755577750,
+      "formatted_time": "2025-08-19 12:29:10",
+      "type": "文本消息",
+      "str_content": "这他妈连直博的都得训",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755577757,
+      "formatted_time": "2025-08-19 12:29:17",
+      "type": "文本消息",
+      "str_content": "[捂脸]太逆天了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755937092,
+      "formatted_time": "2025-08-23 16:18:12",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755937094,
+      "formatted_time": "2025-08-23 16:18:14",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755944215,
+      "formatted_time": "2025-08-23 18:16:55",
+      "type": "文本消息",
+      "str_content": "军训没手机",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755944217,
+      "formatted_time": "2025-08-23 18:16:57",
+      "type": "文本消息",
+      "str_content": "哦现在回",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755944228,
+      "formatted_time": "2025-08-23 18:17:08",
+      "type": "文本消息",
+      "str_content": "哪个手机号",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755944280,
+      "formatted_time": "2025-08-23 18:18:00",
+      "type": "文本消息",
+      "str_content": "他给你打电话没",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755944289,
+      "formatted_time": "2025-08-23 18:18:09",
+      "type": "文本消息",
+      "str_content": "我和淘宝联系一下",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755944354,
+      "formatted_time": "2025-08-23 18:19:14",
+      "type": "文本消息",
+      "str_content": "我回了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755944357,
+      "formatted_time": "2025-08-23 18:19:17",
+      "type": "文本消息",
+      "str_content": "奶奶的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755944361,
+      "formatted_time": "2025-08-23 18:19:21",
+      "type": "文本消息",
+      "str_content": "军训不让带手机",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755944362,
+      "formatted_time": "2025-08-23 18:19:22",
+      "type": "文本消息",
+      "str_content": "就这样",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755944396,
+      "formatted_time": "2025-08-23 18:19:56",
+      "type": "文本消息",
+      "str_content": "okok",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755944429,
+      "formatted_time": "2025-08-23 18:20:29",
+      "type": "文本消息",
+      "str_content": "他说他联系配送",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755944453,
+      "formatted_time": "2025-08-23 18:20:53",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755944455,
+      "formatted_time": "2025-08-23 18:20:55",
+      "type": "文本消息",
+      "str_content": "我app上看车还在东莞",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755944467,
+      "formatted_time": "2025-08-23 18:21:07",
+      "type": "文本消息",
+      "str_content": "确实[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755944473,
+      "formatted_time": "2025-08-23 18:21:13",
+      "type": "文本消息",
+      "str_content": "我和他电话联系吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755944491,
+      "formatted_time": "2025-08-23 18:21:31",
+      "type": "文本消息",
+      "str_content": "OKOK",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755959535,
+      "formatted_time": "2025-08-23 22:32:15",
+      "type": "文本消息",
+      "str_content": "拿到车了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755959540,
+      "formatted_time": "2025-08-23 22:32:20",
+      "type": "文本消息",
+      "str_content": "多谢乔总支持",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755959543,
+      "formatted_time": "2025-08-23 22:32:23",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755959597,
+      "formatted_time": "2025-08-23 22:33:17",
+      "type": "文本消息",
+      "str_content": "总算拿到了",
+      "is_send": 0,
+      "sender_name": "乔晟豪"
+    },
+    {
+      "create_time": 1755959627,
+      "formatted_time": "2025-08-23 22:33:47",
+      "type": "文本消息",
+      "str_content": "不容易啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:37+08:00",
+  "message_count": 856
+}

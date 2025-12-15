@@ -1,0 +1,840 @@
+{
+  "session_id": "wxid_japd62d1t6k012",
+  "session_name": "张子礼",
+  "messages": [
+    {
+      "create_time": 1693322835,
+      "formatted_time": "2023-08-29 23:27:15",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1693322843,
+      "formatted_time": "2023-08-29 23:27:23",
+      "type": "文本消息",
+      "str_content": "学弟你好[旺柴]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1693322904,
+      "formatted_time": "2023-08-29 23:28:24",
+      "type": "文本消息",
+      "str_content": "学长！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693322906,
+      "formatted_time": "2023-08-29 23:28:26",
+      "type": "文本消息",
+      "str_content": "巨礼",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235243,
+      "formatted_time": "2023-09-09 12:54:03",
+      "type": "视频消息",
+      "str_content": "[视频消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235251,
+      "formatted_time": "2023-09-09 12:54:11",
+      "type": "文本消息",
+      "str_content": "你让那伙计别乱搞哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235263,
+      "formatted_time": "2023-09-09 12:54:23",
+      "type": "文本消息",
+      "str_content": "私下加加得了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235266,
+      "formatted_time": "2023-09-09 12:54:26",
+      "type": "文本消息",
+      "str_content": "这是在搞啥",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235281,
+      "formatted_time": "2023-09-09 12:54:41",
+      "type": "文本消息",
+      "str_content": "woc",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235287,
+      "formatted_time": "2023-09-09 12:54:47",
+      "type": "文本消息",
+      "str_content": "这是一中的小学弟啊",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235289,
+      "formatted_time": "2023-09-09 12:54:49",
+      "type": "文本消息",
+      "str_content": "咋这么抽象",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235326,
+      "formatted_time": "2023-09-09 12:55:26",
+      "type": "文本消息",
+      "str_content": "让他私下给群主还有那个小女孩道个歉吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235355,
+      "formatted_time": "2023-09-09 12:55:55",
+      "type": "文本消息",
+      "str_content": "别再继续闹大了[衰][衰][衰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235359,
+      "formatted_time": "2023-09-09 12:55:59",
+      "type": "文本消息",
+      "str_content": "tmd",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235362,
+      "formatted_time": "2023-09-09 12:56:02",
+      "type": "文本消息",
+      "str_content": "这都哪跟哪啊",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235368,
+      "formatted_time": "2023-09-09 12:56:08",
+      "type": "文本消息",
+      "str_content": "他进去群",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235373,
+      "formatted_time": "2023-09-09 12:56:13",
+      "type": "文本消息",
+      "str_content": "我他妈人也服了呀我靠",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235379,
+      "formatted_time": "2023-09-09 12:56:19",
+      "type": "文本消息",
+      "str_content": "在那个管院的群里发啥逆天言论了么",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235397,
+      "formatted_time": "2023-09-09 12:56:37",
+      "type": "文本消息",
+      "str_content": "这个学弟不好搞的，我想想怎么和他说好",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235416,
+      "formatted_time": "2023-09-09 12:56:56",
+      "type": "引用消息",
+      "str_content": "怎么还不好搞[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235430,
+      "formatted_time": "2023-09-09 12:57:10",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235431,
+      "formatted_time": "2023-09-09 12:57:11",
+      "type": "文本消息",
+      "str_content": "233",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235433,
+      "formatted_time": "2023-09-09 12:57:13",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235436,
+      "formatted_time": "2023-09-09 12:57:16",
+      "type": "文本消息",
+      "str_content": "[旺柴]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235440,
+      "formatted_time": "2023-09-09 12:57:20",
+      "type": "文本消息",
+      "str_content": "我去",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235448,
+      "formatted_time": "2023-09-09 12:57:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235451,
+      "formatted_time": "2023-09-09 12:57:31",
+      "type": "文本消息",
+      "str_content": "我啥也没说哈",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235457,
+      "formatted_time": "2023-09-09 12:57:37",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235458,
+      "formatted_time": "2023-09-09 12:57:38",
+      "type": "文本消息",
+      "str_content": "明白",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235470,
+      "formatted_time": "2023-09-09 12:57:50",
+      "type": "文本消息",
+      "str_content": "我还没想到这么乱搞",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235475,
+      "formatted_time": "2023-09-09 12:57:55",
+      "type": "文本消息",
+      "str_content": "我想想咋弄",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235539,
+      "formatted_time": "2023-09-09 12:58:59",
+      "type": "引用消息",
+      "str_content": "？",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235559,
+      "formatted_time": "2023-09-09 12:59:19",
+      "type": "文本消息",
+      "str_content": "我也不知道",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235563,
+      "formatted_time": "2023-09-09 12:59:23",
+      "type": "文本消息",
+      "str_content": "我管院朋友发我的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235580,
+      "formatted_time": "2023-09-09 12:59:40",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235595,
+      "formatted_time": "2023-09-09 12:59:55",
+      "type": "文本消息",
+      "str_content": "他为啥进管院年级群我都还没搞清楚",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235634,
+      "formatted_time": "2023-09-09 13:00:34",
+      "type": "文本消息",
+      "str_content": "woc",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235638,
+      "formatted_time": "2023-09-09 13:00:38",
+      "type": "文本消息",
+      "str_content": "应该问题也不大，管院那边主要怕有啥营销的吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235639,
+      "formatted_time": "2023-09-09 13:00:39",
+      "type": "文本消息",
+      "str_content": "他这咋黑进去的",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235642,
+      "formatted_time": "2023-09-09 13:00:42",
+      "type": "文本消息",
+      "str_content": "我不到啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235651,
+      "formatted_time": "2023-09-09 13:00:51",
+      "type": "文本消息",
+      "str_content": "不是只给了他那个同学的qq吗",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235655,
+      "formatted_time": "2023-09-09 13:00:55",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235667,
+      "formatted_time": "2023-09-09 13:01:07",
+      "type": "文本消息",
+      "str_content": "不会是想展现自己的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235673,
+      "formatted_time": "2023-09-09 13:01:13",
+      "type": "文本消息",
+      "str_content": "信息竞赛能力吧。。。。。。。。。。。。。。。。",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235689,
+      "formatted_time": "2023-09-09 13:01:29",
+      "type": "文本消息",
+      "str_content": "信息竞赛也不学怎么黑qq群啊",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235690,
+      "formatted_time": "2023-09-09 13:01:30",
+      "type": "文本消息",
+      "str_content": "逆天",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235729,
+      "formatted_time": "2023-09-09 13:02:09",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235738,
+      "formatted_time": "2023-09-09 13:02:18",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235768,
+      "formatted_time": "2023-09-09 13:02:48",
+      "type": "文本消息",
+      "str_content": "不是，我觉得他没有进群。只是加了那一个同学",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235785,
+      "formatted_time": "2023-09-09 13:03:05",
+      "type": "文本消息",
+      "str_content": "要不你再核实下吧礼哥",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235791,
+      "formatted_time": "2023-09-09 13:03:11",
+      "type": "文本消息",
+      "str_content": "但是他为了耍酷，说他黑进了群，然后通过群加的",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235793,
+      "formatted_time": "2023-09-09 13:03:13",
+      "type": "文本消息",
+      "str_content": "我问问他去",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235795,
+      "formatted_time": "2023-09-09 13:03:15",
+      "type": "文本消息",
+      "str_content": "难蚌",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235796,
+      "formatted_time": "2023-09-09 13:03:16",
+      "type": "文本消息",
+      "str_content": "我觉得他也是吹牛  毕竟腾讯还是很厉害的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235803,
+      "formatted_time": "2023-09-09 13:03:23",
+      "type": "文本消息",
+      "str_content": "主要是捅到导员这边了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235827,
+      "formatted_time": "2023-09-09 13:03:47",
+      "type": "文本消息",
+      "str_content": "我是不太相信一个高中学了信息竞赛的能黑掉腾讯系统",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694235997,
+      "formatted_time": "2023-09-09 13:06:37",
+      "type": "文本消息",
+      "str_content": "我给他说了",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694235998,
+      "formatted_time": "2023-09-09 13:06:38",
+      "type": "文本消息",
+      "str_content": "问题不大",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236012,
+      "formatted_time": "2023-09-09 13:06:52",
+      "type": "文本消息",
+      "str_content": "所以是吹的吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694236027,
+      "formatted_time": "2023-09-09 13:07:07",
+      "type": "文本消息",
+      "str_content": "他说他进去了",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236031,
+      "formatted_time": "2023-09-09 13:07:11",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236048,
+      "formatted_time": "2023-09-09 13:07:28",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236052,
+      "formatted_time": "2023-09-09 13:07:32",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236055,
+      "formatted_time": "2023-09-09 13:07:35",
+      "type": "文本消息",
+      "str_content": "？？？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694236063,
+      "formatted_time": "2023-09-09 13:07:43",
+      "type": "文本消息",
+      "str_content": "这么好黑？？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694236066,
+      "formatted_time": "2023-09-09 13:07:46",
+      "type": "文本消息",
+      "str_content": "难道他真的是天才",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694236100,
+      "formatted_time": "2023-09-09 13:08:20",
+      "type": "文本消息",
+      "str_content": "这不是吹牛，我把马化腾吃掉",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236105,
+      "formatted_time": "2023-09-09 13:08:25",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236110,
+      "formatted_time": "2023-09-09 13:08:30",
+      "type": "文本消息",
+      "str_content": "算了",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236112,
+      "formatted_time": "2023-09-09 13:08:32",
+      "type": "文本消息",
+      "str_content": "我和他说了",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236126,
+      "formatted_time": "2023-09-09 13:08:46",
+      "type": "文本消息",
+      "str_content": "这事应该解决了",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236127,
+      "formatted_time": "2023-09-09 13:08:47",
+      "type": "文本消息",
+      "str_content": "草",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236130,
+      "formatted_time": "2023-09-09 13:08:50",
+      "type": "文本消息",
+      "str_content": "这个学弟有点逆天",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236154,
+      "formatted_time": "2023-09-09 13:09:14",
+      "type": "文本消息",
+      "str_content": "[捂脸]见面的时候我居然没看出来吗的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694236246,
+      "formatted_time": "2023-09-09 13:10:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236248,
+      "formatted_time": "2023-09-09 13:10:48",
+      "type": "文本消息",
+      "str_content": "逆天",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236327,
+      "formatted_time": "2023-09-09 13:12:07",
+      "type": "文本消息",
+      "str_content": "逆天",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236336,
+      "formatted_time": "2023-09-09 13:12:16",
+      "type": "文本消息",
+      "str_content": "群里混入了逆天人",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236345,
+      "formatted_time": "2023-09-09 13:12:25",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236348,
+      "formatted_time": "2023-09-09 13:12:28",
+      "type": "文本消息",
+      "str_content": "算了",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236356,
+      "formatted_time": "2023-09-09 13:12:36",
+      "type": "文本消息",
+      "str_content": "大学毒打一年就懂了",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236359,
+      "formatted_time": "2023-09-09 13:12:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694236361,
+      "formatted_time": "2023-09-09 13:12:41",
+      "type": "文本消息",
+      "str_content": "也是",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694238721,
+      "formatted_time": "2023-09-09 13:52:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694241196,
+      "formatted_time": "2023-09-09 14:33:16",
+      "type": "文本消息",
+      "str_content": "草",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694241210,
+      "formatted_time": "2023-09-09 14:33:30",
+      "type": "文本消息",
+      "str_content": "我给他说完了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694241214,
+      "formatted_time": "2023-09-09 14:33:34",
+      "type": "文本消息",
+      "str_content": "问题不大[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694241409,
+      "formatted_time": "2023-09-09 14:36:49",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694241412,
+      "formatted_time": "2023-09-09 14:36:52",
+      "type": "文本消息",
+      "str_content": "？",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694241431,
+      "formatted_time": "2023-09-09 14:37:11",
+      "type": "文本消息",
+      "str_content": "。。。。",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694241447,
+      "formatted_time": "2023-09-09 14:37:27",
+      "type": "文本消息",
+      "str_content": "我感觉有背景的人不应该更熟悉社会运行的规则吗。。",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694241466,
+      "formatted_time": "2023-09-09 14:37:46",
+      "type": "文本消息",
+      "str_content": "不一定的，被家里人保护太好了，没人敢说他",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694241467,
+      "formatted_time": "2023-09-09 14:37:47",
+      "type": "文本消息",
+      "str_content": "草",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694241471,
+      "formatted_time": "2023-09-09 14:37:51",
+      "type": "文本消息",
+      "str_content": "不懂",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694241486,
+      "formatted_time": "2023-09-09 14:38:06",
+      "type": "文本消息",
+      "str_content": "这性格，怕是要闹出啥乱子不可",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1694241490,
+      "formatted_time": "2023-09-09 14:38:10",
+      "type": "文本消息",
+      "str_content": "这哥们脑回路。。",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694241506,
+      "formatted_time": "2023-09-09 14:38:26",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1706778704,
+      "formatted_time": "2024-02-01 17:11:44",
+      "type": "文本消息",
+      "str_content": "我们到了",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1706778717,
+      "formatted_time": "2024-02-01 17:11:57",
+      "type": "文本消息",
+      "str_content": "我从大门进来的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706778725,
+      "formatted_time": "2024-02-01 17:12:05",
+      "type": "文本消息",
+      "str_content": "你们在哪",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706778727,
+      "formatted_time": "2024-02-01 17:12:07",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1706778729,
+      "formatted_time": "2024-02-01 17:12:09",
+      "type": "文本消息",
+      "str_content": "我在星巴克这儿",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706778731,
+      "formatted_time": "2024-02-01 17:12:11",
+      "type": "文本消息",
+      "str_content": "马上进大门",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    },
+    {
+      "create_time": 1706778826,
+      "formatted_time": "2024-02-01 17:13:46",
+      "type": "文本消息",
+      "str_content": "到了",
+      "is_send": 0,
+      "sender_name": "张子礼"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 104
+}

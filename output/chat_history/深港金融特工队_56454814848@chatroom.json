@@ -1,0 +1,2042 @@
+{
+  "session_id": "56454814848@chatroom",
+  "session_name": "深港金融特工队",
+  "messages": [
+    {
+      "create_time": 1758528487,
+      "formatted_time": "2025-09-22 16:08:07",
+      "type": "文本消息",
+      "str_content": "今晚你们有空吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528488,
+      "formatted_time": "2025-09-22 16:08:08",
+      "type": "文本消息",
+      "str_content": "麻不麻",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528490,
+      "formatted_time": "2025-09-22 16:08:10",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528501,
+      "formatted_time": "2025-09-22 16:08:21",
+      "type": "文本消息",
+      "str_content": "[疑问]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528506,
+      "formatted_time": "2025-09-22 16:08:26",
+      "type": "文本消息",
+      "str_content": "蒋心远在哪",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528509,
+      "formatted_time": "2025-09-22 16:08:29",
+      "type": "文本消息",
+      "str_content": "…",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528513,
+      "formatted_time": "2025-09-22 16:08:33",
+      "type": "文本消息",
+      "str_content": "在香港啊！",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528517,
+      "formatted_time": "2025-09-22 16:08:37",
+      "type": "文本消息",
+      "str_content": "你来深圳了吗",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528517,
+      "formatted_time": "2025-09-22 16:08:37",
+      "type": "文本消息",
+      "str_content": "不带她玩",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528518,
+      "formatted_time": "2025-09-22 16:08:38",
+      "type": "文本消息",
+      "str_content": "[疑问]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528522,
+      "formatted_time": "2025-09-22 16:08:42",
+      "type": "文本消息",
+      "str_content": "？？",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528528,
+      "formatted_time": "2025-09-22 16:08:48",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528534,
+      "formatted_time": "2025-09-22 16:08:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528541,
+      "formatted_time": "2025-09-22 16:09:01",
+      "type": "文本消息",
+      "str_content": "周二都要停课了",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528545,
+      "formatted_time": "2025-09-22 16:09:05",
+      "type": "引用消息",
+      "str_content": "麻？",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758528548,
+      "formatted_time": "2025-09-22 16:09:08",
+      "type": "文本消息",
+      "str_content": "麻",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528550,
+      "formatted_time": "2025-09-22 16:09:10",
+      "type": "文本消息",
+      "str_content": "麻啊",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758528552,
+      "formatted_time": "2025-09-22 16:09:12",
+      "type": "文本消息",
+      "str_content": "麻",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758528554,
+      "formatted_time": "2025-09-22 16:09:14",
+      "type": "文本消息",
+      "str_content": "麻啊",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528560,
+      "formatted_time": "2025-09-22 16:09:20",
+      "type": "文本消息",
+      "str_content": "[疑问]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528565,
+      "formatted_time": "2025-09-22 16:09:25",
+      "type": "文本消息",
+      "str_content": "麻不麻@任性",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528565,
+      "formatted_time": "2025-09-22 16:09:25",
+      "type": "文本消息",
+      "str_content": "jxy看我们麻",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758528568,
+      "formatted_time": "2025-09-22 16:09:28",
+      "type": "文本消息",
+      "str_content": "任性",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528573,
+      "formatted_time": "2025-09-22 16:09:33",
+      "type": "文本消息",
+      "str_content": "任性",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528581,
+      "formatted_time": "2025-09-22 16:09:41",
+      "type": "文本消息",
+      "str_content": "用ipad给你脸整过来",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528588,
+      "formatted_time": "2025-09-22 16:09:48",
+      "type": "文本消息",
+      "str_content": "nm",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528589,
+      "formatted_time": "2025-09-22 16:09:49",
+      "type": "文本消息",
+      "str_content": "你说让我们打哪个我们帮你打",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528590,
+      "formatted_time": "2025-09-22 16:09:50",
+      "type": "引用消息",
+      "str_content": "中",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528594,
+      "formatted_time": "2025-09-22 16:09:54",
+      "type": "文本消息",
+      "str_content": "[裂开]",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528595,
+      "formatted_time": "2025-09-22 16:09:55",
+      "type": "文本消息",
+      "str_content": "帮我打",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528601,
+      "formatted_time": "2025-09-22 16:10:01",
+      "type": "文本消息",
+      "str_content": "赢了钱都是我的",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528630,
+      "formatted_time": "2025-09-22 16:10:30",
+      "type": "文本消息",
+      "str_content": "今晚？？麻不了啊",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528633,
+      "formatted_time": "2025-09-22 16:10:33",
+      "type": "文本消息",
+      "str_content": "我靠任性有课",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528636,
+      "formatted_time": "2025-09-22 16:10:36",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528639,
+      "formatted_time": "2025-09-22 16:10:39",
+      "type": "文本消息",
+      "str_content": "那课任性听不懂",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528642,
+      "formatted_time": "2025-09-22 16:10:42",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528652,
+      "formatted_time": "2025-09-22 16:10:52",
+      "type": "文本消息",
+      "str_content": "任性怎么晚上还有课",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528652,
+      "formatted_time": "2025-09-22 16:10:52",
+      "type": "文本消息",
+      "str_content": "让老师讲中文",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528657,
+      "formatted_time": "2025-09-22 16:10:57",
+      "type": "文本消息",
+      "str_content": "很坏",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528660,
+      "formatted_time": "2025-09-22 16:11:00",
+      "type": "文本消息",
+      "str_content": "@摘星.",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528661,
+      "formatted_time": "2025-09-22 16:11:01",
+      "type": "文本消息",
+      "str_content": "来不来",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528666,
+      "formatted_time": "2025-09-22 16:11:06",
+      "type": "文本消息",
+      "str_content": "任性今天早上到晚上",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528668,
+      "formatted_time": "2025-09-22 16:11:08",
+      "type": "文本消息",
+      "str_content": "其实我一直都很想和摘星老师打麻将的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528668,
+      "formatted_time": "2025-09-22 16:11:08",
+      "type": "文本消息",
+      "str_content": "笑死我了",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528672,
+      "formatted_time": "2025-09-22 16:11:12",
+      "type": "文本消息",
+      "str_content": "我咋回啊",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528677,
+      "formatted_time": "2025-09-22 16:11:17",
+      "type": "文本消息",
+      "str_content": "摘星别回了",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528681,
+      "formatted_time": "2025-09-22 16:11:21",
+      "type": "文本消息",
+      "str_content": "住港中深吧",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528681,
+      "formatted_time": "2025-09-22 16:11:21",
+      "type": "文本消息",
+      "str_content": "我住哪",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528687,
+      "formatted_time": "2025-09-22 16:11:27",
+      "type": "文本消息",
+      "str_content": "在我寝室打地铺",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528688,
+      "formatted_time": "2025-09-22 16:11:28",
+      "type": "文本消息",
+      "str_content": "避一避台风",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528690,
+      "formatted_time": "2025-09-22 16:11:30",
+      "type": "文本消息",
+      "str_content": "要不现在来",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528692,
+      "formatted_time": "2025-09-22 16:11:32",
+      "type": "文本消息",
+      "str_content": "我明天早上有课",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528692,
+      "formatted_time": "2025-09-22 16:11:32",
+      "type": "文本消息",
+      "str_content": "来龙大把",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528693,
+      "formatted_time": "2025-09-22 16:11:33",
+      "type": "文本消息",
+      "str_content": "我室友很包容的",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528695,
+      "formatted_time": "2025-09-22 16:11:35",
+      "type": "文本消息",
+      "str_content": "你晚上还能回去",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528696,
+      "formatted_time": "2025-09-22 16:11:36",
+      "type": "文本消息",
+      "str_content": "我现在在上课",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528700,
+      "formatted_time": "2025-09-22 16:11:40",
+      "type": "文本消息",
+      "str_content": "明天早上台风很大",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528708,
+      "formatted_time": "2025-09-22 16:11:48",
+      "type": "文本消息",
+      "str_content": "明早应该没有吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528713,
+      "formatted_time": "2025-09-22 16:11:53",
+      "type": "文本消息",
+      "str_content": "话说你们约去哪里麻",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528718,
+      "formatted_time": "2025-09-22 16:11:58",
+      "type": "文本消息",
+      "str_content": "福田吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528718,
+      "formatted_time": "2025-09-22 16:11:58",
+      "type": "文本消息",
+      "str_content": "要线上",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528727,
+      "formatted_time": "2025-09-22 16:12:07",
+      "type": "文本消息",
+      "str_content": "南山和龙岗真的离得有点远",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528732,
+      "formatted_time": "2025-09-22 16:12:12",
+      "type": "文本消息",
+      "str_content": "@摘星. 你来呗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528734,
+      "formatted_time": "2025-09-22 16:12:14",
+      "type": "文本消息",
+      "str_content": "今天不回明天咋回啊",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528738,
+      "formatted_time": "2025-09-22 16:12:18",
+      "type": "文本消息",
+      "str_content": "后天更回不去",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528740,
+      "formatted_time": "2025-09-22 16:12:20",
+      "type": "文本消息",
+      "str_content": "说不定你比lgu的两位还方便",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528742,
+      "formatted_time": "2025-09-22 16:12:22",
+      "type": "文本消息",
+      "str_content": "你也住龙大@徐昂",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528744,
+      "formatted_time": "2025-09-22 16:12:24",
+      "type": "文本消息",
+      "str_content": "明天回呗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528759,
+      "formatted_time": "2025-09-22 16:12:39",
+      "type": "文本消息",
+      "str_content": "给我匀一个",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528761,
+      "formatted_time": "2025-09-22 16:12:41",
+      "type": "文本消息",
+      "str_content": "非得今晚",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528763,
+      "formatted_time": "2025-09-22 16:12:43",
+      "type": "文本消息",
+      "str_content": "我体验下豪华宿舍",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528765,
+      "formatted_time": "2025-09-22 16:12:45",
+      "type": "文本消息",
+      "str_content": "等风过去呗",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528767,
+      "formatted_time": "2025-09-22 16:12:47",
+      "type": "文本消息",
+      "str_content": "想你了主要是",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528773,
+      "formatted_time": "2025-09-22 16:12:53",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528783,
+      "formatted_time": "2025-09-22 16:13:03",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528786,
+      "formatted_time": "2025-09-22 16:13:06",
+      "type": "文本消息",
+      "str_content": "看看我们的小桌子",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528786,
+      "formatted_time": "2025-09-22 16:13:06",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528794,
+      "formatted_time": "2025-09-22 16:13:14",
+      "type": "文本消息",
+      "str_content": "没事",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528796,
+      "formatted_time": "2025-09-22 16:13:16",
+      "type": "文本消息",
+      "str_content": "你们几人间",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528796,
+      "formatted_time": "2025-09-22 16:13:16",
+      "type": "文本消息",
+      "str_content": "我的比你还小",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528797,
+      "formatted_time": "2025-09-22 16:13:17",
+      "type": "引用消息",
+      "str_content": "北大怎么这样",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528799,
+      "formatted_time": "2025-09-22 16:13:19",
+      "type": "文本消息",
+      "str_content": "不去了",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528801,
+      "formatted_time": "2025-09-22 16:13:21",
+      "type": "文本消息",
+      "str_content": "3",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528804,
+      "formatted_time": "2025-09-22 16:13:24",
+      "type": "文本消息",
+      "str_content": "只够放一个电脑",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758528806,
+      "formatted_time": "2025-09-22 16:13:26",
+      "type": "文本消息",
+      "str_content": "连个显示器都放不下",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528813,
+      "formatted_time": "2025-09-22 16:13:33",
+      "type": "文本消息",
+      "str_content": "3人间怎么这么拥挤",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528819,
+      "formatted_time": "2025-09-22 16:13:39",
+      "type": "文本消息",
+      "str_content": "很没有设计感",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528826,
+      "formatted_time": "2025-09-22 16:13:46",
+      "type": "文本消息",
+      "str_content": "很坏",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528830,
+      "formatted_time": "2025-09-22 16:13:50",
+      "type": "文本消息",
+      "str_content": "但是它是北大",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528833,
+      "formatted_time": "2025-09-22 16:13:53",
+      "type": "文本消息",
+      "str_content": "暂且原谅",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528840,
+      "formatted_time": "2025-09-22 16:14:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528864,
+      "formatted_time": "2025-09-22 16:14:24",
+      "type": "文本消息",
+      "str_content": "好简约的宿舍",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758528866,
+      "formatted_time": "2025-09-22 16:14:26",
+      "type": "文本消息",
+      "str_content": "四人间？",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528869,
+      "formatted_time": "2025-09-22 16:14:29",
+      "type": "文本消息",
+      "str_content": "上下铺吗",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528881,
+      "formatted_time": "2025-09-22 16:14:41",
+      "type": "文本消息",
+      "str_content": "三人，有一个床位堆杂物了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528882,
+      "formatted_time": "2025-09-22 16:14:42",
+      "type": "文本消息",
+      "str_content": "@辉光 这位老师是",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528883,
+      "formatted_time": "2025-09-22 16:14:43",
+      "type": "文本消息",
+      "str_content": "很无奈",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528891,
+      "formatted_time": "2025-09-22 16:14:51",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758528893,
+      "formatted_time": "2025-09-22 16:14:53",
+      "type": "文本消息",
+      "str_content": "潘炜老师",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758528948,
+      "formatted_time": "2025-09-22 16:15:48",
+      "type": "文本消息",
+      "str_content": "好好好",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758528989,
+      "formatted_time": "2025-09-22 16:16:29",
+      "type": "文本消息",
+      "str_content": "我试试摇人",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529052,
+      "formatted_time": "2025-09-22 16:17:32",
+      "type": "文本消息",
+      "str_content": "真不来吗摘星",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529056,
+      "formatted_time": "2025-09-22 16:17:36",
+      "type": "文本消息",
+      "str_content": "@摘星.",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529067,
+      "formatted_time": "2025-09-22 16:17:47",
+      "type": "文本消息",
+      "str_content": "来不了",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529073,
+      "formatted_time": "2025-09-22 16:17:53",
+      "type": "文本消息",
+      "str_content": "我下课还要去超市大囤货",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529078,
+      "formatted_time": "2025-09-22 16:17:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529079,
+      "formatted_time": "2025-09-22 16:17:59",
+      "type": "文本消息",
+      "str_content": "摘星好高冷",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758529083,
+      "formatted_time": "2025-09-22 16:18:03",
+      "type": "文本消息",
+      "str_content": "别惦记你那早课了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529083,
+      "formatted_time": "2025-09-22 16:18:03",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758529091,
+      "formatted_time": "2025-09-22 16:18:11",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758529094,
+      "formatted_time": "2025-09-22 16:18:14",
+      "type": "文本消息",
+      "str_content": "摘星听不懂",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529094,
+      "formatted_time": "2025-09-22 16:18:14",
+      "type": "引用消息",
+      "str_content": "摘星申请不上课",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758529100,
+      "formatted_time": "2025-09-22 16:18:20",
+      "type": "文本消息",
+      "str_content": "只能多去几次考勤了",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529108,
+      "formatted_time": "2025-09-22 16:18:28",
+      "type": "文本消息",
+      "str_content": "明天真的不会停课吗明天",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758529117,
+      "formatted_time": "2025-09-22 16:18:37",
+      "type": "文本消息",
+      "str_content": "对啊",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529122,
+      "formatted_time": "2025-09-22 16:18:42",
+      "type": "文本消息",
+      "str_content": "明天香港停课",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529124,
+      "formatted_time": "2025-09-22 16:18:44",
+      "type": "文本消息",
+      "str_content": "放心",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529125,
+      "formatted_time": "2025-09-22 16:18:45",
+      "type": "引用消息",
+      "str_content": "小心港哥港姐啥也不给你剩",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758529125,
+      "formatted_time": "2025-09-22 16:18:45",
+      "type": "文本消息",
+      "str_content": "会吧",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529125,
+      "formatted_time": "2025-09-22 16:18:45",
+      "type": "文本消息",
+      "str_content": "话说，你们囤东西了么",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758529125,
+      "formatted_time": "2025-09-22 16:18:45",
+      "type": "引用消息",
+      "str_content": "好像不停课",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758529125,
+      "formatted_time": "2025-09-22 16:18:45",
+      "type": "文本消息",
+      "str_content": "刚刚刷小红书已经很多没有了",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758529125,
+      "formatted_time": "2025-09-22 16:18:45",
+      "type": "文本消息",
+      "str_content": "但我明天晚上的课发通知用zoom了",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529129,
+      "formatted_time": "2025-09-22 16:18:49",
+      "type": "文本消息",
+      "str_content": "估计早上也是网课",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529133,
+      "formatted_time": "2025-09-22 16:18:53",
+      "type": "图文消息",
+      "str_content": "今日深圳盒马",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758529144,
+      "formatted_time": "2025-09-22 16:19:04",
+      "type": "文本消息",
+      "str_content": "我这破地比较偏",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529159,
+      "formatted_time": "2025-09-22 16:19:19",
+      "type": "文本消息",
+      "str_content": "那不就完了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529159,
+      "formatted_time": "2025-09-22 16:19:19",
+      "type": "文本消息",
+      "str_content": "不会被困在宿舍断水断粮吧",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758529159,
+      "formatted_time": "2025-09-22 16:19:19",
+      "type": "文本消息",
+      "str_content": "摘星能买到东西吗",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758529159,
+      "formatted_time": "2025-09-22 16:19:19",
+      "type": "文本消息",
+      "str_content": "我们拭目以待",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758529159,
+      "formatted_time": "2025-09-22 16:19:19",
+      "type": "文本消息",
+      "str_content": "应该能买到",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529159,
+      "formatted_time": "2025-09-22 16:19:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758529162,
+      "formatted_time": "2025-09-22 16:19:22",
+      "type": "文本消息",
+      "str_content": "来深圳",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529167,
+      "formatted_time": "2025-09-22 16:19:27",
+      "type": "文本消息",
+      "str_content": "…",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529205,
+      "formatted_time": "2025-09-22 16:20:05",
+      "type": "文本消息",
+      "str_content": "下次下午打让我晚上回呗",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529216,
+      "formatted_time": "2025-09-22 16:20:16",
+      "type": "文本消息",
+      "str_content": "你现在来呗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529223,
+      "formatted_time": "2025-09-22 16:20:23",
+      "type": "文本消息",
+      "str_content": "反正微信聊也是聊你也不听课",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529225,
+      "formatted_time": "2025-09-22 16:20:25",
+      "type": "文本消息",
+      "str_content": "我在上课！！！",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529228,
+      "formatted_time": "2025-09-22 16:20:28",
+      "type": "文本消息",
+      "str_content": "ber",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529234,
+      "formatted_time": "2025-09-22 16:20:34",
+      "type": "文本消息",
+      "str_content": "俺也在上课",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758529236,
+      "formatted_time": "2025-09-22 16:20:36",
+      "type": "文本消息",
+      "str_content": "直接背着包出去吗",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529238,
+      "formatted_time": "2025-09-22 16:20:38",
+      "type": "文本消息",
+      "str_content": "那很坏了",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529239,
+      "formatted_time": "2025-09-22 16:20:39",
+      "type": "文本消息",
+      "str_content": "摘星来上我的课",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758529243,
+      "formatted_time": "2025-09-22 16:20:43",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529243,
+      "formatted_time": "2025-09-22 16:20:43",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529250,
+      "formatted_time": "2025-09-22 16:20:50",
+      "type": "文本消息",
+      "str_content": "我刚逃了这个",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529253,
+      "formatted_time": "2025-09-22 16:20:53",
+      "type": "文本消息",
+      "str_content": "签了到就跑",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529262,
+      "formatted_time": "2025-09-22 16:21:02",
+      "type": "文本消息",
+      "str_content": "还好hk至少不用学这些",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529263,
+      "formatted_time": "2025-09-22 16:21:03",
+      "type": "文本消息",
+      "str_content": "在座各位应该没有听这个课的权利吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529271,
+      "formatted_time": "2025-09-22 16:21:11",
+      "type": "文本消息",
+      "str_content": "确实",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529275,
+      "formatted_time": "2025-09-22 16:21:15",
+      "type": "引用消息",
+      "str_content": "我们只有国情课",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758529282,
+      "formatted_time": "2025-09-22 16:21:22",
+      "type": "文本消息",
+      "str_content": "自愧不如",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758529286,
+      "formatted_time": "2025-09-22 16:21:26",
+      "type": "引用消息",
+      "str_content": "这个我们都没有",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529820,
+      "formatted_time": "2025-09-22 16:30:20",
+      "type": "文本消息",
+      "str_content": "港科这直面海的大玻璃能抗住台风吗",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758529869,
+      "formatted_time": "2025-09-22 16:31:09",
+      "type": "文本消息",
+      "str_content": "敢建就能抗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529989,
+      "formatted_time": "2025-09-22 16:33:09",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758529994,
+      "formatted_time": "2025-09-22 16:33:14",
+      "type": "文本消息",
+      "str_content": "我也很担心汇丰的大内透",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758681175,
+      "formatted_time": "2025-09-24 10:32:55",
+      "type": "文本消息",
+      "str_content": "你们那风很大吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758681189,
+      "formatted_time": "2025-09-24 10:33:09",
+      "type": "文本消息",
+      "str_content": "我这甚至还在开窗通风。。没啥感觉",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758681520,
+      "formatted_time": "2025-09-24 10:38:40",
+      "type": "文本消息",
+      "str_content": "很大",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758681529,
+      "formatted_time": "2025-09-24 10:38:49",
+      "type": "文本消息",
+      "str_content": "像有人在哭",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758683855,
+      "formatted_time": "2025-09-24 11:17:35",
+      "type": "视频消息",
+      "str_content": "[视频消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758684094,
+      "formatted_time": "2025-09-24 11:21:34",
+      "type": "视频消息",
+      "str_content": "[视频消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758684143,
+      "formatted_time": "2025-09-24 11:22:23",
+      "type": "文本消息",
+      "str_content": "感觉这会没啥风",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758684179,
+      "formatted_time": "2025-09-24 11:22:59",
+      "type": "文本消息",
+      "str_content": "看来咱俩学校还是有点距离[捂脸]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758684204,
+      "formatted_time": "2025-09-24 11:23:24",
+      "type": "文本消息",
+      "str_content": "[呲牙]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758720106,
+      "formatted_time": "2025-09-24 21:21:46",
+      "type": "文本消息",
+      "str_content": "这周末",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758720108,
+      "formatted_time": "2025-09-24 21:21:48",
+      "type": "文本消息",
+      "str_content": "出来唱歌吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758723107,
+      "formatted_time": "2025-09-24 22:11:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758723107,
+      "formatted_time": "2025-09-24 22:11:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758723108,
+      "formatted_time": "2025-09-24 22:11:48",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758723582,
+      "formatted_time": "2025-09-24 22:19:42",
+      "type": "文本消息",
+      "str_content": "这周末估计不行，周末补周三的课，我晚上有课，董佳鹭他们下午有课",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758723611,
+      "formatted_time": "2025-09-24 22:20:11",
+      "type": "文本消息",
+      "str_content": "你们居然还调休吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758723613,
+      "formatted_time": "2025-09-24 22:20:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758723622,
+      "formatted_time": "2025-09-24 22:20:22",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758723631,
+      "formatted_time": "2025-09-24 22:20:31",
+      "type": "文本消息",
+      "str_content": "说话好伤人老师",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758723635,
+      "formatted_time": "2025-09-24 22:20:35",
+      "type": "引用消息",
+      "str_content": "我以为大家都是这样",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758723638,
+      "formatted_time": "2025-09-24 22:20:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758723644,
+      "formatted_time": "2025-09-24 22:20:44",
+      "type": "文本消息",
+      "str_content": "我们今天晚上都在上网课",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758723652,
+      "formatted_time": "2025-09-24 22:20:52",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758723656,
+      "formatted_time": "2025-09-24 22:20:56",
+      "type": "文本消息",
+      "str_content": "我今天晚上也在补课",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758723664,
+      "formatted_time": "2025-09-24 22:21:04",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758723676,
+      "formatted_time": "2025-09-24 22:21:16",
+      "type": "文本消息",
+      "str_content": "帮你点两首歌",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758723679,
+      "formatted_time": "2025-09-24 22:21:19",
+      "type": "文本消息",
+      "str_content": "想唱什么",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758723682,
+      "formatted_time": "2025-09-24 22:21:22",
+      "type": "文本消息",
+      "str_content": "你们不是港校吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758723688,
+      "formatted_time": "2025-09-24 22:21:28",
+      "type": "文本消息",
+      "str_content": "怎么还调休",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758723693,
+      "formatted_time": "2025-09-24 22:21:33",
+      "type": "引用消息",
+      "str_content": "来个八方来财",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758723701,
+      "formatted_time": "2025-09-24 22:21:41",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758723705,
+      "formatted_time": "2025-09-24 22:21:45",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758723732,
+      "formatted_time": "2025-09-24 22:22:12",
+      "type": "文本消息",
+      "str_content": "大陆化了，都开始上国情课了",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758723740,
+      "formatted_time": "2025-09-24 22:22:20",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758723744,
+      "formatted_time": "2025-09-24 22:22:24",
+      "type": "文本消息",
+      "str_content": "太没品了",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758723748,
+      "formatted_time": "2025-09-24 22:22:28",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758723759,
+      "formatted_time": "2025-09-24 22:22:39",
+      "type": "文本消息",
+      "str_content": "好像要连wifi",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758723906,
+      "formatted_time": "2025-09-24 22:25:06",
+      "type": "文本消息",
+      "str_content": "我周三满课",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758723908,
+      "formatted_time": "2025-09-24 22:25:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758723912,
+      "formatted_time": "2025-09-24 22:25:12",
+      "type": "文本消息",
+      "str_content": "特别坏",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758723916,
+      "formatted_time": "2025-09-24 22:25:16",
+      "type": "文本消息",
+      "str_content": "那周四周五呢",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758723916,
+      "formatted_time": "2025-09-24 22:25:16",
+      "type": "文本消息",
+      "str_content": "北大不用调休吗",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758723930,
+      "formatted_time": "2025-09-24 22:25:30",
+      "type": "文本消息",
+      "str_content": "我们不调",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758723953,
+      "formatted_time": "2025-09-24 22:25:53",
+      "type": "文本消息",
+      "str_content": "北大赢",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758723957,
+      "formatted_time": "2025-09-24 22:25:57",
+      "type": "文本消息",
+      "str_content": "纯放假啊？",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758724377,
+      "formatted_time": "2025-09-24 22:32:57",
+      "type": "文本消息",
+      "str_content": "纯放",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758724387,
+      "formatted_time": "2025-09-24 22:33:07",
+      "type": "文本消息",
+      "str_content": "甚至昨天和今天的课都不补",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758724408,
+      "formatted_time": "2025-09-24 22:33:28",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758724412,
+      "formatted_time": "2025-09-24 22:33:32",
+      "type": "引用消息",
+      "str_content": "我要补",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758724417,
+      "formatted_time": "2025-09-24 22:33:37",
+      "type": "文本消息",
+      "str_content": "我也",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1758724420,
+      "formatted_time": "2025-09-24 22:33:40",
+      "type": "文本消息",
+      "str_content": "[困]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758724426,
+      "formatted_time": "2025-09-24 22:33:46",
+      "type": "文本消息",
+      "str_content": "我们已经纯放了两次了",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758724428,
+      "formatted_time": "2025-09-24 22:33:48",
+      "type": "文本消息",
+      "str_content": "那你们后天有空吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758724429,
+      "formatted_time": "2025-09-24 22:33:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758724435,
+      "formatted_time": "2025-09-24 22:33:55",
+      "type": "文本消息",
+      "str_content": "这次zoom网课了",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758724439,
+      "formatted_time": "2025-09-24 22:33:59",
+      "type": "引用消息",
+      "str_content": "这是真港姐",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758724446,
+      "formatted_time": "2025-09-24 22:34:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758724453,
+      "formatted_time": "2025-09-24 22:34:13",
+      "type": "文本消息",
+      "str_content": "上周上上周都是",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758724457,
+      "formatted_time": "2025-09-24 22:34:17",
+      "type": "文本消息",
+      "str_content": "台风假",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758724459,
+      "formatted_time": "2025-09-24 22:34:19",
+      "type": "引用消息",
+      "str_content": "后天无老师",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758724466,
+      "formatted_time": "2025-09-24 22:34:26",
+      "type": "文本消息",
+      "str_content": "哦好像是黑雨假",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758724468,
+      "formatted_time": "2025-09-24 22:34:28",
+      "type": "文本消息",
+      "str_content": "后天项目组搞破冰",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758724477,
+      "formatted_time": "2025-09-24 22:34:37",
+      "type": "文本消息",
+      "str_content": "我去",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758724482,
+      "formatted_time": "2025-09-24 22:34:42",
+      "type": "文本消息",
+      "str_content": "周六我个人没空",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758724483,
+      "formatted_time": "2025-09-24 22:34:43",
+      "type": "文本消息",
+      "str_content": "什么叫项目组",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758724489,
+      "formatted_time": "2025-09-24 22:34:49",
+      "type": "文本消息",
+      "str_content": "下午破冰活动，晚上中秋晚会",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758724492,
+      "formatted_time": "2025-09-24 22:34:52",
+      "type": "文本消息",
+      "str_content": "什么叫项目组",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    },
+    {
+      "create_time": 1758724495,
+      "formatted_time": "2025-09-24 22:34:55",
+      "type": "文本消息",
+      "str_content": "IMBA",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758724498,
+      "formatted_time": "2025-09-24 22:34:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758724499,
+      "formatted_time": "2025-09-24 22:34:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "潘炜",
+      "sender_wxid": "wxid_oo8urrsw74eh22"
+    },
+    {
+      "create_time": 1758724501,
+      "formatted_time": "2025-09-24 22:35:01",
+      "type": "文本消息",
+      "str_content": "imba",
+      "is_send": 0,
+      "sender_name": "董佳鹭",
+      "sender_wxid": "wxid_9tevng3slca722"
+    },
+    {
+      "create_time": 1758724503,
+      "formatted_time": "2025-09-24 22:35:03",
+      "type": "文本消息",
+      "str_content": "噢噢噢",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1760708579,
+      "formatted_time": "2025-10-17 21:42:59",
+      "type": "文本消息",
+      "str_content": "明天出来玩吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1760708582,
+      "formatted_time": "2025-10-17 21:43:02",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1760708714,
+      "formatted_time": "2025-10-17 21:45:14",
+      "type": "文本消息",
+      "str_content": "在上海[害羞]",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1760708781,
+      "formatted_time": "2025-10-17 21:46:21",
+      "type": "文本消息",
+      "str_content": "是我多余了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1760708841,
+      "formatted_time": "2025-10-17 21:47:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吴梦琳",
+      "sender_wxid": "wxid_o64b3rcl4meu22"
+    },
+    {
+      "create_time": 1760708850,
+      "formatted_time": "2025-10-17 21:47:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1760708861,
+      "formatted_time": "2025-10-17 21:47:41",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "蒋心远",
+      "sender_wxid": "wxid_k4ilwh7lwzkw11"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:26+08:00",
+  "message_count": 236
+}

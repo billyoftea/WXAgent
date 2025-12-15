@@ -1,0 +1,152 @@
+{
+  "session_id": "57677787863@chatroom",
+  "session_name": "57677787863@chatroom",
+  "messages": [
+    {
+      "create_time": 1720088915,
+      "formatted_time": "2024-07-04 18:28:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "57677787863@chatroom",
+      "sender_wxid": "57677787863@chatroom"
+    },
+    {
+      "create_time": 1720091628,
+      "formatted_time": "2024-07-04 19:13:48",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "57677787863@chatroom",
+      "sender_wxid": "57677787863@chatroom"
+    },
+    {
+      "create_time": 1720096739,
+      "formatted_time": "2024-07-04 20:38:59",
+      "type": "图文消息",
+      "str_content": "木屋烧烤(平山村店)",
+      "is_send": 0,
+      "sender_name": "子曰诛心",
+      "sender_wxid": "wxid_9843lormlznb12"
+    },
+    {
+      "create_time": 1720096837,
+      "formatted_time": "2024-07-04 20:40:37",
+      "type": "图文消息",
+      "str_content": "星聚会ktv(西丽益田假日里店)",
+      "is_send": 0,
+      "sender_name": "子曰诛心",
+      "sender_wxid": "wxid_9843lormlznb12"
+    },
+    {
+      "create_time": 1720097063,
+      "formatted_time": "2024-07-04 20:44:23",
+      "type": "文本消息",
+      "str_content": "咱们一起去吗",
+      "is_send": 0,
+      "sender_name": "Bernoulli",
+      "sender_wxid": "wxid_b3vqt9bqyoqp22"
+    },
+    {
+      "create_time": 1720097171,
+      "formatted_time": "2024-07-04 20:46:11",
+      "type": "文本消息",
+      "str_content": "嗯",
+      "is_send": 0,
+      "sender_name": "匡浩鑫-25-经济",
+      "sender_wxid": "wxid_vlj601697ps122"
+    },
+    {
+      "create_time": 1720097178,
+      "formatted_time": "2024-07-04 20:46:18",
+      "type": "文本消息",
+      "str_content": "大家现在在哪里",
+      "is_send": 0,
+      "sender_name": "匡浩鑫-25-经济",
+      "sender_wxid": "wxid_vlj601697ps122"
+    },
+    {
+      "create_time": 1720097191,
+      "formatted_time": "2024-07-04 20:46:31",
+      "type": "文本消息",
+      "str_content": "我在一楼",
+      "is_send": 0,
+      "sender_name": "Bernoulli",
+      "sender_wxid": "wxid_b3vqt9bqyoqp22"
+    },
+    {
+      "create_time": 1720097234,
+      "formatted_time": "2024-07-04 20:47:14",
+      "type": "文本消息",
+      "str_content": "拍照",
+      "is_send": 0,
+      "sender_name": "子曰诛心",
+      "sender_wxid": "wxid_9843lormlznb12"
+    },
+    {
+      "create_time": 1720097836,
+      "formatted_time": "2024-07-04 20:57:16",
+      "type": "文本消息",
+      "str_content": "那我们",
+      "is_send": 0,
+      "sender_name": "Bernoulli",
+      "sender_wxid": "wxid_b3vqt9bqyoqp22"
+    },
+    {
+      "create_time": 1720097844,
+      "formatted_time": "2024-07-04 20:57:24",
+      "type": "文本消息",
+      "str_content": "怎么说",
+      "is_send": 0,
+      "sender_name": "Bernoulli",
+      "sender_wxid": "wxid_b3vqt9bqyoqp22"
+    },
+    {
+      "create_time": 1720097859,
+      "formatted_time": "2024-07-04 20:57:39",
+      "type": "文本消息",
+      "str_content": "我们上来了",
+      "is_send": 0,
+      "sender_name": "匡浩鑫-25-经济",
+      "sender_wxid": "wxid_vlj601697ps122"
+    },
+    {
+      "create_time": 1720099653,
+      "formatted_time": "2024-07-04 21:27:33",
+      "type": "文本消息",
+      "str_content": "我们过来了",
+      "is_send": 0,
+      "sender_name": "匡浩鑫-25-经济",
+      "sender_wxid": "wxid_vlj601697ps122"
+    },
+    {
+      "create_time": 1720103268,
+      "formatted_time": "2024-07-04 22:27:48",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "隆思源",
+      "sender_wxid": "wxid_pt7sv735mydh11"
+    },
+    {
+      "create_time": 1720103272,
+      "formatted_time": "2024-07-04 22:27:52",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "隆思源",
+      "sender_wxid": "wxid_pt7sv735mydh11"
+    },
+    {
+      "create_time": 1720103335,
+      "formatted_time": "2024-07-04 22:28:55",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "隆思源",
+      "sender_wxid": "wxid_pt7sv735mydh11"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:31+08:00",
+  "message_count": 16
+}

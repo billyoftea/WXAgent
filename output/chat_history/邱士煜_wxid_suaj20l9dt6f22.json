@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_suaj20l9dt6f22",
+  "session_name": "邱士煜",
+  "messages": [
+    {
+      "create_time": 1693323465,
+      "formatted_time": "2023-08-29 23:37:45",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "邱士煜"
+    },
+    {
+      "create_time": 1693323865,
+      "formatted_time": "2023-08-29 23:44:25",
+      "type": "文本消息",
+      "str_content": "帅学长[色]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693327022,
+      "formatted_time": "2023-08-30 00:37:02",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "邱士煜"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:42+08:00",
+  "message_count": 3
+}

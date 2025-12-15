@@ -1,0 +1,488 @@
+{
+  "session_id": "wxid_uqphzivj5q5q22",
+  "session_name": "超浩汽车公司程超13871210790",
+  "messages": [
+    {
+      "create_time": 1681989868,
+      "formatted_time": "2023-04-20 19:24:28",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682219958,
+      "formatted_time": "2023-04-23 11:19:18",
+      "type": "文本消息",
+      "str_content": "师傅，从华中科技大学同济校区到主校区的车大概是个什么费用呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682219996,
+      "formatted_time": "2023-04-23 11:19:56",
+      "type": "文本消息",
+      "str_content": "暂定时间是27日下午到主校区，晚上再送回同济校区，20人左右",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682220087,
+      "formatted_time": "2023-04-23 11:21:27",
+      "type": "文本消息",
+      "str_content": "您是那个部门的，姓名，电话通知我，人数要准确谢谢！",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682220111,
+      "formatted_time": "2023-04-23 11:21:51",
+      "type": "文本消息",
+      "str_content": "华中科技大学经济学院   徐昂  17865716165  人数19人",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682220119,
+      "formatted_time": "2023-04-23 11:21:59",
+      "type": "文本消息",
+      "str_content": "需要开华中科技大学抬头的发票",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682220475,
+      "formatted_time": "2023-04-23 11:27:55",
+      "type": "文本消息",
+      "str_content": "单程还是往返？",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682220480,
+      "formatted_time": "2023-04-23 11:28:00",
+      "type": "文本消息",
+      "str_content": "往返",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682220502,
+      "formatted_time": "2023-04-23 11:28:22",
+      "type": "文本消息",
+      "str_content": "好的谢谢",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682220514,
+      "formatted_time": "2023-04-23 11:28:34",
+      "type": "文本消息",
+      "str_content": "大概五点半到主校区，八点半从主校区出发到同济校区",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682223022,
+      "formatted_time": "2023-04-23 12:10:22",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682410413,
+      "formatted_time": "2023-04-25 16:13:33",
+      "type": "文本消息",
+      "str_content": "师傅具体的时间和地点安排可以发我下嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682410555,
+      "formatted_time": "2023-04-25 16:15:55",
+      "type": "文本消息",
+      "str_content": "提前一天通知，（明天这个时间）谢谢！",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682410930,
+      "formatted_time": "2023-04-25 16:22:10",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682411081,
+      "formatted_time": "2023-04-25 16:24:41",
+      "type": "文本消息",
+      "str_content": "那师傅，我们活动地点是在主校区东九楼，你们会把乘客送到哪里呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682411118,
+      "formatted_time": "2023-04-25 16:25:18",
+      "type": "文本消息",
+      "str_content": "还有你们一般在哪里接送选手呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682411293,
+      "formatted_time": "2023-04-25 16:28:13",
+      "type": "文本消息",
+      "str_content": "师傅我这边还在上课可能不太方便",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682411295,
+      "formatted_time": "2023-04-25 16:28:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682411315,
+      "formatted_time": "2023-04-25 16:28:35",
+      "type": "文本消息",
+      "str_content": "好，方便时联系我",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682411390,
+      "formatted_time": "2023-04-25 16:29:50",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682417907,
+      "formatted_time": "2023-04-25 18:18:27",
+      "type": "文本消息",
+      "str_content": "师傅现在可以电话吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682417971,
+      "formatted_time": "2023-04-25 18:19:31",
+      "type": "文本消息",
+      "str_content": "稍等一下",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682431580,
+      "formatted_time": "2023-04-25 22:06:20",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682431587,
+      "formatted_time": "2023-04-25 22:06:27",
+      "type": "文本消息",
+      "str_content": "师傅，我们计划在周四下午五点三十五从同济校区的国旗前集合，五点四十出发前往主校区；八点半从主校区回同济校区",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682431673,
+      "formatted_time": "2023-04-25 22:07:53",
+      "type": "文本消息",
+      "str_content": "好的，谢谢！",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682431711,
+      "formatted_time": "2023-04-25 22:08:31",
+      "type": "文本消息",
+      "str_content": "那到时候麻烦师傅接一下啦\n师傅可以留个车牌号嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682431954,
+      "formatted_time": "2023-04-25 22:12:34",
+      "type": "文本消息",
+      "str_content": "师傅，我们活动地点是在主校区东九楼，你们会把乘客送到哪里呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682432761,
+      "formatted_time": "2023-04-25 22:26:01",
+      "type": "文本消息",
+      "str_content": "是的，车明天中午通知",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682432778,
+      "formatted_time": "2023-04-25 22:26:18",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682433001,
+      "formatted_time": "2023-04-25 22:30:01",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682433020,
+      "formatted_time": "2023-04-25 22:30:20",
+      "type": "文本消息",
+      "str_content": "请问车费找您付付吗？",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682433030,
+      "formatted_time": "2023-04-25 22:30:30",
+      "type": "文本消息",
+      "str_content": "车费是多少钱呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682433046,
+      "formatted_time": "2023-04-25 22:30:46",
+      "type": "文本消息",
+      "str_content": "我这边付完您还需要开下华中科技大学抬头的发票",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682433052,
+      "formatted_time": "2023-04-25 22:30:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682433103,
+      "formatted_time": "2023-04-25 22:31:43",
+      "type": "文本消息",
+      "str_content": "可以没问题，您是学校那个部门的",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682433161,
+      "formatted_time": "2023-04-25 22:32:41",
+      "type": "文本消息",
+      "str_content": "华中科技大学经济学院的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682433168,
+      "formatted_time": "2023-04-25 22:32:48",
+      "type": "文本消息",
+      "str_content": "发票抬头\n华中科技大学\n单位税号\n12100000441626842D",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682433174,
+      "formatted_time": "2023-04-25 22:32:54",
+      "type": "文本消息",
+      "str_content": "这样开就可以了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682433208,
+      "formatted_time": "2023-04-25 22:33:28",
+      "type": "文本消息",
+      "str_content": "好的，我问一下财务价格",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682433218,
+      "formatted_time": "2023-04-25 22:33:38",
+      "type": "文本消息",
+      "str_content": "嗯嗯好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682472450,
+      "formatted_time": "2023-04-26 09:27:30",
+      "type": "文本消息",
+      "str_content": "徐老师您好：4月27日\n周四17：30在同济校区的国旗前集合，五点四十出发前往华科主校区东九楼；20：30主校区东九楼回同济校区，19人\n徐昂17865716165  \n考斯特鄂A68722\n徐富宁13349836366\n身份证420105197806241637\n麻烦您在二个校区报备，谢谢！",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682474096,
+      "formatted_time": "2023-04-26 09:54:56",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682480138,
+      "formatted_time": "2023-04-26 11:35:38",
+      "type": "文本消息",
+      "str_content": "师傅你们的车不是可以直接进华科的嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682480144,
+      "formatted_time": "2023-04-26 11:35:44",
+      "type": "文本消息",
+      "str_content": "这还需要报备吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682480182,
+      "formatted_time": "2023-04-26 11:36:22",
+      "type": "文本消息",
+      "str_content": "要报备",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1682480188,
+      "formatted_time": "2023-04-26 11:36:28",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682495846,
+      "formatted_time": "2023-04-26 15:57:26",
+      "type": "文本消息",
+      "str_content": "姚婧，李喆扬，宋贝特，吴宇明，蔡洪坤，王星懿，王珊，张冉\n\n王雨晴，程章荣，马妍，李帆，田雯，艾达，罗欣，韩荻，王乐园，张希，张月\n\n这是我们的乘客名单~共19人，到时候需要司机师傅帮忙核对下人员哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682495858,
+      "formatted_time": "2023-04-26 15:57:38",
+      "type": "文本消息",
+      "str_content": "然后权限已经申请好了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1682495938,
+      "formatted_time": "2023-04-26 15:58:58",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1693952946,
+      "formatted_time": "2023-09-06 06:29:06",
+      "type": "文本消息",
+      "str_content": "车费1014方便时安排一下谢谢！",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1693969768,
+      "formatted_time": "2023-09-06 11:09:28",
+      "type": "文本消息",
+      "str_content": "好的，您方便发一下相关发票嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693969770,
+      "formatted_time": "2023-09-06 11:09:30",
+      "type": "文本消息",
+      "str_content": "华中科技大学抬头",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695427422,
+      "formatted_time": "2023-09-23 08:03:42",
+      "type": "文本消息",
+      "str_content": "1014方便时安排一下谢谢！",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1695435959,
+      "formatted_time": "2023-09-23 10:25:59",
+      "type": "文本消息",
+      "str_content": "嗯嗯，我上次问我们辅导员的时候她说现在正在报这批发票",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695435964,
+      "formatted_time": "2023-09-23 10:26:04",
+      "type": "文本消息",
+      "str_content": "应该比较快就能下来了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695435966,
+      "formatted_time": "2023-09-23 10:26:06",
+      "type": "文本消息",
+      "str_content": "我再去问下吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695436369,
+      "formatted_time": "2023-09-23 10:32:49",
+      "type": "文本消息",
+      "str_content": "好的，添麻烦了，谢谢！",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1695438489,
+      "formatted_time": "2023-09-23 11:08:09",
+      "type": "文本消息",
+      "str_content": "没事没事，应该做的！真不好意思",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1697584533,
+      "formatted_time": "2023-10-18 07:15:33",
+      "type": "文本消息",
+      "str_content": "1014车费己收到谢谢！",
+      "is_send": 0,
+      "sender_name": "超浩汽车公司程超13871210790"
+    },
+    {
+      "create_time": 1697607722,
+      "formatted_time": "2023-10-18 13:42:02",
+      "type": "文本消息",
+      "str_content": "应该做的！",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:36+08:00",
+  "message_count": 60
+}

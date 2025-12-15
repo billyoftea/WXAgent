@@ -1,0 +1,560 @@
+{
+  "session_id": "wxid_7m32j6pr8rdo32",
+  "session_name": "赵彤-北京大学-管双",
+  "messages": [
+    {
+      "create_time": 1756371849,
+      "formatted_time": "2025-08-28 17:04:09",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1756371849,
+      "formatted_time": "2025-08-28 17:04:09",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1756371861,
+      "formatted_time": "2025-08-28 17:04:21",
+      "type": "文本消息",
+      "str_content": "同学你好，我是25管双赵彤",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1756371880,
+      "formatted_time": "2025-08-28 17:04:40",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765156722,
+      "formatted_time": "2025-12-08 09:18:42",
+      "type": "文本消息",
+      "str_content": "救命",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765156734,
+      "formatted_time": "2025-12-08 09:18:54",
+      "type": "文本消息",
+      "str_content": "这竞选群里和一家亲群里发的我们的顺序怎么不一样",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765156745,
+      "formatted_time": "2025-12-08 09:19:05",
+      "type": "文本消息",
+      "str_content": "啊？",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765156748,
+      "formatted_time": "2025-12-08 09:19:08",
+      "type": "文本消息",
+      "str_content": "还是按照竞选群里的顺序来吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765156760,
+      "formatted_time": "2025-12-08 09:19:20",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765156767,
+      "formatted_time": "2025-12-08 09:19:27",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765156771,
+      "formatted_time": "2025-12-08 09:19:31",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈好",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765156778,
+      "formatted_time": "2025-12-08 09:19:38",
+      "type": "文本消息",
+      "str_content": "没事 你在前面也可以",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765156790,
+      "formatted_time": "2025-12-08 09:19:50",
+      "type": "文本消息",
+      "str_content": "目前还在火力手搓ppt",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765156797,
+      "formatted_time": "2025-12-08 09:19:57",
+      "type": "文本消息",
+      "str_content": "我ppt真不会做了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765156804,
+      "formatted_time": "2025-12-08 09:20:04",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765156808,
+      "formatted_time": "2025-12-08 09:20:08",
+      "type": "文本消息",
+      "str_content": "不会画ppt",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765156812,
+      "formatted_time": "2025-12-08 09:20:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765156824,
+      "formatted_time": "2025-12-08 09:20:24",
+      "type": "引用消息",
+      "str_content": "还是你来吧！不然感觉就乱了hh",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765156830,
+      "formatted_time": "2025-12-08 09:20:30",
+      "type": "文本消息",
+      "str_content": "好的好的",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765156842,
+      "formatted_time": "2025-12-08 09:20:42",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765156861,
+      "formatted_time": "2025-12-08 09:21:01",
+      "type": "文本消息",
+      "str_content": "挺过这一遭",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765156872,
+      "formatted_time": "2025-12-08 09:21:12",
+      "type": "文本消息",
+      "str_content": "我能量要耗尽了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765156873,
+      "formatted_time": "2025-12-08 09:21:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765156881,
+      "formatted_time": "2025-12-08 09:21:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765197772,
+      "formatted_time": "2025-12-08 20:42:52",
+      "type": "文本消息",
+      "str_content": "会费+ 单独团费的价格感知是不一样的",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765197784,
+      "formatted_time": "2025-12-08 20:43:04",
+      "type": "文本消息",
+      "str_content": "同学会觉得为什么一直在掏钱",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765197793,
+      "formatted_time": "2025-12-08 20:43:13",
+      "type": "文本消息",
+      "str_content": "不论价格多少",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765197805,
+      "formatted_time": "2025-12-08 20:43:25",
+      "type": "文本消息",
+      "str_content": "一直在掏钱的感知会让他们觉得自己花的更多",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765209306,
+      "formatted_time": "2025-12-08 23:55:06",
+      "type": "文本消息",
+      "str_content": "彤姐我会很努力地向你学习的，你的想法直接给我说就好！我真的要向大家学习怎么更细致地落实这些事情",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765209312,
+      "formatted_time": "2025-12-08 23:55:12",
+      "type": "文本消息",
+      "str_content": "彤姐随时指导！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765209326,
+      "formatted_time": "2025-12-08 23:55:26",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈好的好的",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765209404,
+      "formatted_time": "2025-12-08 23:56:44",
+      "type": "文本消息",
+      "str_content": "我觉得你的想法很优秀，但在落实上会有难度，如果要落实，也会面临很多压力。但我完全信任你的技术能力！",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765209410,
+      "formatted_time": "2025-12-08 23:56:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765209422,
+      "formatted_time": "2025-12-08 23:57:02",
+      "type": "文本消息",
+      "str_content": "加油加油！恭喜你成为会长！",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765209565,
+      "formatted_time": "2025-12-08 23:59:25",
+      "type": "文本消息",
+      "str_content": "我会努力把事情做好的彤姐！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765209613,
+      "formatted_time": "2025-12-09 00:00:13",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈好哒我也是个群众视角，不会真的很push你的",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765209662,
+      "formatted_time": "2025-12-09 00:01:02",
+      "type": "文本消息",
+      "str_content": "哈哈哈也可以push着点，深港是大家的深港，真的接过了这个责任后，就得去做一个服务者",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765209682,
+      "formatted_time": "2025-12-09 00:01:22",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631180,
+      "formatted_time": "2025-12-13 21:06:20",
+      "type": "文本消息",
+      "str_content": "昂会，你有没有自己搭过梯子🥹我目前在帮我姐做tiktok，我觉得她买的节点有点问题，我推测这是导致视频推流存在问题的原因，所以想来问问你有没有自己搭过梯子",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631478,
+      "formatted_time": "2025-12-13 21:11:18",
+      "type": "文本消息",
+      "str_content": "很惭愧，我也没有完整自己搭过梯子[流泪]，我买的是ikuuu的clash节点，我觉得还是挺好用的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765631501,
+      "formatted_time": "2025-12-13 21:11:41",
+      "type": "文本消息",
+      "str_content": "我对自己搭梯子确实不太了解[流泪]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765631521,
+      "formatted_time": "2025-12-13 21:12:01",
+      "type": "文本消息",
+      "str_content": "那你购买的梯子也是无法保证“地址”的稳定性的对吧",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631544,
+      "formatted_time": "2025-12-13 21:12:24",
+      "type": "文本消息",
+      "str_content": "在tiktok系统的识别中它可能会出现一些“跳跃”？",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631555,
+      "formatted_time": "2025-12-13 21:12:35",
+      "type": "文本消息",
+      "str_content": "我不懂这些专业术语hhhhh我在试图描述",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631563,
+      "formatted_time": "2025-12-13 21:12:43",
+      "type": "文本消息",
+      "str_content": "对的，这个稳定性我确实觉得很难保证。有时候涉及到充值（比如google gemini/claude）的时候，可能需要切换不同的梯子",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765631581,
+      "formatted_time": "2025-12-13 21:13:01",
+      "type": "文本消息",
+      "str_content": "这种我们买的梯子确实相对来说比较难保证节点的纯洁性",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765631595,
+      "formatted_time": "2025-12-13 21:13:15",
+      "type": "文本消息",
+      "str_content": "搜得斯",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631599,
+      "formatted_time": "2025-12-13 21:13:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631603,
+      "formatted_time": "2025-12-13 21:13:23",
+      "type": "文本消息",
+      "str_content": "但节点纯洁性和推流这个逻辑链我也不太了解他的因果哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765631625,
+      "formatted_time": "2025-12-13 21:13:45",
+      "type": "文本消息",
+      "str_content": "因为它似乎会倾向于一个稳定地址的账号？",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631641,
+      "formatted_time": "2025-12-13 21:14:01",
+      "type": "文本消息",
+      "str_content": "没事没事，我再仔细找找原因",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631648,
+      "formatted_time": "2025-12-13 21:14:08",
+      "type": "文本消息",
+      "str_content": "辛苦您",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631655,
+      "formatted_time": "2025-12-13 21:14:15",
+      "type": "文本消息",
+      "str_content": "不会不会",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765631657,
+      "formatted_time": "2025-12-13 21:14:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631658,
+      "formatted_time": "2025-12-13 21:14:18",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631666,
+      "formatted_time": "2025-12-13 21:14:26",
+      "type": "文本消息",
+      "str_content": "彤姐太全能了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765631669,
+      "formatted_time": "2025-12-13 21:14:29",
+      "type": "文本消息",
+      "str_content": "还运营tt",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765631670,
+      "formatted_time": "2025-12-13 21:14:30",
+      "type": "文本消息",
+      "str_content": "没有没有",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631677,
+      "formatted_time": "2025-12-13 21:14:37",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631691,
+      "formatted_time": "2025-12-13 21:14:51",
+      "type": "文本消息",
+      "str_content": "属实是被逼上梁山了",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631700,
+      "formatted_time": "2025-12-13 21:15:00",
+      "type": "文本消息",
+      "str_content": "这个是我姐的血脉压制",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765631775,
+      "formatted_time": "2025-12-13 21:16:15",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765633961,
+      "formatted_time": "2025-12-13 21:52:41",
+      "type": "文本消息",
+      "str_content": "大家好！我是25级企业管理专业的赵彤，在深港的这三个月深刻体会到深港的温和包容与利他主义！非常期待能够作为“共建者”参与深港的职发活动，希望能和大家一起延续深港的核心基因，让深港越来越好！",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765634489,
+      "formatted_time": "2025-12-13 22:01:29",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765634494,
+      "formatted_time": "2025-12-13 22:01:34",
+      "type": "文本消息",
+      "str_content": "辛苦昂会！",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765634496,
+      "formatted_time": "2025-12-13 22:01:36",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    },
+    {
+      "create_time": 1765639397,
+      "formatted_time": "2025-12-13 23:23:17",
+      "type": "文本消息",
+      "str_content": "好哩！没问题~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765639397,
+      "formatted_time": "2025-12-13 23:23:17",
+      "type": "文本消息",
+      "str_content": "太美了！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765639419,
+      "formatted_time": "2025-12-13 23:23:39",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈昂会客气",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:22+08:00",
+  "message_count": 69
+}

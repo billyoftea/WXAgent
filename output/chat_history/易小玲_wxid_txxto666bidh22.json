@@ -1,0 +1,40 @@
+{
+  "session_id": "wxid_txxto666bidh22",
+  "session_name": "易小玲",
+  "messages": [
+    {
+      "create_time": 1681294445,
+      "formatted_time": "2023-04-12 18:14:05",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "易小玲"
+    },
+    {
+      "create_time": 1681296435,
+      "formatted_time": "2023-04-12 18:47:15",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "易小玲"
+    },
+    {
+      "create_time": 1681296658,
+      "formatted_time": "2023-04-12 18:50:58",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1681296661,
+      "formatted_time": "2023-04-12 18:51:01",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 4
+}

@@ -1,0 +1,48 @@
+{
+  "session_id": "wxid_nvn25udml67s22",
+  "session_name": "22-生科-周源媛",
+  "messages": [
+    {
+      "create_time": 1716176528,
+      "formatted_time": "2024-05-20 11:42:08",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "22-生科-周源媛"
+    },
+    {
+      "create_time": 1716176726,
+      "formatted_time": "2024-05-20 11:45:26",
+      "type": "文本消息",
+      "str_content": "你好，我是22-生科-周源媛",
+      "is_send": 0,
+      "sender_name": "22-生科-周源媛"
+    },
+    {
+      "create_time": 1716176761,
+      "formatted_time": "2024-05-20 11:46:01",
+      "type": "文本消息",
+      "str_content": "你好~我是21 经济 徐昂",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716176762,
+      "formatted_time": "2024-05-20 11:46:02",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1716176778,
+      "formatted_time": "2024-05-20 11:46:18",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "22-生科-周源媛"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:32+08:00",
+  "message_count": 5
+}

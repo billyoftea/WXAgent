@@ -1,0 +1,1399 @@
+{
+  "session_id": "49465599846@chatroom",
+  "session_name": "清北深圳华科分队",
+  "messages": [
+    {
+      "create_time": 1755599904,
+      "formatted_time": "2025-08-19 18:38:24",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "清北深圳华科分队",
+      "sender_wxid": "49465599846@chatroom"
+    },
+    {
+      "create_time": 1755599904,
+      "formatted_time": "2025-08-19 18:38:24",
+      "type": "文本消息",
+      "str_content": "家人们 相依为命",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755599906,
+      "formatted_time": "2025-08-19 18:38:26",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755599915,
+      "formatted_time": "2025-08-19 18:38:35",
+      "type": "文本消息",
+      "str_content": "资瓷",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1755599919,
+      "formatted_time": "2025-08-19 18:38:39",
+      "type": "文本消息",
+      "str_content": "度日如年的一天",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1755599926,
+      "formatted_time": "2025-08-19 18:38:46",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "清北深圳华科分队",
+      "sender_wxid": "49465599846@chatroom"
+    },
+    {
+      "create_time": 1755599951,
+      "formatted_time": "2025-08-19 18:39:11",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "清北深圳华科分队",
+      "sender_wxid": "49465599846@chatroom"
+    },
+    {
+      "create_time": 1755599983,
+      "formatted_time": "2025-08-19 18:39:43",
+      "type": "文本消息",
+      "str_content": "管院往年有几个来汇丰的呀",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1755611736,
+      "formatted_time": "2025-08-19 21:55:36",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755611806,
+      "formatted_time": "2025-08-19 21:56:46",
+      "type": "文本消息",
+      "str_content": "家人们 我们党员应该也要团组织关系转接叭",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755611808,
+      "formatted_time": "2025-08-19 21:56:48",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755611824,
+      "formatted_time": "2025-08-19 21:57:04",
+      "type": "文本消息",
+      "str_content": "对的，我准备去联系辅导员了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1755611826,
+      "formatted_time": "2025-08-19 21:57:06",
+      "type": "文本消息",
+      "str_content": "我反正目前没收到华科相关的消息",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755611834,
+      "formatted_time": "2025-08-19 21:57:14",
+      "type": "文本消息",
+      "str_content": "嗷",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755611837,
+      "formatted_time": "2025-08-19 21:57:17",
+      "type": "文本消息",
+      "str_content": "我也问问！",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755663649,
+      "formatted_time": "2025-08-20 12:20:49",
+      "type": "文本消息",
+      "str_content": "uu你们问到了吗",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755663655,
+      "formatted_time": "2025-08-20 12:20:55",
+      "type": "文本消息",
+      "str_content": "所以我们现在需要进行什么操作吗",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755663877,
+      "formatted_time": "2025-08-20 12:24:37",
+      "type": "文本消息",
+      "str_content": "薇导没通过好友申请呢还",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755663879,
+      "formatted_time": "2025-08-20 12:24:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755663913,
+      "formatted_time": "2025-08-20 12:25:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755663920,
+      "formatted_time": "2025-08-20 12:25:20",
+      "type": "文本消息",
+      "str_content": "问薇导吗",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755663928,
+      "formatted_time": "2025-08-20 12:25:28",
+      "type": "文本消息",
+      "str_content": "我也可以去问问",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755663935,
+      "formatted_time": "2025-08-20 12:25:35",
+      "type": "文本消息",
+      "str_content": "不是薇负责莫",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755663942,
+      "formatted_time": "2025-08-20 12:25:42",
+      "type": "文本消息",
+      "str_content": "好欸",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755663946,
+      "formatted_time": "2025-08-20 12:25:46",
+      "type": "文本消息",
+      "str_content": "我们一起问问",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755665391,
+      "formatted_time": "2025-08-20 12:49:51",
+      "type": "文本消息",
+      "str_content": "桂导：",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755665393,
+      "formatted_time": "2025-08-20 12:49:53",
+      "type": "文本消息",
+      "str_content": "你们毕业的时候每个班团支书收集了团组织关系转接信息，然后组织部都在系统上操作了",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755665454,
+      "formatted_time": "2025-08-20 12:50:54",
+      "type": "文本消息",
+      "str_content": "所以我们就等于",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755665457,
+      "formatted_time": "2025-08-20 12:50:57",
+      "type": "文本消息",
+      "str_content": "不用操作了吗",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755665469,
+      "formatted_time": "2025-08-20 12:51:09",
+      "type": "文本消息",
+      "str_content": "应该还要搞那个青春北京？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1755665512,
+      "formatted_time": "2025-08-20 12:51:52",
+      "type": "引用消息",
+      "str_content": "不过貌似当时咱都不知道转入团支部是哪个啊",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1755665620,
+      "formatted_time": "2025-08-20 12:53:40",
+      "type": "文本消息",
+      "str_content": "青春北京注册一下，然后智慧团建上再申请转组织关系好像就可以了吧",
+      "is_send": 0,
+      "sender_name": "王稼禾",
+      "sender_wxid": "wxid_nht696qwtl9a22"
+    },
+    {
+      "create_time": 1755665680,
+      "formatted_time": "2025-08-20 12:54:40",
+      "type": "文本消息",
+      "str_content": "团支书可以审批智慧团建的转组织关系申请",
+      "is_send": 0,
+      "sender_name": "王稼禾",
+      "sender_wxid": "wxid_nht696qwtl9a22"
+    },
+    {
+      "create_time": 1755665698,
+      "formatted_time": "2025-08-20 12:54:58",
+      "type": "文本消息",
+      "str_content": "qs",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1755665711,
+      "formatted_time": "2025-08-20 12:55:11",
+      "type": "文本消息",
+      "str_content": "我智慧团建上还是本科团支部",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1755666597,
+      "formatted_time": "2025-08-20 13:09:57",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755666613,
+      "formatted_time": "2025-08-20 13:10:13",
+      "type": "文本消息",
+      "str_content": "uu你们这里填的是什么呀 我感觉我这个好像不太对 是不是应该写深圳呢",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755666690,
+      "formatted_time": "2025-08-20 13:11:30",
+      "type": "文本消息",
+      "str_content": "第一个应该填是吧",
+      "is_send": 0,
+      "sender_name": "王稼禾",
+      "sender_wxid": "wxid_nht696qwtl9a22"
+    },
+    {
+      "create_time": 1755667029,
+      "formatted_time": "2025-08-20 13:17:09",
+      "type": "文本消息",
+      "str_content": "确实确实",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755667031,
+      "formatted_time": "2025-08-20 13:17:11",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755667046,
+      "formatted_time": "2025-08-20 13:17:26",
+      "type": "文本消息",
+      "str_content": "注册那里邮件说填写燕园街道",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755667051,
+      "formatted_time": "2025-08-20 13:17:31",
+      "type": "文本消息",
+      "str_content": "校内社区",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755667062,
+      "formatted_time": "2025-08-20 13:17:42",
+      "type": "文本消息",
+      "str_content": "但是这里没有校内社区诶 都是居委会",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755684580,
+      "formatted_time": "2025-08-20 18:09:40",
+      "type": "文本消息",
+      "str_content": "解决了 是校内社区居委会 和入学前发的 入学注意事项里面一样[可怜]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755684812,
+      "formatted_time": "2025-08-20 18:13:32",
+      "type": "文件消息",
+      "str_content": "北京大学深圳研究生院2025级研究生入学注意事项.pdf",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755684821,
+      "formatted_time": "2025-08-20 18:13:41",
+      "type": "文本消息",
+      "str_content": "对对对就这",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1755684852,
+      "formatted_time": "2025-08-20 18:14:12",
+      "type": "文本消息",
+      "str_content": "谢谢宝宝！",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1755684904,
+      "formatted_time": "2025-08-20 18:15:04",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1756100931,
+      "formatted_time": "2025-08-25 13:48:51",
+      "type": "文本消息",
+      "str_content": "jrm什么时候有时间也一起聚一聚吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756100951,
+      "formatted_time": "2025-08-25 13:49:11",
+      "type": "文本消息",
+      "str_content": "同意",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756100995,
+      "formatted_time": "2025-08-25 13:49:55",
+      "type": "文本消息",
+      "str_content": "附议",
+      "is_send": 0,
+      "sender_name": "王稼禾",
+      "sender_wxid": "wxid_nht696qwtl9a22"
+    },
+    {
+      "create_time": 1756101047,
+      "formatted_time": "2025-08-25 13:50:47",
+      "type": "文本消息",
+      "str_content": "非常厉害的团长",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756101073,
+      "formatted_time": "2025-08-25 13:51:13",
+      "type": "文本消息",
+      "str_content": "同意",
+      "is_send": 0,
+      "sender_name": "318谢承熙",
+      "sender_wxid": "wxid_62sk2sd9a6vf22"
+    },
+    {
+      "create_time": 1756101089,
+      "formatted_time": "2025-08-25 13:51:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756102224,
+      "formatted_time": "2025-08-25 14:10:24",
+      "type": "文本消息",
+      "str_content": "同意",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1756102227,
+      "formatted_time": "2025-08-25 14:10:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1756367407,
+      "formatted_time": "2025-08-28 15:50:07",
+      "type": "文本消息",
+      "str_content": "晚上麻不麻jrm",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756367437,
+      "formatted_time": "2025-08-28 15:50:37",
+      "type": "文本消息",
+      "str_content": "似乎班上有团建",
+      "is_send": 0,
+      "sender_name": "318谢承熙",
+      "sender_wxid": "wxid_62sk2sd9a6vf22"
+    },
+    {
+      "create_time": 1756367439,
+      "formatted_time": "2025-08-28 15:50:39",
+      "type": "文本消息",
+      "str_content": "sad bro",
+      "is_send": 0,
+      "sender_name": "318谢承熙",
+      "sender_wxid": "wxid_62sk2sd9a6vf22"
+    },
+    {
+      "create_time": 1756367460,
+      "formatted_time": "2025-08-28 15:51:00",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756367499,
+      "formatted_time": "2025-08-28 15:51:39",
+      "type": "文本消息",
+      "str_content": "剩下的呢jrm@Bonnie Z @CurryWW @vv",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756367512,
+      "formatted_time": "2025-08-28 15:51:52",
+      "type": "文本消息",
+      "str_content": "麻",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756367521,
+      "formatted_time": "2025-08-28 15:52:01",
+      "type": "引用消息",
+      "str_content": "好吧",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1756367559,
+      "formatted_time": "2025-08-28 15:52:39",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "318谢承熙",
+      "sender_wxid": "wxid_62sk2sd9a6vf22"
+    },
+    {
+      "create_time": 1756367567,
+      "formatted_time": "2025-08-28 15:52:47",
+      "type": "文本消息",
+      "str_content": "给你们安利个好东西",
+      "is_send": 0,
+      "sender_name": "318谢承熙",
+      "sender_wxid": "wxid_62sk2sd9a6vf22"
+    },
+    {
+      "create_time": 1756367576,
+      "formatted_time": "2025-08-28 15:52:56",
+      "type": "文本消息",
+      "str_content": "很便宜",
+      "is_send": 0,
+      "sender_name": "318谢承熙",
+      "sender_wxid": "wxid_62sk2sd9a6vf22"
+    },
+    {
+      "create_time": 1756367608,
+      "formatted_time": "2025-08-28 15:53:28",
+      "type": "文本消息",
+      "str_content": "你是羊毛大王[强][强]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1756367778,
+      "formatted_time": "2025-08-28 15:56:18",
+      "type": "文本消息",
+      "str_content": "尚不会麻",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1756367820,
+      "formatted_time": "2025-08-28 15:57:00",
+      "type": "文本消息",
+      "str_content": "🉑麻",
+      "is_send": 0,
+      "sender_name": "王稼禾",
+      "sender_wxid": "wxid_nht696qwtl9a22"
+    },
+    {
+      "create_time": 1756367837,
+      "formatted_time": "2025-08-28 15:57:17",
+      "type": "文本消息",
+      "str_content": "今晚约🏊‍♂️了",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1757395152,
+      "formatted_time": "2025-09-09 13:19:12",
+      "type": "文本消息",
+      "str_content": "有没有家人晚上打羽毛球",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1757395178,
+      "formatted_time": "2025-09-09 13:19:38",
+      "type": "文本消息",
+      "str_content": "我可以打1下",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1757395181,
+      "formatted_time": "2025-09-09 13:19:41",
+      "type": "文本消息",
+      "str_content": "有场吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1757395534,
+      "formatted_time": "2025-09-09 13:25:34",
+      "type": "文本消息",
+      "str_content": "暂🈚️ 打算先摸清楚流程",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1757395564,
+      "formatted_time": "2025-09-09 13:26:04",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1757395972,
+      "formatted_time": "2025-09-09 13:32:52",
+      "type": "文本消息",
+      "str_content": "镜湖那个场是对北大学生免费的，不过比较难抢\n深圳大学城的场是收费的，我看了下貌似还可以定",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1757395995,
+      "formatted_time": "2025-09-09 13:33:15",
+      "type": "文本消息",
+      "str_content": "镜湖是在南燕门户小程序，大学城是在大学城小程序",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1757398329,
+      "formatted_time": "2025-09-09 14:12:09",
+      "type": "文本消息",
+      "str_content": "这么好",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1757398352,
+      "formatted_time": "2025-09-09 14:12:32",
+      "type": "文本消息",
+      "str_content": "我都可啊 如果需要我去看场地我就去看",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1757850759,
+      "formatted_time": "2025-09-14 19:52:39",
+      "type": "文本消息",
+      "str_content": "有无来打桌游（郁金香泡沫） 2=3\n包教包会",
+      "is_send": 0,
+      "sender_name": "318谢承熙",
+      "sender_wxid": "wxid_62sk2sd9a6vf22"
+    },
+    {
+      "create_time": 1758026085,
+      "formatted_time": "2025-09-16 20:34:45",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "清北深圳华科分队",
+      "sender_wxid": "49465599846@chatroom"
+    },
+    {
+      "create_time": 1758026097,
+      "formatted_time": "2025-09-16 20:34:57",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "清北深圳华科分队",
+      "sender_wxid": "49465599846@chatroom"
+    },
+    {
+      "create_time": 1758026106,
+      "formatted_time": "2025-09-16 20:35:06",
+      "type": "文本消息",
+      "str_content": "欢迎萍老师",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758026112,
+      "formatted_time": "2025-09-16 20:35:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758026141,
+      "formatted_time": "2025-09-16 20:35:41",
+      "type": "文本消息",
+      "str_content": "加入大部队",
+      "is_send": 0,
+      "sender_name": "李昱萍",
+      "sender_wxid": "wxid_8ctp9p7g0to312"
+    },
+    {
+      "create_time": 1758026148,
+      "formatted_time": "2025-09-16 20:35:48",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李昱萍",
+      "sender_wxid": "wxid_8ctp9p7g0to312"
+    },
+    {
+      "create_time": 1758026160,
+      "formatted_time": "2025-09-16 20:36:00",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "清北深圳华科分队",
+      "sender_wxid": "49465599846@chatroom"
+    },
+    {
+      "create_time": 1758026174,
+      "formatted_time": "2025-09-16 20:36:14",
+      "type": "文本消息",
+      "str_content": "俺们汇丰的最近老忙",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758026191,
+      "formatted_time": "2025-09-16 20:36:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758026206,
+      "formatted_time": "2025-09-16 20:36:46",
+      "type": "文本消息",
+      "str_content": "清深第二天上课，感觉良好",
+      "is_send": 0,
+      "sender_name": "李昱萍",
+      "sender_wxid": "wxid_8ctp9p7g0to312"
+    },
+    {
+      "create_time": 1758026211,
+      "formatted_time": "2025-09-16 20:36:51",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758026224,
+      "formatted_time": "2025-09-16 20:37:04",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "清北深圳华科分队",
+      "sender_wxid": "49465599846@chatroom"
+    },
+    {
+      "create_time": 1758026224,
+      "formatted_time": "2025-09-16 20:37:04",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758026228,
+      "formatted_time": "2025-09-16 20:37:08",
+      "type": "文本消息",
+      "str_content": "第二天上课[流泪]，这不是真的",
+      "is_send": 0,
+      "sender_name": "318谢承熙",
+      "sender_wxid": "wxid_62sk2sd9a6vf22"
+    },
+    {
+      "create_time": 1758026230,
+      "formatted_time": "2025-09-16 20:37:10",
+      "type": "文本消息",
+      "str_content": "目前正在听清华版“廖建桥”讲故事",
+      "is_send": 0,
+      "sender_name": "李昱萍",
+      "sender_wxid": "wxid_8ctp9p7g0to312"
+    },
+    {
+      "create_time": 1758026236,
+      "formatted_time": "2025-09-16 20:37:16",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758026243,
+      "formatted_time": "2025-09-16 20:37:23",
+      "type": "文本消息",
+      "str_content": "老管院人了",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758026250,
+      "formatted_time": "2025-09-16 20:37:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "何雅姿",
+      "sender_wxid": "wxid_hw2cimv5meqm22"
+    },
+    {
+      "create_time": 1758026318,
+      "formatted_time": "2025-09-16 20:38:38",
+      "type": "文本消息",
+      "str_content": "啥时候我们约饭",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758026350,
+      "formatted_time": "2025-09-16 20:39:10",
+      "type": "文本消息",
+      "str_content": "我周末都有空",
+      "is_send": 0,
+      "sender_name": "李昱萍",
+      "sender_wxid": "wxid_8ctp9p7g0to312"
+    },
+    {
+      "create_time": 1758026359,
+      "formatted_time": "2025-09-16 20:39:19",
+      "type": "文本消息",
+      "str_content": "周六如何",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758026370,
+      "formatted_time": "2025-09-16 20:39:30",
+      "type": "文本消息",
+      "str_content": "支持！",
+      "is_send": 0,
+      "sender_name": "李昱萍",
+      "sender_wxid": "wxid_8ctp9p7g0to312"
+    },
+    {
+      "create_time": 1758026402,
+      "formatted_time": "2025-09-16 20:40:02",
+      "type": "文本消息",
+      "str_content": "午饭局？",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758026403,
+      "formatted_time": "2025-09-16 20:40:03",
+      "type": "文本消息",
+      "str_content": "这里全是管院的吗",
+      "is_send": 0,
+      "sender_name": "含南望北",
+      "sender_wxid": "wxid_r8ol4s198q8b22"
+    },
+    {
+      "create_time": 1758026426,
+      "formatted_time": "2025-09-16 20:40:26",
+      "type": "文本消息",
+      "str_content": "周末我不在深圳kkk",
+      "is_send": 0,
+      "sender_name": "何雅姿",
+      "sender_wxid": "wxid_hw2cimv5meqm22"
+    },
+    {
+      "create_time": 1758026430,
+      "formatted_time": "2025-09-16 20:40:30",
+      "type": "文本消息",
+      "str_content": "我是医管院",
+      "is_send": 0,
+      "sender_name": "何雅姿",
+      "sender_wxid": "wxid_hw2cimv5meqm22"
+    },
+    {
+      "create_time": 1758026433,
+      "formatted_time": "2025-09-16 20:40:33",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "何雅姿",
+      "sender_wxid": "wxid_hw2cimv5meqm22"
+    },
+    {
+      "create_time": 1758026489,
+      "formatted_time": "2025-09-16 20:41:29",
+      "type": "文本消息",
+      "str_content": "要不周中吧",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758026545,
+      "formatted_time": "2025-09-16 20:42:25",
+      "type": "文本消息",
+      "str_content": "我周四周五都可",
+      "is_send": 0,
+      "sender_name": "李昱萍",
+      "sender_wxid": "wxid_8ctp9p7g0to312"
+    },
+    {
+      "create_time": 1758026658,
+      "formatted_time": "2025-09-16 20:44:18",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1758026694,
+      "formatted_time": "2025-09-16 20:44:54",
+      "type": "文本消息",
+      "str_content": "下周五可以吗",
+      "is_send": 0,
+      "sender_name": "含南望北",
+      "sender_wxid": "wxid_r8ol4s198q8b22"
+    },
+    {
+      "create_time": 1758026714,
+      "formatted_time": "2025-09-16 20:45:14",
+      "type": "文本消息",
+      "str_content": "🆘  因为社团我发现我不 ok",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758026721,
+      "formatted_time": "2025-09-16 20:45:21",
+      "type": "文本消息",
+      "str_content": "哈哈哈听从大部队",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758026756,
+      "formatted_time": "2025-09-16 20:45:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "何雅姿",
+      "sender_wxid": "wxid_hw2cimv5meqm22"
+    },
+    {
+      "create_time": 1758026765,
+      "formatted_time": "2025-09-16 20:46:05",
+      "type": "文本消息",
+      "str_content": "目前我ok的",
+      "is_send": 0,
+      "sender_name": "何雅姿",
+      "sender_wxid": "wxid_hw2cimv5meqm22"
+    },
+    {
+      "create_time": 1758262824,
+      "formatted_time": "2025-09-19 14:20:24",
+      "type": "文本消息",
+      "str_content": "家人们",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758262834,
+      "formatted_time": "2025-09-19 14:20:34",
+      "type": "文本消息",
+      "str_content": "你们的档案材料有没有缺积极分子结业证",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758262838,
+      "formatted_time": "2025-09-19 14:20:38",
+      "type": "文本消息",
+      "str_content": "你们有这个东西吗",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758262856,
+      "formatted_time": "2025-09-19 14:20:56",
+      "type": "文本消息",
+      "str_content": "我没印象",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758262908,
+      "formatted_time": "2025-09-19 14:21:48",
+      "type": "文本消息",
+      "str_content": "我记得有这个东西",
+      "is_send": 0,
+      "sender_name": "李昱萍",
+      "sender_wxid": "wxid_8ctp9p7g0to312"
+    },
+    {
+      "create_time": 1758262911,
+      "formatted_time": "2025-09-19 14:21:51",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758262916,
+      "formatted_time": "2025-09-19 14:21:56",
+      "type": "文本消息",
+      "str_content": "我的问题就是没有结业证",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758262927,
+      "formatted_time": "2025-09-19 14:22:07",
+      "type": "文本消息",
+      "str_content": "我去找找我们院的辅导员",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758262960,
+      "formatted_time": "2025-09-19 14:22:40",
+      "type": "文本消息",
+      "str_content": "我问了下，我好像是有这个的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758263730,
+      "formatted_time": "2025-09-19 14:35:30",
+      "type": "文本消息",
+      "str_content": "破案了家人们",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758263734,
+      "formatted_time": "2025-09-19 14:35:34",
+      "type": "文本消息",
+      "str_content": "我们辅导员说我们没有",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758263746,
+      "formatted_time": "2025-09-19 14:35:46",
+      "type": "文本消息",
+      "str_content": "可能不同学院不一样？",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758263757,
+      "formatted_time": "2025-09-19 14:35:57",
+      "type": "文本消息",
+      "str_content": "但我记得有一张纸？",
+      "is_send": 0,
+      "sender_name": "李昱萍",
+      "sender_wxid": "wxid_8ctp9p7g0to312"
+    },
+    {
+      "create_time": 1758263760,
+      "formatted_time": "2025-09-19 14:36:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758263786,
+      "formatted_time": "2025-09-19 14:36:26",
+      "type": "文本消息",
+      "str_content": "我甚至还记得样子",
+      "is_send": 0,
+      "sender_name": "李昱萍",
+      "sender_wxid": "wxid_8ctp9p7g0to312"
+    },
+    {
+      "create_time": 1758263799,
+      "formatted_time": "2025-09-19 14:36:39",
+      "type": "文本消息",
+      "str_content": "笑死了",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758263805,
+      "formatted_time": "2025-09-19 14:36:45",
+      "type": "文本消息",
+      "str_content": "？",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758263807,
+      "formatted_time": "2025-09-19 14:36:47",
+      "type": "文本消息",
+      "str_content": "真有",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758263815,
+      "formatted_time": "2025-09-19 14:36:55",
+      "type": "文本消息",
+      "str_content": "吗",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758263849,
+      "formatted_time": "2025-09-19 14:37:29",
+      "type": "文本消息",
+      "str_content": "就是上完课之后，都发了一张",
+      "is_send": 0,
+      "sender_name": "李昱萍",
+      "sender_wxid": "wxid_8ctp9p7g0to312"
+    },
+    {
+      "create_time": 1758263864,
+      "formatted_time": "2025-09-19 14:37:44",
+      "type": "文本消息",
+      "str_content": "不过辅导员说没有那就没有",
+      "is_send": 0,
+      "sender_name": "李昱萍",
+      "sender_wxid": "wxid_8ctp9p7g0to312"
+    },
+    {
+      "create_time": 1758263876,
+      "formatted_time": "2025-09-19 14:37:56",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李昱萍",
+      "sender_wxid": "wxid_8ctp9p7g0to312"
+    },
+    {
+      "create_time": 1758263912,
+      "formatted_time": "2025-09-19 14:38:32",
+      "type": "文本消息",
+      "str_content": "我好像略有印象",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758263918,
+      "formatted_time": "2025-09-19 14:38:38",
+      "type": "文本消息",
+      "str_content": "但这也太久远了",
+      "is_send": 0,
+      "sender_name": "华科管院 郑彤",
+      "sender_wxid": "wxid_0kgvjr43i9n812"
+    },
+    {
+      "create_time": 1758470363,
+      "formatted_time": "2025-09-21 23:59:23",
+      "type": "文本消息",
+      "str_content": "所以下周有什么想法吗jrm",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758470365,
+      "formatted_time": "2025-09-21 23:59:25",
+      "type": "文本消息",
+      "str_content": "周一周二？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758470500,
+      "formatted_time": "2025-09-22 00:01:40",
+      "type": "文本消息",
+      "str_content": "周二周三周四我不太行 我们班班会+社团[可怜]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758470518,
+      "formatted_time": "2025-09-22 00:01:58",
+      "type": "文本消息",
+      "str_content": "周五周五可以嘛",
+      "is_send": 0,
+      "sender_name": "含南望北",
+      "sender_wxid": "wxid_r8ol4s198q8b22"
+    },
+    {
+      "create_time": 1758470531,
+      "formatted_time": "2025-09-22 00:02:11",
+      "type": "文本消息",
+      "str_content": "周四有个文章截稿[流泪]",
+      "is_send": 0,
+      "sender_name": "含南望北",
+      "sender_wxid": "wxid_r8ol4s198q8b22"
+    },
+    {
+      "create_time": 1758470658,
+      "formatted_time": "2025-09-22 00:04:18",
+      "type": "文本消息",
+      "str_content": "我都可以",
+      "is_send": 0,
+      "sender_name": "李昱萍",
+      "sender_wxid": "wxid_8ctp9p7g0to312"
+    },
+    {
+      "create_time": 1758470756,
+      "formatted_time": "2025-09-22 00:05:56",
+      "type": "文本消息",
+      "str_content": "我周四周六可以[苦涩]",
+      "is_send": 0,
+      "sender_name": "何雅姿",
+      "sender_wxid": "wxid_hw2cimv5meqm22"
+    },
+    {
+      "create_time": 1758470771,
+      "formatted_time": "2025-09-22 00:06:11",
+      "type": "文本消息",
+      "str_content": "要不我们约午饭",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758470777,
+      "formatted_time": "2025-09-22 00:06:17",
+      "type": "文本消息",
+      "str_content": "午饭可行度高一点？",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758470789,
+      "formatted_time": "2025-09-22 00:06:29",
+      "type": "文本消息",
+      "str_content": "周六中午？",
+      "is_send": 0,
+      "sender_name": "含南望北",
+      "sender_wxid": "wxid_r8ol4s198q8b22"
+    },
+    {
+      "create_time": 1758470813,
+      "formatted_time": "2025-09-22 00:06:53",
+      "type": "文本消息",
+      "str_content": "周六那会是不是放假了",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758470822,
+      "formatted_time": "2025-09-22 00:07:02",
+      "type": "文本消息",
+      "str_content": "周六补课好像",
+      "is_send": 0,
+      "sender_name": "含南望北",
+      "sender_wxid": "wxid_r8ol4s198q8b22"
+    },
+    {
+      "create_time": 1758470826,
+      "formatted_time": "2025-09-22 00:07:06",
+      "type": "文本消息",
+      "str_content": "那我周五周六都可以",
+      "is_send": 0,
+      "sender_name": "何雅姿",
+      "sender_wxid": "wxid_hw2cimv5meqm22"
+    },
+    {
+      "create_time": 1758470869,
+      "formatted_time": "2025-09-22 00:07:49",
+      "type": "文本消息",
+      "str_content": "我这周看起来还都可以",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758470891,
+      "formatted_time": "2025-09-22 00:08:11",
+      "type": "文本消息",
+      "str_content": "2-5不是有大暴雨嘛",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758470896,
+      "formatted_time": "2025-09-22 00:08:16",
+      "type": "文本消息",
+      "str_content": "看起来很吓人",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758470896,
+      "formatted_time": "2025-09-22 00:08:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1758470919,
+      "formatted_time": "2025-09-22 00:08:39",
+      "type": "文本消息",
+      "str_content": "要不国庆回来以后",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    },
+    {
+      "create_time": 1758470920,
+      "formatted_time": "2025-09-22 00:08:40",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇",
+      "sender_wxid": "wxid_b1jjjv85wnwo22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:25+08:00",
+  "message_count": 158
+}

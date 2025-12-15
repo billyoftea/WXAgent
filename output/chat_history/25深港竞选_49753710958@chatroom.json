@@ -1,0 +1,869 @@
+{
+  "session_id": "49753710958@chatroom",
+  "session_name": "25深港竞选",
+  "messages": [
+    {
+      "create_time": 1764576862,
+      "formatted_time": "2025-12-01 16:14:22",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764576863,
+      "formatted_time": "2025-12-01 16:14:23",
+      "type": "文件消息",
+      "str_content": "深港换届通知.pdf",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1764577047,
+      "formatted_time": "2025-12-01 16:17:27",
+      "type": "文本消息",
+      "str_content": "@所有人 欢迎四位弟弟妹妹报名参加竞选，由于我们这次是等额选，所以规则有所调整：四位同学轮流发表竞选宣言，然后统一接受问答，投票选举会长，然后直接进行副会长投票，得票率超过半数则当选会长团成员",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1764577114,
+      "formatted_time": "2025-12-01 16:18:34",
+      "type": "文本消息",
+      "str_content": "时间的话考虑大家周二有课，调整到下周一12.8晚上19:30",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1764577186,
+      "formatted_time": "2025-12-01 16:19:46",
+      "type": "引用消息",
+      "str_content": "大家需在12.8早上9点在一家亲2️⃣群发送大家的竞选宣言pdf版本和一段简单的自我介绍",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1764577207,
+      "formatted_time": "2025-12-01 16:20:07",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1764577234,
+      "formatted_time": "2025-12-01 16:20:34",
+      "type": "文本消息",
+      "str_content": "若对时间和规则有问题可以群内直接问",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1764577245,
+      "formatted_time": "2025-12-01 16:20:45",
+      "type": "文本消息",
+      "str_content": "没问题的话回复一下收到～",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1764577247,
+      "formatted_time": "2025-12-01 16:20:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1764577255,
+      "formatted_time": "2025-12-01 16:20:55",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1764577258,
+      "formatted_time": "2025-12-01 16:20:58",
+      "type": "文本消息",
+      "str_content": "收到！",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1764577261,
+      "formatted_time": "2025-12-01 16:21:01",
+      "type": "文本消息",
+      "str_content": "收到！",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1764577383,
+      "formatted_time": "2025-12-01 16:23:03",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "马超然24经济",
+      "sender_wxid": "wxid_hp5dv37torqf22"
+    },
+    {
+      "create_time": 1764577412,
+      "formatted_time": "2025-12-01 16:23:32",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "许家启-24-金投",
+      "sender_wxid": "wxid_8qumlhd1468812"
+    },
+    {
+      "create_time": 1764578755,
+      "formatted_time": "2025-12-01 16:45:55",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1764580265,
+      "formatted_time": "2025-12-01 17:11:05",
+      "type": "文本消息",
+      "str_content": "收到🫡",
+      "is_send": 0,
+      "sender_name": "祝焱炎",
+      "sender_wxid": "wxid_wc4v033wkswb11"
+    },
+    {
+      "create_time": 1764699808,
+      "formatted_time": "2025-12-03 02:23:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1764699824,
+      "formatted_time": "2025-12-03 02:23:44",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1764699827,
+      "formatted_time": "2025-12-03 02:23:47",
+      "type": "文本消息",
+      "str_content": "@随便绒绒",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1764699829,
+      "formatted_time": "2025-12-03 02:23:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1764699844,
+      "formatted_time": "2025-12-03 02:24:04",
+      "type": "文本消息",
+      "str_content": "欢迎陈莹来参加竞选～",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1764699852,
+      "formatted_time": "2025-12-03 02:24:12",
+      "type": "文本消息",
+      "str_content": "具体规则可以看聊天记录",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1764719175,
+      "formatted_time": "2025-12-03 07:46:15",
+      "type": "文本消息",
+      "str_content": "好滴",
+      "is_send": 0,
+      "sender_name": "财新-陈莹",
+      "sender_wxid": "wxid_3kc2xwo9aatn22"
+    },
+    {
+      "create_time": 1764864282,
+      "formatted_time": "2025-12-05 00:04:42",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765120275,
+      "formatted_time": "2025-12-07 23:11:15",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120294,
+      "formatted_time": "2025-12-07 23:11:34",
+      "type": "文本消息",
+      "str_content": "@徐昂 Ang @半岛 @dejavu @Cassini🌙",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120323,
+      "formatted_time": "2025-12-07 23:12:03",
+      "type": "文本消息",
+      "str_content": "四位竞选会长的同学点击抽签决定明天一家亲群内的宣言发表顺序和晚上竞选顺序～",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120344,
+      "formatted_time": "2025-12-07 23:12:24",
+      "type": "文本消息",
+      "str_content": "陈莹只选副会的话默认最后一位发言[转圈]",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120409,
+      "formatted_time": "2025-12-07 23:13:29",
+      "type": "文本消息",
+      "str_content": "选完大家报下自己顺序",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120413,
+      "formatted_time": "2025-12-07 23:13:33",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120419,
+      "formatted_time": "2025-12-07 23:13:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765120421,
+      "formatted_time": "2025-12-07 23:13:41",
+      "type": "文本消息",
+      "str_content": "我是4",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765120472,
+      "formatted_time": "2025-12-07 23:14:32",
+      "type": "文本消息",
+      "str_content": "我是1",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1765120478,
+      "formatted_time": "2025-12-07 23:14:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1765120629,
+      "formatted_time": "2025-12-07 23:17:09",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "马超然24经济",
+      "sender_wxid": "wxid_hp5dv37torqf22"
+    },
+    {
+      "create_time": 1765120878,
+      "formatted_time": "2025-12-07 23:21:18",
+      "type": "文本消息",
+      "str_content": "我是2",
+      "is_send": 0,
+      "sender_name": "祝焱炎",
+      "sender_wxid": "wxid_wc4v033wkswb11"
+    },
+    {
+      "create_time": 1765120885,
+      "formatted_time": "2025-12-07 23:21:25",
+      "type": "文本消息",
+      "str_content": "OK",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120902,
+      "formatted_time": "2025-12-07 23:21:42",
+      "type": "引用消息",
+      "str_content": "好滴好滴",
+      "is_send": 0,
+      "sender_name": "财新-陈莹",
+      "sender_wxid": "wxid_3kc2xwo9aatn22"
+    },
+    {
+      "create_time": 1765120923,
+      "formatted_time": "2025-12-07 23:22:03",
+      "type": "文本消息",
+      "str_content": "明天上午十点按照：赵彤、焱焱、徐昂、赵祥、陈莹，这个顺序",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120937,
+      "formatted_time": "2025-12-07 23:22:17",
+      "type": "文本消息",
+      "str_content": "每两分钟一位同学发到一家亲2️⃣群里",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120946,
+      "formatted_time": "2025-12-07 23:22:26",
+      "type": "文本消息",
+      "str_content": "超然会帮大家同步转到1️⃣群",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120956,
+      "formatted_time": "2025-12-07 23:22:36",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120966,
+      "formatted_time": "2025-12-07 23:22:46",
+      "type": "引用消息",
+      "str_content": "同时这个也是晚上的竞选发言顺序",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120972,
+      "formatted_time": "2025-12-07 23:22:52",
+      "type": "文本消息",
+      "str_content": "好嘞",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1765120976,
+      "formatted_time": "2025-12-07 23:22:56",
+      "type": "文本消息",
+      "str_content": "期待大家的精彩表现！",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120978,
+      "formatted_time": "2025-12-07 23:22:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120987,
+      "formatted_time": "2025-12-07 23:23:07",
+      "type": "文本消息",
+      "str_content": "我会线上全程支持的",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765120999,
+      "formatted_time": "2025-12-07 23:23:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765121000,
+      "formatted_time": "2025-12-07 23:23:20",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1765121010,
+      "formatted_time": "2025-12-07 23:23:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "祝焱炎",
+      "sender_wxid": "wxid_wc4v033wkswb11"
+    },
+    {
+      "create_time": 1765121327,
+      "formatted_time": "2025-12-07 23:28:47",
+      "type": "文件消息",
+      "str_content": "深港内培模板.pptx",
+      "is_send": 0,
+      "sender_name": "马超然24经济",
+      "sender_wxid": "wxid_hp5dv37torqf22"
+    },
+    {
+      "create_time": 1765121336,
+      "formatted_time": "2025-12-07 23:28:56",
+      "type": "文本消息",
+      "str_content": "大家如果需要模板可以用这个～",
+      "is_send": 0,
+      "sender_name": "马超然24经济",
+      "sender_wxid": "wxid_hp5dv37torqf22"
+    },
+    {
+      "create_time": 1765121349,
+      "formatted_time": "2025-12-07 23:29:09",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "财新-陈莹",
+      "sender_wxid": "wxid_3kc2xwo9aatn22"
+    },
+    {
+      "create_time": 1765121398,
+      "formatted_time": "2025-12-07 23:29:58",
+      "type": "文本消息",
+      "str_content": "[可怜]请问学姐可以不按照模版走吗？",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1765121417,
+      "formatted_time": "2025-12-07 23:30:17",
+      "type": "文本消息",
+      "str_content": "可以的",
+      "is_send": 0,
+      "sender_name": "马超然24经济",
+      "sender_wxid": "wxid_hp5dv37torqf22"
+    },
+    {
+      "create_time": 1765121422,
+      "formatted_time": "2025-12-07 23:30:22",
+      "type": "文本消息",
+      "str_content": "大家按照自己来～",
+      "is_send": 0,
+      "sender_name": "马超然24经济",
+      "sender_wxid": "wxid_hp5dv37torqf22"
+    },
+    {
+      "create_time": 1765121428,
+      "formatted_time": "2025-12-07 23:30:28",
+      "type": "文本消息",
+      "str_content": "好哒好哒～",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1765122046,
+      "formatted_time": "2025-12-07 23:40:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765122614,
+      "formatted_time": "2025-12-07 23:50:14",
+      "type": "文本消息",
+      "str_content": "大家都很棒！！",
+      "is_send": 0,
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765122924,
+      "formatted_time": "2025-12-07 23:55:24",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "许家启-24-金投",
+      "sender_wxid": "wxid_8qumlhd1468812"
+    },
+    {
+      "create_time": 1765123951,
+      "formatted_time": "2025-12-08 00:12:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "马超然24经济",
+      "sender_wxid": "wxid_hp5dv37torqf22"
+    },
+    {
+      "create_time": 1765124129,
+      "formatted_time": "2025-12-08 00:15:29",
+      "type": "文本消息",
+      "str_content": "大家加油～",
+      "is_send": 0,
+      "sender_name": "23经济黄赞",
+      "sender_wxid": "wxid_fv3wu9kgd88822"
+    },
+    {
+      "create_time": 1765196443,
+      "formatted_time": "2025-12-08 20:20:43",
+      "type": "文本消息",
+      "str_content": "@徐昂 Ang @半岛 @Cassini🌙 @dejavu @随便绒绒 宝们可以发下ppt吗！在群里~",
+      "is_send": 0,
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765196466,
+      "formatted_time": "2025-12-08 20:21:06",
+      "type": "文本消息",
+      "str_content": "可以的！",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1765196469,
+      "formatted_time": "2025-12-08 20:21:09",
+      "type": "文件消息",
+      "str_content": "深港竞选-徐昂.pptx",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765196471,
+      "formatted_time": "2025-12-08 20:21:11",
+      "type": "文本消息",
+      "str_content": "哪个群呀",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765196471,
+      "formatted_time": "2025-12-08 20:21:11",
+      "type": "文件消息",
+      "str_content": "会长竞选-赵彤.pptx",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1765196483,
+      "formatted_time": "2025-12-08 20:21:23",
+      "type": "文件消息",
+      "str_content": "会长竞选-赵彤.pdf",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1765196490,
+      "formatted_time": "2025-12-08 20:21:30",
+      "type": "文件消息",
+      "str_content": "深港竞选ppt——陈莹.pdf",
+      "is_send": 0,
+      "sender_name": "财新-陈莹",
+      "sender_wxid": "wxid_3kc2xwo9aatn22"
+    },
+    {
+      "create_time": 1765196490,
+      "formatted_time": "2025-12-08 20:21:30",
+      "type": "文件消息",
+      "str_content": "深港竞选-赵祥.pptx",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765196501,
+      "formatted_time": "2025-12-08 20:21:41",
+      "type": "文本消息",
+      "str_content": "（ppt可能会打不开，我补个pdf）",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1765196554,
+      "formatted_time": "2025-12-08 20:22:34",
+      "type": "文本消息",
+      "str_content": "没事就在这个群就好~",
+      "is_send": 0,
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765196632,
+      "formatted_time": "2025-12-08 20:23:52",
+      "type": "文件消息",
+      "str_content": "祝焱炎竞选PPT.pptx",
+      "is_send": 0,
+      "sender_name": "祝焱炎",
+      "sender_wxid": "wxid_wc4v033wkswb11"
+    },
+    {
+      "create_time": 1765196685,
+      "formatted_time": "2025-12-08 20:24:45",
+      "type": "文件消息",
+      "str_content": "祝焱炎竞选PPT.pdf",
+      "is_send": 0,
+      "sender_name": "祝焱炎",
+      "sender_wxid": "wxid_wc4v033wkswb11"
+    },
+    {
+      "create_time": 1765197252,
+      "formatted_time": "2025-12-08 20:34:12",
+      "type": "文本消息",
+      "str_content": "辛苦啦！",
+      "is_send": 0,
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765203072,
+      "formatted_time": "2025-12-08 22:11:12",
+      "type": "文本消息",
+      "str_content": "大家的表现都很精彩～",
+      "is_send": 0,
+      "sender_name": "23经济黄赞",
+      "sender_wxid": "wxid_fv3wu9kgd88822"
+    },
+    {
+      "create_time": 1765203080,
+      "formatted_time": "2025-12-08 22:11:20",
+      "type": "文本消息",
+      "str_content": "不论留没留任",
+      "is_send": 0,
+      "sender_name": "23经济黄赞",
+      "sender_wxid": "wxid_fv3wu9kgd88822"
+    },
+    {
+      "create_time": 1765203098,
+      "formatted_time": "2025-12-08 22:11:38",
+      "type": "文本消息",
+      "str_content": "都要继续热爱深港呀",
+      "is_send": 0,
+      "sender_name": "23经济黄赞",
+      "sender_wxid": "wxid_fv3wu9kgd88822"
+    },
+    {
+      "create_time": 1765203110,
+      "formatted_time": "2025-12-08 22:11:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1765203117,
+      "formatted_time": "2025-12-08 22:11:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "马超然24经济",
+      "sender_wxid": "wxid_hp5dv37torqf22"
+    },
+    {
+      "create_time": 1765203117,
+      "formatted_time": "2025-12-08 22:11:57",
+      "type": "文本消息",
+      "str_content": "也欢迎大家随时找我交流",
+      "is_send": 0,
+      "sender_name": "23经济黄赞",
+      "sender_wxid": "wxid_fv3wu9kgd88822"
+    },
+    {
+      "create_time": 1765203126,
+      "formatted_time": "2025-12-08 22:12:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765203132,
+      "formatted_time": "2025-12-08 22:12:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "陈柯宇 24",
+      "sender_wxid": "wxid_ar90oegsq14h22"
+    },
+    {
+      "create_time": 1765203136,
+      "formatted_time": "2025-12-08 22:12:16",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "祝焱炎",
+      "sender_wxid": "wxid_wc4v033wkswb11"
+    },
+    {
+      "create_time": 1765203190,
+      "formatted_time": "2025-12-08 22:13:10",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765203222,
+      "formatted_time": "2025-12-08 22:13:42",
+      "type": "文本消息",
+      "str_content": "都很优秀！",
+      "is_send": 0,
+      "sender_name": "夏雨欣 23",
+      "sender_wxid": "wxid_avo16ayn44v921"
+    },
+    {
+      "create_time": 1765203224,
+      "formatted_time": "2025-12-08 22:13:44",
+      "type": "文本消息",
+      "str_content": "你们真的，每一个人",
+      "is_send": 0,
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765203228,
+      "formatted_time": "2025-12-08 22:13:48",
+      "type": "文本消息",
+      "str_content": "都很厉害😭😭😭😭",
+      "is_send": 0,
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765203250,
+      "formatted_time": "2025-12-08 22:14:10",
+      "type": "文本消息",
+      "str_content": "深港一定会越来越好越来越好[流泪]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765203250,
+      "formatted_time": "2025-12-08 22:14:10",
+      "type": "文本消息",
+      "str_content": "都很真诚",
+      "is_send": 0,
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    },
+    {
+      "create_time": 1765203272,
+      "formatted_time": "2025-12-08 22:14:32",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "祝焱炎",
+      "sender_wxid": "wxid_wc4v033wkswb11"
+    },
+    {
+      "create_time": 1765203330,
+      "formatted_time": "2025-12-08 22:15:30",
+      "type": "文本消息",
+      "str_content": "深港一定会越来越好！",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1765203365,
+      "formatted_time": "2025-12-08 22:16:05",
+      "type": "文本消息",
+      "str_content": "深港一定会越来越好！",
+      "is_send": 0,
+      "sender_name": "赵祥",
+      "sender_wxid": "wxid_g1khfsvn6tyg22"
+    },
+    {
+      "create_time": 1765203524,
+      "formatted_time": "2025-12-08 22:18:44",
+      "type": "文本消息",
+      "str_content": "深港一定会越来越好！",
+      "is_send": 0,
+      "sender_name": "祝焱炎",
+      "sender_wxid": "wxid_wc4v033wkswb11"
+    },
+    {
+      "create_time": 1765203530,
+      "formatted_time": "2025-12-08 22:18:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "祝焱炎",
+      "sender_wxid": "wxid_wc4v033wkswb11"
+    },
+    {
+      "create_time": 1765204707,
+      "formatted_time": "2025-12-08 22:38:27",
+      "type": "文本消息",
+      "str_content": "深港一定会越来越好！",
+      "is_send": 0,
+      "sender_name": "财新-陈莹",
+      "sender_wxid": "wxid_3kc2xwo9aatn22"
+    },
+    {
+      "create_time": 1765206175,
+      "formatted_time": "2025-12-08 23:02:55",
+      "type": "文本消息",
+      "str_content": "深港一定会越来越好！",
+      "is_send": 0,
+      "sender_name": "何宇淳",
+      "sender_wxid": "wxid_1j5h9d7rtxrr22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:18+08:00",
+  "message_count": 97
+}

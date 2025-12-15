@@ -1,0 +1,144 @@
+{
+  "session_id": "wxid_gpjtpwap926w12",
+  "session_name": "张晨阳",
+  "messages": [
+    {
+      "create_time": 1756113358,
+      "formatted_time": "2025-08-25 17:15:58",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "张晨阳"
+    },
+    {
+      "create_time": 1756113358,
+      "formatted_time": "2025-08-25 17:15:58",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "张晨阳"
+    },
+    {
+      "create_time": 1756113371,
+      "formatted_time": "2025-08-25 17:16:11",
+      "type": "文本消息",
+      "str_content": "哈喽哈喽",
+      "is_send": 0,
+      "sender_name": "张晨阳"
+    },
+    {
+      "create_time": 1756113451,
+      "formatted_time": "2025-08-25 17:17:31",
+      "type": "文本消息",
+      "str_content": "uu看能不能再找个女生吧",
+      "is_send": 0,
+      "sender_name": "张晨阳"
+    },
+    {
+      "create_time": 1756113463,
+      "formatted_time": "2025-08-25 17:17:43",
+      "type": "文本消息",
+      "str_content": "hh我想着要不咱先去吃饭？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1756113485,
+      "formatted_time": "2025-08-25 17:18:05",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1756113487,
+      "formatted_time": "2025-08-25 17:18:07",
+      "type": "文本消息",
+      "str_content": "我刚吃完[破涕为笑]",
+      "is_send": 0,
+      "sender_name": "张晨阳"
+    },
+    {
+      "create_time": 1756113494,
+      "formatted_time": "2025-08-25 17:18:14",
+      "type": "文本消息",
+      "str_content": "[发呆][发呆][发呆]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1756113551,
+      "formatted_time": "2025-08-25 17:19:11",
+      "type": "文本消息",
+      "str_content": "我们先找着，看你们能不能再找个男生。补你们三缺一，或者再找个女生。和我们一起过去",
+      "is_send": 0,
+      "sender_name": "张晨阳"
+    },
+    {
+      "create_time": 1756113579,
+      "formatted_time": "2025-08-25 17:19:39",
+      "type": "文本消息",
+      "str_content": "hhh好，我们三男二女轮着打也行",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1756113627,
+      "formatted_time": "2025-08-25 17:20:27",
+      "type": "文本消息",
+      "str_content": "主要只我一个女生，确实有点不太方便了哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "张晨阳"
+    },
+    {
+      "create_time": 1763977218,
+      "formatted_time": "2025-11-24 17:40:18",
+      "type": "文本消息",
+      "str_content": "解决了！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763977219,
+      "formatted_time": "2025-11-24 17:40:19",
+      "type": "文本消息",
+      "str_content": "牛逼",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763977261,
+      "formatted_time": "2025-11-24 17:41:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张晨阳"
+    },
+    {
+      "create_time": 1763977261,
+      "formatted_time": "2025-11-24 17:41:01",
+      "type": "文本消息",
+      "str_content": "嗯嗯是的，我之前试了一下分电脑，连上hdmi线之后在电脑右下方有一个小按钮可以切换，如果能显示下图那就是可以扩展屏",
+      "is_send": 0,
+      "sender_name": "张晨阳"
+    },
+    {
+      "create_time": 1763977315,
+      "formatted_time": "2025-11-24 17:41:55",
+      "type": "文本消息",
+      "str_content": "对的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763977317,
+      "formatted_time": "2025-11-24 17:41:57",
+      "type": "文本消息",
+      "str_content": "太厉害了",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:27+08:00",
+  "message_count": 17
+}

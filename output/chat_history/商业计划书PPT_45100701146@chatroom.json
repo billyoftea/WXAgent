@@ -1,0 +1,3817 @@
+{
+  "session_id": "45100701146@chatroom",
+  "session_name": "商业计划书PPT",
+  "messages": [
+    {
+      "create_time": 1682088998,
+      "formatted_time": "2023-04-21 22:56:38",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "商业计划书PPT",
+      "sender_wxid": "45100701146@chatroom"
+    },
+    {
+      "create_time": 1682088998,
+      "formatted_time": "2023-04-21 22:56:38",
+      "type": "文本消息",
+      "str_content": "我拉个小群 大家方便交流~",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682089011,
+      "formatted_time": "2023-04-21 22:56:51",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682089020,
+      "formatted_time": "2023-04-21 22:57:00",
+      "type": "文本消息",
+      "str_content": "问问大家的意见",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682089113,
+      "formatted_time": "2023-04-21 22:58:33",
+      "type": "文本消息",
+      "str_content": "还是优先是小程序对吧",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682089127,
+      "formatted_time": "2023-04-21 22:58:47",
+      "type": "文本消息",
+      "str_content": "其他的我可以回答他了",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682089167,
+      "formatted_time": "2023-04-21 22:59:27",
+      "type": "文本消息",
+      "str_content": "嗯嗯，关于数据提供的问题我晚上开会的时候说了，按理来说是我们来完成",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1682089183,
+      "formatted_time": "2023-04-21 22:59:43",
+      "type": "文本消息",
+      "str_content": "理论上",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1682089202,
+      "formatted_time": "2023-04-21 23:00:02",
+      "type": "文本消息",
+      "str_content": "实际上我们得寻求政府帮助",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1682089215,
+      "formatted_time": "2023-04-21 23:00:15",
+      "type": "文本消息",
+      "str_content": "好嘞",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682089221,
+      "formatted_time": "2023-04-21 23:00:21",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682328119,
+      "formatted_time": "2023-04-24 17:21:59",
+      "type": "文件消息",
+      "str_content": "问题.docx",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682328143,
+      "formatted_time": "2023-04-24 17:22:23",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682328284,
+      "formatted_time": "2023-04-24 17:24:44",
+      "type": "文本消息",
+      "str_content": "大家有空和我一起去吗  我怕一个人不能都回答上来[流泪]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682328292,
+      "formatted_time": "2023-04-24 17:24:52",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682328301,
+      "formatted_time": "2023-04-24 17:25:01",
+      "type": "文本消息",
+      "str_content": "这是我的课表",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682328302,
+      "formatted_time": "2023-04-24 17:25:02",
+      "type": "文本消息",
+      "str_content": "[可怜][可怜]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682328324,
+      "formatted_time": "2023-04-24 17:25:24",
+      "type": "文本消息",
+      "str_content": "@amony 周三晚上学长没空[流泪]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682330538,
+      "formatted_time": "2023-04-24 18:02:18",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "商业计划书PPT",
+      "sender_wxid": "45100701146@chatroom"
+    },
+    {
+      "create_time": 1682331719,
+      "formatted_time": "2023-04-24 18:21:59",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1682580534,
+      "formatted_time": "2023-04-27 15:28:54",
+      "type": "文本消息",
+      "str_content": "大家周五下午线下有空吗",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682580537,
+      "formatted_time": "2023-04-27 15:28:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682580616,
+      "formatted_time": "2023-04-27 15:30:16",
+      "type": "文本消息",
+      "str_content": "要讨论一下“我的”界面设计哪些功能",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682580622,
+      "formatted_time": "2023-04-27 15:30:22",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682580662,
+      "formatted_time": "2023-04-27 15:31:02",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "商业计划书PPT",
+      "sender_wxid": "45100701146@chatroom"
+    },
+    {
+      "create_time": 1682580676,
+      "formatted_time": "2023-04-27 15:31:16",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "商业计划书PPT",
+      "sender_wxid": "45100701146@chatroom"
+    },
+    {
+      "create_time": 1682583984,
+      "formatted_time": "2023-04-27 16:26:24",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1682584053,
+      "formatted_time": "2023-04-27 16:27:33",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1682584087,
+      "formatted_time": "2023-04-27 16:28:07",
+      "type": "文本消息",
+      "str_content": "大家加一加哈～",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1682584103,
+      "formatted_time": "2023-04-27 16:28:23",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682588326,
+      "formatted_time": "2023-04-27 17:38:46",
+      "type": "文本消息",
+      "str_content": "我明天晚上有考试，晚上九点后才有时间[流泪]",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1682589195,
+      "formatted_time": "2023-04-27 17:53:15",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1682589206,
+      "formatted_time": "2023-04-27 17:53:26",
+      "type": "文本消息",
+      "str_content": "我们今晚线上讨论     我九点下课  大家可以吗",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682590742,
+      "formatted_time": "2023-04-27 18:19:02",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1682593653,
+      "formatted_time": "2023-04-27 19:07:33",
+      "type": "图文消息",
+      "str_content": "嘻嘻预定的会议",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1682593674,
+      "formatted_time": "2023-04-27 19:07:54",
+      "type": "文本消息",
+      "str_content": "麻烦大家今晚短暂的开个会哈",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1682593681,
+      "formatted_time": "2023-04-27 19:08:01",
+      "type": "文本消息",
+      "str_content": "应该时间不长的",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1682593749,
+      "formatted_time": "2023-04-27 19:09:09",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682601203,
+      "formatted_time": "2023-04-27 21:13:23",
+      "type": "文本消息",
+      "str_content": "其他uu呢",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682601221,
+      "formatted_time": "2023-04-27 21:13:41",
+      "type": "文本消息",
+      "str_content": "OK",
+      "is_send": 0,
+      "sender_name": "李欣霖",
+      "sender_wxid": "wxid_8y807fdxm58822"
+    },
+    {
+      "create_time": 1682601406,
+      "formatted_time": "2023-04-27 21:16:46",
+      "type": "引用消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "黄莉茜",
+      "sender_wxid": "wxid_4exh4fc9ykcy22"
+    },
+    {
+      "create_time": 1682601414,
+      "formatted_time": "2023-04-27 21:16:54",
+      "type": "引用消息",
+      "str_content": "应该OK",
+      "is_send": 0,
+      "sender_name": "黄莉茜",
+      "sender_wxid": "wxid_4exh4fc9ykcy22"
+    },
+    {
+      "create_time": 1682601590,
+      "formatted_time": "2023-04-27 21:19:50",
+      "type": "文本消息",
+      "str_content": "@盒小鱼 @Billy O' Tea",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682601726,
+      "formatted_time": "2023-04-27 21:22:06",
+      "type": "文本消息",
+      "str_content": "我ok的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1682601853,
+      "formatted_time": "2023-04-27 21:24:13",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1682602639,
+      "formatted_time": "2023-04-27 21:37:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1682605110,
+      "formatted_time": "2023-04-27 22:18:30",
+      "type": "引用消息",
+      "str_content": "我现在还有个事没处理完",
+      "is_send": 0,
+      "sender_name": "黄莉茜",
+      "sender_wxid": "wxid_4exh4fc9ykcy22"
+    },
+    {
+      "create_time": 1682605112,
+      "formatted_time": "2023-04-27 22:18:32",
+      "type": "文本消息",
+      "str_content": "[捂脸]",
+      "is_send": 0,
+      "sender_name": "黄莉茜",
+      "sender_wxid": "wxid_4exh4fc9ykcy22"
+    },
+    {
+      "create_time": 1682606981,
+      "formatted_time": "2023-04-27 22:49:41",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1682606988,
+      "formatted_time": "2023-04-27 22:49:48",
+      "type": "文本消息",
+      "str_content": "我不知道为啥我卡了",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1682607008,
+      "formatted_time": "2023-04-27 22:50:08",
+      "type": "文本消息",
+      "str_content": "具体分析案例的什么呀",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682607016,
+      "formatted_time": "2023-04-27 22:50:16",
+      "type": "文本消息",
+      "str_content": "学姐想表达的意思",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682607018,
+      "formatted_time": "2023-04-27 22:50:18",
+      "type": "文本消息",
+      "str_content": "就是我们有宪法、解释以及案例",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1682607089,
+      "formatted_time": "2023-04-27 22:51:29",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1682607230,
+      "formatted_time": "2023-04-27 22:53:50",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1682607366,
+      "formatted_time": "2023-04-27 22:56:06",
+      "type": "文本消息",
+      "str_content": "我觉得挺好的",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1682607372,
+      "formatted_time": "2023-04-27 22:56:12",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1682607486,
+      "formatted_time": "2023-04-27 22:58:06",
+      "type": "文本消息",
+      "str_content": "https://www.court.gov.cn/fabu-gengduo-77.html",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1682607694,
+      "formatted_time": "2023-04-27 23:01:34",
+      "type": "文本消息",
+      "str_content": "我感觉我们都可以创业了[色][色]",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1682607813,
+      "formatted_time": "2023-04-27 23:03:33",
+      "type": "图文消息",
+      "str_content": "嘻嘻预定的会议",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1682608793,
+      "formatted_time": "2023-04-27 23:19:53",
+      "type": "文本消息",
+      "str_content": "我手机要没电了[大哭][大哭]",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1682646046,
+      "formatted_time": "2023-04-28 09:40:46",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682646064,
+      "formatted_time": "2023-04-28 09:41:04",
+      "type": "文本消息",
+      "str_content": "我们可以借鉴一下这个",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682646069,
+      "formatted_time": "2023-04-28 09:41:09",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682646101,
+      "formatted_time": "2023-04-28 09:41:41",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682678514,
+      "formatted_time": "2023-04-28 18:41:54",
+      "type": "文本消息",
+      "str_content": "大家觉得这种和小程序哪个更好",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682678518,
+      "formatted_time": "2023-04-28 18:41:58",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682689207,
+      "formatted_time": "2023-04-28 21:40:07",
+      "type": "文本消息",
+      "str_content": "我的界面：\n ---个人信息部分\n ---历史记录\n ---设置\n   ---隐私政策\n   ---关于我们\n   ---问题反馈\n历史记录部分：用户如果上传文书后在历史记录可以查看文书和分析结果\n个人信息部分：目前试试打算给使用用户的类别进行划分，个人和企业类别，其余就是微信登陆后能够获取的个人信息\n设置部分需要人总结一份微信小程序和基于我们软件需要的隐私政策\n关于我们：简单介绍小程序的用处，要突出公益性\n问题反馈：用户填写反馈后后端需要存储，方便产品迭代\n\n\n用户上传文书分析后可以选择导出分析结果为pdf或者word版本保存在用户本地。（分析界面）\n\n还考虑到了一点： \n最高人民法院每年都会有指导性案例，可以将指导性案例放到现在已经有的案例里面 并且要增加指导性案例的权重  （但是要看后端有没有时间人为标注），并且将可以分析部分作为案例共享部分，对于每个用户，如果对方同意公开自己的案件，就把这些部分展示在案例共享部分，而且当用户浏览的公开案例的时候还可以加入我的收藏。这样一来我的界面还需要加入我的收藏和增加共享案例界面。",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1682689230,
+      "formatted_time": "2023-04-28 21:40:30",
+      "type": "文本消息",
+      "str_content": "@所有人 请大家看看昨晚的讨论结果还有什么要补充的吗",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1682689246,
+      "formatted_time": "2023-04-28 21:40:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682689253,
+      "formatted_time": "2023-04-28 21:40:53",
+      "type": "文本消息",
+      "str_content": "看看大家都来看看",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682689254,
+      "formatted_time": "2023-04-28 21:40:54",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1682689288,
+      "formatted_time": "2023-04-28 21:41:28",
+      "type": "文本消息",
+      "str_content": "大家动动手指扫码入群～",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682689292,
+      "formatted_time": "2023-04-28 21:41:32",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1682689308,
+      "formatted_time": "2023-04-28 21:41:48",
+      "type": "文本消息",
+      "str_content": "对滴对滴",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1682689328,
+      "formatted_time": "2023-04-28 21:42:08",
+      "type": "文本消息",
+      "str_content": "飞书更方便交流",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683551904,
+      "formatted_time": "2023-05-08 21:18:24",
+      "type": "文本消息",
+      "str_content": "@Le Papillon @Billy O' Tea \n学姐和uu在修改商业计划书PPT吗[可怜]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683551929,
+      "formatted_time": "2023-05-08 21:18:49",
+      "type": "文本消息",
+      "str_content": "很久没动静",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683551932,
+      "formatted_time": "2023-05-08 21:18:52",
+      "type": "文本消息",
+      "str_content": "[大哭]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683556434,
+      "formatted_time": "2023-05-08 22:33:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "黄莉茜",
+      "sender_wxid": "wxid_4exh4fc9ykcy22"
+    },
+    {
+      "create_time": 1683556435,
+      "formatted_time": "2023-05-08 22:33:55",
+      "type": "文本消息",
+      "str_content": "不知道啊",
+      "is_send": 0,
+      "sender_name": "黄莉茜",
+      "sender_wxid": "wxid_4exh4fc9ykcy22"
+    },
+    {
+      "create_time": 1683556567,
+      "formatted_time": "2023-05-08 22:36:07",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "黄莉茜",
+      "sender_wxid": "wxid_4exh4fc9ykcy22"
+    },
+    {
+      "create_time": 1683556587,
+      "formatted_time": "2023-05-08 22:36:27",
+      "type": "文本消息",
+      "str_content": "学姐现在负责PPT哪部分",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683556599,
+      "formatted_time": "2023-05-08 22:36:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683779251,
+      "formatted_time": "2023-05-11 12:27:31",
+      "type": "文本消息",
+      "str_content": "各位同学，今天下午在紫菘学生活动中心二楼报告厅举行投融资路演活动，邀请了10多个投资人，相当于就是案例展示了，可以有效帮助大家了解如何做路演，对后续参与互联网+等竞赛都有指导意义，同时设置了第二课堂学时，欢迎大家扫码报名，积极参与。@全体成员",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683779261,
+      "formatted_time": "2023-05-11 12:27:41",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683779294,
+      "formatted_time": "2023-05-11 12:28:14",
+      "type": "文本消息",
+      "str_content": "@amony @Billy O' Tea  uu们有空去听一听吗[大哭]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683779310,
+      "formatted_time": "2023-05-11 12:28:30",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1683779327,
+      "formatted_time": "2023-05-11 12:28:47",
+      "type": "文本消息",
+      "str_content": "呜呜 我下午要心理委员答辩  没空去 可惜",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683779331,
+      "formatted_time": "2023-05-11 12:28:51",
+      "type": "文本消息",
+      "str_content": "没大有时间[凋谢]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1683779369,
+      "formatted_time": "2023-05-11 12:29:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683779469,
+      "formatted_time": "2023-05-11 12:31:09",
+      "type": "文本消息",
+      "str_content": "其他uu有空吗",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683779877,
+      "formatted_time": "2023-05-11 12:37:57",
+      "type": "文本消息",
+      "str_content": "我在校外宣讲，没有时间[流泪]",
+      "is_send": 0,
+      "sender_name": "李欣霖",
+      "sender_wxid": "wxid_8y807fdxm58822"
+    },
+    {
+      "create_time": 1683779961,
+      "formatted_time": "2023-05-11 12:39:21",
+      "type": "文本消息",
+      "str_content": "欧克",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683780386,
+      "formatted_time": "2023-05-11 12:46:26",
+      "type": "文本消息",
+      "str_content": "我下午有舞蹈课[苦涩]",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1683780393,
+      "formatted_time": "2023-05-11 12:46:33",
+      "type": "文本消息",
+      "str_content": "噢噢",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683780404,
+      "formatted_time": "2023-05-11 12:46:44",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683781360,
+      "formatted_time": "2023-05-11 13:02:40",
+      "type": "文本消息",
+      "str_content": "我下午广播台有事[流泪][流泪][流泪]",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1683790393,
+      "formatted_time": "2023-05-11 15:33:13",
+      "type": "文本消息",
+      "str_content": "好滴",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683790402,
+      "formatted_time": "2023-05-11 15:33:22",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1683790419,
+      "formatted_time": "2023-05-11 15:33:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683948202,
+      "formatted_time": "2023-05-13 11:23:22",
+      "type": "文本消息",
+      "str_content": "别去周麻婆",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683948202,
+      "formatted_time": "2023-05-13 11:23:22",
+      "type": "文本消息",
+      "str_content": "大家注意防护 戴口罩😷  别中招了",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683948202,
+      "formatted_time": "2023-05-13 11:23:22",
+      "type": "文本消息",
+      "str_content": "[流泪]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683948202,
+      "formatted_time": "2023-05-13 11:23:22",
+      "type": "文本消息",
+      "str_content": "尽量一个人吃饭",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683964010,
+      "formatted_time": "2023-05-13 15:46:50",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1683985140,
+      "formatted_time": "2023-05-13 21:39:00",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683985164,
+      "formatted_time": "2023-05-13 21:39:24",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1683985224,
+      "formatted_time": "2023-05-13 21:40:24",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1683985234,
+      "formatted_time": "2023-05-13 21:40:34",
+      "type": "文本消息",
+      "str_content": "@amony @amony 麻烦两位uu分工写一下 可以吗",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1683985238,
+      "formatted_time": "2023-05-13 21:40:38",
+      "type": "文本消息",
+      "str_content": "辛苦了![流泪][流泪]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684027428,
+      "formatted_time": "2023-05-14 09:23:48",
+      "type": "文本消息",
+      "str_content": "收到",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1684028536,
+      "formatted_time": "2023-05-14 09:42:16",
+      "type": "引用消息",
+      "str_content": "这里艾特错了 不好意思 昨天边走路边发的没注意[捂脸][捂脸]@Billy O' Tea @amony",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684028853,
+      "formatted_time": "2023-05-14 09:47:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1684028885,
+      "formatted_time": "2023-05-14 09:48:05",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1684028895,
+      "formatted_time": "2023-05-14 09:48:15",
+      "type": "文本消息",
+      "str_content": "@盒小鱼 渝凡学姐可以也帮忙一起写一下嘛  因为时间比较紧 [大哭][大哭][大哭]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684065331,
+      "formatted_time": "2023-05-14 19:55:31",
+      "type": "文件消息",
+      "str_content": "隐私.docx",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684065350,
+      "formatted_time": "2023-05-14 19:55:50",
+      "type": "文本消息",
+      "str_content": "就用这个吧，该几个字就行了",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684065356,
+      "formatted_time": "2023-05-14 19:55:56",
+      "type": "文本消息",
+      "str_content": "改",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684065423,
+      "formatted_time": "2023-05-14 19:57:03",
+      "type": "图文消息",
+      "str_content": "如法网app隐私权限说明",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684065430,
+      "formatted_time": "2023-05-14 19:57:10",
+      "type": "文本消息",
+      "str_content": "如法网app隐私权限说明\n生效日期：2021年1月20日更新日期：2021年1月20日",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684065441,
+      "formatted_time": "2023-05-14 19:57:21",
+      "type": "文本消息",
+      "str_content": "还有我们APP现在是不是没有名字",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684066205,
+      "formatted_time": "2023-05-14 20:10:05",
+      "type": "引用消息",
+      "str_content": "好嘞",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684066206,
+      "formatted_time": "2023-05-14 20:10:06",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684066214,
+      "formatted_time": "2023-05-14 20:10:14",
+      "type": "引用消息",
+      "str_content": "是的呢",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684066216,
+      "formatted_time": "2023-05-14 20:10:16",
+      "type": "文本消息",
+      "str_content": "[流泪]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684066240,
+      "formatted_time": "2023-05-14 20:10:40",
+      "type": "文本消息",
+      "str_content": "好像就是叫 量刑有爱( AI)？",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684067063,
+      "formatted_time": "2023-05-14 20:24:23",
+      "type": "引用消息",
+      "str_content": "学姐 这个是修改之后的吗 我们APP名字就叫量刑有爱( AI)",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684067106,
+      "formatted_time": "2023-05-14 20:25:06",
+      "type": "文本消息",
+      "str_content": "还没有改[皱眉]",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684067123,
+      "formatted_time": "2023-05-14 20:25:23",
+      "type": "文本消息",
+      "str_content": "哦哦 麻烦改一下发到群里吧",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684067137,
+      "formatted_time": "2023-05-14 20:25:37",
+      "type": "文本消息",
+      "str_content": "我还在赶ddl",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684067144,
+      "formatted_time": "2023-05-14 20:25:44",
+      "type": "文本消息",
+      "str_content": "马上有一个pre",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684067156,
+      "formatted_time": "2023-05-14 20:25:56",
+      "type": "文本消息",
+      "str_content": "哦哦OK 不急",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684067168,
+      "formatted_time": "2023-05-14 20:26:08",
+      "type": "文本消息",
+      "str_content": "不是说分工吗 其他uu改几个字就行了吧",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684067195,
+      "formatted_time": "2023-05-14 20:26:35",
+      "type": "文本消息",
+      "str_content": "其他几位今晚也很忙",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684067201,
+      "formatted_time": "2023-05-14 20:26:41",
+      "type": "文本消息",
+      "str_content": "那我来改吧",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684067234,
+      "formatted_time": "2023-05-14 20:27:14",
+      "type": "文本消息",
+      "str_content": "电话和邮箱都写真实的吗",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684067238,
+      "formatted_time": "2023-05-14 20:27:18",
+      "type": "文本消息",
+      "str_content": "就写我的？",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684067239,
+      "formatted_time": "2023-05-14 20:27:19",
+      "type": "文本消息",
+      "str_content": "我来写关于我们",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1684067256,
+      "formatted_time": "2023-05-14 20:27:36",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684067259,
+      "formatted_time": "2023-05-14 20:27:39",
+      "type": "文本消息",
+      "str_content": "辛苦了妹妹",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684067279,
+      "formatted_time": "2023-05-14 20:27:59",
+      "type": "引用消息",
+      "str_content": "我来把这个改了",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684067290,
+      "formatted_time": "2023-05-14 20:28:10",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1684067298,
+      "formatted_time": "2023-05-14 20:28:18",
+      "type": "引用消息",
+      "str_content": "都写真实的吗",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684070653,
+      "formatted_time": "2023-05-14 21:24:13",
+      "type": "文本消息",
+      "str_content": "我觉得是",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684070667,
+      "formatted_time": "2023-05-14 21:24:27",
+      "type": "文本消息",
+      "str_content": "写真实的",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684070679,
+      "formatted_time": "2023-05-14 21:24:39",
+      "type": "文本消息",
+      "str_content": "好呐",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684070689,
+      "formatted_time": "2023-05-14 21:24:49",
+      "type": "文本消息",
+      "str_content": "[嘿哈][嘿哈]",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684070771,
+      "formatted_time": "2023-05-14 21:26:11",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684141447,
+      "formatted_time": "2023-05-15 17:04:07",
+      "type": "文本消息",
+      "str_content": "小程序和团队的名字我们自己商量一下吧 大家有好的想法吗",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684141448,
+      "formatted_time": "2023-05-15 17:04:08",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684141474,
+      "formatted_time": "2023-05-15 17:04:34",
+      "type": "文本消息",
+      "str_content": "小程序就叫量刑有爱（AI）？",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684141485,
+      "formatted_time": "2023-05-15 17:04:45",
+      "type": "文本消息",
+      "str_content": "是不是有点怪",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684143946,
+      "formatted_time": "2023-05-15 17:45:46",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "商业计划书PPT",
+      "sender_wxid": "45100701146@chatroom"
+    },
+    {
+      "create_time": 1684144003,
+      "formatted_time": "2023-05-15 17:46:43",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684144021,
+      "formatted_time": "2023-05-15 17:47:01",
+      "type": "引用消息",
+      "str_content": "小程序就叫这个吧",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684144027,
+      "formatted_time": "2023-05-15 17:47:07",
+      "type": "文本消息",
+      "str_content": "想不出别的",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684144035,
+      "formatted_time": "2023-05-15 17:47:15",
+      "type": "文本消息",
+      "str_content": "[捂脸]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684206935,
+      "formatted_time": "2023-05-16 11:15:35",
+      "type": "文本消息",
+      "str_content": "关于我们写好了咩",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1684206974,
+      "formatted_time": "2023-05-16 11:16:14",
+      "type": "文本消息",
+      "str_content": "那个同学说今天之内写好可以吗",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684207123,
+      "formatted_time": "2023-05-16 11:18:43",
+      "type": "文本消息",
+      "str_content": "那我先随便填",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1684207143,
+      "formatted_time": "2023-05-16 11:19:03",
+      "type": "文本消息",
+      "str_content": "好的👌",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684207160,
+      "formatted_time": "2023-05-16 11:19:20",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684291411,
+      "formatted_time": "2023-05-17 10:43:31",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684291559,
+      "formatted_time": "2023-05-17 10:45:59",
+      "type": "文本消息",
+      "str_content": "大家看看 哪里还要修改或者补充的",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684291588,
+      "formatted_time": "2023-05-17 10:46:28",
+      "type": "文本消息",
+      "str_content": "今天之内确定了我发给前端",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684291597,
+      "formatted_time": "2023-05-17 10:46:37",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684291601,
+      "formatted_time": "2023-05-17 10:46:41",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684291672,
+      "formatted_time": "2023-05-17 10:47:52",
+      "type": "文本消息",
+      "str_content": "我记得那天线上开会渝凡学姐说可以把哪些写到关于我们里面 我不记得了@盒小鱼",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684291672,
+      "formatted_time": "2023-05-17 10:47:52",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684292459,
+      "formatted_time": "2023-05-17 11:00:59",
+      "type": "引用消息",
+      "str_content": "加视频！",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684292463,
+      "formatted_time": "2023-05-17 11:01:03",
+      "type": "文本消息",
+      "str_content": "[耶][耶][耶]",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684292470,
+      "formatted_time": "2023-05-17 11:01:10",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684292476,
+      "formatted_time": "2023-05-17 11:01:16",
+      "type": "文本消息",
+      "str_content": "好嘞^O^",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684292494,
+      "formatted_time": "2023-05-17 11:01:34",
+      "type": "文本消息",
+      "str_content": "从视频开头加到哪里",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684292496,
+      "formatted_time": "2023-05-17 11:01:36",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684292516,
+      "formatted_time": "2023-05-17 11:01:56",
+      "type": "文本消息",
+      "str_content": "就是把团队介绍去掉以外的",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684292519,
+      "formatted_time": "2023-05-17 11:01:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684292522,
+      "formatted_time": "2023-05-17 11:02:02",
+      "type": "文本消息",
+      "str_content": "噢噢好的",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684292538,
+      "formatted_time": "2023-05-17 11:02:18",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1684292564,
+      "formatted_time": "2023-05-17 11:02:44",
+      "type": "文本消息",
+      "str_content": "还有要不要强调我们与刑事法律机构怎么怎么样",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684292587,
+      "formatted_time": "2023-05-17 11:03:07",
+      "type": "文本消息",
+      "str_content": "公益性balabala",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684335494,
+      "formatted_time": "2023-05-17 22:58:14",
+      "type": "引用消息",
+      "str_content": "@姜茶 思静 如果你方便的话可不可以去掉一下 如果不方便就渝凡剪辑一下可以吗 主要那个音乐是连贯的不太好剪[捂脸]@姜茶 @盒小鱼",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684335852,
+      "formatted_time": "2023-05-17 23:04:12",
+      "type": "文本消息",
+      "str_content": "为啥视频发不过来[破涕为笑]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684335855,
+      "formatted_time": "2023-05-17 23:04:15",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684335904,
+      "formatted_time": "2023-05-17 23:05:04",
+      "type": "文本消息",
+      "str_content": "太大？",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1684335934,
+      "formatted_time": "2023-05-17 23:05:34",
+      "type": "文本消息",
+      "str_content": "可能是吧、",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684335956,
+      "formatted_time": "2023-05-17 23:05:56",
+      "type": "文本消息",
+      "str_content": "压缩发试试",
+      "is_send": 0,
+      "sender_name": "李廷方",
+      "sender_wxid": "wxid_ik6i8c2ypnvs22"
+    },
+    {
+      "create_time": 1684335990,
+      "formatted_time": "2023-05-17 23:06:30",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1684336013,
+      "formatted_time": "2023-05-17 23:06:53",
+      "type": "文本消息",
+      "str_content": "好滴",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684336040,
+      "formatted_time": "2023-05-17 23:07:20",
+      "type": "文件消息",
+      "str_content": "项目视频.zip",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684336047,
+      "formatted_time": "2023-05-17 23:07:27",
+      "type": "文本消息",
+      "str_content": "可以啦！",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684336094,
+      "formatted_time": "2023-05-17 23:08:14",
+      "type": "文本消息",
+      "str_content": "怎么用电脑打开看字有点模糊",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684336103,
+      "formatted_time": "2023-05-17 23:08:23",
+      "type": "文本消息",
+      "str_content": "不知道手机看是不是这样",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684745060,
+      "formatted_time": "2023-05-22 16:44:20",
+      "type": "文本消息",
+      "str_content": "现在还需要确定一下 项目名称[大哭]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684745065,
+      "formatted_time": "2023-05-22 16:44:25",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684745085,
+      "formatted_time": "2023-05-22 16:44:45",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684745173,
+      "formatted_time": "2023-05-22 16:46:13",
+      "type": "文本消息",
+      "str_content": "还有项目概述",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684745206,
+      "formatted_time": "2023-05-22 16:46:46",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684766405,
+      "formatted_time": "2023-05-22 22:40:05",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684766408,
+      "formatted_time": "2023-05-22 22:40:08",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684901959,
+      "formatted_time": "2023-05-24 12:19:19",
+      "type": "文本消息",
+      "str_content": "量刑有“爱”(AI)——专注于维护刑事案件当事人的合法权益",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684901984,
+      "formatted_time": "2023-05-24 12:19:44",
+      "type": "文本消息",
+      "str_content": "抛砖引玉~ 大家一起讨论修改一下",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684901986,
+      "formatted_time": "2023-05-24 12:19:46",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684901993,
+      "formatted_time": "2023-05-24 12:19:53",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684902022,
+      "formatted_time": "2023-05-24 12:20:22",
+      "type": "文本消息",
+      "str_content": "周五之前确定题目",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684937866,
+      "formatted_time": "2023-05-24 22:17:46",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684937874,
+      "formatted_time": "2023-05-24 22:17:54",
+      "type": "文本消息",
+      "str_content": "通知来啦!!",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684937888,
+      "formatted_time": "2023-05-24 22:18:08",
+      "type": "文本消息",
+      "str_content": "报名截止大约6.10",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1684937893,
+      "formatted_time": "2023-05-24 22:18:13",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685087356,
+      "formatted_time": "2023-05-26 15:49:16",
+      "type": "文本消息",
+      "str_content": "华中科技大学关于举办第九届“广东工研院杯”创新创业大赛暨中国国际“互联网+”大学生创新创业大赛校级初赛的通知-启明学院  http://qiming.hust.edu.cn/info/1422/3494.htm",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685087362,
+      "formatted_time": "2023-05-26 15:49:22",
+      "type": "文本消息",
+      "str_content": "确定啦!是6.10",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685087370,
+      "formatted_time": "2023-05-26 15:49:30",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685087374,
+      "formatted_time": "2023-05-26 15:49:34",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685087390,
+      "formatted_time": "2023-05-26 15:49:50",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1685087402,
+      "formatted_time": "2023-05-26 15:50:02",
+      "type": "文本消息",
+      "str_content": "参赛团队于6月10日8:00前提交参赛PPT及其他参赛材料（其中参赛PPT为必须提交的材料，视频等其他辅助材料为可选项），请将所有材料压缩为rar文件上传。",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685087410,
+      "formatted_time": "2023-05-26 15:50:10",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685092155,
+      "formatted_time": "2023-05-26 17:09:15",
+      "type": "文本消息",
+      "str_content": "量刑有“爱”(AI)——专注于维护刑事诉讼当事人的合法权益",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685092159,
+      "formatted_time": "2023-05-26 17:09:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685092181,
+      "formatted_time": "2023-05-26 17:09:41",
+      "type": "文本消息",
+      "str_content": "大家没有别的想法的话 就用这个题目啦",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685092190,
+      "formatted_time": "2023-05-26 17:09:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685092197,
+      "formatted_time": "2023-05-26 17:09:57",
+      "type": "文本消息",
+      "str_content": "这个题目得到了老师的认可嘿嘿",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685092239,
+      "formatted_time": "2023-05-26 17:10:39",
+      "type": "文本消息",
+      "str_content": "现在我们的思路要变一下 不能作为二审的证据来使用 因为证据必须能证明案件事实 我们这个是证明裁判思路",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685092269,
+      "formatted_time": "2023-05-26 17:11:09",
+      "type": "文本消息",
+      "str_content": "我们作为二审和再审上诉的时候的理由来使用 提高上诉和申诉的成功率",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685092334,
+      "formatted_time": "2023-05-26 17:12:14",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685092385,
+      "formatted_time": "2023-05-26 17:13:05",
+      "type": "文本消息",
+      "str_content": "看大家还有不清楚的地方嘛",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685092459,
+      "formatted_time": "2023-05-26 17:14:19",
+      "type": "文本消息",
+      "str_content": "@Billy O' Tea uu 不好意思 所以我们的项目简述要改一下哦 可以周日再发给我",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685092462,
+      "formatted_time": "2023-05-26 17:14:22",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685092467,
+      "formatted_time": "2023-05-26 17:14:27",
+      "type": "文本消息",
+      "str_content": "辛苦你了",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685352377,
+      "formatted_time": "2023-05-29 17:26:17",
+      "type": "文本消息",
+      "str_content": "除了商业计划书PPT之外，商业计划书word版本虽然不是必选项，但是也可以提交。如果家人们有多的时间，最好对着PPT把word版本稍微完善一下，我也会一起修改。大家加油@amony @Billy O' Tea \n6.10之前都可以修改 不用着急",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1685363580,
+      "formatted_time": "2023-05-29 20:33:00",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686241006,
+      "formatted_time": "2023-06-09 00:16:46",
+      "type": "文本消息",
+      "str_content": "相见恨晚。。。知网搜弱势群体会有很多我们能用到的论文",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686241028,
+      "formatted_time": "2023-06-09 00:17:08",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686241036,
+      "formatted_time": "2023-06-09 00:17:16",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1686241091,
+      "formatted_time": "2023-06-09 00:18:11",
+      "type": "文本消息",
+      "str_content": "再勾选这个",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686241116,
+      "formatted_time": "2023-06-09 00:18:36",
+      "type": "文本消息",
+      "str_content": "我们题目要改改 现在的不够好",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686246147,
+      "formatted_time": "2023-06-09 01:42:27",
+      "type": "文本消息",
+      "str_content": "量刑有“爱”（AI）——用刑事法律援助为农村弱势群体平反冤假错案撑开“保护伞”",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686246178,
+      "formatted_time": "2023-06-09 01:42:58",
+      "type": "文本消息",
+      "str_content": "辛苦大家再商量改改 [流泪]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686246312,
+      "formatted_time": "2023-06-09 01:45:12",
+      "type": "文本消息",
+      "str_content": "题目太重要了   为了更贴合红旅赛道要求   现在受众是农村弱势群体 小程序主要功能是纠错冤假错案  并且突出法律援助体现公益性",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686246371,
+      "formatted_time": "2023-06-09 01:46:11",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1686246393,
+      "formatted_time": "2023-06-09 01:46:33",
+      "type": "文本消息",
+      "str_content": "量刑有“爱”（AI）——用法律援助为农村弱势群体平反冤假错案撑开刑事诉讼“保护伞”",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686246829,
+      "formatted_time": "2023-06-09 01:53:49",
+      "type": "文本消息",
+      "str_content": "爱好像不需要打引号？",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686248575,
+      "formatted_time": "2023-06-09 02:22:55",
+      "type": "文本消息",
+      "str_content": "啊。。。。。。",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686248584,
+      "formatted_time": "2023-06-09 02:23:04",
+      "type": "文本消息",
+      "str_content": "尼玛凌晨2点多在这里查弱势群体冤假错案好恐怖😱啊",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686248591,
+      "formatted_time": "2023-06-09 02:23:11",
+      "type": "文本消息",
+      "str_content": "我感觉有人站在我背后要杀我",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686248598,
+      "formatted_time": "2023-06-09 02:23:18",
+      "type": "文本消息",
+      "str_content": "啊啊啊啊我不行了 再看我要做噩梦了",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686248653,
+      "formatted_time": "2023-06-09 02:24:13",
+      "type": "文本消息",
+      "str_content": "越想思路越多要改的地方越多   想查知网论文又没校园网了  vpn也记不得密码了。。。。明天早上再发给你哈😭😭😭😭@Billy O' Tea",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686276027,
+      "formatted_time": "2023-06-09 10:00:27",
+      "type": "文本消息",
+      "str_content": "emm那这个题目不会太长了嘛",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686276037,
+      "formatted_time": "2023-06-09 10:00:37",
+      "type": "文本消息",
+      "str_content": "内容上呢也是变成农村相关的吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686276121,
+      "formatted_time": "2023-06-09 10:02:01",
+      "type": "引用消息",
+      "str_content": "可以看看我原来发的获奖的项目的题目",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686276171,
+      "formatted_time": "2023-06-09 10:02:51",
+      "type": "引用消息",
+      "str_content": "是滴 必须强调农村 弱势群体 不然和红旅关系不大 可能直接被pass掉",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686276216,
+      "formatted_time": "2023-06-09 10:03:36",
+      "type": "文本消息",
+      "str_content": "量刑有“爱”（AI）——用法律援助帮扶农村弱势群体平反刑事冤假错案",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686276223,
+      "formatted_time": "2023-06-09 10:03:43",
+      "type": "文本消息",
+      "str_content": "保护伞不好 是形容黑恶势力",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686276256,
+      "formatted_time": "2023-06-09 10:04:16",
+      "type": "引用消息",
+      "str_content": "这个怎么样",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686276402,
+      "formatted_time": "2023-06-09 10:06:42",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686276407,
+      "formatted_time": "2023-06-09 10:06:47",
+      "type": "文本消息",
+      "str_content": "也有比较长的",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686276529,
+      "formatted_time": "2023-06-09 10:08:49",
+      "type": "文本消息",
+      "str_content": "平反不太好",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686276541,
+      "formatted_time": "2023-06-09 10:09:01",
+      "type": "文本消息",
+      "str_content": "我想一下",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686276556,
+      "formatted_time": "2023-06-09 10:09:16",
+      "type": "文本消息",
+      "str_content": "辛苦了[流泪]我也问问指导老师",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686276637,
+      "formatted_time": "2023-06-09 10:10:37",
+      "type": "文本消息",
+      "str_content": "量刑有“爱”（AI）——数据技术赋能对农村弱势群体的法律援助",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686276644,
+      "formatted_time": "2023-06-09 10:10:44",
+      "type": "文本消息",
+      "str_content": "这里一定要有刑事吗",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686276650,
+      "formatted_time": "2023-06-09 10:10:50",
+      "type": "文本消息",
+      "str_content": "是滴",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686276680,
+      "formatted_time": "2023-06-09 10:11:20",
+      "type": "文本消息",
+      "str_content": "刑事法律援助？",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686276707,
+      "formatted_time": "2023-06-09 10:11:47",
+      "type": "文本消息",
+      "str_content": "大数据技术怎么样",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686276809,
+      "formatted_time": "2023-06-09 10:13:29",
+      "type": "文本消息",
+      "str_content": "嗯对就是大数据",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686276819,
+      "formatted_time": "2023-06-09 10:13:39",
+      "type": "文本消息",
+      "str_content": "改成这种形式？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686276924,
+      "formatted_time": "2023-06-09 10:15:24",
+      "type": "文本消息",
+      "str_content": "量刑有“爱”（AI）——数据技术赋能对农村弱势群体的刑事法律援助",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686276937,
+      "formatted_time": "2023-06-09 10:15:37",
+      "type": "文本消息",
+      "str_content": "我再问问指导老师",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686279289,
+      "formatted_time": "2023-06-09 10:54:49",
+      "type": "文本消息",
+      "str_content": "量刑有爱（AI）——大数据技术赋能对农村弱势群体的刑事法律援助",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686279300,
+      "formatted_time": "2023-06-09 10:55:00",
+      "type": "文本消息",
+      "str_content": "我们小程序的功能主要是纠错冤假错案",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686279313,
+      "formatted_time": "2023-06-09 10:55:13",
+      "type": "文本消息",
+      "str_content": "要不要体现出来[流泪]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686279324,
+      "formatted_time": "2023-06-09 10:55:24",
+      "type": "文本消息",
+      "str_content": "@所有人 大家一起提提意见 时间紧急",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686279359,
+      "formatted_time": "2023-06-09 10:55:59",
+      "type": "文本消息",
+      "str_content": "爱不需要引号吧？不然不是真正的爱？",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686279398,
+      "formatted_time": "2023-06-09 10:56:38",
+      "type": "文本消息",
+      "str_content": "我觉得不加好",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1686279398,
+      "formatted_time": "2023-06-09 10:56:38",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686279419,
+      "formatted_time": "2023-06-09 10:56:59",
+      "type": "文本消息",
+      "str_content": "好哒",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686279468,
+      "formatted_time": "2023-06-09 10:57:48",
+      "type": "引用消息",
+      "str_content": "我们只是在平反冤假错案申诉的时候作为申诉理由 法律援助是不是太大了",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686280388,
+      "formatted_time": "2023-06-09 11:13:08",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686280399,
+      "formatted_time": "2023-06-09 11:13:19",
+      "type": "文本消息",
+      "str_content": "量刑有爱（AI）——大数据技术赋能对农村弱势群体的刑事法律援助",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686280405,
+      "formatted_time": "2023-06-09 11:13:25",
+      "type": "文本消息",
+      "str_content": "那我们确定了 就用这个哈",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686282677,
+      "formatted_time": "2023-06-09 11:51:17",
+      "type": "文本消息",
+      "str_content": "明天早上8点报名截止 我们必须今天之内报名提交哈",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686282681,
+      "formatted_time": "2023-06-09 11:51:21",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686284491,
+      "formatted_time": "2023-06-09 12:21:31",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1686284580,
+      "formatted_time": "2023-06-09 12:23:00",
+      "type": "文件消息",
+      "str_content": "用户使用手册(2).docx",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686284795,
+      "formatted_time": "2023-06-09 12:26:35",
+      "type": "文本消息",
+      "str_content": "项目概述@amony 麻烦妹妹再对照着这个文档修改一下",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686284994,
+      "formatted_time": "2023-06-09 12:29:54",
+      "type": "文本消息",
+      "str_content": "另外我们思路有重大修改的地方商业计划书word版本也要跟着改一下 @盒小鱼 麻烦渝凡学姐先改一下商业计划书word版本可以吗 改好发到群里   我们再继续修改 你先修改一些重大变动   徐昂和王逸还要修改商业计划书PPT 我今天下午和晚上满课 [流泪]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686285205,
+      "formatted_time": "2023-06-09 12:33:25",
+      "type": "文本消息",
+      "str_content": "有用的资料私发到各位QQ了",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686285218,
+      "formatted_time": "2023-06-09 12:33:38",
+      "type": "文本消息",
+      "str_content": "大家加油",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686285220,
+      "formatted_time": "2023-06-09 12:33:40",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686285633,
+      "formatted_time": "2023-06-09 12:40:33",
+      "type": "文本消息",
+      "str_content": "最新版的商业计划书是这个吗",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1686285742,
+      "formatted_time": "2023-06-09 12:42:22",
+      "type": "文件消息",
+      "str_content": "互联网+红旅赛道.docx",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1686285885,
+      "formatted_time": "2023-06-09 12:44:45",
+      "type": "文本消息",
+      "str_content": "我看看",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686285923,
+      "formatted_time": "2023-06-09 12:45:23",
+      "type": "文件消息",
+      "str_content": "互联网+红旅赛道(1).docx",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686285929,
+      "formatted_time": "2023-06-09 12:45:29",
+      "type": "文本消息",
+      "str_content": "这个",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686285942,
+      "formatted_time": "2023-06-09 12:45:42",
+      "type": "文本消息",
+      "str_content": "还需要封面",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686285968,
+      "formatted_time": "2023-06-09 12:46:08",
+      "type": "引用消息",
+      "str_content": "和这个封面保持一致",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686288550,
+      "formatted_time": "2023-06-09 13:29:10",
+      "type": "引用消息",
+      "str_content": "PPT法学部分 就用这个里面加上QQ发给你们的材料哈@amony @Billy O' Tea 注意一下下 一定要强调 农村 弱势群体 法律援助 公益性 还有持续盈利性 ~",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686288560,
+      "formatted_time": "2023-06-09 13:29:20",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686299326,
+      "formatted_time": "2023-06-09 16:28:46",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1686299345,
+      "formatted_time": "2023-06-09 16:29:05",
+      "type": "文本消息",
+      "str_content": "做PPT可以参考原来挑战杯的PPT",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686300316,
+      "formatted_time": "2023-06-09 16:45:16",
+      "type": "文件消息",
+      "str_content": "量刑有爱(1).pptx",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686304328,
+      "formatted_time": "2023-06-09 17:52:08",
+      "type": "文本消息",
+      "str_content": "今晚九点之前把PPT交给我 可以吗@amony @Billy O' Tea",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686304365,
+      "formatted_time": "2023-06-09 17:52:45",
+      "type": "文本消息",
+      "str_content": "我快写好了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686304389,
+      "formatted_time": "2023-06-09 17:53:09",
+      "type": "引用消息",
+      "str_content": "很多政策背景 获得奖项那些都参考原来挑战杯PPT的 做的更美观♡",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686304395,
+      "formatted_time": "2023-06-09 17:53:15",
+      "type": "文本消息",
+      "str_content": "好嘞 辛苦了",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686304410,
+      "formatted_time": "2023-06-09 17:53:30",
+      "type": "文本消息",
+      "str_content": "成员介绍现在有弄好吗",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686304966,
+      "formatted_time": "2023-06-09 18:02:46",
+      "type": "文本消息",
+      "str_content": "还在写",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686304972,
+      "formatted_time": "2023-06-09 18:02:52",
+      "type": "文本消息",
+      "str_content": "晚上给你[亲亲]",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686304988,
+      "formatted_time": "2023-06-09 18:03:08",
+      "type": "文本消息",
+      "str_content": "最好九点之前哈",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686304991,
+      "formatted_time": "2023-06-09 18:03:11",
+      "type": "文本消息",
+      "str_content": "[亲亲]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686305002,
+      "formatted_time": "2023-06-09 18:03:22",
+      "type": "文本消息",
+      "str_content": "也可以九点半 这个应该快",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686305013,
+      "formatted_time": "2023-06-09 18:03:33",
+      "type": "文本消息",
+      "str_content": "主要PPT还要润色",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686305066,
+      "formatted_time": "2023-06-09 18:04:26",
+      "type": "文本消息",
+      "str_content": "okok",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686306740,
+      "formatted_time": "2023-06-09 18:32:20",
+      "type": "文件消息",
+      "str_content": "23-6-9 量刑有AI 互联网+ 商业计划书 xa revised.pptx",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686306747,
+      "formatted_time": "2023-06-09 18:32:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686306753,
+      "formatted_time": "2023-06-09 18:32:33",
+      "type": "文本消息",
+      "str_content": "太辛苦了uu",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686306760,
+      "formatted_time": "2023-06-09 18:32:40",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686306761,
+      "formatted_time": "2023-06-09 18:32:41",
+      "type": "文本消息",
+      "str_content": "我改了蛮多地方的，还要辛苦你们整合下拉",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686306774,
+      "formatted_time": "2023-06-09 18:32:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686306839,
+      "formatted_time": "2023-06-09 18:33:59",
+      "type": "引用消息",
+      "str_content": "这个还没弄是吧",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686306880,
+      "formatted_time": "2023-06-09 18:34:40",
+      "type": "文本消息",
+      "str_content": "这个应该是@amony 搞",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686306895,
+      "formatted_time": "2023-06-09 18:34:55",
+      "type": "文本消息",
+      "str_content": "噢噢",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686306908,
+      "formatted_time": "2023-06-09 18:35:08",
+      "type": "文本消息",
+      "str_content": "@姜茶 她还在写项目简述",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686306927,
+      "formatted_time": "2023-06-09 18:35:27",
+      "type": "文本消息",
+      "str_content": "思静弄一下成员介绍可以吗 时间紧急",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686306936,
+      "formatted_time": "2023-06-09 18:35:36",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686307035,
+      "formatted_time": "2023-06-09 18:37:15",
+      "type": "文本消息",
+      "str_content": "哎那个软著。。。",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686307037,
+      "formatted_time": "2023-06-09 18:37:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686307052,
+      "formatted_time": "2023-06-09 18:37:32",
+      "type": "文本消息",
+      "str_content": "直接截个图扔上去得了我觉得",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686307055,
+      "formatted_time": "2023-06-09 18:37:35",
+      "type": "文本消息",
+      "str_content": "表示正在申请",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686307068,
+      "formatted_time": "2023-06-09 18:37:48",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686307083,
+      "formatted_time": "2023-06-09 18:38:03",
+      "type": "文本消息",
+      "str_content": "是的 再怎么有个图吧",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686307299,
+      "formatted_time": "2023-06-09 18:41:39",
+      "type": "文本消息",
+      "str_content": "提几个建议\n弱势群体前面要加上农村 \n政策背景那张用挑战杯的有习近平那张",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686307317,
+      "formatted_time": "2023-06-09 18:41:57",
+      "type": "文本消息",
+      "str_content": "第一页项目名称不对 要改",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686307354,
+      "formatted_time": "2023-06-09 18:42:34",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686307362,
+      "formatted_time": "2023-06-09 18:42:42",
+      "type": "文本消息",
+      "str_content": "这张换成习近平那个",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686307446,
+      "formatted_time": "2023-06-09 18:44:06",
+      "type": "文本消息",
+      "str_content": "上诉改成申诉",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686307457,
+      "formatted_time": "2023-06-09 18:44:17",
+      "type": "文本消息",
+      "str_content": "还有冤假错案没体现",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686307535,
+      "formatted_time": "2023-06-09 18:45:35",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686307623,
+      "formatted_time": "2023-06-09 18:47:03",
+      "type": "引用消息",
+      "str_content": "前两个主体改一下 农村弱势群体 人民检察院  参照这个",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686307655,
+      "formatted_time": "2023-06-09 18:47:35",
+      "type": "文本消息",
+      "str_content": "我晚上满课[流泪]只能提建议 辛苦你们先改一下",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686310937,
+      "formatted_time": "2023-06-09 19:42:17",
+      "type": "文件消息",
+      "str_content": "23-6-9 量刑有AI 互联网+ 商业计划书 xa revised.pptx",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686311439,
+      "formatted_time": "2023-06-09 19:50:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686315682,
+      "formatted_time": "2023-06-09 21:01:22",
+      "type": "文件消息",
+      "str_content": "副本互联网+红旅赛道(1).docx",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1686315691,
+      "formatted_time": "2023-06-09 21:01:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686315695,
+      "formatted_time": "2023-06-09 21:01:35",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686315732,
+      "formatted_time": "2023-06-09 21:02:12",
+      "type": "文本消息",
+      "str_content": "学姐 封面呢",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686315772,
+      "formatted_time": "2023-06-09 21:02:52",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686315781,
+      "formatted_time": "2023-06-09 21:03:01",
+      "type": "文本消息",
+      "str_content": "现在一共12人",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686315781,
+      "formatted_time": "2023-06-09 21:03:01",
+      "type": "文本消息",
+      "str_content": "吕艺昊 黄莉茜退赛",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686315867,
+      "formatted_time": "2023-06-09 21:04:27",
+      "type": "文本消息",
+      "str_content": "麻烦这些也加上去 辛苦学姐",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686315963,
+      "formatted_time": "2023-06-09 21:06:03",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1686315968,
+      "formatted_time": "2023-06-09 21:06:08",
+      "type": "文本消息",
+      "str_content": "这些都要吗",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1686316031,
+      "formatted_time": "2023-06-09 21:07:11",
+      "type": "文本消息",
+      "str_content": "稍等我在上课",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686316651,
+      "formatted_time": "2023-06-09 21:17:31",
+      "type": "文件消息",
+      "str_content": "副本互联网+红旅赛道(1).docx",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1686316949,
+      "formatted_time": "2023-06-09 21:22:29",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686316950,
+      "formatted_time": "2023-06-09 21:22:30",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686316953,
+      "formatted_time": "2023-06-09 21:22:33",
+      "type": "文件消息",
+      "str_content": "互联网+PPT 6.9(1).pptx",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686316976,
+      "formatted_time": "2023-06-09 21:22:56",
+      "type": "文本消息",
+      "str_content": "我们好像只有11个人",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686317014,
+      "formatted_time": "2023-06-09 21:23:34",
+      "type": "文本消息",
+      "str_content": "我想想】",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686317037,
+      "formatted_time": "2023-06-09 21:23:57",
+      "type": "文本消息",
+      "str_content": "哦还有李廷方",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686318900,
+      "formatted_time": "2023-06-09 21:55:00",
+      "type": "文件消息",
+      "str_content": "互联网+PPT 6.9(2)(1).pptx",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686319134,
+      "formatted_time": "2023-06-09 21:58:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686319157,
+      "formatted_time": "2023-06-09 21:59:17",
+      "type": "引用消息",
+      "str_content": "@盒小鱼 学姐还没改捏",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686319619,
+      "formatted_time": "2023-06-09 22:06:59",
+      "type": "文本消息",
+      "str_content": "之前商业计划书PPT里面那个表格不要了吗",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686319627,
+      "formatted_time": "2023-06-09 22:07:07",
+      "type": "文本消息",
+      "str_content": "@amony @Billy O' Tea",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686319764,
+      "formatted_time": "2023-06-09 22:09:24",
+      "type": "文本消息",
+      "str_content": "哪个表格",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686319786,
+      "formatted_time": "2023-06-09 22:09:46",
+      "type": "文本消息",
+      "str_content": "支出收入什么的那个",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686319872,
+      "formatted_time": "2023-06-09 22:11:12",
+      "type": "文本消息",
+      "str_content": "我感觉那个没啥用[捂脸]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686319883,
+      "formatted_time": "2023-06-09 22:11:23",
+      "type": "文本消息",
+      "str_content": "写上去之后反而显得我们很草台班子",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1686319895,
+      "formatted_time": "2023-06-09 22:11:35",
+      "type": "文本消息",
+      "str_content": "笑死",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686319900,
+      "formatted_time": "2023-06-09 22:11:40",
+      "type": "文本消息",
+      "str_content": "是这样的",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686319903,
+      "formatted_time": "2023-06-09 22:11:43",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686320033,
+      "formatted_time": "2023-06-09 22:13:53",
+      "type": "文本消息",
+      "str_content": "那商业部分现在有吗",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686320040,
+      "formatted_time": "2023-06-09 22:14:00",
+      "type": "文本消息",
+      "str_content": "体现持续盈利性",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686320208,
+      "formatted_time": "2023-06-09 22:16:48",
+      "type": "引用消息",
+      "str_content": "我感觉这个还是没太体现  刑事法律援助机构帮助农村弱势群体   小程序结果作为申诉理由",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686320210,
+      "formatted_time": "2023-06-09 22:16:50",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686320325,
+      "formatted_time": "2023-06-09 22:18:45",
+      "type": "文本消息",
+      "str_content": "还有PPT有没有说和刑事法律援助机构怎么合作",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686320463,
+      "formatted_time": "2023-06-09 22:21:03",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686320515,
+      "formatted_time": "2023-06-09 22:21:55",
+      "type": "文本消息",
+      "str_content": "原来我记得讨论的时候渝凡和徐昂专门说了一种合作模式",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686320522,
+      "formatted_time": "2023-06-09 22:22:02",
+      "type": "文本消息",
+      "str_content": "但是我忘了是什么",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686320551,
+      "formatted_time": "2023-06-09 22:22:31",
+      "type": "文件消息",
+      "str_content": "互联网+PPT 6.9(3)(1).pptx",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686320559,
+      "formatted_time": "2023-06-09 22:22:39",
+      "type": "文本消息",
+      "str_content": "改了社会价值",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686320563,
+      "formatted_time": "2023-06-09 22:22:43",
+      "type": "文本消息",
+      "str_content": "好嘞",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686321517,
+      "formatted_time": "2023-06-09 22:38:37",
+      "type": "文件消息",
+      "str_content": "副本互联网+红旅赛道(1).docx",
+      "is_send": 0,
+      "sender_name": "何渝凡",
+      "sender_wxid": "wxid_ldscodrkllc822"
+    },
+    {
+      "create_time": 1686321750,
+      "formatted_time": "2023-06-09 22:42:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686323310,
+      "formatted_time": "2023-06-09 23:08:30",
+      "type": "文本消息",
+      "str_content": "学姐 麻烦封面再加一点 要突出参加的红旅赛道 公益组",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686323319,
+      "formatted_time": "2023-06-09 23:08:39",
+      "type": "文本消息",
+      "str_content": "@盒小鱼",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686323358,
+      "formatted_time": "2023-06-09 23:09:18",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686323375,
+      "formatted_time": "2023-06-09 23:09:35",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686323388,
+      "formatted_time": "2023-06-09 23:09:48",
+      "type": "引用消息",
+      "str_content": "可以模仿这个排版",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686323462,
+      "formatted_time": "2023-06-09 23:11:02",
+      "type": "文本消息",
+      "str_content": "PPT还要加上指导老师",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686323548,
+      "formatted_time": "2023-06-09 23:12:28",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686323562,
+      "formatted_time": "2023-06-09 23:12:42",
+      "type": "文本消息",
+      "str_content": "我来加吧",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686323653,
+      "formatted_time": "2023-06-09 23:14:13",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686323663,
+      "formatted_time": "2023-06-09 23:14:23",
+      "type": "文本消息",
+      "str_content": "负责什么要写出来",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686323673,
+      "formatted_time": "2023-06-09 23:14:33",
+      "type": "文本消息",
+      "str_content": "像这个一样",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686324220,
+      "formatted_time": "2023-06-09 23:23:40",
+      "type": "文件消息",
+      "str_content": "答辩版ppt.pdf",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686324262,
+      "formatted_time": "2023-06-09 23:24:22",
+      "type": "文本消息",
+      "str_content": "再参考一下这个PPT",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686326855,
+      "formatted_time": "2023-06-10 00:07:35",
+      "type": "文本消息",
+      "str_content": "大家睡了吗",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686326858,
+      "formatted_time": "2023-06-10 00:07:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686327096,
+      "formatted_time": "2023-06-10 00:11:36",
+      "type": "文本消息",
+      "str_content": "我从床上爬下来了",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686327109,
+      "formatted_time": "2023-06-10 00:11:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686327123,
+      "formatted_time": "2023-06-10 00:12:03",
+      "type": "文本消息",
+      "str_content": "看看商业计划书word版本",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686327128,
+      "formatted_time": "2023-06-10 00:12:08",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1686327135,
+      "formatted_time": "2023-06-10 00:12:15",
+      "type": "文本消息",
+      "str_content": "我现在修改PPT",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686327142,
+      "formatted_time": "2023-06-10 00:12:22",
+      "type": "文本消息",
+      "str_content": "学姐没回我",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686327161,
+      "formatted_time": "2023-06-10 00:12:41",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686327174,
+      "formatted_time": "2023-06-10 00:12:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686327204,
+      "formatted_time": "2023-06-10 00:13:24",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686327215,
+      "formatted_time": "2023-06-10 00:13:35",
+      "type": "文本消息",
+      "str_content": "辛苦了",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686327223,
+      "formatted_time": "2023-06-10 00:13:43",
+      "type": "文本消息",
+      "str_content": "[流泪]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686327288,
+      "formatted_time": "2023-06-10 00:14:48",
+      "type": "文本消息",
+      "str_content": "我现在还是右脑勺发烫",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686327297,
+      "formatted_time": "2023-06-10 00:14:57",
+      "type": "文本消息",
+      "str_content": "[流泪][流泪]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686327743,
+      "formatted_time": "2023-06-10 00:22:23",
+      "type": "文本消息",
+      "str_content": "天哪",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686327761,
+      "formatted_time": "2023-06-10 00:22:41",
+      "type": "文本消息",
+      "str_content": "过了明天就好了",
+      "is_send": 0,
+      "sender_name": "王逸",
+      "sender_wxid": "wxid_32ndm2ib3q5622"
+    },
+    {
+      "create_time": 1686327779,
+      "formatted_time": "2023-06-10 00:22:59",
+      "type": "文本消息",
+      "str_content": "嗯嗯",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686327784,
+      "formatted_time": "2023-06-10 00:23:04",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686328082,
+      "formatted_time": "2023-06-10 00:28:02",
+      "type": "文件消息",
+      "str_content": "完善农村弱势群体法律援助制度的对策_罗静.pdf",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686328089,
+      "formatted_time": "2023-06-10 00:28:09",
+      "type": "文本消息",
+      "str_content": "这篇非常重要",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686328098,
+      "formatted_time": "2023-06-10 00:28:18",
+      "type": "文本消息",
+      "str_content": "很多都可以借鉴的",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686328125,
+      "formatted_time": "2023-06-10 00:28:45",
+      "type": "文本消息",
+      "str_content": "我们后面那些还是写的太空了",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686328154,
+      "formatted_time": "2023-06-10 00:29:14",
+      "type": "文本消息",
+      "str_content": "构建和谐社会主义新农村",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686328157,
+      "formatted_time": "2023-06-10 00:29:17",
+      "type": "文本消息",
+      "str_content": "特别重要",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1686328162,
+      "formatted_time": "2023-06-10 00:29:22",
+      "type": "文本消息",
+      "str_content": "一定要强调农村",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1688125020,
+      "formatted_time": "2023-06-30 19:37:00",
+      "type": "文件消息",
+      "str_content": "图片版.pptx",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1688125028,
+      "formatted_time": "2023-06-30 19:37:08",
+      "type": "文本消息",
+      "str_content": "这是PPT最终版",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1688125034,
+      "formatted_time": "2023-06-30 19:37:14",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1688125066,
+      "formatted_time": "2023-06-30 19:37:46",
+      "type": "文本消息",
+      "str_content": "大家一起想一想 想到什么问题都可以提出来@所有人",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    },
+    {
+      "create_time": 1688125084,
+      "formatted_time": "2023-06-30 19:38:04",
+      "type": "文本消息",
+      "str_content": "我一个人想不到太多[流泪]",
+      "is_send": 0,
+      "sender_name": "张久廷",
+      "sender_wxid": "wxid_9t1f09or50au22"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 429
+}

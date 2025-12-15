@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_jx1q85bvxi3o11",
+  "session_name": "曹健",
+  "messages": [
+    {
+      "create_time": 1758210850,
+      "formatted_time": "2025-09-18 23:54:10",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "曹健"
+    },
+    {
+      "create_time": 1758210850,
+      "formatted_time": "2025-09-18 23:54:10",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "曹健"
+    },
+    {
+      "create_time": 1758211625,
+      "formatted_time": "2025-09-19 00:07:05",
+      "type": "文本消息",
+      "str_content": "24金投曹健",
+      "is_send": 0,
+      "sender_name": "曹健"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:25+08:00",
+  "message_count": 3
+}

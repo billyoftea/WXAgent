@@ -1,0 +1,592 @@
+{
+  "session_id": "wxid_9jqk4eirkntq32",
+  "session_name": "欧阳宏禹-贸大-数量与金融科技",
+  "messages": [
+    {
+      "create_time": 1755500735,
+      "formatted_time": "2025-08-18 15:05:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1755500814,
+      "formatted_time": "2025-08-18 15:06:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1755500826,
+      "formatted_time": "2025-08-18 15:07:06",
+      "type": "文本消息",
+      "str_content": "哈喽哈喽",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755500826,
+      "formatted_time": "2025-08-18 15:07:06",
+      "type": "文本消息",
+      "str_content": "欧阳宏禹 25 数金科 21 贸大",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1755875815,
+      "formatted_time": "2025-08-22 23:16:55",
+      "type": "文本消息",
+      "str_content": "求返图",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755875816,
+      "formatted_time": "2025-08-22 23:16:56",
+      "type": "文本消息",
+      "str_content": "[旺柴]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755876095,
+      "formatted_time": "2025-08-22 23:21:35",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1755876096,
+      "formatted_time": "2025-08-22 23:21:36",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1755876097,
+      "formatted_time": "2025-08-22 23:21:37",
+      "type": "文本消息",
+      "str_content": "来了",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1755876097,
+      "formatted_time": "2025-08-22 23:21:37",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1755876099,
+      "formatted_time": "2025-08-22 23:21:39",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1755876105,
+      "formatted_time": "2025-08-22 23:21:45",
+      "type": "文本消息",
+      "str_content": "天塌了",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1755876109,
+      "formatted_time": "2025-08-22 23:21:49",
+      "type": "文本消息",
+      "str_content": "卡没找到",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1755876111,
+      "formatted_time": "2025-08-22 23:21:51",
+      "type": "文本消息",
+      "str_content": "寄了",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1755876200,
+      "formatted_time": "2025-08-22 23:23:20",
+      "type": "文本消息",
+      "str_content": "拍的太牛逼了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755876214,
+      "formatted_time": "2025-08-22 23:23:34",
+      "type": "文本消息",
+      "str_content": "说不定明天早上就通报邮寄回来了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755876224,
+      "formatted_time": "2025-08-22 23:23:44",
+      "type": "文本消息",
+      "str_content": "要是被人捡到肯定会联系的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755876261,
+      "formatted_time": "2025-08-22 23:24:21",
+      "type": "引用消息",
+      "str_content": "那更社死了",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1755876271,
+      "formatted_time": "2025-08-22 23:24:31",
+      "type": "文本消息",
+      "str_content": "25级第一个小丑",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1755876274,
+      "formatted_time": "2025-08-22 23:24:34",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1755876452,
+      "formatted_time": "2025-08-22 23:27:32",
+      "type": "文本消息",
+      "str_content": "掉东西的应该不少",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755876456,
+      "formatted_time": "2025-08-22 23:27:36",
+      "type": "文本消息",
+      "str_content": "[旺柴][旺柴]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1755876457,
+      "formatted_time": "2025-08-22 23:27:37",
+      "type": "文本消息",
+      "str_content": "没事没事",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1756099879,
+      "formatted_time": "2025-08-25 13:31:19",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1756099882,
+      "formatted_time": "2025-08-25 13:31:22",
+      "type": "文本消息",
+      "str_content": "复活了",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1756099888,
+      "formatted_time": "2025-08-25 13:31:28",
+      "type": "文本消息",
+      "str_content": "恭喜恭喜",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1756099889,
+      "formatted_time": "2025-08-25 13:31:29",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1756099891,
+      "formatted_time": "2025-08-25 13:31:31",
+      "type": "文本消息",
+      "str_content": "这效率好高啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1756099905,
+      "formatted_time": "2025-08-25 13:31:45",
+      "type": "文本消息",
+      "str_content": "被人捡到放在2号楼了",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1756099914,
+      "formatted_time": "2025-08-25 13:31:54",
+      "type": "文本消息",
+      "str_content": "666",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1756099916,
+      "formatted_time": "2025-08-25 13:31:56",
+      "type": "文本消息",
+      "str_content": "我也不知道为什么会掉在那边",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1756099919,
+      "formatted_time": "2025-08-25 13:31:59",
+      "type": "文本消息",
+      "str_content": "所以是掉在大学城了啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1756099923,
+      "formatted_time": "2025-08-25 13:32:03",
+      "type": "文本消息",
+      "str_content": "对",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1756099938,
+      "formatted_time": "2025-08-25 13:32:18",
+      "type": "文本消息",
+      "str_content": "但我记忆中在车上还摸到卡了",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1756099939,
+      "formatted_time": "2025-08-25 13:32:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1756099950,
+      "formatted_time": "2025-08-25 13:32:30",
+      "type": "文本消息",
+      "str_content": "绷",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1757771713,
+      "formatted_time": "2025-09-13 21:55:13",
+      "type": "文本消息",
+      "str_content": "还有后半场吗",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1757771738,
+      "formatted_time": "2025-09-13 21:55:38",
+      "type": "文本消息",
+      "str_content": "我先上去洗个澡",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1757771840,
+      "formatted_time": "2025-09-13 21:57:20",
+      "type": "引用消息",
+      "str_content": "我也",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1758072134,
+      "formatted_time": "2025-09-17 09:22:14",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1758079079,
+      "formatted_time": "2025-09-17 11:17:59",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758079083,
+      "formatted_time": "2025-09-17 11:18:03",
+      "type": "文本消息",
+      "str_content": "不用客气[旺柴]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758079095,
+      "formatted_time": "2025-09-17 11:18:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1758079107,
+      "formatted_time": "2025-09-17 11:18:27",
+      "type": "文本消息",
+      "str_content": "下周请你喝",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1758079117,
+      "formatted_time": "2025-09-17 11:18:37",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈有来有回的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758079157,
+      "formatted_time": "2025-09-17 11:19:17",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1758079171,
+      "formatted_time": "2025-09-17 11:19:31",
+      "type": "文本消息",
+      "str_content": "我在上厕所",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758079175,
+      "formatted_time": "2025-09-17 11:19:35",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1758079177,
+      "formatted_time": "2025-09-17 11:19:37",
+      "type": "文本消息",
+      "str_content": "噢噢",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1758079178,
+      "formatted_time": "2025-09-17 11:19:38",
+      "type": "文本消息",
+      "str_content": "喝完酒冲刺有点窜",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758079182,
+      "formatted_time": "2025-09-17 11:19:42",
+      "type": "文本消息",
+      "str_content": "没事我一会去拿就ok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758079198,
+      "formatted_time": "2025-09-17 11:19:58",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1758079215,
+      "formatted_time": "2025-09-17 11:20:15",
+      "type": "文本消息",
+      "str_content": "那帮我带着吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758079217,
+      "formatted_time": "2025-09-17 11:20:17",
+      "type": "文本消息",
+      "str_content": "[旺柴][旺柴][旺柴]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1758079221,
+      "formatted_time": "2025-09-17 11:20:21",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1758079233,
+      "formatted_time": "2025-09-17 11:20:33",
+      "type": "文本消息",
+      "str_content": "okk，或者明天上课我去拿也可以",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1760537582,
+      "formatted_time": "2025-10-15 22:13:02",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1760537583,
+      "formatted_time": "2025-10-15 22:13:03",
+      "type": "文本消息",
+      "str_content": "没绷住",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1760537611,
+      "formatted_time": "2025-10-15 22:13:31",
+      "type": "文本消息",
+      "str_content": "下午双选会加到的一个港资保险公司的",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1760537615,
+      "formatted_time": "2025-10-15 22:13:35",
+      "type": "文本消息",
+      "str_content": "[捂脸]卧槽",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1760537630,
+      "formatted_time": "2025-10-15 22:13:50",
+      "type": "文本消息",
+      "str_content": "现在通讯录里有两个xuang了",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1760537631,
+      "formatted_time": "2025-10-15 22:13:51",
+      "type": "文本消息",
+      "str_content": "帅",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1760537660,
+      "formatted_time": "2025-10-15 22:14:20",
+      "type": "文本消息",
+      "str_content": "我一直以为用后鼻音做单名是一个很小众的行为",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1760537682,
+      "formatted_time": "2025-10-15 22:14:42",
+      "type": "文本消息",
+      "str_content": "后来发现太fashion了",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1760537707,
+      "formatted_time": "2025-10-15 22:15:07",
+      "type": "文本消息",
+      "str_content": "把你推给他，问问他你能不能代替他领工资",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1760537914,
+      "formatted_time": "2025-10-15 22:18:34",
+      "type": "文本消息",
+      "str_content": "直接让Amadeus成为Ang的替身",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1760537945,
+      "formatted_time": "2025-10-15 22:19:05",
+      "type": "文本消息",
+      "str_content": "这种港资是不是给的很多",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1760537980,
+      "formatted_time": "2025-10-15 22:19:40",
+      "type": "文本消息",
+      "str_content": "没问，他们很搞，先发传单后说卡本",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1760538009,
+      "formatted_time": "2025-10-15 22:20:09",
+      "type": "文本消息",
+      "str_content": "这有多卡",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1760538010,
+      "formatted_time": "2025-10-15 22:20:10",
+      "type": "文本消息",
+      "str_content": "说我们都是凉菜一毛本的，然后讨论了一下到底卡不卡，得出结论是应该不卡",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    },
+    {
+      "create_time": 1760538022,
+      "formatted_time": "2025-10-15 22:20:22",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1760538025,
+      "formatted_time": "2025-10-15 22:20:25",
+      "type": "文本消息",
+      "str_content": "可怕",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1760538030,
+      "formatted_time": "2025-10-15 22:20:30",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "欧阳宏禹-贸大-数量与金融科技"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:23+08:00",
+  "message_count": 73
+}

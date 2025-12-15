@@ -1,0 +1,762 @@
+{
+  "session_id": "39242451890@chatroom",
+  "session_name": "迎新智囊团",
+  "messages": [
+    {
+      "create_time": 1692156777,
+      "formatted_time": "2023-08-16 11:32:57",
+      "type": "文本消息",
+      "str_content": "11",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692156804,
+      "formatted_time": "2023-08-16 11:33:24",
+      "type": "文本消息",
+      "str_content": "学院那边让团委和学生会拉个小群来负责迎新相关的事儿",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692156878,
+      "formatted_time": "2023-08-16 11:34:38",
+      "type": "文本消息",
+      "str_content": "我们的主要工作内容是：\n1、迎新标语相关的东西\n2、后续迎新坐班和排班的安排\n3、协助学员发放迎新物资..迎新推文等",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692156947,
+      "formatted_time": "2023-08-16 11:35:47",
+      "type": "文本消息",
+      "str_content": "还有一些blabla的杂事儿",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692157510,
+      "formatted_time": "2023-08-16 11:45:10",
+      "type": "文本消息",
+      "str_content": "另外大家可以拉一些22级的一起来干活儿",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692157518,
+      "formatted_time": "2023-08-16 11:45:18",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1692157518,
+      "formatted_time": "2023-08-16 11:45:18",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "迎新智囊团",
+      "sender_wxid": "39242451890@chatroom"
+    },
+    {
+      "create_time": 1692158089,
+      "formatted_time": "2023-08-16 11:54:49",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "迎新智囊团",
+      "sender_wxid": "39242451890@chatroom"
+    },
+    {
+      "create_time": 1692160415,
+      "formatted_time": "2023-08-16 12:33:35",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "迎新智囊团",
+      "sender_wxid": "39242451890@chatroom"
+    },
+    {
+      "create_time": 1692160445,
+      "formatted_time": "2023-08-16 12:34:05",
+      "type": "文本消息",
+      "str_content": "我们目前的工作内容是要确定下迎新桁架和迎新标语哈",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160480,
+      "formatted_time": "2023-08-16 12:34:40",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160523,
+      "formatted_time": "2023-08-16 12:35:23",
+      "type": "文本消息",
+      "str_content": "我想了一下桁架的内容，如果想要结合所谓的经济学原理，可以采用那种问答的设计",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160716,
+      "formatted_time": "2023-08-16 12:38:36",
+      "type": "文本消息",
+      "str_content": "大概是这个意思",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160718,
+      "formatted_time": "2023-08-16 12:38:38",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160779,
+      "formatted_time": "2023-08-16 12:39:39",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1692160781,
+      "formatted_time": "2023-08-16 12:39:41",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160789,
+      "formatted_time": "2023-08-16 12:39:49",
+      "type": "文本消息",
+      "str_content": "大家觉得哪种设计好一些",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160803,
+      "formatted_time": "2023-08-16 12:40:03",
+      "type": "文本消息",
+      "str_content": "也可以选择做成这种纯问题的形式",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160818,
+      "formatted_time": "2023-08-16 12:40:18",
+      "type": "引用消息",
+      "str_content": "这个吧，和迎新有点关联",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1692160824,
+      "formatted_time": "2023-08-16 12:40:24",
+      "type": "文本消息",
+      "str_content": "我也只是初步想的，本人没有任何的艺术天赋）",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160831,
+      "formatted_time": "2023-08-16 12:40:31",
+      "type": "文本消息",
+      "str_content": "不然好突兀啊放几个问题在上面",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1692160849,
+      "formatted_time": "2023-08-16 12:40:49",
+      "type": "文本消息",
+      "str_content": "我也觉得这个好些，不过下边那个回答可能需要文笔好的大家来润色下",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160854,
+      "formatted_time": "2023-08-16 12:40:54",
+      "type": "文本消息",
+      "str_content": "我已经绞尽脑汁了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160878,
+      "formatted_time": "2023-08-16 12:41:18",
+      "type": "文本消息",
+      "str_content": "这种问答是我唯一能想到的把经济学的东西和迎新放一块的形式",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160891,
+      "formatted_time": "2023-08-16 12:41:31",
+      "type": "文本消息",
+      "str_content": "这个如果找别人帮忙设计出现费用的话有报销吗",
+      "is_send": 0,
+      "sender_name": "李卓恒",
+      "sender_wxid": "wxid_jeyalm7uby4n22"
+    },
+    {
+      "create_time": 1692160898,
+      "formatted_time": "2023-08-16 12:41:38",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1692160910,
+      "formatted_time": "2023-08-16 12:41:50",
+      "type": "文本消息",
+      "str_content": "我们是有赞助商的，这个底稿是赞助商给的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160921,
+      "formatted_time": "2023-08-16 12:42:01",
+      "type": "文本消息",
+      "str_content": "但李鸿鹏说他设计的太烂了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160927,
+      "formatted_time": "2023-08-16 12:42:07",
+      "type": "文本消息",
+      "str_content": "说让诸位智囊出个主意",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160945,
+      "formatted_time": "2023-08-16 12:42:25",
+      "type": "文本消息",
+      "str_content": "给创设的同学不行吗",
+      "is_send": 0,
+      "sender_name": "周宸阳",
+      "sender_wxid": "wxid_8yab56noffs422"
+    },
+    {
+      "create_time": 1692160975,
+      "formatted_time": "2023-08-16 12:42:55",
+      "type": "文本消息",
+      "str_content": "我们只需要想出个形式和内容哈，设计肯定不是由我们来的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692160994,
+      "formatted_time": "2023-08-16 12:43:14",
+      "type": "文本消息",
+      "str_content": "非要和经济学知识关联吗",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1692160999,
+      "formatted_time": "2023-08-16 12:43:19",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1692161005,
+      "formatted_time": "2023-08-16 12:43:25",
+      "type": "文本消息",
+      "str_content": "给创设的同学也需要我们出内容的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161036,
+      "formatted_time": "2023-08-16 12:43:56",
+      "type": "文本消息",
+      "str_content": "这个背景板的配色能不能调成我们21级卡套的颜色呀？",
+      "is_send": 0,
+      "sender_name": "周宸阳",
+      "sender_wxid": "wxid_8yab56noffs422"
+    },
+    {
+      "create_time": 1692161048,
+      "formatted_time": "2023-08-16 12:44:08",
+      "type": "文本消息",
+      "str_content": "这个颜色看着怪怪的",
+      "is_send": 0,
+      "sender_name": "周宸阳",
+      "sender_wxid": "wxid_8yab56noffs422"
+    },
+    {
+      "create_time": 1692161052,
+      "formatted_time": "2023-08-16 12:44:12",
+      "type": "引用消息",
+      "str_content": "学院肯定是想要和经济学联系上的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161056,
+      "formatted_time": "2023-08-16 12:44:16",
+      "type": "文本消息",
+      "str_content": "21级卡套就是创设当时部长设计的",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1692161061,
+      "formatted_time": "2023-08-16 12:44:21",
+      "type": "文本消息",
+      "str_content": "像张PPT",
+      "is_send": 0,
+      "sender_name": "周宸阳",
+      "sender_wxid": "wxid_8yab56noffs422"
+    },
+    {
+      "create_time": 1692161067,
+      "formatted_time": "2023-08-16 12:44:27",
+      "type": "文本消息",
+      "str_content": "今年的卡套也是创设出的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161077,
+      "formatted_time": "2023-08-16 12:44:37",
+      "type": "文本消息",
+      "str_content": "不过创设一般就出个卡套",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161095,
+      "formatted_time": "2023-08-16 12:44:55",
+      "type": "文本消息",
+      "str_content": "颜色我们可以后续商量，现在主要讨论一个内容和形式~这些后续会有设计团队来做的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161149,
+      "formatted_time": "2023-08-16 12:45:49",
+      "type": "引用消息",
+      "str_content": "也可以不局限于经济学知识\n扯到理论上的东西太难了\n也可能是我学的不够扎实）",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161197,
+      "formatted_time": "2023-08-16 12:46:37",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1692161209,
+      "formatted_time": "2023-08-16 12:46:49",
+      "type": "文本消息",
+      "str_content": "感觉不如这个用校训还显得大气一点",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1692161219,
+      "formatted_time": "2023-08-16 12:46:59",
+      "type": "文本消息",
+      "str_content": "呸院训",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1692161229,
+      "formatted_time": "2023-08-16 12:47:09",
+      "type": "文本消息",
+      "str_content": "这个是被李鸿鹏否了的方案[流泪]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161242,
+      "formatted_time": "2023-08-16 12:47:22",
+      "type": "文本消息",
+      "str_content": "蓝色的是ver1.0，白色的是ver2.0",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161249,
+      "formatted_time": "2023-08-16 12:47:29",
+      "type": "文本消息",
+      "str_content": "我也觉得院训的那个好看一些",
+      "is_send": 0,
+      "sender_name": "周宸阳",
+      "sender_wxid": "wxid_8yab56noffs422"
+    },
+    {
+      "create_time": 1692161297,
+      "formatted_time": "2023-08-16 12:48:17",
+      "type": "文本消息",
+      "str_content": "感觉院训的那个把颜色调一下应该挺好看的",
+      "is_send": 0,
+      "sender_name": "周宸阳",
+      "sender_wxid": "wxid_8yab56noffs422"
+    },
+    {
+      "create_time": 1692161316,
+      "formatted_time": "2023-08-16 12:48:36",
+      "type": "文本消息",
+      "str_content": "可以把经济学知识像小气泡一样放底板，颜色稍微淡一点（不知道大家有没有get到",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1692161354,
+      "formatted_time": "2023-08-16 12:49:14",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1692161357,
+      "formatted_time": "2023-08-16 12:49:17",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1692161361,
+      "formatted_time": "2023-08-16 12:49:21",
+      "type": "文本消息",
+      "str_content": "花里胡哨",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1692161383,
+      "formatted_time": "2023-08-16 12:49:43",
+      "type": "文本消息",
+      "str_content": "那我觉得要不就让他们把这个字体重新拍下版",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161398,
+      "formatted_time": "2023-08-16 12:49:58",
+      "type": "文本消息",
+      "str_content": "然后直接把十大原理调个半透明扔上去",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161422,
+      "formatted_time": "2023-08-16 12:50:22",
+      "type": "文本消息",
+      "str_content": "像这种简笔画多画一些，有几个新同学在快乐的奔跑，上面再点缀一点小鸟蓝天🤔",
+      "is_send": 0,
+      "sender_name": "李卓恒",
+      "sender_wxid": "wxid_jeyalm7uby4n22"
+    },
+    {
+      "create_time": 1692161426,
+      "formatted_time": "2023-08-16 12:50:26",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "李卓恒",
+      "sender_wxid": "wxid_jeyalm7uby4n22"
+    },
+    {
+      "create_time": 1692161427,
+      "formatted_time": "2023-08-16 12:50:27",
+      "type": "引用消息",
+      "str_content": "yes就是这样",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1692161521,
+      "formatted_time": "2023-08-16 12:52:01",
+      "type": "引用消息",
+      "str_content": "对中学生来说可能有点幼稚，对大学生来说刚刚好是吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161580,
+      "formatted_time": "2023-08-16 12:53:00",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李卓恒",
+      "sender_wxid": "wxid_jeyalm7uby4n22"
+    },
+    {
+      "create_time": 1692161601,
+      "formatted_time": "2023-08-16 12:53:21",
+      "type": "文本消息",
+      "str_content": "我觉得可爱一点很吸引人",
+      "is_send": 0,
+      "sender_name": "李卓恒",
+      "sender_wxid": "wxid_jeyalm7uby4n22"
+    },
+    {
+      "create_time": 1692161612,
+      "formatted_time": "2023-08-16 12:53:32",
+      "type": "文本消息",
+      "str_content": "你放个自拍照上去",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161622,
+      "formatted_time": "2023-08-16 12:53:42",
+      "type": "文本消息",
+      "str_content": "更可爱[强]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161638,
+      "formatted_time": "2023-08-16 12:53:58",
+      "type": "文本消息",
+      "str_content": "那可太吸引人了[可怜]",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1692161643,
+      "formatted_time": "2023-08-16 12:54:03",
+      "type": "文本消息",
+      "str_content": "其实我挺想的😅",
+      "is_send": 0,
+      "sender_name": "李卓恒",
+      "sender_wxid": "wxid_jeyalm7uby4n22"
+    },
+    {
+      "create_time": 1692161656,
+      "formatted_time": "2023-08-16 12:54:16",
+      "type": "文本消息",
+      "str_content": "发我个自拍照",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161663,
+      "formatted_time": "2023-08-16 12:54:23",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李卓恒",
+      "sender_wxid": "wxid_jeyalm7uby4n22"
+    },
+    {
+      "create_time": 1692161669,
+      "formatted_time": "2023-08-16 12:54:29",
+      "type": "文本消息",
+      "str_content": "招新变招亲",
+      "is_send": 0,
+      "sender_name": "黄令姝",
+      "sender_wxid": "wxid_789639rs34q222"
+    },
+    {
+      "create_time": 1692161677,
+      "formatted_time": "2023-08-16 12:54:37",
+      "type": "文本消息",
+      "str_content": "我出一版给李鸿鹏看看",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161698,
+      "formatted_time": "2023-08-16 12:54:58",
+      "type": "引用消息",
+      "str_content": "其实这个也",
+      "is_send": 0,
+      "sender_name": "李卓恒",
+      "sender_wxid": "wxid_jeyalm7uby4n22"
+    },
+    {
+      "create_time": 1692161701,
+      "formatted_time": "2023-08-16 12:55:01",
+      "type": "文本消息",
+      "str_content": "也挺好的其实",
+      "is_send": 0,
+      "sender_name": "李卓恒",
+      "sender_wxid": "wxid_jeyalm7uby4n22"
+    },
+    {
+      "create_time": 1692161727,
+      "formatted_time": "2023-08-16 12:55:27",
+      "type": "文本消息",
+      "str_content": "那你发个自拍，多个选择嘛",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161731,
+      "formatted_time": "2023-08-16 12:55:31",
+      "type": "文本消息",
+      "str_content": "我出两版方案",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692161747,
+      "formatted_time": "2023-08-16 12:55:47",
+      "type": "文本消息",
+      "str_content": "我不可爱，放我自拍以后经院该没人了",
+      "is_send": 0,
+      "sender_name": "李卓恒",
+      "sender_wxid": "wxid_jeyalm7uby4n22"
+    },
+    {
+      "create_time": 1692161747,
+      "formatted_time": "2023-08-16 12:55:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "李卓恒",
+      "sender_wxid": "wxid_jeyalm7uby4n22"
+    },
+    {
+      "create_time": 1692161998,
+      "formatted_time": "2023-08-16 12:59:58",
+      "type": "文本消息",
+      "str_content": "好！那把这几个方案扔给李鸿鹏了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692162286,
+      "formatted_time": "2023-08-16 13:04:46",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692162304,
+      "formatted_time": "2023-08-16 13:05:04",
+      "type": "文本消息",
+      "str_content": "之后还要麻烦各位聪明人想几个这种红底白字的标语",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692162606,
+      "formatted_time": "2023-08-16 13:10:06",
+      "type": "文本消息",
+      "str_content": "五六楼挂到一楼要多少字啊",
+      "is_send": 0,
+      "sender_name": "王佳原",
+      "sender_wxid": "wxid_tms3soan5d9x12"
+    },
+    {
+      "create_time": 1692162617,
+      "formatted_time": "2023-08-16 13:10:17",
+      "type": "文本消息",
+      "str_content": "感觉要十多个字了[破涕为笑]",
+      "is_send": 0,
+      "sender_name": "王佳原",
+      "sender_wxid": "wxid_tms3soan5d9x12"
+    },
+    {
+      "create_time": 1692164020,
+      "formatted_time": "2023-08-16 13:33:40",
+      "type": "文本消息",
+      "str_content": "我找李鸿鹏确认下字数",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692172195,
+      "formatted_time": "2023-08-16 15:49:55",
+      "type": "文本消息",
+      "str_content": "孜孜不倦求经世济民之学\n漫路求索守明德厚学之志\n\n弘明德厚学之风，成经世济民之才 \n热烈欢迎经济学院2023级全体新生\n\n金玉之才喻园进修报国术\n融会贯通经院成就人生梦\n\n经纬横纵展宏图之业\n济世安邦聚栋梁之才",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692172204,
+      "formatted_time": "2023-08-16 15:50:04",
+      "type": "文本消息",
+      "str_content": "这是去年的",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692172225,
+      "formatted_time": "2023-08-16 15:50:25",
+      "type": "文本消息",
+      "str_content": "。。怎么一股子高中语文作文标题的味儿",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692176354,
+      "formatted_time": "2023-08-16 16:59:14",
+      "type": "文本消息",
+      "str_content": "可能领导喜欢这种",
+      "is_send": 0,
+      "sender_name": "陈俞先",
+      "sender_wxid": "wxid_jna4cpoj038l21"
+    },
+    {
+      "create_time": 1692177049,
+      "formatted_time": "2023-08-16 17:10:49",
+      "type": "文本消息",
+      "str_content": "领导品味太差了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692177065,
+      "formatted_time": "2023-08-16 17:11:05",
+      "type": "文本消息",
+      "str_content": "这岂不被新生所嗤笑",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692185555,
+      "formatted_time": "2023-08-16 19:32:35",
+      "type": "文本消息",
+      "str_content": "大家再想几个类似的哈标语呀~@所有人",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1692229343,
+      "formatted_time": "2023-08-17 07:42:23",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "迎新智囊团",
+      "sender_wxid": "39242451890@chatroom"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:40+08:00",
+  "message_count": 90
+}

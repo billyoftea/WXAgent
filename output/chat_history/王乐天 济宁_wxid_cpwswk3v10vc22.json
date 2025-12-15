@@ -1,0 +1,976 @@
+{
+  "session_id": "wxid_cpwswk3v10vc22",
+  "session_name": "王乐天 济宁",
+  "messages": [
+    {
+      "create_time": 1676116188,
+      "formatted_time": "2023-02-11 19:49:48",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676116216,
+      "formatted_time": "2023-02-11 19:50:16",
+      "type": "图文消息",
+      "str_content": "邀请你加入群聊",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676280119,
+      "formatted_time": "2023-02-13 17:21:59",
+      "type": "文本消息",
+      "str_content": "在不在不",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676280174,
+      "formatted_time": "2023-02-13 17:22:54",
+      "type": "文本消息",
+      "str_content": "学联那边还是搞了个纳新面试，定的今天晚上八点腾讯会议，问一下你有没有时间参与，大概四五分钟那样",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676281605,
+      "formatted_time": "2023-02-13 17:46:45",
+      "type": "文本消息",
+      "str_content": "emm可以的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676281817,
+      "formatted_time": "2023-02-13 17:50:17",
+      "type": "文本消息",
+      "str_content": "没事看你时间",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676281836,
+      "formatted_time": "2023-02-13 17:50:36",
+      "type": "文本消息",
+      "str_content": "要是时间来不及我就跟他们说一声",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676281845,
+      "formatted_time": "2023-02-13 17:50:45",
+      "type": "文本消息",
+      "str_content": "干脆就今天搞完吧我怕后面又更忙",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676281849,
+      "formatted_time": "2023-02-13 17:50:49",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676281915,
+      "formatted_time": "2023-02-13 17:51:55",
+      "type": "文本消息",
+      "str_content": "okok那我找他们要一下会议码",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676281923,
+      "formatted_time": "2023-02-13 17:52:03",
+      "type": "文本消息",
+      "str_content": "等下发给你",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676281930,
+      "formatted_time": "2023-02-13 17:52:10",
+      "type": "文本消息",
+      "str_content": "就稍微自我介绍一下就行",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676281931,
+      "formatted_time": "2023-02-13 17:52:11",
+      "type": "文本消息",
+      "str_content": "okok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676282374,
+      "formatted_time": "2023-02-13 17:59:34",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676283773,
+      "formatted_time": "2023-02-13 18:22:53",
+      "type": "文本消息",
+      "str_content": "好嘞",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676290518,
+      "formatted_time": "2023-02-13 20:15:18",
+      "type": "文本消息",
+      "str_content": "我这边文件看着把你归到外联去了",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290529,
+      "formatted_time": "2023-02-13 20:15:29",
+      "type": "文本消息",
+      "str_content": "要是不服从的话我再给他们说一下",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290543,
+      "formatted_time": "2023-02-13 20:15:43",
+      "type": "文本消息",
+      "str_content": "外联主要做什么的呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676290559,
+      "formatted_time": "2023-02-13 20:15:59",
+      "type": "文本消息",
+      "str_content": "目前应该主要是青鸟驿站",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290573,
+      "formatted_time": "2023-02-13 20:16:13",
+      "type": "文本消息",
+      "str_content": "就是刚才那个丰驰哥",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290577,
+      "formatted_time": "2023-02-13 20:16:17",
+      "type": "文本消息",
+      "str_content": "他分管外联",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290601,
+      "formatted_time": "2023-02-13 20:16:41",
+      "type": "文本消息",
+      "str_content": "然后他一直在推动各地的校地合作",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290617,
+      "formatted_time": "2023-02-13 20:16:57",
+      "type": "文本消息",
+      "str_content": "他那边应该主要就进行青鸟驿站的工作",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290667,
+      "formatted_time": "2023-02-13 20:17:47",
+      "type": "文本消息",
+      "str_content": "我们这边基本上就是走个流程留点照片",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290676,
+      "formatted_time": "2023-02-13 20:17:56",
+      "type": "文本消息",
+      "str_content": "okok",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676290682,
+      "formatted_time": "2023-02-13 20:18:02",
+      "type": "文本消息",
+      "str_content": "录的话肯定是都能录上",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290687,
+      "formatted_time": "2023-02-13 20:18:07",
+      "type": "文本消息",
+      "str_content": "我就怕占用太多的时间",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676290690,
+      "formatted_time": "2023-02-13 20:18:10",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676290712,
+      "formatted_time": "2023-02-13 20:18:32",
+      "type": "文本消息",
+      "str_content": "这个其实看你的想法就行",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290737,
+      "formatted_time": "2023-02-13 20:18:57",
+      "type": "文本消息",
+      "str_content": "我这种本来以后就要走体制内我就主动干的多点",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290754,
+      "formatted_time": "2023-02-13 20:19:14",
+      "type": "文本消息",
+      "str_content": "很自由",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290759,
+      "formatted_time": "2023-02-13 20:19:19",
+      "type": "文本消息",
+      "str_content": "其实也行",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676290763,
+      "formatted_time": "2023-02-13 20:19:23",
+      "type": "文本消息",
+      "str_content": "不会强迫你们干啥事",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290766,
+      "formatted_time": "2023-02-13 20:19:26",
+      "type": "文本消息",
+      "str_content": "都是主动报名",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290784,
+      "formatted_time": "2023-02-13 20:19:44",
+      "type": "文本消息",
+      "str_content": "主要是想去人多点的部门hh想着认识认识",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676290792,
+      "formatted_time": "2023-02-13 20:19:52",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290801,
+      "formatted_time": "2023-02-13 20:20:01",
+      "type": "文本消息",
+      "str_content": "那现在人多的部门可能是组织部和秘书处",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290808,
+      "formatted_time": "2023-02-13 20:20:08",
+      "type": "文本消息",
+      "str_content": "其实实践部很缺人",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290814,
+      "formatted_time": "2023-02-13 20:20:14",
+      "type": "文本消息",
+      "str_content": "啊这样吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676290816,
+      "formatted_time": "2023-02-13 20:20:16",
+      "type": "文本消息",
+      "str_content": "我们算是刚刚重组的部门",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290820,
+      "formatted_time": "2023-02-13 20:20:20",
+      "type": "文本消息",
+      "str_content": "那我就服从调剂了[调皮]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676290824,
+      "formatted_time": "2023-02-13 20:20:24",
+      "type": "文本消息",
+      "str_content": "原来的实践部完全瘫痪了",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676290935,
+      "formatted_time": "2023-02-13 20:22:15",
+      "type": "文本消息",
+      "str_content": "哈哈哈那你们看着安排吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676290937,
+      "formatted_time": "2023-02-13 20:22:17",
+      "type": "文本消息",
+      "str_content": "我服从组织",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676291123,
+      "formatted_time": "2023-02-13 20:25:23",
+      "type": "文本消息",
+      "str_content": "没事这玩意很水",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676291136,
+      "formatted_time": "2023-02-13 20:25:36",
+      "type": "文本消息",
+      "str_content": "外联那边也是刚建的部门",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676291139,
+      "formatted_time": "2023-02-13 20:25:39",
+      "type": "文本消息",
+      "str_content": "目前没啥人",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676291537,
+      "formatted_time": "2023-02-13 20:32:17",
+      "type": "文本消息",
+      "str_content": "[憨笑]那就都行",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676291539,
+      "formatted_time": "2023-02-13 20:32:19",
+      "type": "文本消息",
+      "str_content": "我不挑",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676291715,
+      "formatted_time": "2023-02-13 20:35:15",
+      "type": "文本消息",
+      "str_content": "外联这边丰驰哥的意思是不再对外招募了，从内部的成员里调过去，然后他想着把你调过去",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1676291960,
+      "formatted_time": "2023-02-13 20:39:20",
+      "type": "文本消息",
+      "str_content": "哈哈哈那好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676291967,
+      "formatted_time": "2023-02-13 20:39:27",
+      "type": "文本消息",
+      "str_content": "我努力不辜负他信任",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1676292745,
+      "formatted_time": "2023-02-13 20:52:25",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈他很有想法",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705668454,
+      "formatted_time": "2024-01-19 20:47:34",
+      "type": "文本消息",
+      "str_content": "明天那个活动啥意思呀",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705668496,
+      "formatted_time": "2024-01-19 20:48:16",
+      "type": "文本消息",
+      "str_content": "俺有意向！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705668520,
+      "formatted_time": "2024-01-19 20:48:40",
+      "type": "文本消息",
+      "str_content": "就是那边有个活动好像，然后也不是招募志愿者，就是把消息传播出去能多吸引些人参加，过去玩一玩转一转",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705668555,
+      "formatted_time": "2024-01-19 20:49:15",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞没问题！",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705668572,
+      "formatted_time": "2024-01-19 20:49:32",
+      "type": "文本消息",
+      "str_content": "直接过去就可以嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705668589,
+      "formatted_time": "2024-01-19 20:49:49",
+      "type": "文本消息",
+      "str_content": "估计就是运河记忆街区为了吸引人气然后办的那种文创作品展一条街",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705668595,
+      "formatted_time": "2024-01-19 20:49:55",
+      "type": "文本消息",
+      "str_content": "对的对的",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705668602,
+      "formatted_time": "2024-01-19 20:50:02",
+      "type": "文本消息",
+      "str_content": "好哩[好的]辛苦辛苦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705668648,
+      "formatted_time": "2024-01-19 20:50:48",
+      "type": "文本消息",
+      "str_content": "要是团委这边有其他的需要我再和你说",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705668654,
+      "formatted_time": "2024-01-19 20:50:54",
+      "type": "文本消息",
+      "str_content": "没事滴",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705668659,
+      "formatted_time": "2024-01-19 20:50:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705668672,
+      "formatted_time": "2024-01-19 20:51:12",
+      "type": "文本消息",
+      "str_content": "好嘟",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705669958,
+      "formatted_time": "2024-01-19 21:12:38",
+      "type": "文本消息",
+      "str_content": "我听说好像明天有中央电视台的记者团过去采访",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705669969,
+      "formatted_time": "2024-01-19 21:12:49",
+      "type": "文本消息",
+      "str_content": "应该是为了抬高一下人气",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705669985,
+      "formatted_time": "2024-01-19 21:13:05",
+      "type": "文本消息",
+      "str_content": "你们正常去就行",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705719539,
+      "formatted_time": "2024-01-20 10:58:59",
+      "type": "文本消息",
+      "str_content": "好滴 我到时候看看",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705748479,
+      "formatted_time": "2024-01-20 19:01:19",
+      "type": "文本消息",
+      "str_content": "在不在不",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705748483,
+      "formatted_time": "2024-01-20 19:01:23",
+      "type": "文本消息",
+      "str_content": "你现在在那边嘛",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705748518,
+      "formatted_time": "2024-01-20 19:01:58",
+      "type": "文本消息",
+      "str_content": "啊我走了已经",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705748527,
+      "formatted_time": "2024-01-20 19:02:07",
+      "type": "文本消息",
+      "str_content": "就溜了一圈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705748540,
+      "formatted_time": "2024-01-20 19:02:20",
+      "type": "文本消息",
+      "str_content": "好嘞好嘞",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705748562,
+      "formatted_time": "2024-01-20 19:02:42",
+      "type": "文本消息",
+      "str_content": "没事啦",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705748595,
+      "formatted_time": "2024-01-20 19:03:15",
+      "type": "文本消息",
+      "str_content": "嗯嗯，辛苦辛苦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705748804,
+      "formatted_time": "2024-01-20 19:06:44",
+      "type": "文本消息",
+      "str_content": "我真服了",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705748819,
+      "formatted_time": "2024-01-20 19:06:59",
+      "type": "文本消息",
+      "str_content": "团委那边想需要你们协助做一个拍摄",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705748832,
+      "formatted_time": "2024-01-20 19:07:12",
+      "type": "文本消息",
+      "str_content": "让我问问你们离那里远不远",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705749556,
+      "formatted_time": "2024-01-20 19:19:16",
+      "type": "文本消息",
+      "str_content": "嘶这是提前没安排嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705749591,
+      "formatted_time": "2024-01-20 19:19:51",
+      "type": "文本消息",
+      "str_content": "提前安排了但是没跟我说",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705749605,
+      "formatted_time": "2024-01-20 19:20:05",
+      "type": "文本消息",
+      "str_content": "刚刚才跟我说这回事",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705749612,
+      "formatted_time": "2024-01-20 19:20:12",
+      "type": "文本消息",
+      "str_content": "他们以为你们一直在那里来",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705749706,
+      "formatted_time": "2024-01-20 19:21:46",
+      "type": "文本消息",
+      "str_content": "[捂脸][捂脸][捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705749766,
+      "formatted_time": "2024-01-20 19:22:46",
+      "type": "文本消息",
+      "str_content": "我都没法说这熊事",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705749775,
+      "formatted_time": "2024-01-20 19:22:55",
+      "type": "文本消息",
+      "str_content": "我们被坑了好多回了",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705749954,
+      "formatted_time": "2024-01-20 19:25:54",
+      "type": "文本消息",
+      "str_content": "这确实是..我以为是提前通好气的呢[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705749964,
+      "formatted_time": "2024-01-20 19:26:04",
+      "type": "文本消息",
+      "str_content": "今天七八点正好有点事儿我就先撤了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705749982,
+      "formatted_time": "2024-01-20 19:26:22",
+      "type": "文本消息",
+      "str_content": "以后有啥要人的地方我都尽量去，正好我这寒假都在济宁也不算太忙",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705750082,
+      "formatted_time": "2024-01-20 19:28:02",
+      "type": "文本消息",
+      "str_content": "没事没事本来就不赖咱",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705750106,
+      "formatted_time": "2024-01-20 19:28:26",
+      "type": "文本消息",
+      "str_content": "为我不是把你名报上去了吗，然后他们就以为你就留下了，刚刚就问我为什么没人",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705750126,
+      "formatted_time": "2024-01-20 19:28:46",
+      "type": "文本消息",
+      "str_content": "我就很无语啊我说你们根本就没跟我说让人拍摄这回事，光说的逛一逛",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705750455,
+      "formatted_time": "2024-01-20 19:34:15",
+      "type": "文本消息",
+      "str_content": "[捂脸][捂脸]那这确实也没法说",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705750464,
+      "formatted_time": "2024-01-20 19:34:24",
+      "type": "文本消息",
+      "str_content": "咱做好自己分内的事儿就完咯",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705752247,
+      "formatted_time": "2024-01-20 20:04:07",
+      "type": "文本消息",
+      "str_content": "唉也是真无语",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705752269,
+      "formatted_time": "2024-01-20 20:04:29",
+      "type": "文本消息",
+      "str_content": "不好意思啊你这第一次参加活动就弄成这个样",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705752273,
+      "formatted_time": "2024-01-20 20:04:33",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1705752332,
+      "formatted_time": "2024-01-20 20:05:32",
+      "type": "文本消息",
+      "str_content": "没事没事，我也很惭愧自己没帮上啥忙",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1705752333,
+      "formatted_time": "2024-01-20 20:05:33",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706169061,
+      "formatted_time": "2024-01-25 15:51:01",
+      "type": "文本消息",
+      "str_content": "在不在不",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1706169069,
+      "formatted_time": "2024-01-25 15:51:09",
+      "type": "文本消息",
+      "str_content": "你前天是不是参加暖冬行动来着",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1706177020,
+      "formatted_time": "2024-01-25 18:03:40",
+      "type": "文本消息",
+      "str_content": "嗯嗯怎么啦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706178643,
+      "formatted_time": "2024-01-25 18:30:43",
+      "type": "文本消息",
+      "str_content": "我们要发一篇推送",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1706178654,
+      "formatted_time": "2024-01-25 18:30:54",
+      "type": "文本消息",
+      "str_content": "想问一下你愿不愿意写一小段感悟",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1706178701,
+      "formatted_time": "2024-01-25 18:31:41",
+      "type": "文本消息",
+      "str_content": "就宣传一下",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1706200295,
+      "formatted_time": "2024-01-26 00:31:35",
+      "type": "文本消息",
+      "str_content": "好的好的，今天在外面聚会没来得及看消息",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706200491,
+      "formatted_time": "2024-01-26 00:34:51",
+      "type": "文本消息",
+      "str_content": "在寒冷的冬日里，我有幸作为一名回乡的大学生党员，参加了任城区团委组织的“冬日暖阳”火车站志愿活动。在繁忙的火车站，我和志愿者同志们共同竭尽全力为他人服务。这次志愿服务不仅是一次帮助他人的机会，更重要的是，我认识到了作为一名青年大学生应有的担当和奉献精神。我深刻感受到，作为新时代的青年，我们应该积极投身于社会服务中，用我们的行动去传递温暖和正能量。在今后的日子里，我将继续秉承这种服务他人、奉献社会的精神，为构建和谐任城贡献自己的一份力量。",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706202425,
+      "formatted_time": "2024-01-26 01:07:05",
+      "type": "文本消息",
+      "str_content": "好滴好滴，太感谢啦！！",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1706202451,
+      "formatted_time": "2024-01-26 01:07:31",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1706332336,
+      "formatted_time": "2024-01-27 13:12:16",
+      "type": "文本消息",
+      "str_content": "你那边有那天服务的照片嘛",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1706332343,
+      "formatted_time": "2024-01-27 13:12:23",
+      "type": "文本消息",
+      "str_content": "个人的",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1706332354,
+      "formatted_time": "2024-01-27 13:12:34",
+      "type": "文本消息",
+      "str_content": "个人的没有的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1706332511,
+      "formatted_time": "2024-01-27 13:15:11",
+      "type": "文本消息",
+      "str_content": "噢噢噢噢好嘞",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1707275757,
+      "formatted_time": "2024-02-07 11:15:57",
+      "type": "文本消息",
+      "str_content": "在不在不",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1707275799,
+      "formatted_time": "2024-02-07 11:16:39",
+      "type": "文本消息",
+      "str_content": "市学联那边有个视频录制，想问问你愿不愿意录一段嘞",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1707275811,
+      "formatted_time": "2024-02-07 11:16:51",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1707275811,
+      "formatted_time": "2024-02-07 11:16:51",
+      "type": "图文消息",
+      "str_content": "等你来“入职”！济宁市青鸟驿站纳新啦！",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1707275812,
+      "formatted_time": "2024-02-07 11:16:52",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1707275818,
+      "formatted_time": "2024-02-07 11:16:58",
+      "type": "文本消息",
+      "str_content": "就是这种",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    },
+    {
+      "create_time": 1707276207,
+      "formatted_time": "2024-02-07 11:23:27",
+      "type": "文本消息",
+      "str_content": "这两天比较忙，我就不参与啦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1707276473,
+      "formatted_time": "2024-02-07 11:27:53",
+      "type": "文本消息",
+      "str_content": "好滴好滴",
+      "is_send": 0,
+      "sender_name": "王乐天 济宁"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 121
+}

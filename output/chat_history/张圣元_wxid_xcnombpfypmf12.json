@@ -1,0 +1,128 @@
+{
+  "session_id": "wxid_xcnombpfypmf12",
+  "session_name": "张圣元",
+  "messages": [
+    {
+      "create_time": 1681390831,
+      "formatted_time": "2023-04-13 21:00:31",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "张圣元"
+    },
+    {
+      "create_time": 1681390840,
+      "formatted_time": "2023-04-13 21:00:40",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张圣元"
+    },
+    {
+      "create_time": 1681391122,
+      "formatted_time": "2023-04-13 21:05:22",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695011762,
+      "formatted_time": "2023-09-18 12:36:02",
+      "type": "文本消息",
+      "str_content": "昂子这周末百团吗",
+      "is_send": 0,
+      "sender_name": "张圣元"
+    },
+    {
+      "create_time": 1695011957,
+      "formatted_time": "2023-09-18 12:39:17",
+      "type": "文本消息",
+      "str_content": "23号百团设在东操篮球场，并放置舞台，24号百团在中操篮球场。",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695011959,
+      "formatted_time": "2023-09-18 12:39:19",
+      "type": "文本消息",
+      "str_content": "听说的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1695012149,
+      "formatted_time": "2023-09-18 12:42:29",
+      "type": "文本消息",
+      "str_content": "ok",
+      "is_send": 0,
+      "sender_name": "张圣元"
+    },
+    {
+      "create_time": 1731764030,
+      "formatted_time": "2024-11-16 21:33:50",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "张圣元"
+    },
+    {
+      "create_time": 1731764294,
+      "formatted_time": "2024-11-16 21:38:14",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "张圣元"
+    },
+    {
+      "create_time": 1731782157,
+      "formatted_time": "2024-11-17 02:35:57",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "张圣元"
+    },
+    {
+      "create_time": 1731782170,
+      "formatted_time": "2024-11-17 02:36:10",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "张圣元"
+    },
+    {
+      "create_time": 1740723523,
+      "formatted_time": "2025-02-28 14:18:43",
+      "type": "文本消息",
+      "str_content": "周日早上8-10 游泳馆 我 刘卓 何葛 羽毛球三缺一来吗",
+      "is_send": 0,
+      "sender_name": "张圣元"
+    },
+    {
+      "create_time": 1740723611,
+      "formatted_time": "2025-02-28 14:20:11",
+      "type": "文本消息",
+      "str_content": "去不了捏",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1740723612,
+      "formatted_time": "2025-02-28 14:20:12",
+      "type": "文本消息",
+      "str_content": "不在学校",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1740723617,
+      "formatted_time": "2025-02-28 14:20:17",
+      "type": "文本消息",
+      "str_content": "OK",
+      "is_send": 0,
+      "sender_name": "张圣元"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 15
+}

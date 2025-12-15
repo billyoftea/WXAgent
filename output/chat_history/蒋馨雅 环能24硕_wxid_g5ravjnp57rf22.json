@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_g5ravjnp57rf22",
+  "session_name": "蒋馨雅 环能24硕",
+  "messages": [
+    {
+      "create_time": 1756267191,
+      "formatted_time": "2025-08-27 11:59:51",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "蒋馨雅 环能24硕"
+    },
+    {
+      "create_time": 1756267191,
+      "formatted_time": "2025-08-27 11:59:51",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "蒋馨雅 环能24硕"
+    },
+    {
+      "create_time": 1756267246,
+      "formatted_time": "2025-08-27 12:00:46",
+      "type": "文本消息",
+      "str_content": "你好，我是环能24硕蒋馨雅",
+      "is_send": 0,
+      "sender_name": "蒋馨雅 环能24硕"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:22+08:00",
+  "message_count": 3
+}

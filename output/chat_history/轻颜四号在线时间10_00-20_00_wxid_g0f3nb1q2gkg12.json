@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_g0f3nb1q2gkg12",
+  "session_name": "轻颜四号在线时间10:00-20:00",
+  "messages": [
+    {
+      "create_time": 1754903447,
+      "formatted_time": "2025-08-11 17:10:47",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "轻颜四号在线时间10:00-20:00"
+    },
+    {
+      "create_time": 1754903460,
+      "formatted_time": "2025-08-11 17:11:00",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "轻颜四号在线时间10:00-20:00"
+    },
+    {
+      "create_time": 1754903461,
+      "formatted_time": "2025-08-11 17:11:01",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "轻颜四号在线时间10:00-20:00"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:27+08:00",
+  "message_count": 3
+}

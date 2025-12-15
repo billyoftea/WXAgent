@@ -1,0 +1,72 @@
+{
+  "session_id": "wxid_3584835848711",
+  "session_name": "钱怡嘉",
+  "messages": [
+    {
+      "create_time": 1763803451,
+      "formatted_time": "2025-11-22 17:24:11",
+      "type": "文本消息",
+      "str_content": "我是群聊\"假面舞会酒水出品团队🎭\"的钱怡嘉",
+      "is_send": 0,
+      "sender_name": "钱怡嘉"
+    },
+    {
+      "create_time": 1763803477,
+      "formatted_time": "2025-11-22 17:24:37",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "钱怡嘉"
+    },
+    {
+      "create_time": 1763803491,
+      "formatted_time": "2025-11-22 17:24:51",
+      "type": "文本消息",
+      "str_content": "你好！请问还可以找你领票嘛",
+      "is_send": 0,
+      "sender_name": "钱怡嘉"
+    },
+    {
+      "create_time": 1763803499,
+      "formatted_time": "2025-11-22 17:24:59",
+      "type": "文本消息",
+      "str_content": "昨天培训我和一位同学请假了",
+      "is_send": 0,
+      "sender_name": "钱怡嘉"
+    },
+    {
+      "create_time": 1763803531,
+      "formatted_time": "2025-11-22 17:25:31",
+      "type": "文本消息",
+      "str_content": "你可以问一下潘逊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763803535,
+      "formatted_time": "2025-11-22 17:25:35",
+      "type": "文本消息",
+      "str_content": "票应该都会在他那里呢",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763803544,
+      "formatted_time": "2025-11-22 17:25:44",
+      "type": "文本消息",
+      "str_content": "好滴 谢谢！",
+      "is_send": 0,
+      "sender_name": "钱怡嘉"
+    },
+    {
+      "create_time": 1763803585,
+      "formatted_time": "2025-11-22 17:26:25",
+      "type": "文本消息",
+      "str_content": "没事没事",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:18+08:00",
+  "message_count": 8
+}

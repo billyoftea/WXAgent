@@ -42,6 +42,15 @@ class SessionMeta {
     this.sentMessages,
     this.receivedMessages,
     this.participants,
+    // 新增统计字段
+    this.textMessages,
+    this.imageMessages,
+    this.voiceMessages,
+    this.videoMessages,
+    this.otherMessages,
+    this.activeDays,
+    this.firstMessage,
+    this.lastMessage,
   });
 
   factory SessionMeta.fromJson(Map<String, dynamic> json) {
@@ -70,6 +79,15 @@ class SessionMeta {
       participants: (json['participants'] as List?)
           ?.map((item) => (item as Map).cast<String, dynamic>())
           .toList(),
+      // 新增统计字段
+      textMessages: _toInt(json['text_messages']),
+      imageMessages: _toInt(json['image_messages']),
+      voiceMessages: _toInt(json['voice_messages']),
+      videoMessages: _toInt(json['video_messages']),
+      otherMessages: _toInt(json['other_messages']),
+      activeDays: _toInt(json['active_days']),
+      firstMessage: _toInt(json['first_message']),
+      lastMessage: _toInt(json['last_message']),
     );
   }
 
@@ -89,6 +107,15 @@ class SessionMeta {
   final int? sentMessages;
   final int? receivedMessages;
   final List<Map<String, dynamic>>? participants;
+  // 新增统计字段
+  final int? textMessages;
+  final int? imageMessages;
+  final int? voiceMessages;
+  final int? videoMessages;
+  final int? otherMessages;
+  final int? activeDays;
+  final int? firstMessage; // Unix timestamp
+  final int? lastMessage;  // Unix timestamp
 }
 
 class AnalysisResult {
@@ -184,6 +211,7 @@ class SummaryRunResult {
     required this.content,
     this.mode,
     this.chunkCount,
+    this.logs,
   });
 
   factory SummaryRunResult.fromJson(Map<String, dynamic> json) {
@@ -201,6 +229,7 @@ class SummaryRunResult {
       content: json['summary'] as String? ?? json['content'] as String? ?? '',
       mode: json['mode'] as String?,
       chunkCount: _toInt(json['chunk_count']),
+      logs: (json['logs'] as List<dynamic>?)?.map((e) => e.toString()).toList(),
     );
   }
 
@@ -211,6 +240,7 @@ class SummaryRunResult {
   final String content;
   final String? mode;
   final int? chunkCount;
+  final List<String>? logs;
 }
 
 int? _toInt(dynamic value) {

@@ -1,0 +1,40 @@
+{
+  "session_id": "wxid_gu9klpga07b612",
+  "session_name": "何剑锋",
+  "messages": [
+    {
+      "create_time": 1677554762,
+      "formatted_time": "2023-02-28 11:26:02",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "何剑锋"
+    },
+    {
+      "create_time": 1677560611,
+      "formatted_time": "2023-02-28 13:03:31",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1677560652,
+      "formatted_time": "2023-02-28 13:04:12",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "何剑锋"
+    },
+    {
+      "create_time": 1677560661,
+      "formatted_time": "2023-02-28 13:04:21",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:42+08:00",
+  "message_count": 4
+}

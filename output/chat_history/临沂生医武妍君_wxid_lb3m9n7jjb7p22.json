@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_lb3m9n7jjb7p22",
+  "session_name": "临沂生医武妍君",
+  "messages": [
+    {
+      "create_time": 1677912464,
+      "formatted_time": "2023-03-04 14:47:44",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "临沂生医武妍君"
+    },
+    {
+      "create_time": 1677913119,
+      "formatted_time": "2023-03-04 14:58:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1677913139,
+      "formatted_time": "2023-03-04 14:58:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "临沂生医武妍君"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:37+08:00",
+  "message_count": 3
+}

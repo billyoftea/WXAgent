@@ -1,0 +1,56 @@
+{
+  "session_id": "wxid_x7ev9amzdjq222",
+  "session_name": "淘淘（PS设计）",
+  "messages": [
+    {
+      "create_time": 1664287569,
+      "formatted_time": "2022-09-27 22:06:09",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "淘淘（PS设计）"
+    },
+    {
+      "create_time": 1664287573,
+      "formatted_time": "2022-09-27 22:06:13",
+      "type": "文本消息",
+      "str_content": "你好",
+      "is_send": 0,
+      "sender_name": "淘淘（PS设计）"
+    },
+    {
+      "create_time": 1664287577,
+      "formatted_time": "2022-09-27 22:06:17",
+      "type": "文本消息",
+      "str_content": "几号设计师推荐",
+      "is_send": 0,
+      "sender_name": "淘淘（PS设计）"
+    },
+    {
+      "create_time": 1664287578,
+      "formatted_time": "2022-09-27 22:06:18",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1664287585,
+      "formatted_time": "2022-09-27 22:06:25",
+      "type": "文本消息",
+      "str_content": "能手写体p个名字吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1664287594,
+      "formatted_time": "2022-09-27 22:06:34",
+      "type": "文本消息",
+      "str_content": "可以",
+      "is_send": 0,
+      "sender_name": "淘淘（PS设计）"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:42+08:00",
+  "message_count": 6
+}

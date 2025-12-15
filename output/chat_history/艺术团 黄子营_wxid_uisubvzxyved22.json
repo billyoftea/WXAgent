@@ -1,0 +1,40 @@
+{
+  "session_id": "wxid_uisubvzxyved22",
+  "session_name": "艺术团 黄子营",
+  "messages": [
+    {
+      "create_time": 1757601584,
+      "formatted_time": "2025-09-11 22:39:44",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营"
+    },
+    {
+      "create_time": 1757601584,
+      "formatted_time": "2025-09-11 22:39:44",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营"
+    },
+    {
+      "create_time": 1757601612,
+      "formatted_time": "2025-09-11 22:40:12",
+      "type": "文本消息",
+      "str_content": "hihi~我是25数金的徐昂！很高兴认识你！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1757601614,
+      "formatted_time": "2025-09-11 22:40:14",
+      "type": "文本消息",
+      "str_content": "hellohello 25财新黄子营",
+      "is_send": 0,
+      "sender_name": "艺术团 黄子营"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:28+08:00",
+  "message_count": 4
+}

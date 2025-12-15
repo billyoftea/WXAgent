@@ -1,0 +1,32 @@
+{
+  "session_id": "wxid_b54t580h2dzt22",
+  "session_name": "山东孔江昊",
+  "messages": [
+    {
+      "create_time": 1685773532,
+      "formatted_time": "2023-06-03 14:25:32",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "山东孔江昊"
+    },
+    {
+      "create_time": 1685773535,
+      "formatted_time": "2023-06-03 14:25:35",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1685783895,
+      "formatted_time": "2023-06-03 17:18:15",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "山东孔江昊"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 3
+}

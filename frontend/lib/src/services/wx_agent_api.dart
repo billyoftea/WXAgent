@@ -1,8 +1,33 @@
 import 'dart:convert';
+import 'dart:async';
 
 import 'package:http/http.dart' as http;
 
 import '../models/models.dart';
+
+/// SSE 流式事件
+class StreamEvent {
+  StreamEvent({
+    required this.type,
+    required this.content,
+    this.step,
+    this.total,
+  });
+
+  factory StreamEvent.fromJson(Map<String, dynamic> json) {
+    return StreamEvent(
+      type: json['type'] as String? ?? '',
+      content: json['content'] as String? ?? '',
+      step: json['step'] as int?,
+      total: json['total'] as int?,
+    );
+  }
+
+  final String type; // log, ai_chunk, progress, done, error, result
+  final String content;
+  final int? step;
+  final int? total;
+}
 
 class WxAgentApiClient {
   WxAgentApiClient({required this.baseUrl, http.Client? httpClient})
@@ -134,6 +159,81 @@ class WxAgentApiClient {
       body: body,
     );
     return SummaryRunResult.fromJson(response);
+  }
+
+  /// 流式运行总结，返回事件流
+  Stream<StreamEvent> runSummaryStream({
+    String? startDate,
+    String? endDate,
+    List<String>? sessions,
+    int? maxTokens,
+  }) async* {
+    final sanitizedSessions = sessions
+        ?.map((s) => s.trim())
+        .where((s) => s.isNotEmpty)
+        .toList();
+    final body = <String, dynamic>{
+      'start_date': startDate,
+      'end_date': endDate,
+      'mode': 'merged',
+    };
+    if (maxTokens != null) {
+      body['max_tokens'] = maxTokens;
+    }
+    if (sanitizedSessions != null && sanitizedSessions.isNotEmpty) {
+      body['sessions'] = sanitizedSessions;
+    }
+
+    final uri = _uri('/summary/run-stream');
+    final request = http.Request('POST', uri);
+    request.headers['Content-Type'] = 'application/json';
+    request.body = jsonEncode(body);
+
+    final response = await _client.send(request);
+    if (response.statusCode >= 400) {
+      final bodyText = await response.stream.bytesToString();
+      throw HttpException(response.statusCode, bodyText);
+    }
+
+    // 解析 SSE 流
+    String buffer = '';
+    String? currentEventType;
+
+    await for (final chunk in response.stream.transform(utf8.decoder)) {
+      buffer += chunk;
+
+      // 处理完整的事件
+      while (buffer.contains('\n\n')) {
+        final eventEnd = buffer.indexOf('\n\n');
+        final eventData = buffer.substring(0, eventEnd);
+        buffer = buffer.substring(eventEnd + 2);
+
+        // 解析事件
+        String? eventType;
+        String? data;
+
+        for (final line in eventData.split('\n')) {
+          if (line.startsWith('event: ')) {
+            eventType = line.substring(7);
+          } else if (line.startsWith('data: ')) {
+            data = line.substring(6);
+          }
+        }
+
+        if (data != null) {
+          try {
+            final json = jsonDecode(data) as Map<String, dynamic>;
+            // 添加事件类型到 JSON
+            if (eventType != null) {
+              json['type'] = eventType;
+            }
+            yield StreamEvent.fromJson(json);
+          } catch (e) {
+            // 忽略解析错误
+          }
+        }
+      }
+    }
   }
 
   Future<List<SummaryHistoryEntry>> listSummaryHistory({int? limit}) async {

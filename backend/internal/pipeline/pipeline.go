@@ -2,6 +2,7 @@ package pipeline
 
 import (
 	"context"
+	"encoding/json"
 	"fmt"
 	"os"
 	"path/filepath"
@@ -18,6 +19,9 @@ import (
 	"github.com/billyoftea/wxagent/go_backend/internal/wxdb"
 	"github.com/billyoftea/wxagent/go_backend/internal/wxkey"
 )
+
+// StreamEvent 流式事件类型别名
+type StreamEvent = analyzer.StreamEvent
 
 type Pipeline struct {
 	Config    *config.PipelineConfig
@@ -386,6 +390,51 @@ func (p *Pipeline) AnalyzeChat(startDate, endDate string, sessionNames []string,
 		return nil, fmt.Errorf("analyze chat: %w", err)
 	}
 
+	// 确保分析结果文件也出现在历史目录（便于前端读取）
+	historyDir := p.Config.SummaryHistoryDir
+	if historyDir == "" {
+		// 与用户约定：analysis 文件夹位于 export_dir/analysis
+		historyDir = filepath.Join(p.Config.ExportDir, "analysis")
+	}
+	// 如果输出文件存在且不在历史目录中，则复制一份到历史目录
+	if result.OutputFile != "" {
+		destDir := historyDir
+		if err := os.MkdirAll(destDir, 0755); err == nil {
+			base := filepath.Base(result.OutputFile)
+			destination := filepath.Join(destDir, base)
+			// 只有当源和目标不同且目标不存在时才复制
+			if !strings.HasPrefix(result.OutputFile, destDir) {
+				if _, err := os.Stat(destination); os.IsNotExist(err) {
+					data, err := os.ReadFile(result.OutputFile)
+					if err == nil {
+						_ = os.WriteFile(destination, data, 0644)
+					}
+				}
+			}
+		}
+	}
+
+	return result, nil
+}
+
+// AnalyzeChatStream 流式分析聊天记录，通过 callback 发送事件
+func (p *Pipeline) AnalyzeChatStream(startDate, endDate string, sessionNames []string, maxTokens int, outputFile string, callback analyzer.StreamCallback) (*analyzer.AnalyzeResult, error) {
+	llmClient := llm.NewClient(p.Config.LLM)
+	a := analyzer.New(p.Config.ExportDir, llmClient)
+
+	ctx := context.Background()
+	result, err := a.AnalyzeStream(ctx, analyzer.AnalyzeOptions{
+		StartDate:    startDate,
+		EndDate:      endDate,
+		SessionNames: sessionNames,
+		MaxTokens:    maxTokens,
+		OutputFile:   outputFile,
+	}, callback)
+
+	if err != nil {
+		return nil, fmt.Errorf("analyze chat stream: %w", err)
+	}
+
 	return result, nil
 }
 
@@ -424,46 +473,61 @@ func (p *Pipeline) DescribeSession(file, startDate, endDate string) (map[string]
 
 func (p *Pipeline) ListSummaryHistory(limit int) ([]map[string]any, error) {
 	historyDir := p.Config.SummaryHistoryDir
-	if historyDir == "" {
-		historyDir = filepath.Join(p.Config.SummaryOutput, "history")
+	var dirsToScan []string
+	if historyDir != "" {
+		// 配置了自定义历史目录，优先使用
+		dirsToScan = append(dirsToScan, historyDir)
+	} else {
+		// 默认情况下同时检查 export_dir/analysis 和 export_dir/chat_history/analysis（兼容旧版）
+		dirsToScan = append(dirsToScan,
+			filepath.Join(p.Config.ExportDir, "analysis"),
+			filepath.Join(p.Config.ExportDir, "chat_history", "analysis"),
+		)
 	}
 
-	// Ensure directory exists
-	if _, err := os.Stat(historyDir); os.IsNotExist(err) {
-		return []map[string]any{}, nil
-	}
+	seen := make(map[string]bool)
+	history := make([]map[string]any, 0)
 
-	entries, err := os.ReadDir(historyDir)
-	if err != nil {
-		return nil, fmt.Errorf("read history dir: %w", err)
-	}
-
-	var history []map[string]any
-	for _, entry := range entries {
-		if entry.IsDir() {
+	for _, dir := range dirsToScan {
+		if dir == "" {
 			continue
 		}
-
-		name := entry.Name()
-		if !strings.HasSuffix(name, ".md") && !strings.HasSuffix(name, ".txt") {
-			continue
-		}
-
-		info, err := entry.Info()
+		entries, err := os.ReadDir(dir)
 		if err != nil {
+			// 如果目录不存在或无法读取，跳过而不是直接报错（保持鲁棒性）
 			continue
 		}
+		for _, entry := range entries {
+			if entry.IsDir() {
+				continue
+			}
 
-		fullPath := filepath.Join(historyDir, name)
-		history = append(history, map[string]any{
-			"name":     name,
-			"path":     fullPath,
-			"size":     info.Size(),
-			"modified": info.ModTime().Format(time.RFC3339),
-		})
+			name := entry.Name()
+			if !strings.HasSuffix(strings.ToLower(name), ".md") && !strings.HasSuffix(strings.ToLower(name), ".txt") {
+				continue
+			}
 
-		if limit > 0 && len(history) >= limit {
-			break
+			fullPath := filepath.Join(dir, name)
+			if seen[fullPath] {
+				continue
+			}
+
+			info, err := entry.Info()
+			if err != nil {
+				continue
+			}
+
+			history = append(history, map[string]any{
+				"name":     name,
+				"path":     fullPath,
+				"size":     info.Size(),
+				"modified": info.ModTime().Format(time.RFC3339),
+			})
+			seen[fullPath] = true
+
+			if limit > 0 && len(history) >= limit {
+				return history, nil
+			}
 		}
 	}
 
@@ -596,89 +660,265 @@ func (p *Pipeline) TestLLM(baseURL, model, apiKey string) (map[string]any, error
 		return map[string]any{
 			"status":  "failed",
 			"error":   err.Error(),
-			"message": "Failed to connect to LLM",
+			"message": "大模型服务器连接失败",
 		}, nil
 	}
 
 	return map[string]any{
 		"status":   "success",
 		"response": response,
-		"message":  "LLM connection test successful",
+		"message":  "大模型服务器连接成功",
 	}, nil
 }
 
 func (p *Pipeline) AnalyzeSessions(startDate, endDate string, topN int, sessionTypes []string) (map[string]any, error) {
-	builder := dataset.NewBuilder(p.Config.ExportDir, p.State)
-
-	result, err := builder.Build(startDate, endDate, false, nil)
+	// 直接从 JSON 文件读取完整的消息数据进行统计
+	files, err := filepath.Glob(filepath.Join(p.Config.ExportDir, "*.json"))
 	if err != nil {
-		return nil, fmt.Errorf("build dataset: %w", err)
+		return nil, fmt.Errorf("glob export dir: %w", err)
 	}
 
-	// Aggregate statistics
-	totalMessages := 0
-	sessionCount := len(result.Dataset)
-	breakdown := make(map[string]int)
+	// 解析日期范围
+	var startTs, endTs int64
+	if startDate != "" {
+		if t, err := time.Parse("2006-01-02", startDate); err == nil {
+			startTs = t.Unix()
+		}
+	}
+	if endDate != "" {
+		if t, err := time.Parse("2006-01-02", endDate); err == nil {
+			endTs = t.Add(24*time.Hour - time.Second).Unix() // 当天结束
+		}
+	}
 
+	// 统计数据结构
 	type SessionStats struct {
-		SessionID   string
-		DisplayName string
-		SessionType string
-		Messages    int
+		SessionID        string
+		DisplayName      string
+		SessionType      string
+		TotalMessages    int
+		TextMessages     int
+		ImageMessages    int
+		VoiceMessages    int
+		VideoMessages    int
+		OtherMessages    int
+		SentMessages     int
+		ReceivedMessages int
+		FirstMessageTime int64
+		LastMessageTime  int64
+		ActiveDays       map[string]bool // 活跃日期集合
 	}
 
-	var allSessions []SessionStats
+	sessionStats := make(map[string]*SessionStats)
+	hourlyDistribution := make(map[int]int)     // 24小时分布
+	weekdayDistribution := make(map[int]int)    // 星期分布
+	monthlyDistribution := make(map[string]int) // 月份分布
 
-	for sessionID, messages := range result.Dataset {
-		totalMessages += len(messages)
+	// 初始化小时分布
+	for i := 0; i < 24; i++ {
+		hourlyDistribution[i] = 0
+	}
+	// 初始化星期分布 (1-7, 1=周一)
+	for i := 1; i <= 7; i++ {
+		weekdayDistribution[i] = 0
+	}
 
+	totalMessages := 0
+	groupCount := 0
+	privateCount := 0
+
+	for _, file := range files {
+		if strings.HasSuffix(file, ".export_state") {
+			continue
+		}
+
+		data, err := os.ReadFile(file)
+		if err != nil {
+			continue
+		}
+
+		var session struct {
+			SessionID   string `json:"session_id"`
+			SessionName string `json:"session_name"`
+			Messages    []struct {
+				CreateTime    int64  `json:"create_time"`
+				FormattedTime string `json:"formatted_time"`
+				Type          string `json:"type"`
+				StrContent    string `json:"str_content"`
+				IsSend        int    `json:"is_send"`
+				Sender        string `json:"sender,omitempty"`
+				SenderName    string `json:"sender_name,omitempty"`
+			} `json:"messages"`
+		}
+
+		if err := json.Unmarshal(data, &session); err != nil {
+			continue
+		}
+
+		// 过滤公众号
+		if strings.HasPrefix(session.SessionID, "gh_") {
+			continue
+		}
+
+		sessionID := session.SessionID
 		sessionType := "private"
 		if strings.Contains(sessionID, "@chatroom") {
 			sessionType = "group"
 		}
 
-		breakdown[sessionType]++
+		// 过滤会话类型
+		if len(sessionTypes) > 0 {
+			found := false
+			for _, st := range sessionTypes {
+				if st == sessionType {
+					found = true
+					break
+				}
+			}
+			if !found {
+				continue
+			}
+		}
 
-		allSessions = append(allSessions, SessionStats{
-			SessionID:   sessionID,
-			DisplayName: sessionID,
-			SessionType: sessionType,
-			Messages:    len(messages),
-		})
+		// 初始化或获取会话统计
+		stats, exists := sessionStats[sessionID]
+		if !exists {
+			stats = &SessionStats{
+				SessionID:   sessionID,
+				DisplayName: session.SessionName,
+				SessionType: sessionType,
+				ActiveDays:  make(map[string]bool),
+			}
+			sessionStats[sessionID] = stats
+
+			if sessionType == "group" {
+				groupCount++
+			} else {
+				privateCount++
+			}
+		}
+
+		// 遍历消息进行统计
+		for _, msg := range session.Messages {
+			// 时间过滤
+			if startTs > 0 && msg.CreateTime < startTs {
+				continue
+			}
+			if endTs > 0 && msg.CreateTime > endTs {
+				continue
+			}
+
+			totalMessages++
+			stats.TotalMessages++
+
+			// 消息类型统计
+			switch {
+			case msg.Type == "文本消息" || msg.Type == "文本":
+				stats.TextMessages++
+			case msg.Type == "图片消息" || msg.Type == "图片":
+				stats.ImageMessages++
+			case msg.Type == "语音消息" || msg.Type == "语音":
+				stats.VoiceMessages++
+			case msg.Type == "视频消息" || msg.Type == "视频":
+				stats.VideoMessages++
+			default:
+				stats.OtherMessages++
+			}
+
+			// 发送/接收统计
+			if msg.IsSend == 1 {
+				stats.SentMessages++
+			} else {
+				stats.ReceivedMessages++
+			}
+
+			// 时间范围统计
+			if stats.FirstMessageTime == 0 || msg.CreateTime < stats.FirstMessageTime {
+				stats.FirstMessageTime = msg.CreateTime
+			}
+			if msg.CreateTime > stats.LastMessageTime {
+				stats.LastMessageTime = msg.CreateTime
+			}
+
+			// 活跃天统计
+			msgTime := time.Unix(msg.CreateTime, 0)
+			dateStr := msgTime.Format("2006-01-02")
+			stats.ActiveDays[dateStr] = true
+
+			// 时间分布统计
+			hour := msgTime.Hour()
+			hourlyDistribution[hour]++
+
+			weekday := int(msgTime.Weekday())
+			if weekday == 0 {
+				weekday = 7 // 周日转为7
+			}
+			weekdayDistribution[weekday]++
+
+			monthStr := msgTime.Format("2006-01")
+			monthlyDistribution[monthStr]++
+		}
 	}
 
-	// Sort by message count and get top N
-	// Simple bubble sort for small datasets
+	// 排序并获取 Top N
+	var allSessions []*SessionStats
+	for _, s := range sessionStats {
+		allSessions = append(allSessions, s)
+	}
+
+	// 按消息数排序
 	for i := 0; i < len(allSessions)-1; i++ {
 		for j := 0; j < len(allSessions)-i-1; j++ {
-			if allSessions[j].Messages < allSessions[j+1].Messages {
+			if allSessions[j].TotalMessages < allSessions[j+1].TotalMessages {
 				allSessions[j], allSessions[j+1] = allSessions[j+1], allSessions[j]
 			}
 		}
 	}
 
-	// Get top N
+	// 获取 Top N
 	if topN > len(allSessions) {
 		topN = len(allSessions)
 	}
 	topSessions := allSessions[:topN]
 
-	// Convert to map format
-	var topMaps []map[string]any
+	// 转换为 map 格式
+	topMaps := make([]map[string]any, 0, len(topSessions))
 	for _, s := range topSessions {
 		topMaps = append(topMaps, map[string]any{
-			"session_id":   s.SessionID,
-			"display_name": s.DisplayName,
-			"session_type": s.SessionType,
-			"messages":     s.Messages,
+			"session_id":        s.SessionID,
+			"display_name":      s.DisplayName,
+			"session_type":      s.SessionType,
+			"messages":          s.TotalMessages,
+			"text_messages":     s.TextMessages,
+			"image_messages":    s.ImageMessages,
+			"voice_messages":    s.VoiceMessages,
+			"video_messages":    s.VideoMessages,
+			"other_messages":    s.OtherMessages,
+			"sent_messages":     s.SentMessages,
+			"received_messages": s.ReceivedMessages,
+			"active_days":       len(s.ActiveDays),
+			"first_message":     s.FirstMessageTime,
+			"last_message":      s.LastMessageTime,
 		})
 	}
 
+	// 转换时间分布为数组格式（前端图表需要）
+	hourlyArray := make([]int, 24)
+	for i := 0; i < 24; i++ {
+		hourlyArray[i] = hourlyDistribution[i]
+	}
+
 	return map[string]any{
-		"top":            topMaps,
-		"breakdown":      breakdown,
-		"total_messages": totalMessages,
-		"session_count":  sessionCount,
+		"top": topMaps,
+		"breakdown": map[string]any{
+			"group":   groupCount,
+			"private": privateCount,
+		},
+		"total_messages":       totalMessages,
+		"session_count":        len(sessionStats),
+		"hourly_distribution":  hourlyArray,
+		"weekday_distribution": weekdayDistribution,
+		"monthly_distribution": monthlyDistribution,
 		"window": map[string]any{
 			"start": startDate,
 			"end":   endDate,

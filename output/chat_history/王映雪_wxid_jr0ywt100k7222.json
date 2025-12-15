@@ -1,0 +1,904 @@
+{
+  "session_id": "wxid_jr0ywt100k7222",
+  "session_name": "王映雪",
+  "messages": [
+    {
+      "create_time": 1693325436,
+      "formatted_time": "2023-08-30 00:10:36",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693325443,
+      "formatted_time": "2023-08-30 00:10:43",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693325462,
+      "formatted_time": "2023-08-30 00:11:02",
+      "type": "名片消息",
+      "str_content": "[名片消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693325474,
+      "formatted_time": "2023-08-30 00:11:14",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693325482,
+      "formatted_time": "2023-08-30 00:11:22",
+      "type": "文本消息",
+      "str_content": "22王鸣哲",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693325487,
+      "formatted_time": "2023-08-30 00:11:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693326024,
+      "formatted_time": "2023-08-30 00:20:24",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693326025,
+      "formatted_time": "2023-08-30 00:20:25",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693326026,
+      "formatted_time": "2023-08-30 00:20:26",
+      "type": "文本消息",
+      "str_content": "我是真的",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693326029,
+      "formatted_time": "2023-08-30 00:20:29",
+      "type": "文本消息",
+      "str_content": "😇",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693326047,
+      "formatted_time": "2023-08-30 00:20:47",
+      "type": "文本消息",
+      "str_content": "那我这有点不好说了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693326048,
+      "formatted_time": "2023-08-30 00:20:48",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693326069,
+      "formatted_time": "2023-08-30 00:21:09",
+      "type": "文本消息",
+      "str_content": "一共发给他三句话 一句时间一句做ppt内容一句ppt做1-2页",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693326088,
+      "formatted_time": "2023-08-30 00:21:28",
+      "type": "文本消息",
+      "str_content": "回给我时间看错了 和十页的ppt",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693326099,
+      "formatted_time": "2023-08-30 00:21:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693326112,
+      "formatted_time": "2023-08-30 00:21:52",
+      "type": "文本消息",
+      "str_content": "这小孩怎么感觉这么抽象，，",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693326116,
+      "formatted_time": "2023-08-30 00:21:56",
+      "type": "文本消息",
+      "str_content": "😇",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693326124,
+      "formatted_time": "2023-08-30 00:22:04",
+      "type": "文本消息",
+      "str_content": "无语住了",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693326129,
+      "formatted_time": "2023-08-30 00:22:09",
+      "type": "文本消息",
+      "str_content": "说实话那就是对这事儿没上心",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693326167,
+      "formatted_time": "2023-08-30 00:22:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693326172,
+      "formatted_time": "2023-08-30 00:22:52",
+      "type": "文本消息",
+      "str_content": "抽象",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693326175,
+      "formatted_time": "2023-08-30 00:22:55",
+      "type": "文本消息",
+      "str_content": "太抽象",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693326178,
+      "formatted_time": "2023-08-30 00:22:58",
+      "type": "文本消息",
+      "str_content": "😇",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693386066,
+      "formatted_time": "2023-08-30 17:01:06",
+      "type": "文本消息",
+      "str_content": "你们那的ppt做得怎么样咯",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693386088,
+      "formatted_time": "2023-08-30 17:01:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693386095,
+      "formatted_time": "2023-08-30 17:01:35",
+      "type": "文本消息",
+      "str_content": "我再催一下捏",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693386108,
+      "formatted_time": "2023-08-30 17:01:48",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693388190,
+      "formatted_time": "2023-08-30 17:36:30",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693388200,
+      "formatted_time": "2023-08-30 17:36:40",
+      "type": "文本消息",
+      "str_content": "这个要是还没打印的话能改成妇女节吗",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693388223,
+      "formatted_time": "2023-08-30 17:37:03",
+      "type": "文本消息",
+      "str_content": "已经打出来了[捂脸]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693388226,
+      "formatted_time": "2023-08-30 17:37:06",
+      "type": "文本消息",
+      "str_content": "说晚了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693388238,
+      "formatted_time": "2023-08-30 17:37:18",
+      "type": "文本消息",
+      "str_content": "问题不大，招新彩页不是官方",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693388239,
+      "formatted_time": "2023-08-30 17:37:19",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈那没事了",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1693388242,
+      "formatted_time": "2023-08-30 17:37:22",
+      "type": "文本消息",
+      "str_content": "不用那么正式",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1693388248,
+      "formatted_time": "2023-08-30 17:37:28",
+      "type": "文本消息",
+      "str_content": "👌🏻",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694012302,
+      "formatted_time": "2023-09-06 22:58:22",
+      "type": "文本消息",
+      "str_content": "每个部门发了多少人，还有那些信息啥的，你这有不",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694012342,
+      "formatted_time": "2023-09-06 22:59:02",
+      "type": "文本消息",
+      "str_content": "有信息，不过这个部门都还没定",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694012353,
+      "formatted_time": "2023-09-06 22:59:13",
+      "type": "文本消息",
+      "str_content": "哦哦",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694062933,
+      "formatted_time": "2023-09-07 13:02:13",
+      "type": "文本消息",
+      "str_content": "面试是负责人来面还是留部的工作人员也来",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694062984,
+      "formatted_time": "2023-09-07 13:03:04",
+      "type": "文本消息",
+      "str_content": "负责人+一个主要工作人员吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694062989,
+      "formatted_time": "2023-09-07 13:03:09",
+      "type": "文本消息",
+      "str_content": "不然我怕坐不下",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694063117,
+      "formatted_time": "2023-09-07 13:05:17",
+      "type": "文本消息",
+      "str_content": "是要一直在那吗",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694063160,
+      "formatted_time": "2023-09-07 13:06:00",
+      "type": "文本消息",
+      "str_content": "最好不要中途离开",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694063333,
+      "formatted_time": "2023-09-07 13:08:53",
+      "type": "文本消息",
+      "str_content": "早上九点到下午五点吗",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694063428,
+      "formatted_time": "2023-09-07 13:10:28",
+      "type": "文本消息",
+      "str_content": "上午和下午可以分开",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694064356,
+      "formatted_time": "2023-09-07 13:25:56",
+      "type": "文本消息",
+      "str_content": "😇",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694067438,
+      "formatted_time": "2023-09-07 14:17:18",
+      "type": "文本消息",
+      "str_content": "我这安排的应该都能看懂吧..",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694067445,
+      "formatted_time": "2023-09-07 14:17:25",
+      "type": "文本消息",
+      "str_content": "虽然我觉得办公室排的有点奇怪，，",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694067543,
+      "formatted_time": "2023-09-07 14:19:03",
+      "type": "文本消息",
+      "str_content": "啊有啥很大区别吗",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694067559,
+      "formatted_time": "2023-09-07 14:19:19",
+      "type": "文本消息",
+      "str_content": "看得懂啊",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694067564,
+      "formatted_time": "2023-09-07 14:19:24",
+      "type": "文本消息",
+      "str_content": "那就好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694067576,
+      "formatted_time": "2023-09-07 14:19:36",
+      "type": "文本消息",
+      "str_content": "笑鼠",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694343804,
+      "formatted_time": "2023-09-10 19:03:24",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694343812,
+      "formatted_time": "2023-09-10 19:03:32",
+      "type": "文本消息",
+      "str_content": "这名字重复了几个",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694343937,
+      "formatted_time": "2023-09-10 19:05:37",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694343988,
+      "formatted_time": "2023-09-10 19:06:28",
+      "type": "文本消息",
+      "str_content": "👌🏻辛苦",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694348891,
+      "formatted_time": "2023-09-10 20:28:11",
+      "type": "文本消息",
+      "str_content": "学生会换届大概是什么时候啊",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694348911,
+      "formatted_time": "2023-09-10 20:28:31",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694348916,
+      "formatted_time": "2023-09-10 20:28:36",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694348960,
+      "formatted_time": "2023-09-10 20:29:20",
+      "type": "文本消息",
+      "str_content": "行😇",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694443400,
+      "formatted_time": "2023-09-11 22:43:20",
+      "type": "文本消息",
+      "str_content": "刚拉群就碰到这种人",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694443400,
+      "formatted_time": "2023-09-11 22:43:20",
+      "type": "文本消息",
+      "str_content": "也是蛮无语的",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694443400,
+      "formatted_time": "2023-09-11 22:43:20",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694443430,
+      "formatted_time": "2023-09-11 22:43:50",
+      "type": "文本消息",
+      "str_content": "现在真是啥人都有",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694443436,
+      "formatted_time": "2023-09-11 22:43:56",
+      "type": "文本消息",
+      "str_content": "我感觉这一个月碰到的抽象人",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694443441,
+      "formatted_time": "2023-09-11 22:44:01",
+      "type": "文本消息",
+      "str_content": "大一大二大三的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694443443,
+      "formatted_time": "2023-09-11 22:44:03",
+      "type": "文本消息",
+      "str_content": "都有",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694443450,
+      "formatted_time": "2023-09-11 22:44:10",
+      "type": "文本消息",
+      "str_content": "给我刷新很多认知",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1694443459,
+      "formatted_time": "2023-09-11 22:44:19",
+      "type": "文本消息",
+      "str_content": "😅",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1694443467,
+      "formatted_time": "2023-09-11 22:44:27",
+      "type": "文本消息",
+      "str_content": "尊嘟无语住了",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698056271,
+      "formatted_time": "2023-10-23 18:17:51",
+      "type": "文本消息",
+      "str_content": "权服没有留部的吗",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698056305,
+      "formatted_time": "2023-10-23 18:18:25",
+      "type": "文本消息",
+      "str_content": "有呀王鸣哲",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698056325,
+      "formatted_time": "2023-10-23 18:18:45",
+      "type": "文本消息",
+      "str_content": "那个换届通知",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698056331,
+      "formatted_time": "2023-10-23 18:18:51",
+      "type": "文本消息",
+      "str_content": "你们关注没",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698056334,
+      "formatted_time": "2023-10-23 18:18:54",
+      "type": "文本消息",
+      "str_content": "看下那个负责人群",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698056337,
+      "formatted_time": "2023-10-23 18:18:57",
+      "type": "文本消息",
+      "str_content": "他说他不当部长",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698056339,
+      "formatted_time": "2023-10-23 18:18:59",
+      "type": "文本消息",
+      "str_content": "现在没收到他简历",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698056351,
+      "formatted_time": "2023-10-23 18:19:11",
+      "type": "文本消息",
+      "str_content": "那工作人员也要填的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698056530,
+      "formatted_time": "2023-10-23 18:22:10",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698056531,
+      "formatted_time": "2023-10-23 18:22:11",
+      "type": "文本消息",
+      "str_content": "我让他现在填一下",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698056987,
+      "formatted_time": "2023-10-23 18:29:47",
+      "type": "文本消息",
+      "str_content": "okk",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698058860,
+      "formatted_time": "2023-10-23 19:01:00",
+      "type": "文本消息",
+      "str_content": "qq发给你啦",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698058881,
+      "formatted_time": "2023-10-23 19:01:21",
+      "type": "文本消息",
+      "str_content": "这个让他发到那个邮箱里就好啦",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698058886,
+      "formatted_time": "2023-10-23 19:01:26",
+      "type": "文本消息",
+      "str_content": "通知里有写",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698058905,
+      "formatted_time": "2023-10-23 19:01:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698058908,
+      "formatted_time": "2023-10-23 19:01:48",
+      "type": "文本消息",
+      "str_content": "好滴好滴",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698157303,
+      "formatted_time": "2023-10-24 22:21:43",
+      "type": "文本消息",
+      "str_content": "这种",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698157309,
+      "formatted_time": "2023-10-24 22:21:49",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698157382,
+      "formatted_time": "2023-10-24 22:23:02",
+      "type": "文本消息",
+      "str_content": "救命恩人",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698157382,
+      "formatted_time": "2023-10-24 22:23:02",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698157435,
+      "formatted_time": "2023-10-24 22:23:55",
+      "type": "文本消息",
+      "str_content": "这个能查变动吗 是不是也可以",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698157467,
+      "formatted_time": "2023-10-24 22:24:27",
+      "type": "文本消息",
+      "str_content": "可以",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698157474,
+      "formatted_time": "2023-10-24 22:24:34",
+      "type": "文本消息",
+      "str_content": "有啥数据应该可以直接去问客服",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698157489,
+      "formatted_time": "2023-10-24 22:24:49",
+      "type": "文本消息",
+      "str_content": "不过ifind我是嫖的实习公司的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698157499,
+      "formatted_time": "2023-10-24 22:24:59",
+      "type": "文本消息",
+      "str_content": "你可以试下国泰安或者学院之前发过的choice",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698157511,
+      "formatted_time": "2023-10-24 22:25:11",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈我就说这种肯定要会员",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698157522,
+      "formatted_time": "2023-10-24 22:25:22",
+      "type": "文本消息",
+      "str_content": "学院有choice的号？",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698157527,
+      "formatted_time": "2023-10-24 22:25:27",
+      "type": "文本消息",
+      "str_content": "之前发过的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698157535,
+      "formatted_time": "2023-10-24 22:25:35",
+      "type": "文本消息",
+      "str_content": "李曼菁在年级群好像",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698157535,
+      "formatted_time": "2023-10-24 22:25:35",
+      "type": "文本消息",
+      "str_content": "在哪啊🥹",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698157582,
+      "formatted_time": "2023-10-24 22:26:22",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698157586,
+      "formatted_time": "2023-10-24 22:26:26",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698157648,
+      "formatted_time": "2023-10-24 22:27:28",
+      "type": "文本消息",
+      "str_content": "啥时候啊",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698157653,
+      "formatted_time": "2023-10-24 22:27:33",
+      "type": "文本消息",
+      "str_content": "完美错过🥹",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698157689,
+      "formatted_time": "2023-10-24 22:28:09",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698157697,
+      "formatted_time": "2023-10-24 22:28:17",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698157806,
+      "formatted_time": "2023-10-24 22:30:06",
+      "type": "文本消息",
+      "str_content": "学院之前还有wind/:8*但好像这两年太穷了就没买",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698157847,
+      "formatted_time": "2023-10-24 22:30:47",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698157936,
+      "formatted_time": "2023-10-24 22:32:16",
+      "type": "文本消息",
+      "str_content": "诶对你正大杯组队了吗",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698157950,
+      "formatted_time": "2023-10-24 22:32:30",
+      "type": "文本消息",
+      "str_content": "hhh我今年不准备打那个咧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1698157997,
+      "formatted_time": "2023-10-24 22:33:17",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    },
+    {
+      "create_time": 1698158012,
+      "formatted_time": "2023-10-24 22:33:32",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王映雪"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:38+08:00",
+  "message_count": 112
+}

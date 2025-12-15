@@ -156,9 +156,9 @@ class _AnalysisPageState extends State<AnalysisPage> {
                         ),
                         ChoiceChip(
                           label: const Text('私聊'),
-                          selected: _sessionType == 'single',
+                          selected: _sessionType == 'private',
                           onSelected: (_) =>
-                              setState(() => _sessionType = 'single'),
+                              setState(() => _sessionType = 'private'),
                         ),
                       ],
                     ),
@@ -280,6 +280,9 @@ class _AnalysisResultView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final breakdown = result.breakdown;
+    // breakdown 格式: {"group": 5, "private": 10} 表示会话数量
+    final groupCount = breakdown['group'] ?? 0;
+    final privateCount = breakdown['private'] ?? 0;
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -291,11 +294,11 @@ class _AnalysisResultView extends StatelessWidget {
             _StatCard(label: '覆盖会话', value: '${result.sessionCount}'),
             _StatCard(
               label: '群聊',
-              value: '${breakdown['group']?['messages'] ?? 0} 条',
+              value: '$groupCount 个',
             ),
             _StatCard(
               label: '私聊',
-              value: '${breakdown['single']?['messages'] ?? 0} 条',
+              value: '$privateCount 个',
             ),
           ],
         ),
@@ -306,7 +309,7 @@ class _AnalysisResultView extends StatelessWidget {
         ),
         const SizedBox(height: 12),
         SizedBox(
-          height: 200,
+          height: 220, // 增加高度以容纳数字标签
           child: _HourlyDistributionChart(data: result.hourlyDistribution),
         ),
         const SizedBox(height: 20),
@@ -331,48 +334,62 @@ class _AnalysisResultView extends StatelessWidget {
           DataColumn(label: Text('会话')),
           DataColumn(label: Text('类别')),
           DataColumn(label: Text('消息统计')),
-          DataColumn(label: Text('群聊参与度')),
+          DataColumn(label: Text('消息类型')),
+          DataColumn(label: Text('活跃天数')),
         ],
         rows: result.top.map((item) {
-          final category = item.category ?? item.sessionType ?? '--';
+          final category = item.sessionType ?? '--';
           final categoryLabel = category == 'group'
               ? '群聊'
-              : category == 'single'
-                  ? '单聊'
+              : category == 'private'
+                  ? '私聊'
                   : category;
           final sent = item.sentMessages ?? 0;
           final received = item.receivedMessages ?? 0;
-          final messageText = '${item.messages} 条，发送 $sent / 接收 $received 条';
-          final participants = item.participants ?? const [];
-          final bool isGroup = category == 'group' || item.sessionId.endsWith('@chatroom');
-          Widget participantCell = const Text('--');
-          if (isGroup && participants.isNotEmpty) {
-            final chips = participants.take(5).map((row) {
-              final name = (row['name'] as String?)?.trim();
-              final count = row['messages'] is num ? (row['messages'] as num).toInt() : 0;
-              final ratio = row['ratio'] is num ? (row['ratio'] as num).toDouble() : 0.0;
-              final ratioText = '${(ratio * 100).toStringAsFixed(ratio >= 0.1 ? 1 : 2)}%';
-              final label = '${name?.isEmpty ?? true ? '未命名' : name} $ratioText · $count 条';
-              return Chip(
-                label: Text(label),
-                visualDensity: VisualDensity.compact,
-              );
-            }).toList();
-            participantCell = SizedBox(
-              width: 320,
-              child: Wrap(
-                spacing: 6,
-                runSpacing: 6,
-                children: chips,
-              ),
-            );
-          }
+          final messageText = '${item.messages} 条\n发送 $sent / 接收 $received';
+          
+          // 消息类型统计
+          final textCount = item.textMessages ?? 0;
+          final imageCount = item.imageMessages ?? 0;
+          final voiceCount = item.voiceMessages ?? 0;
+          final videoCount = item.videoMessages ?? 0;
+          final otherCount = item.otherMessages ?? 0;
+          final typeText = '文本 $textCount\n图片 $imageCount / 语音 $voiceCount / 视频 $videoCount / 其他 $otherCount';
+          
+          // 活跃天数
+          final activeDays = item.activeDays ?? 0;
+
           return DataRow(
             cells: [
-              DataCell(Text(item.displayName)),
-              DataCell(Text(categoryLabel)),
+              DataCell(
+                SizedBox(
+                  width: 180,
+                  child: Text(
+                    item.displayName,
+                    overflow: TextOverflow.ellipsis,
+                    maxLines: 2,
+                  ),
+                ),
+              ),
+              DataCell(
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                  decoration: BoxDecoration(
+                    color: categoryLabel == '群聊' ? Colors.blue.shade100 : Colors.green.shade100,
+                    borderRadius: BorderRadius.circular(4),
+                  ),
+                  child: Text(
+                    categoryLabel,
+                    style: TextStyle(
+                      color: categoryLabel == '群聊' ? Colors.blue.shade800 : Colors.green.shade800,
+                      fontWeight: FontWeight.w500,
+                    ),
+                  ),
+                ),
+              ),
               DataCell(Text(messageText)),
-              DataCell(participantCell),
+              DataCell(Text(typeText, style: const TextStyle(fontSize: 12))),
+              DataCell(Text('$activeDays 天')),
             ],
           );
         }).toList(),
@@ -433,50 +450,60 @@ class _HourlyDistributionChart extends StatelessWidget {
     }
     return LayoutBuilder(
       builder: (context, constraints) {
-        final chartHeight = constraints.maxHeight - 28;
+        // 预留空间：底部标签24px，顶部数字16px
+        final chartHeight = constraints.maxHeight - 44;
+        final barMaxHeight = chartHeight.clamp(50.0, double.infinity);
         return Column(
+          mainAxisSize: MainAxisSize.min,
           children: [
-            SizedBox(
-              height: chartHeight,
+            Expanded(
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.end,
                 children: [
                   for (var i = 0; i < normalized.length; i++)
                     Expanded(
-                      child: Column(
-                        mainAxisAlignment: MainAxisAlignment.end,
-                        children: [
-                          if (normalized[i] > 0)
-                            Text(
-                              '${normalized[i]}',
-                              style: const TextStyle(fontSize: 10),
+                      child: Padding(
+                        padding: const EdgeInsets.symmetric(horizontal: 1),
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.end,
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            if (normalized[i] > 0)
+                              Text(
+                                '${normalized[i]}',
+                                style: const TextStyle(fontSize: 9),
+                                overflow: TextOverflow.visible,
+                              ),
+                            const SizedBox(height: 2),
+                            Container(
+                              height: barMaxHeight * (normalized[i] / maxValue).clamp(0.0, 1.0),
+                              decoration: BoxDecoration(
+                                color: Theme.of(context).colorScheme.primary.withOpacity(0.75),
+                                borderRadius: const BorderRadius.vertical(top: Radius.circular(4)),
+                              ),
                             ),
-                          Container(
-                            height: chartHeight * (normalized[i] / maxValue).clamp(0, 1),
-                            margin: const EdgeInsets.symmetric(horizontal: 1),
-                            decoration: BoxDecoration(
-                              color: Theme.of(context).colorScheme.primary.withOpacity(0.75),
-                              borderRadius: const BorderRadius.vertical(top: Radius.circular(4)),
-                            ),
-                          ),
-                        ],
+                          ],
+                        ),
                       ),
                     ),
                 ],
               ),
             ),
             const SizedBox(height: 4),
-            Row(
-              children: [
-                for (var i = 0; i < normalized.length; i++)
-                  Expanded(
-                    child: Text(
-                      i % 3 == 0 ? '${i.toString().padLeft(2, '0')}时' : '',
-                      style: const TextStyle(fontSize: 10, color: Colors.grey),
-                      textAlign: TextAlign.center,
+            SizedBox(
+              height: 20,
+              child: Row(
+                children: [
+                  for (var i = 0; i < normalized.length; i++)
+                    Expanded(
+                      child: Text(
+                        i % 3 == 0 ? '${i.toString().padLeft(2, '0')}时' : '',
+                        style: const TextStyle(fontSize: 10, color: Colors.grey),
+                        textAlign: TextAlign.center,
+                      ),
                     ),
-                  ),
-              ],
+                ],
+              ),
             ),
           ],
         );

@@ -1,0 +1,224 @@
+{
+  "session_id": "wxid_6a5po3hw8sbf12",
+  "session_name": "石榴居电竞酒店公寓",
+  "messages": [
+    {
+      "create_time": 1727779059,
+      "formatted_time": "2024-10-01 18:37:39",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1727779074,
+      "formatted_time": "2024-10-01 18:37:54",
+      "type": "文本消息",
+      "str_content": "您是几位入住",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1727780130,
+      "formatted_time": "2024-10-01 18:55:30",
+      "type": "文本消息",
+      "str_content": "两位",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727780156,
+      "formatted_time": "2024-10-01 18:55:56",
+      "type": "文本消息",
+      "str_content": "您把二位身份证号码姓名和手机号发一下",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1727786479,
+      "formatted_time": "2024-10-01 20:41:19",
+      "type": "文本消息",
+      "str_content": "徐昂 17865716165 370826200307194610\n汪奕彤 370802200402014824 19953741858",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727786665,
+      "formatted_time": "2024-10-01 20:44:25",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1727786668,
+      "formatted_time": "2024-10-01 20:44:28",
+      "type": "文本消息",
+      "str_content": "扫码核验好即可开锁",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1727786672,
+      "formatted_time": "2024-10-01 20:44:32",
+      "type": "位置消息",
+      "str_content": "[位置消息]",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1727803031,
+      "formatted_time": "2024-10-02 01:17:11",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727803039,
+      "formatted_time": "2024-10-02 01:17:19",
+      "type": "文本消息",
+      "str_content": "这个灯没法关？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727803265,
+      "formatted_time": "2024-10-02 01:21:05",
+      "type": "文本消息",
+      "str_content": "自动感应的哈",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1727803298,
+      "formatted_time": "2024-10-02 01:21:38",
+      "type": "文本消息",
+      "str_content": "这个是啥时候自动关",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727803314,
+      "formatted_time": "2024-10-02 01:21:54",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1727803317,
+      "formatted_time": "2024-10-02 01:21:57",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1727803327,
+      "formatted_time": "2024-10-02 01:22:07",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1727803349,
+      "formatted_time": "2024-10-02 01:22:29",
+      "type": "文本消息",
+      "str_content": "[捂脸]好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727880164,
+      "formatted_time": "2024-10-02 22:42:44",
+      "type": "文本消息",
+      "str_content": "明天麻烦帮收拾下房间哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1727880659,
+      "formatted_time": "2024-10-02 22:50:59",
+      "type": "文本消息",
+      "str_content": "嗯嗯好的哈",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1728009461,
+      "formatted_time": "2024-10-04 10:37:41",
+      "type": "文本消息",
+      "str_content": "您好，麻烦退房的时候跟我说一下，离开记得带好随身物品哈",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1728016144,
+      "formatted_time": "2024-10-04 12:29:04",
+      "type": "文本消息",
+      "str_content": "嗯嗯退房了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728016169,
+      "formatted_time": "2024-10-04 12:29:29",
+      "type": "文本消息",
+      "str_content": "好的，祝您旅途愉快一路顺风",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1728033740,
+      "formatted_time": "2024-10-04 17:22:20",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1728033741,
+      "formatted_time": "2024-10-04 17:22:21",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1728033781,
+      "formatted_time": "2024-10-04 17:23:01",
+      "type": "文本消息",
+      "str_content": "阿姨打扫过",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1728033783,
+      "formatted_time": "2024-10-04 17:23:03",
+      "type": "文本消息",
+      "str_content": "没有",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    },
+    {
+      "create_time": 1728034104,
+      "formatted_time": "2024-10-04 17:28:24",
+      "type": "文本消息",
+      "str_content": "嗯嗯好的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1728038682,
+      "formatted_time": "2024-10-04 18:44:42",
+      "type": "文本消息",
+      "str_content": "客官大人，请问入住还满意吗? 如果入住还满意的话，帮忙给小店点个五全星好评呗，多谢！\n\n下次您来可以直接给我发微信，给您优惠价格。\n\n海枯石烂，榴您安居。下次再见[玫瑰]",
+      "is_send": 0,
+      "sender_name": "石榴居电竞酒店公寓"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:31+08:00",
+  "message_count": 27
+}

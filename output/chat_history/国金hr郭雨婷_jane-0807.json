@@ -1,0 +1,144 @@
+{
+  "session_id": "jane-0807",
+  "session_name": "国金hr郭雨婷",
+  "messages": [
+    {
+      "create_time": 1730268679,
+      "formatted_time": "2024-10-30 14:11:19",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "国金hr郭雨婷"
+    },
+    {
+      "create_time": 1730269161,
+      "formatted_time": "2024-10-30 14:19:21",
+      "type": "文本消息",
+      "str_content": "老师好，我是金工组实习生徐昂，简历已经更新完毕，麻烦您那边查收下",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1730269165,
+      "formatted_time": "2024-10-30 14:19:25",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1730269204,
+      "formatted_time": "2024-10-30 14:20:04",
+      "type": "文本消息",
+      "str_content": "好的我看看",
+      "is_send": 0,
+      "sender_name": "国金hr郭雨婷"
+    },
+    {
+      "create_time": 1730269217,
+      "formatted_time": "2024-10-30 14:20:17",
+      "type": "文本消息",
+      "str_content": "OKK",
+      "is_send": 0,
+      "sender_name": "国金hr郭雨婷"
+    },
+    {
+      "create_time": 1730269271,
+      "formatted_time": "2024-10-30 14:21:11",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1730798485,
+      "formatted_time": "2024-11-05 17:21:25",
+      "type": "文本消息",
+      "str_content": "老师好，想请教下我的入职时间是9.20的话，是本月发薪还是次月发薪呢？还是远程不享受实习津贴？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1730798486,
+      "formatted_time": "2024-11-05 17:21:26",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1730798551,
+      "formatted_time": "2024-11-05 17:22:31",
+      "type": "文本消息",
+      "str_content": "因为你报上来的时间很晚",
+      "is_send": 0,
+      "sender_name": "国金hr郭雨婷"
+    },
+    {
+      "create_time": 1730798562,
+      "formatted_time": "2024-11-05 17:22:42",
+      "type": "文本消息",
+      "str_content": "已经错过了上一次算薪的节点",
+      "is_send": 0,
+      "sender_name": "国金hr郭雨婷"
+    },
+    {
+      "create_time": 1730798570,
+      "formatted_time": "2024-11-05 17:22:50",
+      "type": "文本消息",
+      "str_content": "所以得下个月补发",
+      "is_send": 0,
+      "sender_name": "国金hr郭雨婷"
+    },
+    {
+      "create_time": 1730798595,
+      "formatted_time": "2024-11-05 17:23:15",
+      "type": "文本消息",
+      "str_content": "嗯嗯明白了，谢谢老师[玫瑰]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1734335106,
+      "formatted_time": "2024-12-16 15:45:06",
+      "type": "文本消息",
+      "str_content": "你还是继续实习的是吧",
+      "is_send": 0,
+      "sender_name": "国金hr郭雨婷"
+    },
+    {
+      "create_time": 1734335112,
+      "formatted_time": "2024-12-16 15:45:12",
+      "type": "文本消息",
+      "str_content": "因为你的协议好像要到期了",
+      "is_send": 0,
+      "sender_name": "国金hr郭雨婷"
+    },
+    {
+      "create_time": 1734335181,
+      "formatted_time": "2024-12-16 15:46:21",
+      "type": "文本消息",
+      "str_content": "你的协议是20号到期",
+      "is_send": 0,
+      "sender_name": "国金hr郭雨婷"
+    },
+    {
+      "create_time": 1734335195,
+      "formatted_time": "2024-12-16 15:46:35",
+      "type": "文本消息",
+      "str_content": "嗯嗯对的老师，我这边还继续干",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1734335230,
+      "formatted_time": "2024-12-16 15:47:10",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "国金hr郭雨婷"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:26+08:00",
+  "message_count": 17
+}

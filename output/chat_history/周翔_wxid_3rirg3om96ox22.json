@@ -1,0 +1,64 @@
+{
+  "session_id": "wxid_3rirg3om96ox22",
+  "session_name": "周翔",
+  "messages": [
+    {
+      "create_time": 1756090353,
+      "formatted_time": "2025-08-25 10:52:33",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "周翔"
+    },
+    {
+      "create_time": 1756090353,
+      "formatted_time": "2025-08-25 10:52:33",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "周翔"
+    },
+    {
+      "create_time": 1756090364,
+      "formatted_time": "2025-08-25 10:52:44",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1756090384,
+      "formatted_time": "2025-08-25 10:53:04",
+      "type": "图文消息",
+      "str_content": "邀请你加入群聊",
+      "is_send": 0,
+      "sender_name": "周翔"
+    },
+    {
+      "create_time": 1756090959,
+      "formatted_time": "2025-08-25 11:02:39",
+      "type": "文本消息",
+      "str_content": "没事，充电没那么多钱[笑脸] 主要是想给你推这个群聊的\n每周二周六在3号楼下/麦当劳后门有电车维护点，你办完牌后在群里@後年 那个人办充电就行",
+      "is_send": 0,
+      "sender_name": "周翔"
+    },
+    {
+      "create_time": 1756090970,
+      "formatted_time": "2025-08-25 11:02:50",
+      "type": "文本消息",
+      "str_content": "开学快乐！加油！",
+      "is_send": 0,
+      "sender_name": "周翔"
+    },
+    {
+      "create_time": 1756091018,
+      "formatted_time": "2025-08-25 11:03:38",
+      "type": "文本消息",
+      "str_content": "多谢多谢！太感谢学姐了！学姐人美心善，一切顺利！！！[嘿哈][嘿哈]",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:22+08:00",
+  "message_count": 7
+}

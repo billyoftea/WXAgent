@@ -1,0 +1,64 @@
+{
+  "session_id": "wxid_yfrvwz3bus522",
+  "session_name": "许育豪 25 经济",
+  "messages": [
+    {
+      "create_time": 1757688924,
+      "formatted_time": "2025-09-12 22:55:24",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "许育豪 25 经济"
+    },
+    {
+      "create_time": 1757688924,
+      "formatted_time": "2025-09-12 22:55:24",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "许育豪 25 经济"
+    },
+    {
+      "create_time": 1757688932,
+      "formatted_time": "2025-09-12 22:55:32",
+      "type": "文本消息",
+      "str_content": "halo！",
+      "is_send": 0,
+      "sender_name": "许育豪 25 经济"
+    },
+    {
+      "create_time": 1757688940,
+      "formatted_time": "2025-09-12 22:55:40",
+      "type": "文本消息",
+      "str_content": "俺是25 经济 许育豪",
+      "is_send": 0,
+      "sender_name": "许育豪 25 经济"
+    },
+    {
+      "create_time": 1757688945,
+      "formatted_time": "2025-09-12 22:55:45",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "许育豪 25 经济"
+    },
+    {
+      "create_time": 1757689112,
+      "formatted_time": "2025-09-12 22:58:32",
+      "type": "文本消息",
+      "str_content": "hihi！我是25数金徐昂~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1757689629,
+      "formatted_time": "2025-09-12 23:07:09",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "许育豪 25 经济"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:26+08:00",
+  "message_count": 7
+}

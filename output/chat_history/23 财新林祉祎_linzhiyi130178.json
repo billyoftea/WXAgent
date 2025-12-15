@@ -1,0 +1,56 @@
+{
+  "session_id": "linzhiyi130178",
+  "session_name": "23 财新林祉祎",
+  "messages": [
+    {
+      "create_time": 1756255900,
+      "formatted_time": "2025-08-27 08:51:40",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "23 财新林祉祎"
+    },
+    {
+      "create_time": 1756255900,
+      "formatted_time": "2025-08-27 08:51:40",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "23 财新林祉祎"
+    },
+    {
+      "create_time": 1756255962,
+      "formatted_time": "2025-08-27 08:52:42",
+      "type": "文本消息",
+      "str_content": "太牛了学姐！我在您右后边第二排[呲牙]当时一入场就感觉在推文里见过学姐[嘿哈]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1756255977,
+      "formatted_time": "2025-08-27 08:52:57",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "23 财新林祉祎"
+    },
+    {
+      "create_time": 1756255979,
+      "formatted_time": "2025-08-27 08:52:59",
+      "type": "文本消息",
+      "str_content": "我的荣幸",
+      "is_send": 0,
+      "sender_name": "23 财新林祉祎"
+    },
+    {
+      "create_time": 1756256013,
+      "formatted_time": "2025-08-27 08:53:33",
+      "type": "文本消息",
+      "str_content": "向学姐学习🫡",
+      "is_send": 1,
+      "sender_name": "自己"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:25+08:00",
+  "message_count": 6
+}

@@ -1,0 +1,80 @@
+{
+  "session_id": "wxid_u34j4i75y26t22",
+  "session_name": "曹乃鸣",
+  "messages": [
+    {
+      "create_time": 1763822772,
+      "formatted_time": "2025-11-22 22:46:12",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "曹乃鸣"
+    },
+    {
+      "create_time": 1763822772,
+      "formatted_time": "2025-11-22 22:46:12",
+      "type": "文本消息",
+      "str_content": "我通过了你的朋友验证请求，现在我们可以开始聊天了",
+      "is_send": 0,
+      "sender_name": "曹乃鸣"
+    },
+    {
+      "create_time": 1763822779,
+      "formatted_time": "2025-11-22 22:46:19",
+      "type": "文本消息",
+      "str_content": "哈喽！",
+      "is_send": 0,
+      "sender_name": "曹乃鸣"
+    },
+    {
+      "create_time": 1763822785,
+      "formatted_time": "2025-11-22 22:46:25",
+      "type": "文本消息",
+      "str_content": "经济曹乃鸣",
+      "is_send": 0,
+      "sender_name": "曹乃鸣"
+    },
+    {
+      "create_time": 1763824349,
+      "formatted_time": "2025-11-22 23:12:29",
+      "type": "文本消息",
+      "str_content": "兄弟",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763824351,
+      "formatted_time": "2025-11-22 23:12:31",
+      "type": "文本消息",
+      "str_content": "你校园卡丢了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763824354,
+      "formatted_time": "2025-11-22 23:12:34",
+      "type": "文本消息",
+      "str_content": "放113那边了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1763824397,
+      "formatted_time": "2025-11-22 23:13:17",
+      "type": "文本消息",
+      "str_content": "好的好的！",
+      "is_send": 0,
+      "sender_name": "曹乃鸣"
+    },
+    {
+      "create_time": 1763824417,
+      "formatted_time": "2025-11-22 23:13:37",
+      "type": "文本消息",
+      "str_content": "谢谢兄弟[玫瑰]",
+      "is_send": 0,
+      "sender_name": "曹乃鸣"
+    }
+  ],
+  "export_time": "2025-12-15T00:08:17+08:00",
+  "message_count": 9
+}
