@@ -5641,8 +5641,32 @@
       "str_content": "你别拉了我们宿舍gpa",
       "is_send": 1,
       "sender_name": "自己"
+    },
+    {
+      "create_time": 1765852094,
+      "formatted_time": "2025-12-16 10:28:14",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "莫孜晗"
+    },
+    {
+      "create_time": 1765852165,
+      "formatted_time": "2025-12-16 10:29:25",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765852268,
+      "formatted_time": "2025-12-16 10:31:08",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-15T00:08:34+08:00",
-  "message_count": 705
+  "export_time": "2025-12-16T22:45:54+08:00",
+  "message_count": 708
 }

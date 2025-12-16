@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart' show ScrollDirection;
 import 'package:flutter/services.dart';
 import 'package:intl/intl.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import '../app.dart';
 import '../models/models.dart';
-import '../services/wx_agent_api.dart';
 import '../widgets/page_container.dart';
 import '../widgets/section_card.dart';
 
@@ -19,32 +19,56 @@ class SummaryPage extends StatefulWidget {
 }
 
 class _SummaryPageState extends State<SummaryPage> {
-  final TextEditingController _promptCtrl = TextEditingController();
-  final ScrollController _streamScrollCtrl = ScrollController(); // 流式输出滚动控制器
+  static const String _defaultChunkPrompt = '''
+请分别总结以下微信群聊天记录的主要内容和讨论话题。
+注意：以下文本包含来自不同群聊的消息，每个群聊用【群聊：群名】的格式标记，请按群聊分别总结。
+
+{{content}}
+
+要求：
+1. 用中文总结
+2. 分聊天对象进行总结，同一个群聊或者同一个聊天记录放在一起总结。
+3. 总结出主要话题和讨论内容（用编号列出，并附上时间和讨论人（如果必要））
+4. 提取出重要信息（如招聘信息、活动信息等），并注意引用原文！
+5. 概括参与者的主要观点或反应
+6. 标出最活跃的话题和讨论热度''';
+
+  static const String _defaultFinalPrompt = '''
+{{intro}}
+
+{{summaries}}
+
+要求：
+1. 按群聊/话题重新组织内容，去掉重复叙述，但要保留所有关键细节、时间、人物与数量。
+2. 识别跨批次连续的讨论并合并，补全上下文。
+3. 输出 Markdown，包含：概览、按群聊的详细总结、关键行动项/待办/风险。''';
+
+  final TextEditingController _chunkPromptCtrl = TextEditingController();
+  final TextEditingController _finalPromptCtrl = TextEditingController();
+  final ScrollController _streamScrollCtrl = ScrollController();
+
   bool _useCustomPrompt = false;
   String? _startDate;
   String? _endDate;
   final Set<String> _selectedSessions = {};
   List<SessionMeta> _sessions = const [];
   bool _loadingSessions = false;
+
   bool _running = false;
   String? _resultContent;
   String? _summaryPath;
   String? _error;
 
-  // 后端返回的统计信息
   int? _totalMessages;
   int? _totalSessions;
   int? _chunkCount;
   String? _summaryMode;
-  List<String>? _processLogs; // 处理过程日志
 
-  // 流式输出状态
-  String _streamLog = ''; // 流式日志
-  String _streamAiOutput = ''; // AI 流式输出
-  int _currentStep = 0; // 当前步骤
-  int _totalSteps = 6; // 总步骤数
-  bool _userScrolling = false; // 用户是否正在手动滚动
+  String _streamLog = '';
+  String _streamAiOutput = '';
+  int _currentStep = 0;
+  int _totalSteps = 6;
+  bool _userScrolling = false;
 
   List<SummaryHistoryEntry> _history = const [];
   SummaryHistoryEntry? _selectedHistory;
@@ -53,13 +77,16 @@ class _SummaryPageState extends State<SummaryPage> {
   @override
   void initState() {
     super.initState();
+    _chunkPromptCtrl.text = _defaultChunkPrompt;
+    _finalPromptCtrl.text = _defaultFinalPrompt;
     _loadSessions();
     _loadHistory();
   }
 
   @override
   void dispose() {
-    _promptCtrl.dispose();
+    _chunkPromptCtrl.dispose();
+    _finalPromptCtrl.dispose();
     _streamScrollCtrl.dispose();
     super.dispose();
   }
@@ -93,74 +120,122 @@ class _SummaryPageState extends State<SummaryPage> {
   }
 
   Future<void> _loadSessions() async {
-    setState(() {
-      _loadingSessions = true;
-    });
+    setState(() => _loadingSessions = true);
     try {
       final sessions = await widget.controller.api.listSessions();
-      setState(() {
-        _sessions = sessions;
-      });
+      setState(() => _sessions = sessions);
     } finally {
-      setState(() {
-        _loadingSessions = false;
-      });
+      if (mounted) {
+        setState(() => _loadingSessions = false);
+      }
     }
   }
 
   Future<void> _loadHistory() async {
-    setState(() {
-      _historyLoading = true;
-    });
+    setState(() => _historyLoading = true);
     try {
       final entries = await widget.controller.api.listSummaryHistory();
+      // 去重后按修改时间倒序
+      final dedup = <String, SummaryHistoryEntry>{};
+      for (final item in entries) {
+        dedup[item.path] = item;
+      }
+      final list = dedup.values.toList();
+      list.sort((a, b) {
+        final left = b.modified ?? '';
+        final right = a.modified ?? '';
+        return left.compareTo(right);
+      });
       setState(() {
-        _history = entries;
+        _history = list;
+        if (_selectedHistory == null && list.isNotEmpty) {
+          _selectedHistory = list.first;
+        } else if (_selectedHistory != null &&
+            !_history.any((item) => item.path == _selectedHistory!.path)) {
+          _selectedHistory = list.isNotEmpty ? list.first : null;
+        }
+      });
+      if (_selectedHistory != null) {
+        await _loadHistoryContent(_selectedHistory!);
+      }
+    } finally {
+      if (mounted) {
+        setState(() => _historyLoading = false);
+      }
+    }
+  }
+
+  Future<void> _loadHistoryContent(SummaryHistoryEntry entry) async {
+    setState(() => _historyLoading = true);
+    try {
+      final content = await widget.controller.api.readSummaryHistory(
+        entry.path,
+      );
+      setState(() {
+        _resultContent = content;
+        _summaryPath = entry.path;
+        _selectedHistory = entry;
       });
     } finally {
-      setState(() {
-        _historyLoading = false;
-      });
+      if (mounted) {
+        setState(() => _historyLoading = false);
+      }
     }
   }
 
   Future<void> _runSummary() async {
+    if (_useCustomPrompt) {
+      final chunk = _chunkPromptCtrl.text;
+      final finalPrompt = _finalPromptCtrl.text;
+      if (!chunk.contains('{{content}}')) {
+        setState(() {
+          _error = '分段提示词必须包含 {{content}} 占位符（用于放入分段内容）。';
+        });
+        return;
+      }
+      if (!finalPrompt.contains('{{intro}}') ||
+          !finalPrompt.contains('{{summaries}}')) {
+        setState(() {
+          _error = '最终提示词必须同时包含 {{intro}} 与 {{summaries}} 占位符。';
+        });
+        return;
+      }
+    }
     setState(() {
       _running = true;
       _error = null;
-      // 清空旧的统计信息和流式输出
       _totalMessages = null;
       _totalSessions = null;
       _chunkCount = null;
       _summaryMode = null;
-      _processLogs = null;
       _streamLog = '';
       _streamAiOutput = '';
       _currentStep = 0;
+      _totalSteps = 6;
       _resultContent = null;
-      _userScrolling = false; // 重置滚动状态
+      _summaryPath = null;
+      _userScrolling = false;
     });
 
     try {
-      // 使用流式 API
       String finalContent = '';
-      String? outputPath;
-
       await for (final event in widget.controller.api.runSummaryStream(
         startDate: _startDate,
         endDate: _endDate,
         sessions: _selectedSessions.isEmpty ? null : _selectedSessions.toList(),
+        chunkPrompt: _useCustomPrompt ? _chunkPromptCtrl.text : null,
+        finalPrompt: _useCustomPrompt ? _finalPromptCtrl.text : null,
       )) {
         if (!mounted) return;
-
         switch (event.type) {
           case 'log':
             setState(() {
-              _streamLog += '${event.content}\n';
+              if (event.content.isNotEmpty) {
+                _streamLog += '${event.content}\n';
+              }
               _currentStep = event.step ?? _currentStep;
               _totalSteps = event.total ?? _totalSteps;
             });
-            // 自动滚动到底部
             _scrollToBottom();
             break;
           case 'ai_chunk':
@@ -173,71 +248,78 @@ class _SummaryPageState extends State<SummaryPage> {
           case 'progress':
             setState(() {
               _currentStep = event.step ?? _currentStep;
+              _totalSteps = event.total ?? _totalSteps;
             });
-            break;
-          case 'done':
-            // 分析完成
             break;
           case 'error':
             setState(() {
-              _error = event.content;
+              _error = event.content.isNotEmpty
+                  ? event.content
+                  : event.payload?['message']?.toString();
+            });
+            return;
+          case 'result':
+            setState(() {
+              finalContent = event.content.isNotEmpty
+                  ? event.content
+                  : _streamAiOutput;
+              final payload = event.payload ?? const {};
+              _summaryPath = payload['output_path'] as String? ?? _summaryPath;
+              _totalMessages = _asInt(payload['total_messages']);
+              _totalSessions = _asInt(payload['total_sessions']);
+              _chunkCount = _asInt(payload['chunk_count']);
+              _summaryMode = payload['mode'] as String? ?? _summaryMode;
             });
             break;
-          case 'result':
-            // 解析最终结果（result 事件的 content 是 JSON 数据）
-            // 但我们在 SSE 中已经逐步发送了 content，这里用于获取统计信息
-            // event.content 可能包含完整结果的 JSON
-            // 由于 SSE result 事件格式，我们需要在服务端已包含这些信息
-            setState(() {
-              // 最终内容通过 ai_chunk 已累积，这里设置结果
-              finalContent = _streamAiOutput;
-            });
+          default:
             break;
         }
       }
 
-      // 设置最终结果
       setState(() {
-        _resultContent = finalContent.isNotEmpty ? finalContent : _streamAiOutput;
-        _summaryMode = 'merged';
+        _resultContent = finalContent.isNotEmpty
+            ? finalContent
+            : _streamAiOutput;
+        _summaryMode = _summaryMode ?? 'merged';
       });
 
       await _loadHistory();
       if (!mounted) return;
       ScaffoldMessenger.of(
         context,
-      ).showSnackBar(const SnackBar(content: Text('AI 总结完成')));
+      ).showSnackBar(const SnackBar(content: Text('总结完成')));
     } catch (err) {
-      setState(() {
-        _error = err.toString();
-      });
+      setState(() => _error = err.toString());
     } finally {
-      setState(() {
-        _running = false;
-      });
+      if (mounted) {
+        setState(() => _running = false);
+      }
     }
   }
 
+  int? _asInt(dynamic value) {
+    if (value is int) return value;
+    if (value is double) return value.toInt();
+    if (value is String) return int.tryParse(value);
+    return null;
+  }
+
   void _scrollToBottom() {
-    // 如果用户正在手动滚动，不自动滚动
     if (_userScrolling) return;
-    
     WidgetsBinding.instance.addPostFrameCallback((_) {
       if (_streamScrollCtrl.hasClients) {
         _streamScrollCtrl.animateTo(
           _streamScrollCtrl.position.maxScrollExtent,
-          duration: const Duration(milliseconds: 100),
+          duration: const Duration(milliseconds: 120),
           curve: Curves.easeOut,
         );
       }
     });
   }
 
-  // 检查是否接近底部（用于判断是否恢复自动滚动）
   bool _isNearBottom() {
     if (!_streamScrollCtrl.hasClients) return true;
     final position = _streamScrollCtrl.position;
-    // 距离底部 50 像素以内认为是在底部
     return position.maxScrollExtent - position.pixels < 50;
   }
 
@@ -259,7 +341,7 @@ class _SummaryPageState extends State<SummaryPage> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       const Text(
-                        '选择会话',
+                        'Select conversations',
                         style: TextStyle(
                           fontSize: 18,
                           fontWeight: FontWeight.w600,
@@ -297,10 +379,8 @@ class _SummaryPageState extends State<SummaryPage> {
                         mainAxisAlignment: MainAxisAlignment.end,
                         children: [
                           TextButton(
-                            onPressed: () {
-                              setModalState(() => temp.clear());
-                            },
-                            child: const Text('清空选择'),
+                            onPressed: () => setModalState(temp.clear),
+                            child: const Text('Clear'),
                           ),
                           const SizedBox(width: 12),
                           ElevatedButton(
@@ -312,7 +392,7 @@ class _SummaryPageState extends State<SummaryPage> {
                               });
                               Navigator.pop(context);
                             },
-                            child: const Text('确定'),
+                            child: const Text('Apply'),
                           ),
                         ],
                       ),
@@ -327,26 +407,6 @@ class _SummaryPageState extends State<SummaryPage> {
     );
   }
 
-  Future<void> _loadHistoryContent(SummaryHistoryEntry entry) async {
-    setState(() {
-      _historyLoading = true;
-    });
-    try {
-      final content = await widget.controller.api.readSummaryHistory(
-        entry.path,
-      );
-      setState(() {
-        _resultContent = content;
-        _summaryPath = entry.path;
-        _selectedHistory = entry;
-      });
-    } finally {
-      setState(() {
-        _historyLoading = false;
-      });
-    }
-  }
-
   Future<void> _copyResult() async {
     final text = _resultContent;
     if (text == null || text.isEmpty) return;
@@ -354,7 +414,7 @@ class _SummaryPageState extends State<SummaryPage> {
     if (!mounted) return;
     ScaffoldMessenger.of(
       context,
-    ).showSnackBar(const SnackBar(content: Text('已复制总结内容')));
+    ).showSnackBar(const SnackBar(content: Text('Copied to clipboard')));
   }
 
   Future<void> _openSummaryFile() async {
@@ -372,22 +432,29 @@ class _SummaryPageState extends State<SummaryPage> {
       ),
       child: Text(
         '$label: $value',
-        style: TextStyle(
-          fontSize: 12,
-          color: Colors.blue.shade700,
-        ),
+        style: TextStyle(fontSize: 12, color: Colors.blue.shade700),
       ),
     );
   }
 
   @override
   Widget build(BuildContext context) {
+    SummaryHistoryEntry? validSelectedHistory;
+    if (_selectedHistory != null) {
+      for (final item in _history) {
+        if (item.path == _selectedHistory!.path) {
+          validSelectedHistory = item;
+          break;
+        }
+      }
+    }
+
     return PageContainer(
       title: '聊天记录 AI 总结',
-      subtitle: '选择会话与时间范围，使用默认或自定义 Prompt 调用大模型生成 Markdown 总结，并支持历史记录管理。',
+      subtitle: '对导出的聊天记录生成 Markdown 报告，可使用默认提示词或自定义分段/最终提示词。',
       children: [
         SectionCard(
-          title: '过滤条件与提示词',
+          title: '筛选与提示词',
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
@@ -431,56 +498,81 @@ class _SummaryPageState extends State<SummaryPage> {
                         : const Icon(Icons.checklist),
                     label: Text(
                       _selectedSessions.isEmpty
-                          ? '选择会话（可多选）'
-                          : '已选 ${_selectedSessions.length} 个会话',
+                          ? '选择需要总结的会话'
+                          : '已选择 ${_selectedSessions.length} 个',
                     ),
                   ),
                   if (_selectedSessions.isNotEmpty)
                     TextButton(
                       onPressed: () =>
                           setState(() => _selectedSessions.clear()),
-                      child: const Text('清空会话'),
+                      child: const Text('清空选择'),
                     ),
                 ],
               ),
               const SizedBox(height: 8),
               Text(
-                '提示：未选择任何会话时，将默认使用全部会话生成总结。',
+                '不选择会话时将汇总全部可用聊天记录。',
                 style: TextStyle(color: Colors.grey.shade600, fontSize: 12),
               ),
               const SizedBox(height: 16),
-              Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  RadioListTile<bool>(
-                    value: false,
-                    groupValue: _useCustomPrompt,
-                    onChanged: (value) =>
-                        setState(() => _useCustomPrompt = value ?? false),
-                    title: const Text('使用默认总结提示词'),
-                  ),
-                  RadioListTile<bool>(
-                    value: true,
-                    groupValue: _useCustomPrompt,
-                    onChanged: (value) =>
-                        setState(() => _useCustomPrompt = value ?? false),
-                    title: const Text('使用自定义提示词'),
-                  ),
-                  AnimatedCrossFade(
-                    firstChild: const SizedBox.shrink(),
-                    secondChild: TextField(
-                      controller: _promptCtrl,
-                      maxLines: 4,
+              const Text('提示词', style: TextStyle(fontWeight: FontWeight.w600)),
+              RadioListTile<bool>(
+                value: false,
+                groupValue: _useCustomPrompt,
+                onChanged: (value) =>
+                    setState(() => _useCustomPrompt = value ?? false),
+                title: const Text('使用默认提示词'),
+              ),
+              RadioListTile<bool>(
+                value: true,
+                groupValue: _useCustomPrompt,
+                onChanged: (value) =>
+                    setState(() => _useCustomPrompt = value ?? false),
+                title: const Text('自定义提示词'),
+              ),
+              AnimatedCrossFade(
+                firstChild: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: const [
+                    _PromptPreview(
+                      title: '默认分段提示词',
+                      content: _defaultChunkPrompt,
+                    ),
+                    SizedBox(height: 8),
+                    _PromptPreview(
+                      title: '默认最终提示词',
+                      content: _defaultFinalPrompt,
+                    ),
+                  ],
+                ),
+                secondChild: Column(
+                  children: [
+                    TextField(
+                      controller: _chunkPromptCtrl,
+                      maxLines: 6,
                       decoration: const InputDecoration(
-                        hintText: '输入自定义提示词，例如“围绕 AI 相关的对话生成总结”。',
+                        labelText: '分段提示词',
+                        hintText:
+                            '占位符：{{chunk_num}}、{{chunk_total}}、{{content}}',
                       ),
                     ),
-                    crossFadeState: _useCustomPrompt
-                        ? CrossFadeState.showSecond
-                        : CrossFadeState.showFirst,
-                    duration: const Duration(milliseconds: 300),
-                  ),
-                ],
+                    const SizedBox(height: 12),
+                    TextField(
+                      controller: _finalPromptCtrl,
+                      maxLines: 6,
+                      decoration: const InputDecoration(
+                        labelText: '最终提示词',
+                        hintText:
+                            '占位符：{{intro}}、{{summaries}}、{{summary_count}}',
+                      ),
+                    ),
+                  ],
+                ),
+                crossFadeState: _useCustomPrompt
+                    ? CrossFadeState.showSecond
+                    : CrossFadeState.showFirst,
+                duration: const Duration(milliseconds: 200),
               ),
               if (_error != null) ...[
                 const SizedBox(height: 12),
@@ -505,10 +597,10 @@ class _SummaryPageState extends State<SummaryPage> {
           ),
         ),
         SectionCard(
-          title: '当前总结 / 历史记录',
+          title: '进度与历史',
           actions: [
             IconButton(
-              tooltip: '刷新历史记录',
+              tooltip: '刷新历史列表',
               onPressed: _historyLoading ? null : _loadHistory,
               icon: _historyLoading
                   ? const SizedBox(
@@ -524,7 +616,7 @@ class _SummaryPageState extends State<SummaryPage> {
               icon: const Icon(Icons.copy_all),
             ),
             IconButton(
-              tooltip: '打开总结文件',
+              tooltip: '打开文件',
               onPressed: _summaryPath == null ? null : _openSummaryFile,
               icon: const Icon(Icons.folder_open),
             ),
@@ -533,8 +625,8 @@ class _SummaryPageState extends State<SummaryPage> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               DropdownButtonFormField<SummaryHistoryEntry>(
-                value: _selectedHistory,
-                decoration: const InputDecoration(labelText: '查看历史总结'),
+                value: validSelectedHistory,
+                decoration: const InputDecoration(labelText: '历史总结'),
                 items: _history
                     .map(
                       (entry) => DropdownMenuItem(
@@ -549,8 +641,10 @@ class _SummaryPageState extends State<SummaryPage> {
                   }
                 },
               ),
-              // 显示后端返回的统计信息
-              if (_totalMessages != null || _totalSessions != null || _chunkCount != null) ...[
+              if (_totalMessages != null ||
+                  _totalSessions != null ||
+                  _chunkCount != null ||
+                  _summaryMode != null) ...[
                 const SizedBox(height: 12),
                 Container(
                   padding: const EdgeInsets.all(12),
@@ -564,7 +658,7 @@ class _SummaryPageState extends State<SummaryPage> {
                       const Icon(Icons.analytics, size: 20, color: Colors.blue),
                       const SizedBox(width: 8),
                       Text(
-                        '分析统计: ',
+                        '统计',
                         style: TextStyle(
                           fontWeight: FontWeight.w600,
                           color: Colors.blue.shade800,
@@ -572,73 +666,30 @@ class _SummaryPageState extends State<SummaryPage> {
                       ),
                       if (_totalMessages != null) ...[
                         const SizedBox(width: 8),
-                        _buildStatChip('消息', '$_totalMessages 条'),
+                        _buildStatChip('消息数', '$_totalMessages'),
                       ],
                       if (_totalSessions != null) ...[
                         const SizedBox(width: 8),
-                        _buildStatChip('会话', '$_totalSessions 个'),
+                        _buildStatChip('会话数', '$_totalSessions'),
                       ],
                       if (_chunkCount != null && _chunkCount! > 0) ...[
                         const SizedBox(width: 8),
-                        _buildStatChip('分段', '$_chunkCount 段'),
+                        _buildStatChip('分段', '$_chunkCount'),
                       ],
                       if (_summaryMode != null) ...[
                         const SizedBox(width: 8),
-                        _buildStatChip('模式', _summaryMode == 'merged' ? '合并分析' : '逐会话'),
+                        _buildStatChip(
+                          '模式',
+                          _summaryMode == 'merged' ? '跨会话合并' : '逐会话',
+                        ),
                       ],
                     ],
                   ),
                 ),
               ],
-              // 显示处理过程日志
-              if (_processLogs != null && _processLogs!.isNotEmpty) ...[
-                const SizedBox(height: 12),
-                ExpansionTile(
-                  title: Row(
-                    children: [
-                      Icon(Icons.terminal, size: 20, color: Colors.green.shade700),
-                      const SizedBox(width: 8),
-                      Text(
-                        '处理日志 (${_processLogs!.length} 条)',
-                        style: TextStyle(
-                          fontWeight: FontWeight.w600,
-                          color: Colors.green.shade800,
-                        ),
-                      ),
-                    ],
-                  ),
-                  tilePadding: const EdgeInsets.symmetric(horizontal: 12),
-                  backgroundColor: Colors.green.shade50,
-                  collapsedBackgroundColor: Colors.green.shade50,
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(8),
-                    side: BorderSide(color: Colors.green.shade200),
-                  ),
-                  collapsedShape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(8),
-                    side: BorderSide(color: Colors.green.shade200),
-                  ),
-                  children: [
-                    Container(
-                      width: double.infinity,
-                      padding: const EdgeInsets.all(12),
-                      constraints: const BoxConstraints(maxHeight: 200),
-                      child: SingleChildScrollView(
-                        child: SelectableText(
-                          _processLogs!.join('\n'),
-                          style: TextStyle(
-                            fontFamily: 'monospace',
-                            fontSize: 12,
-                            color: Colors.green.shade900,
-                          ),
-                        ),
-                      ),
-                    ),
-                  ],
-                ),
-              ],
-              // 流式输出显示区域（运行中或有流式输出时显示）
-              if (_running || _streamLog.isNotEmpty || _streamAiOutput.isNotEmpty) ...[
+              if (_running ||
+                  _streamLog.isNotEmpty ||
+                  _streamAiOutput.isNotEmpty) ...[
                 const SizedBox(height: 12),
                 Container(
                   decoration: BoxDecoration(
@@ -649,9 +700,11 @@ class _SummaryPageState extends State<SummaryPage> {
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      // 标题栏
                       Container(
-                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+                        padding: const EdgeInsets.symmetric(
+                          horizontal: 12,
+                          vertical: 8,
+                        ),
                         decoration: BoxDecoration(
                           color: Colors.grey.shade800,
                           borderRadius: const BorderRadius.only(
@@ -672,13 +725,17 @@ class _SummaryPageState extends State<SummaryPage> {
                               ),
                               const SizedBox(width: 8),
                             ] else ...[
-                              const Icon(Icons.check_circle, size: 14, color: Colors.green),
+                              const Icon(
+                                Icons.check_circle,
+                                size: 14,
+                                color: Colors.green,
+                              ),
                               const SizedBox(width: 8),
                             ],
                             Text(
-                              _running 
-                                  ? '处理中... (步骤 $_currentStep/$_totalSteps)'
-                                  : '处理完成',
+                              _running
+                                  ? '处理中... ($_currentStep/$_totalSteps)'
+                                  : '已完成',
                               style: const TextStyle(
                                 color: Colors.white,
                                 fontWeight: FontWeight.w500,
@@ -686,12 +743,18 @@ class _SummaryPageState extends State<SummaryPage> {
                               ),
                             ),
                             const Spacer(),
-                            if (!_running && (_streamLog.isNotEmpty || _streamAiOutput.isNotEmpty))
+                            if (!_running &&
+                                (_streamLog.isNotEmpty ||
+                                    _streamAiOutput.isNotEmpty))
                               IconButton(
-                                icon: const Icon(Icons.clear, size: 16, color: Colors.grey),
+                                icon: const Icon(
+                                  Icons.clear,
+                                  size: 16,
+                                  color: Colors.grey,
+                                ),
                                 padding: EdgeInsets.zero,
                                 constraints: const BoxConstraints(),
-                                tooltip: '清除输出',
+                                tooltip: '清除日志',
                                 onPressed: () {
                                   setState(() {
                                     _streamLog = '';
@@ -702,7 +765,6 @@ class _SummaryPageState extends State<SummaryPage> {
                           ],
                         ),
                       ),
-                      // 内容区域
                       Stack(
                         children: [
                           Container(
@@ -710,63 +772,58 @@ class _SummaryPageState extends State<SummaryPage> {
                             padding: const EdgeInsets.all(12),
                             child: NotificationListener<ScrollNotification>(
                               onNotification: (notification) {
-                                if (notification is ScrollStartNotification) {
-                                  // 用户开始滚动
-                                  if (notification.dragDetails != null) {
-                                    setState(() {
-                                      _userScrolling = true;
-                                    });
-                                  }
-                                } else if (notification is ScrollEndNotification) {
-                                  // 滚动结束，检查是否在底部附近
+                                if (notification is UserScrollNotification &&
+                                    notification.direction !=
+                                        ScrollDirection.idle) {
+                                  setState(() => _userScrolling = true);
+                                } else if (notification
+                                    is ScrollEndNotification) {
                                   if (_isNearBottom()) {
-                                setState(() {
-                                  _userScrolling = false;
-                                });
-                              }
-                            }
-                            return false;
-                          },
-                          child: SingleChildScrollView(
-                            controller: _streamScrollCtrl,
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                // 日志输出
-                                if (_streamLog.isNotEmpty)
-                                  SelectableText(
-                                    _streamLog,
-                                    style: TextStyle(
-                                      fontFamily: 'monospace',
-                                      fontSize: 11,
-                                      color: Colors.grey.shade400,
-                                    ),
-                                  ),
-                                // AI 输出
-                                if (_streamAiOutput.isNotEmpty) ...[
-                                  if (_streamLog.isNotEmpty) const SizedBox(height: 8),
-                                  Container(
-                                    padding: const EdgeInsets.all(8),
-                                    decoration: BoxDecoration(
-                                      color: Colors.grey.shade800,
-                                      borderRadius: BorderRadius.circular(4),
-                                    ),
-                                    child: SelectableText(
-                                      _streamAiOutput,
-                                      style: const TextStyle(
-                                        fontFamily: 'monospace',
-                                        fontSize: 12,
-                                        color: Colors.greenAccent,
+                                    setState(() => _userScrolling = false);
+                                  }
+                                }
+                                return false;
+                              },
+                              child: SingleChildScrollView(
+                                controller: _streamScrollCtrl,
+                                child: Column(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  children: [
+                                    if (_streamLog.isNotEmpty)
+                                      SelectableText(
+                                        _streamLog,
+                                        style: TextStyle(
+                                          fontFamily: 'monospace',
+                                          fontSize: 11,
+                                          color: Colors.grey.shade400,
+                                        ),
                                       ),
-                                    ),
-                                  ),
-                                ],
-                              ],
+                                    if (_streamAiOutput.isNotEmpty) ...[
+                                      if (_streamLog.isNotEmpty)
+                                        const SizedBox(height: 8),
+                                      Container(
+                                        padding: const EdgeInsets.all(8),
+                                        decoration: BoxDecoration(
+                                          color: Colors.grey.shade800,
+                                          borderRadius: BorderRadius.circular(
+                                            4,
+                                          ),
+                                        ),
+                                        child: SelectableText(
+                                          _streamAiOutput,
+                                          style: const TextStyle(
+                                            fontFamily: 'monospace',
+                                            fontSize: 12,
+                                            color: Colors.greenAccent,
+                                          ),
+                                        ),
+                                      ),
+                                    ],
+                                  ],
+                                ),
+                              ),
                             ),
                           ),
-                        ),
-                          ),
-                          // 回到底部按钮（用户向上滚动时显示）
                           if (_userScrolling && _running)
                             Positioned(
                               right: 8,
@@ -777,21 +834,29 @@ class _SummaryPageState extends State<SummaryPage> {
                                 child: InkWell(
                                   borderRadius: BorderRadius.circular(20),
                                   onTap: () {
-                                    setState(() {
-                                      _userScrolling = false;
-                                    });
+                                    setState(() => _userScrolling = false);
                                     _scrollToBottom();
                                   },
                                   child: const Padding(
-                                    padding: EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                                    padding: EdgeInsets.symmetric(
+                                      horizontal: 12,
+                                      vertical: 6,
+                                    ),
                                     child: Row(
                                       mainAxisSize: MainAxisSize.min,
                                       children: [
-                                        Icon(Icons.arrow_downward, size: 14, color: Colors.white),
+                                        Icon(
+                                          Icons.arrow_downward,
+                                          size: 14,
+                                          color: Colors.white,
+                                        ),
                                         SizedBox(width: 4),
                                         Text(
                                           '回到底部',
-                                          style: TextStyle(color: Colors.white, fontSize: 12),
+                                          style: TextStyle(
+                                            color: Colors.white,
+                                            fontSize: 12,
+                                          ),
                                         ),
                                       ],
                                     ),
@@ -819,7 +884,7 @@ class _SummaryPageState extends State<SummaryPage> {
                         height: 320,
                         child: SingleChildScrollView(
                           child: SelectableText(
-                            _resultContent ?? '暂无总结，请先生成或选择历史文件。',
+                            _resultContent ?? '暂无内容，请先运行总结或选择一条历史记录。',
                             style: const TextStyle(fontFamily: 'monospace'),
                           ),
                         ),
@@ -828,7 +893,7 @@ class _SummaryPageState extends State<SummaryPage> {
               if (_summaryPath != null) ...[
                 const SizedBox(height: 8),
                 Text(
-                  '输出文件：$_summaryPath',
+                  'Saved to: $_summaryPath',
                   style: TextStyle(color: Colors.grey.shade600, fontSize: 12),
                 ),
               ],
@@ -836,6 +901,37 @@ class _SummaryPageState extends State<SummaryPage> {
           ),
         ),
       ],
+    );
+  }
+}
+
+class _PromptPreview extends StatelessWidget {
+  const _PromptPreview({required this.title, required this.content});
+
+  final String title;
+  final String content;
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      width: double.infinity,
+      padding: const EdgeInsets.all(12),
+      decoration: BoxDecoration(
+        color: Colors.grey.shade100,
+        borderRadius: BorderRadius.circular(8),
+        border: Border.all(color: Colors.grey.shade300),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(title, style: const TextStyle(fontWeight: FontWeight.w600)),
+          const SizedBox(height: 6),
+          SelectableText(
+            content,
+            style: const TextStyle(fontFamily: 'monospace', fontSize: 13),
+          ),
+        ],
+      ),
     );
   }
 }
@@ -874,7 +970,7 @@ class _DateField extends StatelessWidget {
             ],
           ),
         ),
-        child: Text(value ?? '未选择'),
+        child: Text(value ?? '未设置'),
       ),
     );
   }

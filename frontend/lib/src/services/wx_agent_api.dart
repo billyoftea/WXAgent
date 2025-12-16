@@ -12,14 +12,21 @@ class StreamEvent {
     required this.content,
     this.step,
     this.total,
+    this.payload,
   });
 
   factory StreamEvent.fromJson(Map<String, dynamic> json) {
+    final data = Map<String, dynamic>.from(json);
+    final type = data.remove('type') as String? ?? '';
+    final content = data.remove('content')?.toString() ?? '';
+    final step = data.remove('step') as int?;
+    final total = data.remove('total') as int?;
     return StreamEvent(
-      type: json['type'] as String? ?? '',
-      content: json['content'] as String? ?? '',
-      step: json['step'] as int?,
-      total: json['total'] as int?,
+      type: type,
+      content: content,
+      step: step,
+      total: total,
+      payload: data.isEmpty ? null : data,
     );
   }
 
@@ -27,6 +34,7 @@ class StreamEvent {
   final String content;
   final int? step;
   final int? total;
+  final Map<String, dynamic>? payload;
 }
 
 class WxAgentApiClient {
@@ -100,6 +108,64 @@ class WxAgentApiClient {
     );
   }
 
+  /// SSE 流式导出，实时返回日志
+  Stream<StreamEvent> runFullRefreshStream({
+    bool autoLaunchKey = true,
+    int waitSeconds = 90,
+    int pollInterval = 3,
+    List<String>? exportArgs,
+  }) async* {
+    final body = <String, dynamic>{
+      'auto_launch_key': autoLaunchKey,
+      'wait_seconds': waitSeconds,
+      'poll_interval': pollInterval,
+      'export_args': exportArgs,
+    };
+
+    final uri = _uri('/full-refresh/stream');
+    final request = http.Request('POST', uri);
+    request.headers['Content-Type'] = 'application/json';
+    request.body = jsonEncode(body);
+
+    final response = await _client.send(request);
+    if (response.statusCode >= 400) {
+      final bodyText = await response.stream.bytesToString();
+      throw HttpException(response.statusCode, bodyText);
+    }
+
+    String buffer = '';
+    await for (final chunk in response.stream.transform(utf8.decoder)) {
+      buffer += chunk;
+      while (buffer.contains('\n\n')) {
+        final eventEnd = buffer.indexOf('\n\n');
+        final eventData = buffer.substring(0, eventEnd);
+        buffer = buffer.substring(eventEnd + 2);
+
+        String? eventType;
+        String? data;
+        for (final line in eventData.split('\n')) {
+          if (line.startsWith('event: ')) {
+            eventType = line.substring(7);
+          } else if (line.startsWith('data: ')) {
+            data = line.substring(6);
+          }
+        }
+
+        if (data != null) {
+          try {
+            final jsonMap = jsonDecode(data) as Map<String, dynamic>;
+            if (eventType != null) {
+              jsonMap['type'] = eventType;
+            }
+            yield StreamEvent.fromJson(jsonMap);
+          } catch (_) {
+            // ignore bad chunks
+          }
+        }
+      }
+    }
+  }
+
   Future<AnalysisResult> analyzeSessions({
     String? startDate,
     String? endDate,
@@ -128,6 +194,8 @@ class WxAgentApiClient {
     List<String>? sessions,
     String mode = 'merged', // 默认使用跨会话合并模式
     int? maxTokens,
+    String? chunkPrompt,
+    String? finalPrompt,
   }) async {
     final sanitizedQuestions = questions
         ?.map((q) => q.trim())
@@ -154,10 +222,13 @@ class WxAgentApiClient {
     if (sanitizedSessions != null && sanitizedSessions.isNotEmpty) {
       body['sessions'] = sanitizedSessions;
     }
-    final response = await post(
-      '/summary/run',
-      body: body,
-    );
+    if (chunkPrompt != null && chunkPrompt.trim().isNotEmpty) {
+      body['chunk_prompt'] = chunkPrompt.trim();
+    }
+    if (finalPrompt != null && finalPrompt.trim().isNotEmpty) {
+      body['final_prompt'] = finalPrompt.trim();
+    }
+    final response = await post('/summary/run', body: body);
     return SummaryRunResult.fromJson(response);
   }
 
@@ -167,6 +238,8 @@ class WxAgentApiClient {
     String? endDate,
     List<String>? sessions,
     int? maxTokens,
+    String? chunkPrompt,
+    String? finalPrompt,
   }) async* {
     final sanitizedSessions = sessions
         ?.map((s) => s.trim())
@@ -182,6 +255,12 @@ class WxAgentApiClient {
     }
     if (sanitizedSessions != null && sanitizedSessions.isNotEmpty) {
       body['sessions'] = sanitizedSessions;
+    }
+    if (chunkPrompt != null && chunkPrompt.trim().isNotEmpty) {
+      body['chunk_prompt'] = chunkPrompt.trim();
+    }
+    if (finalPrompt != null && finalPrompt.trim().isNotEmpty) {
+      body['final_prompt'] = finalPrompt.trim();
     }
 
     final uri = _uri('/summary/run-stream');

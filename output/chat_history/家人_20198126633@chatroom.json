@@ -25482,8 +25482,144 @@
       "str_content": "反正不暖和",
       "is_send": 1,
       "sender": "自己"
+    },
+    {
+      "create_time": 1765776843,
+      "formatted_time": "2025-12-15 13:34:03",
+      "type": "文本消息",
+      "str_content": "儿子，大衣橱子里没有，没找到",
+      "is_send": 0,
+      "sender_name": "妈",
+      "sender_wxid": "wxid_qu2dijy1xpfm12"
+    },
+    {
+      "create_time": 1765776865,
+      "formatted_time": "2025-12-15 13:34:25",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "妈",
+      "sender_wxid": "wxid_qu2dijy1xpfm12"
+    },
+    {
+      "create_time": 1765776888,
+      "formatted_time": "2025-12-15 13:34:48",
+      "type": "文本消息",
+      "str_content": "羽绒服今天发",
+      "is_send": 0,
+      "sender_name": "妈",
+      "sender_wxid": "wxid_qu2dijy1xpfm12"
+    },
+    {
+      "create_time": 1765776894,
+      "formatted_time": "2025-12-15 13:34:54",
+      "type": "文本消息",
+      "str_content": "不着急",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765776903,
+      "formatted_time": "2025-12-15 13:35:03",
+      "type": "文本消息",
+      "str_content": "你还是以找大衣为主",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765776905,
+      "formatted_time": "2025-12-15 13:35:05",
+      "type": "文本消息",
+      "str_content": "不在我这里",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765776960,
+      "formatted_time": "2025-12-15 13:36:00",
+      "type": "文本消息",
+      "str_content": "从武汉带回来了吗？感觉一直没见",
+      "is_send": 0,
+      "sender_name": "妈",
+      "sender_wxid": "wxid_qu2dijy1xpfm12"
+    },
+    {
+      "create_time": 1765776979,
+      "formatted_time": "2025-12-15 13:36:19",
+      "type": "文本消息",
+      "str_content": "肯定带回来了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765776991,
+      "formatted_time": "2025-12-15 13:36:31",
+      "type": "文本消息",
+      "str_content": "我再找找",
+      "is_send": 0,
+      "sender_name": "妈",
+      "sender_wxid": "wxid_qu2dijy1xpfm12"
+    },
+    {
+      "create_time": 1765776995,
+      "formatted_time": "2025-12-15 13:36:35",
+      "type": "文本消息",
+      "str_content": "那个大衣挺贵的，找一下吧",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765777005,
+      "formatted_time": "2025-12-15 13:36:45",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "妈",
+      "sender_wxid": "wxid_qu2dijy1xpfm12"
+    },
+    {
+      "create_time": 1765806798,
+      "formatted_time": "2025-12-15 21:53:18",
+      "type": "视频消息",
+      "str_content": "[视频消息]",
+      "is_send": 0,
+      "sender_name": "妈",
+      "sender_wxid": "wxid_qu2dijy1xpfm12"
+    },
+    {
+      "create_time": 1765864659,
+      "formatted_time": "2025-12-16 13:57:39",
+      "type": "文本消息",
+      "str_content": "打点钱吧，徐傲不是订婚了吗，我下个月初飞回家一趟",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765864665,
+      "formatted_time": "2025-12-16 13:57:45",
+      "type": "文本消息",
+      "str_content": "然后再回深圳",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765864718,
+      "formatted_time": "2025-12-16 13:58:38",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "爸",
+      "sender_wxid": "wxid_794e2azqfa5q21"
+    },
+    {
+      "create_time": 1765864727,
+      "formatted_time": "2025-12-16 13:58:47",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-15T00:08:42+08:00",
-  "message_count": 3020
+  "export_time": "2025-12-16T22:46:03+08:00",
+  "message_count": 3036
 }

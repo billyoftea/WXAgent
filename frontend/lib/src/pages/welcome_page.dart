@@ -14,119 +14,71 @@ class WelcomePage extends StatefulWidget {
 }
 
 class _WelcomePageState extends State<WelcomePage> {
-  Map<String, dynamic>? _status;
-  bool _loading = false;
-  String? _error;
-
-  @override
-  void initState() {
-    super.initState();
-    _loadStatus();
-  }
-
-  Future<void> _loadStatus() async {
-    setState(() {
-      _loading = true;
-      _error = null;
-    });
-    try {
-      final status = await widget.controller.api.getStatus();
-      setState(() {
-        _status = status;
-      });
-    } catch (err) {
-      setState(() {
-        _error = err.toString();
-      });
-    } finally {
-      setState(() {
-        _loading = false;
-      });
-    }
-  }
-
   @override
   Widget build(BuildContext context) {
     return PageContainer(
-      title: 'WELCOME! 欢迎使用 WXAgent',
-      subtitle: 'WXAgent 帮助你解密、导出并分析本地微信聊天记录，同时提供 AI 总结能力，聊天记录解密和导出流程均在本地完成。本软件不会主动上传或者保留你的微信聊天记录，在使用大模型总结功能时，请确保你了解所使用的模型服务的隐私政策。',
+      title: '欢迎使用 WXAgent',
+      subtitle: 'WXAgent 帮你在本地完成微信聊天记录的解密、导出、分析与 AI 总结，数据仅存放在你的电脑里。',
       children: [
         SectionCard(
-          title: '当前状态',
-          actions: [
-            TextButton.icon(
-              onPressed: _loading ? null : _loadStatus,
-              icon: _loading
-                  ? const SizedBox(
-                      width: 16,
-                      height: 16,
-                      child: CircularProgressIndicator(strokeWidth: 2),
-                    )
-                  : const Icon(Icons.refresh),
-              label: const Text('刷新'),
-            ),
-          ],
-          child: _buildStatusOverview(),
-        ),
-        SectionCard(
-          title: '产品介绍',
-          subtitle: 'WXAgent 集成「密钥获取」「聊天记录读取与导出」「聊天分析」「AI 总结」四个模块，一次运行覆盖全流程。',
+          title: '产品概览',
+          subtitle: '集成密钥获取、聊天导出、数据分析、AI 总结，一键跑完整流程。',
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              _buildIntroBullet('仅用于分析自己的聊天记录，所有信息都存储在本地，不会上传服务器。'),
-              _buildIntroBullet('支持增量解密与导出，避免重复耗时操作。'),
-              _buildIntroBullet('分析模块提供按联系人/群聊的统计视图，帮助你快速定位高频会话。'),
-              _buildIntroBullet('AI 总结可使用默认 Prompt 或自定义提示词，生成 Markdown 报告。'),
+              _buildIntroBullet('仅用于查看/分析自己的聊天记录，所有数据留在本地。'),
+              _buildIntroBullet('支持增量导出，避免重复操作。'),
+              _buildIntroBullet('分析视图展示高频会话和活跃成员。'),
+              _buildIntroBullet('AI 总结可用默认或自定义提示词，生成 Markdown 报告。'),
             ],
           ),
         ),
         SectionCard(
-          title: '新手指引',
-          subtitle: '按照下列步骤快速完成一次完整流程。',
+          title: '快速上手',
+          subtitle: '按以下步骤完成一次完整运行：',
           child: Column(
             children: const [
               _StepTile(
                 index: 1,
-                title: '密钥获取',
-                description: '在「密钥获取」页面点击读取密钥，系统会自动注入并保存最新的数据库密钥。',
+                title: '读取密钥',
+                description: '在“密钥获取”页点击读取，系统会自动保存最新的数据库密钥。',
               ),
               Divider(),
               _StepTile(
                 index: 2,
-                title: '聊天记录读取与导出',
-                description: '检测本地微信数据路径，执行解密/导出，可选择全量或增量方式。',
+                title: '导出聊天记录',
+                description: '检测本地微信数据路径，解密并导出聊天记录，可选全量或增量模式。',
               ),
               Divider(),
               _StepTile(
                 index: 3,
-                title: '聊天记录分析',
-                description: '按时间范围查看群聊/私聊的消息统计、Top 会话和活跃成员。',
+                title: '聊天分析',
+                description: '按时间筛选，查看群聊/好友的消息统计、高频会话和活跃成员。',
               ),
               Divider(),
               _StepTile(
                 index: 4,
-                title: '聊天记录 AI 总结',
-                description: '选择联系人、时间范围以及提示词，一键生成 Markdown 总结，可随时回看历史结果。',
+                title: 'AI 总结',
+                description: '选择会话、时间范围与提示词，生成 Markdown 总结，可随时查看历史结果。',
               ),
             ],
           ),
         ),
         SectionCard(
-          title: '使用声明',
+          title: '使用须知',
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: const [
-              Text('· WXAgent 仅适用于个人本地数据分析，勿用于未授权的数据获取。'),
+              Text('· WXAgent 仅供个人本地分析，请勿用于未获授权的数据。'),
               SizedBox(height: 8),
-              Text('· 所有敏感信息解析均在本地执行，操作前请确保遵守所在地法律法规。'),
+              Text('· 所有敏感处理均在本地完成，使用前请确保遵守所在地法律法规。'),
               SizedBox(height: 8),
-              Text('· 如遇问题，可通过设置页导出日志或直接联系作者。'),
+              Text('· 如遇问题，可在设置页导出日志或联系维护者。'),
             ],
           ),
         ),
         SectionCard(
-          title: '作者联系',
+          title: '联系作者',
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: const [
@@ -146,91 +98,9 @@ class _WelcomePageState extends State<WelcomePage> {
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          const Text('•', style: TextStyle(fontSize: 20, height: 1.2)),
+          const Text('• ', style: TextStyle(fontSize: 20, height: 1.2)),
           const SizedBox(width: 8),
           Expanded(child: Text(text)),
-        ],
-      ),
-    );
-  }
-
-  Widget _buildStatusOverview() {
-    if (_loading && _status == null) {
-      return const Center(
-        child: Padding(
-          padding: EdgeInsets.symmetric(vertical: 24),
-          child: CircularProgressIndicator(),
-        ),
-      );
-    }
-    if (_error != null) {
-      return Text(_error!, style: const TextStyle(color: Colors.redAccent));
-    }
-    if (_status == null) {
-      return const Text('尚未获取状态。');
-    }
-    final key = (_status!['key'] as Map?)?.cast<String, dynamic>() ?? {};
-    final export = (_status!['export'] as Map?)?.cast<String, dynamic>() ?? {};
-    final summary =
-        (_status!['summary'] as Map?)?.cast<String, dynamic>() ?? {};
-    return Wrap(
-      spacing: 16,
-      runSpacing: 12,
-      children: [
-        _StatusCard(
-          title: '密钥',
-          value: key['db_key'] != null ? '已读取' : '未读取',
-          footer: '更新时间：${key['timestamp'] ?? '--'}',
-        ),
-        _StatusCard(
-          title: '导出会话',
-          value: '${export['sessions'] ?? 0} 个',
-          footer: '消息总数：${export['messages'] ?? 0}',
-        ),
-        _StatusCard(
-          title: '总结文件',
-          value: summary['output_exists'] == true ? '已生成' : '未生成',
-          footer: '最近修改：${summary['last_modified'] ?? '--'}',
-        ),
-      ],
-    );
-  }
-}
-
-class _StatusCard extends StatelessWidget {
-  const _StatusCard({
-    required this.title,
-    required this.value,
-    required this.footer,
-  });
-
-  final String title;
-  final String value;
-  final String footer;
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      width: 260,
-      padding: const EdgeInsets.all(16),
-      decoration: BoxDecoration(
-        color: Colors.grey.shade100,
-        borderRadius: BorderRadius.circular(12),
-      ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Text(title, style: TextStyle(color: Colors.grey.shade600)),
-          const SizedBox(height: 8),
-          Text(
-            value,
-            style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
-          ),
-          const SizedBox(height: 4),
-          Text(
-            footer,
-            style: const TextStyle(fontSize: 12, color: Colors.black54),
-          ),
         ],
       ),
     );
@@ -250,6 +120,7 @@ class _StepTile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final primary = Theme.of(context).colorScheme.primary;
     return Row(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
@@ -258,15 +129,12 @@ class _StepTile extends StatelessWidget {
           height: 32,
           alignment: Alignment.center,
           decoration: BoxDecoration(
-            color: Theme.of(context).colorScheme.primary.withOpacity(0.15),
+            color: primary.withAlpha((0.15 * 255).round()),
             borderRadius: BorderRadius.circular(999),
           ),
           child: Text(
             '$index',
-            style: TextStyle(
-              color: Theme.of(context).colorScheme.primary,
-              fontWeight: FontWeight.bold,
-            ),
+            style: TextStyle(color: primary, fontWeight: FontWeight.bold),
           ),
         ),
         const SizedBox(width: 16),

@@ -2665,8 +2665,384 @@
       "str_content": "需求客观存在，同时因为微信更新到4.0后解密算法改变，以前的解密方法不能用了",
       "is_send": 1,
       "sender_name": "自己"
+    },
+    {
+      "create_time": 1765782422,
+      "formatted_time": "2025-12-15 15:07:02",
+      "type": "文本消息",
+      "str_content": "雅琪，记得填一下shef25群里的共享表格呀，表格右面的联系方式你忘记填啦~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765782594,
+      "formatted_time": "2025-12-15 15:09:54",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765782627,
+      "formatted_time": "2025-12-15 15:10:27",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765789633,
+      "formatted_time": "2025-12-15 17:07:13",
+      "type": "文本消息",
+      "str_content": "你去群里给我捧捧场嘛",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765789678,
+      "formatted_time": "2025-12-15 17:07:58",
+      "type": "文本消息",
+      "str_content": "[鼓掌]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765789679,
+      "formatted_time": "2025-12-15 17:07:59",
+      "type": "文本消息",
+      "str_content": "满意吗",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765789688,
+      "formatted_time": "2025-12-15 17:08:08",
+      "type": "文本消息",
+      "str_content": "不错",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765789728,
+      "formatted_time": "2025-12-15 17:08:48",
+      "type": "文本消息",
+      "str_content": "这图怎么整的",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765789733,
+      "formatted_time": "2025-12-15 17:08:53",
+      "type": "文本消息",
+      "str_content": "给我也整一个",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765789740,
+      "formatted_time": "2025-12-15 17:09:00",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765789741,
+      "formatted_time": "2025-12-15 17:09:01",
+      "type": "文本消息",
+      "str_content": "你想怎么简称",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765789751,
+      "formatted_time": "2025-12-15 17:09:11",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765789768,
+      "formatted_time": "2025-12-15 17:09:28",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765789780,
+      "formatted_time": "2025-12-15 17:09:40",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765789785,
+      "formatted_time": "2025-12-15 17:09:45",
+      "type": "引用消息",
+      "str_content": "这个不错",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765789794,
+      "formatted_time": "2025-12-15 17:09:54",
+      "type": "引用消息",
+      "str_content": "这个也不错",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765789813,
+      "formatted_time": "2025-12-15 17:10:13",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765789830,
+      "formatted_time": "2025-12-15 17:10:30",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765862807,
+      "formatted_time": "2025-12-16 13:26:47",
+      "type": "文本消息",
+      "str_content": "我发现金融实验室真是个好地方",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765862817,
+      "formatted_time": "2025-12-16 13:26:57",
+      "type": "文本消息",
+      "str_content": "是吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765862818,
+      "formatted_time": "2025-12-16 13:26:58",
+      "type": "文本消息",
+      "str_content": "在这里工作效率高好多",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765862831,
+      "formatted_time": "2025-12-16 13:27:11",
+      "type": "文本消息",
+      "str_content": "可以接双屏，大屏幕好很多",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765862851,
+      "formatted_time": "2025-12-16 13:27:31",
+      "type": "文本消息",
+      "str_content": "最主要的解决了是心理上的惰性",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765862877,
+      "formatted_time": "2025-12-16 13:27:57",
+      "type": "文本消息",
+      "str_content": "哈哈哈",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765862882,
+      "formatted_time": "2025-12-16 13:28:02",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765862883,
+      "formatted_time": "2025-12-16 13:28:03",
+      "type": "文本消息",
+      "str_content": "我在寝室里工作半小时得歇半小时",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765862889,
+      "formatted_time": "2025-12-16 13:28:09",
+      "type": "文本消息",
+      "str_content": "跟在工位上一样",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765862909,
+      "formatted_time": "2025-12-16 13:28:29",
+      "type": "文本消息",
+      "str_content": "在这里居然可以一直工作",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765878664,
+      "formatted_time": "2025-12-16 17:51:04",
+      "type": "文本消息",
+      "str_content": "你这照片拉上半身了吧",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765878667,
+      "formatted_time": "2025-12-16 17:51:07",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765878681,
+      "formatted_time": "2025-12-16 17:51:21",
+      "type": "文本消息",
+      "str_content": "？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765878681,
+      "formatted_time": "2025-12-16 17:51:21",
+      "type": "文本消息",
+      "str_content": "看起来都185了",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765878687,
+      "formatted_time": "2025-12-16 17:51:27",
+      "type": "文本消息",
+      "str_content": "我就是很高",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765878725,
+      "formatted_time": "2025-12-16 17:52:05",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765881101,
+      "formatted_time": "2025-12-16 18:31:41",
+      "type": "文本消息",
+      "str_content": "可能是我上衣买的太长了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765881103,
+      "formatted_time": "2025-12-16 18:31:43",
+      "type": "文本消息",
+      "str_content": "确实没拉",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765881107,
+      "formatted_time": "2025-12-16 18:31:47",
+      "type": "文本消息",
+      "str_content": "tmd再说了谁拉上身",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765881110,
+      "formatted_time": "2025-12-16 18:31:50",
+      "type": "文本消息",
+      "str_content": "都是拉腿的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765885407,
+      "formatted_time": "2025-12-16 19:43:27",
+      "type": "文本消息",
+      "str_content": "笑死了哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765895735,
+      "formatted_time": "2025-12-16 22:35:35",
+      "type": "文本消息",
+      "str_content": "妈的",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765895738,
+      "formatted_time": "2025-12-16 22:35:38",
+      "type": "文本消息",
+      "str_content": "这显得我很菜",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765895749,
+      "formatted_time": "2025-12-16 22:35:49",
+      "type": "文本消息",
+      "str_content": "无产阶级联合起来",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765895764,
+      "formatted_time": "2025-12-16 22:36:04",
+      "type": "文本消息",
+      "str_content": "还好大家一起1",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765895770,
+      "formatted_time": "2025-12-16 22:36:10",
+      "type": "文本消息",
+      "str_content": "我确实跟不上",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765895771,
+      "formatted_time": "2025-12-16 22:36:11",
+      "type": "文本消息",
+      "str_content": "w4太多了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765895776,
+      "formatted_time": "2025-12-16 22:36:16",
+      "type": "文本消息",
+      "str_content": "装逼男拱出去",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
+    },
+    {
+      "create_time": 1765895781,
+      "formatted_time": "2025-12-16 22:36:21",
+      "type": "文本消息",
+      "str_content": "我还没开始哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪"
     }
   ],
-  "export_time": "2025-12-15T00:08:22+08:00",
-  "message_count": 333
+  "export_time": "2025-12-16T22:45:39+08:00",
+  "message_count": 380
 }

@@ -305,8 +305,24 @@
       "str_content": "Microsoft AI掌舵人：AI已经具备超人能力，但危险才刚刚开始",
       "is_send": 0,
       "sender_name": "LLMQuant"
+    },
+    {
+      "create_time": 1765783010,
+      "formatted_time": "2025-12-15 15:16:50",
+      "type": "图文消息",
+      "str_content": "AI具有“蜂巢思维”？为什么扩散模型不会记忆？NeurIPS 2025最佳论文速读",
+      "is_send": 0,
+      "sender_name": "LLMQuant"
+    },
+    {
+      "create_time": 1765871441,
+      "formatted_time": "2025-12-16 15:50:41",
+      "type": "图文消息",
+      "str_content": "Citadel 曝光内部 AI 助手，顶级对冲基金的“AI军备竞赛”已至何方？",
+      "is_send": 0,
+      "sender_name": "LLMQuant"
     }
   ],
-  "export_time": "2025-12-15T00:08:13+08:00",
-  "message_count": 38
+  "export_time": "2025-12-16T22:45:30+08:00",
+  "message_count": 40
 }

@@ -8313,8 +8313,40 @@
       "str_content": "太好了＼(^▽^)／！[可怜][可怜][可怜]",
       "is_send": 0,
       "sender_name": "南京大学王子垚"
+    },
+    {
+      "create_time": 1765770106,
+      "formatted_time": "2025-12-15 11:41:46",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765770118,
+      "formatted_time": "2025-12-15 11:41:58",
+      "type": "文本消息",
+      "str_content": "速开银行卡[旺柴]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765770491,
+      "formatted_time": "2025-12-15 11:48:11",
+      "type": "文本消息",
+      "str_content": "我嘞个豆",
+      "is_send": 0,
+      "sender_name": "南京大学王子垚"
+    },
+    {
+      "create_time": 1765770502,
+      "formatted_time": "2025-12-15 11:48:22",
+      "type": "文本消息",
+      "str_content": "下午就去问户口的事",
+      "is_send": 0,
+      "sender_name": "南京大学王子垚"
     }
   ],
-  "export_time": "2025-12-15T00:08:32+08:00",
-  "message_count": 1039
+  "export_time": "2025-12-16T22:45:52+08:00",
+  "message_count": 1043
 }

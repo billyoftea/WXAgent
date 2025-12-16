@@ -385,8 +385,24 @@
       "str_content": "谷歌创始人布林：当年发完Transformer论文，我们太不当回事了",
       "is_send": 0,
       "sender_name": "机器之心"
+    },
+    {
+      "create_time": 1765786137,
+      "formatted_time": "2025-12-15 16:08:57",
+      "type": "图文消息",
+      "str_content": "国产芯片也能跑AI视频实时生成了，商汤Seko 2.0揭秘幕后黑科技",
+      "is_send": 0,
+      "sender_name": "机器之心"
+    },
+    {
+      "create_time": 1765858217,
+      "formatted_time": "2025-12-16 12:10:17",
+      "type": "图文消息",
+      "str_content": "阿里妈妈发布MUSE：用多模态搞定十万级超长行为序列，并开源Taobao-MM数据集",
+      "is_send": 0,
+      "sender_name": "机器之心"
     }
   ],
-  "export_time": "2025-12-15T00:08:13+08:00",
-  "message_count": 48
+  "export_time": "2025-12-16T22:45:30+08:00",
+  "message_count": 50
 }

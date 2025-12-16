@@ -122462,8 +122462,24 @@
       "is_send": 0,
       "sender_name": "明天早上吃什么",
       "sender_wxid": "wxid_5qkum0iw3u0g22"
+    },
+    {
+      "create_time": 1765732310,
+      "formatted_time": "2025-12-15 01:11:50",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765778864,
+      "formatted_time": "2025-12-15 14:07:44",
+      "type": "图文消息",
+      "str_content": "今日12点开报！2026深圳平安金融中心国际垂直马拉松，1月10日共登世界湾区之巅！",
+      "is_send": 0,
+      "sender_name": "陆胤 环工",
+      "sender_wxid": "wxid_0yu1aj73qkh222"
     }
   ],
-  "export_time": "2025-12-15T00:08:24+08:00",
-  "message_count": 13722
+  "export_time": "2025-12-16T22:45:42+08:00",
+  "message_count": 13724
 }

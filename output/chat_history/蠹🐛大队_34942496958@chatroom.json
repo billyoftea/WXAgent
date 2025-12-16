@@ -65699,8 +65699,69 @@
       "str_content": "回到高中了",
       "is_send": 1,
       "sender": "自己"
+    },
+    {
+      "create_time": 1765880846,
+      "formatted_time": "2025-12-16 18:27:26",
+      "type": "图文消息",
+      "str_content": "聚力向新，共赴未来 | 2025年深港经济金融协会换届结果公示",
+      "is_send": 0,
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
+    },
+    {
+      "create_time": 1765880861,
+      "formatted_time": "2025-12-16 18:27:41",
+      "type": "文本消息",
+      "str_content": "兄弟，你这副会长全照骗啊",
+      "is_send": 0,
+      "sender_name": "乔晟豪",
+      "sender_wxid": "wxid_dnk6ln51p1ta21"
+    },
+    {
+      "create_time": 1765880909,
+      "formatted_time": "2025-12-16 18:28:29",
+      "type": "文本消息",
+      "str_content": "这就是finance bro[旺柴]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765881398,
+      "formatted_time": "2025-12-16 18:36:38",
+      "type": "文本消息",
+      "str_content": "你为什么没有穿那个羽绒马甲？",
+      "is_send": 0,
+      "sender_name": "于德水",
+      "sender_wxid": "wxid_pakrek5xcktu22"
+    },
+    {
+      "create_time": 1765882028,
+      "formatted_time": "2025-12-16 18:47:08",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "杨堪然",
+      "sender_wxid": "wxid_1qo5y1cwfk4711"
+    },
+    {
+      "create_time": 1765882034,
+      "formatted_time": "2025-12-16 18:47:14",
+      "type": "文本消息",
+      "str_content": "这帅",
+      "is_send": 0,
+      "sender_name": "杨堪然",
+      "sender_wxid": "wxid_1qo5y1cwfk4711"
+    },
+    {
+      "create_time": 1765882137,
+      "formatted_time": "2025-12-16 18:48:57",
+      "type": "引用消息",
+      "str_content": "其实平时我真穿",
+      "is_send": 1,
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-15T00:08:32+08:00",
-  "message_count": 7416
+  "export_time": "2025-12-16T22:45:52+08:00",
+  "message_count": 7423
 }

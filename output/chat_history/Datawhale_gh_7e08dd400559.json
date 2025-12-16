@@ -385,8 +385,24 @@
       "str_content": "AMD ROCm中国开发者专区成立了！",
       "is_send": 0,
       "sender_name": "Datawhale"
+    },
+    {
+      "create_time": 1765809024,
+      "formatted_time": "2025-12-15 22:30:24",
+      "type": "图文消息",
+      "str_content": "谷歌创始人布林：当年发完Transformer论文，我们太不当回事了",
+      "is_send": 0,
+      "sender_name": "Datawhale"
+    },
+    {
+      "create_time": 1765895277,
+      "formatted_time": "2025-12-16 22:27:57",
+      "type": "图文消息",
+      "str_content": "12月21日，杭州见！",
+      "is_send": 0,
+      "sender_name": "Datawhale"
     }
   ],
-  "export_time": "2025-12-15T00:08:13+08:00",
-  "message_count": 48
+  "export_time": "2025-12-16T22:45:30+08:00",
+  "message_count": 50
 }

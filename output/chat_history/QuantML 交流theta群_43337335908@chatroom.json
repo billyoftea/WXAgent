@@ -15216,8 +15216,26 @@
       "type": "图文消息",
       "str_content": "金融市场盈利理论解析：投资、交易与量化交易的范式、方法与统一性基石",
       "is_send": 0
+    },
+    {
+      "create_time": 1765764534,
+      "formatted_time": "2025-12-15 10:08:54",
+      "type": "图文消息",
+      "str_content": "CVXPY 深度优化指南",
+      "is_send": 0,
+      "sender_name": "QuantML",
+      "sender_wxid": "wxid_iaq8ginycjo712"
+    },
+    {
+      "create_time": 1765881088,
+      "formatted_time": "2025-12-16 18:31:28",
+      "type": "图文消息",
+      "str_content": "研报复现 | 联合动量因子：个股与行业的共振",
+      "is_send": 0,
+      "sender_name": "QuantML",
+      "sender_wxid": "wxid_iaq8ginycjo712"
     }
   ],
-  "export_time": "2025-12-15T00:08:26+08:00",
-  "message_count": 1803
+  "export_time": "2025-12-16T22:45:44+08:00",
+  "message_count": 1805
 }

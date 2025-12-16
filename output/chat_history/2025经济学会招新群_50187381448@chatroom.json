@@ -3663,8 +3663,17 @@
       "type": "系统消息",
       "str_content": "[系统消息]",
       "is_send": 0
+    },
+    {
+      "create_time": 1765783595,
+      "formatted_time": "2025-12-15 15:26:35",
+      "type": "图文消息",
+      "str_content": "5分钟超级干货：全球头部VC宣示未来5年的时代炸裂机遇（牛人必读）",
+      "is_send": 0,
+      "sender_name": "Sophie",
+      "sender_wxid": "wxid_yx3slzqywcsb12"
     }
   ],
-  "export_time": "2025-12-15T00:08:25+08:00",
-  "message_count": 416
+  "export_time": "2025-12-16T22:45:42+08:00",
+  "message_count": 417
 }

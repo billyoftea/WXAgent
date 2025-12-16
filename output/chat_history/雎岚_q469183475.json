@@ -73,8 +73,48 @@
       "str_content": "[表情消息]",
       "is_send": 0,
       "sender_name": "雎岚"
+    },
+    {
+      "create_time": 1765779848,
+      "formatted_time": "2025-12-15 14:24:08",
+      "type": "文本消息",
+      "str_content": "雎岚老师，我们社团换届表格需要您的签字，我也想向您当面汇报一下我们社团的发展情况，最近您什么时候有时间吗~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765779849,
+      "formatted_time": "2025-12-15 14:24:09",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765780494,
+      "formatted_time": "2025-12-15 14:34:54",
+      "type": "文本消息",
+      "str_content": "明天一点？办公室762",
+      "is_send": 0,
+      "sender_name": "雎岚"
+    },
+    {
+      "create_time": 1765780569,
+      "formatted_time": "2025-12-15 14:36:09",
+      "type": "文本消息",
+      "str_content": "好呀好呀！谢谢老师！[鼓掌][鼓掌]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765780576,
+      "formatted_time": "2025-12-15 14:36:16",
+      "type": "文本消息",
+      "str_content": "[666]",
+      "is_send": 0,
+      "sender_name": "雎岚"
     }
   ],
-  "export_time": "2025-12-15T00:08:18+08:00",
-  "message_count": 9
+  "export_time": "2025-12-16T22:45:37+08:00",
+  "message_count": 14
 }

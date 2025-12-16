@@ -287604,8 +287604,26 @@
       "is_send": 0,
       "sender_name": "段学龙",
       "sender_wxid": "wxid_fm07d66ran8122"
+    },
+    {
+      "create_time": 1765870049,
+      "formatted_time": "2025-12-16 15:27:29",
+      "type": "文本消息",
+      "str_content": "who在济宁",
+      "is_send": 0,
+      "sender_name": "朱一鸣",
+      "sender_wxid": "wxid_j54tp2b8bowb22"
+    },
+    {
+      "create_time": 1765870100,
+      "formatted_time": "2025-12-16 15:28:20",
+      "type": "文本消息",
+      "str_content": "@TraxMars @f(x)=1 @Felixz @倚天照海 @drew @Shelton @KingsLY @一条大鱼 @Congratu Nathan @徐昂 Angelo @Ztr",
+      "is_send": 0,
+      "sender_name": "朱一鸣",
+      "sender_wxid": "wxid_j54tp2b8bowb22"
     }
   ],
-  "export_time": "2025-12-15T00:08:44+08:00",
-  "message_count": 32496
+  "export_time": "2025-12-16T22:46:05+08:00",
+  "message_count": 32498
 }

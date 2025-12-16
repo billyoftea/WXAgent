@@ -353,8 +353,24 @@
       "str_content": "从做市到资管：金融强化学习落地全景",
       "is_send": 0,
       "sender_name": "QuantML"
+    },
+    {
+      "create_time": 1765755149,
+      "formatted_time": "2025-12-15 07:32:29",
+      "type": "图文消息",
+      "str_content": "CVXPY 深度优化指南",
+      "is_send": 0,
+      "sender_name": "QuantML"
+    },
+    {
+      "create_time": 1765880557,
+      "formatted_time": "2025-12-16 18:22:37",
+      "type": "图文消息",
+      "str_content": "研报复现 | 联合动量因子：个股与行业的共振",
+      "is_send": 0,
+      "sender_name": "QuantML"
     }
   ],
-  "export_time": "2025-12-15T00:08:13+08:00",
-  "message_count": 44
+  "export_time": "2025-12-16T22:45:30+08:00",
+  "message_count": 46
 }

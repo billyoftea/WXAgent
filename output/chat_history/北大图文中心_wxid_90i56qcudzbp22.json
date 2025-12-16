@@ -449,8 +449,64 @@
       "str_content": "[转账]",
       "is_send": 0,
       "sender_name": "北大图文中心"
+    },
+    {
+      "create_time": 1765859434,
+      "formatted_time": "2025-12-16 12:30:34",
+      "type": "文本消息",
+      "str_content": "彩印一张",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765859434,
+      "formatted_time": "2025-12-16 12:30:34",
+      "type": "文件消息",
+      "str_content": "附件2：北京大学深圳研究生院学生社团换届注册会长信息登记表 (1).pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765859458,
+      "formatted_time": "2025-12-16 12:30:58",
+      "type": "文本消息",
+      "str_content": "黑白单面一份",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765859458,
+      "formatted_time": "2025-12-16 12:30:58",
+      "type": "文件消息",
+      "str_content": "附件3：北京大学深圳研究生院学生社团换届注册成员信息备案登记表 (1).pdf",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765859480,
+      "formatted_time": "2025-12-16 12:31:20",
+      "type": "文本消息",
+      "str_content": "1.3元",
+      "is_send": 0,
+      "sender_name": "北大图文中心"
+    },
+    {
+      "create_time": 1765859493,
+      "formatted_time": "2025-12-16 12:31:33",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765859514,
+      "formatted_time": "2025-12-16 12:31:54",
+      "type": "转账卡片",
+      "str_content": "[转账]",
+      "is_send": 0,
+      "sender_name": "北大图文中心"
     }
   ],
-  "export_time": "2025-12-15T00:08:26+08:00",
-  "message_count": 56
+  "export_time": "2025-12-16T22:45:44+08:00",
+  "message_count": 63
 }

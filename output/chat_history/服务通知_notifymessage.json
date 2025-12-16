@@ -529,8 +529,40 @@
       "str_content": "商品领取提醒",
       "is_send": 0,
       "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765773915,
+      "formatted_time": "2025-12-15 12:45:15",
+      "type": "图文消息",
+      "str_content": "用餐评价提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765780292,
+      "formatted_time": "2025-12-15 14:31:32",
+      "type": "图文消息",
+      "str_content": "排队提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765780479,
+      "formatted_time": "2025-12-15 14:34:39",
+      "type": "图文消息",
+      "str_content": "商品领取提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
+    },
+    {
+      "create_time": 1765853919,
+      "formatted_time": "2025-12-16 10:58:39",
+      "type": "图文消息",
+      "str_content": "用餐评价提醒",
+      "is_send": 0,
+      "sender_name": "服务通知"
     }
   ],
-  "export_time": "2025-12-15T00:08:12+08:00",
-  "message_count": 66
+  "export_time": "2025-12-16T22:45:30+08:00",
+  "message_count": 70
 }

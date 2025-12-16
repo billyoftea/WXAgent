@@ -142884,8 +142884,33 @@
       "is_send": 0,
       "sender_name": "鱼儿龙岩",
       "sender_wxid": "wxid_2owz15fv46n122"
+    },
+    {
+      "create_time": 1765869202,
+      "formatted_time": "2025-12-16 15:13:22",
+      "type": "拍一拍消息",
+      "str_content": "[拍一拍]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765889849,
+      "formatted_time": "2025-12-16 20:57:29",
+      "type": "文本消息",
+      "str_content": "群里各个都是经济学家，满腹经纶，学富五车，家里存款不到五万，负债五十万。",
+      "is_send": 0,
+      "sender_name": "柴汝官哥钧定",
+      "sender_wxid": "wxid_6vr0h0e1m9wi12"
+    },
+    {
+      "create_time": 1765894273,
+      "formatted_time": "2025-12-16 22:11:13",
+      "type": "文本消息",
+      "str_content": "大道理谁都懂，工资还是三四千",
+      "is_send": 0,
+      "sender_name": "张鹏",
+      "sender_wxid": "wxid_wxt3kn0gx1e721"
     }
   ],
-  "export_time": "2025-12-15T00:08:31+08:00",
-  "message_count": 16614
+  "export_time": "2025-12-16T22:45:50+08:00",
+  "message_count": 16617
 }

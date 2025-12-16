@@ -474,8 +474,145 @@
       "is_send": 0,
       "sender_name": "张韩梓",
       "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765894432,
+      "formatted_time": "2025-12-16 22:13:52",
+      "type": "文本消息",
+      "str_content": "所以徐会长20号晚上会有空来香港吗",
+      "is_send": 0,
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765894453,
+      "formatted_time": "2025-12-16 22:14:13",
+      "type": "文本消息",
+      "str_content": "应该可以，尽量去",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765894455,
+      "formatted_time": "2025-12-16 22:14:15",
+      "type": "文本消息",
+      "str_content": "[呲牙]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765894462,
+      "formatted_time": "2025-12-16 22:14:22",
+      "type": "文本消息",
+      "str_content": "好好好那还能见上",
+      "is_send": 0,
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765894507,
+      "formatted_time": "2025-12-16 22:15:07",
+      "type": "文本消息",
+      "str_content": "如果迟到怎么说",
+      "is_send": 0,
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765894517,
+      "formatted_time": "2025-12-16 22:15:17",
+      "type": "文本消息",
+      "str_content": "迟到我请，",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765894522,
+      "formatted_time": "2025-12-16 22:15:22",
+      "type": "文本消息",
+      "str_content": "不过应该不会很晚吧？",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765894533,
+      "formatted_time": "2025-12-16 22:15:33",
+      "type": "文本消息",
+      "str_content": "我怕回不来深圳了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765894549,
+      "formatted_time": "2025-12-16 22:15:49",
+      "type": "文本消息",
+      "str_content": "不会吧",
+      "is_send": 0,
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765894560,
+      "formatted_time": "2025-12-16 22:16:00",
+      "type": "文本消息",
+      "str_content": "你们计划是啥，21号+1一个人来sz嘛",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765894567,
+      "formatted_time": "2025-12-16 22:16:07",
+      "type": "文本消息",
+      "str_content": "你十二点前能离开就行",
+      "is_send": 0,
+      "sender_name": "张韩梓",
+      "sender_wxid": "wxid_7rajmpbd3hv922"
+    },
+    {
+      "create_time": 1765894581,
+      "formatted_time": "2025-12-16 22:16:21",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765894590,
+      "formatted_time": "2025-12-16 22:16:30",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 0,
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765894618,
+      "formatted_time": "2025-12-16 22:16:58",
+      "type": "文本消息",
+      "str_content": "22号可能要上班了",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765894625,
+      "formatted_time": "2025-12-16 22:17:05",
+      "type": "文本消息",
+      "str_content": "对我也是说",
+      "is_send": 0,
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
+    },
+    {
+      "create_time": 1765894630,
+      "formatted_time": "2025-12-16 22:17:10",
+      "type": "文本消息",
+      "str_content": "因为ywz也上班",
+      "is_send": 0,
+      "sender_name": "刘佳仪",
+      "sender_wxid": "wxid_00x32kp9dlu622"
     }
   ],
-  "export_time": "2025-12-15T00:08:17+08:00",
-  "message_count": 55
+  "export_time": "2025-12-16T22:45:34+08:00",
+  "message_count": 71
 }

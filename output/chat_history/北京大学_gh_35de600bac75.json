@@ -385,8 +385,24 @@
       "str_content": "林毅夫带队，北大这个班为何特别？",
       "is_send": 0,
       "sender_name": "北京大学"
+    },
+    {
+      "create_time": 1765760841,
+      "formatted_time": "2025-12-15 09:07:21",
+      "type": "图文消息",
+      "str_content": "邀请你，成为我的北大“电子同桌”！",
+      "is_send": 0,
+      "sender_name": "北京大学"
+    },
+    {
+      "create_time": 1765848355,
+      "formatted_time": "2025-12-16 09:25:55",
+      "type": "图文消息",
+      "str_content": "在北大，他们用声音演戏",
+      "is_send": 0,
+      "sender_name": "北京大学"
     }
   ],
-  "export_time": "2025-12-15T00:08:13+08:00",
-  "message_count": 48
+  "export_time": "2025-12-16T22:45:30+08:00",
+  "message_count": 50
 }

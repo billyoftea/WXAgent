@@ -329,8 +329,24 @@
       "str_content": "字节跳动TikTok电商 - 战略分析实习生",
       "is_send": 0,
       "sender_name": "Case Mock"
+    },
+    {
+      "create_time": 1765814451,
+      "formatted_time": "2025-12-16 00:00:51",
+      "type": "图文消息",
+      "str_content": "华泰美元基金消费组 - 投资实习生招募",
+      "is_send": 0,
+      "sender_name": "Case Mock"
+    },
+    {
+      "create_time": 1765891012,
+      "formatted_time": "2025-12-16 21:16:52",
+      "type": "图文消息",
+      "str_content": "腾讯战略发展部 - 商业分析实习生招聘",
+      "is_send": 0,
+      "sender_name": "Case Mock"
     }
   ],
-  "export_time": "2025-12-15T00:08:12+08:00",
-  "message_count": 41
+  "export_time": "2025-12-16T22:45:30+08:00",
+  "message_count": 43
 }

@@ -28101,8 +28101,35 @@
       "is_send": 0,
       "sender_name": "水巷微韵苑",
       "sender_wxid": "wxid_fk95pm3ytme722"
+    },
+    {
+      "create_time": 1765768277,
+      "formatted_time": "2025-12-15 11:11:17",
+      "type": "文本消息",
+      "str_content": "[庆祝][庆祝][庆祝]下单时间到啦！\n[红包][红包][红包]首单立减10元！邀请好友首次下单也可获得10元无门槛红包！\n \n今日推荐：达美乐比萨\n12.5～12.20，甄选尊享披萨和经典风味披萨买一送一，活动限时抢购，千万不要错过哦",
+      "is_send": 0,
+      "sender_name": "水巷微韵苑",
+      "sender_wxid": "wxid_fk95pm3ytme722"
+    },
+    {
+      "create_time": 1765768278,
+      "formatted_time": "2025-12-15 11:11:18",
+      "type": "微信小程序",
+      "str_content": "微信小程序",
+      "is_send": 0,
+      "sender_name": "水巷微韵苑",
+      "sender_wxid": "wxid_fk95pm3ytme722"
+    },
+    {
+      "create_time": 1765768281,
+      "formatted_time": "2025-12-15 11:11:21",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "水巷微韵苑",
+      "sender_wxid": "wxid_fk95pm3ytme722"
     }
   ],
-  "export_time": "2025-12-15T00:08:38+08:00",
-  "message_count": 3142
+  "export_time": "2025-12-16T22:45:59+08:00",
+  "message_count": 3145
 }

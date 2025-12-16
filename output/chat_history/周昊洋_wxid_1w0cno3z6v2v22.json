@@ -25,8 +25,56 @@
       "str_content": "hello，我是清深25金融的周昊洋，很高兴认识呀，还请多多指教～",
       "is_send": 0,
       "sender_name": "周昊洋"
+    },
+    {
+      "create_time": 1765770969,
+      "formatted_time": "2025-12-15 11:56:09",
+      "type": "文本消息",
+      "str_content": "昊洋哥，深港换届后要向北大深研院报备25级新成员的信息，想问下你的清华学号是多少呀？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765771279,
+      "formatted_time": "2025-12-15 12:01:19",
+      "type": "文本消息",
+      "str_content": "2025213542",
+      "is_send": 0,
+      "sender_name": "周昊洋"
+    },
+    {
+      "create_time": 1765771281,
+      "formatted_time": "2025-12-15 12:01:21",
+      "type": "文本消息",
+      "str_content": "麻烦了～",
+      "is_send": 0,
+      "sender_name": "周昊洋"
+    },
+    {
+      "create_time": 1765771300,
+      "formatted_time": "2025-12-15 12:01:40",
+      "type": "文本消息",
+      "str_content": "好耶！！",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765771302,
+      "formatted_time": "2025-12-15 12:01:42",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765771915,
+      "formatted_time": "2025-12-15 12:11:55",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "周昊洋"
     }
   ],
-  "export_time": "2025-12-15T00:08:28+08:00",
-  "message_count": 3
+  "export_time": "2025-12-16T22:45:47+08:00",
+  "message_count": 9
 }

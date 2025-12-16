@@ -1,6 +1,8 @@
 package pipeline
 
 import (
+	"bufio"
+	"bytes"
 	"context"
 	"encoding/json"
 	"fmt"
@@ -199,7 +201,7 @@ func (p *Pipeline) LaunchWxKey(extraArgs []string, wait bool) error {
 	return p.WxKey.Launch(wait)
 }
 
-func (p *Pipeline) RunFullRefresh(autoLaunchKey bool, waitSeconds, pollInterval int, exportArgs []string) (map[string]any, error) {
+func (p *Pipeline) RunFullRefresh(autoLaunchKey bool, waitSeconds, pollInterval int, exportArgs []string, logCallback func(string)) (map[string]any, error) {
 	// 1. Refresh Key
 	key, err := p.RefreshKey(autoLaunchKey, waitSeconds, pollInterval)
 	if err != nil {
@@ -229,7 +231,9 @@ func (p *Pipeline) RunFullRefresh(autoLaunchKey bool, waitSeconds, pollInterval 
 		}
 	}
 
-	exportErr := p.ExportAuto(wechatDir, startDate, endDate)
+	logText, exportErr := p.captureLogs(func() error {
+		return p.ExportAuto(wechatDir, startDate, endDate)
+	}, logCallback)
 
 	// 统计导出结果
 	sessions, _ := p.ListSessions()
@@ -260,8 +264,51 @@ func (p *Pipeline) RunFullRefresh(autoLaunchKey bool, waitSeconds, pollInterval 
 	if exportErr != nil {
 		result["export_error"] = exportErr.Error()
 	}
+	if logs := splitLogs(logText); len(logs) > 0 {
+		result["logs"] = logs
+	}
 
 	return result, nil
+}
+
+func (p *Pipeline) captureLogs(fn func() error, logCallback func(string)) (string, error) {
+	origStdout := os.Stdout
+	r, w, err := os.Pipe()
+	if err != nil {
+		return "", err
+	}
+	os.Stdout = w
+
+	var buf bytes.Buffer
+	done := make(chan struct{})
+	go func() {
+		scanner := bufio.NewScanner(r)
+		for scanner.Scan() {
+			line := scanner.Text()
+			buf.WriteString(line + "\n")
+			fmt.Fprintln(origStdout, line)
+			if logCallback != nil {
+				logCallback(line)
+			}
+		}
+		close(done)
+	}()
+
+	runErr := fn()
+
+	_ = w.Close()
+	os.Stdout = origStdout
+	<-done
+
+	return buf.String(), runErr
+}
+
+func splitLogs(raw string) []string {
+	cleaned := strings.TrimSpace(strings.ReplaceAll(raw, "\r\n", "\n"))
+	if cleaned == "" {
+		return nil
+	}
+	return strings.Split(cleaned, "\n")
 }
 
 func (p *Pipeline) ListSessions() ([]map[string]any, error) {
@@ -369,7 +416,7 @@ func (p *Pipeline) detectWeChatDataDir() (string, error) {
 		possiblePaths[0], possiblePaths[1], possiblePaths[2])
 }
 
-func (p *Pipeline) AnalyzeChat(startDate, endDate string, sessionNames []string, maxTokens int, outputFile string) (*analyzer.AnalyzeResult, error) {
+func (p *Pipeline) AnalyzeChat(startDate, endDate string, sessionNames []string, maxTokens int, outputFile string, chunkPrompt, finalPrompt string) (*analyzer.AnalyzeResult, error) {
 	// 创建 LLM 客户端
 	llmClient := llm.NewClient(p.Config.LLM)
 
@@ -384,6 +431,8 @@ func (p *Pipeline) AnalyzeChat(startDate, endDate string, sessionNames []string,
 		SessionNames: sessionNames,
 		MaxTokens:    maxTokens,
 		OutputFile:   outputFile,
+		ChunkPrompt:  chunkPrompt,
+		FinalPrompt:  finalPrompt,
 	})
 
 	if err != nil {
@@ -418,7 +467,7 @@ func (p *Pipeline) AnalyzeChat(startDate, endDate string, sessionNames []string,
 }
 
 // AnalyzeChatStream 流式分析聊天记录，通过 callback 发送事件
-func (p *Pipeline) AnalyzeChatStream(startDate, endDate string, sessionNames []string, maxTokens int, outputFile string, callback analyzer.StreamCallback) (*analyzer.AnalyzeResult, error) {
+func (p *Pipeline) AnalyzeChatStream(startDate, endDate string, sessionNames []string, maxTokens int, outputFile string, chunkPrompt, finalPrompt string, callback analyzer.StreamCallback) (*analyzer.AnalyzeResult, error) {
 	llmClient := llm.NewClient(p.Config.LLM)
 	a := analyzer.New(p.Config.ExportDir, llmClient)
 
@@ -429,6 +478,8 @@ func (p *Pipeline) AnalyzeChatStream(startDate, endDate string, sessionNames []s
 		SessionNames: sessionNames,
 		MaxTokens:    maxTokens,
 		OutputFile:   outputFile,
+		ChunkPrompt:  chunkPrompt,
+		FinalPrompt:  finalPrompt,
 	}, callback)
 
 	if err != nil {
@@ -473,17 +524,16 @@ func (p *Pipeline) DescribeSession(file, startDate, endDate string) (map[string]
 
 func (p *Pipeline) ListSummaryHistory(limit int) ([]map[string]any, error) {
 	historyDir := p.Config.SummaryHistoryDir
-	var dirsToScan []string
+	dirsToScan := []string{}
 	if historyDir != "" {
-		// 配置了自定义历史目录，优先使用
+		// 配置了自定义历史目录，优先使用，同时兼容默认目录
 		dirsToScan = append(dirsToScan, historyDir)
-	} else {
-		// 默认情况下同时检查 export_dir/analysis 和 export_dir/chat_history/analysis（兼容旧版）
-		dirsToScan = append(dirsToScan,
-			filepath.Join(p.Config.ExportDir, "analysis"),
-			filepath.Join(p.Config.ExportDir, "chat_history", "analysis"),
-		)
 	}
+	// 默认目录始终兜底，保证能找到 output/analysis 下的历史文件
+	dirsToScan = append(dirsToScan,
+		filepath.Join(p.Config.ExportDir, "analysis"),
+		filepath.Join(p.Config.ExportDir, "chat_history", "analysis"),
+	)
 
 	seen := make(map[string]bool)
 	history := make([]map[string]any, 0)
@@ -673,9 +723,15 @@ func (p *Pipeline) TestLLM(baseURL, model, apiKey string) (map[string]any, error
 
 func (p *Pipeline) AnalyzeSessions(startDate, endDate string, topN int, sessionTypes []string) (map[string]any, error) {
 	// 直接从 JSON 文件读取完整的消息数据进行统计
-	files, err := filepath.Glob(filepath.Join(p.Config.ExportDir, "*.json"))
+	files, err := filepath.Glob(filepath.Join(p.Config.ExportDir, "chat_history", "*.json"))
 	if err != nil {
-		return nil, fmt.Errorf("glob export dir: %w", err)
+		return nil, fmt.Errorf("glob export dir (chat_history): %w", err)
+	}
+	if len(files) == 0 {
+		files, err = filepath.Glob(filepath.Join(p.Config.ExportDir, "*.json"))
+		if err != nil {
+			return nil, fmt.Errorf("glob export dir: %w", err)
+		}
 	}
 
 	// 解析日期范围

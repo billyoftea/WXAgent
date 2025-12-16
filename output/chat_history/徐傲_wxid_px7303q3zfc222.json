@@ -6513,8 +6513,440 @@
       "str_content": "okk",
       "is_send": 1,
       "sender_name": "自己"
+    },
+    {
+      "create_time": 1765861377,
+      "formatted_time": "2025-12-16 13:02:57",
+      "type": "文本消息",
+      "str_content": "最近忙啥呢哥",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765861832,
+      "formatted_time": "2025-12-16 13:10:32",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765861846,
+      "formatted_time": "2025-12-16 13:10:46",
+      "type": "语音消息",
+      "str_content": "[语音消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765862973,
+      "formatted_time": "2025-12-16 13:29:33",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈哈有点强度锻炼人啊 还不错",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765862975,
+      "formatted_time": "2025-12-16 13:29:35",
+      "type": "文本消息",
+      "str_content": "实习多久啊",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765862997,
+      "formatted_time": "2025-12-16 13:29:57",
+      "type": "文本消息",
+      "str_content": "估计下周入职，实习个小半年吧",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863024,
+      "formatted_time": "2025-12-16 13:30:24",
+      "type": "文本消息",
+      "str_content": "这实习看的赛道我挺喜欢的，也是干的很核心的工作",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863029,
+      "formatted_time": "2025-12-16 13:30:29",
+      "type": "文本消息",
+      "str_content": "就是微信支付的团队",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863065,
+      "formatted_time": "2025-12-16 13:31:05",
+      "type": "文本消息",
+      "str_content": "那确实是核心",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863082,
+      "formatted_time": "2025-12-16 13:31:22",
+      "type": "文本消息",
+      "str_content": "入职了给我说声哥 用微信刷点钱出来用用",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863083,
+      "formatted_time": "2025-12-16 13:31:23",
+      "type": "文本消息",
+      "str_content": "哈哈哈",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863094,
+      "formatted_time": "2025-12-16 13:31:34",
+      "type": "引用消息",
+      "str_content": "还回家过年不",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863099,
+      "formatted_time": "2025-12-16 13:31:39",
+      "type": "文本消息",
+      "str_content": "得过，得过",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863103,
+      "formatted_time": "2025-12-16 13:31:43",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863121,
+      "formatted_time": "2025-12-16 13:32:01",
+      "type": "文本消息",
+      "str_content": "你最近咋样啊[呲牙]毕设怎么样",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863137,
+      "formatted_time": "2025-12-16 13:32:17",
+      "type": "文本消息",
+      "str_content": "我打入腾讯内部给你搞点材料",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863151,
+      "formatted_time": "2025-12-16 13:32:31",
+      "type": "文本消息",
+      "str_content": "论文题目改了一下 微众银行信贷风险管理",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863168,
+      "formatted_time": "2025-12-16 13:32:48",
+      "type": "文本消息",
+      "str_content": "哈哈这么硬核",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863179,
+      "formatted_time": "2025-12-16 13:32:59",
+      "type": "文本消息",
+      "str_content": "最近还行吧 就跟着我爸到处跑跑",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863192,
+      "formatted_time": "2025-12-16 13:33:12",
+      "type": "引用消息",
+      "str_content": "老师非让细化题目",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863196,
+      "formatted_time": "2025-12-16 13:33:16",
+      "type": "文本消息",
+      "str_content": "给我发信息我都没理",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863206,
+      "formatted_time": "2025-12-16 13:33:26",
+      "type": "文本消息",
+      "str_content": "他们就自作主张给我改了",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863212,
+      "formatted_time": "2025-12-16 13:33:32",
+      "type": "文本消息",
+      "str_content": "不然学院审核不通过",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863222,
+      "formatted_time": "2025-12-16 13:33:42",
+      "type": "文本消息",
+      "str_content": "学术都是骗人的，能过就行[呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863227,
+      "formatted_time": "2025-12-16 13:33:47",
+      "type": "引用消息",
+      "str_content": "济宁那边房子也正装修呢",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863228,
+      "formatted_time": "2025-12-16 13:33:48",
+      "type": "文本消息",
+      "str_content": "是的",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863234,
+      "formatted_time": "2025-12-16 13:33:54",
+      "type": "文本消息",
+      "str_content": "年前差不多能搞定",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863280,
+      "formatted_time": "2025-12-16 13:34:40",
+      "type": "文本消息",
+      "str_content": "一切顺利啊[强][强]我看这大船也下水了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863312,
+      "formatted_time": "2025-12-16 13:35:12",
+      "type": "文本消息",
+      "str_content": "这我爸朋友的船",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863329,
+      "formatted_time": "2025-12-16 13:35:29",
+      "type": "文本消息",
+      "str_content": "咱们沉淀几年就有下一条了哈哈哈",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863335,
+      "formatted_time": "2025-12-16 13:35:35",
+      "type": "文本消息",
+      "str_content": "对了哥",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863343,
+      "formatted_time": "2025-12-16 13:35:43",
+      "type": "文本消息",
+      "str_content": "前天定了日子了",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863346,
+      "formatted_time": "2025-12-16 13:35:46",
+      "type": "文本消息",
+      "str_content": "跟你说声[呲牙]",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863349,
+      "formatted_time": "2025-12-16 13:35:49",
+      "type": "文本消息",
+      "str_content": "[强][强]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863350,
+      "formatted_time": "2025-12-16 13:35:50",
+      "type": "文本消息",
+      "str_content": "可以啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863351,
+      "formatted_time": "2025-12-16 13:35:51",
+      "type": "文本消息",
+      "str_content": "啥时候",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863352,
+      "formatted_time": "2025-12-16 13:35:52",
+      "type": "文本消息",
+      "str_content": "1.10",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863354,
+      "formatted_time": "2025-12-16 13:35:54",
+      "type": "文本消息",
+      "str_content": "订婚",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863358,
+      "formatted_time": "2025-12-16 13:35:58",
+      "type": "文本消息",
+      "str_content": "结婚的日子还没定",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863375,
+      "formatted_time": "2025-12-16 13:36:15",
+      "type": "文本消息",
+      "str_content": "好日子啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863388,
+      "formatted_time": "2025-12-16 13:36:28",
+      "type": "文本消息",
+      "str_content": "我看看到时候飞过去赶赶场[强]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863392,
+      "formatted_time": "2025-12-16 13:36:32",
+      "type": "文本消息",
+      "str_content": "正好也是个周末我看",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863403,
+      "formatted_time": "2025-12-16 13:36:43",
+      "type": "文本消息",
+      "str_content": "就挑的周末[呲牙]",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863409,
+      "formatted_time": "2025-12-16 13:36:49",
+      "type": "文本消息",
+      "str_content": "能来不",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863420,
+      "formatted_time": "2025-12-16 13:37:00",
+      "type": "文本消息",
+      "str_content": "必须得去[呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863462,
+      "formatted_time": "2025-12-16 13:37:42",
+      "type": "文本消息",
+      "str_content": "那我在家等你嗷",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863470,
+      "formatted_time": "2025-12-16 13:37:50",
+      "type": "文本消息",
+      "str_content": "后边事情都确定下来我再跟你说声",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863476,
+      "formatted_time": "2025-12-16 13:37:56",
+      "type": "文本消息",
+      "str_content": "okok，没问题",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863483,
+      "formatted_time": "2025-12-16 13:38:03",
+      "type": "文本消息",
+      "str_content": "你要是能来提前给我说声哥",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863484,
+      "formatted_time": "2025-12-16 13:38:04",
+      "type": "文本消息",
+      "str_content": "接你去",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863491,
+      "formatted_time": "2025-12-16 13:38:11",
+      "type": "文本消息",
+      "str_content": "好，肯定去",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765863492,
+      "formatted_time": "2025-12-16 13:38:12",
+      "type": "文本消息",
+      "str_content": "[得意]",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863518,
+      "formatted_time": "2025-12-16 13:38:38",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "徐傲"
+    },
+    {
+      "create_time": 1765863542,
+      "formatted_time": "2025-12-16 13:39:02",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-15T00:08:43+08:00",
-  "message_count": 814
+  "export_time": "2025-12-16T22:46:03+08:00",
+  "message_count": 868
 }

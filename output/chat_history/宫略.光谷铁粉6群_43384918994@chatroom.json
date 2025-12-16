@@ -3695,8 +3695,71 @@
       "is_send": 0,
       "sender_name": "宫略客服",
       "sender_wxid": "25984983560865587@openim"
+    },
+    {
+      "create_time": 1765790466,
+      "formatted_time": "2025-12-15 17:21:06",
+      "type": "文本消息",
+      "str_content": "今天吃什么：当然是涮火锅啦",
+      "is_send": 0,
+      "sender_name": "宫略光谷店",
+      "sender_wxid": "wxid_qc3fc6qrh5h512"
+    },
+    {
+      "create_time": 1765790472,
+      "formatted_time": "2025-12-15 17:21:12",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "宫略光谷店",
+      "sender_wxid": "wxid_qc3fc6qrh5h512"
+    },
+    {
+      "create_time": 1765790472,
+      "formatted_time": "2025-12-15 17:21:12",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "宫略光谷店",
+      "sender_wxid": "wxid_qc3fc6qrh5h512"
+    },
+    {
+      "create_time": 1765790474,
+      "formatted_time": "2025-12-15 17:21:14",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "宫略光谷店",
+      "sender_wxid": "wxid_qc3fc6qrh5h512"
+    },
+    {
+      "create_time": 1765790475,
+      "formatted_time": "2025-12-15 17:21:15",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "宫略光谷店",
+      "sender_wxid": "wxid_qc3fc6qrh5h512"
+    },
+    {
+      "create_time": 1765790475,
+      "formatted_time": "2025-12-15 17:21:15",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "宫略光谷店",
+      "sender_wxid": "wxid_qc3fc6qrh5h512"
+    },
+    {
+      "create_time": 1765790476,
+      "formatted_time": "2025-12-15 17:21:16",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "宫略光谷店",
+      "sender_wxid": "wxid_qc3fc6qrh5h512"
     }
   ],
-  "export_time": "2025-12-15T00:08:25+08:00",
-  "message_count": 412
+  "export_time": "2025-12-16T22:45:42+08:00",
+  "message_count": 419
 }

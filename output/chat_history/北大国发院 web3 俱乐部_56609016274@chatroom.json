@@ -2629,8 +2629,38 @@
       "is_send": 0,
       "sender_name": "Richard lu",
       "sender_wxid": "wxid_zr5kxhvpofqm22"
+    },
+    {
+      "create_time": 1765861648,
+      "formatted_time": "2025-12-16 13:07:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765861648,
+      "formatted_time": "2025-12-16 13:07:28",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765882671,
+      "formatted_time": "2025-12-16 18:57:51",
+      "type": "文本消息",
+      "str_content": "最近有朋友在深圳吗 刚好最近在汇丰这边～感兴趣交流的同学可以一起私聊 我们预计周日 12.21 晚上在深圳大学城这边组个局～",
+      "is_send": 0,
+      "sender_name": "Eason 毅山 -AI创业",
+      "sender_wxid": "wxid_f7pxt1apzumo12"
+    },
+    {
+      "create_time": 1765882782,
+      "formatted_time": "2025-12-16 18:59:42",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
     }
   ],
-  "export_time": "2025-12-15T00:08:28+08:00",
-  "message_count": 302
+  "export_time": "2025-12-16T22:45:46+08:00",
+  "message_count": 306
 }

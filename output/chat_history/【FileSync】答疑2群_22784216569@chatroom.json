@@ -149,8 +149,15 @@
       "is_send": 0,
       "sender_name": "许文轩 24 未名创投",
       "sender_wxid": "wxid_8cafi7ntnwf622"
+    },
+    {
+      "create_time": 1765889511,
+      "formatted_time": "2025-12-16 20:51:51",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
     }
   ],
-  "export_time": "2025-12-15T00:08:28+08:00",
-  "message_count": 17
+  "export_time": "2025-12-16T22:45:47+08:00",
+  "message_count": 18
 }

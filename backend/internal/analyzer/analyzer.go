@@ -59,6 +59,8 @@ type AnalyzeOptions struct {
 	SessionNames []string // 指定会话名称，为空则全部
 	MaxTokens    int      // 每段最大token数，默认80000（约100K字符，留余量）
 	OutputFile   string   // 输出文件路径
+	ChunkPrompt  string   // 自定义分段提示词（可选）
+	FinalPrompt  string   // 自定义汇总提示词（可选）
 }
 
 // AnalyzeResult 分析结果
@@ -115,7 +117,7 @@ func (a *Analyzer) Analyze(ctx context.Context, opts AnalyzeOptions) (*AnalyzeRe
 	}
 
 	if len(sessionMessagesList) == 0 {
-		return nil, fmt.Errorf("no messages found in the specified date range")
+		return nil, fmt.Errorf("对应的时间点没有聊天记录，请确认已经进行增量读取与导出")
 	}
 
 	// 统计总消息数
@@ -169,7 +171,7 @@ func (a *Analyzer) Analyze(ctx context.Context, opts AnalyzeOptions) (*AnalyzeRe
 	var chunkSummaries []string
 	for i, chunk := range chunks {
 		lb.Log("  处理第 %d/%d 段...", i+1, len(chunks))
-		summary, err := a.summarizeChunk(ctx, chunk, i+1, len(chunks))
+		summary, err := a.summarizeChunk(ctx, chunk, i+1, len(chunks), opts.ChunkPrompt)
 		if err != nil {
 			return nil, fmt.Errorf("summarize chunk %d: %w", i+1, err)
 		}
@@ -178,7 +180,7 @@ func (a *Analyzer) Analyze(ctx context.Context, opts AnalyzeOptions) (*AnalyzeRe
 	}
 
 	lb.Log("\n🔄 Step 5: 合并所有总结生成最终报告...")
-	finalSummary, err := a.mergeSummaries(ctx, chunkSummaries)
+	finalSummary, err := a.mergeSummaries(ctx, chunkSummaries, opts.FinalPrompt)
 	if err != nil {
 		return nil, fmt.Errorf("merge summaries: %w", err)
 	}
@@ -257,7 +259,7 @@ func (a *Analyzer) AnalyzeStream(ctx context.Context, opts AnalyzeOptions, callb
 	}
 
 	if len(sessionMessagesList) == 0 {
-		return nil, fmt.Errorf("no messages found in the specified date range")
+		return nil, fmt.Errorf("对应的时间点没有聊天记录，请确认已经进行增量读取与导出")
 	}
 
 	totalMessages := 0
@@ -287,7 +289,7 @@ func (a *Analyzer) AnalyzeStream(ctx context.Context, opts AnalyzeOptions, callb
 		sendProgress(4, i+1, len(chunks))
 
 		// 使用流式 API
-		summary, err := a.summarizeChunkStream(ctx, chunk, i+1, len(chunks), func(content string) {
+		summary, err := a.summarizeChunkStream(ctx, chunk, i+1, len(chunks), opts.ChunkPrompt, func(content string) {
 			sendAIChunk(4, content)
 		})
 		if err != nil {
@@ -299,7 +301,7 @@ func (a *Analyzer) AnalyzeStream(ctx context.Context, opts AnalyzeOptions, callb
 
 	// Step 5: 合并总结
 	logAndSend(5, "\n🔄 Step 5: 合并所有总结生成最终报告...")
-	finalSummary, err := a.mergeSummariesStream(ctx, chunkSummaries, func(content string) {
+	finalSummary, err := a.mergeSummariesStream(ctx, chunkSummaries, opts.FinalPrompt, func(content string) {
 		sendAIChunk(5, content)
 	})
 	if err != nil {
@@ -659,26 +661,14 @@ func (a *Analyzer) splitIntoChunks(content string, maxTokens int) []string {
 	return chunks
 }
 
-// summarizeChunk 总结单个分段 (Map 阶段)
-func (a *Analyzer) summarizeChunk(ctx context.Context, chunk string, chunkNum, totalChunks int) (string, error) {
-	prompt := fmt.Sprintf(`请分别总结以下微信群聊天记录的主要内容和讨论话题。
-注意：以下文本可能包含来自不同群聊的消息，每个群聊用【群聊：群名】的格式标记，请按群聊分别总结。
-（这是第 %d/%d 段）
-
-%s
-
-要求：
-1. 用中文总结
-2. 分聊天对象进行总结，同一个群聊或者同一个聊天记录放在一起总结
-3. 总结出主要话题和讨论内容（用编号列出，并附上时间和讨论人（如果必要））
-4. 提取出重要信息（如招聘信息、活动信息等），并注意引用原文！
-5. 概括参与者的主要观点或反应
-6. 标出最活跃的话题和讨论热度`, chunkNum, totalChunks, chunk)
+// summarizeChunk ?????? (Map ??)
+func (a *Analyzer) summarizeChunk(ctx context.Context, chunk string, chunkNum, totalChunks int, promptOverride string) (string, error) {
+	prompt := buildChunkPrompt(promptOverride, chunk, chunkNum, totalChunks)
 
 	messages := []llm.ChatMessage{
 		{
 			Role:    "system",
-			Content: "你是一个专业的微信群聊天内容分析助手，能够快速准确地总结和分析群聊内容。你需要处理多个不同的群聊，请按群聊分别进行总结分析。",
+			Content: "??????????????????????????????????????????????????????????????",
 		},
 		{
 			Role:    "user",
@@ -689,26 +679,14 @@ func (a *Analyzer) summarizeChunk(ctx context.Context, chunk string, chunkNum, t
 	return a.llmClient.ChatCompletion(ctx, messages)
 }
 
-// summarizeChunkStream 流式版本的总结单个分段 (Map 阶段)
-func (a *Analyzer) summarizeChunkStream(ctx context.Context, chunk string, chunkNum, totalChunks int, callback func(string)) (string, error) {
-	prompt := fmt.Sprintf(`请分别总结以下微信群聊天记录的主要内容和讨论话题。
-注意：以下文本可能包含来自不同群聊的消息，每个群聊用【群聊：群名】的格式标记，请按群聊分别总结。
-（这是第 %d/%d 段）
-
-%s
-
-要求：
-1. 用中文总结
-2. 分聊天对象进行总结，同一个群聊或者同一个聊天记录放在一起总结
-3. 总结出主要话题和讨论内容（用编号列出，并附上时间和讨论人（如果必要））
-4. 提取出重要信息（如招聘信息、活动信息等），并注意引用原文！
-5. 概括参与者的主要观点或反应
-6. 标出最活跃的话题和讨论热度`, chunkNum, totalChunks, chunk)
+// summarizeChunkStream ??????????? (Map ??)
+func (a *Analyzer) summarizeChunkStream(ctx context.Context, chunk string, chunkNum, totalChunks int, promptOverride string, callback func(string)) (string, error) {
+	prompt := buildChunkPrompt(promptOverride, chunk, chunkNum, totalChunks)
 
 	messages := []llm.ChatMessage{
 		{
 			Role:    "system",
-			Content: "你是一个专业的微信群聊天内容分析助手，能够快速准确地总结和分析群聊内容。你需要处理多个不同的群聊，请按群聊分别进行总结分析。",
+			Content: "??????????????????????????????????????????????????????????????",
 		},
 		{
 			Role:    "user",
@@ -719,40 +697,102 @@ func (a *Analyzer) summarizeChunkStream(ctx context.Context, chunk string, chunk
 	return a.llmClient.ChatCompletionWithCallback(ctx, messages, callback)
 }
 
-// mergeSummaries 合并所有总结 (Reduce 阶段)
-// 即使只有一段，也调用 AI 生成结构化报告
-func (a *Analyzer) mergeSummaries(ctx context.Context, summaries []string) (string, error) {
-	// 格式化分片总结，添加批次标记
-	var formattedSummaries []string
+func combineSummariesForPrompt(summaries []string) string {
+	formattedSummaries := make([]string, 0, len(summaries))
 	for idx, summary := range summaries {
-		formattedSummaries = append(formattedSummaries, fmt.Sprintf("【批次 %d】\n%s", idx+1, strings.TrimSpace(summary)))
+		formattedSummaries = append(formattedSummaries, fmt.Sprintf("[Batch %d]\n%s", idx+1, strings.TrimSpace(summary)))
 	}
-	combinedSummaries := strings.Join(formattedSummaries, "\n\n---\n\n")
+	return strings.Join(formattedSummaries, "\n\n---\n\n")
+}
 
-	// 根据段数调整 prompt
-	var introText string
-	if len(summaries) == 1 {
-		introText = "下面是对微信群聊天记录的总结，请将其整理为一份结构化的最终报告："
-	} else {
-		introText = "下面提供了若干分片的局部总结，请你：\n1. 按群聊/话题重新组织内容，去掉重复叙述，但要保留所有关键细节、时间、人物与数量\n2. 识别跨批次连续的讨论并合并，补全上下文\n3. 输出 Markdown，包含：概览、按群聊的详细总结、关键行动项/待办/风险\n\n分片总结如下："
-	}
+const defaultChunkPromptTemplate = `请分别总结以下微信群聊天记录的主要内容和讨论话题。
+注意：以下文本包含来自不同群聊的消息，每个群聊用【群聊：群名】的格式标记，请按群聊分别总结。
 
-	prompt := fmt.Sprintf(`%s
-%s
+{{content}}
 
 要求：
-1. 用中文撰写
-2. 整合所有段落的关键信息，避免重复
-3. 按群聊或主题组织内容，结构清晰
-4. 突出重要信息（招聘、活动、通知等），并引用原文关键内容
-5. 使用Markdown格式，层次分明
-6. 如果有讨论的发展或决策过程，请体现出来
-7. 在末尾添加"关键行动项/待办事项"小节（如有）`, introText, combinedSummaries)
+1. 用中文总结
+2. 分聊天对象进行总结，同一个群聊或者同一个聊天记录放在一起总结。
+3. 总结出主要话题和讨论内容（用编号列出，并附上时间和讨论人（如果必要））
+4. 提取出重要信息（如招聘信息、活动信息等），并注意引用原文！
+5. 概括参与者的主要观点或反应
+6. 标出最活跃的话题和讨论热度`
+
+const defaultFinalPromptTemplate = `{{intro}}
+
+{{summaries}}
+
+要求：
+1. 按群聊/话题重新组织内容，去掉重复叙述，但要保留所有关键细节、时间、人物与数量。
+2. 识别跨批次连续的讨论并合并，补全上下文。
+3. 输出 Markdown，包含：概览、按群聊的详细总结、关键行动项/待办/风险。`
+
+func buildChunkPrompt(override, chunk string, chunkNum, totalChunks int) string {
+	template := strings.TrimSpace(override)
+	if template == "" {
+		template = defaultChunkPromptTemplate
+	}
+
+	values := map[string]string{
+		"{{chunk_num}}":   fmt.Sprintf("%d", chunkNum),
+		"{{chunk_total}}": fmt.Sprintf("%d", totalChunks),
+		"{{content}}":     chunk,
+		"{{chunk}}":       chunk,
+	}
+	prompt := replacePlaceholders(template, values)
+
+	if !strings.Contains(prompt, chunk) {
+		prompt = prompt + "\n\n" + chunk
+	}
+	return prompt
+}
+
+func buildFinalPrompt(override, combinedSummaries string, summaryCount int) string {
+	template := strings.TrimSpace(override)
+	if template == "" {
+		template = defaultFinalPromptTemplate
+	}
+
+	introText := "以下是分片总结，请按要求输出最终报告。"
+	if summaryCount == 1 {
+		introText = "以下是一条聊天总结，请整理为结构化最终报告："
+	}
+
+	values := map[string]string{
+		"{{summaries}}":     combinedSummaries,
+		"{{summary_count}}": fmt.Sprintf("%d", summaryCount),
+		"{{intro}}":         introText,
+		"{{chunks_count}}":  fmt.Sprintf("%d", summaryCount),
+		"{{chunk_count}}":   fmt.Sprintf("%d", summaryCount),
+		"{{segment_count}}": fmt.Sprintf("%d", summaryCount),
+		"{{section_count}}": fmt.Sprintf("%d", summaryCount),
+	}
+	prompt := replacePlaceholders(template, values)
+
+	if !strings.Contains(prompt, combinedSummaries) {
+		prompt = prompt + "\n\n" + combinedSummaries
+	}
+	return prompt
+}
+
+func replacePlaceholders(template string, values map[string]string) string {
+	result := template
+	for key, val := range values {
+		result = strings.ReplaceAll(result, key, val)
+	}
+	return result
+}
+
+// mergeSummaries ?????? (Reduce ??)
+// ??????????AI ???????
+func (a *Analyzer) mergeSummaries(ctx context.Context, summaries []string, promptOverride string) (string, error) {
+	combinedSummaries := combineSummariesForPrompt(summaries)
+	prompt := buildFinalPrompt(promptOverride, combinedSummaries, len(summaries))
 
 	messages := []llm.ChatMessage{
 		{
 			Role:    "system",
-			Content: "你是一个严谨的会议/群聊纪要整理助手，会将多份局部总结整合成结构化的最终报告。",
+			Content: "?????????/?????????????????????????????",
 		},
 		{
 			Role:    "user",
@@ -763,37 +803,15 @@ func (a *Analyzer) mergeSummaries(ctx context.Context, summaries []string) (stri
 	return a.llmClient.ChatCompletion(ctx, messages)
 }
 
-// mergeSummariesStream 流式版本的合并总结 (Reduce 阶段)
-func (a *Analyzer) mergeSummariesStream(ctx context.Context, summaries []string, callback func(string)) (string, error) {
-	var formattedSummaries []string
-	for idx, summary := range summaries {
-		formattedSummaries = append(formattedSummaries, fmt.Sprintf("【批次 %d】\n%s", idx+1, strings.TrimSpace(summary)))
-	}
-	combinedSummaries := strings.Join(formattedSummaries, "\n\n---\n\n")
-
-	var introText string
-	if len(summaries) == 1 {
-		introText = "下面是对微信群聊天记录的总结，请将其整理为一份结构化的最终报告："
-	} else {
-		introText = "下面提供了若干分片的局部总结，请你：\n1. 按群聊/话题重新组织内容，去掉重复叙述，但要保留所有关键细节、时间、人物与数量\n2. 识别跨批次连续的讨论并合并，补全上下文\n3. 输出 Markdown，包含：概览、按群聊的详细总结、关键行动项/待办/风险\n\n分片总结如下："
-	}
-
-	prompt := fmt.Sprintf(`%s
-%s
-
-要求：
-1. 用中文撰写
-2. 整合所有段落的关键信息，避免重复
-3. 按群聊或主题组织内容，结构清晰
-4. 突出重要信息（招聘、活动、通知等），并引用原文关键内容
-5. 使用Markdown格式，层次分明
-6. 如果有讨论的发展或决策过程，请体现出来
-7. 在末尾添加"关键行动项/待办事项"小节（如有）`, introText, combinedSummaries)
+// mergeSummariesStream ????????? (Reduce ??)
+func (a *Analyzer) mergeSummariesStream(ctx context.Context, summaries []string, promptOverride string, callback func(string)) (string, error) {
+	combinedSummaries := combineSummariesForPrompt(summaries)
+	prompt := buildFinalPrompt(promptOverride, combinedSummaries, len(summaries))
 
 	messages := []llm.ChatMessage{
 		{
 			Role:    "system",
-			Content: "你是一个严谨的会议/群聊纪要整理助手，会将多份局部总结整合成结构化的最终报告。",
+			Content: "?????????/?????????????????????????????",
 		},
 		{
 			Role:    "user",

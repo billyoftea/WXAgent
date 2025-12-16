@@ -832,8 +832,150 @@
       "type": "动画表情",
       "str_content": "[表情消息]",
       "is_send": 0
+    },
+    {
+      "create_time": 1765893299,
+      "formatted_time": "2025-12-16 21:54:59",
+      "type": "文本消息",
+      "str_content": "@Kai  @alice @Alan @Lionel 羴 @尤菲  记得及时打卡呀！",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1765894149,
+      "formatted_time": "2025-12-16 22:09:09",
+      "type": "文本消息",
+      "str_content": "@所有人 大家进度怎么样，我看大部分同学还没做到 Week4，需要给一周的时间缓冲吗",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1765894199,
+      "formatted_time": "2025-12-16 22:09:59",
+      "type": "文本消息",
+      "str_content": "Feng_999:\n👀",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765894891,
+      "formatted_time": "2025-12-16 22:21:31",
+      "type": "文本消息",
+      "str_content": "s22494749:\n👀",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765894926,
+      "formatted_time": "2025-12-16 22:22:06",
+      "type": "文本消息",
+      "str_content": "遇到比较困难的部分大家也可以提问，加速自己的学习进程[旺柴]",
+      "is_send": 0,
+      "sender_name": "JH Chong",
+      "sender_wxid": "wxid_r3ge6l8ex5pq22"
+    },
+    {
+      "create_time": 1765895545,
+      "formatted_time": "2025-12-16 22:32:25",
+      "type": "引用消息",
+      "str_content": "需要的扣个 1，不需要扣 2",
+      "is_send": 0,
+      "sender_name": "Cauchy",
+      "sender_wxid": "wxid_mo2h5it2vwk922"
+    },
+    {
+      "create_time": 1765895572,
+      "formatted_time": "2025-12-16 22:32:52",
+      "type": "文本消息",
+      "str_content": "1 沉淀一下🙋🏻‍♂️",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765895588,
+      "formatted_time": "2025-12-16 22:33:08",
+      "type": "文本消息",
+      "str_content": "2",
+      "is_send": 0,
+      "sender_name": "犹如故人归",
+      "sender_wxid": "wxid_r6ns0spmcd4422"
+    },
+    {
+      "create_time": 1765895606,
+      "formatted_time": "2025-12-16 22:33:26",
+      "type": "文本消息",
+      "str_content": "我感觉还行",
+      "is_send": 0,
+      "sender_name": "犹如故人归",
+      "sender_wxid": "wxid_r6ns0spmcd4422"
+    },
+    {
+      "create_time": 1765895710,
+      "formatted_time": "2025-12-16 22:35:10",
+      "type": "文本消息",
+      "str_content": "QQ361724383:\n1",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765895721,
+      "formatted_time": "2025-12-16 22:35:21",
+      "type": "文本消息",
+      "str_content": "1",
+      "is_send": 0,
+      "sender_name": "尤菲",
+      "sender_wxid": "wxid_f8y8tshskam821"
+    },
+    {
+      "create_time": 1765895728,
+      "formatted_time": "2025-12-16 22:35:28",
+      "type": "文本消息",
+      "str_content": "1",
+      "is_send": 0,
+      "sender_name": "25-金投-赵雅琪",
+      "sender_wxid": "wxid_5gcuyo97tv3y22"
+    },
+    {
+      "create_time": 1765895730,
+      "formatted_time": "2025-12-16 22:35:30",
+      "type": "文本消息",
+      "str_content": "1",
+      "is_send": 0,
+      "sender_name": "武大数理金融 欧岱松",
+      "sender_wxid": "wxid_h11n8ke0gvo322"
+    },
+    {
+      "create_time": 1765895736,
+      "formatted_time": "2025-12-16 22:35:36",
+      "type": "文本消息",
+      "str_content": "1",
+      "is_send": 0,
+      "sender_name": "The Division Bell",
+      "sender_wxid": "wxid_pkuz8ruixgzw12"
+    },
+    {
+      "create_time": 1765895748,
+      "formatted_time": "2025-12-16 22:35:48",
+      "type": "文本消息",
+      "str_content": "s22494749:\n1",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765895769,
+      "formatted_time": "2025-12-16 22:36:09",
+      "type": "文本消息",
+      "str_content": "2",
+      "is_send": 0,
+      "sender_name": "Quantum",
+      "sender_wxid": "wxid_qs6ywclxziqm22"
+    },
+    {
+      "create_time": 1765896005,
+      "formatted_time": "2025-12-16 22:40:05",
+      "type": "文本消息",
+      "str_content": "gtf511:\n1",
+      "is_send": 0
     }
   ],
-  "export_time": "2025-12-15T00:08:18+08:00",
-  "message_count": 97
+  "export_time": "2025-12-16T22:45:35+08:00",
+  "message_count": 114
 }

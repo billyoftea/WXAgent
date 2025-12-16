@@ -553,8 +553,152 @@
       "str_content": "[表情消息]",
       "is_send": 0,
       "sender_name": "郭家栋 jerry"
+    },
+    {
+      "create_time": 1765763379,
+      "formatted_time": "2025-12-15 09:49:39",
+      "type": "文本消息",
+      "str_content": "徐昂老师中午得闲吗",
+      "is_send": 0,
+      "sender_name": "郭家栋 jerry"
+    },
+    {
+      "create_time": 1765763388,
+      "formatted_time": "2025-12-15 09:49:48",
+      "type": "文本消息",
+      "str_content": "可以一起吃饭哇",
+      "is_send": 0,
+      "sender_name": "郭家栋 jerry"
+    },
+    {
+      "create_time": 1765763402,
+      "formatted_time": "2025-12-15 09:50:02",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "郭家栋 jerry"
+    },
+    {
+      "create_time": 1765763410,
+      "formatted_time": "2025-12-15 09:50:10",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "郭家栋 jerry"
+    },
+    {
+      "create_time": 1765766068,
+      "formatted_time": "2025-12-15 10:34:28",
+      "type": "文本消息",
+      "str_content": "今天可能不太行jerry老师[流泪]中午下了课之后刚好有个饭局",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765766083,
+      "formatted_time": "2025-12-15 10:34:43",
+      "type": "文本消息",
+      "str_content": "这是刚度假回来嘛[呲牙]",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765771318,
+      "formatted_time": "2025-12-15 12:01:58",
+      "type": "文本消息",
+      "str_content": "哈哈哈哈徐昂老师日程依旧繁忙",
+      "is_send": 0,
+      "sender_name": "郭家栋 jerry"
+    },
+    {
+      "create_time": 1765771339,
+      "formatted_time": "2025-12-15 12:02:19",
+      "type": "文本消息",
+      "str_content": "那我们下次",
+      "is_send": 0,
+      "sender_name": "郭家栋 jerry"
+    },
+    {
+      "create_time": 1765771339,
+      "formatted_time": "2025-12-15 12:02:19",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "郭家栋 jerry"
+    },
+    {
+      "create_time": 1765771375,
+      "formatted_time": "2025-12-15 12:02:55",
+      "type": "引用消息",
+      "str_content": "哈哈哈哈去转了一圈",
+      "is_send": 0,
+      "sender_name": "郭家栋 jerry"
+    },
+    {
+      "create_time": 1765771657,
+      "formatted_time": "2025-12-15 12:07:37",
+      "type": "文本消息",
+      "str_content": "徐昂老师 上次那个实习我最后还是拒掉了",
+      "is_send": 0,
+      "sender_name": "郭家栋 jerry"
+    },
+    {
+      "create_time": 1765771664,
+      "formatted_time": "2025-12-15 12:07:44",
+      "type": "文本消息",
+      "str_content": "在香港找了个",
+      "is_send": 0,
+      "sender_name": "郭家栋 jerry"
+    },
+    {
+      "create_time": 1765771729,
+      "formatted_time": "2025-12-15 12:08:49",
+      "type": "文本消息",
+      "str_content": "是在一家银行投行部",
+      "is_send": 0,
+      "sender_name": "郭家栋 jerry"
+    },
+    {
+      "create_time": 1765771929,
+      "formatted_time": "2025-12-15 12:12:09",
+      "type": "文本消息",
+      "str_content": "合理啊~",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765771931,
+      "formatted_time": "2025-12-15 12:12:11",
+      "type": "文本消息",
+      "str_content": "做什么业务啊",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765772044,
+      "formatted_time": "2025-12-15 12:14:04",
+      "type": "文本消息",
+      "str_content": "是个比较小的银行，所以具体业务没有分太开",
+      "is_send": 0,
+      "sender_name": "郭家栋 jerry"
+    },
+    {
+      "create_time": 1765772054,
+      "formatted_time": "2025-12-15 12:14:14",
+      "type": "文本消息",
+      "str_content": "就是在这个部门哈哈哈哈",
+      "is_send": 0,
+      "sender_name": "郭家栋 jerry"
+    },
+    {
+      "create_time": 1765772119,
+      "formatted_time": "2025-12-15 12:15:19",
+      "type": "文本消息",
+      "str_content": "不过我表达的意向的发债那一块",
+      "is_send": 0,
+      "sender_name": "郭家栋 jerry"
     }
   ],
-  "export_time": "2025-12-15T00:08:18+08:00",
-  "message_count": 69
+  "export_time": "2025-12-16T22:45:35+08:00",
+  "message_count": 87
 }

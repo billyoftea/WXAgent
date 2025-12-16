@@ -23,6 +23,7 @@ class ChatDataPage extends StatefulWidget {
 class _ChatDataPageState extends State<ChatDataPage> {
   final TextEditingController _wechatPathCtrl = TextEditingController();
   final TextEditingController _exportDirCtrl = TextEditingController();
+  final TextEditingController _customOutputCtrl = TextEditingController();
 
   bool _loading = false;
   bool _actionLoading = false;
@@ -43,7 +44,9 @@ class _ChatDataPageState extends State<ChatDataPage> {
   bool _fullRefreshRunning = false;
   Map<String, dynamic>? _lastFullRefresh;
   DateTime? _lastFullRefreshAt;
-  DateTime? _lastExportTimestamp;
+  List<String>? _refreshLogs;
+  final ScrollController _refreshLogCtrl = ScrollController();
+  bool _refreshUserScrolling = false;
 
   final DateFormat _dateFormatter = DateFormat('yyyy-MM-dd');
 
@@ -58,6 +61,8 @@ class _ChatDataPageState extends State<ChatDataPage> {
   void dispose() {
     _wechatPathCtrl.dispose();
     _exportDirCtrl.dispose();
+    _customOutputCtrl.dispose();
+    _refreshLogCtrl.dispose();
     super.dispose();
   }
 
@@ -106,7 +111,6 @@ class _ChatDataPageState extends State<ChatDataPage> {
     controller.text = path;
   }
 
-
   Future<void> _autoDetectWechatPath() async {
     if (_detectingPath) return;
     _safeSetState(() {
@@ -114,7 +118,8 @@ class _ChatDataPageState extends State<ChatDataPage> {
       _error = null;
     });
     try {
-      final homeDir = Platform.environment['USERPROFILE'] ??
+      final homeDir =
+          Platform.environment['USERPROFILE'] ??
           Platform.environment['HOME'] ??
           '';
       if (homeDir.isEmpty) {
@@ -132,13 +137,17 @@ class _ChatDataPageState extends State<ChatDataPage> {
           if (entity is! Directory) continue;
           final dbStorage = Directory('${entity.path}${sep}db_storage');
           if (await dbStorage.exists()) {
-            await widget.controller.api.updateConfig({'wechat_data_path': base});
+            await widget.controller.api.updateConfig({
+              'wechat_data_path': base,
+            });
             _safeSetState(() {
               _wechatPathCtrl.text = base;
             });
             if (mounted) {
               ScaffoldMessenger.of(context).showSnackBar(
-                SnackBar(content: Text('Detected WeChat data directory: $base')),
+                SnackBar(
+                  content: Text('Detected WeChat data directory: $base'),
+                ),
               );
             }
             return;
@@ -167,9 +176,9 @@ class _ChatDataPageState extends State<ChatDataPage> {
     try {
       await widget.controller.api.updateConfig({field: value});
       if (!mounted) return;
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text('Updated $field')),
-      );
+      ScaffoldMessenger.of(
+        context,
+      ).showSnackBar(SnackBar(content: Text('Updated $field')));
     } catch (err) {
       _safeSetState(() {
         _error = err.toString();
@@ -183,16 +192,18 @@ class _ChatDataPageState extends State<ChatDataPage> {
 
   Future<void> _openFile(String? path) async {
     if (path == null || path.isEmpty) return;
-    
+
     // 如果是相对路径（只有文件名），则拼接导出目录
     String fullPath = path;
-    if (!path.contains(Platform.pathSeparator) && !path.contains('/') && !path.contains('\\')) {
+    if (!path.contains(Platform.pathSeparator) &&
+        !path.contains('/') &&
+        !path.contains('\\')) {
       final exportDir = _exportDirCtrl.text;
       if (exportDir.isNotEmpty) {
         fullPath = '$exportDir${Platform.pathSeparator}$path';
       }
     }
-    
+
     // 使用 Process.run 直接打开文件，避免 URL 编码问题
     if (Platform.isWindows) {
       await Process.run('explorer.exe', ['/select,', fullPath]);
@@ -230,14 +241,18 @@ class _ChatDataPageState extends State<ChatDataPage> {
     return _sessionPool.where((session) {
       final name = session.displayName.toLowerCase();
       final matchesSearch =
-          query.isEmpty || name.contains(query) || session.sessionId.contains(query);
-      final type = (session.category ?? session.sessionType ?? '').toLowerCase();
+          query.isEmpty ||
+          name.contains(query) ||
+          session.sessionId.contains(query);
+      final type = (session.category ?? session.sessionType ?? '')
+          .toLowerCase();
       bool matchesFilter = true;
       if (_sessionFilter == 'group') {
         matchesFilter = type.contains('group') || type.contains('chatroom');
       } else if (_sessionFilter == 'single') {
         matchesFilter =
-            type.contains('single') || (!type.contains('chatroom') && !type.contains('group'));
+            type.contains('single') ||
+            (!type.contains('chatroom') && !type.contains('group'));
       }
       return matchesSearch && matchesFilter;
     }).toList();
@@ -270,7 +285,8 @@ class _ChatDataPageState extends State<ChatDataPage> {
   }
 
   Future<void> _pickManualRange() async {
-    final initial = _manualRange ??
+    final initial =
+        _manualRange ??
         DateTimeRange(
           start: DateTime.now().subtract(const Duration(days: 7)),
           end: DateTime.now(),
@@ -307,15 +323,19 @@ class _ChatDataPageState extends State<ChatDataPage> {
     if (_selectedSessionFiles.isEmpty) {
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(content: Text('Select at least one session to export')),
+          const SnackBar(
+            content: Text('Select at least one session to export'),
+          ),
         );
       }
       return;
     }
-    final startDate =
-        _manualRange == null ? null : _dateFormatter.format(_manualRange!.start);
-    final endDate =
-        _manualRange == null ? null : _dateFormatter.format(_manualRange!.end);
+    final startDate = _manualRange == null
+        ? null
+        : _dateFormatter.format(_manualRange!.start);
+    final endDate = _manualRange == null
+        ? null
+        : _dateFormatter.format(_manualRange!.end);
     _safeSetState(() {
       _manualExporting = true;
       _error = null;
@@ -331,11 +351,9 @@ class _ChatDataPageState extends State<ChatDataPage> {
       if (!mounted) return;
       final exported = (response['files'] as List?)?.cast<String>() ?? const [];
       final count = response['count'] ?? exported.length;
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          content: Text('Exported $count messages'),
-        ),
-      );
+      ScaffoldMessenger.of(
+        context,
+      ).showSnackBar(SnackBar(content: Text('Exported $count messages')));
       await _loadData();
     } catch (err) {
       _safeSetState(() {
@@ -353,22 +371,46 @@ class _ChatDataPageState extends State<ChatDataPage> {
     _safeSetState(() {
       _fullRefreshRunning = true;
       _error = null;
+      _refreshLogs = [];
     });
     try {
-      final result = await widget.controller.api.runFullRefresh(
+      await for (final event in widget.controller.api.runFullRefreshStream(
         autoLaunchKey: true,
         waitSeconds: 90,
         pollInterval: 3,
-      );
-      _safeSetState(() {
-        _lastFullRefresh = result;
-        _lastFullRefreshAt = DateTime.now();
-      });
+      )) {
+        if (!mounted) return;
+        if (event.type == 'log') {
+          _safeSetState(() {
+            _refreshLogs?.add(event.content);
+          });
+          _scrollRefreshLogs();
+        } else if (event.type == 'error') {
+          _safeSetState(() {
+            _error = event.content.isNotEmpty
+                ? event.content
+                : event.payload?['message']?.toString();
+          });
+          return;
+        } else if (event.type == 'result') {
+          final payload = event.payload ?? const {};
+          _safeSetState(() {
+            _lastFullRefresh = payload;
+            _lastFullRefreshAt = DateTime.now();
+            final logs = payload['logs'] as List?;
+            if ((_refreshLogs == null || _refreshLogs!.isEmpty) &&
+                logs != null) {
+              _refreshLogs = logs.map((e) => e.toString()).toList();
+            }
+          });
+        }
+      }
       if (!mounted) return;
-      final processed = result['messages'] ?? result['sessions'] ?? 0;
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text('导出完成，处理 $processed 条记录')),
-      );
+      final processed =
+          _lastFullRefresh?['messages'] ?? _lastFullRefresh?['sessions'] ?? 0;
+      ScaffoldMessenger.of(
+        context,
+      ).showSnackBar(SnackBar(content: Text('导出完成，处理 $processed 条记录')));
       await _loadData();
     } catch (err) {
       _safeSetState(() {
@@ -388,6 +430,19 @@ class _ChatDataPageState extends State<ChatDataPage> {
     final start = _dateFormatter.format(_manualRange!.start);
     final end = _dateFormatter.format(_manualRange!.end);
     return '$start - $end';
+  }
+
+  void _scrollRefreshLogs() {
+    if (_refreshUserScrolling) return;
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      if (_refreshLogCtrl.hasClients) {
+        _refreshLogCtrl.animateTo(
+          _refreshLogCtrl.position.maxScrollExtent,
+          duration: const Duration(milliseconds: 120),
+          curve: Curves.easeOut,
+        );
+      }
+    });
   }
 
   Widget _buildManualExportPanel() {
@@ -441,10 +496,7 @@ class _ChatDataPageState extends State<ChatDataPage> {
           ),
         ),
         const SizedBox(height: 16),
-        SizedBox(
-          height: 280,
-          child: _buildSessionList(),
-        ),
+        SizedBox(height: 280, child: _buildSessionList()),
         Padding(
           padding: const EdgeInsets.only(top: 8),
           child: Text(
@@ -571,6 +623,7 @@ class _ChatDataPageState extends State<ChatDataPage> {
       }),
     );
   }
+
   void _safeSetState(VoidCallback fn) {
     if (!mounted) return;
     setState(fn);
@@ -588,7 +641,14 @@ class _ChatDataPageState extends State<ChatDataPage> {
         ? null
         : DateFormat('yyyy-MM-dd HH:mm:ss').format(_lastFullRefreshAt!);
     final metrics = [
-      _MetricItem('密钥', key != null ? '已更新' : keyError != null ? '失败' : '未更新'),
+      _MetricItem(
+        '密钥',
+        key != null
+            ? '已更新'
+            : keyError != null
+            ? '失败'
+            : '未更新',
+      ),
       _MetricItem('导出', exportOk ? '成功' : '失败'),
       _MetricItem('数据集', datasetReady ? '可用' : '未生成'),
       _MetricItem('会话数', '$sessions'),
@@ -624,6 +684,38 @@ class _ChatDataPageState extends State<ChatDataPage> {
             Text(
               '密钥错误：$keyError',
               style: const TextStyle(color: Colors.redAccent),
+            ),
+          ],
+          if (_refreshLogs != null && _refreshLogs!.isNotEmpty) ...[
+            const SizedBox(height: 12),
+            ExpansionTile(
+              tilePadding: EdgeInsets.zero,
+              title: Row(
+                children: [
+                  const Icon(Icons.terminal, size: 18),
+                  const SizedBox(width: 8),
+                  Text('导出日志（${_refreshLogs!.length}）'),
+                ],
+              ),
+              children: [
+                Container(
+                  width: double.infinity,
+                  constraints: const BoxConstraints(maxHeight: 220),
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 8,
+                    vertical: 4,
+                  ),
+                  child: SingleChildScrollView(
+                    child: SelectableText(
+                      _refreshLogs!.join('\n'),
+                      style: const TextStyle(
+                        fontFamily: 'monospace',
+                        fontSize: 12,
+                      ),
+                    ),
+                  ),
+                ),
+              ],
             ),
           ],
         ],
@@ -724,6 +816,112 @@ class _ChatDataPageState extends State<ChatDataPage> {
                   ),
                 ],
               ),
+              if (_fullRefreshRunning ||
+                  (_refreshLogs != null && _refreshLogs!.isNotEmpty)) ...[
+                const SizedBox(height: 12),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.grey.shade900,
+                    borderRadius: BorderRadius.circular(8),
+                    border: Border.all(color: Colors.grey.shade700),
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Container(
+                        padding: const EdgeInsets.symmetric(
+                          horizontal: 12,
+                          vertical: 8,
+                        ),
+                        decoration: BoxDecoration(
+                          color: Colors.grey.shade800,
+                          borderRadius: const BorderRadius.only(
+                            topLeft: Radius.circular(7),
+                            topRight: Radius.circular(7),
+                          ),
+                        ),
+                        child: Row(
+                          children: [
+                            if (_fullRefreshRunning) ...[
+                              const SizedBox(
+                                width: 12,
+                                height: 12,
+                                child: CircularProgressIndicator(
+                                  strokeWidth: 2,
+                                  color: Colors.green,
+                                ),
+                              ),
+                              const SizedBox(width: 8),
+                            ] else ...[
+                              const Icon(
+                                Icons.check_circle,
+                                size: 14,
+                                color: Colors.green,
+                              ),
+                              const SizedBox(width: 8),
+                            ],
+                            Text(
+                              _fullRefreshRunning ? '导出进行中...' : '导出完成',
+                              style: const TextStyle(
+                                color: Colors.white,
+                                fontWeight: FontWeight.w500,
+                                fontSize: 13,
+                              ),
+                            ),
+                            const Spacer(),
+                            if (!_fullRefreshRunning &&
+                                (_refreshLogs?.isNotEmpty ?? false))
+                              IconButton(
+                                icon: const Icon(
+                                  Icons.clear,
+                                  size: 16,
+                                  color: Colors.grey,
+                                ),
+                                padding: EdgeInsets.zero,
+                                constraints: const BoxConstraints(),
+                                tooltip: '清除日志',
+                                onPressed: () {
+                                  _safeSetState(() {
+                                    _refreshLogs = [];
+                                  });
+                                },
+                              ),
+                          ],
+                        ),
+                      ),
+                      SizedBox(
+                        height: 200,
+                        child: NotificationListener<ScrollNotification>(
+                          onNotification: (notification) {
+                            if (notification is ScrollStartNotification &&
+                                notification.dragDetails != null) {
+                              _refreshUserScrolling = true;
+                            } else if (notification is ScrollEndNotification) {
+                              _refreshUserScrolling = false;
+                              _scrollRefreshLogs();
+                            }
+                            return false;
+                          },
+                          child: ListView(
+                            controller: _refreshLogCtrl,
+                            padding: const EdgeInsets.all(12),
+                            children: [
+                              SelectableText(
+                                (_refreshLogs ?? []).join('\n'),
+                                style: const TextStyle(
+                                  fontFamily: 'monospace',
+                                  fontSize: 12,
+                                  color: Colors.grey,
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              ],
               if (_lastFullRefresh != null) ...[
                 const SizedBox(height: 16),
                 _buildRefreshSummary(),

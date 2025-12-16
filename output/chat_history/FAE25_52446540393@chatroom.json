@@ -217,8 +217,35 @@
       "is_send": 0,
       "sender_name": "divine",
       "sender_wxid": "wxid_52o8v16n1vwv21"
+    },
+    {
+      "create_time": 1765763936,
+      "formatted_time": "2025-12-15 09:58:56",
+      "type": "文本消息",
+      "str_content": "Dear all,\n\n A very important message reminder about our midterm exam:\nWe 【change the room to 401】 to hold the midterm exam.\n· No phones, calculators, or cheat sheets allowed\n· No need to bring scratch paper — we’ll provide it\n· Please sit according to the seating chart displayed on the screen\n· Only keep necessary pens, stationery, water, and your student ID card on your desk\n\nGood luck!",
+      "is_send": 0,
+      "sender_name": "divine",
+      "sender_wxid": "wxid_52o8v16n1vwv21"
+    },
+    {
+      "create_time": 1765763942,
+      "formatted_time": "2025-12-15 09:59:02",
+      "type": "文本消息",
+      "str_content": "@所有人",
+      "is_send": 0,
+      "sender_name": "divine",
+      "sender_wxid": "wxid_52o8v16n1vwv21"
+    },
+    {
+      "create_time": 1765856128,
+      "formatted_time": "2025-12-16 11:35:28",
+      "type": "文本消息",
+      "str_content": "Plz note that:\nWe 【change the room to 401】 to hold the midterm exam.",
+      "is_send": 0,
+      "sender_name": "divine",
+      "sender_wxid": "wxid_52o8v16n1vwv21"
     }
   ],
-  "export_time": "2025-12-15T00:08:18+08:00",
-  "message_count": 28
+  "export_time": "2025-12-16T22:45:35+08:00",
+  "message_count": 31
 }

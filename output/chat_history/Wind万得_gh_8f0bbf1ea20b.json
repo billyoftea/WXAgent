@@ -385,8 +385,24 @@
       "str_content": "陆家嘴财经早餐2025年12月14日星期日",
       "is_send": 0,
       "sender_name": "Wind万得"
+    },
+    {
+      "create_time": 1765751716,
+      "formatted_time": "2025-12-15 06:35:16",
+      "type": "图文消息",
+      "str_content": "银行理财月报 | 固收+规模连续4个月上升，达标率再提升2%",
+      "is_send": 0,
+      "sender_name": "Wind万得"
+    },
+    {
+      "create_time": 1765838252,
+      "formatted_time": "2025-12-16 06:37:32",
+      "type": "图文消息",
+      "str_content": "陆家嘴财经早餐2025年12月16日星期二",
+      "is_send": 0,
+      "sender_name": "Wind万得"
     }
   ],
-  "export_time": "2025-12-15T00:08:12+08:00",
-  "message_count": 48
+  "export_time": "2025-12-16T22:45:30+08:00",
+  "message_count": 50
 }

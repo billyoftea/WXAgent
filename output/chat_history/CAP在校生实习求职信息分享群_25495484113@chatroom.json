@@ -383,8 +383,26 @@
       "type": "拍一拍消息",
       "str_content": "[拍一拍]",
       "is_send": 0
+    },
+    {
+      "create_time": 1765863187,
+      "formatted_time": "2025-12-16 13:33:07",
+      "type": "图文消息",
+      "str_content": "把握机会！2026“气候拓新者”中国项目招募即将截止",
+      "is_send": 0,
+      "sender_name": "五升",
+      "sender_wxid": "wxid_lkhay5hb7qbm22"
+    },
+    {
+      "create_time": 1765863238,
+      "formatted_time": "2025-12-16 13:33:58",
+      "type": "文本消息",
+      "str_content": "对绿色金融 可持续发展感兴趣的uu们可以看下～欢迎转发&找我了解",
+      "is_send": 0,
+      "sender_name": "五升",
+      "sender_wxid": "wxid_lkhay5hb7qbm22"
     }
   ],
-  "export_time": "2025-12-15T00:08:18+08:00",
-  "message_count": 48
+  "export_time": "2025-12-16T22:45:35+08:00",
+  "message_count": 50
 }

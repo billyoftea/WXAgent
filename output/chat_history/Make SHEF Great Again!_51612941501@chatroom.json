@@ -51,8 +51,74 @@
       "is_send": 0,
       "sender_name": "赵彤-北京大学-管双",
       "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1765878879,
+      "formatted_time": "2025-12-16 17:54:39",
+      "type": "聊天记录合并转发",
+      "str_content": "[聊天记录]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765878893,
+      "formatted_time": "2025-12-16 17:54:53",
+      "type": "文本消息",
+      "str_content": "欢迎大家转发这个推文并配文呀[鼓掌][鼓掌][鼓掌]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765878907,
+      "formatted_time": "2025-12-16 17:55:07",
+      "type": "文本消息",
+      "str_content": "官宣大家上任啦",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765890762,
+      "formatted_time": "2025-12-16 21:12:42",
+      "type": "文本消息",
+      "str_content": "我们计划在本周日晚上和23级深港会长黄赞师兄、24级会长团何宇淳师兄和马超然师姐一起吃顿饭，向师兄师姐们交流学习，大家记得提前留好时间，尽量都来呀~！[跳跳]\n @所有人",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765890854,
+      "formatted_time": "2025-12-16 21:14:14",
+      "type": "文本消息",
+      "str_content": "收到🫡",
+      "is_send": 0,
+      "sender_name": "赵彤-北京大学-管双",
+      "sender_wxid": "wxid_7m32j6pr8rdo32"
+    },
+    {
+      "create_time": 1765890866,
+      "formatted_time": "2025-12-16 21:14:26",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765890879,
+      "formatted_time": "2025-12-16 21:14:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "王一如-25-管双",
+      "sender_wxid": "wxid_81qumig8k6wi22"
+    },
+    {
+      "create_time": 1765894165,
+      "formatted_time": "2025-12-16 22:09:25",
+      "type": "引用消息",
+      "str_content": "看大家周日晚上比较忙，我们改到周日中午~",
+      "is_send": 1,
+      "sender": "自己"
     }
   ],
-  "export_time": "2025-12-15T00:08:18+08:00",
-  "message_count": 6
+  "export_time": "2025-12-16T22:45:35+08:00",
+  "message_count": 14
 }

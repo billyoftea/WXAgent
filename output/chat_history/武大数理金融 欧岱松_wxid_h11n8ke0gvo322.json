@@ -985,8 +985,56 @@
       "str_content": "哈哈哈确实，但我总感觉cursor聪明一点",
       "is_send": 1,
       "sender_name": "自己"
+    },
+    {
+      "create_time": 1765770601,
+      "formatted_time": "2025-12-15 11:50:01",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "武大数理金融 欧岱松"
+    },
+    {
+      "create_time": 1765770609,
+      "formatted_time": "2025-12-15 11:50:09",
+      "type": "文本消息",
+      "str_content": "欧哥，这个换届材料，附件2（北京大学深圳研究生院学生社团换届注册会长信息登记表 ）是只需要会长的信息是吧？附件3（北京大学深圳研究生院学生社团换届注册成员信息备案登记表 ）是全部成员的信息是吗？",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765770618,
+      "formatted_time": "2025-12-15 11:50:18",
+      "type": "文本消息",
+      "str_content": "应该是",
+      "is_send": 0,
+      "sender_name": "武大数理金融 欧岱松"
+    },
+    {
+      "create_time": 1765770634,
+      "formatted_time": "2025-12-15 11:50:34",
+      "type": "文本消息",
+      "str_content": "25级进来的信息",
+      "is_send": 0,
+      "sender_name": "武大数理金融 欧岱松"
+    },
+    {
+      "create_time": 1765771085,
+      "formatted_time": "2025-12-15 11:58:05",
+      "type": "文本消息",
+      "str_content": "好好好",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765771087,
+      "formatted_time": "2025-12-15 11:58:07",
+      "type": "文本消息",
+      "str_content": "爱你欧哥",
+      "is_send": 1,
+      "sender_name": "自己"
     }
   ],
-  "export_time": "2025-12-15T00:08:34+08:00",
-  "message_count": 123
+  "export_time": "2025-12-16T22:45:54+08:00",
+  "message_count": 129
 }

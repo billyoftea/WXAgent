@@ -337,8 +337,24 @@
       "str_content": "会议日程 | 第五届清华大学-北京大学中国经济研讨会",
       "is_send": 0,
       "sender_name": "北大国发院"
+    },
+    {
+      "create_time": 1765798736,
+      "formatted_time": "2025-12-15 19:38:56",
+      "type": "图文消息",
+      "str_content": "林毅夫：世界局势的变化和中华民族的伟大复兴",
+      "is_send": 0,
+      "sender_name": "北大国发院"
+    },
+    {
+      "create_time": 1765888017,
+      "formatted_time": "2025-12-16 20:26:57",
+      "type": "图文消息",
+      "str_content": "徐远：资本市场的高质量发展——基于信心博弈的视角",
+      "is_send": 0,
+      "sender_name": "北大国发院"
     }
   ],
-  "export_time": "2025-12-15T00:08:13+08:00",
-  "message_count": 42
+  "export_time": "2025-12-16T22:45:31+08:00",
+  "message_count": 44
 }

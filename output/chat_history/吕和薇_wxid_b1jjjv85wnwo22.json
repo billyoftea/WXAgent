@@ -9017,8 +9017,112 @@
       "str_content": "好哇 包的",
       "is_send": 0,
       "sender_name": "吕和薇"
+    },
+    {
+      "create_time": 1765854574,
+      "formatted_time": "2025-12-16 11:09:34",
+      "type": "文本消息",
+      "str_content": "昻",
+      "is_send": 0,
+      "sender_name": "吕和薇"
+    },
+    {
+      "create_time": 1765854578,
+      "formatted_time": "2025-12-16 11:09:38",
+      "type": "文本消息",
+      "str_content": "你在群里发的是哪家",
+      "is_send": 0,
+      "sender_name": "吕和薇"
+    },
+    {
+      "create_time": 1765854596,
+      "formatted_time": "2025-12-16 11:09:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇"
+    },
+    {
+      "create_time": 1765854647,
+      "formatted_time": "2025-12-16 11:10:47",
+      "type": "文本消息",
+      "str_content": "华泰",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765854657,
+      "formatted_time": "2025-12-16 11:10:57",
+      "type": "文本消息",
+      "str_content": "我觉得可以先投着",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765854661,
+      "formatted_time": "2025-12-16 11:11:01",
+      "type": "文本消息",
+      "str_content": "你觉得b站速成c和python有机会投递吗",
+      "is_send": 0,
+      "sender_name": "吕和薇"
+    },
+    {
+      "create_time": 1765854662,
+      "formatted_time": "2025-12-16 11:11:02",
+      "type": "文本消息",
+      "str_content": "毕竟也没啥成本",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765854678,
+      "formatted_time": "2025-12-16 11:11:18",
+      "type": "文本消息",
+      "str_content": "说不定就看你是院友给你捞上去了",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765854687,
+      "formatted_time": "2025-12-16 11:11:27",
+      "type": "文本消息",
+      "str_content": "不过期望可以放低一些",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765854696,
+      "formatted_time": "2025-12-16 11:11:36",
+      "type": "文本消息",
+      "str_content": "有道理",
+      "is_send": 0,
+      "sender_name": "吕和薇"
+    },
+    {
+      "create_time": 1765854699,
+      "formatted_time": "2025-12-16 11:11:39",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "吕和薇"
+    },
+    {
+      "create_time": 1765854705,
+      "formatted_time": "2025-12-16 11:11:45",
+      "type": "文本消息",
+      "str_content": "没事没事",
+      "is_send": 1,
+      "sender_name": "自己"
+    },
+    {
+      "create_time": 1765854705,
+      "formatted_time": "2025-12-16 11:11:45",
+      "type": "文本消息",
+      "str_content": "感谢",
+      "is_send": 0,
+      "sender_name": "吕和薇"
     }
   ],
-  "export_time": "2025-12-15T00:08:28+08:00",
-  "message_count": 1127
+  "export_time": "2025-12-16T22:45:47+08:00",
+  "message_count": 1140
 }

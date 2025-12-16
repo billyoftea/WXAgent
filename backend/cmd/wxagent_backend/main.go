@@ -135,7 +135,7 @@ func runAnalyzeChat(p *pipeline.Pipeline) {
 	}
 
 	fmt.Println("=== 微信聊天记录智能分析 ===\n")
-	result, err := p.AnalyzeChat(*startDate, *endDate, sessionList, *maxTokens, *output)
+	result, err := p.AnalyzeChat(*startDate, *endDate, sessionList, *maxTokens, *output, "", "")
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "Error analyzing chat: %v\n", err)
 		os.Exit(1)

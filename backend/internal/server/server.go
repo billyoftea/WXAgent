@@ -35,6 +35,7 @@ func (s *Server) routes() {
 	s.mux.HandleFunc("/export", s.handleExport)
 	s.mux.HandleFunc("/export/states", s.handleExportStates)
 	s.mux.HandleFunc("/full-refresh", s.handleFullRefresh)
+	s.mux.HandleFunc("/full-refresh/stream", s.handleFullRefreshStream)
 	s.mux.HandleFunc("/sessions", s.handleListSessions)
 	s.mux.HandleFunc("/sessions/describe", s.handleDescribeSession)
 	s.mux.HandleFunc("/summary/run", s.handleRunSummary)
@@ -168,13 +169,68 @@ func (s *Server) handleFullRefresh(w http.ResponseWriter, r *http.Request) {
 		req.PollInterval = 3
 	}
 
-	res, err := s.pipeline.RunFullRefresh(req.AutoLaunchKey, req.WaitSeconds, req.PollInterval, req.ExportArgs)
+	res, err := s.pipeline.RunFullRefresh(req.AutoLaunchKey, req.WaitSeconds, req.PollInterval, req.ExportArgs, nil)
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
 	}
 
 	jsonResponse(w, res)
+}
+
+// SSE 导出流式端点：实时推送日志
+func (s *Server) handleFullRefreshStream(w http.ResponseWriter, r *http.Request) {
+	if r.Method != http.MethodPost {
+		http.Error(w, "Method not allowed", http.StatusMethodNotAllowed)
+		return
+	}
+
+	var req FullRefreshRequest
+	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+		http.Error(w, err.Error(), http.StatusBadRequest)
+		return
+	}
+
+	if req.WaitSeconds == 0 {
+		req.WaitSeconds = 90
+	}
+	if req.PollInterval == 0 {
+		req.PollInterval = 3
+	}
+
+	w.Header().Set("Content-Type", "text/event-stream")
+	w.Header().Set("Cache-Control", "no-cache")
+	w.Header().Set("Connection", "keep-alive")
+	w.Header().Set("Access-Control-Allow-Origin", "*")
+
+	flusher, ok := w.(http.Flusher)
+	if !ok {
+		http.Error(w, "Streaming not supported", http.StatusInternalServerError)
+		return
+	}
+
+	sendEvent := func(eventType string, data any) {
+		jsonData, _ := json.Marshal(data)
+		w.Write([]byte("event: " + eventType + "\n"))
+		w.Write([]byte("data: " + string(jsonData) + "\n\n"))
+		flusher.Flush()
+	}
+
+	result, err := s.pipeline.RunFullRefresh(
+		req.AutoLaunchKey,
+		req.WaitSeconds,
+		req.PollInterval,
+		req.ExportArgs,
+		func(line string) {
+			sendEvent("log", map[string]string{"content": line})
+		},
+	)
+	if err != nil {
+		sendEvent("error", map[string]string{"message": err.Error()})
+		return
+	}
+
+	sendEvent("result", result)
 }
 
 func (s *Server) handleListSessions(w http.ResponseWriter, r *http.Request) {
@@ -195,6 +251,8 @@ type SummarizeRequest struct {
 	Mode         string   `json:"mode"`     // "merged" (跨会话合并) 或 "per_session" (逐会话)
 	Sessions     []string `json:"sessions"` // 可选：指定会话列表
 	MaxTokens    int      `json:"max_tokens"`
+	ChunkPrompt  string   `json:"chunk_prompt"`
+	FinalPrompt  string   `json:"final_prompt"`
 }
 
 func (s *Server) handleRunSummary(w http.ResponseWriter, r *http.Request) {
@@ -220,7 +278,7 @@ func (s *Server) handleRunSummary(w http.ResponseWriter, r *http.Request) {
 			maxTokens = 80000 // DeepSeek 支持 128K，设置 80K 留余量
 		}
 
-		result, err := s.pipeline.AnalyzeChat(req.StartDate, req.EndDate, req.Sessions, maxTokens, "")
+		result, err := s.pipeline.AnalyzeChat(req.StartDate, req.EndDate, req.Sessions, maxTokens, "", req.ChunkPrompt, req.FinalPrompt)
 		if err != nil {
 			log.Printf("❌ 跨会话分析失败: %v", err)
 			http.Error(w, err.Error(), http.StatusInternalServerError)
@@ -298,7 +356,7 @@ func (s *Server) handleRunSummaryStream(w http.ResponseWriter, r *http.Request) 
 
 	// 使用流式分析
 	result, err := s.pipeline.AnalyzeChatStream(
-		req.StartDate, req.EndDate, req.Sessions, maxTokens, "",
+		req.StartDate, req.EndDate, req.Sessions, maxTokens, "", req.ChunkPrompt, req.FinalPrompt,
 		func(event pipeline.StreamEvent) {
 			sendEvent(event.Type, map[string]any{
 				"content": event.Content,

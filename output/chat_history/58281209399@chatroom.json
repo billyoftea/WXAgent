@@ -124,8 +124,43 @@
       "str_content": "我的简历ID：3299884",
       "is_send": 1,
       "sender": "自己"
+    },
+    {
+      "create_time": 1765855444,
+      "formatted_time": "2025-12-16 11:24:04",
+      "type": "文本消息",
+      "str_content": "看到你们三位应该都已经到offer报批环节啦，你们之后约了入职时间之后记得在群里说一声约了哪天～",
+      "is_send": 0,
+      "sender_name": "Lilia 腾讯hr",
+      "sender_wxid": "wxid_50el8e0xl2mp12"
+    },
+    {
+      "create_time": 1765855532,
+      "formatted_time": "2025-12-16 11:25:32",
+      "type": "文本消息",
+      "str_content": "收到!",
+      "is_send": 0,
+      "sender_name": "姚大豆",
+      "sender_wxid": "wxid_awra01a1o2h922"
+    },
+    {
+      "create_time": 1765855542,
+      "formatted_time": "2025-12-16 11:25:42",
+      "type": "文本消息",
+      "str_content": "好嘞~",
+      "is_send": 1,
+      "sender": "自己"
+    },
+    {
+      "create_time": 1765857639,
+      "formatted_time": "2025-12-16 12:00:39",
+      "type": "文本消息",
+      "str_content": "好的",
+      "is_send": 0,
+      "sender_name": "vincent👻",
+      "sender_wxid": "wxid_jhr71kof4enb12"
     }
   ],
-  "export_time": "2025-12-15T00:08:18+08:00",
-  "message_count": 14
+  "export_time": "2025-12-16T22:45:35+08:00",
+  "message_count": 18
 }

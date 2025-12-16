@@ -69825,8 +69825,351 @@
       "type": "系统消息",
       "str_content": "[系统消息]",
       "is_send": 0
+    },
+    {
+      "create_time": 1765797233,
+      "formatted_time": "2025-12-15 19:13:53",
+      "type": "文本消息",
+      "str_content": "@Kairo丶 次数的2.5pro busy了",
+      "is_send": 0,
+      "sender_name": "A.T.Field",
+      "sender_wxid": "wxid_fn4ov1honfcc22"
+    },
+    {
+      "create_time": 1765797842,
+      "formatted_time": "2025-12-15 19:24:02",
+      "type": "引用消息",
+      "str_content": "任何内容都是无响应吗",
+      "is_send": 0,
+      "sender_name": "奇奇",
+      "sender_wxid": "wxid_h74qdogns9zt22"
+    },
+    {
+      "create_time": 1765797973,
+      "formatted_time": "2025-12-15 19:26:13",
+      "type": "引用消息",
+      "str_content": "你看看响应有什么",
+      "is_send": 0,
+      "sender_name": "奇奇",
+      "sender_wxid": "wxid_h74qdogns9zt22"
+    },
+    {
+      "create_time": 1765799283,
+      "formatted_time": "2025-12-15 19:48:03",
+      "type": "引用消息",
+      "str_content": "现在有了，但是",
+      "is_send": 0,
+      "sender_name": "ユ",
+      "sender_wxid": "wxid_filfqdahlz7y22"
+    },
+    {
+      "create_time": 1765799293,
+      "formatted_time": "2025-12-15 19:48:13",
+      "type": "文本消息",
+      "str_content": "data: {\"id\":\"gen_01KCGX9ASCR1V3AA54HPJDD6V9\",\"object\":\"chat.completion.chunk\",\"created\":1765799150,\"model\":\"google/gemini-2.5-flash-image\",\"choices\":[{\"index\":0,\"delta\":{\"role\":\"assistant\"},\"logprobs\":null,\"finish_reason\":null}],\"system_fingerprint\":\"fp_zlxcbi0v35\"}\n\ndata: {\"id\":\"gen_01KCGX9ASCR1V3AA54HPJDD6V9\",\"object\":\"chat.completion.chunk\",\"created\":1765799150,\"model\":\"google/gemini-2.5-flash-image\",\"system_fingerprint\":\"fp_zlxcbi0v35\",\"choices\":[],\"usage\":{\"prompt_tokens\":708,\"completion_tokens\":0,\"total_tokens\":708,\"prompt_tokens_details\":{\"cached_tokens\":0,\"text_tokens\":0,\"audio_tokens\":0,\"image_tokens\":0},\"completion_tokens_details\":{\"text_tokens\":0,\"audio_tokens\":0,\"reasoning_tokens\":0},\"input_tokens\":0,\"output_tokens\":0,\"input_tokens_details\":null,\"claude_cache_creation_5_m_tokens\":0,\"claude_cache_creation_1_h_tokens\":0}}\n\ndata: [DONE]",
+      "is_send": 0,
+      "sender_name": "ユ",
+      "sender_wxid": "wxid_filfqdahlz7y22"
+    },
+    {
+      "create_time": 1765800085,
+      "formatted_time": "2025-12-15 20:01:25",
+      "type": "文本消息",
+      "str_content": "2.5不行了@奇奇",
+      "is_send": 0,
+      "sender_name": "子春",
+      "sender_wxid": "wxid_1402c8h6vleh22"
+    },
+    {
+      "create_time": 1765800108,
+      "formatted_time": "2025-12-15 20:01:48",
+      "type": "文本消息",
+      "str_content": "解决，等1min再看看",
+      "is_send": 0,
+      "sender_name": "Kairo丶",
+      "sender_wxid": "wxid_3fpcfbiiipso22"
+    },
+    {
+      "create_time": 1765800115,
+      "formatted_time": "2025-12-15 20:01:55",
+      "type": "文本消息",
+      "str_content": "刚刚号被刷爆了",
+      "is_send": 0,
+      "sender_name": "Kairo丶",
+      "sender_wxid": "wxid_3fpcfbiiipso22"
+    },
+    {
+      "create_time": 1765800135,
+      "formatted_time": "2025-12-15 20:02:15",
+      "type": "文本消息",
+      "str_content": "@子春",
+      "is_send": 0,
+      "sender_name": "Kairo丶",
+      "sender_wxid": "wxid_3fpcfbiiipso22"
+    },
+    {
+      "create_time": 1765810329,
+      "formatted_time": "2025-12-15 22:52:09",
+      "type": "文本消息",
+      "str_content": "@Kairo丶 你好 我想问一下你们这个api接口是不是经常断啊",
+      "is_send": 0,
+      "sender_name": "小羊羔子",
+      "sender_wxid": "wxid_hgr05763i8vz22"
+    },
+    {
+      "create_time": 1765810342,
+      "formatted_time": "2025-12-15 22:52:22",
+      "type": "文本消息",
+      "str_content": "那个",
+      "is_send": 0,
+      "sender_name": "Kairo丶",
+      "sender_wxid": "wxid_3fpcfbiiipso22"
+    },
+    {
+      "create_time": 1765810408,
+      "formatted_time": "2025-12-15 22:53:28",
+      "type": "引用消息",
+      "str_content": "我现在又出现了这个问题",
+      "is_send": 0,
+      "sender_name": "小羊羔子",
+      "sender_wxid": "wxid_hgr05763i8vz22"
+    },
+    {
+      "create_time": 1765810464,
+      "formatted_time": "2025-12-15 22:54:24",
+      "type": "文本消息",
+      "str_content": "有没有稳定一点的api url？",
+      "is_send": 0,
+      "sender_name": "小羊羔子",
+      "sender_wxid": "wxid_hgr05763i8vz22"
+    },
+    {
+      "create_time": 1765811182,
+      "formatted_time": "2025-12-15 23:06:22",
+      "type": "文本消息",
+      "str_content": "hello？",
+      "is_send": 0,
+      "sender_name": "小羊羔子",
+      "sender_wxid": "wxid_hgr05763i8vz22"
+    },
+    {
+      "create_time": 1765815670,
+      "formatted_time": "2025-12-16 00:21:10",
+      "type": "文本消息",
+      "str_content": "@小羊羔子 有什么问题？",
+      "is_send": 0,
+      "sender_name": "奇奇",
+      "sender_wxid": "wxid_h74qdogns9zt22"
+    },
+    {
+      "create_time": 1765815684,
+      "formatted_time": "2025-12-16 00:21:24",
+      "type": "文本消息",
+      "str_content": "发模型发报错",
+      "is_send": 0,
+      "sender_name": "奇奇",
+      "sender_wxid": "wxid_h74qdogns9zt22"
+    },
+    {
+      "create_time": 1765816656,
+      "formatted_time": "2025-12-16 00:37:36",
+      "type": "文本消息",
+      "str_content": "网站是不是炸了",
+      "is_send": 0,
+      "sender_name": "朦尘",
+      "sender_wxid": "wxid_nioyeb18dz9022"
+    },
+    {
+      "create_time": 1765816657,
+      "formatted_time": "2025-12-16 00:37:37",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "朦尘",
+      "sender_wxid": "wxid_nioyeb18dz9022"
+    },
+    {
+      "create_time": 1765816946,
+      "formatted_time": "2025-12-16 00:42:26",
+      "type": "文本消息",
+      "str_content": "调接口没响应，但是后台显示模型有输出了",
+      "is_send": 0,
+      "sender_name": "ユ",
+      "sender_wxid": "wxid_filfqdahlz7y22"
+    },
+    {
+      "create_time": 1765864519,
+      "formatted_time": "2025-12-16 13:55:19",
+      "type": "文本消息",
+      "str_content": "网站是崩了吗 调接口报错  官网也登录不上了",
+      "is_send": 0,
+      "sender_name": "款",
+      "sender_wxid": "wxid_wo7kgcrobi1621"
+    },
+    {
+      "create_time": 1765864549,
+      "formatted_time": "2025-12-16 13:55:49",
+      "type": "文本消息",
+      "str_content": "\"[undefined]\"",
+      "is_send": 0,
+      "sender_name": "款",
+      "sender_wxid": "wxid_wo7kgcrobi1621"
+    },
+    {
+      "create_time": 1765864931,
+      "formatted_time": "2025-12-16 14:02:11",
+      "type": "文本消息",
+      "str_content": "@款 什么接口",
+      "is_send": 0,
+      "sender_name": "奇奇",
+      "sender_wxid": "wxid_h74qdogns9zt22"
+    },
+    {
+      "create_time": 1765864933,
+      "formatted_time": "2025-12-16 14:02:13",
+      "type": "文本消息",
+      "str_content": "次数：https://api2.onechats.ai/\n额度全模型：https://chatapi.onechats.ai/\n香港：https://api.onechats.cn\n查询地址：https://query.onechats.top",
+      "is_send": 0,
+      "sender_name": "奇奇",
+      "sender_wxid": "wxid_h74qdogns9zt22"
+    },
+    {
+      "create_time": 1765865030,
+      "formatted_time": "2025-12-16 14:03:50",
+      "type": "文本消息",
+      "str_content": "gpt-4.1-mini",
+      "is_send": 0,
+      "sender_name": "款",
+      "sender_wxid": "wxid_wo7kgcrobi1621"
+    },
+    {
+      "create_time": 1765865070,
+      "formatted_time": "2025-12-16 14:04:30",
+      "type": "文本消息",
+      "str_content": "在cherry里，报错AI_APICallError\n    at file:///F:/Cherry%20studio/resources/app.asar/out/renderer/assets/dist-gixTQuVo.js:5146:11\n    at async postToApi (file:///F:/Cherry%20studio/resources/app.asar/out/renderer/assets/dist-gixTQuVo.js:5028:24)\n    at async OpenAICompatibleChatLanguageModel$1.doStream (file:///F:/Cherry%20studio/resources/app.asar/out/renderer/assets/store-Dy89cVhB.js:243247:48)\n    at async fn (file:///F:/Cherry%20studio/resources/app.asar/out/renderer/assets/store-Dy89cVhB.js:36943:17)\n    at async file:///F:/Cherry%20studio/resources/app.asar/out/renderer/assets/store-Dy89cVhB.js:34321:19\n    at async _retryWithExponentialBackoff (file:///F:/Cherry%20studio/resources/app.asar/out/renderer/assets/store-Dy89cVhB.js:34423:10)\n    at async streamStep (file:///F:/Cherry%20studio/resources/app.asar/out/renderer/assets/store-Dy89cVhB.js:36911:108)\n    at async fn (file:///F:/Cherry%20studio/resources/app.asar/out/renderer/assets/store-Dy89cVhB.js:37190:5)\n    at async file:///F:/Cherry%20studio/resources/app.asar/out/renderer/assets/store-Dy89cVhB.js:34321:19",
+      "is_send": 0,
+      "sender_name": "款",
+      "sender_wxid": "wxid_wo7kgcrobi1621"
+    },
+    {
+      "create_time": 1765865347,
+      "formatted_time": "2025-12-16 14:09:07",
+      "type": "图片消息",
+      "str_content": "[图片消息]",
+      "is_send": 0,
+      "sender_name": "款",
+      "sender_wxid": "wxid_wo7kgcrobi1621"
+    },
+    {
+      "create_time": 1765865350,
+      "formatted_time": "2025-12-16 14:09:10",
+      "type": "文本消息",
+      "str_content": "这里检测也是失败",
+      "is_send": 0,
+      "sender_name": "款",
+      "sender_wxid": "wxid_wo7kgcrobi1621"
+    },
+    {
+      "create_time": 1765865359,
+      "formatted_time": "2025-12-16 14:09:19",
+      "type": "文本消息",
+      "str_content": "https://chatapi.onechats.ai/",
+      "is_send": 0,
+      "sender_name": "奇奇",
+      "sender_wxid": "wxid_h74qdogns9zt22"
+    },
+    {
+      "create_time": 1765865361,
+      "formatted_time": "2025-12-16 14:09:21",
+      "type": "文本消息",
+      "str_content": "换成这个",
+      "is_send": 0,
+      "sender_name": "奇奇",
+      "sender_wxid": "wxid_h74qdogns9zt22"
+    },
+    {
+      "create_time": 1765865362,
+      "formatted_time": "2025-12-16 14:09:22",
+      "type": "文本消息",
+      "str_content": "@款",
+      "is_send": 0,
+      "sender_name": "奇奇",
+      "sender_wxid": "wxid_h74qdogns9zt22"
+    },
+    {
+      "create_time": 1765865389,
+      "formatted_time": "2025-12-16 14:09:49",
+      "type": "文本消息",
+      "str_content": "斜杠去掉",
+      "is_send": 0,
+      "sender_name": "奇奇",
+      "sender_wxid": "wxid_h74qdogns9zt22"
+    },
+    {
+      "create_time": 1765865396,
+      "formatted_time": "2025-12-16 14:09:56",
+      "type": "文本消息",
+      "str_content": "好了",
+      "is_send": 0,
+      "sender_name": "款",
+      "sender_wxid": "wxid_wo7kgcrobi1621"
+    },
+    {
+      "create_time": 1765868046,
+      "formatted_time": "2025-12-16 14:54:06",
+      "type": "拍一拍消息",
+      "str_content": "[拍一拍]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765890358,
+      "formatted_time": "2025-12-16 21:05:58",
+      "type": "文本消息",
+      "str_content": "网站炸了",
+      "is_send": 0,
+      "sender_name": "朦尘",
+      "sender_wxid": "wxid_nioyeb18dz9022"
+    },
+    {
+      "create_time": 1765890359,
+      "formatted_time": "2025-12-16 21:05:59",
+      "type": "动画表情",
+      "str_content": "[表情消息]",
+      "is_send": 0,
+      "sender_name": "朦尘",
+      "sender_wxid": "wxid_nioyeb18dz9022"
+    },
+    {
+      "create_time": 1765890963,
+      "formatted_time": "2025-12-16 21:16:03",
+      "type": "拍一拍消息",
+      "str_content": "[拍一拍]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765891173,
+      "formatted_time": "2025-12-16 21:19:33",
+      "type": "文本消息",
+      "str_content": "xiaosiyiduo:\n用不了啦",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765891270,
+      "formatted_time": "2025-12-16 21:21:10",
+      "type": "文本消息",
+      "str_content": "没事了",
+      "is_send": 0,
+      "sender_name": "Kairo丶",
+      "sender_wxid": "wxid_3fpcfbiiipso22"
+    },
+    {
+      "create_time": 1765891416,
+      "formatted_time": "2025-12-16 21:23:36",
+      "type": "文本消息",
+      "str_content": "xiaosiyiduo:\n嗷嗷 好了",
+      "is_send": 0
     }
   ],
-  "export_time": "2025-12-15T00:08:28+08:00",
-  "message_count": 7988
+  "export_time": "2025-12-16T22:45:46+08:00",
+  "message_count": 8027
 }

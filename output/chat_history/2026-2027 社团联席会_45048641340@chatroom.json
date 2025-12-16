@@ -78,8 +78,22 @@
       "type": "系统消息",
       "str_content": "[系统消息]",
       "is_send": 0
+    },
+    {
+      "create_time": 1765802731,
+      "formatted_time": "2025-12-15 20:45:31",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765802876,
+      "formatted_time": "2025-12-15 20:47:56",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
     }
   ],
-  "export_time": "2025-12-15T00:08:17+08:00",
-  "message_count": 11
+  "export_time": "2025-12-16T22:45:34+08:00",
+  "message_count": 13
 }

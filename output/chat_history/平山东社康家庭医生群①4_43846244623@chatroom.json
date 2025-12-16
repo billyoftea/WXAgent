@@ -1155,8 +1155,135 @@
       "is_send": 0,
       "sender_name": "蔡雨婷",
       "sender_wxid": "25984981862549218@openim"
+    },
+    {
+      "create_time": 1765762124,
+      "formatted_time": "2025-12-15 09:28:44",
+      "type": "文本消息",
+      "str_content": "请问有活血止痛的膏药吗？",
+      "is_send": 0,
+      "sender_name": "water",
+      "sender_wxid": "wxid_lxv9golzir6922"
+    },
+    {
+      "create_time": 1765763555,
+      "formatted_time": "2025-12-15 09:52:35",
+      "type": "引用消息",
+      "str_content": "有的",
+      "is_send": 0,
+      "sender_name": "唯一",
+      "sender_wxid": "wxid_dmnt9mtabyyk22"
+    },
+    {
+      "create_time": 1765763809,
+      "formatted_time": "2025-12-15 09:56:49",
+      "type": "文本消息",
+      "str_content": "可以用医保吗",
+      "is_send": 0,
+      "sender_name": "water",
+      "sender_wxid": "wxid_lxv9golzir6922"
+    },
+    {
+      "create_time": 1765763826,
+      "formatted_time": "2025-12-15 09:57:06",
+      "type": "引用消息",
+      "str_content": "可以的",
+      "is_send": 0,
+      "sender_name": "唯一",
+      "sender_wxid": "wxid_dmnt9mtabyyk22"
+    },
+    {
+      "create_time": 1765763837,
+      "formatted_time": "2025-12-15 09:57:17",
+      "type": "文本消息",
+      "str_content": "好的，谢谢",
+      "is_send": 0,
+      "sender_name": "water",
+      "sender_wxid": "wxid_lxv9golzir6922"
+    },
+    {
+      "create_time": 1765856572,
+      "formatted_time": "2025-12-16 11:42:52",
+      "type": "系统消息",
+      "str_content": "[系统消息]",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765856580,
+      "formatted_time": "2025-12-16 11:43:00",
+      "type": "文本消息",
+      "str_content": "牙科医生在群里吗",
+      "is_send": 0,
+      "sender_name": "飞翔小橘子",
+      "sender_wxid": "wxid_8md43ob1vdsh12"
+    },
+    {
+      "create_time": 1765859373,
+      "formatted_time": "2025-12-16 12:29:33",
+      "type": "文本消息",
+      "str_content": "请问，药房进了＜银杏叶滴丸＞吗？",
+      "is_send": 0,
+      "sender_name": "桃之夭夭",
+      "sender_wxid": "wxid_wt0vzpx7mcxr12"
+    },
+    {
+      "create_time": 1765859451,
+      "formatted_time": "2025-12-16 12:30:51",
+      "type": "文本消息",
+      "str_content": "YaYa_5354:\n@桃之夭夭 有货，今日有空可以过来开",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765859463,
+      "formatted_time": "2025-12-16 12:31:03",
+      "type": "文本消息",
+      "str_content": "YaYa_5354:\n@左全中",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765859512,
+      "formatted_time": "2025-12-16 12:31:52",
+      "type": "文本消息",
+      "str_content": "好的，谢谢！我今明两天有事，周四我过来",
+      "is_send": 0,
+      "sender_name": "桃之夭夭",
+      "sender_wxid": "wxid_wt0vzpx7mcxr12"
+    },
+    {
+      "create_time": 1765860869,
+      "formatted_time": "2025-12-16 12:54:29",
+      "type": "文本消息",
+      "str_content": "补牙完多久可以吃东西啊",
+      "is_send": 0,
+      "sender_name": "飞翔小橘子",
+      "sender_wxid": "wxid_8md43ob1vdsh12"
+    },
+    {
+      "create_time": 1765867021,
+      "formatted_time": "2025-12-16 14:37:01",
+      "type": "文本消息",
+      "str_content": "zuoquanzhong:\n补树脂，补完就可以吃",
+      "is_send": 0
+    },
+    {
+      "create_time": 1765867114,
+      "formatted_time": "2025-12-16 14:38:34",
+      "type": "文本消息",
+      "str_content": "社康也可以补牙吗？如何预约",
+      "is_send": 0,
+      "sender_name": "周茹",
+      "sender_wxid": "wxid_zndxl5ecm7i121"
+    },
+    {
+      "create_time": 1765868341,
+      "formatted_time": "2025-12-16 14:59:01",
+      "type": "文本消息",
+      "str_content": "社康通小程序可以挂号",
+      "is_send": 0,
+      "sender_name": "渔火๑",
+      "sender_wxid": "wxid_xwjspdqsavir12"
     }
   ],
-  "export_time": "2025-12-15T00:08:18+08:00",
-  "message_count": 148
+  "export_time": "2025-12-16T22:45:35+08:00",
+  "message_count": 163
 }
