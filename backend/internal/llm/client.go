@@ -29,6 +29,15 @@ func NewClient(cfg config.LLMConfig) *Client {
 	}
 }
 
+// sanitizeAPIKey removes whitespace/control characters that would make the
+// Authorization header invalid on some providers.
+func sanitizeAPIKey(key string) string {
+	clean := strings.TrimSpace(key)
+	clean = strings.ReplaceAll(clean, "\r", "")
+	clean = strings.ReplaceAll(clean, "\n", "")
+	return clean
+}
+
 type ChatMessage struct {
 	Role    string `json:"role"`
 	Content string `json:"content"`
@@ -87,7 +96,9 @@ func (c *Client) ChatCompletionStream(ctx context.Context, messages []ChatMessag
 	}
 
 	req.Header.Set("Content-Type", "application/json")
-	req.Header.Set("Authorization", "Bearer "+c.cfg.APIKey)
+	if apiKey := sanitizeAPIKey(c.cfg.APIKey); apiKey != "" {
+		req.Header.Set("Authorization", "Bearer "+apiKey)
+	}
 	req.Header.Set("Accept", "text/event-stream")
 
 	resp, err := c.client.Do(req)
@@ -181,7 +192,9 @@ func (c *Client) ChatCompletionWithCallback(ctx context.Context, messages []Chat
 	}
 
 	req.Header.Set("Content-Type", "application/json")
-	req.Header.Set("Authorization", "Bearer "+c.cfg.APIKey)
+	if apiKey := sanitizeAPIKey(c.cfg.APIKey); apiKey != "" {
+		req.Header.Set("Authorization", "Bearer "+apiKey)
+	}
 	req.Header.Set("Accept", "text/event-stream")
 
 	resp, err := c.client.Do(req)

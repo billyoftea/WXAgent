@@ -329,6 +329,23 @@ func (p *Pipeline) ExportAuto(wechatDir, startDate, endDate string) error {
 
 	fmt.Printf("✓ Using database key: %s...\n", keyPayload.DbKey[:16])
 
+	wechatDir = strings.TrimSpace(wechatDir)
+	if wechatDir != "" {
+		resolved, err := p.resolveWeChatDataDir(wechatDir)
+		if err != nil {
+			return fmt.Errorf("invalid --wechat-dir %s: %w", wechatDir, err)
+		}
+		wechatDir = resolved
+	} else if strings.TrimSpace(p.Config.WeChatDataPath) != "" {
+		configured := strings.TrimSpace(p.Config.WeChatDataPath)
+		resolved, err := p.resolveWeChatDataDir(configured)
+		if err != nil {
+			fmt.Printf("⚠️ Configured wechat_data_path invalid (%s): %v\n", configured, err)
+		} else {
+			wechatDir = resolved
+		}
+	}
+
 	// 自动检测微信数据目录
 	if wechatDir == "" {
 		wechatDir, err = p.detectWeChatDataDir()
@@ -359,6 +376,72 @@ func (p *Pipeline) ExportAuto(wechatDir, startDate, endDate string) error {
 	return nil
 }
 
+func (p *Pipeline) resolveWeChatDataDir(input string) (string, error) {
+	trimmed := strings.TrimSpace(input)
+	if trimmed == "" {
+		return "", fmt.Errorf("wechat directory is empty")
+	}
+
+	path := expandHome(trimmed)
+	if !filepath.IsAbs(path) {
+		base := strings.TrimSpace(p.Config.ConfigPath)
+		if base != "" {
+			path = filepath.Join(filepath.Dir(base), path)
+		}
+	}
+	path = filepath.Clean(path)
+
+	stat, err := os.Stat(path)
+	if err != nil {
+		return "", fmt.Errorf("stat %s: %w", path, err)
+	}
+	if !stat.IsDir() {
+		return "", fmt.Errorf("not a directory: %s", path)
+	}
+
+	// If the user already selected an account directory, it will contain db_storage.
+	dbStoragePath := filepath.Join(path, "db_storage")
+	if stat, err := os.Stat(dbStoragePath); err == nil && stat.IsDir() {
+		return path, nil
+	}
+
+	// Otherwise treat it as a base directory (e.g. xwechat_files / WeChat Files) and locate an account folder.
+	entries, err := os.ReadDir(path)
+	if err != nil {
+		return "", fmt.Errorf("read directory %s: %w", path, err)
+	}
+	for _, entry := range entries {
+		if !entry.IsDir() {
+			continue
+		}
+
+		accountName := entry.Name()
+		if accountName == "All Users" || accountName == "Applet" {
+			continue
+		}
+
+		accountDir := filepath.Join(path, accountName)
+		dbStoragePath := filepath.Join(accountDir, "db_storage")
+		if stat, err := os.Stat(dbStoragePath); err == nil && stat.IsDir() {
+			return accountDir, nil
+		}
+	}
+
+	return "", fmt.Errorf("no WeChat account directory found under %s (expected <account>\\\\db_storage)", path)
+}
+
+func expandHome(path string) string {
+	if path == "" || path[0] != '~' {
+		return path
+	}
+	home, err := os.UserHomeDir()
+	if err != nil {
+		return path
+	}
+	trimmed := strings.TrimPrefix(path, "~")
+	return filepath.Join(home, trimmed)
+}
+
 func (p *Pipeline) detectWeChatDataDir() (string, error) {
 	userHome, err := os.UserHomeDir()
 	if err != nil {
@@ -367,8 +450,12 @@ func (p *Pipeline) detectWeChatDataDir() (string, error) {
 
 	// 微信数据可能的位置
 	possiblePaths := []string{
+		// 常见路径0: <User>\\xwechat_files (新版微信，用户可能改到用户目录根下)
+		filepath.Join(userHome, "xwechat_files"),
 		// 常见路径1: Documents\xwechat_files (新版微信)
 		filepath.Join(userHome, "Documents", "xwechat_files"),
+		// 常见路径1b: <User>\\WeChat Files (旧版微信，用户可能改到用户目录根下)
+		filepath.Join(userHome, "WeChat Files"),
 		// 常见路径2: Documents\WeChat Files (旧版微信)
 		filepath.Join(userHome, "Documents", "WeChat Files"),
 		// 常见路径3: AppData\Local\WeChat\WeChat Files
@@ -380,40 +467,16 @@ func (p *Pipeline) detectWeChatDataDir() (string, error) {
 	for _, basePath := range possiblePaths {
 		fmt.Printf("  Checking: %s\n", basePath)
 
-		if _, err := os.Stat(basePath); os.IsNotExist(err) {
-			continue
-		}
-
-		// 扫描该目录下的账号文件夹
-		entries, err := os.ReadDir(basePath)
+		wechatDir, err := p.resolveWeChatDataDir(basePath)
 		if err != nil {
 			continue
 		}
-
-		for _, entry := range entries {
-			if !entry.IsDir() {
-				continue
-			}
-
-			accountName := entry.Name()
-
-			// 跳过系统文件夹
-			if accountName == "All Users" || accountName == "Applet" {
-				continue
-			}
-
-			// 检查是否包含 db_storage 目录
-			dbStoragePath := filepath.Join(basePath, accountName, "db_storage")
-			if stat, err := os.Stat(dbStoragePath); err == nil && stat.IsDir() {
-				fullPath := filepath.Join(basePath, accountName)
-				fmt.Printf("  ✓ Found: %s\n", fullPath)
-				return fullPath, nil
-			}
-		}
+		fmt.Printf("  ✓ Found: %s\n", wechatDir)
+		return wechatDir, nil
 	}
 
-	return "", fmt.Errorf("WeChat data directory not found. Please specify with --wechat-dir.\n\nTried locations:\n  - %s\n  - %s\n  - %s",
-		possiblePaths[0], possiblePaths[1], possiblePaths[2])
+	return "", fmt.Errorf("WeChat data directory not found. Please specify with --wechat-dir.\n\nTried locations:\n  - %s",
+		strings.Join(possiblePaths, "\n  - "))
 }
 
 func (p *Pipeline) AnalyzeChat(startDate, endDate string, sessionNames []string, maxTokens int, outputFile string, chunkPrompt, finalPrompt string) (*analyzer.AnalyzeResult, error) {
@@ -611,6 +674,7 @@ func (p *Pipeline) GetConfig() map[string]any {
 	return map[string]any{
 		"path": p.Config.ConfigPath,
 		"data": map[string]any{
+			"wechat_data_path":    p.Config.WeChatDataPath,
 			"export_dir":          p.Config.ExportDir,
 			"summary_output":      p.Config.SummaryOutput,
 			"summary_history_dir": p.Config.SummaryHistoryDir,
@@ -619,6 +683,12 @@ func (p *Pipeline) GetConfig() map[string]any {
 				"base_url": p.Config.LLM.BaseURL,
 				"model":    p.Config.LLM.Model,
 				"api_key":  p.Config.LLM.APIKey,
+				"temperature": func() float64 {
+					if p.Config.LLM.Temperature == 0 {
+						return 0.7
+					}
+					return p.Config.LLM.Temperature
+				}(),
 			},
 		},
 	}
@@ -627,14 +697,20 @@ func (p *Pipeline) GetConfig() map[string]any {
 func (p *Pipeline) UpdateConfig(values map[string]any) (map[string]any, error) {
 	// Update configuration values
 	// This is a simplified implementation - you may want to add validation
+	if v, ok := values["wechat_data_path"].(string); ok {
+		p.Config.WeChatDataPath = p.resolvePathRelativeToConfig(v)
+	}
 	if v, ok := values["export_dir"].(string); ok {
-		p.Config.ExportDir = v
+		p.Config.ExportDir = p.resolvePathRelativeToConfig(v)
 	}
 	if v, ok := values["summary_output"].(string); ok {
-		p.Config.SummaryOutput = v
+		p.Config.SummaryOutput = p.resolvePathRelativeToConfig(v)
 	}
 	if v, ok := values["summary_history_dir"].(string); ok {
-		p.Config.SummaryHistoryDir = v
+		p.Config.SummaryHistoryDir = p.resolvePathRelativeToConfig(v)
+	}
+	if v, ok := values["state_file"].(string); ok {
+		p.Config.StateFile = p.resolvePathRelativeToConfig(v)
 	}
 
 	// Update LLM config
@@ -648,15 +724,84 @@ func (p *Pipeline) UpdateConfig(values map[string]any) (map[string]any, error) {
 		if v, ok := llmData["api_key"].(string); ok {
 			p.Config.LLM.APIKey = v
 		}
+		if v, ok := llmData["temperature"].(float64); ok {
+			p.Config.LLM.Temperature = v
+		}
+		if v, ok := llmData["timeout"].(float64); ok {
+			p.Config.LLM.Timeout = time.Duration(v) * time.Second
+		}
 	}
 
-	// Note: Not saving to file in this implementation
-	// You would need to implement proper config file writing
+	if err := p.saveConfigToFile(values); err != nil {
+		return nil, err
+	}
 
 	return map[string]any{
 		"status":  "success",
-		"message": "Configuration updated (in-memory only)",
+		"message": "Configuration updated",
 	}, nil
+}
+
+func (p *Pipeline) resolvePathRelativeToConfig(input string) string {
+	trimmed := strings.TrimSpace(input)
+	if trimmed == "" {
+		return ""
+	}
+	path := expandHome(trimmed)
+	if filepath.IsAbs(path) {
+		return filepath.Clean(path)
+	}
+	base := strings.TrimSpace(p.Config.ConfigPath)
+	if base == "" {
+		return filepath.Clean(path)
+	}
+	return filepath.Clean(filepath.Join(filepath.Dir(base), path))
+}
+
+func (p *Pipeline) saveConfigToFile(values map[string]any) error {
+	if strings.TrimSpace(p.Config.ConfigPath) == "" {
+		return fmt.Errorf("no config path set")
+	}
+
+	raw, err := os.ReadFile(p.Config.ConfigPath)
+	if err != nil {
+		return fmt.Errorf("read config %s: %w", p.Config.ConfigPath, err)
+	}
+
+	var data map[string]any
+	if err := json.Unmarshal(raw, &data); err != nil {
+		return fmt.Errorf("parse config %s: %w", p.Config.ConfigPath, err)
+	}
+
+	for key, value := range values {
+		if key == "llm" {
+			updates, ok := value.(map[string]any)
+			if !ok {
+				continue
+			}
+			existing, _ := data["llm"].(map[string]any)
+			if existing == nil {
+				existing = map[string]any{}
+				data["llm"] = existing
+			}
+			for nestedKey, nestedValue := range updates {
+				existing[nestedKey] = nestedValue
+			}
+			continue
+		}
+		data[key] = value
+	}
+
+	encoded, err := json.MarshalIndent(data, "", "  ")
+	if err != nil {
+		return fmt.Errorf("marshal config: %w", err)
+	}
+	encoded = append(encoded, '\n')
+
+	if err := os.WriteFile(p.Config.ConfigPath, encoded, 0644); err != nil {
+		return fmt.Errorf("write config %s: %w", p.Config.ConfigPath, err)
+	}
+	return nil
 }
 
 func (p *Pipeline) ReloadConfig() (map[string]any, error) {

@@ -244,6 +244,7 @@ class AppController extends ChangeNotifier {
         executable.path,
         args,
         workingDirectory: executable.parent.path,
+        mode: ProcessStartMode.detached,
       );
       _backendProcess = process;
       _managesBackend = true;
@@ -352,9 +353,16 @@ class WxAgentHome extends StatelessWidget {
               children: [
                 const BackendStatusBanner(),
                 Expanded(
-                  child: AnimatedSwitcher(
-                    duration: const Duration(milliseconds: 300),
-                    child: _buildPage(nav.page, controller),
+                  child: IndexedStack(
+                    index: nav.page.index,
+                    children: [
+                      WelcomePage(controller: controller),
+                      KeyAcquisitionPage(controller: controller),
+                      ChatDataPage(controller: controller),
+                      AnalysisPage(controller: controller),
+                      SummaryPage(controller: controller),
+                      SettingsPage(controller: controller),
+                    ],
                   ),
                 ),
               ],
@@ -363,23 +371,6 @@ class WxAgentHome extends StatelessWidget {
         ],
       ),
     );
-  }
-
-  Widget _buildPage(WxAgentPage page, AppController controller) {
-    switch (page) {
-      case WxAgentPage.welcome:
-        return WelcomePage(controller: controller);
-      case WxAgentPage.key:
-        return KeyAcquisitionPage(controller: controller);
-      case WxAgentPage.data:
-        return ChatDataPage(controller: controller);
-      case WxAgentPage.analysis:
-        return AnalysisPage(controller: controller);
-      case WxAgentPage.summary:
-        return SummaryPage(controller: controller);
-      case WxAgentPage.settings:
-        return SettingsPage(controller: controller);
-    }
   }
 }
 
@@ -535,7 +526,7 @@ const _navItems = [
   _NavItem(WxAgentPage.data, Icons.folder_zip_rounded, '聊天读取与导出', '解密与导出管理'),
   _NavItem(WxAgentPage.analysis, Icons.insights_rounded, '聊天记录分析', '多维度统计'),
   _NavItem(WxAgentPage.summary, Icons.auto_awesome, '聊天记录 AI 总结', '提示词与历史结果'),
-  _NavItem(WxAgentPage.settings, Icons.settings_rounded, '设置', '路径与大模型配置'),
+  _NavItem(WxAgentPage.settings, Icons.settings_rounded, '设置', '大模型配置'),
 ];
 
 class BackendStatusBanner extends StatelessWidget {

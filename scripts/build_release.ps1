@@ -25,10 +25,58 @@ $FrontendDir = Join-Path $RepoRoot "frontend"
 $LauncherDir = Join-Path $RepoRoot "launcher"
 $DistDir = Join-Path $RepoRoot $OutputDir
 
+function Stop-ProcessesFromDirectory([string]$Dir) {
+    # 关闭正在使用旧发布目录的进程，避免 Windows 文件锁导致清理失败。
+    if (-not (Test-Path $Dir)) { return }
+    $resolved = (Resolve-Path $Dir -ErrorAction Stop).Path
+
+    $targets = @()
+    try {
+        $targets = Get-CimInstance Win32_Process | Where-Object {
+            $_.ExecutablePath -and $_.ExecutablePath.StartsWith($resolved, [System.StringComparison]::OrdinalIgnoreCase)
+        }
+    }
+    catch {
+        return
+    }
+
+    foreach ($proc in $targets) {
+        try {
+            Write-Host "Stopping process: $($proc.Name) (PID $($proc.ProcessId))" -ForegroundColor Yellow
+            Stop-Process -Id $proc.ProcessId -Force -ErrorAction SilentlyContinue
+        }
+        catch {
+            # ignore
+        }
+    }
+}
+
+function Remove-DirectoryRobust([string]$Dir) {
+    # 多次尝试删除目录；第一次失败后先清理占用该目录的进程。
+    if (-not (Test-Path $Dir)) { return }
+
+    $maxAttempts = 3
+    for ($attempt = 1; $attempt -le $maxAttempts; $attempt++) {
+        try {
+            Remove-Item $Dir -Recurse -Force -ErrorAction Stop
+            return
+        }
+        catch {
+            if ($attempt -eq 1) {
+                Stop-ProcessesFromDirectory $Dir
+            }
+            Start-Sleep -Milliseconds (400 * $attempt)
+        }
+    }
+
+    # Last try, surface the original error to the user.
+    Remove-Item $Dir -Recurse -Force -ErrorAction Stop
+}
+
 # Clean output directory
 if (Test-Path $DistDir) {
     Write-Host "Cleaning old output directory..." -ForegroundColor Yellow
-    Remove-Item $DistDir -Recurse -Force
+    Remove-DirectoryRobust $DistDir
 }
 New-Item -ItemType Directory -Force -Path $DistDir | Out-Null
 
@@ -38,19 +86,36 @@ New-Item -ItemType Directory -Force -Path $DistDir | Out-Null
 Write-Host ""
 Write-Host "==== [1/4] Building Backend (Go) ====" -ForegroundColor Green
 
+$DistBackendDir = Join-Path $DistDir "backend"
+New-Item -ItemType Directory -Force -Path $DistBackendDir | Out-Null
+
 Push-Location $BackendDir
 try {
     Write-Host "Compiling backend..."
-    go build -ldflags="-s -w" -o wxagent_backend.exe ./cmd/wxagent_backend
+    $DistBackendExe = Join-Path $DistBackendDir "wxagent_backend.exe"
+    go build -ldflags="-s -w" -o $DistBackendExe ./cmd/wxagent_backend
     if ($LASTEXITCODE -ne 0) { throw "Go build failed" }
-    
-    Copy-Item "wxagent_backend.exe" $DistDir -Force
+
     Write-Host "[OK] Backend compiled" -ForegroundColor Green
     
-    # Copy config file
-    if (Test-Path "config.json") {
-        Copy-Item "config.json" (Join-Path $DistDir "config.json") -Force
-        Write-Host "[OK] Config file copied" -ForegroundColor Green
+    # Copy config file (prefer release-safe template)
+    $ConfigCandidates = @(
+        (Join-Path $BackendDir "config.release.json"),
+        (Join-Path $BackendDir "config.json")
+    )
+
+    $Copied = $false
+    foreach ($Candidate in $ConfigCandidates) {
+        if (Test-Path $Candidate) {
+            Copy-Item $Candidate (Join-Path $DistDir "config.json") -Force
+            Write-Host "[OK] Config file copied: $Candidate" -ForegroundColor Green
+            $Copied = $true
+            break
+        }
+    }
+
+    if (-not $Copied) {
+        Write-Host "[WARN] No config.json found to copy" -ForegroundColor Yellow
     }
 }
 finally {
@@ -62,6 +127,9 @@ finally {
 # ============================================
 Write-Host ""
 Write-Host "==== [2/4] Building Frontend (Flutter) ====" -ForegroundColor Green
+
+$DistFrontendDir = Join-Path $DistDir "frontend"
+New-Item -ItemType Directory -Force -Path $DistFrontendDir | Out-Null
 
 Push-Location $FrontendDir
 try {
@@ -79,7 +147,7 @@ try {
         $FlutterBuildDir = Join-Path $FrontendDir "build\windows\runner\$Configuration"
     }
     
-    Copy-Item "$FlutterBuildDir\*" $DistDir -Recurse -Force
+    Copy-Item "$FlutterBuildDir\*" $DistFrontendDir -Recurse -Force
     Write-Host "[OK] Frontend built" -ForegroundColor Green
 }
 finally {
@@ -96,10 +164,10 @@ if (Test-Path $LauncherDir) {
     Push-Location $LauncherDir
     try {
         Write-Host "Compiling launcher..."
-        go build -ldflags="-s -w -H=windowsgui" -o WXAgent.exe .
+        $LauncherExe = Join-Path $DistDir "WXAgent.exe"
+        go build -ldflags="-s -w -H=windowsgui" -o $LauncherExe .
         if ($LASTEXITCODE -ne 0) { throw "Launcher build failed" }
-        
-        Copy-Item "WXAgent.exe" $DistDir -Force
+
         Write-Host "[OK] Launcher compiled" -ForegroundColor Green
     }
     finally {
@@ -119,18 +187,107 @@ Write-Host "==== [4/4] Copying Modules ====" -ForegroundColor Green
 $ModulesDir = Join-Path $RepoRoot "modules"
 $DistModulesDir = Join-Path $DistDir "modules"
 
+function Get-FlutterBuildMode([string]$Config) {
+    # 将脚本的构建配置转换成 flutter build windows 可识别的模式参数。
+    if ([string]::IsNullOrWhiteSpace($Config)) { return "--release" }
+    switch ($Config.Trim().ToLowerInvariant()) {
+        "debug" { return "--debug" }
+        "profile" { return "--profile" }
+        default { return "--release" }
+    }
+}
+
+function Build-FlutterModule([string]$ModuleDir, [string]$Name, [string]$FlutterMode) {
+    # 构建 Flutter 子模块，发布目录只复制构建结果，源码目录中的 build 缓存由 .gitignore 管控。
+    if (-not (Test-Path $ModuleDir)) {
+        Write-Host "[WARN] $Name module directory not found: $ModuleDir" -ForegroundColor Yellow
+        return $false
+    }
+
+    Write-Host "Building $Name module ($FlutterMode)..." -ForegroundColor Cyan
+    Push-Location $ModuleDir
+    try {
+        flutter pub get
+        if ($LASTEXITCODE -ne 0) { throw "${Name}: flutter pub get failed" }
+
+        flutter build windows $FlutterMode
+        if ($LASTEXITCODE -ne 0) { throw "${Name}: flutter build windows failed" }
+    }
+    finally {
+        Pop-Location
+    }
+
+    return $true
+}
+
+function Build-GoDecryptDll([string]$ModuleDir, [string]$Name) {
+    # EchoTrace 的数据库解密依赖 Go FFI DLL，这里先生成 DLL，再交给 Flutter Windows 打包复制。
+    $GoDecryptDir = Join-Path $ModuleDir "go_decrypt"
+    if (-not (Test-Path $GoDecryptDir)) {
+        return
+    }
+
+    $OutputDll = Join-Path $ModuleDir "windows\runner\go_decrypt.dll"
+    Write-Host "Building $Name Go decrypt DLL..." -ForegroundColor Cyan
+
+    $OldCGO = $env:CGO_ENABLED
+    $OldGOOS = $env:GOOS
+    $OldGOARCH = $env:GOARCH
+    $OldCGOLDFLAGS = $env:CGO_LDFLAGS
+
+    Push-Location $GoDecryptDir
+    try {
+        $env:CGO_ENABLED = "1"
+        $env:GOOS = "windows"
+        $env:GOARCH = "amd64"
+        $env:CGO_LDFLAGS = "-static -static-libgcc -static-libstdc++"
+
+        go build -buildmode=c-shared -ldflags="-s -w" -o $OutputDll main.go
+        if ($LASTEXITCODE -ne 0) { throw "${Name}: go_decrypt DLL build failed" }
+    }
+    finally {
+        $env:CGO_ENABLED = $OldCGO
+        $env:GOOS = $OldGOOS
+        $env:GOARCH = $OldGOARCH
+        $env:CGO_LDFLAGS = $OldCGOLDFLAGS
+        Pop-Location
+    }
+}
+
+function Copy-FlutterBuildOutput([string]$BuildRoot, [string]$DestDir, [string]$Config) {
+    # 复制 Flutter Windows 的运行目录；不同 Flutter 版本输出路径略有差异，所以按候选路径查找。
+    $Candidates = @(
+        (Join-Path $BuildRoot "build\\windows\\x64\\runner\\$Config"),
+        (Join-Path $BuildRoot "build\\windows\\runner\\$Config"),
+        (Join-Path $BuildRoot "build\\windows\\x64\\runner\\Release"),
+        (Join-Path $BuildRoot "build\\windows\\x64\\runner\\Debug"),
+        (Join-Path $BuildRoot "build\\windows\\runner\\Release"),
+        (Join-Path $BuildRoot "build\\windows\\runner\\Debug")
+    ) | Where-Object { $_ -and (Test-Path $_) } | Select-Object -Unique
+
+    foreach ($Dir in $Candidates) {
+        Copy-Item "$Dir\\*" $DestDir -Recurse -Force
+        Write-Host "[OK] Module copied from: $Dir" -ForegroundColor Green
+        return $true
+    }
+
+    return $false
+}
+
 if (Test-Path $ModulesDir) {
     New-Item -ItemType Directory -Force -Path $DistModulesDir | Out-Null
+    $FlutterMode = Get-FlutterBuildMode $Configuration
     
     $EchotraceDir = Join-Path $ModulesDir "echotrace"
     if (Test-Path $EchotraceDir) {
         $EchotraceDist = Join-Path $DistModulesDir "echotrace"
         New-Item -ItemType Directory -Force -Path $EchotraceDist | Out-Null
-        
-        $EchoBuildDir = Join-Path $EchotraceDir "build\windows\x64\runner\$Configuration"
-        if (Test-Path $EchoBuildDir) {
-            Copy-Item "$EchoBuildDir\*" $EchotraceDist -Recurse -Force
-            Write-Host "[OK] Echotrace copied" -ForegroundColor Green
+
+        # Ensure module is built before copying.
+        Build-GoDecryptDll -ModuleDir $EchotraceDir -Name "Echotrace"
+        Build-FlutterModule -ModuleDir $EchotraceDir -Name "Echotrace" -FlutterMode $FlutterMode | Out-Null
+        if (-not (Copy-FlutterBuildOutput -BuildRoot $EchotraceDir -DestDir $EchotraceDist -Config $Configuration)) {
+            throw "Echotrace build output not found (expected build/windows/.../$Configuration)"
         }
     }
     
@@ -138,11 +295,11 @@ if (Test-Path $ModulesDir) {
     if (Test-Path $WxKeyDir) {
         $WxKeyDist = Join-Path $DistModulesDir "wx_key"
         New-Item -ItemType Directory -Force -Path $WxKeyDist | Out-Null
-        
-        $WxKeyBuildDir = Join-Path $WxKeyDir "build\windows\x64\runner\$Configuration"
-        if (Test-Path $WxKeyBuildDir) {
-            Copy-Item "$WxKeyBuildDir\*" $WxKeyDist -Recurse -Force
-            Write-Host "[OK] WxKey copied" -ForegroundColor Green
+
+        # Ensure module is built before copying.
+        Build-FlutterModule -ModuleDir $WxKeyDir -Name "WxKey" -FlutterMode $FlutterMode | Out-Null
+        if (-not (Copy-FlutterBuildOutput -BuildRoot $WxKeyDir -DestDir $WxKeyDist -Config $Configuration)) {
+            throw "WxKey build output not found (expected build/windows/.../$Configuration)"
         }
     }
 }
@@ -167,6 +324,6 @@ Write-Host ""
 Write-Host "Usage:" -ForegroundColor Cyan
 Write-Host "  1. Double-click WXAgent.exe (launches backend + frontend)"
 Write-Host "  2. Or run separately:"
-Write-Host "     - wxagent_backend.exe serve --port=8080"
-Write-Host "     - wx_agent_app.exe"
+Write-Host "     - backend\\wxagent_backend.exe server --port=8000"
+Write-Host "     - frontend\\wx_agent_app.exe"
 Write-Host ""

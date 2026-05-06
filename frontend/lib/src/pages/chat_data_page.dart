@@ -4,6 +4,7 @@ import 'dart:io';
 import 'package:file_selector/file_selector.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
+import 'package:path/path.dart' as p;
 import 'package:url_launcher/url_launcher.dart';
 
 import '../app.dart';
@@ -54,7 +55,6 @@ class _ChatDataPageState extends State<ChatDataPage> {
   void initState() {
     super.initState();
     _loadData();
-    _loadSessionPool();
   }
 
   @override
@@ -127,8 +127,11 @@ class _ChatDataPageState extends State<ChatDataPage> {
       }
       final sep = Platform.pathSeparator;
       final candidates = [
+        '$homeDir${sep}xwechat_files',
         '$homeDir${sep}Documents${sep}xwechat_files',
+        '$homeDir${sep}WeChat Files',
         '$homeDir${sep}Documents${sep}WeChat Files',
+        '$homeDir${sep}AppData${sep}Local${sep}WeChat${sep}WeChat Files',
       ];
       for (final base in candidates) {
         final dir = Directory(base);
@@ -193,23 +196,36 @@ class _ChatDataPageState extends State<ChatDataPage> {
   Future<void> _openFile(String? path) async {
     if (path == null || path.isEmpty) return;
 
-    // 如果是相对路径（只有文件名），则拼接导出目录
+    final exportDir = _exportDirCtrl.text.trim();
+
+    // 优先使用绝对路径；否则尝试基于导出目录拼接
     String fullPath = path;
-    if (!path.contains(Platform.pathSeparator) &&
-        !path.contains('/') &&
-        !path.contains('\\')) {
-      final exportDir = _exportDirCtrl.text;
-      if (exportDir.isNotEmpty) {
-        fullPath = '$exportDir${Platform.pathSeparator}$path';
+    if (!p.isAbsolute(fullPath) && exportDir.isNotEmpty) {
+      fullPath = p.normalize(p.join(exportDir, fullPath));
+    }
+
+    // 如果仍不存在，再尝试 export_dir/chat_history 下的文件
+    if (!File(fullPath).existsSync() &&
+        exportDir.isNotEmpty &&
+        !p.isAbsolute(path)) {
+      final candidate = p.normalize(p.join(exportDir, 'chat_history', path));
+      if (File(candidate).existsSync()) {
+        fullPath = candidate;
       }
     }
 
-    // 使用 Process.run 直接打开文件，避免 URL 编码问题
+    // Windows: 直接用默认应用打开文件；其他平台仍用 URL 方案
     if (Platform.isWindows) {
-      await Process.run('explorer.exe', ['/select,', fullPath]);
-    } else {
-      await launchUrl(Uri.file(fullPath));
+      await Process.run('powershell', [
+        '-NoProfile',
+        '-Command',
+        'Start-Process',
+        fullPath,
+      ]);
+      return;
     }
+
+    await launchUrl(Uri.file(fullPath));
   }
 
   Future<void> _loadSessionPool() async {
@@ -732,7 +748,7 @@ class _ChatDataPageState extends State<ChatDataPage> {
       children: [
         SectionCard(
           title: '聊天数据源配置',
-          subtitle: '指向微信本地数据目录和导出目录，WXAgent 会根据路径直接读取数据库。',
+          subtitle: '指向微信本地数据目录和导出目录，WXAgent 会根据路径直接读取数据库。如果自动检测微信数据路径失败，请根据微信设置中的xwechat_files路径手动选择。如C:\\Users\\用户名\\xwechat_files。',
           actions: [
             TextButton.icon(
               onPressed: _loading ? null : _loadData,
@@ -929,57 +945,10 @@ class _ChatDataPageState extends State<ChatDataPage> {
             ],
           ),
         ),
-        SectionCard(
-          title: '导出会话列表',
-          subtitle: '展示当前导出目录中的会话、消息数量，可快速跳转查看 JSON。',
-          child: _buildSessionTable(),
-        ),
-        SectionCard(
-          title: '会话筛选与自定义导出',
-          subtitle: '在 WXAgent 中直接完成会话筛选、时间过滤和导出格式选择，无需再切换其他应用。',
-          child: _buildManualExportPanel(),
-        ),
       ],
     );
   }
 
-  Widget _buildSessionTable() {
-    if (_loading) {
-      return const Center(child: CircularProgressIndicator());
-    }
-    if (_sessions.isEmpty) {
-      return const Padding(
-        padding: EdgeInsets.symmetric(vertical: 24),
-        child: Center(child: Text('尚未检测到导出的会话，请先执行一次导出。')),
-      );
-    }
-    return SingleChildScrollView(
-      scrollDirection: Axis.horizontal,
-      child: DataTable(
-        columns: const [
-          DataColumn(label: Text('会话')),
-          DataColumn(label: Text('类别')),
-          DataColumn(label: Text('消息数')),
-          DataColumn(label: Text('操作')),
-        ],
-        rows: _sessions.map((session) {
-          return DataRow(
-            cells: [
-              DataCell(Text(session.displayName)),
-              DataCell(Text(session.category ?? session.sessionType ?? '--')),
-              DataCell(Text('${session.messages}')),
-              DataCell(
-                TextButton(
-                  onPressed: () => _openFile(session.file),
-                  child: const Text('打开 JSON'),
-                ),
-              ),
-            ],
-          );
-        }).toList(),
-      ),
-    );
-  }
 }
 
 class _PathField extends StatelessWidget {

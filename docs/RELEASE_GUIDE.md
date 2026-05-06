@@ -78,11 +78,13 @@ go build -ldflags="-s -w -H=windowsgui" -o WXAgent.exe .
 ```
 release/
 ├── WXAgent.exe              # 启动器 (双击即可启动)
-├── wxagent_backend.exe      # 后端服务
-├── wx_agent_app.exe         # 前端 Flutter 应用
-├── flutter_windows.dll      # Flutter 运行时
-├── data/                    # Flutter 资源
 ├── config.json              # 配置文件
+├── backend/
+│   └── wxagent_backend.exe   # 后端服务
+├── frontend/
+│   ├── wx_agent_app.exe      # 前端 Flutter 应用
+│   ├── flutter_windows.dll   # Flutter 运行时
+│   └── data/                 # Flutter 资源
 └── modules/                 # 子模块
     ├── echotrace/          # 数据导出工具
     └── wx_key/             # 密钥获取工具
@@ -93,7 +95,7 @@ release/
 ### 推荐方式：使用启动器
 
 双击 `WXAgent.exe`，将自动：
-1. 启动后端服务 (端口 8080)
+1. 启动后端服务 (端口 8000)
 2. 启动前端界面
 
 关闭前端窗口时，后端服务也会自动关闭。
@@ -114,10 +116,10 @@ WXAgent.exe [选项]
 
 ```bash
 # 启动后端
-wxagent_backend.exe serve --port=8080
+backend/wxagent_backend.exe server --port=8000
 
 # 启动前端 (新窗口)
-wx_agent_app.exe
+frontend/wx_agent_app.exe
 ```
 
 ## 配置文件
@@ -127,13 +129,25 @@ wx_agent_app.exe
 ```json
 {
   "export_dir": "./output",
-  "summary_output": "./output/summary.md",
+  "summary_output": "./output/summary_result.md",
   "summary_history_dir": "./output/history",
-  "llm_base_url": "https://api.example.com/v1",
-  "llm_api_key": "your-api-key",
-  "llm_model": "gpt-4",
-  "echotrace_path": "./modules/echotrace/echotrace.exe",
-  "wx_key_path": "./modules/wx_key/wx_key.exe"
+  "state_file": "./output/.wx_agent_state.json",
+  "wx_key_shared_prefs": "~/AppData/Roaming/com.example/wx_key/shared_preferences.json",
+  "wx_key_command": {
+    "path": "./modules/wx_key/wx_key.exe",
+    "cwd": "./modules/wx_key"
+  },
+  "echotrace_command": {
+    "path": "./modules/echotrace/echotrace.exe",
+    "cwd": "./modules/echotrace"
+  },
+  "llm": {
+    "base_url": "https://api.example.com/v1",
+    "api_key": "your-api-key",
+    "model": "gpt-4",
+    "temperature": 0.7,
+    "timeout": 120
+  }
 }
 ```
 
@@ -141,17 +155,17 @@ wx_agent_app.exe
 
 ### Q: 启动时提示找不到 DLL
 
-确保 `flutter_windows.dll` 和 `data/` 目录与 `wx_agent_app.exe` 在同一目录。
+确保 `frontend/flutter_windows.dll` 和 `frontend/data/` 目录与 `frontend/wx_agent_app.exe` 在同一目录。
 
 ### Q: 后端无法启动
 
-1. 检查端口 8080 是否被占用
+1. 检查端口 8000 是否被占用
 2. 检查 `config.json` 配置是否正确
 
 ### Q: 前端显示 "连接失败"
 
 1. 确认后端已启动
-2. 检查前端配置的 API 地址是否正确 (默认 http://localhost:8080)
+2. 检查前端配置的 API 地址是否正确 (默认 http://localhost:8000)
 
 ## 发布清单
 

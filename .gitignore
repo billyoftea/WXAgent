@@ -1,0 +1,57 @@
+# Local editor and tool state
+.claude/
+.vs/
+.vscode/
+.idea/
+*.iml
+
+# Flutter and Dart generated files
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/build/
+**/windows/flutter/ephemeral/
+**/linux/flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+**/ios/Flutter/ephemeral/
+
+# Go/C++/Windows build output
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.pch
+*.idb
+*.tlog
+*.recipe
+*.exp
+*.log
+*.vsidx
+*.wsuo
+*.suo
+*.vcxproj.user
+*.lastbuildstate
+*.lnk
+**/x64/Debug/
+**/x64/Release/
+**/build_o/
+
+# Keep required checked-in runtime assets
+!modules/wx_key/assets/dll/wx_key.dll
+
+# Generated app output and release packages
+output/
+release/
+dist/
+*.rar
+*.zip
+
+# Local secrets and machine-specific config
+.env
+.env.*
+*.local.json
+backend/config.local.json
+
+# Misc scratch artifacts
+-session

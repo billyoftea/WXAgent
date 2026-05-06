@@ -26,9 +26,10 @@ class _WelcomePageState extends State<WelcomePage> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              _buildIntroBullet('仅用于查看/分析自己的聊天记录，所有数据留在本地。'),
-              _buildIntroBullet('支持增量导出，避免重复操作。'),
+              _buildIntroBullet('仅用于查看/分析自己的聊天记录。读取与导出功能仅在本地完成。'),
+              _buildIntroBullet('在未获得用户授权时，不会导出任何数据，也不会上传到任何服务器。'),
               _buildIntroBullet('分析视图展示高频会话和活跃成员。'),
+              _buildIntroBullet('使用大语言模型总结聊天记录时，请确保已经了解相关隐私和安全风险。'),
               _buildIntroBullet('AI 总结可用默认或自定义提示词，生成 Markdown 报告。'),
             ],
           ),
@@ -69,11 +70,11 @@ class _WelcomePageState extends State<WelcomePage> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: const [
-              Text('· WXAgent 仅供个人本地分析，请勿用于未获授权的数据。'),
+              Text('· WXAgent 仅供提升个人效率和聊天记录留档，请勿用于未获授权的数据。'),
               SizedBox(height: 8),
-              Text('· 所有敏感处理均在本地完成，使用前请确保遵守所在地法律法规。'),
+              Text('· 请勿将个人隐私、敏感数据上传到LLM服务商，以免造成隐私泄露风险。'),
               SizedBox(height: 8),
-              Text('· 如遇问题，可在设置页导出日志或联系维护者。'),
+              Text('· 请勿使用本软件进行任何违法违规活动。'),
             ],
           ),
         ),

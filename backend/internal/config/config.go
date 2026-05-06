@@ -171,6 +171,7 @@ func (c CommandSpec) Exec(baseDir string) string {
 // PipelineConfig is the strongly typed configuration consumed by the Go backend.
 type PipelineConfig struct {
 	ConfigPath        string
+	WeChatDataPath    string
 	ExportDir         string
 	SummaryOutput     string
 	SummaryHistoryDir string
@@ -232,6 +233,7 @@ func LoadPipeline(path string) (*PipelineConfig, error) {
 		summaryHistory = filepath.Join(base, "summary_history")
 	}
 	stateFile := getPath("state_file", "../.wx_agent_state.json")
+	wechatDataPath := getPath("wechat_data_path", "")
 	wxKeyPrefs := getPath("wx_key_shared_prefs", "~/AppData/Roaming/com.example/wx_key/shared_preferences.json")
 
 	wxKeyCmd := parseCommand(raw, raw.data["wx_key_command"], CommandSpec{Path: "wx_agent/bin/wx_key/wx_key.exe", Cwd: dir})
@@ -239,6 +241,7 @@ func LoadPipeline(path string) (*PipelineConfig, error) {
 
 	cfg := &PipelineConfig{
 		ConfigPath:        raw.Path,
+		WeChatDataPath:    wechatDataPath,
 		ExportDir:         exportDir,
 		SummaryOutput:     summaryOutput,
 		SummaryHistoryDir: summaryHistory,

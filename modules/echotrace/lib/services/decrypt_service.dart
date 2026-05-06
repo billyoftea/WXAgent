@@ -4,8 +4,6 @@ import 'go_decrypt_ffi.dart';
 
 /// 解密服务（使用 Go FFI 实现）
 ///
-/// 原 Dart 实现已备份为 decrypt_service_dart_backup.dart
-///
 /// 性能对比（100MB 数据库）：
 /// - 原 Dart 版本：15-20秒，内存占用 ~200MB
 /// - Go 版本：5-8秒，内存占用 ~50MB

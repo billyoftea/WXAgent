@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'dart:async';
+
 import 'package:flutter/rendering.dart' show ScrollDirection;
 import 'package:flutter/services.dart';
 import 'package:intl/intl.dart';
@@ -6,6 +8,7 @@ import 'package:url_launcher/url_launcher.dart';
 
 import '../app.dart';
 import '../models/models.dart';
+import '../services/wx_agent_api.dart' show StreamEvent;
 import '../widgets/page_container.dart';
 import '../widgets/section_card.dart';
 
@@ -18,7 +21,9 @@ class SummaryPage extends StatefulWidget {
   State<SummaryPage> createState() => _SummaryPageState();
 }
 
-class _SummaryPageState extends State<SummaryPage> {
+class _SummaryPageState extends State<SummaryPage>
+    with AutomaticKeepAliveClientMixin {
+  static const String _friendlyApiConfigError = 'api错误，请先到设置页面配置并保存好ai接口';
   static const String _defaultChunkPrompt = '''
 请分别总结以下微信群聊天记录的主要内容和讨论话题。
 注意：以下文本包含来自不同群聊的消息，每个群聊用【群聊：群名】的格式标记，请按群聊分别总结。
@@ -69,6 +74,8 @@ class _SummaryPageState extends State<SummaryPage> {
   int _currentStep = 0;
   int _totalSteps = 6;
   bool _userScrolling = false;
+  StreamSubscription<StreamEvent>? _summarySub;
+  bool _cancelled = false;
 
   List<SummaryHistoryEntry> _history = const [];
   SummaryHistoryEntry? _selectedHistory;
@@ -79,12 +86,14 @@ class _SummaryPageState extends State<SummaryPage> {
     super.initState();
     _chunkPromptCtrl.text = _defaultChunkPrompt;
     _finalPromptCtrl.text = _defaultFinalPrompt;
+    _setDefaultDateRange();
     _loadSessions();
     _loadHistory();
   }
 
   @override
   void dispose() {
+    _summarySub?.cancel();
     _chunkPromptCtrl.dispose();
     _finalPromptCtrl.dispose();
     _streamScrollCtrl.dispose();
@@ -117,6 +126,14 @@ class _SummaryPageState extends State<SummaryPage> {
         _endDate = null;
       }
     });
+  }
+
+  void _setDefaultDateRange() {
+    if (_startDate != null || _endDate != null) return;
+    final now = DateTime.now();
+    final formatter = DateFormat('yyyy-MM-dd');
+    _startDate = formatter.format(now.subtract(const Duration(days: 2)));
+    _endDate = formatter.format(now);
   }
 
   Future<void> _loadSessions() async {
@@ -184,6 +201,9 @@ class _SummaryPageState extends State<SummaryPage> {
   }
 
   Future<void> _runSummary() async {
+    await _summarySub?.cancel();
+    _summarySub = null;
+
     if (_useCustomPrompt) {
       final chunk = _chunkPromptCtrl.text;
       final finalPrompt = _finalPromptCtrl.text;
@@ -201,8 +221,14 @@ class _SummaryPageState extends State<SummaryPage> {
         return;
       }
     }
+
+    // 如果 AI 接口未配置，直接给出更友好的提示，避免把底层 401/鉴权错误抛到 UI。
+    final configured = await _ensureAiConfigured();
+    if (!configured) return;
+
     setState(() {
       _running = true;
+      _cancelled = false;
       _error = null;
       _totalMessages = null;
       _totalSessions = null;
@@ -217,84 +243,168 @@ class _SummaryPageState extends State<SummaryPage> {
       _userScrolling = false;
     });
 
+    String finalContent = '';
+
     try {
-      String finalContent = '';
-      await for (final event in widget.controller.api.runSummaryStream(
+      final stream = widget.controller.api.runSummaryStream(
         startDate: _startDate,
         endDate: _endDate,
         sessions: _selectedSessions.isEmpty ? null : _selectedSessions.toList(),
         chunkPrompt: _useCustomPrompt ? _chunkPromptCtrl.text : null,
         finalPrompt: _useCustomPrompt ? _finalPromptCtrl.text : null,
-      )) {
-        if (!mounted) return;
-        switch (event.type) {
-          case 'log':
-            setState(() {
-              if (event.content.isNotEmpty) {
-                _streamLog += '${event.content}\n';
-              }
-              _currentStep = event.step ?? _currentStep;
-              _totalSteps = event.total ?? _totalSteps;
-            });
-            _scrollToBottom();
-            break;
-          case 'ai_chunk':
-            setState(() {
-              _streamAiOutput += event.content;
-              _currentStep = event.step ?? _currentStep;
-            });
-            _scrollToBottom();
-            break;
-          case 'progress':
-            setState(() {
-              _currentStep = event.step ?? _currentStep;
-              _totalSteps = event.total ?? _totalSteps;
-            });
-            break;
-          case 'error':
-            setState(() {
-              _error = event.content.isNotEmpty
+      );
+
+      _summarySub = stream.listen(
+        (event) {
+          if (!mounted) return;
+          switch (event.type) {
+            case 'log':
+              setState(() {
+                if (event.content.isNotEmpty) {
+                  _streamLog += '${event.content}\n';
+                }
+                _currentStep = event.step ?? _currentStep;
+                _totalSteps = event.total ?? _totalSteps;
+              });
+              _scrollToBottom();
+              break;
+            case 'ai_chunk':
+              setState(() {
+                _streamAiOutput += event.content;
+                _currentStep = event.step ?? _currentStep;
+              });
+              _scrollToBottom();
+              break;
+            case 'progress':
+              setState(() {
+                _currentStep = event.step ?? _currentStep;
+                _totalSteps = event.total ?? _totalSteps;
+              });
+              break;
+            case 'error':
+              final raw = event.content.isNotEmpty
                   ? event.content
                   : event.payload?['message']?.toString();
-            });
-            return;
-          case 'result':
-            setState(() {
-              finalContent = event.content.isNotEmpty
-                  ? event.content
-                  : _streamAiOutput;
-              final payload = event.payload ?? const {};
-              _summaryPath = payload['output_path'] as String? ?? _summaryPath;
-              _totalMessages = _asInt(payload['total_messages']);
-              _totalSessions = _asInt(payload['total_sessions']);
-              _chunkCount = _asInt(payload['chunk_count']);
-              _summaryMode = payload['mode'] as String? ?? _summaryMode;
-            });
-            break;
-          default:
-            break;
+              setState(() {
+                _error = _formatError(raw);
+              });
+              _cancelled = true;
+              unawaited(_summarySub?.cancel());
+              break;
+            case 'result':
+              setState(() {
+                finalContent = event.content.isNotEmpty
+                    ? event.content
+                    : _streamAiOutput;
+                final payload = event.payload ?? const {};
+                _summaryPath = payload['output_path'] as String? ?? _summaryPath;
+                _totalMessages = _asInt(payload['total_messages']);
+                _totalSessions = _asInt(payload['total_sessions']);
+                _chunkCount = _asInt(payload['chunk_count']);
+                _summaryMode = payload['mode'] as String? ?? _summaryMode;
+              });
+              break;
+            default:
+              break;
+          }
+        },
+        onError: (err, _) {
+          if (!mounted) return;
+          setState(() {
+            _error = _formatError(err.toString());
+          });
+        },
+        cancelOnError: true,
+      );
+
+      await _summarySub!.asFuture<void>();
+
+      if (!_cancelled && mounted && _error == null) {
+        setState(() {
+          _resultContent = finalContent.isNotEmpty
+              ? finalContent
+              : _streamAiOutput;
+          _summaryMode = _summaryMode ?? 'merged';
+        });
+
+        await _loadHistory();
+        if (mounted) {
+          ScaffoldMessenger.of(
+            context,
+          ).showSnackBar(const SnackBar(content: Text('总结完成')));
         }
       }
-
-      setState(() {
-        _resultContent = finalContent.isNotEmpty
-            ? finalContent
-            : _streamAiOutput;
-        _summaryMode = _summaryMode ?? 'merged';
-      });
-
-      await _loadHistory();
-      if (!mounted) return;
-      ScaffoldMessenger.of(
-        context,
-      ).showSnackBar(const SnackBar(content: Text('总结完成')));
     } catch (err) {
-      setState(() => _error = err.toString());
+      if (mounted) {
+        setState(() => _error = _formatError(err.toString()));
+      }
     } finally {
+      _summarySub = null;
       if (mounted) {
         setState(() => _running = false);
       }
     }
+  }
+
+  Future<void> _stopSummary() async {
+    _cancelled = true;
+    await _summarySub?.cancel();
+    _summarySub = null;
+    if (mounted) {
+      setState(() => _running = false);
+    }
+  }
+
+  Future<bool> _ensureAiConfigured() async {
+    try {
+      final resp = await widget.controller.api.fetchConfig();
+      final data =
+          (resp['data'] as Map?)?.cast<String, dynamic>() ?? const {};
+      final llm = (data['llm'] as Map?)?.cast<String, dynamic>() ?? const {};
+      final apiKey = (llm['api_key'] as String?)?.trim() ?? '';
+      final baseUrl = (llm['base_url'] as String?)?.trim() ?? '';
+
+      // 本地 OpenAI-compat 服务（如 localhost）可能无需 key；其它情况未配置 key 直接提示。
+      if (apiKey.isEmpty && !_isLocalBaseUrl(baseUrl)) {
+        if (!mounted) return false;
+        setState(() => _error = _friendlyApiConfigError);
+        return false;
+      }
+    } catch (_) {
+      // 配置读取失败时不阻断流程，让后续请求自然报错并由 _formatError 兜底。
+    }
+    return true;
+  }
+
+  bool _isLocalBaseUrl(String baseUrl) {
+    if (baseUrl.trim().isEmpty) return false;
+    final uri = Uri.tryParse(baseUrl.trim());
+    if (uri == null) return false;
+    final host = uri.host.toLowerCase();
+    return host == 'localhost' ||
+        host == '127.0.0.1' ||
+        host == '0.0.0.0' ||
+        host == '::1';
+  }
+
+  String _formatError(String? raw) {
+    final msg = (raw ?? '').trim();
+    if (msg.isEmpty) return msg;
+
+    final lower = msg.toLowerCase();
+    final looksLikeAuthError =
+        lower.contains('status 401') ||
+        lower.contains('status 403') ||
+        lower.contains('unauthorized') ||
+        lower.contains('authentication fails') ||
+        lower.contains('invalid api key') ||
+        (lower.contains('auth header') && lower.contains('bearer'));
+
+    if (looksLikeAuthError) {
+      return _friendlyApiConfigError;
+    }
+
+    return msg;
   }
 
   int? _asInt(dynamic value) {
@@ -438,7 +548,11 @@ class _SummaryPageState extends State<SummaryPage> {
   }
 
   @override
+  bool get wantKeepAlive => true;
+
+  @override
   Widget build(BuildContext context) {
+    super.build(context);
     SummaryHistoryEntry? validSelectedHistory;
     if (_selectedHistory != null) {
       for (final item in _history) {
@@ -451,7 +565,7 @@ class _SummaryPageState extends State<SummaryPage> {
 
     return PageContainer(
       title: '聊天记录 AI 总结',
-      subtitle: '对导出的聊天记录生成 Markdown 报告，可使用默认提示词或自定义分段/最终提示词。',
+      subtitle: '对导出的聊天记录生成 Markdown 报告，可使用默认提示词或自定义分段/最终提示词。在第一次使用本功能前，请先在设置页面配置好 AI 接口。',
       children: [
         SectionCard(
           title: '筛选与提示词',
@@ -512,7 +626,7 @@ class _SummaryPageState extends State<SummaryPage> {
               ),
               const SizedBox(height: 8),
               Text(
-                '不选择会话时将汇总全部可用聊天记录。',
+                '不选择会话时将汇总全部可用聊天记录。默认使用近三天的聊天记录。',
                 style: TextStyle(color: Colors.grey.shade600, fontSize: 12),
               ),
               const SizedBox(height: 16),
@@ -579,19 +693,29 @@ class _SummaryPageState extends State<SummaryPage> {
                 Text(_error!, style: const TextStyle(color: Colors.redAccent)),
               ],
               const SizedBox(height: 12),
-              ElevatedButton.icon(
-                onPressed: _running ? null : _runSummary,
-                icon: _running
-                    ? const SizedBox(
-                        width: 18,
-                        height: 18,
-                        child: CircularProgressIndicator(
-                          strokeWidth: 2,
-                          valueColor: AlwaysStoppedAnimation(Colors.white),
-                        ),
-                      )
-                    : const Icon(Icons.auto_awesome),
-                label: const Text('开始总结'),
+              Row(
+                children: [
+                  ElevatedButton.icon(
+                    onPressed: _running ? null : _runSummary,
+                    icon: _running
+                        ? const SizedBox(
+                            width: 18,
+                            height: 18,
+                            child: CircularProgressIndicator(
+                              strokeWidth: 2,
+                              valueColor: AlwaysStoppedAnimation(Colors.white),
+                            ),
+                          )
+                        : const Icon(Icons.auto_awesome),
+                    label: const Text('开始总结'),
+                  ),
+                  const SizedBox(width: 8),
+                  OutlinedButton.icon(
+                    onPressed: _running ? _stopSummary : null,
+                    icon: const Icon(Icons.stop),
+                    label: const Text('停止总结'),
+                  ),
+                ],
               ),
             ],
           ),
@@ -743,6 +867,15 @@ class _SummaryPageState extends State<SummaryPage> {
                               ),
                             ),
                             const Spacer(),
+                            if (_running)
+                              TextButton.icon(
+                                onPressed: _stopSummary,
+                                style: TextButton.styleFrom(
+                                  foregroundColor: Colors.orangeAccent,
+                                ),
+                                icon: const Icon(Icons.stop_circle, size: 16),
+                                label: const Text('停止'),
+                              ),
                             if (!_running &&
                                 (_streamLog.isNotEmpty ||
                                     _streamAiOutput.isNotEmpty))

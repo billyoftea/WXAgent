@@ -42,21 +42,32 @@ func main() {
 
 	// 启动后端
 	if !*frontendOnly {
-		backendPath := filepath.Join(baseDir, "wxagent_backend.exe")
-		if _, err := os.Stat(backendPath); os.IsNotExist(err) {
-			// 尝试其他可能的路径
-			backendPath = filepath.Join(baseDir, "backend", "wxagent_backend.exe")
-		}
-		if _, err := os.Stat(backendPath); os.IsNotExist(err) {
-			backendPath = filepath.Join(baseDir, "wx_agent.exe")
+		backendCandidates := []string{
+			filepath.Join(baseDir, "backend", "wxagent_backend.exe"),
+			filepath.Join(baseDir, "backend", "wx_agent_backend.exe"),
+			filepath.Join(baseDir, "wxagent_backend.exe"),
+			filepath.Join(baseDir, "wx_agent_backend.exe"),
+			filepath.Join(baseDir, "wx_agent.exe"),
 		}
 
-		if _, err := os.Stat(backendPath); os.IsNotExist(err) {
-			log.Printf("⚠️  警告: 未找到后端程序，尝试的路径: %s\n", backendPath)
+		var backendPath string
+		for _, candidate := range backendCandidates {
+			if _, err := os.Stat(candidate); err == nil {
+				backendPath = candidate
+				break
+			}
+		}
+
+		if backendPath == "" {
+			log.Printf("⚠️  警告: 未找到后端程序，已尝试以下路径:\n")
+			for _, candidate := range backendCandidates {
+				log.Printf("  - %s\n", candidate)
+			}
 		} else {
 			fmt.Printf("🚀 启动后端: %s\n", backendPath)
 			backendCmd = exec.Command(backendPath, "server", fmt.Sprintf("--port=%d", *backendPort))
 			backendCmd.Dir = baseDir
+			configureBackendProcess(backendCmd, *showConsole)
 
 			if *showConsole {
 				backendCmd.Stdout = os.Stdout
@@ -78,8 +89,8 @@ func main() {
 	if !*backendOnly {
 		// 尝试多个可能的前端路径
 		frontendPaths := []string{
-			filepath.Join(baseDir, "wx_agent_app.exe"),
 			filepath.Join(baseDir, "frontend", "wx_agent_app.exe"),
+			filepath.Join(baseDir, "wx_agent_app.exe"),
 			filepath.Join(baseDir, "bin", "wx_agent_app", "wx_agent_app.exe"),
 		}
 

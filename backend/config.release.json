@@ -1,17 +1,17 @@
 {
-  "export_dir": "../output",
-  "summary_output": "../output/summary_result.md",
-  "summary_history_dir": "../output/history",
-  "state_file": "../output/.wx_agent_state.json",
+  "export_dir": "./output",
+  "summary_output": "./output/summary_result.md",
+  "summary_history_dir": "./output/history",
+  "state_file": "./output/.wx_agent_state.json",
   "wechat_data_path": "",
   "wx_key_shared_prefs": "~/AppData/Roaming/com.example/wx_key/shared_preferences.json",
   "wx_key_command": {
-    "path": "../modules/wx_key/build/windows/x64/runner/Debug/wx_key.exe",
-    "cwd": "../modules/wx_key"
+    "path": "./modules/wx_key/wx_key.exe",
+    "cwd": "./modules/wx_key"
   },
   "echotrace_command": {
-    "path": "../modules/echotrace/build/windows/x64/runner/Debug/echotrace.exe",
-    "cwd": "../modules/echotrace"
+    "path": "./modules/echotrace/echotrace.exe",
+    "cwd": "./modules/echotrace"
   },
   "custom_questions": [
     "今天有哪些重要的事情？",

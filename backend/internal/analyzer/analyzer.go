@@ -167,7 +167,7 @@ func (a *Analyzer) Analyze(ctx context.Context, opts AnalyzeOptions) (*AnalyzeRe
 		lb.Log("  [调试] 切片内容已保存到: %s", chunksFile)
 	}
 
-	lb.Log("\n🤖 Step 4: 逐段调用DeepSeek进行总结...")
+	lb.Log("\n🤖 Step 4: 逐段调用大模型进行总结...")
 	var chunkSummaries []string
 	for i, chunk := range chunks {
 		lb.Log("  处理第 %d/%d 段...", i+1, len(chunks))
@@ -282,7 +282,7 @@ func (a *Analyzer) AnalyzeStream(ctx context.Context, opts AnalyzeOptions, callb
 	logAndSend(3, "✓ 分为 %d 段", len(chunks))
 
 	// Step 4: 逐段总结
-	logAndSend(4, "\n🤖 Step 4: 逐段调用DeepSeek进行总结...")
+	logAndSend(4, "\n🤖 Step 4: 逐段调用LLM进行总结...")
 	var chunkSummaries []string
 	for i, chunk := range chunks {
 		logAndSend(4, "  处理第 %d/%d 段...", i+1, len(chunks))
