@@ -26,7 +26,7 @@ $LauncherDir = Join-Path $RepoRoot "launcher"
 $DistDir = Join-Path $RepoRoot $OutputDir
 
 function Stop-ProcessesFromDirectory([string]$Dir) {
-    # 关闭正在使用旧发布目录的进程，避免 Windows 文件锁导致清理失败。
+    # Stop processes that still hold files under the old release directory.
     if (-not (Test-Path $Dir)) { return }
     $resolved = (Resolve-Path $Dir -ErrorAction Stop).Path
 
@@ -52,7 +52,7 @@ function Stop-ProcessesFromDirectory([string]$Dir) {
 }
 
 function Remove-DirectoryRobust([string]$Dir) {
-    # 多次尝试删除目录；第一次失败后先清理占用该目录的进程。
+    # Retry directory removal and clear locking processes after the first failure.
     if (-not (Test-Path $Dir)) { return }
 
     $maxAttempts = 3
@@ -188,7 +188,7 @@ $ModulesDir = Join-Path $RepoRoot "modules"
 $DistModulesDir = Join-Path $DistDir "modules"
 
 function Get-FlutterBuildMode([string]$Config) {
-    # 将脚本的构建配置转换成 flutter build windows 可识别的模式参数。
+    # Convert script configuration into a flutter build mode flag.
     if ([string]::IsNullOrWhiteSpace($Config)) { return "--release" }
     switch ($Config.Trim().ToLowerInvariant()) {
         "debug" { return "--debug" }
@@ -198,7 +198,7 @@ function Get-FlutterBuildMode([string]$Config) {
 }
 
 function Build-FlutterModule([string]$ModuleDir, [string]$Name, [string]$FlutterMode) {
-    # 构建 Flutter 子模块，发布目录只复制构建结果，源码目录中的 build 缓存由 .gitignore 管控。
+    # Build a Flutter module and copy only generated runtime output into release.
     if (-not (Test-Path $ModuleDir)) {
         Write-Host "[WARN] $Name module directory not found: $ModuleDir" -ForegroundColor Yellow
         return $false
@@ -221,7 +221,7 @@ function Build-FlutterModule([string]$ModuleDir, [string]$Name, [string]$Flutter
 }
 
 function Build-GoDecryptDll([string]$ModuleDir, [string]$Name) {
-    # EchoTrace 的数据库解密依赖 Go FFI DLL，这里先生成 DLL，再交给 Flutter Windows 打包复制。
+    # Build EchoTrace's Go FFI decrypt DLL before Flutter packaging copies it.
     $GoDecryptDir = Join-Path $ModuleDir "go_decrypt"
     if (-not (Test-Path $GoDecryptDir)) {
         return
@@ -255,7 +255,7 @@ function Build-GoDecryptDll([string]$ModuleDir, [string]$Name) {
 }
 
 function Copy-FlutterBuildOutput([string]$BuildRoot, [string]$DestDir, [string]$Config) {
-    # 复制 Flutter Windows 的运行目录；不同 Flutter 版本输出路径略有差异，所以按候选路径查找。
+    # Copy Flutter Windows runtime output across known Flutter output layouts.
     $Candidates = @(
         (Join-Path $BuildRoot "build\\windows\\x64\\runner\\$Config"),
         (Join-Path $BuildRoot "build\\windows\\runner\\$Config"),

@@ -36,6 +36,7 @@
 **/x64/Debug/
 **/x64/Release/
 **/build_o/
+modules/echotrace/windows/runner/go_decrypt.h
 
 # Keep required checked-in runtime assets
 !modules/wx_key/assets/dll/wx_key.dll
